@@ -1,3 +1,6 @@
+# Ignore different zoom levels of screen capture
+zoom/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
