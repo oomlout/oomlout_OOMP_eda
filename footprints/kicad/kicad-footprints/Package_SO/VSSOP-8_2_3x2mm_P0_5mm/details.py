@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "VSSOP-8_2.3x2mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/VSSOP-8_2.3x2mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "VSSOP-8 2.3x2mm Pitch 0.5mm")
 newPart.addTag("kicadTags", "VSSOP-8 2.3x2mm Pitch 0.5mm")

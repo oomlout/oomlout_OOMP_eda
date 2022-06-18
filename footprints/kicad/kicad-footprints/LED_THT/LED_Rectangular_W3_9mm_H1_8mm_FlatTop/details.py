@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_Rectangular_W3.9mm_H1.8mm_FlatTop")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_Rectangular_W3.9mm_H1.8mm_FlatTop")
 
 newPart.addTag("kicadDesc", "LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf")
 newPart.addTag("kicadTags", "LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Littelfuse_395Series")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Littelfuse_395Series")
 
 newPart.addTag("kicadDesc", "Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,")
 newPart.addTag("kicadTags", "Fuse TE5 Littelfuse/Wickmann No. 460 No560")

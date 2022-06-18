@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_Round_D3.0mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_Round_D3.0mm_Vertical")
 
 newPart.addTag("kicadDesc", "Crystal THT C38-LF 8.0mm length 3.0mm diameter")
 newPart.addTag("kicadTags", "['C38-LF']")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Cree-PLCC4_2x2mm_CW")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Cree-PLCC4_2x2mm_CW")
 
 newPart.addTag("kicadDesc", "2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf")
 newPart.addTag("kicadTags", "LED Cree PLCC-4")

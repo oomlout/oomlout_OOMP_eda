@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_OnSemi_SDIP-4L")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_OnSemi_SDIP-4L")
 
 newPart.addTag("kicadDesc", "SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf")
 newPart.addTag("kicadTags", "OnSemi Diode Bridge SDIP-4L")

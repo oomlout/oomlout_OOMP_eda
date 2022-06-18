@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_Tantalum_SMD")
 newPart.addTag("oompIndex", "CP_EIA-7361-438_AVX-U")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-438_AVX-U")
 
 newPart.addTag("kicadDesc", "Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "capacitor tantalum")

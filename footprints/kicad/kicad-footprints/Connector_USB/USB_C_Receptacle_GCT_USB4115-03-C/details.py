@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_GCT_USB4115-03-C")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4115-03-C")
 
 newPart.addTag("kicadDesc", "USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf")
 newPart.addTag("kicadTags", "USB C Type-C Receptacle SMD")

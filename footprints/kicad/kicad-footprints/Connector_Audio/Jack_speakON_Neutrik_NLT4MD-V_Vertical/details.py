@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_speakON_Neutrik_NLT4MD-V_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NLT4MD-V_Vertical")
 
 newPart.addTag("kicadDesc", "STX Series, 4 pole male chassis connector, metal housing, vertical PCB mount,  self tapping screw holes (A-screw), https://www.neutrik.com/en/product/nlt4md-v")
 newPart.addTag("kicadTags", "neutrik speakon stx")

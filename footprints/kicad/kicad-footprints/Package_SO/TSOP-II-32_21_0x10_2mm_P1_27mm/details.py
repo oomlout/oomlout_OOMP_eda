@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSOP-II-32_21.0x10.2mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSOP-II-32_21.0x10.2mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "32-lead plastic TSOP; Type II")
 newPart.addTag("kicadTags", "TSOP-II 32")

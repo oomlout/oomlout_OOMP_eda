@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm")
 
 newPart.addTag("kicadDesc", "ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf")
 newPart.addTag("kicadTags", "BGA 36 0.5")

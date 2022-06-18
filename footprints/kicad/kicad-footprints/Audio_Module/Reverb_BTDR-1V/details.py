@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Audio_Module")
 newPart.addTag("oompIndex", "Reverb_BTDR-1V")
+newPart.addTag("oompName", "kicad-footprints/Audio_Module/Reverb_BTDR-1V")
 
 newPart.addTag("kicadDesc", "Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)")
 newPart.addTag("kicadTags", "audio belton reverb")

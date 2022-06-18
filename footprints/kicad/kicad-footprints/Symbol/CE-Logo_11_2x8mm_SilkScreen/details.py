@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "CE-Logo_11.2x8mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/CE-Logo_11.2x8mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "CE marking")
 newPart.addTag("kicadTags", "Logo CE certification")

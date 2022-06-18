@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_TDK_NLV32_3.2x2.5mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_TDK_NLV32_3.2x2.5mm")
 
 newPart.addTag("kicadDesc", "TDK NLV32, 3.2x2.5x2.2mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf")
 newPart.addTag("kicadTags", "tdk nlv32 nlcv32 nlfv32")

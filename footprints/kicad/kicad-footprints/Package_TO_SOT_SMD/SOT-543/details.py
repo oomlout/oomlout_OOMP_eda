@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-543")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-543")
 
 newPart.addTag("kicadDesc", "SOT-543 4 lead surface package")
 newPart.addTag("kicadTags", "SOT-543 SC-107A EMD4")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Murata_NMAxxxxSC_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_NMAxxxxSC_THT")
 
 newPart.addTag("kicadDesc", "Murata NMAxxxxSC footprint based on SIP7, http://power.murata.com/data/power/ncl/kdc_nma.pdf")
 newPart.addTag("kicadTags", "Murata NMAxxxxSC DCDC-Converter")

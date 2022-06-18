@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "CR2013-MI2120")
+newPart.addTag("oompName", "kicad-footprints/Display/CR2013-MI2120")
 
 newPart.addTag("kicadDesc", "CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990")
 newPart.addTag("kicadTags", "CR2013-MI2120 ILI9341 LCD Breakout")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Audio")
 newPart.addTag("oompIndex", "Infineon_PG-LLGA-5-1")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Audio/Infineon_PG-LLGA-5-1")
 
 newPart.addTag("kicadDesc", "Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/")
 newPart.addTag("kicadTags", "infineon mems microphone")

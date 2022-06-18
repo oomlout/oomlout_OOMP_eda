@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "PQFP-256_28x28mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/PQFP-256_28x28mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "PQFP256 28x28 / QFP256J CASE 122BX (see ON Semiconductor 122BX.PDF)")
 newPart.addTag("kicadTags", "QFP 0.4")

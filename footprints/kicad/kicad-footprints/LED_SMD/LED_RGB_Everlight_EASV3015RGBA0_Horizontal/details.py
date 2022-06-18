@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_RGB_Everlight_EASV3015RGBA0_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_RGB_Everlight_EASV3015RGBA0_Horizontal")
 
 newPart.addTag("kicadDesc", "LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220")
 newPart.addTag("kicadTags", "LED RGB right-angle")

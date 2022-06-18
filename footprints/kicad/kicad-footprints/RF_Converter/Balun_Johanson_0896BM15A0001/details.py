@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Converter")
 newPart.addTag("oompIndex", "Balun_Johanson_0896BM15A0001")
+newPart.addTag("oompName", "kicad-footprints/RF_Converter/Balun_Johanson_0896BM15A0001")
 
 newPart.addTag("kicadDesc", "https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf")
 newPart.addTag("kicadTags", "balun RF")

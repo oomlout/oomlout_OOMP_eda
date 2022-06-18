@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed")
 
 newPart.addTag("kicadDesc", "Fuseholder, 5x20, closed, horizontal, Bulgin, FX0457, Sicherungshalter,")
 newPart.addTag("kicadTags", "Fuseholder 5x20 closed horizontal Bulgin FX0457 Sicherungshalter")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "LCD-016N002L")
+newPart.addTag("oompName", "kicad-footprints/Display/LCD-016N002L")
 
 newPart.addTag("kicadDesc", "16 x 2 Character LCD, http://www.vishay.com/product?docid=37299")
 newPart.addTag("kicadTags", "LCD-016N002L 16 x 2 Character LCD")

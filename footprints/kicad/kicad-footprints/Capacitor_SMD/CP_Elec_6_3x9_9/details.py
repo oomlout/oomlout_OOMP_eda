@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "CP_Elec_6.3x9.9")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/CP_Elec_6.3x9.9")
 
 newPart.addTag("kicadDesc", "SMD capacitor, aluminum electrolytic, Panasonic C10, 6.3x9.9mm")
 newPart.addTag("kicadTags", "capacitor electrolytic")

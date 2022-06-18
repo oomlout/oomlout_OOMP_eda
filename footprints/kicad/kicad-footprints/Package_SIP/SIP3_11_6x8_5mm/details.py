@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "SIP3_11.6x8.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/SIP3_11.6x8.5mm")
 
 newPart.addTag("kicadDesc", "RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf")
 newPart.addTag("kicadTags", "SIP3 Regulator Module")

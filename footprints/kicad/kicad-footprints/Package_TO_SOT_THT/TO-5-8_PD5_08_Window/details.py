@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-5-8_PD5.08_Window")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-5-8_PD5.08_Window")
 
 newPart.addTag("kicadDesc", "TO-5-8_PD5.08_Window, Window")
 newPart.addTag("kicadTags", "TO-5-8_PD5.08_Window Window")

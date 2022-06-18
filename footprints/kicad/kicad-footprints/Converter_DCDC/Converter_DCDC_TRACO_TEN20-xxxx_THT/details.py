@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_TRACO_TEN20-xxxx_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TEN20-xxxx_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter TRACO TEN20 Generic, https://assets.tracopower.com/20171102100522/TEN20/documents/ten20-datasheet.pdf")
 newPart.addTag("kicadTags", "DCDC-Converter TRACO TEN20 Generic")

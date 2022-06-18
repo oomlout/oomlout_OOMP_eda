@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_DIP-8")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_DIP-8")
 
 newPart.addTag("kicadDesc", "Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf")
 newPart.addTag("kicadTags", "oscillator")

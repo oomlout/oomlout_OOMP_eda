@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm")
 
 newPart.addTag("kicadDesc", "UFBGA-32, 6x6, 4x4mm package, pitch 0.5mm")
 newPart.addTag("kicadTags", "UFBGA-32")

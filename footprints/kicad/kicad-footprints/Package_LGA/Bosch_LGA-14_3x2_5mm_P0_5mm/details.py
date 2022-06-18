@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "Bosch_LGA-14_3x2.5mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "LGA-14 Bosch https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf")
 newPart.addTag("kicadTags", "lga land grid array")

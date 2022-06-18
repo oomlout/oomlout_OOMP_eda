@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering")
 
 newPart.addTag("kicadDesc", "Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, hand-soldering, 3.2x2.5mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator hand-soldering")

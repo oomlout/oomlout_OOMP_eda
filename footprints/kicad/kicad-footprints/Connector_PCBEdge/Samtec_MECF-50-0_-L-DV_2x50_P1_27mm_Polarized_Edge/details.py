@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "Samtec_MECF-50-0_-L-DV_2x50_P1.27mm_Polarized_Edge")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-0_-L-DV_2x50_P1.27mm_Polarized_Edge")
 
 newPart.addTag("kicadDesc", "Highspeed card edge connector for PCB's with 50 contacts (polarized)")
 newPart.addTag("kicadTags", "conn samtec card-edge high-speed")

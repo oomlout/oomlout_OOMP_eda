@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Radial_Power_L7.0mm_W8.0mm_Px2.40mm_Py2.30mm")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Radial_Power_L7.0mm_W8.0mm_Px2.40mm_Py2.30mm")
 
 newPart.addTag("kicadDesc", "Resistor, Radial_Power series, Radial, pin pitch=2.40*2.30mm^2, 7W, length*width=7*8mm^2, http://www.vitrohm.com/content/files/vitrohm_series_kv_-_201601.pdf")
 newPart.addTag("kicadTags", "Resistor Radial_Power series Radial pin pitch 2.40*2.30mm^2 7W length 7mm width 8mm")

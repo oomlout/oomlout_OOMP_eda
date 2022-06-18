@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_6.35mm_Neutrik_NJ6FD-V_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NJ6FD-V_Vertical")
 
 newPart.addTag("kicadDesc", "6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6fd-v")
 newPart.addTag("kicadTags", "neutrik jack vertical")

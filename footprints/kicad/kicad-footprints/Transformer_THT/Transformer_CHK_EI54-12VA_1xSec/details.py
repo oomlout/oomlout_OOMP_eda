@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_CHK_EI54-12VA_1xSec")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_CHK_EI54-12VA_1xSec")
 
 newPart.addTag("kicadDesc", "Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,http://www.eratransformers.com/product-detail/19")
 newPart.addTag("kicadTags", "Trafo Printtrafo CHK EI54 12VA 1x Sec")

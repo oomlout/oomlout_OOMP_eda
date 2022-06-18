@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Infineon_PG-HSOF-8-1_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HSOF-8-1_ThermalVias")
 
 newPart.addTag("kicadDesc", "HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)")
 newPart.addTag("kicadTags", "mosfet hsof toll thermal vias")

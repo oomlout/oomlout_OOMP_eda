@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_ACDC")
 newPart.addTag("oompIndex", "Converter_ACDC_MeanWell_IRM-60-xx_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-60-xx_THT")
 
 newPart.addTag("kicadDesc", "ACDC-Converter, 50-60W, Meanwell, IRM-60, THT https://www.meanwellusa.com/productPdf.aspx?i=687")
 newPart.addTag("kicadTags", "switching power supply")

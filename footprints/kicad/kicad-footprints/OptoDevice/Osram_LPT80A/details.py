@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Osram_LPT80A")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Osram_LPT80A")
 
 newPart.addTag("kicadDesc", "PhotoTransistor, sidelooker package, RM2.54")
 newPart.addTag("kicadTags", "PhotoTransistor sidelooker package RM2.54")

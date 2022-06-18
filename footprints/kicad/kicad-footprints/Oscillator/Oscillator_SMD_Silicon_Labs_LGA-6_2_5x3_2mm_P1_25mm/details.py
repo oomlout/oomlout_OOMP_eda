@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm")
 
 newPart.addTag("kicadDesc", "Silicon_Labs  LGA, 6 Pin (https://www.silabs.com/documents/public/data-sheets/si512-13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "Silicon_Labs LGA NoLead")

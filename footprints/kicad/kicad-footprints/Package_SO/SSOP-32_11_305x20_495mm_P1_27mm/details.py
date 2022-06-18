@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SSOP-32_11.305x20.495mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SSOP-32_11.305x20.495mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "SSOP, 32 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SSOP SO")

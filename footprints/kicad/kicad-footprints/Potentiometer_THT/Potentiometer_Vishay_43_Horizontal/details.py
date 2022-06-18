@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Vishay_43_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_43_Horizontal")
 
 newPart.addTag("kicadDesc", "Potentiometer, horizontal, Vishay 43, http://www.vishay.com/docs/57026/43.pdf")
 newPart.addTag("kicadTags", "Potentiometer horizontal Vishay 43")

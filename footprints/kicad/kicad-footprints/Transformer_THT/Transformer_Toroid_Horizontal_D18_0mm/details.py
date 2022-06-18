@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Toroid_Horizontal_D18.0mm")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D18.0mm")
 
 newPart.addTag("kicadDesc", "Transformer, Toroid, tapped, horizontal, laying, Diameter 18mm,")
 newPart.addTag("kicadTags", "Transformer Toroid tapped horizontal laying Diameter 18mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Lever_1P2T_NKK_GW12LxH")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Lever_1P2T_NKK_GW12LxH")
 
 newPart.addTag("kicadDesc", "Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf")
 newPart.addTag("kicadTags", "switch single-pole double-throw spdt ON-ON horizontal")

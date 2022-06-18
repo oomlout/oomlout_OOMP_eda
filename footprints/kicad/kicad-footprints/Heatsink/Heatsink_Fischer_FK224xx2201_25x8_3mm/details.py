@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_Fischer_FK224xx2201_25x8.3mm")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_Fischer_FK224xx2201_25x8.3mm")
 
 newPart.addTag("kicadDesc", "25x8.3mm Heatsink, 18K/W, TO-220, https://www.fischerelektronik.de/web_fischer/en_GB/$catalogue/fischerData/PR/FK224_220_1_/datasheet.xhtml?branch=heatsinks")
 newPart.addTag("kicadTags", "heatsink TO-220")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_Omron_G5V-1")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_Omron_G5V-1")
 
 newPart.addTag("kicadDesc", "Relay Omron G5V-1, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf")
 newPart.addTag("kicadTags", "Relay Omron G5V-1")

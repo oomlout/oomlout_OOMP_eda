@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_DIP-14_LargePads")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_DIP-14_LargePads")
 
 newPart.addTag("kicadDesc", "Oscillator, DIP14, Large Pads, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf")
 newPart.addTag("kicadTags", "oscillator")

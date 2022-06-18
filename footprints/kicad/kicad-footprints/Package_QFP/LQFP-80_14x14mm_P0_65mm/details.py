@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "LQFP-80_14x14mm_P0.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/LQFP-80_14x14mm_P0.65mm")
 
 newPart.addTag("kicadDesc", "LQFP, 80 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "LQFP QFP")

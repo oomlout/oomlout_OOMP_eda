@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Coilcraft_CST1")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST1")
 
 newPart.addTag("kicadDesc", "Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)")
 newPart.addTag("kicadTags", "Transformer current sense SMD")

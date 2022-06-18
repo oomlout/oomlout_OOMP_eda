@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "AD-121F2")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/AD-121F2")
 
 newPart.addTag("kicadDesc", "Single Digit 7-segment RGB LED Display, 1-inch digit height, common anode, http://usasyck.com/products/AD-121F2_cat_e.pdf")
 newPart.addTag("kicadTags", "RGB LED digit")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-16-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "QFN, 16 Pin (https://www.renesas.com/eu/en/www/doc/datasheet/isl8117.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_TracoPower_TCK-141")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_TracoPower_TCK-141")
 
 newPart.addTag("kicadDesc", "Choke, SMD, 4.0x4.0mm 2.1mm height, https://www.tracopower.com/products/tck141.pdf")
 newPart.addTag("kicadTags", "Choke SMD")

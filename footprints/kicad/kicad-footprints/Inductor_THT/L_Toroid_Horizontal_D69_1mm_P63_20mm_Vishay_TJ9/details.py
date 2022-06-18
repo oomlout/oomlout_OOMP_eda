@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9")
 
 newPart.addTag("kicadDesc", "L_Toroid, Horizontal series, Radial, pin pitch=63.20mm, , diameter=69.1mm, Vishay, TJ9, http://www.vishay.com/docs/34079/tj.pdf")
 newPart.addTag("kicadTags", "L_Toroid Horizontal series Radial pin pitch 63.20mm  diameter 69.1mm Vishay TJ9")

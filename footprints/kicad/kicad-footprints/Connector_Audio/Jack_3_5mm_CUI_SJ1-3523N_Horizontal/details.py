@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_CUI_SJ1-3523N_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3523N_Horizontal")
 
 newPart.addTag("kicadDesc", "TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf")
 newPart.addTag("kicadTags", "TRS audio jack stereo horizontal")

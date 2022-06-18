@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_SMD")
 newPart.addTag("oompIndex", "Potentiometer_Bourns_TC33X_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_TC33X_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, Bourns, TC33X, Vertical, https://www.bourns.com/pdfs/TC33.pdf")
 newPart.addTag("kicadTags", "Potentiometer Bourns TC33X Vertical")

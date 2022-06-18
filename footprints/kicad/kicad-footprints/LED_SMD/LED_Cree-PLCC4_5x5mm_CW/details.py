@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Cree-PLCC4_5x5mm_CW")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW")
 
 newPart.addTag("kicadDesc", "5.0mm x 5.0mm PLCC4 LED")
 newPart.addTag("kicadTags", "LED Cree PLCC-4")

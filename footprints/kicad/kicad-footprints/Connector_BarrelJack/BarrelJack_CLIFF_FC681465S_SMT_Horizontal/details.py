@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_BarrelJack")
 newPart.addTag("oompIndex", "BarrelJack_CLIFF_FC681465S_SMT_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_BarrelJack/BarrelJack_CLIFF_FC681465S_SMT_Horizontal")
 
 newPart.addTag("kicadDesc", "Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf")
 newPart.addTag("kicadTags", "Power Jack SMT")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_SMD")
 newPart.addTag("oompIndex", "Potentiometer_Bourns_3314R-1_Vertical_Hole")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3314R-1_Vertical_Hole")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, shaft hole, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical hole Bourns 3314R-1")

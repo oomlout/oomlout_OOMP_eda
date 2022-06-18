@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Abracon_ABLNO")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ABLNO")
 
 newPart.addTag("kicadDesc", "https://abracon.com/Precisiontiming/ABLNO.pdf")
 newPart.addTag("kicadTags", "VCXO XO")

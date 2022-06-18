@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm")
 
 newPart.addTag("kicadDesc", "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http://chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument")
 newPart.addTag("kicadTags", "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "SIM28ML")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/SIM28ML")
 
 newPart.addTag("kicadDesc", "https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf")
 newPart.addTag("kicadTags", "SIM28ML GPS")

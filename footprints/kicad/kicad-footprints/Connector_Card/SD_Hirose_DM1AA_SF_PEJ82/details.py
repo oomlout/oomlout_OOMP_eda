@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "SD_Hirose_DM1AA_SF_PEJ82")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/SD_Hirose_DM1AA_SF_PEJ82")
 
 newPart.addTag("kicadDesc", "SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)")
 newPart.addTag("kicadTags", "SD card connector")

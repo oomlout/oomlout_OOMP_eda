@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm")
 
 newPart.addTag("kicadDesc", "SMD package Diotec Diotec MicroDil, body 3.0x3.0x1.8mm (e.g. diode bridge), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf")
 newPart.addTag("kicadTags", "Diotec MicroDil diode bridge")

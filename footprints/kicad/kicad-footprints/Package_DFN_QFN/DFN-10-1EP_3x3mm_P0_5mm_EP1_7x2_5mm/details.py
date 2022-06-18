@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.7x2.5mm")
 
 newPart.addTag("kicadDesc", "DFN, 10 Pin (https://www.monolithicpower.com/pub/media/document/MPQ2483_r1.05.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "DFN NoLead")

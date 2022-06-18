@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_6.35mm_Neutrik_NSJ12HL_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ12HL_Horizontal")
 
 newPart.addTag("kicadDesc", "Stacking Jacks, Stereo dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj12hl")
 newPart.addTag("kicadTags", "neutrik jack stacking")

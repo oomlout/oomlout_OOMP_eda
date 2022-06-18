@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "ADNS-9800")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/ADNS-9800")
 
 newPart.addTag("kicadDesc", "Laser Gaming Sensor ADNS-9800")
 newPart.addTag("kicadTags", "MOUSE MOUSE_SENSOR LASER_GAMING_SENSOR")

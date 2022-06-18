@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SC-59_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SC-59_Handsoldering")
 
 newPart.addTag("kicadDesc", "SC-59, hand-soldering varaint, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg")
 newPart.addTag("kicadTags", "SC-59 hand-soldering")

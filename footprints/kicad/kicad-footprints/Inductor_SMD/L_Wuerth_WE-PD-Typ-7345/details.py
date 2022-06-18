@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-PD-Typ-7345")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD-Typ-7345")
 
 newPart.addTag("kicadDesc", "Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, 7345, https://katalog.we-online.com/pbs/datasheet/744777001.pdf")
 newPart.addTag("kicadTags", "Choke Shielded Power Inductor WE-PD 7345 Wuerth")

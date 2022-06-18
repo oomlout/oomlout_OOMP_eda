@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open")
 
 newPart.addTag("kicadDesc", "Fuseholder horizontal open 5x20mm 250V 10A Würth 696103101002")
 newPart.addTag("kicadTags", "Fuseholder horizontal open 5x20mm 250V 10A")

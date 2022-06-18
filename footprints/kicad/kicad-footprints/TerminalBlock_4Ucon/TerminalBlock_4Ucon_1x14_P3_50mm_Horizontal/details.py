@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_4Ucon")
 newPart.addTag("oompIndex", "TerminalBlock_4Ucon_1x14_P3.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x14_P3.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Terminal Block 4Ucon ItemNo. 10691, 14 pins, pitch 3.5mm, size 49.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10691.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon")
 newPart.addTag("kicadTags", "THT Terminal Block 4Ucon ItemNo. 10691 pitch 3.5mm size 49.7x7mm^2 drill 1.2mm pad 2.4mm")

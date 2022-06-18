@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "OLED-128O064D")
+newPart.addTag("oompName", "kicad-footprints/Display/OLED-128O064D")
 
 newPart.addTag("kicadDesc", "128x64 OLED display")
 newPart.addTag("kicadTags", "display oled")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal")
 
 newPart.addTag("kicadDesc", "AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah1-0")
 newPart.addTag("kicadTags", "neutrik xlr aa")

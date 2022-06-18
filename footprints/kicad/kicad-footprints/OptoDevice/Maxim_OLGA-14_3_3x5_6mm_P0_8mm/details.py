@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Maxim_OLGA-14_3.3x5.6mm_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Maxim_OLGA-14_3.3x5.6mm_P0.8mm")
 
 newPart.addTag("kicadDesc", "https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF")
 newPart.addTag("kicadTags", "OLGA-14 OESIP-14")

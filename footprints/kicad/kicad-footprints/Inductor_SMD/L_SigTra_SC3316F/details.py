@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_SigTra_SC3316F")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_SigTra_SC3316F")
 
 newPart.addTag("kicadDesc", "http://www.signaltransformer.com/sites/all/pdf/smd/P080_SC3316F.pdf")
 newPart.addTag("kicadTags", "Choke")

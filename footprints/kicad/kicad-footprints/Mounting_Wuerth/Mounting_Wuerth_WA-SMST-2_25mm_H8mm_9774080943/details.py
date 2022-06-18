@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Mounting_Wuerth")
 newPart.addTag("oompIndex", "Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943")
+newPart.addTag("oompName", "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943")
 
 newPart.addTag("kicadDesc", "Mounting Hardware, inside through hole 2.25mm, height 8, Wuerth electronics 9774080943 (https://katalog.we-online.de/em/datasheet/9774080943.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Mounting 2.25mm 9774080943")

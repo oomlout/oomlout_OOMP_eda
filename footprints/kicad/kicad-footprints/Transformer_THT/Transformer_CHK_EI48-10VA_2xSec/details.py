@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_CHK_EI48-10VA_2xSec")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_CHK_EI48-10VA_2xSec")
 
 newPart.addTag("kicadDesc", "Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec, http://www.eratransformers.com/product-detail/18")
 newPart.addTag("kicadTags", "Trafo Printtrafo CHK EI48 10VA 2x Sec")

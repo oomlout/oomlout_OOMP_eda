@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Radial_D12.5mm_P7.00mm_Fastron_09HCP")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Radial_D12.5mm_P7.00mm_Fastron_09HCP")
 
 newPart.addTag("kicadDesc", "Inductor, Radial series, Radial, pin pitch=7.00mm, , diameter=12.5mm, Fastron, 09HCP, http://cdn-reichelt.de/documents/datenblatt/B400/DS_09HCP.pdf")
 newPart.addTag("kicadTags", "Inductor Radial series Radial pin pitch 7.00mm  diameter 12.5mm Fastron 09HCP")

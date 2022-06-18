@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_GNU-Logo_CopperTop")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_GNU-Logo_CopperTop")
 
 newPart.addTag("kicadDesc", "GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,")
 newPart.addTag("kicadTags", "GNU-Logo, GNU-Head, GNU-Kopf, Copper Top,")

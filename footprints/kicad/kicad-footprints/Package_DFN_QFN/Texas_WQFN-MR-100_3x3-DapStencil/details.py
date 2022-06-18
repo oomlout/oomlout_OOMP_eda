@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_WQFN-MR-100_3x3-DapStencil")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_WQFN-MR-100_3x3-DapStencil")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf")
 newPart.addTag("kicadTags", "MultiRow QFN")

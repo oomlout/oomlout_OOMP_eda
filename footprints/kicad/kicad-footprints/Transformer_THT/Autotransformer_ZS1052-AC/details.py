@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Autotransformer_ZS1052-AC")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC")
 
 newPart.addTag("kicadDesc", "Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf")
 newPart.addTag("kicadTags", "ignition coil autotransformer")

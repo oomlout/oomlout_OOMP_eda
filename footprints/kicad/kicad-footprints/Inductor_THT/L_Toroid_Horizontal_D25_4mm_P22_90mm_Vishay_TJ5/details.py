@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5")
 
 newPart.addTag("kicadDesc", "L_Toroid, Horizontal series, Radial, pin pitch=22.90mm, , diameter=25.4mm, Vishay, TJ5, http://www.vishay.com/docs/34079/tj.pdf")
 newPart.addTag("kicadTags", "L_Toroid Horizontal series Radial pin pitch 22.90mm  diameter 25.4mm Vishay TJ5")

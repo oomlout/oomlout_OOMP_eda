@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "LEM_HTFS")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/LEM_HTFS")
 
 newPart.addTag("kicadDesc", "LEM HTFS x00-P current transducer (https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf)")
 newPart.addTag("kicadTags", "HTFS current transducer")

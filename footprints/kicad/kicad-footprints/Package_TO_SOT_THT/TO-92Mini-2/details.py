@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-92Mini-2")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-92Mini-2")
 
 newPart.addTag("kicadDesc", "TO-92Mini package, drill 0.6mm (https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/KT,KTY.pdf)")
 newPart.addTag("kicadTags", "to-92Mini transistor")

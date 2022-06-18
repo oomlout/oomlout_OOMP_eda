@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12")
 
 newPart.addTag("kicadDesc", "L_Toroid, Horizontal series, Radial, pin pitch=6.40mm, , diameter=3.175mm, Diameter3-5mm, Amidon-T12")
 newPart.addTag("kicadTags", "L_Toroid Horizontal series Radial pin pitch 6.40mm  diameter 3.175mm Diameter3-5mm Amidon-T12")

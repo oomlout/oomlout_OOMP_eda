@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "RN2483")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/RN2483")
 
 newPart.addTag("kicadDesc", "Low-Power Long Range LoRa Transceiver Module")
 newPart.addTag("kicadTags", "rf module lora lorawan")

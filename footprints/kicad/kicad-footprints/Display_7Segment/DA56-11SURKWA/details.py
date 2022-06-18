@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "DA56-11SURKWA")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/DA56-11SURKWA")
 
 newPart.addTag("kicadDesc", "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SURKWA(Ver.11A).pdf")
 newPart.addTag("kicadTags", "Double digit seven segment hyper red LED display")

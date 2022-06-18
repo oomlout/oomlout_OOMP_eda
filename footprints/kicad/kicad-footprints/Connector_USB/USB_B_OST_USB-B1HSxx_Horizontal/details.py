@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_B_OST_USB-B1HSxx_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_B_OST_USB-B1HSxx_Horizontal")
 
 newPart.addTag("kicadDesc", "USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf")
 newPart.addTag("kicadTags", "USB-B receptacle horizontal through-hole")

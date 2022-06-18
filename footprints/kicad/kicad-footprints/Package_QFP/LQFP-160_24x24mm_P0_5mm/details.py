@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "LQFP-160_24x24mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/LQFP-160_24x24mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "LQFP, 160 Pin (https://www.nxp.com/docs/en/package-information/SOT435-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "LQFP QFP")

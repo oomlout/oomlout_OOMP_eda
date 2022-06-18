@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Hirose FH12, FFC/FPC connector, FH12-35S-0.5SH, 35 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Hirose FH12 horizontal")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "TQFP-64_7x7mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/TQFP-64_7x7mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "TQFP64 7x7, 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)")
 newPart.addTag("kicadTags", "QFP 0.4")

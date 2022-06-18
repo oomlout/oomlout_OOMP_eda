@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_CommonMode_Wuerth_WE-CMB-M")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-M")
 
 newPart.addTag("kicadDesc", "Wuerth, WE-CMB, Bauform M,")
 newPart.addTag("kicadTags", "CommonModeChoke Gleichtaktdrossel")

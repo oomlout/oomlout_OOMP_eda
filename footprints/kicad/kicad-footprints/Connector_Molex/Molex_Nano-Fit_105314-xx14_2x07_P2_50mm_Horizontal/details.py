@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Nano-Fit_105314-xx14_2x07_P2.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Nano-Fit_105314-xx14_2x07_P2.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Nano-Fit Power Connectors, 105314-xx14, 7 Pins per row (http://www.molex.com/pdm_docs/sd/1053141208_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Nano-Fit top entry")

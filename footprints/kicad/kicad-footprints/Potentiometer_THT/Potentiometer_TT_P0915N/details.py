@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_TT_P0915N")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N")
 
 newPart.addTag("kicadDesc", "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf")
 newPart.addTag("kicadTags", "potentiometer vertical TT P0915N single")

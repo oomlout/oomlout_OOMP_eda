@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Molex_73251-2200_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Molex_73251-2200_Horizontal")
 
 newPart.addTag("kicadDesc", "https://www.molex.com/webdocs/datasheets/pdf/en-us/0732512200_RF_COAX_CONNECTORS.pdf")
 newPart.addTag("kicadTags", "SMA THT Female Jack Horizontal")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "HOPERF_RFM69HW")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/HOPERF_RFM69HW")
 
 newPart.addTag("kicadDesc", "Radio, RF, Module, http://www.hoperf.com/upload/rf/RFM69HW-V1.3.pdf")
 newPart.addTag("kicadTags", "Radio RF Module")

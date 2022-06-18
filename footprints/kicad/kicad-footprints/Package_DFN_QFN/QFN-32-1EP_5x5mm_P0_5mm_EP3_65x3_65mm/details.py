@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm")
 
 newPart.addTag("kicadDesc", "QFN, 32 Pin (https://www.exar.com/ds/mxl7704.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

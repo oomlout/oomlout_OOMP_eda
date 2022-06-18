@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles")
 
 newPart.addTag("kicadDesc", "USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A")
 newPart.addTag("kicadTags", "USB C Type-C Receptacle SMD")

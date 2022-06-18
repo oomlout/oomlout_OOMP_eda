@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Infineon_PG-DSO-12-11")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Infineon_PG-DSO-12-11")
 
 newPart.addTag("kicadDesc", "Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-11/)")
 newPart.addTag("kicadTags", "PG-DSO")

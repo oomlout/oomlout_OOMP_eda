@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_TE-Connectivity")
 newPart.addTag("oompIndex", "TE_1-826576-5_1x15_P3.96mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_TE-Connectivity/TE_1-826576-5_1x15_P3.96mm_Vertical")
 
 newPart.addTag("kicadDesc", "TE, 1-826576-5, 15 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector TE 826576 vertical")

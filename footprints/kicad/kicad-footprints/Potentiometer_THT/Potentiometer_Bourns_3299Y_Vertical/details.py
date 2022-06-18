@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Bourns_3299Y_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3299Y_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, Bourns 3299Y, https://www.bourns.com/pdfs/3299.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical Bourns 3299Y")

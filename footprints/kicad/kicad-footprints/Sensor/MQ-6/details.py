@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor")
 newPart.addTag("oompIndex", "MQ-6")
+newPart.addTag("oompName", "kicad-footprints/Sensor/MQ-6")
 
 newPart.addTag("kicadDesc", "Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf")
 newPart.addTag("kicadTags", "gas sensor")

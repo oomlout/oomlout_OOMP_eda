@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Abracon_ASPI-3012S")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Abracon_ASPI-3012S")
 
 newPart.addTag("kicadDesc", "smd shielded power inductor http://www.abracon.com/Magnetics/power/ASPI-3012S.pdf")
 newPart.addTag("kicadTags", "inductor abracon smd shielded")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Texas_R-PWSON-N12_EP0.4x2mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Texas_R-PWSON-N12_EP0.4x2mm")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/lit/ds/symlink/tpd6f003.pdf")
 newPart.addTag("kicadTags", "WSON SMD")

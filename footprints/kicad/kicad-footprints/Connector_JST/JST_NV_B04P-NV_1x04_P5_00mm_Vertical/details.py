@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_NV_B04P-NV_1x04_P5.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_NV_B04P-NV_1x04_P5.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST NV series connector, B04P-NV (http://www.jst-mfg.com/product/pdf/eng/eNV.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST NV side entry")

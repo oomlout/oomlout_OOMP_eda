@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Luminus_MP-3030-1100_3.0x3.0mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Luminus_MP-3030-1100_3.0x3.0mm")
 
 newPart.addTag("kicadDesc", "Mid Power LED, Luminus MP-3030-1100, 3.0x3.0mm, 816mW, https://download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf")
 newPart.addTag("kicadTags", "LED Luminus MP-3030-1100")

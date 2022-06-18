@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "PowerIntegrations_eSIP-7F")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7F")
 
 newPart.addTag("kicadDesc", "eSIP-7F Flat Package with Heatsink Tab https://ac-dc.power.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf")
 newPart.addTag("kicadTags", "Power Integrations L Package")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_2816_7142Metric")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_2816_7142Metric")
 
 newPart.addTag("kicadDesc", "Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "resistor")

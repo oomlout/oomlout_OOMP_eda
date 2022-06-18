@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_XP_POWER-ITxxxxxS_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITxxxxxS_THT")
 
 newPart.addTag("kicadDesc", "XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/portals/0/pdfs/SF_ITX.pdf https://www.xppower.com/portals/0/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "XP_POWER  ITxxxxxS SIP DCDC-Converter")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB")
 
 newPart.addTag("kicadDesc", "Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf")
 newPart.addTag("kicadTags", "Molex MMCX Horizontal Coaxial")

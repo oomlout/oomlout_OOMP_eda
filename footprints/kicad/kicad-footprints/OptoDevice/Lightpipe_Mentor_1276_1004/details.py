@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Lightpipe_Mentor_1276.1004")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.1004")
 
 newPart.addTag("kicadDesc", "https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf")
 newPart.addTag("kicadTags", "spherical light pipe 4 way 3mm PLCC-2 PLCC-4")

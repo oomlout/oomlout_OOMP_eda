@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_GMSTB")
 newPart.addTag("oompIndex", "PhoenixContact_GMSTBVA_2,5_12-G_1x12_P7.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_12-G_1x12_P7.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: GMSTBVA_2,5/12-G; number of pins: 12; pin pitch: 7.50mm; Vertical || order number: 1766767 12A 630V")
 newPart.addTag("kicadTags", "phoenix_contact connector GMSTBVA_01x12_G_7.50mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_CHK_EI30-2VA_2xSec")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_CHK_EI30-2VA_2xSec")
 
 newPart.addTag("kicadDesc", "Trafo, Printtrafo, CHK, EI30, 2VA, 2x Sec,")
 newPart.addTag("kicadTags", "Trafo Printtrafo CHK EI30 2VA 2x Sec")

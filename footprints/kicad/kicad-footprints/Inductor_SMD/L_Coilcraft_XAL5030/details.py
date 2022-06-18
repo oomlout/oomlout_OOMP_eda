@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Coilcraft_XAL5030")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Coilcraft_XAL5030")
 
 newPart.addTag("kicadDesc", "L_Coilcraft_XAL5030")
 newPart.addTag("kicadTags", "L Coilcraft XAL5030")

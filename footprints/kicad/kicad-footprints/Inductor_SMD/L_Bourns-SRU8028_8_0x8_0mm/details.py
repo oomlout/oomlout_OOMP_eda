@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns-SRU8028_8.0x8.0mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns-SRU8028_8.0x8.0mm")
 
 newPart.addTag("kicadDesc", "Bourns SRU8028 series SMD inductor")
 newPart.addTag("kicadTags", "Bourns SRU8028 SMD inductor")

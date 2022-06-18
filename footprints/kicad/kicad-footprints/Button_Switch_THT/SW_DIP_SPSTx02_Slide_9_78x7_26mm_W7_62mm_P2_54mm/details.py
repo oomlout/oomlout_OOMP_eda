@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "2x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x7.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)")
 newPart.addTag("kicadTags", "DIP Switch SPST Slide 7.62mm 300mil")

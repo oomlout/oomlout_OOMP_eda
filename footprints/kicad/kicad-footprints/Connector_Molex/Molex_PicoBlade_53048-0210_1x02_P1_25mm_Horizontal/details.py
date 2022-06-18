@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex PicoBlade Connector System, 53048-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex PicoBlade top entry")

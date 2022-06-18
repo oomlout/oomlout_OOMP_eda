@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm")
 
 newPart.addTag("kicadDesc", "MSOP, 12 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf#page=24), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "MSOP SO")

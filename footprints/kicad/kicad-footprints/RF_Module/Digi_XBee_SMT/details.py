@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "Digi_XBee_SMT")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/Digi_XBee_SMT")
 
 newPart.addTag("kicadDesc", "http://www.digi.com/resources/documentation/digidocs/pdfs/90002126.pdf http://ftp1.digi.com/support/documentation/90001020_F.pdf")
 newPart.addTag("kicadTags", "Digi XBee SMT RF")

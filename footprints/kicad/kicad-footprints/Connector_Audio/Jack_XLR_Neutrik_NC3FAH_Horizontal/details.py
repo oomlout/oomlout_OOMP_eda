@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_XLR_Neutrik_NC3FAH_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAH_Horizontal")
 
 newPart.addTag("kicadDesc", "A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah")
 newPart.addTag("kicadTags", "neutrik xlr a")

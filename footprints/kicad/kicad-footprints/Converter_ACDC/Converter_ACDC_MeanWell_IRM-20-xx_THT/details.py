@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_ACDC")
 newPart.addTag("oompIndex", "Converter_ACDC_MeanWell_IRM-20-xx_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-20-xx_THT")
 
 newPart.addTag("kicadDesc", "ACDC-Converter, 20W, Meanwell, IRM-20, THT http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-20")
 newPart.addTag("kicadTags", "ACDC-Converter 20W   Meanwell IRM-20")

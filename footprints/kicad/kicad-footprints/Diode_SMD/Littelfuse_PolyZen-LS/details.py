@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Littelfuse_PolyZen-LS")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Littelfuse_PolyZen-LS")
 
 newPart.addTag("kicadDesc", "http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "Diode Polymer Protected Zener Diode Littelfuse LS")

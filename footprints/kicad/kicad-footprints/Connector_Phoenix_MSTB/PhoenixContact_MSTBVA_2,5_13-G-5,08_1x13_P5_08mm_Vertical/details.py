@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MSTB")
 newPart.addTag("oompIndex", "PhoenixContact_MSTBVA_2,5_13-G-5,08_1x13_P5.08mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_13-G-5,08_1x13_P5.08mm_Vertical")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MSTBVA_2,5/13-G-5,08; number of pins: 13; pin pitch: 5.08mm; Vertical || order number: 1755846 12A")
 newPart.addTag("kicadTags", "phoenix_contact connector MSTBVA_01x13_G_5.08mm")

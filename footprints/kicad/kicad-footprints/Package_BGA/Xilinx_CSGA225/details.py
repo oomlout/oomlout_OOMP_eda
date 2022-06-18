@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "Xilinx_CSGA225")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/Xilinx_CSGA225")
 
 newPart.addTag("kicadDesc", "Spartan-7 BGA, 15x15 grid, 13x13mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=262, NSMD pad definition Appendix A")
 newPart.addTag("kicadTags", "BGA 225 0.8 CSGA225")

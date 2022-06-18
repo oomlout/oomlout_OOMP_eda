@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_CHK_EI42-5VA_Neutral")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_CHK_EI42-5VA_Neutral")
 
 newPart.addTag("kicadDesc", "Trafo, Printtrafo, CHK, EI42, 5VA, neutral,")
 newPart.addTag("kicadTags", "Trafo Printtrafo CHK EI42 5VA neutral")

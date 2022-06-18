@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_ROHM_SMLVN6")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_ROHM_SMLVN6")
 
 newPart.addTag("kicadDesc", "https://www.rohm.com/datasheet/SMLVN6RGB1U")
 newPart.addTag("kicadTags", "LED ROHM SMLVN6")

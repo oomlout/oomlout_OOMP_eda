@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Littelfuse-NANO2-451_453")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Littelfuse-NANO2-451_453")
 
 newPart.addTag("kicadDesc", "Littelfuse NANO2 https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "Fuse Nano2")

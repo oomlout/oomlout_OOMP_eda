@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-92L_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-92L_HandSolder")
 
 newPart.addTag("kicadDesc", "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm, hand-soldering variant with enlarged pads (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)")
 newPart.addTag("kicadTags", "to-92 sc-43 sc-43a sot54 PA33 transistor")

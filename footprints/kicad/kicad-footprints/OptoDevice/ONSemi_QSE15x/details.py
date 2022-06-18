@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "ONSemi_QSE15x")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/ONSemi_QSE15x")
 
 newPart.addTag("kicadDesc", "3 Lead Plastic Package")
 newPart.addTag("kicadTags", "ONSemi QSE158 QSE159")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "PowerIntegrations_SO-8B")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/PowerIntegrations_SO-8B")
 
 newPart.addTag("kicadDesc", "Power-Integrations variant of 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC], see https://www.mouser.com/ds/2/328/linkswitch-pl_family_datasheet-12517.pdf")
 newPart.addTag("kicadTags", "SOIC 1.27")

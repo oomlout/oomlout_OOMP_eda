@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4320fb.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "DFN NoLead")

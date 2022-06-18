@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Adafruit_Feather_M0_RFM_WithMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Module/Adafruit_Feather_M0_RFM_WithMountingHoles")
 
 newPart.addTag("kicadDesc", "Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio")
 newPart.addTag("kicadTags", "Adafruit Feather M0 RFM")

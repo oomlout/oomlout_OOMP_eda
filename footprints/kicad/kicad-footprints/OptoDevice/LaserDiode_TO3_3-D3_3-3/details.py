@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "LaserDiode_TO3.3-D3.3-3")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/LaserDiode_TO3.3-D3.3-3")
 
 newPart.addTag("kicadDesc", "Laser Diode, TO-3.3mm, 3pin")
 newPart.addTag("kicadTags", "Laser Diode TO3.3")

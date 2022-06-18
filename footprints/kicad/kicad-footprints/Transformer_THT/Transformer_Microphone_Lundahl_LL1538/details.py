@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Microphone_Lundahl_LL1538")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Microphone_Lundahl_LL1538")
 
 newPart.addTag("kicadDesc", "AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1538_8xl.pdf")
 newPart.addTag("kicadTags", "AUDIO TRAFO LUNDAHL")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Shielding")
 newPart.addTag("oompIndex", "Wuerth_36503205_20x20mm")
+newPart.addTag("oompName", "kicad-footprints/RF_Shielding/Wuerth_36503205_20x20mm")
 
 newPart.addTag("kicadDesc", "WE-SHC Shielding Cabinet THT 21x21mm")
 newPart.addTag("kicadTags", "Shielding Cabinet")

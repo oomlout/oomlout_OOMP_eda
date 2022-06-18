@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D3.0mm_IRBlack")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D3.0mm_IRBlack")
 
 newPart.addTag("kicadDesc", "IR-ED, diameter 3.0mm, 2 pins, color: black")
 newPart.addTag("kicadTags", "IR infrared LED diameter 3.0mm 2 pins black")

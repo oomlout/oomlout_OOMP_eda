@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "ZETA-433-SO_SMD")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/ZETA-433-SO_SMD")
 
 newPart.addTag("kicadDesc", "RF transceiver SMD style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf")
 newPart.addTag("kicadTags", "RF transceiver SMD style")

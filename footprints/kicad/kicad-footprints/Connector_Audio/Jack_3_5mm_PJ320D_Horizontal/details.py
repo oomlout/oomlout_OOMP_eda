@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_PJ320D_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_PJ320D_Horizontal")
 
 newPart.addTag("kicadDesc", "Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)")
 newPart.addTag("kicadTags", "3.5mm jack mic microphone phones headphones 4pins audio plug")

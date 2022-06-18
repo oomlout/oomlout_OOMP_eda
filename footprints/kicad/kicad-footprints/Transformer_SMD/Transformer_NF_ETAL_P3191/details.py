@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_NF_ETAL_P3191")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3191")
 
 newPart.addTag("kicadDesc", "NF-Transformer, ETAL, P3191, SMD,")
 newPart.addTag("kicadTags", "NF-Transformer ETAL P3191 SMD")

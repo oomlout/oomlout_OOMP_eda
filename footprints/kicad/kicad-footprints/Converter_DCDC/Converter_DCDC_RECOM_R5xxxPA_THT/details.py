@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_RECOM_R5xxxPA_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_R5xxxPA_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, RECOM, RECOM_R5xxxPA, SIP-12, pitch 2.54mm, package size 32.2x9.1x15mm^3, https://www.recom-power.com/pdf/Innoline/R-5xxxPA_DA.pdf")
 newPart.addTag("kicadTags", "dc-dc recom buck sip-12 pitch 2.54mm")

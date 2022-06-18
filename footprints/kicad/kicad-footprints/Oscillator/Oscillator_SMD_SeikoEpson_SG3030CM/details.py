@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_SeikoEpson_SG3030CM")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG3030CM")
 
 newPart.addTag("kicadDesc", "SMD Crystal Oscillator Seiko Epson SG-3030CM package")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

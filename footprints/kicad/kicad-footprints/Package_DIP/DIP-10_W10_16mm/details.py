@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DIP")
 newPart.addTag("oompIndex", "DIP-10_W10.16mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DIP/DIP-10_W10.16mm")
 
 newPart.addTag("kicadDesc", "10-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)")
 newPart.addTag("kicadTags", "THT DIP DIL PDIP 2.54mm 10.16mm 400mil")

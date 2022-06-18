@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_Switronic_ST-005-G_horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal")
 
 newPart.addTag("kicadDesc", "3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf")
 newPart.addTag("kicadTags", "Connector Audio Switronic ST-005-G")

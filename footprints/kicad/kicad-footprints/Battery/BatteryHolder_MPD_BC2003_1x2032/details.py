@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_MPD_BC2003_1x2032")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_MPD_BC2003_1x2032")
 
 newPart.addTag("kicadDesc", "http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf")
 newPart.addTag("kicadTags", "BC2003 CR2032 2032 Battery Holder")

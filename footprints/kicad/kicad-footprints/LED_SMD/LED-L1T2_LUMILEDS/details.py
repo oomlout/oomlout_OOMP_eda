@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED-L1T2_LUMILEDS")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED-L1T2_LUMILEDS")
 
 newPart.addTag("kicadDesc", "http://www.lumileds.com/uploads/438/DS133-pdf")
 newPart.addTag("kicadTags", "LUMILEDS LUXEON TX L1T2 LED")

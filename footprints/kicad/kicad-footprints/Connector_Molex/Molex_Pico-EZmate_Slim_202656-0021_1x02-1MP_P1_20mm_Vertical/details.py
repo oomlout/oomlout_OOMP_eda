@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Pico-EZmate_Slim series connector, 202656-0021 (http://www.molex.com/pdm_docs/sd/2026560021_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Pico-EZmate_Slim side entry")

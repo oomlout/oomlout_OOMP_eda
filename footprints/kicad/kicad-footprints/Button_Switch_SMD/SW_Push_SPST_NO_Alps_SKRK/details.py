@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_Push_SPST_NO_Alps_SKRK")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_Push_SPST_NO_Alps_SKRK")
 
 newPart.addTag("kicadDesc", "http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html")
 newPart.addTag("kicadTags", "SMD SMT button")

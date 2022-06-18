@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "LFCSP NoLead")

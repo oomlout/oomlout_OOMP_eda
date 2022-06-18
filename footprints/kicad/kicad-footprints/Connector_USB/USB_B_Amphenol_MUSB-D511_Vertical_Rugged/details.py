@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_B_Amphenol_MUSB-D511_Vertical_Rugged")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_B_Amphenol_MUSB-D511_Vertical_Rugged")
 
 newPart.addTag("kicadDesc", "A,phenol MUSB_D511, USB B female connector, straight, rugged, https://www.amphenolcanada.com/ProductSearch/drawings/AC/MUSBD511XX.pdf")
 newPart.addTag("kicadTags", "USB_B_MUSB_Straight female connector straight rugged MUSB D511")

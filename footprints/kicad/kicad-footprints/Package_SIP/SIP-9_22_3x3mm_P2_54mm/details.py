@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "SIP-9_22.3x3mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/SIP-9_22.3x3mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "SIP 9-pin ()")
 newPart.addTag("kicadTags", "SIP8")

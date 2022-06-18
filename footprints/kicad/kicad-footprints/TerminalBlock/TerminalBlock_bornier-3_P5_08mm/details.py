@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock")
 newPart.addTag("oompIndex", "TerminalBlock_bornier-3_P5.08mm")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock/TerminalBlock_bornier-3_P5.08mm")
 
 newPart.addTag("kicadDesc", "simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3")
 newPart.addTag("kicadTags", "terminal block bornier3")

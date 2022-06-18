@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Sharp_IS485")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Sharp_IS485")
 
 newPart.addTag("kicadDesc", "Sharp OPIC, IS485, IS486, see http://microrato.ua.pt/main/Actividades/Estagios/Docs/IS485_6.pdf")
 newPart.addTag("kicadTags", "Sharp OPIC IS485 IS486")

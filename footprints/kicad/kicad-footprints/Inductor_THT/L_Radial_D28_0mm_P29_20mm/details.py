@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Radial_D28.0mm_P29.20mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Radial_D28.0mm_P29.20mm")
 
 newPart.addTag("kicadDesc", "Inductor, Radial series, Radial, pin pitch=29.20mm, , diameter=28mm")
 newPart.addTag("kicadTags", "Inductor Radial series Radial pin pitch 29.20mm  diameter 28mm")

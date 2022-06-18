@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "NXP_XSON-16")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/NXP_XSON-16")
 
 newPart.addTag("kicadDesc", "http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf")
 newPart.addTag("kicadTags", "NXP XSON SOT-1341")

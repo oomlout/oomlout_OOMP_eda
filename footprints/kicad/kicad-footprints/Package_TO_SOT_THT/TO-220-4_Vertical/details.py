@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-220-4_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-220-4_Vertical")
 
 newPart.addTag("kicadDesc", "TO-220-4, Vertical, RM 2.54mm")
 newPart.addTag("kicadTags", "TO-220-4 Vertical RM 2.54mm")

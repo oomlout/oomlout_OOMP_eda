@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Antenna")
 newPart.addTag("oompIndex", "Abracon_APAES868R8060C16-T")
+newPart.addTag("oompName", "kicad-footprints/RF_Antenna/Abracon_APAES868R8060C16-T")
 
 newPart.addTag("kicadDesc", "Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi")
 newPart.addTag("kicadTags", "APAES patch antenna")

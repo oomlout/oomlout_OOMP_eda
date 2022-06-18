@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TestPoint")
 newPart.addTag("oompIndex", "TestPoint_Bridge_Pitch5.08mm_Drill1.3mm")
+newPart.addTag("oompName", "kicad-footprints/TestPoint/TestPoint_Bridge_Pitch5.08mm_Drill1.3mm")
 
 newPart.addTag("kicadDesc", "wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm")
 newPart.addTag("kicadTags", "test point wire loop")

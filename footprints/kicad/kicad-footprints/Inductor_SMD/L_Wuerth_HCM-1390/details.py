@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_HCM-1390")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1390")
 
 newPart.addTag("kicadDesc", "Inductor, Wuerth Elektronik, Wuerth_HCM-1390, 12.5mmx13.0mm")
 newPart.addTag("kicadTags", "inductor Wuerth hcm smd")

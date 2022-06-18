@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "Buzzer_15x7.5RM7.6")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/Buzzer_15x7.5RM7.6")
 
 newPart.addTag("kicadDesc", "Generic Buzzer, D15mm height 7.5mm with RM7.6mm")
 newPart.addTag("kicadTags", "buzzer")

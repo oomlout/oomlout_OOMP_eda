@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm")
 
 newPart.addTag("kicadDesc", "Abracon Miniature Ceramic Smd Crystal ABM10 http://www.abracon.com/Resonators/ABM10.pdf")
 newPart.addTag("kicadTags", "SMD SMT crystal Abracon ABM10")

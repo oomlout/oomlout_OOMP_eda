@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016")
 newPart.addTag("kicadTags", "DCDC-Converter TRACO TMR1-xxxx Dual_output")

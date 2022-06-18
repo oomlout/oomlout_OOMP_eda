@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_CuK_JS202011AQN_DPDT_Angled")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_CuK_JS202011AQN_DPDT_Angled")
 
 newPart.addTag("kicadDesc", "CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf")
 newPart.addTag("kicadTags", "switch DPDT")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_TUMD2")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_TUMD2")
 
 newPart.addTag("kicadDesc", "ROHM - TUMD2")
 newPart.addTag("kicadTags", "TUMD2")

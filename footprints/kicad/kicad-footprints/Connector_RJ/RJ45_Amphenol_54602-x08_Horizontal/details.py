@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Amphenol_54602-x08_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Amphenol_54602-x08_Horizontal")
 
 newPart.addTag("kicadDesc", "8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)")
 newPart.addTag("kicadTags", "RJ45")

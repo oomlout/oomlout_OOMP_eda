@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm")
 
 newPart.addTag("kicadDesc", "LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "LFCSP-WD NoLead")

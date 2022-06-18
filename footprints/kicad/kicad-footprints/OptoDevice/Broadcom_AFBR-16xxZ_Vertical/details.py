@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Broadcom_AFBR-16xxZ_Vertical")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Vertical")
 
 newPart.addTag("kicadDesc", "Fiber Optic Transmitter and Receiver, https://docs.broadcom.com/docs/AV02-4369EN")
 newPart.addTag("kicadTags", "Fiber Optic Transmitter and Receiver")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPST_Omron-G5Q-1A")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPST_Omron-G5Q-1A")
 
 newPart.addTag("kicadDesc", "Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf")
 newPart.addTag("kicadTags", "Relay SPST-NO Omron Serie G5Q")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37")
 
 newPart.addTag("kicadDesc", "Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 10,5mm, Amidon T37,")
 newPart.addTag("kicadTags", "Autotransformer Toroid horizontal laying 1 Tap Diameter 10 5mm Amidon T37")

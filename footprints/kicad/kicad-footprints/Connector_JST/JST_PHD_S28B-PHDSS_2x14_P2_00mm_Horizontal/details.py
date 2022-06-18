@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_PHD_S28B-PHDSS_2x14_P2.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_PHD_S28B-PHDSS_2x14_P2.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST PHD series connector, S28B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST PHD horizontal")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Cincon_EC5BExx_Single_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Cincon_EC5BExx_Single_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, CINCON, EC5BExx, 18-36VDC to dual output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/B%20CASE/SPEC-EC5BE-V24.pdf")
 newPart.addTag("kicadTags", "DCDC-Converter CINCON EC5BExx 18-36VDC to dual output")

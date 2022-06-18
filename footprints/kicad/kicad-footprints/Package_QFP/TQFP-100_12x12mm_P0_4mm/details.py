@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "TQFP-100_12x12mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/TQFP-100_12x12mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "100-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
 newPart.addTag("kicadTags", "QFP 0.4")

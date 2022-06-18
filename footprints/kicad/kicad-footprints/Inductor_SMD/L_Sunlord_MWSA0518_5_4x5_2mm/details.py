@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Sunlord_MWSA0518_5.4x5.2mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Sunlord_MWSA0518_5.4x5.2mm")
 
 newPart.addTag("kicadDesc", "Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm")
 newPart.addTag("kicadTags", "inductor Sunlord smd")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSSOP-8_3x3mm_P0.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSSOP-8_3x3mm_P0.65mm")
 
 newPart.addTag("kicadDesc", "TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot505-1_po.pdf)")
 newPart.addTag("kicadTags", "SSOP 0.65")

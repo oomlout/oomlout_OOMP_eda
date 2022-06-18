@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_PowerDI-123")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_PowerDI-123")
 
 newPart.addTag("kicadDesc", "http://www.diodes.com/_files/datasheets/ds30497.pdf")
 newPart.addTag("kicadTags", "PowerDI diode vishay")

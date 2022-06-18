@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_5.3mm_M5_DIN965_Pad")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_5.3mm_M5_DIN965_Pad")
 
 newPart.addTag("kicadDesc", "Mounting Hole 5.3mm, M5, DIN965")
 newPart.addTag("kicadTags", "mounting hole 5.3mm m5 din965")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_SL_171971-0025_1x25_P2.54mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_SL_171971-0025_1x25_P2.54mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Stackable Linear Connector, 171971-0025 (compatible alternatives: 171971-0125, 171971-0225), 25 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex SL vertical")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_MicroMELF_MMU-0102")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_MicroMELF_MMU-0102")
 
 newPart.addTag("kicadDesc", "Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf")
 newPart.addTag("kicadTags", "MicroMELF Resistor")

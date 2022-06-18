@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_AMASS")
 newPart.addTag("oompIndex", "AMASS_XT30UPB-M_1x02_P5.0mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical")
 
 newPart.addTag("kicadDesc", "Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf")
 newPart.addTag("kicadTags", "RC Connector XT30")

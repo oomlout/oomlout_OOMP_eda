@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Vishay_IHLP-1212")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Vishay_IHLP-1212")
 
 newPart.addTag("kicadDesc", "Inductor, Vishay, IHLP series, 3.0mmx3.0mm")
 newPart.addTag("kicadTags", "inductor vishay ihlp smd")

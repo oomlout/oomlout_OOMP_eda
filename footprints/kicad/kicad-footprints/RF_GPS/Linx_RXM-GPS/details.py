@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "Linx_RXM-GPS")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/Linx_RXM-GPS")
 
 newPart.addTag("kicadDesc", "GPS Module, Linx (https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf)")
 newPart.addTag("kicadTags", "gps linx")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST EH series connector, B7B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST EH vertical")

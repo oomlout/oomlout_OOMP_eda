@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm")
 
 newPart.addTag("kicadDesc", "QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

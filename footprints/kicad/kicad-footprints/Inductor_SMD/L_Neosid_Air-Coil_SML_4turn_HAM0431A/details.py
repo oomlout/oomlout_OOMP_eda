@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_Air-Coil_SML_4turn_HAM0431A")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_4turn_HAM0431A")
 
 newPart.addTag("kicadDesc", "Neosid, Air-Coil, SML, 4turn, HAM0431A,")
 newPart.addTag("kicadTags", "Neosid Air-Coil SML 4turn HAM0431A")

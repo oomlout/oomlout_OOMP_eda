@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "LFPAK33")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/LFPAK33")
 
 newPart.addTag("kicadDesc", "LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf")
 newPart.addTag("kicadTags", "LFPAK33 SOT-1210")

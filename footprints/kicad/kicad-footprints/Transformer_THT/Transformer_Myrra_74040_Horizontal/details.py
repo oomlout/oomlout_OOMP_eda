@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Myrra_74040_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Myrra_74040_Horizontal")
 
 newPart.addTag("kicadDesc", "Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,")
 newPart.addTag("kicadTags", "Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_MEC_5GSH9")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_MEC_5GSH9")
 
 newPart.addTag("kicadDesc", "MEC 5G single pole normally-open tactile switch")
 newPart.addTag("kicadTags", "switch normally-open pushbutton push-button")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Lightpipe_LPF-C013301S")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Lightpipe_LPF-C013301S")
 
 newPart.addTag("kicadDesc", "https://www.lumex.com/spec/LPF-C013301S.pdf")
 newPart.addTag("kicadTags", "lightpipe triple tower right angle 3mm")

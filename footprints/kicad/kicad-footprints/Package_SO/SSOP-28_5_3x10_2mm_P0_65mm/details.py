@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SSOP-28_5.3x10.2mm_P0.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SSOP-28_5.3x10.2mm_P0.65mm")
 
 newPart.addTag("kicadDesc", "28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
 newPart.addTag("kicadTags", "SSOP 0.65")

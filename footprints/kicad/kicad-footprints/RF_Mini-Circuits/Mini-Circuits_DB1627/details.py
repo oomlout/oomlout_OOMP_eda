@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Mini-Circuits")
 newPart.addTag("oompIndex", "Mini-Circuits_DB1627")
+newPart.addTag("oompName", "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_DB1627")
 
 newPart.addTag("kicadDesc", "Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)")
 newPart.addTag("kicadTags", "Mini-Circuits DB1627")

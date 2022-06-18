@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_BL-FL7680RGB")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_BL-FL7680RGB")
 
 newPart.addTag("kicadDesc", "'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf")
 newPart.addTag("kicadTags", "RGB LED Piranha Super-Flux BetLux")

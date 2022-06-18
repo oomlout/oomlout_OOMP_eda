@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "Laird_BL652")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/Laird_BL652")
 
 newPart.addTag("kicadDesc", "Bluetooth v4.2 + NFC module")
 newPart.addTag("kicadTags", "Bluetooth BLE NFC")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "7SegmentLED_LTS6760_LTS6780")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/7SegmentLED_LTS6760_LTS6780")
 
 newPart.addTag("kicadDesc", "7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf")
 newPart.addTag("kicadTags", "7Segment LED LTS6760 LTS6780")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Dsub")
 newPart.addTag("oompIndex", "DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_Dsub/DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles")
 
 newPart.addTag("kicadDesc", "62-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.41x1.98mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
 newPart.addTag("kicadTags", "62-pin D-Sub connector straight vertical THT female pitch 2.41x1.98mm mounting holes distance 63.5mm")

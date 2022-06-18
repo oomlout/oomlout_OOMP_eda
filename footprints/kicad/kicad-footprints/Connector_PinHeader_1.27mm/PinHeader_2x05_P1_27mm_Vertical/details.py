@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinHeader_1.27mm")
 newPart.addTag("oompIndex", "PinHeader_2x05_P1.27mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x05_P1.27mm_Vertical")
 
 newPart.addTag("kicadDesc", "Through hole straight pin header, 2x05, 1.27mm pitch, double rows")
 newPart.addTag("kicadTags", "Through hole pin header THT 2x05 1.27mm double row")

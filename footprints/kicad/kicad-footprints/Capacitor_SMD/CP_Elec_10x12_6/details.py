@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "CP_Elec_10x12.6")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/CP_Elec_10x12.6")
 
 newPart.addTag("kicadDesc", "SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm")
 newPart.addTag("kicadTags", "capacitor electrolytic")

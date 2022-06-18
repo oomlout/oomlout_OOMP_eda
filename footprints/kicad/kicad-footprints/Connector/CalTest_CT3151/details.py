@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "CalTest_CT3151")
+newPart.addTag("oompName", "kicad-footprints/Connector/CalTest_CT3151")
 
 newPart.addTag("kicadDesc", "Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf")
 newPart.addTag("kicadTags", "banana jack horizontal")

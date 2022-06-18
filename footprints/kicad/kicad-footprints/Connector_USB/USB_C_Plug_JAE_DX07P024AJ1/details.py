@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Plug_JAE_DX07P024AJ1")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Plug_JAE_DX07P024AJ1")
 
 newPart.addTag("kicadDesc", "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1")
 newPart.addTag("kicadTags", "USB Type-C Plug Edge Mount")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113")
 newPart.addTag("kicadTags", "potentiometer vertical 9mm dual")

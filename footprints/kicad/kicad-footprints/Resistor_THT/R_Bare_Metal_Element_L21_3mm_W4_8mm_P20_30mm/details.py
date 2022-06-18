@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L21.3mm_W4.8mm_P20.30mm")
 
 newPart.addTag("kicadDesc", "Resistor, Bare_Metal_Element series, Bare Metal Strip/Wire, Horizontal, pin pitch=20.3mm, 5W, length*width=21.3*4.8mm^2, https://www.bourns.com/pdfs/PWR4412-2S.pdf")
 newPart.addTag("kicadTags", "Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch 20.3mm 5W length 21.3mm width 4.8mm")

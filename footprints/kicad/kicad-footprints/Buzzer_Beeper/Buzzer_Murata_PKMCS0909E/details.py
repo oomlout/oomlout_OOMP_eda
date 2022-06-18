@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "Buzzer_Murata_PKMCS0909E")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKMCS0909E")
 
 newPart.addTag("kicadDesc", "Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1")
 newPart.addTag("kicadTags", "Murata Buzzer Beeper")

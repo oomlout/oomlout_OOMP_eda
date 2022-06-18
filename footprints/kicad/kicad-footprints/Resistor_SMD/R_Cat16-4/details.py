@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_Cat16-4")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_Cat16-4")
 
 newPart.addTag("kicadDesc", "SMT resistor net, Bourns CAT16 series, 4 way")
 newPart.addTag("kicadTags", "SMT resistor net Bourns CAT16 series 4 way")

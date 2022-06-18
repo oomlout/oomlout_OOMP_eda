@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-251-3_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-251-3_Vertical")
 
 newPart.addTag("kicadDesc", "TO-251-3, Vertical, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf")
 newPart.addTag("kicadTags", "TO-251-3 Vertical RM 2.29mm IPAK")

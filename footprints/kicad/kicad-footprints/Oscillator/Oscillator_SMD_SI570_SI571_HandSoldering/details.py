@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_SI570_SI571_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_SI570_SI571_HandSoldering")
 
 newPart.addTag("kicadDesc", "SI570, SI571, Programmable oscillator, Standard")
 newPart.addTag("kicadTags", "SI570 SI571 Programmable oscillator Standard")

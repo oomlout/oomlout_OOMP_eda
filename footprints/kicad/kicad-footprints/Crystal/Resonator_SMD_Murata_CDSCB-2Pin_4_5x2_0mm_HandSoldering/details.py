@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering")
 
 newPart.addTag("kicadDesc", "SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 4.5x2.0mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT ceramic resonator filter filter hand-soldering")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_NKK_G1xJP")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_NKK_G1xJP")
 
 newPart.addTag("kicadDesc", "Switch NKK G1xJP http://www.nkkswitches.com/pdf/gwillum.pdf")
 newPart.addTag("kicadTags", "SWITCH TOGGLE ILLUM SPDT NKK")

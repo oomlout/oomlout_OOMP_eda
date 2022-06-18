@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "Buzzer_CUI_CPT-9019S-SMT")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/Buzzer_CUI_CPT-9019S-SMT")
 
 newPart.addTag("kicadDesc", "https://www.cui.com/product/resource/cpt-9019s-smt.pdf")
 newPart.addTag("kicadTags", "buzzer piezo")

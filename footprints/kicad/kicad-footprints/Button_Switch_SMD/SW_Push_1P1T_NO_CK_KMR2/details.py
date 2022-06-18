@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_Push_1P1T_NO_CK_KMR2")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KMR2")
 
 newPart.addTag("kicadDesc", "CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf")
 newPart.addTag("kicadTags", "tactile switch kmr2")

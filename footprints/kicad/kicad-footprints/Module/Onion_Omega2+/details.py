@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Onion_Omega2+")
+newPart.addTag("oompName", "kicad-footprints/Module/Onion_Omega2+")
 
 newPart.addTag("kicadDesc", "https://onion.io/omega2/")
 newPart.addTag("kicadTags", "Omega Onion module")

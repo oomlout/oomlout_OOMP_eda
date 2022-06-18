@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_3mm_Pad")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_3mm_Pad")
 
 newPart.addTag("kicadDesc", "Mounting Hole 3mm")
 newPart.addTag("kicadTags", "mounting hole 3mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LCC")
 newPart.addTag("oompIndex", "PLCC-44_16.6x16.6mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_LCC/PLCC-44_16.6x16.6mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "PLCC, 44 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py")
 newPart.addTag("kicadTags", "PLCC LCC")

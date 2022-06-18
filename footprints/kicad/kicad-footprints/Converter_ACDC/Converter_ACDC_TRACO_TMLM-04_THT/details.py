@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_ACDC")
 newPart.addTag("oompIndex", "Converter_ACDC_TRACO_TMLM-04_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_ACDC/Converter_ACDC_TRACO_TMLM-04_THT")
 
 newPart.addTag("kicadDesc", "ACDC-Converter, TRACO, TMLM Series 04 https://www.tracopower.com/products/tmlm.pdf")
 newPart.addTag("kicadTags", "ACDC-Converter TRACO TMLM Series 04")

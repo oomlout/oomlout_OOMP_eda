@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MSTB")
 newPart.addTag("oompIndex", "PhoenixContact_MSTB_2,5_14-GF_1x14_P5.00mm_Horizontal_ThreadedFlange")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_14-GF_1x14_P5.00mm_Horizontal_ThreadedFlange")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MSTB_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776812 12A")
 newPart.addTag("kicadTags", "phoenix_contact connector MSTB_01x14_GF_5.00mm")

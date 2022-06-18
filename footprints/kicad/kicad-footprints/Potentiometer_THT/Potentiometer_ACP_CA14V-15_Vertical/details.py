@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_ACP_CA14V-15_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA14V-15_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, ACP CA14V-15, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical ACP CA14V-15")

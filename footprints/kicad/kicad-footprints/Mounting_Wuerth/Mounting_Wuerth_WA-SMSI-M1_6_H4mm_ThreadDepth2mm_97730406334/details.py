@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Mounting_Wuerth")
 newPart.addTag("oompIndex", "Mounting_Wuerth_WA-SMSI-M1.6_H4mm_ThreadDepth2mm_97730406334")
+newPart.addTag("oompName", "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H4mm_ThreadDepth2mm_97730406334")
 
 newPart.addTag("kicadDesc", "Mounting Hardware, inside blind hole M1.6, height 4, Wuerth electronics 97730406334 (https://katalog.we-online.com/em/datasheet/97730406334.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Mounting M1.6 97730406334")

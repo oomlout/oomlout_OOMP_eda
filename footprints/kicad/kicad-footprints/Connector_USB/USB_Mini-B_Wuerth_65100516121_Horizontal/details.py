@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Mini-B_Wuerth_65100516121_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Mini-B_Wuerth_65100516121_Horizontal")
 
 newPart.addTag("kicadDesc", "Mini USB 2.0 Type B SMT Horizontal 5 Contacts (https://katalog.we-online.de/em/datasheet/65100516121.pdf)")
 newPart.addTag("kicadTags", "Mini USB 2.0 Type B")

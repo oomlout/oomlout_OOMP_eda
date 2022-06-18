@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal MicroCrystal CM9V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM9V-T1A.pdf, 1.6x1.0mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal")

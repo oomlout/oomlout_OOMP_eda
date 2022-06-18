@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_SMD")
 newPart.addTag("oompIndex", "Potentiometer_Vishay_TS53YJ_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_SMD/Potentiometer_Vishay_TS53YJ_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, Vishay TS53YJ, https://www.vishay.com/docs/51008/ts53.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical Vishay TS53YJ")

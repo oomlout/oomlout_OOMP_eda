@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "TQFP QFP")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_B3SL-1022P")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_B3SL-1022P")
 
 newPart.addTag("kicadDesc", "Middle Stroke Tactile Switch, B3SL")
 newPart.addTag("kicadTags", "Middle Stroke Tactile Switch")

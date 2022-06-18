@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transistor_Power_Module")
 newPart.addTag("oompIndex", "Littelfuse_Package_W_XBN2MM")
+newPart.addTag("oompName", "kicad-footprints/Transistor_Power_Module/Littelfuse_Package_W_XBN2MM")
 
 newPart.addTag("kicadDesc", "24-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1250w_xbn2mm_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "brifge rectifier igbt diode module")

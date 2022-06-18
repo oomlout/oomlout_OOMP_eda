@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "MMCX_Molex_73415-1471_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-1471_Vertical")
 
 newPart.addTag("kicadDesc", "http://www.molex.com/pdm_docs/sd/734151471_sd.pdf")
 newPart.addTag("kicadTags", "Molex MMCX Coaxial Connector 50 ohms Female Jack Vertical THT")

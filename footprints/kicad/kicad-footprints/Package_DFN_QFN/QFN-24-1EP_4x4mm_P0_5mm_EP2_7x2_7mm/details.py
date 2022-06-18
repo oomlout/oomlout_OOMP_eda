@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm")
 
 newPart.addTag("kicadDesc", "QFN, 24 Pin (http://www.alfarzpp.lv/eng/sc/AS3330.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

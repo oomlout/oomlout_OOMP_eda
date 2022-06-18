@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "Allegro_PSOF-7_4.8x6.4mm_P1.60mm")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/Allegro_PSOF-7_4.8x6.4mm_P1.60mm")
 
 newPart.addTag("kicadDesc", "Allegro Microsystems PSOF-7, 4.8x6.4mm Body, 1.60mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx)")
 newPart.addTag("kicadTags", "Allegro PSOF-7")

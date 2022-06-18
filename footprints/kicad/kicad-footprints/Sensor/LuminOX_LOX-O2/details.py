@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor")
 newPart.addTag("oompIndex", "LuminOX_LOX-O2")
+newPart.addTag("oompName", "kicad-footprints/Sensor/LuminOX_LOX-O2")
 
 newPart.addTag("kicadDesc", "SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf")
 newPart.addTag("kicadTags", "SST LuminOX O2")

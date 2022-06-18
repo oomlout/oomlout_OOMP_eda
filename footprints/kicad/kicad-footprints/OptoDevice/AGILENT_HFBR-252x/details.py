@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "AGILENT_HFBR-252x")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/AGILENT_HFBR-252x")
 
 newPart.addTag("kicadDesc", "Fiberoptic Receiver RX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)")
 newPart.addTag("kicadTags", "Fiberoptic Transmitter")

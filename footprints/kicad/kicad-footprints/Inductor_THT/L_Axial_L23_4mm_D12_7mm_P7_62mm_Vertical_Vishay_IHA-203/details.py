@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L23.4mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-203")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L23.4mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-203")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=23.37*12.7mm^2, Vishay, IHA-203, http://www.vishay.com/docs/34014/iha.pdf")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 23.37mm diameter 12.7mm Vishay IHA-203")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Antenna")
 newPart.addTag("oompIndex", "Coilcraft_MA5532-AE_RFID")
+newPart.addTag("oompName", "kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID")
 
 newPart.addTag("kicadDesc", "RFID Transponder Coil")
 newPart.addTag("kicadTags", "antenna rfid coilcraft")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TestPoint")
 newPart.addTag("oompIndex", "TestPoint_THTPad_D1.5mm_Drill0.7mm")
+newPart.addTag("oompName", "kicad-footprints/TestPoint/TestPoint_THTPad_D1.5mm_Drill0.7mm")
 
 newPart.addTag("kicadDesc", "THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm")
 newPart.addTag("kicadTags", "test point THT pad")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Dialight_591")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Dialight_591")
 
 newPart.addTag("kicadDesc", "LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)")
 newPart.addTag("kicadTags", "LED Dialight 591")

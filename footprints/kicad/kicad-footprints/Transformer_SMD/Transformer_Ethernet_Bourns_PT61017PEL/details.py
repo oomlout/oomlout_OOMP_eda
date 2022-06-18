@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Ethernet_Bourns_PT61017PEL")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61017PEL")
 
 newPart.addTag("kicadDesc", "https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf")
 newPart.addTag("kicadTags", "Transformer Ethernet Single Center-Tap")

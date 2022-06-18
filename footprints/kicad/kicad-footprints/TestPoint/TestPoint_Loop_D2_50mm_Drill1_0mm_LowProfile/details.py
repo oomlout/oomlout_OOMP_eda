@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TestPoint")
 newPart.addTag("oompIndex", "TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile")
+newPart.addTag("oompName", "kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile")
 
 newPart.addTag("kicadDesc", "low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm")
 newPart.addTag("kicadTags", "test point wire loop bead")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_JAE_DX07S016JA1R1500")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500")
 
 newPart.addTag("kicadDesc", "USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780")
 newPart.addTag("kicadTags", "USB C Type-C Receptacle SMD USB 2.0")

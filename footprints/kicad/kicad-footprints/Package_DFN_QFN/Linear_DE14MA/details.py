@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Linear_DE14MA")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Linear_DE14MA")
 
 newPart.addTag("kicadDesc", "14-Lead Plastic DFN, 4mm x 3mm (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081731_C_DE14MA.pdf)")
 newPart.addTag("kicadTags", "DFN 0.5")

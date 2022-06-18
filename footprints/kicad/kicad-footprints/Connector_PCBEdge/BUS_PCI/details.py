@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "BUS_PCI")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/BUS_PCI")
 
 newPart.addTag("kicadDesc", "PCI bus Edge Connector")
 newPart.addTag("kicadTags", "PCI bus Edge Connector")

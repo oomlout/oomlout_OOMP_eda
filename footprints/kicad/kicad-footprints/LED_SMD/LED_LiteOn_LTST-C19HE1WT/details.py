@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_LiteOn_LTST-C19HE1WT")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_LiteOn_LTST-C19HE1WT")
 
 newPart.addTag("kicadDesc", "LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf")
 newPart.addTag("kicadTags", "LED RGB Chip SMD")

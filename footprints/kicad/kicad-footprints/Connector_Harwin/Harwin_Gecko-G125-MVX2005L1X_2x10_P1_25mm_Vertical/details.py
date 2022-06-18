@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Harwin")
 newPart.addTag("oompIndex", "Harwin_Gecko-G125-MVX2005L1X_2x10_P1.25mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX2005L1X_2x10_P1.25mm_Vertical")
 
 newPart.addTag("kicadDesc", "Harwin Gecko Connector, 20 pins, dual row male, vertical entry, with latches, PN:G125-MVX2005L1X")
 newPart.addTag("kicadTags", "connector harwin gecko")

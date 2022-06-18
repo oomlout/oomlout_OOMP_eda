@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "HY1602E")
+newPart.addTag("oompName", "kicad-footprints/Display/HY1602E")
 
 newPart.addTag("kicadDesc", "http://www.icbank.com/data/ICBShop/board/HY1602E.pdf")
 newPart.addTag("kicadTags", "LCD 16x2 Alphanumeric 16pin")

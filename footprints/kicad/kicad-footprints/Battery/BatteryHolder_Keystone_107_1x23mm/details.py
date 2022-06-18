@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Keystone_107_1x23mm")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Keystone_107_1x23mm")
 
 newPart.addTag("kicadDesc", "http://www.keyelco.com/product-pdf.cfm?p=746")
 newPart.addTag("kicadTags", "Keystone type 107 battery holder")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Keystone_2479_3xAAA")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Keystone_2479_3xAAA")
 
 newPart.addTag("kicadDesc", "Keystone Battery Holder, 2479, Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder, 2479, Battery Type 3xAAA)")
 newPart.addTag("kicadTags", "Keystone Battery Holder 2479 Battery Type 3xAAA")

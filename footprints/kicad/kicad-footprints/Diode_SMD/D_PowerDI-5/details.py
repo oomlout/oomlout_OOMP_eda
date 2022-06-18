@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_PowerDI-5")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_PowerDI-5")
 
 newPart.addTag("kicadDesc", "PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf")
 newPart.addTag("kicadTags", "PowerDI diode vishay")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Texas_PWP0020A")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Texas_PWP0020A")
 
 newPart.addTag("kicadDesc", "20-Pin Thermally Enhanced Thin Shrink Small-Outline Package, Body 4.4x6.5x1.1mm, Pad 3.0x4.2mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/lm5118.pdf)")
 newPart.addTag("kicadTags", "PWP HTSSOP 0.65mm")

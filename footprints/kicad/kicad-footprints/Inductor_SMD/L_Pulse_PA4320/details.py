@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Pulse_PA4320")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Pulse_PA4320")
 
 newPart.addTag("kicadDesc", "Inductor SMD Pulse PA4320 http://productfinder.pulseeng.com/products/datasheets/P787.pdf")
 newPart.addTag("kicadTags", "Inductor SMD Pulse PA4320")

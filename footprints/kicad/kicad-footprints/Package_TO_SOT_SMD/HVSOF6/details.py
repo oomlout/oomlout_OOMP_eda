@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "HVSOF6")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/HVSOF6")
 
 newPart.addTag("kicadDesc", "HVSOF6, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof6_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/audio_video/video_amplifier/bh76106hfv-e.pdf")
 newPart.addTag("kicadTags", "HVSOF6")

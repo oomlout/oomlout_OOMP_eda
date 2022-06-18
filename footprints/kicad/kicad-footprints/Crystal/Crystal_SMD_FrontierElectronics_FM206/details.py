@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_FrontierElectronics_FM206")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_FrontierElectronics_FM206")
 
 newPart.addTag("kicadDesc", "SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf")
 newPart.addTag("kicadTags", "['FM206']")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transistor_Power_Module")
 newPart.addTag("oompIndex", "Infineon_AG-ECONO2")
+newPart.addTag("oompName", "kicad-footprints/Transistor_Power_Module/Infineon_AG-ECONO2")
 
 newPart.addTag("kicadDesc", "28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979")
 newPart.addTag("kicadTags", "igbt diode module")

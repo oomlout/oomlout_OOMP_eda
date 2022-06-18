@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm")
 
 newPart.addTag("kicadDesc", "Fuse 0ZRE0200FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf")
 newPart.addTag("kicadTags", "0ZRE BelFuse radial PTC")

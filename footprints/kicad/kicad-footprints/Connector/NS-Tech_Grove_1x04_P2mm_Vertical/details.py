@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "NS-Tech_Grove_1x04_P2mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector/NS-Tech_Grove_1x04_P2mm_Vertical")
 
 newPart.addTag("kicadDesc", "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf")
 newPart.addTag("kicadTags", "Grove-1x04")

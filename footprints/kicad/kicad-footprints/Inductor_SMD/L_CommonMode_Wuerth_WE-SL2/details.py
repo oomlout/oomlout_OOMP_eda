@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_CommonMode_Wuerth_WE-SL2")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_CommonMode_Wuerth_WE-SL2")
 
 newPart.addTag("kicadDesc", "http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1")
 newPart.addTag("kicadTags", "Wuerth WE-SL2")

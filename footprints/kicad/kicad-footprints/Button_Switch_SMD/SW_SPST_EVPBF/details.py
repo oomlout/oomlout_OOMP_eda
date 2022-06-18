@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_EVPBF")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_EVPBF")
 
 newPart.addTag("kicadDesc", "Light Touch Switch")
 newPart.addTag("kicadAttr", "smd")

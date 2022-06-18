@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small")
 
 newPart.addTag("kicadDesc", "Symbol, Creative Commons Public Domain, SilkScreenTop, Small,")
 newPart.addTag("kicadTags", "Symbol, Creative Commons Public Domain, SilkScreen Top, Small,")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm")
 
 newPart.addTag("kicadDesc", "10-Lead Plastic WSON, 4x3mm Body, 0.5mm Pitch (http://www.ti.com/lit/ds/symlink/lm4990.pdf)")
 newPart.addTag("kicadTags", "WSON 0.5")

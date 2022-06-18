@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "QFN, 36 Pin (www.st.com/resource/en/datasheet/stm32f101t6.pdf#page=72), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

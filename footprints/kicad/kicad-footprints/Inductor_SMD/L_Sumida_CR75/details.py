@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Sumida_CR75")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Sumida_CR75")
 
 newPart.addTag("kicadDesc", "Inductor, Sumida, 8.1mm × 7.3mm × 5.5 mm, Unshielded, http://products.sumida.com/products/pdf/CR75.pdf")
 newPart.addTag("kicadTags", "Inductor SMD CR75 Unshielded")

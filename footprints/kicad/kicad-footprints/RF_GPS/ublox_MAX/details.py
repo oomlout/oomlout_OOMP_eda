@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "ublox_MAX")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/ublox_MAX")
 
 newPart.addTag("kicadDesc", "ublox MAX 6/7/8, (https://www.u-blox.com/sites/default/files/MAX-8-M8-FW3_HardwareIntegrationManual_%28UBX-15030059%29.pdf)")
 newPart.addTag("kicadTags", "GPS ublox MAX 6/7/8")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "Sx39-1xxxxx")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/Sx39-1xxxxx")
 
 newPart.addTag("kicadDesc", "Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf")
 newPart.addTag("kicadTags", "One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12")

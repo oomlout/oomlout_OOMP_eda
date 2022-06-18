@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Socket")
 newPart.addTag("oompIndex", "Wells_648-0482211SA01")
+newPart.addTag("oompName", "kicad-footprints/Socket/Wells_648-0482211SA01")
 
 newPart.addTag("kicadDesc", "https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824")
 newPart.addTag("kicadTags", "48pin TSOP Socket")

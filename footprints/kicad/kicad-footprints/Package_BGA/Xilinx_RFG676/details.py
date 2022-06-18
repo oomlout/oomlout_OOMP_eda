@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "Xilinx_RFG676")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/Xilinx_RFG676")
 
 newPart.addTag("kicadDesc", "Zynq-7000 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=93, NSMD pad definition Appendix A")
 newPart.addTag("kicadTags", "BGA 676 1 RF676 RFG676")

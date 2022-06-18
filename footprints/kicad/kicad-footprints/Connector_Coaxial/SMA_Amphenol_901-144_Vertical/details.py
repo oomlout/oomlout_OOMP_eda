@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Amphenol_901-144_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Amphenol_901-144_Vertical")
 
 newPart.addTag("kicadDesc", "https://www.amphenolrf.com/downloads/dl/file/id/7023/product/3103/901_144_customer_drawing.pdf")
 newPart.addTag("kicadTags", "SMA THT Female Jack Vertical")

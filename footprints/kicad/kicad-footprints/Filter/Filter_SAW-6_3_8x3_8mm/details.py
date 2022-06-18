@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_SAW-6_3.8x3.8mm")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_SAW-6_3.8x3.8mm")
 
 newPart.addTag("kicadDesc", "6-pin 3.8 x 3.8mm SAW filter package, https://www.golledge.com/media/3785/mp08167.pdf")
 newPart.addTag("kicadTags", "SAW filter 6-pin")

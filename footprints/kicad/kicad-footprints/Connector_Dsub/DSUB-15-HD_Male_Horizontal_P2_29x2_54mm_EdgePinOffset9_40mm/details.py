@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Dsub")
 newPart.addTag("oompIndex", "DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm")
+newPart.addTag("oompName", "kicad-footprints/Connector_Dsub/DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm")
 
 newPart.addTag("kicadDesc", "15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf")
 newPart.addTag("kicadTags", "15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Eagle_12BH611-GR")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR")
 
 newPart.addTag("kicadDesc", "https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf")
 newPart.addTag("kicadTags", "9V Battery Holder")

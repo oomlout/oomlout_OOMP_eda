@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_ACDC")
 newPart.addTag("oompIndex", "Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Converter_ACDC/Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical")
 
 newPart.addTag("kicadDesc", "ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf")
 newPart.addTag("kicadTags", "Converter AC-DC THT Vertical")

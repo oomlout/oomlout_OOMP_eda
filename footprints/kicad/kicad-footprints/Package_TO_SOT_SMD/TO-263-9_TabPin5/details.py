@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-263-9_TabPin5")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-263-9_TabPin5")
 
 newPart.addTag("kicadDesc", "TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf")
 newPart.addTag("kicadTags", "D2PAK DDPAK TO-263 D2PAK-9 TO-263-9")

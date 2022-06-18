@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
 
 newPart.addTag("kicadDesc", "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 newPart.addTag("kicadTags", "LED RGB NeoPixel Mini")

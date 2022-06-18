@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_PLCC-2")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_PLCC-2")
 
 newPart.addTag("kicadDesc", "LED PLCC-2 SMD package")
 newPart.addTag("kicadTags", "LED PLCC-2 SMD")

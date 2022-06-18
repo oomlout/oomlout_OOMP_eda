@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_XLR-6.35mm_Neutrik_NCJ5FI-H_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ5FI-H_Horizontal")
 
 newPart.addTag("kicadDesc", "Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-h")
 newPart.addTag("kicadTags", "neutrik jack combo i")

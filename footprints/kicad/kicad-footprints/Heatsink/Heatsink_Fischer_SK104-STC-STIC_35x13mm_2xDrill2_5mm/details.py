@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm")
 
 newPart.addTag("kicadDesc", "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,")
 newPart.addTag("kicadTags", "Heatsink fischer TO-220")

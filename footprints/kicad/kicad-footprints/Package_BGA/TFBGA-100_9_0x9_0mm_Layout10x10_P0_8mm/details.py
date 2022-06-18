@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "TFBGA-100_9.0x9.0mm_Layout10x10_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/TFBGA-100_9.0x9.0mm_Layout10x10_P0.8mm")
 
 newPart.addTag("kicadDesc", "TFBGA-100, 10x10, 9x9mm package, pitch 0.8mm")
 newPart.addTag("kicadTags", "TFBGA-100")

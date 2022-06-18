@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Piher_PT-6-V_Vertical_Hole")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-6-V_Vertical_Hole")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, shaft hole, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical hole Piher PT-6-V")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_XLR_Neutrik_NC3FAAV2_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAAV2_Vertical")
 
 newPart.addTag("kicadDesc", "AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav2")
 newPart.addTag("kicadTags", "neutrik xlr aa")

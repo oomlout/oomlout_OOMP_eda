@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL")
 
 newPart.addTag("kicadDesc", "Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ L, Typ XL, Typ XXL, https://katalog.we-online.com/pbs/datasheet/744874001.pdf")
 newPart.addTag("kicadTags", "Choke Coupled Double Inductor SMD Wuerth WE-DD TypL TypXL TypXXL")

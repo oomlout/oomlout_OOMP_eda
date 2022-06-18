@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_3220_8050Metric")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_3220_8050Metric")
 
 newPart.addTag("kicadDesc", "Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "diode")

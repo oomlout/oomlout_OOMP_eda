@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "VSSOP-8_3.0x3.0mm_P0.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/VSSOP-8_3.0x3.0mm_P0.65mm")
 
 newPart.addTag("kicadDesc", "VSSOP-8 3.0 x 3.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf")
 newPart.addTag("kicadTags", "VSSOP-8 3.0 x 3.0")

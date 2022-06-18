@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal")
 
 newPart.addTag("kicadDesc", "3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)")
 newPart.addTag("kicadTags", "3.5mm audio cui horizontal jack stereo")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
 
 newPart.addTag("kicadDesc", "BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf")
 newPart.addTag("kicadTags", "BGA-96")

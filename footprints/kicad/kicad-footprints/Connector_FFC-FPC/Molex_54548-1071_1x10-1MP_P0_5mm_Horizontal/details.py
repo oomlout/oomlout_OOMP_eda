@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex FFC/FPC connector, 10 bottom-side contacts, 0.5mm pitch, 1.2mm height, https://www.molex.com/pdm_docs/sd/545481071_sd.pdf")
 newPart.addTag("kicadTags", "FFC FPC connector")

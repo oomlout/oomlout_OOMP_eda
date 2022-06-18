@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Rotary_Encoder")
 newPart.addTag("oompIndex", "RotaryEncoder_Alps_EC11E_Vertical_H20mm")
+newPart.addTag("oompName", "kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC11E_Vertical_H20mm")
 
 newPart.addTag("kicadDesc", "Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 newPart.addTag("kicadTags", "rotary encoder")

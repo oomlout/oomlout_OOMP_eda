@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_A-405_P5.08mm_Vertical_KathodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_A-405_P5.08mm_Vertical_KathodeUp")
 
 newPart.addTag("kicadDesc", "Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf")
 newPart.addTag("kicadTags", "Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm")

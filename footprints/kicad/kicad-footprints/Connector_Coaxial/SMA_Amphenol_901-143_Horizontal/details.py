@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Amphenol_901-143_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Amphenol_901-143_Horizontal")
 
 newPart.addTag("kicadDesc", "Amphenol RF 901-143 https://www.amphenolrf.com/library/download/link/link_id/585682")
 newPart.addTag("kicadTags", "SMA THT Female Jack Horizontal")

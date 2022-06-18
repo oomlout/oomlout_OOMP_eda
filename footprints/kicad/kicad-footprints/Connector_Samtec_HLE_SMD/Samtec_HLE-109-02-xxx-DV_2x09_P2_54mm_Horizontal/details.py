@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Samtec_HLE_SMD")
 newPart.addTag("oompIndex", "Samtec_HLE-109-02-xxx-DV_2x09_P2.54mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-109-02-xxx-DV_2x09_P2.54mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Samtec HLE .100\" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-109-02-xxx-DV, 9 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Samtec HLE horizontal")

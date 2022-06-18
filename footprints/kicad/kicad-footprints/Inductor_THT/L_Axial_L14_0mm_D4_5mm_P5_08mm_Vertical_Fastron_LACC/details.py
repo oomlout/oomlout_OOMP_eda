@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=14*4.5mm^2, Fastron, LACC, http://www.fastrongroup.com/image-show/20/LACC.pdf?type=Complete-DataSheet&productType=series")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 14mm diameter 4.5mm Fastron LACC")

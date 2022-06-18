@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_TRACO_TMR-1SM_SMD")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TMR-1SM_SMD")
 
 newPart.addTag("kicadDesc", "http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf")
 newPart.addTag("kicadTags", "DCDC SMD TRACO TMR-1SM")

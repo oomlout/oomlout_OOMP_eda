@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_Socket_DPDT_Finder_96.12")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12")
 
 newPart.addTag("kicadDesc", "https://gfinder.findernet.com/public/attachments/56/DE/S56DE.pdf")
 newPart.addTag("kicadTags", "Relay socket DPDT Finder 96.12 56.32")

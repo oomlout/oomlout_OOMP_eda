@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_THT")
 newPart.addTag("oompIndex", "CP_Radial_D30.0mm_P10.00mm_SnapIn")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_THT/CP_Radial_D30.0mm_P10.00mm_SnapIn")
 
 newPart.addTag("kicadDesc", "CP, Radial series, Radial, pin pitch=10.00mm, , diameter=30mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf")
 newPart.addTag("kicadTags", "CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor")

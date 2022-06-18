@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF")
 newPart.addTag("oompIndex", "Skyworks_SKY65404-31")
+newPart.addTag("oompName", "kicad-footprints/RF/Skyworks_SKY65404-31")
 
 newPart.addTag("kicadDesc", "http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf")
 newPart.addTag("kicadTags", "Skyworks")

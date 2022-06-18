@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_A_CNCTech_1001-011-01101_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_A_CNCTech_1001-011-01101_Horizontal")
 
 newPart.addTag("kicadDesc", "USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf")
 newPart.addTag("kicadTags", "USB-A")

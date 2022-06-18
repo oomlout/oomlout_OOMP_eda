@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Horizontal_D40.0mm_P48.26mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D40.0mm_P48.26mm")
 
 newPart.addTag("kicadDesc", "L_Toroid, Horizontal series, Radial, pin pitch=48.26mm, , diameter=40mm")
 newPart.addTag("kicadTags", "L_Toroid Horizontal series Radial pin pitch 48.26mm  diameter 40mm")

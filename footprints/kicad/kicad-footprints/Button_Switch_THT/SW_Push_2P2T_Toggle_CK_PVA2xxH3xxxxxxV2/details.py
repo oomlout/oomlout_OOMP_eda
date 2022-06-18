@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2")
 
 newPart.addTag("kicadDesc", "momentary / push-push button, h=20.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf")
 newPart.addTag("kicadTags", "tact sw push PVA2 DPDT")

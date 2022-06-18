@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "Choke_EPCOS_B82722A")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/Choke_EPCOS_B82722A")
 
 newPart.addTag("kicadDesc", "Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf")
 newPart.addTag("kicadTags", "chokes epcos tht")

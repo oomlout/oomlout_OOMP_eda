@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering")
 
 newPart.addTag("kicadDesc", "Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "Bosch LGA NoLead")

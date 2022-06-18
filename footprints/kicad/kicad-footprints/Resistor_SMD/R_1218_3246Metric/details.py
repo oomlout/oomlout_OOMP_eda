@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_1218_3246Metric")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_1218_3246Metric")
 
 newPart.addTag("kicadDesc", "Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "resistor")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_XP_POWER-ISU02_SMD")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ISU02_SMD")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, XP POWER, ISU02 Series, 2W Single and Dual Output, 1500VDC Isolation, 19.0x17.0x8.7mm https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf")
 newPart.addTag("kicadTags", "DCDC SMD XP POWER ISU02")

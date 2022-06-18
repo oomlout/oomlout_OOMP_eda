@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "SBC18-11SURKCGKWA")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/SBC18-11SURKCGKWA")
 
 newPart.addTag("kicadDesc", "http://www.kingbright.com/attachments/file/psearch/000/00/00/SBC18-11SURKCGKWA(Ver.6A).pdf")
 newPart.addTag("kicadTags", "single digit 7 segemnt red/green LED")

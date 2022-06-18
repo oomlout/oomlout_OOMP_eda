@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "RoHS-Logo_30mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/RoHS-Logo_30mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "Restriction of Hazardous Substances Directive Logo")
 newPart.addTag("kicadTags", "Logo RoHS")

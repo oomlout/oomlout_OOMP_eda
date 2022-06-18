@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Cincon_EC6Cxx_Dual-Triple_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, CINCON, EC6Cxx, dual or tripple output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf")
 newPart.addTag("kicadTags", "DCDC-Converter CINCON EC6Cxx dual or tripple output")

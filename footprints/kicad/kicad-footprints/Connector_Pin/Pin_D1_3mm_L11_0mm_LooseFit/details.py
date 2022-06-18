@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Pin")
 newPart.addTag("oompIndex", "Pin_D1.3mm_L11.0mm_LooseFit")
+newPart.addTag("oompName", "kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit")
 
 newPart.addTag("kicadDesc", "solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm")
 newPart.addTag("kicadTags", "solder Pin_ loose fit")

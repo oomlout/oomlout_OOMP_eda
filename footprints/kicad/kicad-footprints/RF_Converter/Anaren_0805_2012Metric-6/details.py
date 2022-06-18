@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Converter")
 newPart.addTag("oompIndex", "Anaren_0805_2012Metric-6")
+newPart.addTag("oompName", "kicad-footprints/RF_Converter/Anaren_0805_2012Metric-6")
 
 newPart.addTag("kicadDesc", "https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf")
 newPart.addTag("kicadTags", "coupler rf")

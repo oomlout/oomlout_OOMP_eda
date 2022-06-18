@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-GF-1210")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-GF-1210")
 
 newPart.addTag("kicadDesc", "Unshielded Inductor, Wuerth Elektronik, WE-GF, SMD, 1210, https://www.we-online.de/katalog/datasheet/74476401.pdf")
 newPart.addTag("kicadTags", "Unshielded Inductor WE-GF 1210 Wuerth")

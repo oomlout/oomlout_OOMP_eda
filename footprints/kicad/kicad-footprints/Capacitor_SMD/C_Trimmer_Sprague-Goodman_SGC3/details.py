@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "C_Trimmer_Sprague-Goodman_SGC3")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/C_Trimmer_Sprague-Goodman_SGC3")
 
 newPart.addTag("kicadDesc", "trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf")
 newPart.addTag("kicadTags", "Sprague Goodman SGC3")

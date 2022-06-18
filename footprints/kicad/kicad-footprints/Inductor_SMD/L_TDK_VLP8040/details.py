@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_TDK_VLP8040")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_TDK_VLP8040")
 
 newPart.addTag("kicadDesc", "Inductor,TDK, TDK-VLP-8040, 8.6mmx8.6mm")
 newPart.addTag("kicadTags", "inductor TDK VLP smd VLP8040")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_Phoenix")
 newPart.addTag("oompIndex", "TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02-1MP_P2.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02-1MP_P2.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "PhoenixContact PTSM0,5 2 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814702/pdf")
 newPart.addTag("kicadTags", "PhoenixContact PTSM0.5 2 2.5mm vertical SMD spring clamp terminal block connector")

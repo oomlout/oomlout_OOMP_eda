@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Littelfuse_100_series_5x20mm")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Littelfuse_100_series_5x20mm")
 
 newPart.addTag("kicadDesc", "Littelfuse clips, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "Fuseholder clips")

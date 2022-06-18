@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "LQFP-144_20x20mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/LQFP-144_20x20mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "LQFP QFP")

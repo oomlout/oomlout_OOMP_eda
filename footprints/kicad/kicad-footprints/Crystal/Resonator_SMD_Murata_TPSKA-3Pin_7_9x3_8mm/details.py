@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm")
 
 newPart.addTag("kicadDesc", "SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT ceramic resonator filter filter")

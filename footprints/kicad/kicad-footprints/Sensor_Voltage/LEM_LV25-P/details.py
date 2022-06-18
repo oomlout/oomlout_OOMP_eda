@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Voltage")
 newPart.addTag("oompIndex", "LEM_LV25-P")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Voltage/LEM_LV25-P")
 
 newPart.addTag("kicadDesc", "LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf")
 newPart.addTag("kicadTags", "LEM Hall Effect Voltage transducer")

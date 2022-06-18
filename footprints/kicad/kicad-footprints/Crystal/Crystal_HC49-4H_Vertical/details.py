@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_HC49-4H_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_HC49-4H_Vertical")
 
 newPart.addTag("kicadDesc", "Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf")
 newPart.addTag("kicadTags", "THT crystalHC-49-4H")

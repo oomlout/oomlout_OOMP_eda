@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_Powermite_KA")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_Powermite_KA")
 
 newPart.addTag("kicadDesc", "Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)")
 newPart.addTag("kicadTags", "Powermite")

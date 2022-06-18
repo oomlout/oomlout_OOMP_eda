@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MSTB")
 newPart.addTag("oompIndex", "PhoenixContact_MSTBV_2,5_14-GF_1x14_P5.00mm_Vertical_ThreadedFlange")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_14-GF_1x14_P5.00mm_Vertical_ThreadedFlange")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MSTBV_2,5/14-GF; number of pins: 14; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776002 12A")
 newPart.addTag("kicadTags", "phoenix_contact connector MSTBV_01x14_GF_5.00mm")

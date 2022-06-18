@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Samtec")
 newPart.addTag("oompIndex", "Samtec_LSHM-150-xx.x-x-DV-N_2x50_P0.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Samtec/Samtec_LSHM-150-xx.x-x-DV-N_2x50_P0.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex LSHM 0.50 mm Razor Beam High-Speed Hermaphroditic Terminal/Socket Strip, LSHM-150-xx.x-x-DV-N, 50 Pins per row (http://suddendocs.samtec.com/prints/lshm-1xx-xx.x-x-dv-a-x-x-tr-footprint.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Samtec  side entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DirectFET")
 newPart.addTag("oompIndex", "DirectFET_L8")
+newPart.addTag("oompName", "kicad-footprints/Package_DirectFET/DirectFET_L8")
 
 newPart.addTag("kicadDesc", "DirectFET L8 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=43")
 newPart.addTag("kicadTags", "DirectFET L8 MOSFET Infineon")

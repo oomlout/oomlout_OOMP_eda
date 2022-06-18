@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_0402_1005Metric")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_0402_1005Metric")
 
 newPart.addTag("kicadDesc", "Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "fuse")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Nordic_AQFN-73-1EP_7x7mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Nordic_AQFN-73-1EP_7x7mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html")
 newPart.addTag("kicadTags", "AQFN 7mm")

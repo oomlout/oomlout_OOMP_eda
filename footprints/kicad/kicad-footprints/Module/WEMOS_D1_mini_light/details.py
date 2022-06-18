@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "WEMOS_D1_mini_light")
+newPart.addTag("oompName", "kicad-footprints/Module/WEMOS_D1_mini_light")
 
 newPart.addTag("kicadDesc", "16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg")
 newPart.addTag("kicadTags", "ESP8266 WiFi microcontroller")

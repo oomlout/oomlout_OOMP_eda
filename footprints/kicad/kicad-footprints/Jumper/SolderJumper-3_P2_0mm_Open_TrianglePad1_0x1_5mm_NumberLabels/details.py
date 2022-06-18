@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Jumper")
 newPart.addTag("oompIndex", "SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels")
+newPart.addTag("oompName", "kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels")
 
 newPart.addTag("kicadDesc", "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers")
 newPart.addTag("kicadTags", "solder jumper open")

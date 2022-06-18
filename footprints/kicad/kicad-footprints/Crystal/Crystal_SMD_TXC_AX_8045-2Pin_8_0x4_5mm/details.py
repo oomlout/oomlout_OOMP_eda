@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm")
 
 newPart.addTag("kicadDesc", "http://www.txccrystal.com/images/pdf/ax-automotive.pdf")
 newPart.addTag("kicadTags", "SMD SMT crystal")

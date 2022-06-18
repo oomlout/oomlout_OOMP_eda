@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Vishay_T7-YA_Single_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_T7-YA_Single_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, Vishay T7-YA Single, http://www.vishay.com/docs/51015/t7.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical Vishay T7-YA Single")

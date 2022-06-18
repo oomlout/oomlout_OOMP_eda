@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "LGA-24L_3x3.5mm_P0.43mm")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm")
 
 newPart.addTag("kicadDesc", "LGA 24L 3x3.5mm Pitch 0.43mm")
 newPart.addTag("kicadTags", "LGA 24L 3x3.5mm Pitch 0.43mm")

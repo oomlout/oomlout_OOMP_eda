@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm")
 
 newPart.addTag("kicadDesc", "QFN, 48 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_48_05-08-1704.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

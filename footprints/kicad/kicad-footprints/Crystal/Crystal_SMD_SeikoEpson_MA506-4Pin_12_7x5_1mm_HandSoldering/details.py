@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering")
 
 newPart.addTag("kicadDesc", "SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal hand-soldering")

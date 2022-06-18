@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_EVQQ2")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_EVQQ2")
 
 newPart.addTag("kicadDesc", "Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf")
 newPart.addTag("kicadAttr", "smd")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm")
 
 newPart.addTag("kicadDesc", "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf")
 newPart.addTag("kicadTags", "LED RGB NeoPixel Nano")

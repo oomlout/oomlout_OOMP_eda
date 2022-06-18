@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSOP-I-32_18.4x8mm_P0.5mm_Reverse")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm_Reverse")
 
 newPart.addTag("kicadDesc", "TSOP I, 32 pins, 18.4x8mm body (http://www.futurlec.com/Datasheet/Memory/628128.pdf), reverse mount")
 newPart.addTag("kicadTags", "TSOP I 32 reverse")

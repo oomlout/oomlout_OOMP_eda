@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinHeader_2.00mm")
 newPart.addTag("oompIndex", "PinHeader_1x08_P2.00mm_Vertical_SMD_Pin1Left")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x08_P2.00mm_Vertical_SMD_Pin1Left")
 
 newPart.addTag("kicadDesc", "surface-mounted straight pin header, 1x08, 2.00mm pitch, single row, style 1 (pin 1 left)")
 newPart.addTag("kicadTags", "Surface mounted pin header SMD 1x08 2.00mm single row style1 pin1 left")

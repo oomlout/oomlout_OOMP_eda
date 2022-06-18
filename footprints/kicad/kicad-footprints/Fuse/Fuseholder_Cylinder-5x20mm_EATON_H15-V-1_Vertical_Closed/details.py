@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed")
 
 newPart.addTag("kicadDesc", "PCB fuse holders for 5 mm x 20 mm fuses; 250V; 10A (http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/bus-elx-ds-4426-h15.pdf)")
 newPart.addTag("kicadTags", "fuse holder vertical 5x20mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "ST_Morpho_Connector_144_STLink")
+newPart.addTag("oompName", "kicad-footprints/Module/ST_Morpho_Connector_144_STLink")
 
 newPart.addTag("kicadDesc", "ST Morpho Connector 144 With STLink")
 newPart.addTag("kicadTags", "ST Morpho Connector 144 STLink")

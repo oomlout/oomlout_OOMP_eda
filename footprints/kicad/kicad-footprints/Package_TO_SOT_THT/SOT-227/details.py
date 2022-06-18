@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "SOT-227")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/SOT-227")
 
 newPart.addTag("kicadDesc", "SOT-227 / SOT-227B / ISOTOP, M4 mounting screws (https://www.vishay.com/docs/95423/sot227g2.pdf, https://www.vishay.com/docs/95793/vs-fc420sa10.pdf)")
 newPart.addTag("kicadTags", "sot 227 isotop")

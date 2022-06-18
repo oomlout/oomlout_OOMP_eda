@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "ATPAK-2")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/ATPAK-2")
 
 newPart.addTag("kicadDesc", "ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF")
 newPart.addTag("kicadTags", "ATPAK")

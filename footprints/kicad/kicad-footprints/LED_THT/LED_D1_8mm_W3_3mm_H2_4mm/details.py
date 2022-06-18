@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D1.8mm_W3.3mm_H2.4mm")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D1.8mm_W3.3mm_H2.4mm")
 
 newPart.addTag("kicadDesc", "LED, Round,  Rectangular size 3.3x2.4mm^2 diameter 1.8mm, 2 pins")
 newPart.addTag("kicadTags", "LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins")

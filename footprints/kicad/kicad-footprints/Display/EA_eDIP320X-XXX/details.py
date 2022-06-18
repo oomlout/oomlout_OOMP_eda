@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "EA_eDIP320X-XXX")
+newPart.addTag("oompName", "kicad-footprints/Display/EA_eDIP320X-XXX")
 
 newPart.addTag("kicadDesc", "LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf")
 newPart.addTag("kicadTags", "LCD display 320x340 RS-232 I2C or SPI")

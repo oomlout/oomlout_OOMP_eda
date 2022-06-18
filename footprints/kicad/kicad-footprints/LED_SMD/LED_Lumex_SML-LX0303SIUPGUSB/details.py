@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Lumex_SML-LX0303SIUPGUSB")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Lumex_SML-LX0303SIUPGUSB")
 
 newPart.addTag("kicadDesc", "Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf")
 newPart.addTag("kicadTags", "LED RGB")

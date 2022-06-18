@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_EuroQuartz_X22-4Pin_2.5x2.0mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_EuroQuartz_X22-4Pin_2.5x2.0mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, 2.5x2.0mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal")

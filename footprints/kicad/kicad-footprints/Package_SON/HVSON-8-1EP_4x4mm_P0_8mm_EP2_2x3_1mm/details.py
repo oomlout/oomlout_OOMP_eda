@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm")
 
 newPart.addTag("kicadDesc", "HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf (page 57)), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "HVSON NoLead")

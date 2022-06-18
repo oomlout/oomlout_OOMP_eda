@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Hirose")
 newPart.addTag("oompIndex", "Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Hirose/Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Hirose  series connector, DF3EA-04P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Hirose  top entry")

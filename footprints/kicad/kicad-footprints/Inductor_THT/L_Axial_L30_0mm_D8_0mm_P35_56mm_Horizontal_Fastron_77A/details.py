@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Horizontal, pin pitch=35.56mm, , length*diameter=30*8mm^2, Fastron, 77A, http://cdn-reichelt.de/documents/datenblatt/B400/DS_77A.pdf")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Horizontal pin pitch 35.56mm  length 30mm diameter 8mm Fastron 77A")

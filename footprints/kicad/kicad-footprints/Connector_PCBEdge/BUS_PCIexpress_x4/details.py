@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "BUS_PCIexpress_x4")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/BUS_PCIexpress_x4")
 
 newPart.addTag("kicadDesc", "PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70")
 newPart.addTag("kicadTags", "PCIe")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_Vishay_MBLS")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_MBLS")
 
 newPart.addTag("kicadDesc", "SMD diode bridge MBLS, see http://www.vishay.com/docs/89959/mbl104s.pdf http://www.vishay.com/docs/88854/padlayouts.pdf")
 newPart.addTag("kicadTags", "DFS")

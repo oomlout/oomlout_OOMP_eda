@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "DE119-XX-XX")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/DE119-XX-XX")
 
 newPart.addTag("kicadDesc", "https://www.display-elektronik.de/filter/DE119-RS-20_635.pdf")
 newPart.addTag("kicadTags", "4 digit 7 segment LCD")

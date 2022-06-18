@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Texas_R-PDSO-G6")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Texas_R-PDSO-G6")
 
 newPart.addTag("kicadDesc", "R-PDSO-G6, http://www.ti.com/lit/ds/slis144b/slis144b.pdf")
 newPart.addTag("kicadTags", "R-PDSO-G6 SC-70-6")

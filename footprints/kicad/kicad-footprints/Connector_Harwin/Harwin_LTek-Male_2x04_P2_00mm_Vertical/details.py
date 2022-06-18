@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Harwin")
 newPart.addTag("oompIndex", "Harwin_LTek-Male_2x04_P2.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Harwin/Harwin_LTek-Male_2x04_P2.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "Harwin LTek Connector, 8 pins, single row male, vertical entry")
 newPart.addTag("kicadTags", "connector harwin ltek M80")

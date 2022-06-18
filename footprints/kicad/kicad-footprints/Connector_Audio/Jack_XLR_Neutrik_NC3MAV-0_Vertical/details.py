@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_XLR_Neutrik_NC3MAV-0_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAV-0_Vertical")
 
 newPart.addTag("kicadDesc", "A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav-0")
 newPart.addTag("kicadTags", "neutrik xlr a")

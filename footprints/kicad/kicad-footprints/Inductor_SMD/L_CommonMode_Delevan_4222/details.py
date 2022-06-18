@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_CommonMode_Delevan_4222")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_CommonMode_Delevan_4222")
 
 newPart.addTag("kicadDesc", "API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf")
 newPart.addTag("kicadTags", "surface mount common mode bead")

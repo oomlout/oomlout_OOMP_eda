@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "Taiyo-Yuden_EYSGJNZWY")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/Taiyo-Yuden_EYSGJNZWY")
 
 newPart.addTag("kicadDesc", "Taiyo Yuden NRF51822 Module Bluetooth https://www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf")
 newPart.addTag("kicadTags", "Taiyo Yuden NRF51822 Module Bluetooth")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering")
 
 newPart.addTag("kicadDesc", "SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal hand-soldering")

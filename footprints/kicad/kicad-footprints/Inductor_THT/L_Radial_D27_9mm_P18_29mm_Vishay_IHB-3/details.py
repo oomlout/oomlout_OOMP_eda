@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Radial_D27.9mm_P18.29mm_Vishay_IHB-3")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Radial_D27.9mm_P18.29mm_Vishay_IHB-3")
 
 newPart.addTag("kicadDesc", "Inductor, Radial series, Radial, pin pitch=18.29mm, , diameter=27.9mm, Vishay, IHB-3, http://www.vishay.com/docs/34015/ihb.pdf")
 newPart.addTag("kicadTags", "Inductor Radial series Radial pin pitch 18.29mm  diameter 27.9mm Vishay IHB-3")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "Adafruit_SSD1306")
+newPart.addTag("oompName", "kicad-footprints/Display/Adafruit_SSD1306")
 
 newPart.addTag("kicadDesc", "Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads")
 newPart.addTag("kicadTags", "Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI")

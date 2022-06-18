@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_BarrelJack")
 newPart.addTag("oompIndex", "BarrelJack_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_BarrelJack/BarrelJack_Horizontal")
 
 newPart.addTag("kicadDesc", "DC Barrel Jack")
 newPart.addTag("kicadTags", "Power Jack")

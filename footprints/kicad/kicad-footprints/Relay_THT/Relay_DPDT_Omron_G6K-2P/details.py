@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_DPDT_Omron_G6K-2P")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_DPDT_Omron_G6K-2P")
 
 newPart.addTag("kicadDesc", "Omron G6K-2P relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 newPart.addTag("kicadTags", "Omron G6K-2P relay")

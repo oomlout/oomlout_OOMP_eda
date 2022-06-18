@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "MagneticBuzzer_Kobitone_254-EMB84Q-RO")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kobitone_254-EMB84Q-RO")
 
 newPart.addTag("kicadDesc", "MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf")
 newPart.addTag("kicadTags", "MagneticBuzzer Kobitone 254-EMB84Q-RO")

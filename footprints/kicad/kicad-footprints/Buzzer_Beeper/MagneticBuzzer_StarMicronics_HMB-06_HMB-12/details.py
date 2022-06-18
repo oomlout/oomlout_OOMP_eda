@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "MagneticBuzzer_StarMicronics_HMB-06_HMB-12")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12")
 
 newPart.addTag("kicadDesc", "Buzzer, Elektromagnetic Beeper, Summer,")
 newPart.addTag("kicadTags", "Star Micronics HMB-06 HMB-12")

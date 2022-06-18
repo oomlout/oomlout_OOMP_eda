@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "TQFP-120_14x14mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/TQFP-120_14x14mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "TQFP120 14x14 / TQFP120 CASE 932AZ (see ON Semiconductor 932AZ.PDF)")
 newPart.addTag("kicadTags", "QFP 0.4")

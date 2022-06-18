@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Array_SIP13")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Array_SIP13")
 
 newPart.addTag("kicadDesc", "13-pin Resistor SIP pack")
 newPart.addTag("kicadTags", "R")

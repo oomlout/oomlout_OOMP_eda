@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm")
 
 newPart.addTag("kicadDesc", "ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf")
 newPart.addTag("kicadTags", "UQFN DFN 0.5 ST")

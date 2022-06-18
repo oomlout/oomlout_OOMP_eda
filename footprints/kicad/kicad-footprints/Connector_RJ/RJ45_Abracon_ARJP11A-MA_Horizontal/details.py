@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Abracon_ARJP11A-MA_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Abracon_ARJP11A-MA_Horizontal")
 
 newPart.addTag("kicadDesc", "Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)")
 newPart.addTag("kicadTags", "ethernet 8p8c transformer poe rj45")

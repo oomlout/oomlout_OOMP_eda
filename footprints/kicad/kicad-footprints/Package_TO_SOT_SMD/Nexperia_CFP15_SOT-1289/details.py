@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Nexperia_CFP15_SOT-1289")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Nexperia_CFP15_SOT-1289")
 
 newPart.addTag("kicadDesc", "Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf")
 newPart.addTag("kicadTags", "SOT-1289 CFP15")

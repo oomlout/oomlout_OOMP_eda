@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown")
 
 newPart.addTag("kicadDesc", "TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-2")
 newPart.addTag("kicadTags", "TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-2")

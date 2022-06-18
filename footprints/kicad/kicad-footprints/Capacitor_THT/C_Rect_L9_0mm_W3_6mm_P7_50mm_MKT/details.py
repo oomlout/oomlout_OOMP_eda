@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_THT")
 newPart.addTag("oompIndex", "C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_THT/C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT")
 
 newPart.addTag("kicadDesc", "C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf")
 newPart.addTag("kicadTags", "C Rect series Radial pin pitch 7.50mm  length 9mm width 3.6mm Capacitor")

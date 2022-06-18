@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "BNC_Amphenol_031-6575_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/BNC_Amphenol_031-6575_Horizontal")
 
 newPart.addTag("kicadDesc", "dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)")
 newPart.addTag("kicadTags", "Dual BNC Amphenol Horizontal")

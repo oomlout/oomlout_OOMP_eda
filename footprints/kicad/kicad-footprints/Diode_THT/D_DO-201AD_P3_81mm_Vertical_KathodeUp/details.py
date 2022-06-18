@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-201AD_P3.81mm_Vertical_KathodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-201AD_P3.81mm_Vertical_KathodeUp")
 
 newPart.addTag("kicadDesc", "Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf")
 newPart.addTag("kicadTags", "Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm")

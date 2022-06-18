@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_HJR-4102")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_HJR-4102")
 
 newPart.addTag("kicadDesc", "IM Signal Relay SPDT HJR-4102")
 newPart.addTag("kicadTags", "Relay SPDT IM-relay HJR-4102")

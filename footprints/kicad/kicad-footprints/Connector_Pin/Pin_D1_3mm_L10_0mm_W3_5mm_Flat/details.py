@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Pin")
 newPart.addTag("oompIndex", "Pin_D1.3mm_L10.0mm_W3.5mm_Flat")
+newPart.addTag("oompName", "kicad-footprints/Connector_Pin/Pin_D1.3mm_L10.0mm_W3.5mm_Flat")
 
 newPart.addTag("kicadDesc", "solder Pin_ with flat with hole, hole diameter 1.3mm, length 10.0mm, width 3.5mm, e.g. Ettinger 13.13.865, https://katalog.ettinger.de/#p=434")
 newPart.addTag("kicadTags", "solder Pin_ with flat fork")

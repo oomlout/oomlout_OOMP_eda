@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_J2100_B16B-J21DK-GGXR_2x08_P2.50x4.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_J2100_B16B-J21DK-GGXR_2x08_P2.50x4.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST J2100 series connector, B16B-J21DK-GGXR (http://www.jst-mfg.com/product/pdf/eng/eJFA-J2000.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST J2100 vertical")

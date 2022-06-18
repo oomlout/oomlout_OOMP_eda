@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "HDSP-48xx")
+newPart.addTag("oompName", "kicad-footprints/Display/HDSP-48xx")
 
 newPart.addTag("kicadDesc", "10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN")
 newPart.addTag("kicadTags", "10-Element Bar Graph Array")

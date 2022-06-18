@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "MSOP, 10 Pin (www.allegromicro.com/~/media/Files/Datasheets/A4952-3-Datasheet.ashx?la=en#page=10), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "MSOP SO")

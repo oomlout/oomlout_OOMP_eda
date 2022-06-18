@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Kodenshi_SG105")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Kodenshi_SG105")
 
 newPart.addTag("kicadDesc", "package for Kodenshi SG-105 with PCB cutout, light-direction upwards, see http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105.pdf")
 newPart.addTag("kicadTags", "refective opto couple photo coupler")

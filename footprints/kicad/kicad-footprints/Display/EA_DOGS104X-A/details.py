@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "EA_DOGS104X-A")
+newPart.addTag("oompName", "kicad-footprints/Display/EA_DOGS104X-A")
 
 newPart.addTag("kicadDesc", "LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf")
 newPart.addTag("kicadTags", "LCD 4x10 character 3.3V VDD I2C or SPI")

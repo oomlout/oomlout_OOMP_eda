@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_SATA_SAS")
 newPart.addTag("oompIndex", "SAS-mini_TEConnectivity_1888174_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical")
 
 newPart.addTag("kicadDesc", "36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English")
 newPart.addTag("kicadTags", "SAS mini connector")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-3")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-3")
 
 newPart.addTag("kicadDesc", "Transistor TO-3")
 newPart.addTag("kicadTags", "TR TO-3 TO3 TO-204")

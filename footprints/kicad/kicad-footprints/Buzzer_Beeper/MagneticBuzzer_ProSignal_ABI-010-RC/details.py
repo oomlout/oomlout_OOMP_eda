@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "MagneticBuzzer_ProSignal_ABI-010-RC")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABI-010-RC")
 
 newPart.addTag("kicadDesc", "Buzzer, Elektromagnetic Beeper, Summer, 12V-DC,")
 newPart.addTag("kicadTags", "Pro Signal ABI-010-RC")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-50-4_ShortPad-WithHole_Housing")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-50-4_ShortPad-WithHole_Housing")
 
 newPart.addTag("kicadDesc", "TO-50-4 Macro X Package Style M238")
 newPart.addTag("kicadTags", "TO-50-4 Macro X Package Style M238")

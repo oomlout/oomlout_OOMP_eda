@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm")
 
 newPart.addTag("kicadDesc", "6-Lead Plastic Dual Flat, No Lead Package (MA) - 2x2x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)")
 newPart.addTag("kicadTags", "DFN 0.65")

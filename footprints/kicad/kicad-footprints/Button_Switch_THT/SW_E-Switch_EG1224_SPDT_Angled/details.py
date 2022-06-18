@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_E-Switch_EG1224_SPDT_Angled")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1224_SPDT_Angled")
 
 newPart.addTag("kicadDesc", "E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf")
 newPart.addTag("kicadTags", "switch SPDT")

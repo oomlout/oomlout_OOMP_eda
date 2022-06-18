@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "BUS_AT")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/BUS_AT")
 
 newPart.addTag("kicadDesc", "AT ISA 16 bits Bus Edge Connector")
 newPart.addTag("kicadTags", "BUS ISA AT Edge connector")

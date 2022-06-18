@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Vishay_IHSM-7832")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Vishay_IHSM-7832")
 
 newPart.addTag("kicadDesc", "Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf, 19.8mmx8.1mm")
 newPart.addTag("kicadTags", "inductor vishay icsm smd")

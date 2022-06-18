@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_Attention_CopperTop_Big")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_Attention_CopperTop_Big")
 
 newPart.addTag("kicadDesc", "Symbol, Attention, Copper Top, Big,")
 newPart.addTag("kicadTags", "Symbol, Attention, Copper Top, Big,")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "Allegro_CB_PSF")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/Allegro_CB_PSF")
 
 newPart.addTag("kicadDesc", "Allegro MicroSystems, CB-PSF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)")
 newPart.addTag("kicadTags", "Allegro CB-PSF")

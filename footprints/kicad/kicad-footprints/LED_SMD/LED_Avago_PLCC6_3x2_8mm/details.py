@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Avago_PLCC6_3x2.8mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm")
 
 newPart.addTag("kicadDesc", "https://docs.broadcom.com/docs/AV02-3793EN")
 newPart.addTag("kicadTags", "LED Avago PLCC-6 ASMT-YTB7-0AA02")

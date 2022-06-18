@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "PUIAudio_SMT_0825_S_4_R")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/PUIAudio_SMT_0825_S_4_R")
 
 newPart.addTag("kicadDesc", "SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R")
 newPart.addTag("kicadTags", "SMD 8540")

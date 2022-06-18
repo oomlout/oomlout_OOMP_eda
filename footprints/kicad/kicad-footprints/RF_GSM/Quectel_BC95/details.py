@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GSM")
 newPart.addTag("oompIndex", "Quectel_BC95")
+newPart.addTag("oompName", "kicad-footprints/RF_GSM/Quectel_BC95")
 
 newPart.addTag("kicadDesc", "GSM NB-IoT module, 19.9x23.6x2.2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC95_Hardware_Design_V1.3.pdf")
 newPart.addTag("kicadTags", "GSM NB-IoT module BC95")

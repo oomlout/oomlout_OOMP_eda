@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_BarrelJack")
 newPart.addTag("oompIndex", "BarrelJack_CUI_PJ-102AH_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal")
 
 newPart.addTag("kicadDesc", "Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf")
 newPart.addTag("kicadTags", "Power Jack")

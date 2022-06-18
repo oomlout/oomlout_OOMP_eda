@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "LGA-16_3x3mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/LGA-16_3x3mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "http://www.memsic.com/userfiles/files/DataSheets/Magnetic-Sensors-Datasheets/MMC5883MA-RevC.pdf")
 newPart.addTag("kicadTags", "lga land grid array")

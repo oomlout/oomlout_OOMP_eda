@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-23_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-23_Handsoldering")
 
 newPart.addTag("kicadDesc", "SOT-23, Handsoldering")
 newPart.addTag("kicadTags", "SOT-23")

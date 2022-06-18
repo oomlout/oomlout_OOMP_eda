@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_PHD_B12B-PHDSS_2x06_P2.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_PHD_B12B-PHDSS_2x06_P2.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST PHD series connector, B12B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST PHD vertical")

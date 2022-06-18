@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TestPoint")
 newPart.addTag("oompIndex", "TestPoint_Keystone_5010-5014_Multipurpose")
+newPart.addTag("oompName", "kicad-footprints/TestPoint/TestPoint_Keystone_5010-5014_Multipurpose")
 
 newPart.addTag("kicadDesc", "Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319")
 newPart.addTag("kicadTags", "Through Hole Mount Test Points")

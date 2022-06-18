@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "C_Elec_6.3x5.4")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/C_Elec_6.3x5.4")
 
 newPart.addTag("kicadDesc", "SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.4mm")
 newPart.addTag("kicadTags", "capacitor electrolyic nonpolar")

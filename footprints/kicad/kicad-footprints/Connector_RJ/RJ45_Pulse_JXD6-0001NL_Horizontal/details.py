@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Pulse_JXD6-0001NL_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Pulse_JXD6-0001NL_Horizontal")
 
 newPart.addTag("kicadDesc", "RJ45 ethernet transformer with magnetics (https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf)")
 newPart.addTag("kicadTags", "ethernet 8p8c transformer magjack")

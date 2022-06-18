@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "WLP-4_0.86x0.86mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/WLP-4_0.86x0.86mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "WLP-4_0.86x0.86mm_P0.4mm https://pdfserv.maximintegrated.com/package_dwgs/21-0612.PDF, https://www.maximintegrated.com/en/app-notes/index.mvp/id/1891")
 newPart.addTag("kicadTags", "WLP-4")

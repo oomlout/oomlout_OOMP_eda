@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SC-80")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SC-80")
 
 newPart.addTag("kicadDesc", "JEITA SC-80")
 newPart.addTag("kicadTags", "SC-80")

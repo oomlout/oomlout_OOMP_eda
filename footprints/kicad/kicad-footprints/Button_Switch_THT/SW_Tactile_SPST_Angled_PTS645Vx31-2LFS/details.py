@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
 
 newPart.addTag("kicadDesc", "tactile switch SPST right angle, PTS645VL31-2 LFS")
 newPart.addTag("kicadTags", "tactile switch SPST angled PTS645VL31-2 LFS C&K Button")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_SPOX_5267-03A_1x03_P2.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_SPOX_5267-03A_1x03_P2.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex SPOX Connector System, 5267-03A, 3 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex SPOX side entry")

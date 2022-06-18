@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal")

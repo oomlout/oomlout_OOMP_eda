@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TSOT-23-8")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TSOT-23-8")
 
 newPart.addTag("kicadDesc", "TSOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "TSOT TO_SOT_SMD")

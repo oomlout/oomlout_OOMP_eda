@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm")
 
 newPart.addTag("kicadDesc", "32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf")
 newPart.addTag("kicadTags", "LFCSP 0.5")

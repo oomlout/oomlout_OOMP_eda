@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "C_Trimmer_Voltronics_JR")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/C_Trimmer_Voltronics_JR")
 
 newPart.addTag("kicadDesc", "trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf")
 newPart.addTag("kicadTags", "Voltronics JR")

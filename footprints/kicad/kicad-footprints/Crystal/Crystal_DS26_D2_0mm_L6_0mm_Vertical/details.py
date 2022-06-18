@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_DS26_D2.0mm_L6.0mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Vertical")
 
 newPart.addTag("kicadDesc", "Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf")
 newPart.addTag("kicadTags", "['DS26']")

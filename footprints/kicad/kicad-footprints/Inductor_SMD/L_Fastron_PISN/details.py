@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Fastron_PISN")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Fastron_PISN")
 
 newPart.addTag("kicadDesc", "Choke, Drossel, PISN, SMD, Fastron,")
 newPart.addTag("kicadTags", "Choke Drossel PISN SMD Fastron")

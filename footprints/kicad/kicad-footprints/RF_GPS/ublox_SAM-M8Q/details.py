@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "ublox_SAM-M8Q")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/ublox_SAM-M8Q")
 
 newPart.addTag("kicadDesc", "GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf")
 newPart.addTag("kicadTags", "ublox SAM-M8Q")

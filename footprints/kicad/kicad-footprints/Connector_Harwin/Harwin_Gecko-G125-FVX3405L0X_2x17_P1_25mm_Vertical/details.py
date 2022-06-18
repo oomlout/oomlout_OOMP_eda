@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Harwin")
 newPart.addTag("oompIndex", "Harwin_Gecko-G125-FVX3405L0X_2x17_P1.25mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-FVX3405L0X_2x17_P1.25mm_Vertical")
 
 newPart.addTag("kicadDesc", "Harwin Gecko Connector, 34 pins, dual row female, vertical entry, PN:G125-FVX3405L0X")
 newPart.addTag("kicadTags", "connector harwin gecko")

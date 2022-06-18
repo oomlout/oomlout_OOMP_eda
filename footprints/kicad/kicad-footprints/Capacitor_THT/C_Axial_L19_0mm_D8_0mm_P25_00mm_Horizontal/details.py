@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_THT")
 newPart.addTag("oompIndex", "C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_THT/C_Axial_L19.0mm_D8.0mm_P25.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*8.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf")
 newPart.addTag("kicadTags", "C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 8.0mm")

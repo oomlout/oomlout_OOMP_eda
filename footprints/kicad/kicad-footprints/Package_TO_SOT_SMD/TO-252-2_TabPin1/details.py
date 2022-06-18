@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-252-2_TabPin1")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-252-2_TabPin1")
 
 newPart.addTag("kicadDesc", "TO-252-2, tab to pin 1 https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf")
 newPart.addTag("kicadTags", "TO-252-2 diode")

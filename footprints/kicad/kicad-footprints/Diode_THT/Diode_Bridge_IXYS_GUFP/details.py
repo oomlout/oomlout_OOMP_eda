@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_IXYS_GUFP")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_IXYS_GUFP")
 
 newPart.addTag("kicadDesc", "Three phase, Bridge, Rectifier")
 newPart.addTag("kicadTags", "diode module")

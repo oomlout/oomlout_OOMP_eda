@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns-SRN8040_8x8.15mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns-SRN8040_8x8.15mm")
 
 newPart.addTag("kicadDesc", "Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf")
 newPart.addTag("kicadTags", "Bourns SRN8040 SMD inductor")

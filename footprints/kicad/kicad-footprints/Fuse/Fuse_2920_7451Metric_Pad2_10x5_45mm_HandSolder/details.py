@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder")
 
 newPart.addTag("kicadDesc", "Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "fuse handsolder")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_S-PVQFN-N14")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N14")
 
 newPart.addTag("kicadDesc", "Texas_S-PVQFN-N14  http://www.ti.com/lit/ds/symlink/txb0104.pdf")
 newPart.addTag("kicadTags", "Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad")

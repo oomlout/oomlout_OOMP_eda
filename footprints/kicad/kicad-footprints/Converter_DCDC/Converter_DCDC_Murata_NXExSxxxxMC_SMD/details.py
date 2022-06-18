@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Murata_NXExSxxxxMC_SMD")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_NXExSxxxxMC_SMD")
 
 newPart.addTag("kicadDesc", "Isolated 1W or 2W Single Output SM DC/DC Converters https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf#page=8 https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf#page=9")
 newPart.addTag("kicadTags", "Isolated 1W or 2W Single Output SM DC/DC Converters")

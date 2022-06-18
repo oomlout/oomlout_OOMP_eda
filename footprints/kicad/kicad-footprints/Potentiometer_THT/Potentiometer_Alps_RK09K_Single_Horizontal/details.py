@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Alps_RK09K_Single_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK09K_Single_Horizontal")
 
 newPart.addTag("kicadDesc", "111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
 newPart.addTag("kicadTags", "Potentiometer horizontal Alps RK09K Single Snapin")

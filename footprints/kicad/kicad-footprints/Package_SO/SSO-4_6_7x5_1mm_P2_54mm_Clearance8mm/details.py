@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm")
 
 newPart.addTag("kicadDesc", "4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf")
 newPart.addTag("kicadTags", "SSO Stretched SO SOIC 2.54")

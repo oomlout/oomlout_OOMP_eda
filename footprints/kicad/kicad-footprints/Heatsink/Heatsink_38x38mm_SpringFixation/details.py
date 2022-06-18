@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_38x38mm_SpringFixation")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_38x38mm_SpringFixation")
 
 newPart.addTag("kicadDesc", "Heatsink, 38x38mm, Spring Fixation, diagonal,")
 newPart.addTag("kicadTags", "heatsink")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "MagneticBuzzer_PUI_AT-0927-TT-6-R")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R")
 
 newPart.addTag("kicadDesc", "Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf")
 newPart.addTag("kicadTags", "Buzzer Magnetic 9mm AT-0927-TT-6-R")

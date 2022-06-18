@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Infineon_PG-HDSOP-10-1")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-HDSOP-10-1")
 
 newPart.addTag("kicadDesc", "Infineon PG-HDSOP-10-1 (DDPAK), 20.96x6.5x2.3mm, slug up (https://www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)")
 newPart.addTag("kicadTags", "hdsop 10 ddpak")

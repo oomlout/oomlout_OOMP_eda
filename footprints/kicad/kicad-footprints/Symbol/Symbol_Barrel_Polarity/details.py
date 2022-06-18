@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_Barrel_Polarity")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_Barrel_Polarity")
 
 newPart.addTag("kicadDesc", "Barrel connector polarity indicator")
 newPart.addTag("kicadTags", "barrel polarity")

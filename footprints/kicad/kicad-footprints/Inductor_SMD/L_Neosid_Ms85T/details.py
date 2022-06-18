@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_Ms85T")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_Ms85T")
 
 newPart.addTag("kicadDesc", "Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85T.pdf")
 newPart.addTag("kicadTags", "Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD")

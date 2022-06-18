@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Arduino_Nano_WithMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Module/Arduino_Nano_WithMountingHoles")
 
 newPart.addTag("kicadDesc", "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 newPart.addTag("kicadTags", "Arduino Nano")

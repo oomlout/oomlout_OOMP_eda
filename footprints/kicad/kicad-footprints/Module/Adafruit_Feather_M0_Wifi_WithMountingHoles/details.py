@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Adafruit_Feather_M0_Wifi_WithMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Module/Adafruit_Feather_M0_Wifi_WithMountingHoles")
 
 newPart.addTag("kicadDesc", "Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/")
 newPart.addTag("kicadTags", "Adafruit Feather M0 Wifi")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-264-5_Horizontal_TabUp")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-264-5_Horizontal_TabUp")
 
 newPart.addTag("kicadDesc", "TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF")
 newPart.addTag("kicadTags", "TO-264-5 Horizontal RM 3.81mm")

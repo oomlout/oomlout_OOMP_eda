@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_CuK_OS102011MA1QN1_SPDT_Angled")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_CuK_OS102011MA1QN1_SPDT_Angled")
 
 newPart.addTag("kicadDesc", "CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf")
 newPart.addTag("kicadTags", "switch SPDT")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_Danger_CopperTop_Small")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_Danger_CopperTop_Small")
 
 newPart.addTag("kicadDesc", "Symbol, Danger, Copper Top, Small,")
 newPart.addTag("kicadTags", "Symbol, Danger, Copper Top, Small,")

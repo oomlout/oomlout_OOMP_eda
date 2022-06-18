@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Bothhand_CFUSxxxx_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Bothhand_CFUSxxxx_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand),")
 newPart.addTag("kicadTags", "DCDC-Converter BOTHHAND Type CFxxxx-Serie")

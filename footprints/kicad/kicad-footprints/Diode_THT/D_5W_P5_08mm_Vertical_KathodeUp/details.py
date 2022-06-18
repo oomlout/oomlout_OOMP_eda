@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_5W_P5.08mm_Vertical_KathodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_5W_P5.08mm_Vertical_KathodeUp")
 
 newPart.addTag("kicadDesc", "Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif")
 newPart.addTag("kicadTags", "Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm")

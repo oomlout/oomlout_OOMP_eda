@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm")
 
 newPart.addTag("kicadDesc", "http://www.onsemi.com/pub/Collateral/510CD.PDF")
 newPart.addTag("kicadTags", "WQFN-20 4.5mm 2.5mm 0.5mm")

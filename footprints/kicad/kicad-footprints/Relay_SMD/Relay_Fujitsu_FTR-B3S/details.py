@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_SMD")
 newPart.addTag("oompIndex", "Relay_Fujitsu_FTR-B3S")
+newPart.addTag("oompName", "kicad-footprints/Relay_SMD/Relay_Fujitsu_FTR-B3S")
 
 newPart.addTag("kicadDesc", "https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf")
 newPart.addTag("kicadTags", "Fujitsh FTR B3S B3SA Relay J JLeg")

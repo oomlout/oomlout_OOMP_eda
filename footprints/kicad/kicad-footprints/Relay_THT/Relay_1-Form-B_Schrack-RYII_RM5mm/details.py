@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_1-Form-B_Schrack-RYII_RM5mm")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_1-Form-B_Schrack-RYII_RM5mm")
 
 newPart.addTag("kicadDesc", "Relay, 1-Form-B, Schrack-RYII, RM5mm, SPST-NC")
 newPart.addTag("kicadTags", "Relay 1-Form-B Schrack-RYII RM5mm SPST-NC")

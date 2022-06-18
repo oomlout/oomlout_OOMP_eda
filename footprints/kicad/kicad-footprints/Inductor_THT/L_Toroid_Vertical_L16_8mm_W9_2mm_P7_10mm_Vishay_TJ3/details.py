@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3")
 
 newPart.addTag("kicadDesc", "L_Toroid, Vertical series, Radial, pin pitch=7.10mm, , length*width=16.8*9.2mm^2, Vishay, TJ3, http://www.vishay.com/docs/34079/tj.pdf")
 newPart.addTag("kicadTags", "L_Toroid Vertical series Radial pin pitch 7.10mm  length 16.8mm width 9.2mm Vishay TJ3")

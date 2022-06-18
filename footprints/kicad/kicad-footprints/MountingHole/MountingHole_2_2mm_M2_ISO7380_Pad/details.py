@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_2.2mm_M2_ISO7380_Pad")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_2.2mm_M2_ISO7380_Pad")
 
 newPart.addTag("kicadDesc", "Mounting Hole 2.2mm, M2, ISO7380")
 newPart.addTag("kicadTags", "mounting hole 2.2mm m2 iso7380")

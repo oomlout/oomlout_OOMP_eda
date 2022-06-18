@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_Fischer_FK24413D2PAK_26x13mm")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_Fischer_FK24413D2PAK_26x13mm")
 
 newPart.addTag("kicadDesc", "26x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d2_pak.pdf")
 newPart.addTag("kicadTags", "heatsink TO-252 TO-263 TO-268")

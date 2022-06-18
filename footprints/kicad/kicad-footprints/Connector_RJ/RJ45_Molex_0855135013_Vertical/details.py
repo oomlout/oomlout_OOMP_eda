@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Molex_0855135013_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Molex_0855135013_Vertical")
 
 newPart.addTag("kicadDesc", "1 Port, RJ45, Series 85513, vertical, SMD, https://www.molex.com/pdm_docs/sd/855135013_sd.pdf")
 newPart.addTag("kicadTags", "RJ45 Vertical")

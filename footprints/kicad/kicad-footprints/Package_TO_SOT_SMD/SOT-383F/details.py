@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-383F")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-383F")
 
 newPart.addTag("kicadDesc", "8-pin SOT-383F, http://www.mouser.com/ds/2/80/CPDVR085V0C-HF-RevB-10783.pdf")
 newPart.addTag("kicadTags", "SOT-383F")

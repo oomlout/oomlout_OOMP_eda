@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Mini-Fit Sr. Power Connectors, 42820-22XX, 2 Pins per row (http://www.molex.com/pdm_docs/sd/428202214_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Mini-Fit_Sr top entry")

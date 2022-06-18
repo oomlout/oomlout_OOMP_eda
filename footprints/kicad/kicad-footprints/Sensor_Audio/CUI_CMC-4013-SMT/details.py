@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Audio")
 newPart.addTag("oompIndex", "CUI_CMC-4013-SMT")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Audio/CUI_CMC-4013-SMT")
 
 newPart.addTag("kicadDesc", "Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf")
 newPart.addTag("kicadTags", "Microphone CUI")

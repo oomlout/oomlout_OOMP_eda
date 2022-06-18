@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "R_LDR_10x8.5mm_P7.6mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/R_LDR_10x8.5mm_P7.6mm_Vertical")
 
 newPart.addTag("kicadDesc", "Resistor, LDR 10x8.5mm")
 newPart.addTag("kicadTags", "Resistor LDR10.8.5mm")

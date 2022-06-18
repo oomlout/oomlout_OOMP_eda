@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Polarity_Center_Negative_30mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Polarity_Center_Negative_30mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "Polarity Logo, Center Negative")
 newPart.addTag("kicadTags", "Logo Polarity Center Negative")

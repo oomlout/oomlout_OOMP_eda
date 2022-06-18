@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm")
 
 newPart.addTag("kicadDesc", "BGA-90, http://www.issi.com/WW/pdf/42-45S32800J.pdf")
 newPart.addTag("kicadTags", "BGA-90")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Piher_PC-16_Dual_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Dual_Horizontal")
 
 newPart.addTag("kicadDesc", "Potentiometer, horizontal, Piher PC-16 Dual, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf")
 newPart.addTag("kicadTags", "Potentiometer horizontal Piher PC-16 Dual")

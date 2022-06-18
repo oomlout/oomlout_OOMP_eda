@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_8.4mm_M8_Pad")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_8.4mm_M8_Pad")
 
 newPart.addTag("kicadDesc", "Mounting Hole 8.4mm, M8")
 newPart.addTag("kicadTags", "mounting hole 8.4mm m8")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "WLCSP-12_1.56x1.56mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/WLCSP-12_1.56x1.56mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "WLCSP 12 1.56x1.56 https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMM150-DS001-01.pdf")
 newPart.addTag("kicadTags", "BMM150 WLCSP")

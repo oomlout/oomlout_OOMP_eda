@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Mega-Fit Power Connectors, 76825-0002 (compatible alternatives: 172064-0002, 172064-1002), 1 Pins per row (http://www.molex.com/pdm_docs/sd/1720640002_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Mega-Fit top entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "WSON-6-1EP_3x3mm_P0.95mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/WSON-6-1EP_3x3mm_P0.95mm")
 
 newPart.addTag("kicadDesc", "WSON6 3*3 MM, 0.95 PITCH; http://www.ti.com/lit/ds/symlink/lmr62421.pdf")
 newPart.addTag("kicadTags", "WSON6 0.95")

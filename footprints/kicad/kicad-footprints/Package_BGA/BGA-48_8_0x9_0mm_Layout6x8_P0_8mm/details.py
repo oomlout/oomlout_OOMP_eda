@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-48_8.0x9.0mm_Layout6x8_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm")
 
 newPart.addTag("kicadDesc", "BGA-48 - pitch 0.8 mm")
 newPart.addTag("kicadTags", "BGA-48")

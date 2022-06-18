@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "Particle_P1")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/Particle_P1")
 
 newPart.addTag("kicadDesc", "https://docs.particle.io/datasheets/p1-datasheet/")
 newPart.addTag("kicadTags", "Particle P1")

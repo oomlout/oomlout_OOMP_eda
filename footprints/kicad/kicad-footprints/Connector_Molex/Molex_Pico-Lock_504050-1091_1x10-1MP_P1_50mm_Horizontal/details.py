@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Pico-Lock_504050-1091_1x10-1MP_P1.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Pico-Lock series connector, 504050-1091 (http://www.molex.com/pdm_docs/sd/5040500891_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Pico-Lock horizontal")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "Push_E-Switch_KS01Q01")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/Push_E-Switch_KS01Q01")
 
 newPart.addTag("kicadDesc", "E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf")
 newPart.addTag("kicadTags", "Push Button")

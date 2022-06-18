@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST PH series connector, S5B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST PH top entry")

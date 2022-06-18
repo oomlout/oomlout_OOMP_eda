@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_HsinDa_Y14")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_HsinDa_Y14")
 
 newPart.addTag("kicadDesc", "http://www.hsinda.com.cn/en/ProductShow.asp?ID=208")
 newPart.addTag("kicadTags", "Relay Y14")

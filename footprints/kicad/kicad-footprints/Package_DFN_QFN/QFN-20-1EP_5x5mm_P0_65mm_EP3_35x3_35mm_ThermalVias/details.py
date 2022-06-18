@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=276), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

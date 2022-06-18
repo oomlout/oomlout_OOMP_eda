@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_4020_10251Metric_Pad1.65x5.30mm_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_4020_10251Metric_Pad1.65x5.30mm_HandSolder")
 
 newPart.addTag("kicadDesc", "Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "resistor handsolder")

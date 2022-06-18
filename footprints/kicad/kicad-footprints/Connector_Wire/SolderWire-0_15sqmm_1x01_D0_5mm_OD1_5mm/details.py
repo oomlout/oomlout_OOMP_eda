@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Wire")
 newPart.addTag("oompIndex", "SolderWire-0.15sqmm_1x01_D0.5mm_OD1.5mm")
+newPart.addTag("oompName", "kicad-footprints/Connector_Wire/SolderWire-0.15sqmm_1x01_D0.5mm_OD1.5mm")
 
 newPart.addTag("kicadDesc", "Soldered wire connection, for a single 0.15 mm² wire, basic insulation, conductor diameter 0.5mm, outer diameter 1.5mm, size source Multi-Contact FLEXI-E 0.15 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector wire 0.15sqmm")

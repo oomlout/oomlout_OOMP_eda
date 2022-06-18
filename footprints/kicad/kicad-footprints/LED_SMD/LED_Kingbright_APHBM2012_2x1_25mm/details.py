@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Kingbright_APHBM2012_2x1.25mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm")
 
 newPart.addTag("kicadDesc", "Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012")
 newPart.addTag("kicadTags", "LED Kingbright APHM2012")

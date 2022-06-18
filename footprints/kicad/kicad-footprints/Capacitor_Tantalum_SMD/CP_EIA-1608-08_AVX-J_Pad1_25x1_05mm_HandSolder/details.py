@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_Tantalum_SMD")
 newPart.addTag("oompIndex", "CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder")
 
 newPart.addTag("kicadDesc", "Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "capacitor tantalum")

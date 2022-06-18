@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "SOD-70_P5.08mm")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/SOD-70_P5.08mm")
 
 newPart.addTag("kicadDesc", "Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]")
 newPart.addTag("kicadTags", "Sod-70")

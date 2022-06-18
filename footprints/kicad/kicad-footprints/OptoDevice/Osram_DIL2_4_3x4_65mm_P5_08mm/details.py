@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Osram_DIL2_4.3x4.65mm_P5.08mm")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm")
 
 newPart.addTag("kicadDesc", "PhotoDiode, plastic DIL, 4.3x4.65mm², RM5.08")
 newPart.addTag("kicadTags", "PhotoDiode plastic DIL RM5.08")

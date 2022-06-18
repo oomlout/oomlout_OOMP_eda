@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_GCT_USB4085")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4085")
 
 newPart.addTag("kicadDesc", "USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf")
 newPart.addTag("kicadTags", "USB Type-C Receptacle Through-hole Right angle")

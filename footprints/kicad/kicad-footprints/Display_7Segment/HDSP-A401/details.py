@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "HDSP-A401")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/HDSP-A401")
 
 newPart.addTag("kicadDesc", "One digit 7 segment orange, common anode, https://docs.broadcom.com/docs/AV02-2553EN")
 newPart.addTag("kicadTags", "One digit 7 segment orange common anode")

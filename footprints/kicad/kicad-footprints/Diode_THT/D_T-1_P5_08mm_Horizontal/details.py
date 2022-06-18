@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_T-1_P5.08mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_T-1_P5.08mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Diode, T-1 series, Axial, Horizontal, pin pitch=5.08mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf")
 newPart.addTag("kicadTags", "Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm")

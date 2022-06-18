@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "ESP32-S3-WROOM-1")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/ESP32-S3-WROOM-1")
 
 newPart.addTag("kicadDesc", "2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf")
 newPart.addTag("kicadTags", "2.4 GHz Wi-Fi and Bluetooth module")

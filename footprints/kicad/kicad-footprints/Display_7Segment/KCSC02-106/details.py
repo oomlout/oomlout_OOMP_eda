@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "KCSC02-106")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/KCSC02-106")
 
 newPart.addTag("kicadDesc", "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-106(Ver.10A).pdf")
 newPart.addTag("kicadTags", "Single digit 7 segement super bright orange LED")

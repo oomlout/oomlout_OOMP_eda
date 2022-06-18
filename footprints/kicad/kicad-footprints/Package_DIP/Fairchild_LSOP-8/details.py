@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DIP")
 newPart.addTag("oompIndex", "Fairchild_LSOP-8")
+newPart.addTag("oompName", "kicad-footprints/Package_DIP/Fairchild_LSOP-8")
 
 newPart.addTag("kicadDesc", "8-Lead, 300\\\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)")
 newPart.addTag("kicadTags", "LSOP 2.54mm 300mil")

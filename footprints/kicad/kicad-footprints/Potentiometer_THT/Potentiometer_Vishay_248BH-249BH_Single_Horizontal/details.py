@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Vishay_248BH-249BH_Single_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_248BH-249BH_Single_Horizontal")
 
 newPart.addTag("kicadDesc", "Potentiometer, horizontal, Vishay 248BH-249BH Single, http://www.vishay.com/docs/57054/248249.pdf")
 newPart.addTag("kicadTags", "Potentiometer horizontal Vishay 248BH-249BH Single")

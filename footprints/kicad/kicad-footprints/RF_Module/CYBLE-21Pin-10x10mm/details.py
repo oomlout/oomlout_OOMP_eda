@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "CYBLE-21Pin-10x10mm")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/CYBLE-21Pin-10x10mm")
 
 newPart.addTag("kicadDesc", "Cypress EZ-BLE PRoC Module (Bluetooth Smart) 21 Pin Module")
 newPart.addTag("kicadTags", "Cypress BT Bluetooth")

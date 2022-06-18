@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-247-4_Horizontal_TabDown")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-247-4_Horizontal_TabDown")
 
 newPart.addTag("kicadDesc", "TO-247-4, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html")
 newPart.addTag("kicadTags", "TO-247-4 Horizontal RM 2.54mm")

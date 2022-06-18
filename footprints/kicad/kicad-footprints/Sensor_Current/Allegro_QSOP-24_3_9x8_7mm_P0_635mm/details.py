@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "Allegro_QSOP-24_3.9x8.7mm_P0.635mm")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm")
 
 newPart.addTag("kicadDesc", "Allegro Microsystems 24-Lead Plastic Shrink Small Outline Narrow Body Body [QSOP] (http://www.allegromicro.com/~/media/Files/Datasheets/ACS726-Datasheet.ashx?la=en)")
 newPart.addTag("kicadTags", "Allegro QSOP 0.635")

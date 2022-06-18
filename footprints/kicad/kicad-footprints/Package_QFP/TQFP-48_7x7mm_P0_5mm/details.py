@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "TQFP-48_7x7mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/TQFP-48_7x7mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "TQFP, 48 Pin (https://www.jedec.org/system/files/docs/MS-026D.pdf var ABC), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "TQFP QFP")

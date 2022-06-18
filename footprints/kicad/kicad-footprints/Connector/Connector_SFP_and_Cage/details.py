@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "Connector_SFP_and_Cage")
+newPart.addTag("oompName", "kicad-footprints/Connector/Connector_SFP_and_Cage")
 
 newPart.addTag("kicadDesc", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English")
 newPart.addTag("kicadTags", "SFP+ SFP")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "TDFN, 6 Pin (http://www.nve.com/Downloads/ab3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "TDFN NoLead")

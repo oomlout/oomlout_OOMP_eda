@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "PowerPAK_SO-8_Single")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/PowerPAK_SO-8_Single")
 
 newPart.addTag("kicadDesc", "PowerPAK SO-8 Single (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72599/72599.pdf)")
 newPart.addTag("kicadTags", "PowerPAK SO-8 Single")

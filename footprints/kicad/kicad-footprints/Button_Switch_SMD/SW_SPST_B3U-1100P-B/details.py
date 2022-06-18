@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_B3U-1100P-B")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_B3U-1100P-B")
 
 newPart.addTag("kicadDesc", "Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, with Boss")
 newPart.addTag("kicadTags", "Tactile Switch")

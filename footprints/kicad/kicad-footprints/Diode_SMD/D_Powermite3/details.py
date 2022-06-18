@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_Powermite3")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_Powermite3")
 
 newPart.addTag("kicadDesc", "Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)")
 newPart.addTag("kicadTags", "PowerMite3")

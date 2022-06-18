@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Bourns_MF-SM_9.5x6.71mm")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm")
 
 newPart.addTag("kicadDesc", "https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf")
 newPart.addTag("kicadTags", "bourns ptc resettable fuse polyfuse MF-SM MF-SMHT")

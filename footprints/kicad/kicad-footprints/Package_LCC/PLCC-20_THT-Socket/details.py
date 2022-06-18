@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LCC")
 newPart.addTag("oompIndex", "PLCC-20_THT-Socket")
+newPart.addTag("oompName", "kicad-footprints/Package_LCC/PLCC-20_THT-Socket")
 
 newPart.addTag("kicadDesc", "PLCC, 20 pins, through hole")
 newPart.addTag("kicadTags", "plcc leaded")

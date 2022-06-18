@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_TDK_SLF12555")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_TDK_SLF12555")
 
 newPart.addTag("kicadDesc", "Inductor, TDK, SLF12555, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)")
 newPart.addTag("kicadTags", "Inductor SLF12555")

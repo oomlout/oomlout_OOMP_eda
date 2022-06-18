@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm")
 
 newPart.addTag("kicadDesc", "FN Series Crystal Clock Oscillator (XO) (https://www.diodes.com/assets/Datasheets/FN_3-3V.pdf)")
 newPart.addTag("kicadTags", "Oscillator Crystal SMD SMT")

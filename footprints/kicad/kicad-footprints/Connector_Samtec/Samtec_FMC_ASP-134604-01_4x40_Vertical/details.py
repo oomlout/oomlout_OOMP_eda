@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Samtec")
 newPart.addTag("oompIndex", "Samtec_FMC_ASP-134604-01_4x40_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Samtec/Samtec_FMC_ASP-134604-01_4x40_Vertical")
 
 newPart.addTag("kicadDesc", "https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf")
 newPart.addTag("kicadTags", "FMC LPC VITA")

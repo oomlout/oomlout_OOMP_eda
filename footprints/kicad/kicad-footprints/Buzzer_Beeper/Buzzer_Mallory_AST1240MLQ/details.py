@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "Buzzer_Mallory_AST1240MLQ")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1240MLQ")
 
 newPart.addTag("kicadDesc", "Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf")
 newPart.addTag("kicadTags", "piezo buzzer")

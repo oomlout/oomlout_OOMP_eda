@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "HOPERF_RFM9XW_THT")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/HOPERF_RFM9XW_THT")
 
 newPart.addTag("kicadDesc", "Low Power Long Range Transceiver Module THT-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
 newPart.addTag("kicadTags", "Low Power Long Range Transceiver Module LoRa")

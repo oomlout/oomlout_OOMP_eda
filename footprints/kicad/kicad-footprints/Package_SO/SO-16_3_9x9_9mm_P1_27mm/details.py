@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SO-16_3.9x9.9mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SO-16_3.9x9.9mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SO SO")

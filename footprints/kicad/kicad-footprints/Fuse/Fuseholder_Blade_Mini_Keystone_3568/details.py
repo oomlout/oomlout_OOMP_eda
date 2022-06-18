@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Blade_Mini_Keystone_3568")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Blade_Mini_Keystone_3568")
 
 newPart.addTag("kicadDesc", "fuse holder, car blade fuse mini, http://www.keyelco.com/product-pdf.cfm?p=306")
 newPart.addTag("kicadTags", "car blade fuse mini")

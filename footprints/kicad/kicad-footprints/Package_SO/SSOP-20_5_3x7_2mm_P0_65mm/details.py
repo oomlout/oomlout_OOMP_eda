@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SSOP-20_5.3x7.2mm_P0.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SSOP-20_5.3x7.2mm_P0.65mm")
 
 newPart.addTag("kicadDesc", "SSOP, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/40001800C.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SSOP SO")

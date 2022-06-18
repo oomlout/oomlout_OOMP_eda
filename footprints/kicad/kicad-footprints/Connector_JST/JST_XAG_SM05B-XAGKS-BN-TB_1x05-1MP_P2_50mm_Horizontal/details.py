@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST XAG series connector, SM05B-XAGKS-BN-TB (http://www.jst-mfg.com/product/pdf/eng/eXAG.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST XAG top entry")

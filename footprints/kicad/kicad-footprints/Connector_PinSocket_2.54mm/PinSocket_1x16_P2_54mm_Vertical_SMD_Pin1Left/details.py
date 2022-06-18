@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinSocket_2.54mm")
 newPart.addTag("oompIndex", "PinSocket_1x16_P2.54mm_Vertical_SMD_Pin1Left")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x16_P2.54mm_Vertical_SMD_Pin1Left")
 
 newPart.addTag("kicadDesc", "surface-mounted straight socket strip, 1x16, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated")
 newPart.addTag("kicadTags", "Surface mounted socket strip SMD 1x16 2.54mm single row style1 pin1 left")

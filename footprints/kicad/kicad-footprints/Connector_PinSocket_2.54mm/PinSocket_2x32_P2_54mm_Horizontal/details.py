@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinSocket_2.54mm")
 newPart.addTag("oompIndex", "PinSocket_2x32_P2.54mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_2x32_P2.54mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Through hole angled socket strip, 2x32, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 newPart.addTag("kicadTags", "Through hole angled socket strip THT 2x32 2.54mm double row")

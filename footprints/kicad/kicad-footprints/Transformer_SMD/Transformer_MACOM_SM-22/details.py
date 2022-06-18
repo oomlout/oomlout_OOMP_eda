@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_MACOM_SM-22")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_MACOM_SM-22")
 
 newPart.addTag("kicadDesc", "https://cdn.macom.com/datasheets/ETC1-1-13.pdf")
 newPart.addTag("kicadTags", "RF Transformer")

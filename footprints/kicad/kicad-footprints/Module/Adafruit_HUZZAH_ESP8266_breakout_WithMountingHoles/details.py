@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Module/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles")
 
 newPart.addTag("kicadDesc", "32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471")
 newPart.addTag("kicadTags", "ESP8266 WiFi microcontroller")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Texas_R-PDSO-N5")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Texas_R-PDSO-N5")
 
 newPart.addTag("kicadDesc", "Plastic Small outline http://www.ti.com/lit/ml/mpds158c/mpds158c.pdf")
 newPart.addTag("kicadTags", "SOT23 R-PDSO-N5")

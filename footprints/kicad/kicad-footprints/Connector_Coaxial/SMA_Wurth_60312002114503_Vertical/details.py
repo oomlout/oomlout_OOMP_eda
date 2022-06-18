@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Wurth_60312002114503_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Wurth_60312002114503_Vertical")
 
 newPart.addTag("kicadDesc", "https://www.we-online.de/katalog/datasheet/60312002114503.pdf")
 newPart.addTag("kicadTags", "SMA THT Female Jack Vertical ExtendedLegs")

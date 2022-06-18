@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "LFPAK56")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/LFPAK56")
 
 newPart.addTag("kicadDesc", "LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf")
 newPart.addTag("kicadTags", "LFPAK56 SOT-669 Power-SO8")

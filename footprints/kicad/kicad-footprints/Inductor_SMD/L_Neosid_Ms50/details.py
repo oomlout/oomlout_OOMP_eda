@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_Ms50")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_Ms50")
 
 newPart.addTag("kicadDesc", "Neosid, Power Inductor, Ms50, SMD, Fixed inductor, https://neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf")
 newPart.addTag("kicadTags", "Neosid Power Inductor Ms50 SMD Fixed inductor")

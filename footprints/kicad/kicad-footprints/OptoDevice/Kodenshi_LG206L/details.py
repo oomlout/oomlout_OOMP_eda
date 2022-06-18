@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Kodenshi_LG206L")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Kodenshi_LG206L")
 
 newPart.addTag("kicadDesc", "http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG205L.pdf")
 newPart.addTag("kicadTags", "Photointerrupter  infrared LED with photo IC")

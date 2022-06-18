@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-PD-Typ-LS_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD-Typ-LS_Handsoldering")
 
 newPart.addTag("kicadDesc", "Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, Handsoldering, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf")
 newPart.addTag("kicadTags", "Choke Shielded Power Inductor WE-PD TypLS Wuerth")

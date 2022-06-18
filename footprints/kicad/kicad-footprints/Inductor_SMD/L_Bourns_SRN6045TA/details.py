@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SRN6045TA")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SRN6045TA")
 
 newPart.addTag("kicadDesc", "http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf")
 newPart.addTag("kicadTags", "Semi-shielded Power Inductor")

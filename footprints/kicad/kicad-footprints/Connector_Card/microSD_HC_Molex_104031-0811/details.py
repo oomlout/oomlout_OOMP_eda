@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "microSD_HC_Molex_104031-0811")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/microSD_HC_Molex_104031-0811")
 
 newPart.addTag("kicadDesc", "1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)")
 newPart.addTag("kicadTags", "microSD SD molex")

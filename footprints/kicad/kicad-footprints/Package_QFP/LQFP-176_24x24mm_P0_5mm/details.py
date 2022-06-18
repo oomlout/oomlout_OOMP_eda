@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "LQFP-176_24x24mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/LQFP-176_24x24mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "LQFP, 176 Pin (https://www.st.com/resource/en/datasheet/stm32f207vg.pdf#page=163), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "LQFP QFP")

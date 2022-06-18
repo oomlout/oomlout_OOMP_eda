@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Dsub")
 newPart.addTag("oompIndex", "DSUB-44-HD_Male_Vertical_P2.29x1.98mm_MountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_Dsub/DSUB-44-HD_Male_Vertical_P2.29x1.98mm_MountingHoles")
 
 newPart.addTag("kicadDesc", "44-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
 newPart.addTag("kicadTags", "44-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 47.1mm")

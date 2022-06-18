@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Mini-Circuits")
 newPart.addTag("oompIndex", "Mini-Circuits_MMM168")
+newPart.addTag("oompName", "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_MMM168")
 
 newPart.addTag("kicadDesc", "Footprint for Mini-Circuits case MMM168 (https://ww2.minicircuits.com/case_style/MMM168.pdf)")
 newPart.addTag("kicadTags", "Mini-Circuits MMM168")

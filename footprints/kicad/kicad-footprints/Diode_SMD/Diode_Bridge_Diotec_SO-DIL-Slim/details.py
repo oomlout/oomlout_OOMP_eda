@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_Diotec_SO-DIL-Slim")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim")
 
 newPart.addTag("kicadDesc", "SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf")
 newPart.addTag("kicadTags", "DFS SO-DIL Slim")

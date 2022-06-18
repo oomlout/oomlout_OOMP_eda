@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSSOP-64_6.1x17mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSSOP-64_6.1x17mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "TSSOP, 64 Pin (JEDEC MO-153 Var EF https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "TSSOP SO")

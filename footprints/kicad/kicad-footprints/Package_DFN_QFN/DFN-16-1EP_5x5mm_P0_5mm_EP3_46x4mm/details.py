@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm")
 
 newPart.addTag("kicadDesc", "DH Package; 16-Lead Plastic DFN (5mm x 5mm) (see Linear Technology DFN_16_05-08-1709.pdf)")
 newPart.addTag("kicadTags", "DFN 0.5")

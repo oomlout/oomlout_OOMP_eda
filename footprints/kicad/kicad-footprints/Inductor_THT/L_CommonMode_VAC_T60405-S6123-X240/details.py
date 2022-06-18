@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_CommonMode_VAC_T60405-S6123-X240")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_CommonMode_VAC_T60405-S6123-X240")
 
 newPart.addTag("kicadDesc", "3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X240.pdf")
 newPart.addTag("kicadTags", "common mode filter")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Wire")
 newPart.addTag("oompIndex", "SolderWirePad_1x01_SMD_1x2mm")
+newPart.addTag("oompName", "kicad-footprints/Connector_Wire/SolderWirePad_1x01_SMD_1x2mm")
 
 newPart.addTag("kicadDesc", "Wire Pad, Square, SMD Pad,  5mm x 10mm,")
 newPart.addTag("kicadTags", "MesurementPoint Square SMDPad 5mmx10mm")

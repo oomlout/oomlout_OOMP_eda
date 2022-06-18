@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "Choke_Schaffner_RN242-04-18.0x31.0mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/Choke_Schaffner_RN242-04-18.0x31.0mm")
 
 newPart.addTag("kicadDesc", "Current-compensated Chokes, Schaffner, RN242-04, 18.0mmx31.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
 newPart.addTag("kicadTags", "chokes schaffner tht")

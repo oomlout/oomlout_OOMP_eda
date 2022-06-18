@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_WiFi")
 newPart.addTag("oompIndex", "USR-C322")
+newPart.addTag("oompName", "kicad-footprints/RF_WiFi/USR-C322")
 
 newPart.addTag("kicadDesc", "https://www.usriot.com/download/WIFI/USR-C322-Hardware-Manual_V1.2.01.pdf")
 newPart.addTag("kicadTags", "WiFi IEEE802.11 b/g/n")

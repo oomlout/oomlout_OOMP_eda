@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transistor_Power_Module")
 newPart.addTag("oompIndex", "Infineon_EasyPIM-2B")
+newPart.addTag("oompName", "kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-2B")
 
 newPart.addTag("kicadDesc", "35-lead TH, EasyPIM 2B, same as ST_ACEPACK-2-CIB, https://www.infineon.com/dgdl/Infineon-FP50R06W2E3-DS-v02_02-EN.pdf?fileId=db3a30431b3e89eb011b455c99987d24")
 newPart.addTag("kicadTags", "brifge rectifier igbt diode module")

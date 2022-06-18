@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm")
 
 newPart.addTag("kicadDesc", "Heatsink, StoneCold HS")
 newPart.addTag("kicadTags", "heatsink")

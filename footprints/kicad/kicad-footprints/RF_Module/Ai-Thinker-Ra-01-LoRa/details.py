@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "Ai-Thinker-Ra-01-LoRa")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa")
 
 newPart.addTag("kicadDesc", "Ai Thinker Ra-01 LoRa")
 newPart.addTag("kicadTags", "LoRa Ra-01")

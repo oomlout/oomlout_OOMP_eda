@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Cree-PLCC6_4.7x1.5mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Cree-PLCC6_4.7x1.5mm")
 
 newPart.addTag("kicadDesc", "4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf")
 newPart.addTag("kicadTags", "LED Cree PLCC-6")

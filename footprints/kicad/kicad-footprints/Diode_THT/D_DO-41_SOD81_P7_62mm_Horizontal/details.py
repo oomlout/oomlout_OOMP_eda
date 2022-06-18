@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-41_SOD81_P7.62mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-41_SOD81_P7.62mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
 newPart.addTag("kicadTags", "Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm")

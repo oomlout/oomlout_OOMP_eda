@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Mini-Circuits")
 newPart.addTag("oompIndex", "Mini-Circuits_GP1212")
+newPart.addTag("oompName", "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_GP1212")
 
 newPart.addTag("kicadDesc", "Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf)")
 newPart.addTag("kicadTags", "mini-circuits GP1212")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_SMD")
 newPart.addTag("oompIndex", "Potentiometer_ACP_CA14-VSMD_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA14-VSMD_Vertical")
 
 newPart.addTag("kicadDesc", "Potentiometer, vertical, ACP CA14-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf")
 newPart.addTag("kicadTags", "Potentiometer vertical ACP CA14-VSMD")

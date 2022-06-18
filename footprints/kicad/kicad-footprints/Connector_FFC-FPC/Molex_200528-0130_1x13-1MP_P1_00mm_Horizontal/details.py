@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0130, 13 Circuits (https://www.molex.com/pdm_docs/sd/2005280130_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex  top entry")

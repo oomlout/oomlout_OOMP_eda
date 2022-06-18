@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_MetzConnect")
 newPart.addTag("oompIndex", "TerminalBlock_MetzConnect_Type171_RT13702HBWC_1x02_P7.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type171_RT13702HBWC_1x02_P7.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "terminal block Metz Connect Type171_RT13702HBWC, 2 pins, pitch 7.5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
 newPart.addTag("kicadTags", "THT terminal block Metz Connect Type171_RT13702HBWC pitch 7.5mm size 15x9mm^2 drill 1.3mm pad 2.5mm")

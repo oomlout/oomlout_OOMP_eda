@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Maple_Mini")
+newPart.addTag("oompName", "kicad-footprints/Module/Maple_Mini")
 
 newPart.addTag("kicadDesc", "Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html")
 newPart.addTag("kicadTags", "Maple Mini")

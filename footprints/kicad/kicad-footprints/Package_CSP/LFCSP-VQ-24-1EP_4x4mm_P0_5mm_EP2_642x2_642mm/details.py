@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm")
 
 newPart.addTag("kicadDesc", "LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf)")
 newPart.addTag("kicadTags", "LFCSP 0.5")

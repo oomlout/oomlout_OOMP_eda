@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_Schaffner_FN405")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_Schaffner_FN405")
 
 newPart.addTag("kicadDesc", "Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/)")
 newPart.addTag("kicadTags", "EMI filter")

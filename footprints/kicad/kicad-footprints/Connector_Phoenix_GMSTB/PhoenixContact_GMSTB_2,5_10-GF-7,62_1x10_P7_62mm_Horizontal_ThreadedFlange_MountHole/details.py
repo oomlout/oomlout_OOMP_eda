@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_GMSTB")
 newPart.addTag("oompIndex", "PhoenixContact_GMSTB_2,5_10-GF-7,62_1x10_P7.62mm_Horizontal_ThreadedFlange_MountHole")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTB_2,5_10-GF-7,62_1x10_P7.62mm_Horizontal_ThreadedFlange_MountHole")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: GMSTB_2,5/10-GF-7,62; number of pins: 10; pin pitch: 7.62mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1806300 12A 630V")
 newPart.addTag("kicadTags", "phoenix_contact connector GMSTB_01x10_GF_7.62mm_MH")

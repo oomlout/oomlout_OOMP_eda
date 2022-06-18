@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0429.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "TDFN NoLead")

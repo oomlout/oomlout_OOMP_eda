@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-89-3")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-89-3")
 
 newPart.addTag("kicadDesc", "SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf")
 newPart.addTag("kicadTags", "SOT-89-3")

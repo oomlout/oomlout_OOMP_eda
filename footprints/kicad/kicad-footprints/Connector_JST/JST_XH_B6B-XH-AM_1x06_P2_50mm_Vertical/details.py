@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST XH series connector, B6B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST XH vertical boss")

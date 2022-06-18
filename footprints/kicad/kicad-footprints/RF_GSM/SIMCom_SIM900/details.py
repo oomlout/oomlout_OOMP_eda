@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GSM")
 newPart.addTag("oompIndex", "SIMCom_SIM900")
+newPart.addTag("oompName", "kicad-footprints/RF_GSM/SIMCom_SIM900")
 
 newPart.addTag("kicadDesc", "Quad-Band GSM/GPRS module, 24x24x3mm, http://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf")
 newPart.addTag("kicadTags", "GSM Module SIM900")

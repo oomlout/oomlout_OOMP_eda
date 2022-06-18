@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Sharp_IS471F")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Sharp_IS471F")
 
 newPart.addTag("kicadDesc", "Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf")
 newPart.addTag("kicadTags", "Sharp OPIC IS471F")

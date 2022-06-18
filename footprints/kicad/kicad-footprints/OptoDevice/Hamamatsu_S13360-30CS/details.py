@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Hamamatsu_S13360-30CS")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Hamamatsu_S13360-30CS")
 
 newPart.addTag("kicadDesc", "SiPM, 2pin")
 newPart.addTag("kicadTags", "Hamamatsu SiPM")

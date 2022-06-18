@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "ESD-Logo_6.6x6mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/ESD-Logo_6.6x6mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "Electrostatic discharge Logo")
 newPart.addTag("kicadTags", "Logo ESD")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "MSOP-12-16_3x4mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/MSOP-12-16_3x4mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
 newPart.addTag("kicadTags", "SSOP 0.5")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_A_Molex_67643_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_A_Molex_67643_Horizontal")
 
 newPart.addTag("kicadDesc", "USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf")
 newPart.addTag("kicadTags", "USB_A Female Connector receptacle")

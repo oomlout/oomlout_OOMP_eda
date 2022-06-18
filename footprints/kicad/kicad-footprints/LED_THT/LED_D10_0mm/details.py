@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D10.0mm")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D10.0mm")
 
 newPart.addTag("kicadDesc", "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 newPart.addTag("kicadTags", "LED diameter 10.0mm 2 pins")

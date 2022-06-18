@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "SLA704XM")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/SLA704XM")
 
 newPart.addTag("kicadDesc", "SIP SLA704XM (http://www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF)")
 newPart.addTag("kicadTags", "SIP")

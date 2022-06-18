@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "CP_Elec_5x5.7")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/CP_Elec_5x5.7")
 
 newPart.addTag("kicadDesc", "SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm")
 newPart.addTag("kicadTags", "capacitor electrolytic")

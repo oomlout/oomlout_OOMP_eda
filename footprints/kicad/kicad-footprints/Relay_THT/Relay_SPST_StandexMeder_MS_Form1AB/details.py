@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPST_StandexMeder_MS_Form1AB")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPST_StandexMeder_MS_Form1AB")
 
 newPart.addTag("kicadDesc", "Standex-Meder MS SIL-relais, Form 1A/1B, see https://standexelectronics.com/de/produkte/ms-reed-relais/")
 newPart.addTag("kicadTags", "Standex Meder MS SIL reed relais")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "D1X8K")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/D1X8K")
 
 newPart.addTag("kicadDesc", "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf")
 newPart.addTag("kicadTags", "Single digit 7 segment ultra bright red")

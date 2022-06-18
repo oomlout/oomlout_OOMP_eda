@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Taiyo-Yuden_MD-4040")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_MD-4040")
 
 newPart.addTag("kicadDesc", "Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-4040, 4.0mmx4.0mm")
 newPart.addTag("kicadTags", "inductor taiyo-yuden md smd")

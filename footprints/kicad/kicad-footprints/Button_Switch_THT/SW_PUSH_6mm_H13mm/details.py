@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_PUSH_6mm_H13mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_PUSH_6mm_H13mm")
 
 newPart.addTag("kicadDesc", "tactile push button, 6x6mm e.g. PHAP33xx series, height=13mm")
 newPart.addTag("kicadTags", "tact sw push 6mm")

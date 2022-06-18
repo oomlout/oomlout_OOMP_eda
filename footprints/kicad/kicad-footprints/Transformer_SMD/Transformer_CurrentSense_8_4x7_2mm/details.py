@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_CurrentSense_8.4x7.2mm")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_CurrentSense_8.4x7.2mm")
 
 newPart.addTag("kicadDesc", "Transformer current sense SMD 8.4x7.2mm")
 newPart.addTag("kicadTags", "Transformer current sense SMD")

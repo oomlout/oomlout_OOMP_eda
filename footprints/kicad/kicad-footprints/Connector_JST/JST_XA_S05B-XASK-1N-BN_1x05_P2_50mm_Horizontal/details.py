@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_XA_S05B-XASK-1N-BN_1x05_P2.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_XA_S05B-XASK-1N-BN_1x05_P2.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST XA series connector, S05B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST XA horizontal")

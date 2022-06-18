@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_5.3mm_M5_ISO14580")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_5.3mm_M5_ISO14580")
 
 newPart.addTag("kicadDesc", "Mounting Hole 5.3mm, no annular, M5, ISO14580")
 newPart.addTag("kicadTags", "mounting hole 5.3mm no annular m5 iso14580")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_TCXO_G158")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_TCXO_G158")
 
 newPart.addTag("kicadDesc", "TCXO")
 newPart.addTag("kicadTags", "TCXO")

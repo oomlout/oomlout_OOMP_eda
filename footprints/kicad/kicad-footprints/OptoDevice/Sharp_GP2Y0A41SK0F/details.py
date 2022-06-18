@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Sharp_GP2Y0A41SK0F")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Sharp_GP2Y0A41SK0F")
 
 newPart.addTag("kicadDesc", "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf")
 newPart.addTag("kicadTags", "Distance Sensor Sharp")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_Finder_34.51_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_Finder_34.51_Vertical")
 
 newPart.addTag("kicadDesc", "Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
 newPart.addTag("kicadTags", "Relay SPDT Finder")

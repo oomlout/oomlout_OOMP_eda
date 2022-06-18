@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Micro-Fit_3.0_43650-1015_1x10_P3.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-1015_1x10_P3.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Micro-Fit 3.0 Connector System, 43650-1015 (compatible alternatives: 43650-1016, 43650-1017), 10 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Micro-Fit_3.0 vertical")

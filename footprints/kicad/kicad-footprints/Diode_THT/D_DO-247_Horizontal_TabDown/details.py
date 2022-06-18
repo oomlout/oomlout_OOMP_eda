@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-247_Horizontal_TabDown")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-247_Horizontal_TabDown")
 
 newPart.addTag("kicadDesc", "Diode, DO-247 series, Horizontal, TabDown, P 10.9mm")
 newPart.addTag("kicadTags", "diode rectifier")

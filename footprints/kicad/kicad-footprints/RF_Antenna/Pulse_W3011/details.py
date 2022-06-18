@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Antenna")
 newPart.addTag("oompIndex", "Pulse_W3011")
+newPart.addTag("oompName", "kicad-footprints/RF_Antenna/Pulse_W3011")
 
 newPart.addTag("kicadDesc", "Pulse RF Antenna, 4mm Clearance")
 newPart.addTag("kicadTags", "antenna rf")

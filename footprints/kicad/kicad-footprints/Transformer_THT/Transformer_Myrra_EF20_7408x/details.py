@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Myrra_EF20_7408x")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Myrra_EF20_7408x")
 
 newPart.addTag("kicadDesc", "EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf")
 newPart.addTag("kicadTags", "transformer flyback SMPS")

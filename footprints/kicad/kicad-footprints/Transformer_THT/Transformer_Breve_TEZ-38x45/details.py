@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Breve_TEZ-38x45")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-38x45")
 
 newPart.addTag("kicadDesc", "http://www.breve.pl/pdf/ANG/TEZ_ang.pdf")
 newPart.addTag("kicadTags", "TEZ PCB Transformer")

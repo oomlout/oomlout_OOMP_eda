@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "BeagleBoard_PocketBeagle")
+newPart.addTag("oompName", "kicad-footprints/Module/BeagleBoard_PocketBeagle")
 
 newPart.addTag("kicadDesc", "PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors")
 newPart.addTag("kicadTags", "PocketBeagle")

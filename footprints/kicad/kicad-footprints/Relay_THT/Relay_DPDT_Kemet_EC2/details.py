@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_DPDT_Kemet_EC2")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_DPDT_Kemet_EC2")
 
 newPart.addTag("kicadDesc", "Kemet signal relay, DPDT, non-latching, single coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf")
 newPart.addTag("kicadTags", "Kemet EC2 signal relay DPDT non single coil latching through hole THT")

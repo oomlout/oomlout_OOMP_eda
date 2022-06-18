@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_Palconn_UTC16-G")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_Palconn_UTC16-G")
 
 newPart.addTag("kicadDesc", "http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf")
 newPart.addTag("kicadTags", "USB C Type-C Receptacle USB2.0")

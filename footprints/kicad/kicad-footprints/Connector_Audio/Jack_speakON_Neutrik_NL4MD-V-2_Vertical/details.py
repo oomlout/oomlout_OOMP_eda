@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_speakON_Neutrik_NL4MD-V-2_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-V-2_Vertical")
 
 newPart.addTag("kicadDesc", "speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-2")
 newPart.addTag("kicadTags", "neutrik speakon")

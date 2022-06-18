@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D3.0mm-3")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D3.0mm-3")
 
 newPart.addTag("kicadDesc", "LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf")
 newPart.addTag("kicadTags", "LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins")

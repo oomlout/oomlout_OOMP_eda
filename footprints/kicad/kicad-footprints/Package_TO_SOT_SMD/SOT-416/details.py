@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-416")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-416")
 
 newPart.addTag("kicadDesc", "SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf")
 newPart.addTag("kicadTags", "SOT-416")

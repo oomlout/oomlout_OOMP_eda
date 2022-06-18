@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "CF-Card_3M_N7E50-A516xx-30")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30")
 
 newPart.addTag("kicadDesc", "Compact Flash Card connector, polarization inverse (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)")
 newPart.addTag("kicadTags", "connector cf")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Blade_ATO_directSolder")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Blade_ATO_directSolder")
 
 newPart.addTag("kicadDesc", "car blade fuse direct solder")
 newPart.addTag("kicadTags", "car blade fuse")

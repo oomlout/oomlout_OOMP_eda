@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Diodes_SO-8EP")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Diodes_SO-8EP")
 
 newPart.addTag("kicadDesc", "8-Lead Plastic SO, Exposed Die Pad (see https://www.diodes.com/assets/Package-Files/SO-8EP.pdf)")
 newPart.addTag("kicadTags", "SO exposed pad")

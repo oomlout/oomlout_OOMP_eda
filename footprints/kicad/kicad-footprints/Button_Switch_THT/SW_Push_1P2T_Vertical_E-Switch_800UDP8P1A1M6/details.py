@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6")
 
 newPart.addTag("kicadDesc", "right angle SPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf")
 newPart.addTag("kicadTags", "IP67 ultra-miniture horizontal")

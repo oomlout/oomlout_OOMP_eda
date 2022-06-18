@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Texas_EUK_R-PDSS-T7_THT")
+newPart.addTag("oompName", "kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT")
 
 newPart.addTag("kicadDesc", "Texas Instruments EUK 7 Pin Double Sided Module")
 newPart.addTag("kicadTags", "module pcb")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Amphenol_132289_EdgeMount")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132289_EdgeMount")
 
 newPart.addTag("kicadDesc", "http://www.amphenolrf.com/132289.html")
 newPart.addTag("kicadTags", "SMA")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_Dinkle")
 newPart.addTag("oompIndex", "TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm")
 
 newPart.addTag("kicadDesc", "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX")
 newPart.addTag("kicadTags", "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm")
 
 newPart.addTag("kicadDesc", "WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "WSON NoLead")

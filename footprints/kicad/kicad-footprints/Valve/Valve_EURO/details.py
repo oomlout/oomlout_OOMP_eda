@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Valve")
 newPart.addTag("oompIndex", "Valve_EURO")
+newPart.addTag("oompName", "kicad-footprints/Valve/Valve_EURO")
 
 newPart.addTag("kicadDesc", "Valve Euro")
 newPart.addTag("kicadTags", "Valve Euro")

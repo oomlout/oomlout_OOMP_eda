@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SRP7028A_7.3x6.6mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm")
 
 newPart.addTag("kicadDesc", "Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)")
 newPart.addTag("kicadTags", "Shielded Inductors Bourns SMD SRP7028A")

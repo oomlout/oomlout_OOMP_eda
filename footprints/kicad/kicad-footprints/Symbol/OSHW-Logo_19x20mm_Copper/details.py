@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "OSHW-Logo_19x20mm_Copper")
+newPart.addTag("oompName", "kicad-footprints/Symbol/OSHW-Logo_19x20mm_Copper")
 
 newPart.addTag("kicadDesc", "Open Source Hardware Logo")
 newPart.addTag("kicadTags", "Logo OSHW")

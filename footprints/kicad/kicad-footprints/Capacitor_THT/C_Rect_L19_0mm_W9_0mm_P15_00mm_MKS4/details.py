@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_THT")
 newPart.addTag("oompIndex", "C_Rect_L19.0mm_W9.0mm_P15.00mm_MKS4")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_THT/C_Rect_L19.0mm_W9.0mm_P15.00mm_MKS4")
 
 newPart.addTag("kicadDesc", "C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*9mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
 newPart.addTag("kicadTags", "C Rect series Radial pin pitch 15.00mm  length 19mm width 9mm Capacitor")

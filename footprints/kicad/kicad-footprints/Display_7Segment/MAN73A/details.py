@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "MAN73A")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/MAN73A")
 
 newPart.addTag("kicadDesc", "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php")
 newPart.addTag("kicadTags", "Overflow +- 1 red LED")

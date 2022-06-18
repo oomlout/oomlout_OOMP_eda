@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "DecaWave_DWM1001")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/DecaWave_DWM1001")
 
 newPart.addTag("kicadDesc", "https://www.decawave.com/sites/default/files/dwm1001_datasheet.pdf")
 newPart.addTag("kicadTags", "UWB module")

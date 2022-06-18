@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_SheetType_50x7mm_2Fixations")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_SheetType_50x7mm_2Fixations")
 
 newPart.addTag("kicadDesc", "Heatsink, Sheet type, 50x7mm, 2 fixations (solder),")
 newPart.addTag("kicadTags", "Heatsink sheet")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Mini-Fit_Sr_42819-32XX_1x03_P10.00mm_Vertical_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42819-32XX_1x03_P10.00mm_Vertical_ThermalVias")
 
 newPart.addTag("kicadDesc", "Molex Mini-Fit Sr. Power Connectors, 42819-32XX, With thermal vias in pads, 3 Pins per row (http://www.molex.com/pdm_docs/sd/428192214_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Mini-Fit_Sr side entry")

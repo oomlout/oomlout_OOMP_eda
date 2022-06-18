@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_CLIK-Mate_502494-0870_1x08-1MP_P2.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502494-0870_1x08-1MP_P2.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex CLIK-Mate series connector, 502494-0870 (http://www.molex.com/pdm_docs/sd/5024940270_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex CLIK-Mate top entry")

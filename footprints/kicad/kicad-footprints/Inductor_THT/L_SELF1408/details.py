@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_SELF1408")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_SELF1408")
 
 newPart.addTag("kicadDesc", "Self Ferrite 14 - 08")
 newPart.addTag("kicadTags", "SELF")

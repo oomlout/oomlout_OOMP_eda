@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinHeader_2.54mm")
 newPart.addTag("oompIndex", "PinHeader_2x09_P2.54mm_Vertical_SMD")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x09_P2.54mm_Vertical_SMD")
 
 newPart.addTag("kicadDesc", "surface-mounted straight pin header, 2x09, 2.54mm pitch, double rows")
 newPart.addTag("kicadTags", "Surface mounted pin header SMD 2x09 2.54mm double row")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2055-5)), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "TQFN NoLead")

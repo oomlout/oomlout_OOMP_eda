@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LCC")
 newPart.addTag("oompIndex", "PLCC-32_THT-Socket")
+newPart.addTag("oompName", "kicad-footprints/Package_LCC/PLCC-32_THT-Socket")
 
 newPart.addTag("kicadDesc", "PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf")
 newPart.addTag("kicadTags", "plcc leaded")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_SK6812_EC15_1.5x1.5mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_SK6812_EC15_1.5x1.5mm")
 
 newPart.addTag("kicadDesc", "http://www.newstar-ledstrip.com/product/20181119172602110.pdf")
 newPart.addTag("kicadTags", "LED RGB NeoPixel")

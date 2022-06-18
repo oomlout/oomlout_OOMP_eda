@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_RUM0016A_EP2.6x2.6mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_RUM0016A_EP2.6x2.6mm")
 
 newPart.addTag("kicadDesc", "QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

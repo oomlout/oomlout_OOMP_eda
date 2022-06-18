@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "PerkinElmer_VTL5C")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/PerkinElmer_VTL5C")
 
 newPart.addTag("kicadDesc", "Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)")
 newPart.addTag("kicadTags", "vactrol")

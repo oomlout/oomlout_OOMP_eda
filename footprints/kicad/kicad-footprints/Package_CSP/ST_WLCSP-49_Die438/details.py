@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "ST_WLCSP-49_Die438")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/ST_WLCSP-49_Die438")
 
 newPart.addTag("kicadDesc", "WLCSP-49, 7x7 raster, 3.89x3.74mm package, pitch 0.5mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f303r8.pdf")
 newPart.addTag("kicadTags", "BGA 49 0.5")

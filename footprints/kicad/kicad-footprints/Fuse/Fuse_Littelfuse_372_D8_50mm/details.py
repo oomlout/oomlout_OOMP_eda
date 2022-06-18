@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Littelfuse_372_D8.50mm")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Littelfuse_372_D8.50mm")
 
 newPart.addTag("kicadDesc", "Fuse, Littelfuse, 372, 8.5x8mm, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "fuse tht radial")

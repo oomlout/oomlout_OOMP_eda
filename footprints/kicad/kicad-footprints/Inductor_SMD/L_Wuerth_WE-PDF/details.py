@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-PDF")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-PDF")
 
 newPart.addTag("kicadDesc", "Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf")
 newPart.addTag("kicadTags", "Choke Shielded Power Inductor WE-PDF Wuerth")

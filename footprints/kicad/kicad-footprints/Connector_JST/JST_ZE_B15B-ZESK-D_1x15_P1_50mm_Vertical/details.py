@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_ZE_B15B-ZESK-D_1x15_P1.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_ZE_B15B-ZESK-D_1x15_P1.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST ZE series connector, B15B-ZESK-D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST ZE side entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_TE-Connectivity")
 newPart.addTag("oompIndex", "TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_TE-Connectivity/TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Terminal Block TE 282834-8, 8 pins, pitch 2.54mm, size 20.78x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity")
 newPart.addTag("kicadTags", "THT Terminal Block TE 282834-8 pitch 2.54mm size 20.78x6.5mm^2 drill 1.1mm pad 2.1mm")

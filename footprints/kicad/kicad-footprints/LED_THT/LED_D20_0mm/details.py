@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D20.0mm")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D20.0mm")
 
 newPart.addTag("kicadDesc", "LED, diameter 20.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf")
 newPart.addTag("kicadTags", "LED diameter 20.0mm 2 pins")

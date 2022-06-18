@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Pressure")
 newPart.addTag("oompIndex", "Honeywell_40PCxxxG1A")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Pressure/Honeywell_40PCxxxG1A")
 
 newPart.addTag("kicadDesc", "https://www.honeywellscportal.com/index.php?ci_id=138832")
 newPart.addTag("kicadTags", "pressure sensor automotive honeywell")

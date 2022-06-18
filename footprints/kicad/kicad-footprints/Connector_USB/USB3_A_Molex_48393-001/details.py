@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB3_A_Molex_48393-001")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB3_A_Molex_48393-001")
 
 newPart.addTag("kicadDesc", "USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)")
 newPart.addTag("kicadTags", "USB 3.0 type A right angle")

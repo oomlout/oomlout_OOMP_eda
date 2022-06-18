@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical")
 
 newPart.addTag("kicadDesc", "http://www.adam-tech.com/upload/MUSB-B5-S-VT-TSMT-1.pdf")
 newPart.addTag("kicadTags", "USB Mini-B")

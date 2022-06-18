@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_Push_1P1T_NO_Vertical_Wuerth_434133025816")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816")
 
 newPart.addTag("kicadDesc", "https://katalog.we-online.com/em/datasheet/434133025816.pdf")
 newPart.addTag("kicadTags", "tactile switch Wurth Wuerth")

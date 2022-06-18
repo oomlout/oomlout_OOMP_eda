@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Nexperia_CFP3_SOD-123W")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W")
 
 newPart.addTag("kicadDesc", "Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf")
 newPart.addTag("kicadTags", "CFP3 SOD-123W")

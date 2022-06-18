@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_0402_1005Metric")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_0402_1005Metric")
 
 newPart.addTag("kicadDesc", "Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "inductor")

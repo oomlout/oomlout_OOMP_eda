@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_SMD")
 newPart.addTag("oompIndex", "Relay_DPDT_Omron_G6H-2F")
+newPart.addTag("oompName", "kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6H-2F")
 
 newPart.addTag("kicadDesc", "package for Omron G6H-2F relais, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf")
 newPart.addTag("kicadTags", "Omron G6H-2F relais")

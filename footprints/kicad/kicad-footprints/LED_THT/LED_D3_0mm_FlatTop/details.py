@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D3.0mm_FlatTop")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D3.0mm_FlatTop")
 
 newPart.addTag("kicadDesc", "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
 newPart.addTag("kicadTags", "LED Round FlatTop diameter 3.0mm 2 pins")

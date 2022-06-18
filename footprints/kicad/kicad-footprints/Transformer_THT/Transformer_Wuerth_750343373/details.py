@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Wuerth_750343373")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Wuerth_750343373")
 
 newPart.addTag("kicadDesc", "Transformer, horizontal core with bobbin, 10 pin, 3.81mm pitch, 15.24mm row spacing, 22x23x17.53mm (https://katalog.we-online.com/ctm/datasheet/750343373.pdf)")
 newPart.addTag("kicadTags", "transformer flyback")

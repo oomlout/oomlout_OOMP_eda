@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Horizontal, pin pitch=25.4mm, , length*diameter=20*8mm^2")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Horizontal pin pitch 25.4mm  length 20mm diameter 8mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Pulse_JK0654219NL_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Pulse_JK0654219NL_Horizontal")
 
 newPart.addTag("kicadDesc", "10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2")
 newPart.addTag("kicadTags", "RJ45 8p8c ethernet")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm")
 
 newPart.addTag("kicadDesc", "3.2x2.5mm, 1-220MHz High Performance Differential Oscillator SiTime SiT9121 https://www.sitime.com/datasheet/SiT9121")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

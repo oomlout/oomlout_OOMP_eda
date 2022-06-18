@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Axial_Shunt_L47.6mm_W9.5mm_PS34.93mm_P50.80mm")
 
 newPart.addTag("kicadDesc", "Resistor, Axial_Shunt series, Box, pin pitch=50.8mm, 10W, length*width*height=47.6*9.5*9.5mm^3, shunt pin pitch = 34.93mm, http://www.vishay.com/docs/30217/cpsl.pdf")
 newPart.addTag("kicadTags", "Resistor Axial_Shunt series Box pin pitch 50.8mm 10W length 47.6mm width 9.5mm height 9.5mm shunt pin pitch 34.93mm")

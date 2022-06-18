@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "DE114-RS-20")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/DE114-RS-20")
 
 newPart.addTag("kicadDesc", "http://www.display-elektronik.de/filter/DE113-RS-20_635.pdf")
 newPart.addTag("kicadTags", "3 1/5 digit reflective LCD LOW-BAT + 7-Segment")

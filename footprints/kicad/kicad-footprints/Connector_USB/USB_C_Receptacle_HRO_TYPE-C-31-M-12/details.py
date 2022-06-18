@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12")
 
 newPart.addTag("kicadDesc", "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
 newPart.addTag("kicadTags", "usb usb-c 2.0 pd")

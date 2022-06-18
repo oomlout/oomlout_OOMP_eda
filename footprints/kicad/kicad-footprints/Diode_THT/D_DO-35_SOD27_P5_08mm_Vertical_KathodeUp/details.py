@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
 
 newPart.addTag("kicadDesc", "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 newPart.addTag("kicadTags", "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")

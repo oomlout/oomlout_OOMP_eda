@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm")
 
 newPart.addTag("kicadDesc", "Heatsink, Fischer SK129")
 newPart.addTag("kicadTags", "heatsink fischer")

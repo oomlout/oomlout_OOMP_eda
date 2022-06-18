@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MSTB")
 newPart.addTag("oompIndex", "PhoenixContact_MSTBVA_2,5_9-G_1x09_P5.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_9-G_1x09_P5.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MSTBVA_2,5/9-G; number of pins: 09; pin pitch: 5.00mm; Vertical || order number: 1755587 12A || order number: 1924266 16A (HC)")
 newPart.addTag("kicadTags", "phoenix_contact connector MSTBVA_01x09_G_5.00mm")

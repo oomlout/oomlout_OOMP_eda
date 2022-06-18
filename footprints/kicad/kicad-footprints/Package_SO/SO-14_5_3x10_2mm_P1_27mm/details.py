@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SO-14_5.3x10.2mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SO-14_5.3x10.2mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "SO, 14 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SO SO")

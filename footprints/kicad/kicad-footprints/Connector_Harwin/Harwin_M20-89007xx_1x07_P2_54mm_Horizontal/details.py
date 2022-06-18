@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Harwin")
 newPart.addTag("oompIndex", "Harwin_M20-89007xx_1x07_P2.54mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Harwin/Harwin_M20-89007xx_1x07_P2.54mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89007xx, 7 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Harwin M20-890 horizontal")

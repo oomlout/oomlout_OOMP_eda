@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "LEM_HX06-P")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/LEM_HX06-P")
 
 newPart.addTag("kicadDesc", "LEM HX06-P hall effect current transducer (https://www.lem.com/sites/default/files/products_datasheets/hx%202_6-p_e%20v5.pdf)")
 newPart.addTag("kicadTags", "hall current")

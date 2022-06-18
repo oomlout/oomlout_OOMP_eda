@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "CP_Elec_18x17.5")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/CP_Elec_18x17.5")
 
 newPart.addTag("kicadDesc", "SMD capacitor, aluminum electrolytic, Vishay 1816, 18.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf")
 newPart.addTag("kicadTags", "capacitor electrolytic")

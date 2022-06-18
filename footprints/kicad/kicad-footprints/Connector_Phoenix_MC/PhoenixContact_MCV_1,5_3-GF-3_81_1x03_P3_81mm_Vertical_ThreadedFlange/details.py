@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MC")
 newPart.addTag("oompIndex", "PhoenixContact_MCV_1,5_3-GF-3.81_1x03_P3.81mm_Vertical_ThreadedFlange")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_3-GF-3.81_1x03_P3.81mm_Vertical_ThreadedFlange")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MCV_1,5/3-GF-3.81; number of pins: 03; pin pitch: 3.81mm; Vertical; threaded flange || order number: 1830606 8A 160V")
 newPart.addTag("kicadTags", "phoenix_contact connector MCV_01x03_GF_3.81mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Varistor")
 newPart.addTag("oompIndex", "RV_Disc_D7mm_W5.4mm_P5mm")
+newPart.addTag("oompName", "kicad-footprints/Varistor/RV_Disc_D7mm_W5.4mm_P5mm")
 
 newPart.addTag("kicadDesc", "Varistor, diameter 7mm, width 5.4mm, pitch 5mm")
 newPart.addTag("kicadTags", "varistor SIOV")

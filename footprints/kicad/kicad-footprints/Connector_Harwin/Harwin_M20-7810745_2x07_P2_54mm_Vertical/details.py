@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Harwin")
 newPart.addTag("oompIndex", "Harwin_M20-7810745_2x07_P2.54mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Harwin/Harwin_M20-7810745_2x07_P2.54mm_Vertical")
 
 newPart.addTag("kicadDesc", "Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810745, 7 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Harwin M20 side entry")

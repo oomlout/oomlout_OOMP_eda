@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "EA_eDIPTFT32-XXX")
+newPart.addTag("oompName", "kicad-footprints/Display/EA_eDIPTFT32-XXX")
 
 newPart.addTag("kicadDesc", "TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf")
 newPart.addTag("kicadTags", "TFT-graphic display 320x240 16 bit colour with led backlight")

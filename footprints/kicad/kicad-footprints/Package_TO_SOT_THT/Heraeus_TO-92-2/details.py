@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "Heraeus_TO-92-2")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/Heraeus_TO-92-2")
 
 newPart.addTag("kicadDesc", "TO-92 2-pin variant by Heraeus, drill 0.75mm (http://www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)")
 newPart.addTag("kicadTags", "to-92")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-PD4-Typ-X")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD4-Typ-X")
 
 newPart.addTag("kicadDesc", "Power Inductor, Wuerth Elektronik, WE-PD4, SMT, Typ X, https://katalog.we-online.de/pbs/datasheet/74458001.pdf")
 newPart.addTag("kicadTags", "Choke Power Inductor WE-PD4 TypX Wuerth")

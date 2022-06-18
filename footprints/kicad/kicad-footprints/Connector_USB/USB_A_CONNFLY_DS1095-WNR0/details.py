@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_A_CONNFLY_DS1095-WNR0")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_A_CONNFLY_DS1095-WNR0")
 
 newPart.addTag("kicadDesc", "http://www.connfly.com/userfiles/image/UpLoadFile/File/2013/5/6/DS1095.pdf")
 newPart.addTag("kicadTags", "USB-A receptacle horizontal through-hole")

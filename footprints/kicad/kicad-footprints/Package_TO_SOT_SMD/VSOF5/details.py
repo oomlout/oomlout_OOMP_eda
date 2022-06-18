@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "VSOF5")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/VSOF5")
 
 newPart.addTag("kicadDesc", "VSOF5")
 newPart.addTag("kicadTags", "VSOF5")

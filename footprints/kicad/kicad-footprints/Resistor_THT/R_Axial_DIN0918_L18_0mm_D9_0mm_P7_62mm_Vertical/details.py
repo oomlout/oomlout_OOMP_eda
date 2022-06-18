@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Axial_DIN0918_L18.0mm_D9.0mm_P7.62mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P7.62mm_Vertical")
 
 newPart.addTag("kicadDesc", "Resistor, Axial_DIN0918 series, Axial, Vertical, pin pitch=7.62mm, 4W, length*diameter=18*9mm^2")
 newPart.addTag("kicadTags", "Resistor Axial_DIN0918 series Axial Vertical pin pitch 7.62mm 4W length 18mm diameter 9mm")

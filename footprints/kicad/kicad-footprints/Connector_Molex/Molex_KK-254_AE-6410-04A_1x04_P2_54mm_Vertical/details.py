@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-04A example for new part number: 22-27-2041, 4 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex KK-254 vertical")

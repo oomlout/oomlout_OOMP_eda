@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "LQFP QFP")

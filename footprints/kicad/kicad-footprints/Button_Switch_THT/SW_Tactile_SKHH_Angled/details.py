@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Tactile_SKHH_Angled")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Tactile_SKHH_Angled")
 
 newPart.addTag("kicadDesc", "tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html")
 newPart.addTag("kicadTags", "tactile switch 6mm ALPS SKHH right angle")

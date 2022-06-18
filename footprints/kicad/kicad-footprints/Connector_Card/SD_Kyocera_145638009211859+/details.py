@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "SD_Kyocera_145638009211859+")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/SD_Kyocera_145638009211859+")
 
 newPart.addTag("kicadDesc", "SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)")
 newPart.addTag("kicadTags", "sd card smt")

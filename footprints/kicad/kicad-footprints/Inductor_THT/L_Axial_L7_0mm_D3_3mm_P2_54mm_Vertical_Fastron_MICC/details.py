@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L7.0mm_D3.3mm_P2.54mm_Vertical_Fastron_MICC")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P2.54mm_Vertical_Fastron_MICC")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7*3.3mm^2, Fastron, MICC, http://www.fastrongroup.com/image-show/70/MICC.pdf?type=Complete-DataSheet&productType=series")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Vertical pin pitch 2.54mm  length 7mm diameter 3.3mm Fastron MICC")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_HC33-U_Horizontal_1EP_style1")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_HC33-U_Horizontal_1EP_style1")
 
 newPart.addTag("kicadDesc", "Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf")
 newPart.addTag("kicadTags", "THT crystal")

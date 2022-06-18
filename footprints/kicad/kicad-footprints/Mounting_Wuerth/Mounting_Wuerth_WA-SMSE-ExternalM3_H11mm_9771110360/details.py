@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Mounting_Wuerth")
 newPart.addTag("oompIndex", "Mounting_Wuerth_WA-SMSE-ExternalM3_H11mm_9771110360")
+newPart.addTag("oompName", "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSE-ExternalM3_H11mm_9771110360")
 
 newPart.addTag("kicadDesc", "Mounting Hardware, external M3, height 11, Wuerth electronics 9771110360 (https://katalog.we-online.com/em/datasheet/9771110360.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Mounting M3 9771110360")

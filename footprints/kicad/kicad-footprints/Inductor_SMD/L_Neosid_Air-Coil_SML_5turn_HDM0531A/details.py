@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_Air-Coil_SML_5turn_HDM0531A")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_Air-Coil_SML_5turn_HDM0531A")
 
 newPart.addTag("kicadDesc", "Neosid, Air-Coil, SML, 5turn, HDM0531A,")
 newPart.addTag("kicadTags", "Neosid Air-Coil SML 5turn HDM0531A")

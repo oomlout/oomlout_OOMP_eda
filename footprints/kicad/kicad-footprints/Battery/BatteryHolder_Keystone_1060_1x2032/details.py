@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Keystone_1060_1x2032")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Keystone_1060_1x2032")
 
 newPart.addTag("kicadDesc", "http://www.keyelco.com/product-pdf.cfm?p=726")
 newPart.addTag("kicadTags", "CR2032 BR2032 BatteryHolder Battery")

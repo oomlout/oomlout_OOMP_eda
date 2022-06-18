@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Keystone_3001_1x12mm")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Keystone_3001_1x12mm")
 
 newPart.addTag("kicadDesc", "http://www.keyelco.com/product-pdf.cfm?p=778")
 newPart.addTag("kicadTags", "Keystone type 3001 coin cell retainer")

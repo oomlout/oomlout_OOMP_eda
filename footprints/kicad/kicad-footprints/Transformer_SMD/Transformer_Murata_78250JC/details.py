@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Murata_78250JC")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Murata_78250JC")
 
 newPart.addTag("kicadDesc", "Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf")
 newPart.addTag("kicadTags", "Murata transformer")

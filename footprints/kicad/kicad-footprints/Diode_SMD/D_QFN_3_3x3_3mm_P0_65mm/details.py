@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_QFN_3.3x3.3mm_P0.65mm")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_QFN_3.3x3.3mm_P0.65mm")
 
 newPart.addTag("kicadDesc", "QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)")
 newPart.addTag("kicadTags", "diode qfn 3.3")

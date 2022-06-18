@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "Sanyo SIP-15, 78.0mm x 8.0mm bosy size, STK-437E STK-439E STK-441E STK-443E (http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf)")
 newPart.addTag("kicadTags", "Sanyo SIP-15")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering")
 
 newPart.addTag("kicadDesc", "LGA-8")
 newPart.addTag("kicadTags", "lga land grid array")

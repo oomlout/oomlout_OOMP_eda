@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Finder_34.81")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Finder_34.81")
 
 newPart.addTag("kicadDesc", "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf")
 newPart.addTag("kicadTags", "Relay SPST Finder")

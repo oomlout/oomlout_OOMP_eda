@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Luna_NSL-32")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Luna_NSL-32")
 
 newPart.addTag("kicadDesc", "Optoisolator with LED and photoresistor")
 newPart.addTag("kicadTags", "optoisolator")

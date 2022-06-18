@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "EA_DOGL128-6")
+newPart.addTag("oompName", "kicad-footprints/Display/EA_DOGL128-6")
 
 newPart.addTag("kicadDesc", "Graphical,Display,LCD,128x64 https://www.lcd-module.com/eng/pdf/grafik/dogl128-6e.pdf")
 newPart.addTag("kicadTags", "EA DOGL128")

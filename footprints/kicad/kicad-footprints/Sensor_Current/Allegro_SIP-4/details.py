@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "Allegro_SIP-4")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/Allegro_SIP-4")
 
 newPart.addTag("kicadDesc", "Allegro Microsystems SIP-4, 1.27mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/A1363-Datasheet.ashx)")
 newPart.addTag("kicadTags", "Allegro SIP-4")

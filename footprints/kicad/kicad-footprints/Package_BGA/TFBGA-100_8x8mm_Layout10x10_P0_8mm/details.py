@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "TFBGA-100_8x8mm_Layout10x10_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/TFBGA-100_8x8mm_Layout10x10_P0.8mm")
 
 newPart.addTag("kicadDesc", "TFBGA-100, 10x10 raster, 8x8mm package, pitch 0.8mm; see section 6.2 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf")
 newPart.addTag("kicadTags", "BGA 100 0.8")

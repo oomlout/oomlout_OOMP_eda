@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_Philmore")
 newPart.addTag("oompIndex", "TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Terminal Block Philmore , 3 pins, pitch 5mm, size 15x10.2mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Philmore")
 newPart.addTag("kicadTags", "THT Terminal Block Philmore  pitch 5mm size 15x10.2mm^2 drill 1.2mm pad 2.4mm")

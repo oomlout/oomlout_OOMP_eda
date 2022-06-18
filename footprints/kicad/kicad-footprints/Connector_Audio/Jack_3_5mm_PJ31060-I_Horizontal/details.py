@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_PJ31060-I_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_PJ31060-I_Horizontal")
 
 newPart.addTag("kicadDesc", "PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)")
 newPart.addTag("kicadTags", "headphones jack plug stereo 3.5mm PJ31060-I PJ31060")

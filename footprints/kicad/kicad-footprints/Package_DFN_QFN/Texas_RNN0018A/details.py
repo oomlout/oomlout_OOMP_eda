@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_RNN0018A")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_RNN0018A")
 
 newPart.addTag("kicadDesc", "Texas Instruments, VQFN-HR RNN0018A (http://www.ti.com/lit/ds/symlink/tps568215.pdf)")
 newPart.addTag("kicadTags", "ti vqfn-hr rnn0018a")

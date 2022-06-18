@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_THT")
 newPart.addTag("oompIndex", "C_Radial_D5.0mm_H7.0mm_P2.00mm")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_THT/C_Radial_D5.0mm_H7.0mm_P2.00mm")
 
 newPart.addTag("kicadDesc", "C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=7mm, Non-Polar Electrolytic Capacitor")
 newPart.addTag("kicadTags", "C Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Non-Polar Electrolytic Capacitor")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical")
 
 newPart.addTag("kicadDesc", "speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, vertical pcb mount, https://www.neutrik.com/en/product/nlj2md-v")
 newPart.addTag("kicadTags", "neutrik speakon combo")

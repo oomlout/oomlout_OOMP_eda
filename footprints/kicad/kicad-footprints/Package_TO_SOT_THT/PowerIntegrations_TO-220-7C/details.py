@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "PowerIntegrations_TO-220-7C")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C")
 
 newPart.addTag("kicadDesc", "Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf")
 newPart.addTag("kicadTags", "Power Integration Y Package")

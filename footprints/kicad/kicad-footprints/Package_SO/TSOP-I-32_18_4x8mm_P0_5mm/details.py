@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSOP-I-32_18.4x8mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSOP-I-32_18.4x8mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf, http://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/f32pm25.pdf)")
 newPart.addTag("kicadTags", "TSOP I 32")

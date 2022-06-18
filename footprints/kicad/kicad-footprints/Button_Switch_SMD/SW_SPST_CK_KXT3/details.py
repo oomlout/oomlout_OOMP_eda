@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_CK_KXT3")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_CK_KXT3")
 
 newPart.addTag("kicadDesc", "https://www.ckswitches.com/media/1465/kxt3.pdf")
 newPart.addTag("kicadTags", "Switch SPST KXT3")

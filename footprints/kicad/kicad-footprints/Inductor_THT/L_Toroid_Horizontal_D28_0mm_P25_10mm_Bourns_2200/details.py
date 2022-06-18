@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200")
 
 newPart.addTag("kicadDesc", "L_Toroid, Horizontal series, Radial, pin pitch=25.10mm, , diameter=28mm, Bourns, 2200, http://www.bourns.com/docs/Product-Datasheets/2100_series.pdf?sfvrsn=3")
 newPart.addTag("kicadTags", "L_Toroid Horizontal series Radial pin pitch 25.10mm  diameter 28mm Bourns 2200")

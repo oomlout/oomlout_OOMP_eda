@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm")
 
 newPart.addTag("kicadDesc", "LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins")
 newPart.addTag("kicadTags", "LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins")

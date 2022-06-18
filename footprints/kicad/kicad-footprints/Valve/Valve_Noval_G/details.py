@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Valve")
 newPart.addTag("oompIndex", "Valve_Noval_G")
+newPart.addTag("oompName", "kicad-footprints/Valve/Valve_Noval_G")
 
 newPart.addTag("kicadDesc", "Valve NOVAL G")
 newPart.addTag("kicadTags", "Valve NOVAL G")

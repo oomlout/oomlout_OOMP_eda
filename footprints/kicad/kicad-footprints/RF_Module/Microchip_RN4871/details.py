@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "Microchip_RN4871")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/Microchip_RN4871")
 
 newPart.addTag("kicadDesc", "Microchip RN4871 footprint")
 newPart.addTag("kicadTags", "RN4871 BLE")

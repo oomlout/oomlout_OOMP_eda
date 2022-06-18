@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-264-2_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-264-2_Vertical")
 
 newPart.addTag("kicadDesc", "TO-264-2, Vertical, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf")
 newPart.addTag("kicadTags", "TO-264-2 Vertical RM 10.9mm")

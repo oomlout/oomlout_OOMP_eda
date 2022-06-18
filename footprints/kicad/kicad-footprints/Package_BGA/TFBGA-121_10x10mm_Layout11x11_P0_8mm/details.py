@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "TFBGA-121_10x10mm_Layout11x11_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/TFBGA-121_10x10mm_Layout11x11_P0.8mm")
 
 newPart.addTag("kicadDesc", "TFBGA-121, 11x11 raster, 10x10mm package, pitch 0.8mm; http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#p495")
 newPart.addTag("kicadTags", "BGA 121 0.8")

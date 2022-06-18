@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MC")
 newPart.addTag("oompIndex", "PhoenixContact_MC_1,5_4-GF-3.5_1x04_P3.50mm_Horizontal_ThreadedFlange")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_4-GF-3.5_1x04_P3.50mm_Horizontal_ThreadedFlange")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MC_1,5/4-GF-3.5; number of pins: 04; pin pitch: 3.50mm; Angled; threaded flange || order number: 1843813 8A 160V")
 newPart.addTag("kicadTags", "phoenix_contact connector MC_01x04_GF_3.5mm")

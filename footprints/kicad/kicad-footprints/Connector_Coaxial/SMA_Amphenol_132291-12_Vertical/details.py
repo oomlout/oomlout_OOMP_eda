@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Amphenol_132291-12_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132291-12_Vertical")
 
 newPart.addTag("kicadDesc", "https://www.amphenolrf.com/downloads/dl/file/id/1688/product/3020/132291_12_customer_drawing.pdf")
 newPart.addTag("kicadTags", "SMA THT Female Jack Vertical Bulkhead")

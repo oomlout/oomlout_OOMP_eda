@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm")
 
 newPart.addTag("kicadDesc", "SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 6.9x2.9mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT ceramic resonator filter filter")

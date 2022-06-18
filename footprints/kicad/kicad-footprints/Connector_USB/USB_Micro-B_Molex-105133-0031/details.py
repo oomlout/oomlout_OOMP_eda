@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Micro-B_Molex-105133-0031")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Micro-B_Molex-105133-0031")
 
 newPart.addTag("kicadDesc", "Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)")
 newPart.addTag("kicadTags", "Micro-USB SMD Typ-B Vertical")

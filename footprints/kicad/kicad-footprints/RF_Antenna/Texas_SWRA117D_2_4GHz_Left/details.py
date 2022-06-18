@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Antenna")
 newPart.addTag("oompIndex", "Texas_SWRA117D_2.4GHz_Left")
+newPart.addTag("oompName", "kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/lit/an/swra117d/swra117d.pdf")
 newPart.addTag("kicadTags", "PCB antenna")

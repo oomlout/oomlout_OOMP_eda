@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LCC")
 newPart.addTag("oompIndex", "PLCC-20")
+newPart.addTag("oompName", "kicad-footprints/Package_LCC/PLCC-20")
 
 newPart.addTag("kicadDesc", "PLCC, 20 pins, surface mount")
 newPart.addTag("kicadTags", "plcc smt")

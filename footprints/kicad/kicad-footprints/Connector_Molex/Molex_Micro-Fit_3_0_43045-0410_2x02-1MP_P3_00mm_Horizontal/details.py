@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Micro-Fit_3.0_43045-0410_2x02-1MP_P3.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-0410_2x02-1MP_P3.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Micro-Fit 3.0 Connector System, 43045-0410 (compatible alternatives: 43045-0411, 43045-0409), 2 Pins per row (http://www.molex.com/pdm_docs/sd/430450210_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Micro-Fit_3.0 top entry")

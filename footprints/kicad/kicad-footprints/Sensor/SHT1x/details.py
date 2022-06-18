@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor")
 newPart.addTag("oompIndex", "SHT1x")
+newPart.addTag("oompName", "kicad-footprints/Sensor/SHT1x")
 
 newPart.addTag("kicadDesc", "SHT1x")
 newPart.addTag("kicadTags", "SHT1x")

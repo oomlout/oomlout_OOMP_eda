@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_PUSH-12mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_PUSH-12mm")
 
 newPart.addTag("kicadDesc", "SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf")
 newPart.addTag("kicadTags", "tact sw push 12mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DIP")
 newPart.addTag("oompIndex", "SMDIP-12_W7.62mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DIP/SMDIP-12_W7.62mm")
 
 newPart.addTag("kicadDesc", "12-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)")
 newPart.addTag("kicadTags", "SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil")

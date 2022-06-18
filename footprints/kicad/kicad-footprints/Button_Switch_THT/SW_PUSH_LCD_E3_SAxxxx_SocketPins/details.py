@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_PUSH_LCD_E3_SAxxxx_SocketPins")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx_SocketPins")
 
 newPart.addTag("kicadDesc", "Switch with LCD screen E3 SAxxxx")
 newPart.addTag("kicadTags", "switch normally-open pushbutton push-button LCD")

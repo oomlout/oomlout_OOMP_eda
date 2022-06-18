@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-92Flat")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-92Flat")
 
 newPart.addTag("kicadDesc", "TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)")
 newPart.addTag("kicadTags", "to-92Flat hall sensor")

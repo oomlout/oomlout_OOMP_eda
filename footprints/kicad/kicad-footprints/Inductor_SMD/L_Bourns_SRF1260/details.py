@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SRF1260")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SRF1260")
 
 newPart.addTag("kicadDesc", "Inductor, Bourns, SRF1260, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)")
 newPart.addTag("kicadTags", "Inductor Bourns_SRF1260")

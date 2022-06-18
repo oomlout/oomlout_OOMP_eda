@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_SMD")
 newPart.addTag("oompIndex", "Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm")
 
 newPart.addTag("kicadDesc", "hiqsdr.com/images/3/3e/Axicom-HF3.pdf")
 newPart.addTag("kicadTags", "AXICOM HF3-Series Relay Pitch 1.27mm 50ohms")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TestPoint")
 newPart.addTag("oompIndex", "TestPoint_Plated_Hole_D3.0mm")
+newPart.addTag("oompName", "kicad-footprints/TestPoint/TestPoint_Plated_Hole_D3.0mm")
 
 newPart.addTag("kicadDesc", "Plated Hole as test Point, diameter 3.0mm")
 newPart.addTag("kicadTags", "test point plated hole")

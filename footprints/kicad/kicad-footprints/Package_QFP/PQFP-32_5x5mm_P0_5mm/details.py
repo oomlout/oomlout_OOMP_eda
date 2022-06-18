@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "PQFP-32_5x5mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/PQFP-32_5x5mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "PQFP, 32 Pin (https://www.ti.com/lit/ds/symlink/ads127l01.pdf#page=87), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "PQFP QFP")

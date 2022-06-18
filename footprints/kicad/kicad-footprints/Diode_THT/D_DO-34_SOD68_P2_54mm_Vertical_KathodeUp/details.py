@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp")
 
 newPart.addTag("kicadDesc", "Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf")
 newPart.addTag("kicadTags", "Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_PH_S8B-PH-SM4-TB_1x08-1MP_P2.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_PH_S8B-PH-SM4-TB_1x08-1MP_P2.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST PH series connector, S8B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST PH top entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Cyntec_MUN12AD01-SH")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD01-SH")
 
 newPart.addTag("kicadDesc", "http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD01-SH_Datasheet.pdf")
 newPart.addTag("kicadTags", "Power Module uPOL MUN12AD01")

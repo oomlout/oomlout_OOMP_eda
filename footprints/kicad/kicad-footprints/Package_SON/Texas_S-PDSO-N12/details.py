@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Texas_S-PDSO-N12")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Texas_S-PDSO-N12")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf")
 newPart.addTag("kicadTags", "SON thermal pads")

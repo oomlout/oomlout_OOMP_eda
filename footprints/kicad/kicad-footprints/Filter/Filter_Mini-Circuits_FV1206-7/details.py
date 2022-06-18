@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_Mini-Circuits_FV1206-7")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_Mini-Circuits_FV1206-7")
 
 newPart.addTag("kicadDesc", "Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206-7.pdf")
 newPart.addTag("kicadTags", "Mini-Circuits Filter SMD 1206")

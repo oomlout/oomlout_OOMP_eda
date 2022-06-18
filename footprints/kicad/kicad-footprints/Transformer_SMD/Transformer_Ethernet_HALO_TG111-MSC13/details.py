@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Ethernet_HALO_TG111-MSC13")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Ethernet_HALO_TG111-MSC13")
 
 newPart.addTag("kicadDesc", "Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf")
 newPart.addTag("kicadTags", "Transformer Ethernet SMD")

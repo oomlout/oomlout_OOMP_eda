@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_ZE_SM11B-ZESS-TB_1x11-1MP_P1.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_ZE_SM11B-ZESS-TB_1x11-1MP_P1.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST ZE series connector, SM11B-ZESS-TB (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST ZE horizontal")

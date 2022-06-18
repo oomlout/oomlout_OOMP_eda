@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_Bourns_SRF0905_6.0x9.2mm")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_Bourns_SRF0905_6.0x9.2mm")
 
 newPart.addTag("kicadDesc", "https://www.bourns.com/docs/Product-Datasheets/SRF0905.pdf")
 newPart.addTag("kicadTags", "Line Filter")

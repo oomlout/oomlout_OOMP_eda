@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-220-15_P2.54x2.54mm_StaggerEven_Lead4.58mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-220-15_P2.54x2.54mm_StaggerEven_Lead4.58mm_Vertical")
 
 newPart.addTag("kicadDesc", "TO-220-15, Vertical, RM 1.27mm, staggered type-2, see http://www.st.com/resource/en/datasheet/l298.pdf")
 newPart.addTag("kicadTags", "TO-220-15 Vertical RM 1.27mm staggered type-2")

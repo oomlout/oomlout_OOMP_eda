@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Sagami_CWR1257C")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Sagami_CWR1257C")
 
 newPart.addTag("kicadDesc", "Sagami power inductor, CWR1242C, H=6.0mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)")
 newPart.addTag("kicadTags", "inductor sagami cwr12xx smd")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_ACDC")
 newPart.addTag("oompIndex", "Converter_ACDC_Hahn_HS-400xx_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_ACDC/Converter_ACDC_Hahn_HS-400xx_THT")
 
 newPart.addTag("kicadDesc", "ACDC-Converter, 3W, Hahn-HS-400xx, THT https://www.schukat.com/schukat/schukat_cms_de.nsf/index/FrameView?OpenDocument&art=HS40009&wg=M7942")
 newPart.addTag("kicadTags", "Hahn ACDC-Converter THT")

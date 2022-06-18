@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_TE-Connectivity")
 newPart.addTag("oompIndex", "TE_MATE-N-LOK_1-770967-x_1x03_P4.14mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_1-770967-x_1x03_P4.14mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Mini-Universal MATE-N-LOK, old mpn/engineering number: 1-770967-x, 3 Pins per row (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=82181_SOFTSHELL_HIGH_DENSITY&DocType=CS&DocLang=EN), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector TE MATE-N-LOK top entry")

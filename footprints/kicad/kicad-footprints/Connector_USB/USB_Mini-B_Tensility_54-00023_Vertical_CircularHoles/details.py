@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles")
 
 newPart.addTag("kicadDesc", "http://www.tensility.com/pdffiles/54-00023.pdf")
 newPart.addTag("kicadTags", "usb mini receptacle vertical")

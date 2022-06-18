@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_BarrelJack")
 newPart.addTag("oompIndex", "BarrelJack_GCT_DCJ200-10-A_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_BarrelJack/BarrelJack_GCT_DCJ200-10-A_Horizontal")
 
 newPart.addTag("kicadDesc", "Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf")
 newPart.addTag("kicadTags", "connector barrel jack")

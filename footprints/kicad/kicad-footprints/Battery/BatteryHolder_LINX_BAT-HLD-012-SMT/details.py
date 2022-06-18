@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_LINX_BAT-HLD-012-SMT")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_LINX_BAT-HLD-012-SMT")
 
 newPart.addTag("kicadDesc", "SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf")
 newPart.addTag("kicadTags", "battery holder coin cell cr1216 cr1220 cr1225")

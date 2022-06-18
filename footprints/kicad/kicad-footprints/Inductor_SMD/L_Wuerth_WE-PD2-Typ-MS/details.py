@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-PD2-Typ-MS")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD2-Typ-MS")
 
 newPart.addTag("kicadDesc", "Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf")
 newPart.addTag("kicadTags", "Choke Power Inductor WE-PD2 TypMS Wuerth")

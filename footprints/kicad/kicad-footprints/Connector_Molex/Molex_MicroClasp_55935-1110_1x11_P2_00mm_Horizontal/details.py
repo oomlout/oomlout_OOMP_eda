@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_MicroClasp_55935-1110_1x11_P2.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_MicroClasp_55935-1110_1x11_P2.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex MicroClasp Wire-to-Board System, 55935-1110, with PCB locator, 11 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex MicroClasp horizontal")

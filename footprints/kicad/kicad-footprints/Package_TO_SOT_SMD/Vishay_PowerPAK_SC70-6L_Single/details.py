@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Vishay_PowerPAK_SC70-6L_Single")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single")
 
 newPart.addTag("kicadDesc", "Vishay PowerPAK SC70 single transistor package http://www.vishay.com/docs/70486/70486.pdf")
 newPart.addTag("kicadTags", "powerpak sc70 sc-70")

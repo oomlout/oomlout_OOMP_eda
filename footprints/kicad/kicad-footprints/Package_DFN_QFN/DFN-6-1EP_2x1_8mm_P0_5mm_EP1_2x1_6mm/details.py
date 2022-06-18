@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm")
 
 newPart.addTag("kicadDesc", "DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2018-6.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "DFN NoLead")

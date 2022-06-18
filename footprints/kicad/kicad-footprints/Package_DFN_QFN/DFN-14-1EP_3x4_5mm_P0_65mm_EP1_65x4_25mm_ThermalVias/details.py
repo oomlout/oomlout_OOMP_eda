@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "14-lead very thin plastic quad flat, 3.0x4.5mm size, 0.65mm pitch (http://ww1.microchip.com/downloads/en/DeviceDoc/14L_VDFN_4_5x3_0mm_JHA_C041198A.pdf)")
 newPart.addTag("kicadTags", "VDFN DFN 0.65mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_MicroMELF")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_MicroMELF")
 
 newPart.addTag("kicadDesc", "Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf")
 newPart.addTag("kicadTags", "MicroMELF Diode")

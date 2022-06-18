@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-15_P3.81mm_Vertical_AnodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-15_P3.81mm_Vertical_AnodeUp")
 
 newPart.addTag("kicadDesc", "Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf")
 newPart.addTag("kicadTags", "Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm")

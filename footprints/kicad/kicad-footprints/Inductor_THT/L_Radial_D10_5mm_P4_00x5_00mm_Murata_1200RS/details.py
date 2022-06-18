@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS")
 
 newPart.addTag("kicadDesc", "Inductor, Radial, Pitch=4.00x5.00mm, Diameter=10.5mm, Murata 1200RS, http://www.murata-ps.com/data/magnetics/kmp_1200rs.pdf")
 newPart.addTag("kicadTags", "Inductor Radial Murata 1200RS")

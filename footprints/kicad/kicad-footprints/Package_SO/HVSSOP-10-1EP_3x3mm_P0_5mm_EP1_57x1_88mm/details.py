@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm")
 
 newPart.addTag("kicadDesc", "HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "HVSSOP SO")

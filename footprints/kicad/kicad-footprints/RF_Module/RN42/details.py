@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "RN42")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/RN42")
 
 newPart.addTag("kicadDesc", "Class 2 Bluetooth Module with on-board antenna")
 newPart.addTag("kicadTags", "Bluetooth Module")

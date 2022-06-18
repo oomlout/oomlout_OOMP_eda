@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPST_Schrack-RT1-FormA_RM3.5mm")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-FormA_RM3.5mm")
 
 newPart.addTag("kicadDesc", "Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Form A")
 newPart.addTag("kicadTags", "Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Relay")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DIP")
 newPart.addTag("oompIndex", "DIP-64_W24.13mm_SMDSocket_LongPads")
+newPart.addTag("oompName", "kicad-footprints/Package_DIP/DIP-64_W24.13mm_SMDSocket_LongPads")
 
 newPart.addTag("kicadDesc", "64-lead though-hole mounted DIP package, row spacing 24.13 mm (950 mils), SMDSocket, LongPads")
 newPart.addTag("kicadTags", "THT DIP DIL PDIP 2.54mm 24.13mm 950mil SMDSocket LongPads")

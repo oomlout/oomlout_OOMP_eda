@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "OnSemi_Micro8")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/OnSemi_Micro8")
 
 newPart.addTag("kicadDesc", "ON Semiconductor Micro8 (Case846A-02): https://www.onsemi.com/pub/Collateral/846A-02.PDF")
 newPart.addTag("kicadTags", "micro8")

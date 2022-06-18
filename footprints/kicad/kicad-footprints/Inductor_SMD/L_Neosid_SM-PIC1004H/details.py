@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_SM-PIC1004H")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC1004H")
 
 newPart.addTag("kicadDesc", "Neosid, Inductor, SM-PIC1004H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf")
 newPart.addTag("kicadTags", "Neosid Inductor SM-PIC1004H Fixed inductor SMD")

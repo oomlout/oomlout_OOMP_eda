@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "Fairchild_TO-220F-6L")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/Fairchild_TO-220F-6L")
 
 newPart.addTag("kicadDesc", "Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf")
 newPart.addTag("kicadTags", "Fairchild TO-220F-6L")

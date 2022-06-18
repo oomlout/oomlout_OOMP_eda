@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Amphenol_132134-10_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134-10_Vertical")
 
 newPart.addTag("kicadDesc", "https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf")
 newPart.addTag("kicadTags", "SMA SMD Female Jack Vertical")

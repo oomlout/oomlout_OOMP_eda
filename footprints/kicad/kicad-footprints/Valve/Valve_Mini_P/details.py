@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Valve")
 newPart.addTag("oompIndex", "Valve_Mini_P")
+newPart.addTag("oompName", "kicad-footprints/Valve/Valve_Mini_P")
 
 newPart.addTag("kicadDesc", "Valve mini P")
 newPart.addTag("kicadTags", "Valve mini P")

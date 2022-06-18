@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "Diodes_SIP-3_4.1x1.5mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "Diodes SIP-3 Bulk Pack, 1.27mm Pitch (https://www.diodes.com/assets/Package-Files/SIP-3-Bulk-Pack.pdf)")
 newPart.addTag("kicadTags", "Diodes SIP-3 Bulk Pack")

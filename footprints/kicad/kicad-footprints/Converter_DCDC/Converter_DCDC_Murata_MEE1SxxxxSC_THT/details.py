@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Murata_MEE1SxxxxSC_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MEE1SxxxxSC_THT")
 
 newPart.addTag("kicadDesc", "https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf")
 newPart.addTag("kicadTags", "murata dc-dc transformer")

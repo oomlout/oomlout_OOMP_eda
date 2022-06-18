@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "CP_Elec_3x5.3")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/CP_Elec_3x5.3")
 
 newPart.addTag("kicadDesc", "SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics")
 newPart.addTag("kicadTags", "Capacitor Electrolytic")

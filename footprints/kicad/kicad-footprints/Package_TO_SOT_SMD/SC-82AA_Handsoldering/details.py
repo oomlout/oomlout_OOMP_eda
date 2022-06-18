@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SC-82AA_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SC-82AA_Handsoldering")
 
 newPart.addTag("kicadDesc", "SC-82AA")
 newPart.addTag("kicadTags", "SC-82AA")

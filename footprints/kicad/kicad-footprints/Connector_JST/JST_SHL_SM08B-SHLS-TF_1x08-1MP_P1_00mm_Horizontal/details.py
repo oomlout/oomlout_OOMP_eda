@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_SHL_SM08B-SHLS-TF_1x08-1MP_P1.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_SHL_SM08B-SHLS-TF_1x08-1MP_P1.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST SHL series connector, SM08B-SHLS-TF (http://www.jst-mfg.com/product/pdf/eng/eSHL.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST SHL top entry")

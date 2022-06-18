@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Motion")
 newPart.addTag("oompIndex", "InvenSense_QFN-24_4x4mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Motion/InvenSense_QFN-24_4x4mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "24-Lead Plastic QFN (4mm x 4mm); Pitch 0.5mm; EP 2.7x2.6mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)")
 newPart.addTag("kicadTags", "QFN 0.5")

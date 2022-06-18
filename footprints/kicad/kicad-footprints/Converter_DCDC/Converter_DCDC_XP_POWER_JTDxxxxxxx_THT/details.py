@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_XP_POWER_JTDxxxxxxx_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER_JTDxxxxxxx_THT")
 
 newPart.addTag("kicadDesc", "XP Power JTD Series DC-DC Converter")
 newPart.addTag("kicadTags", "DCDC Isolated")

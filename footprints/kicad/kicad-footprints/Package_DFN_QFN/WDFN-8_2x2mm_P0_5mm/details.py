@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "WDFN-8_2x2mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/WDFN-8_2x2mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "DFN8 2x2, 0.5P; No exposed pad (http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF)")
 newPart.addTag("kicadTags", "DFN 0.5")

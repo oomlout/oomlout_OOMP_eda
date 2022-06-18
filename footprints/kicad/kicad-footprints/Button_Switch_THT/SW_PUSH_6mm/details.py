@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_PUSH_6mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_PUSH_6mm")
 
 newPart.addTag("kicadDesc", "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
 newPart.addTag("kicadTags", "tact sw push 6mm")

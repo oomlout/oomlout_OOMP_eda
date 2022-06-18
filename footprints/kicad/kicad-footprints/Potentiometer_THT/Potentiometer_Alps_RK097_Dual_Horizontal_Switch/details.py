@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_THT")
 newPart.addTag("oompIndex", "Potentiometer_Alps_RK097_Dual_Horizontal_Switch")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Dual_Horizontal_Switch")
 
 newPart.addTag("kicadDesc", "1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf")
 newPart.addTag("kicadTags", "Potentiometer horizontal Alps RK097 Dual Switch")

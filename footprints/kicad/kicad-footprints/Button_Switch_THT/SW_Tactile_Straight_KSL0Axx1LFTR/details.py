@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Tactile_Straight_KSL0Axx1LFTR")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSL0Axx1LFTR")
 
 newPart.addTag("kicadDesc", "SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf")
 newPart.addTag("kicadTags", "SW PUSH SMALL Tactile C&K")

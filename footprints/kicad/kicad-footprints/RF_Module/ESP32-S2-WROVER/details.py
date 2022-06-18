@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "ESP32-S2-WROVER")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/ESP32-S2-WROVER")
 
 newPart.addTag("kicadDesc", "ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf")
 newPart.addTag("kicadTags", "ESP32-S2  ESP32  WIFI")

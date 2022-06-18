@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_speakON_Neutrik_NL4MD-H-1_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-H-1_Horizontal")
 
 newPart.addTag("kicadDesc", "speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-1")
 newPart.addTag("kicadTags", "neutrik speakon")

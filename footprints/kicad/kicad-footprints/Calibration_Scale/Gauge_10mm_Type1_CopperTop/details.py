@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Calibration_Scale")
 newPart.addTag("oompIndex", "Gauge_10mm_Type1_CopperTop")
+newPart.addTag("oompName", "kicad-footprints/Calibration_Scale/Gauge_10mm_Type1_CopperTop")
 
 newPart.addTag("kicadDesc", "Gauge, Massstab, 10mm, CopperTop, Type 1,")
 newPart.addTag("kicadTags", "Gauge Massstab 10mm CopperTop Type 1")

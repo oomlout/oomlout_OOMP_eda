@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Battery/Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles")
 
 newPart.addTag("kicadDesc", "Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D492.PDF")
 newPart.addTag("kicadTags", "battery CR-2450 coin cell")

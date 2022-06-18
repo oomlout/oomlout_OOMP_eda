@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "Molex_502250-2791_2Rows-27Pins-1MP_P0.60mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/Molex_502250-2791_2Rows-27Pins-1MP_P0.60mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-2791, 27 Circuits (http://www.molex.com/pdm_docs/sd/5022502791_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex  top entry")

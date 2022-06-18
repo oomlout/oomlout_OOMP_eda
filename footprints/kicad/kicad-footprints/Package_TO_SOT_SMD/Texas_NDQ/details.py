@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Texas_NDQ")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Texas_NDQ")
 
 newPart.addTag("kicadDesc", "Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)")
 newPart.addTag("kicadTags", "ti pfm dap")

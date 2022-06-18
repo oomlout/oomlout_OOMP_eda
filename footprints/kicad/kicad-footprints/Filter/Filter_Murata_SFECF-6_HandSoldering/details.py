@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_Murata_SFECF-6_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_Murata_SFECF-6_HandSoldering")
 
 newPart.addTag("kicadDesc", "SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf")
 newPart.addTag("kicadTags", "10.7MHz smd ceramic")

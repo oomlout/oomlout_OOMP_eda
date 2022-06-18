@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "AFF_2x7SEG-DIGIT_10mm")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/AFF_2x7SEG-DIGIT_10mm")
 
 newPart.addTag("kicadDesc", "Afficheur 7 segments 10mm DIGIT")
 newPart.addTag("kicadTags", "AFFICHEUR")

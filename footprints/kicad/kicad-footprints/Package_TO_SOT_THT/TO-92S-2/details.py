@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-92S-2")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-92S-2")
 
 newPart.addTag("kicadDesc", "TO-92S package, 2-pin, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)")
 newPart.addTag("kicadTags", "to-92S transistor")

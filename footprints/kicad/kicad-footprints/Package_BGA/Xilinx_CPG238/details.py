@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "Xilinx_CPG238")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/Xilinx_CPG238")
 
 newPart.addTag("kicadDesc", "Artix-7 BGA, 19x19 grid, 10x10mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=267, NSMD pad definition Appendix A")
 newPart.addTag("kicadTags", "BGA 238 0.5 CPG238")

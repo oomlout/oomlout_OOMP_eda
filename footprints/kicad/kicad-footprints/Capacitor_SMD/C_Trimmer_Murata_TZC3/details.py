@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "C_Trimmer_Murata_TZC3")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZC3")
 
 newPart.addTag("kicadDesc", "trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb")
 newPart.addTag("kicadTags", "Murata TZC3")

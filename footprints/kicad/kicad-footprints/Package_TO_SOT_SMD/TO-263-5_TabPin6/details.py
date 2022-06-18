@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-263-5_TabPin6")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-263-5_TabPin6")
 
 newPart.addTag("kicadDesc", "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/")
 newPart.addTag("kicadTags", "D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426")

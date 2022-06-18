@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Amphenol_RJMG1BD3B8K1ANR")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR")
 
 newPart.addTag("kicadDesc", "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF")
 newPart.addTag("kicadTags", "RJ45 Magjack")

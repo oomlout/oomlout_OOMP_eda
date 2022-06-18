@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35")
 
 newPart.addTag("kicadDesc", "Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35")
 newPart.addTag("kicadTags", "heatsink")

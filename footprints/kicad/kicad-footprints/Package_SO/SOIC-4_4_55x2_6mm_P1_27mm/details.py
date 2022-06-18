@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SOIC-4_4.55x2.6mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SOIC-4_4.55x2.6mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SOIC SO")

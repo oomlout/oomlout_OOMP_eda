@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPST_Schrack-RP3SL_RM5mm")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPST_Schrack-RP3SL_RM5mm")
 
 newPart.addTag("kicadDesc", "Relay SPST Schrack-RP3SL RM5mm 16A 250V AC Form A http://www.alliedelec.com/m/d/543c6bed18bf23a83ae5238947033ee0.pdf")
 newPart.addTag("kicadTags", "Relay SPST Schrack-RP3SL RM5mm 16A 250V AC Relay")

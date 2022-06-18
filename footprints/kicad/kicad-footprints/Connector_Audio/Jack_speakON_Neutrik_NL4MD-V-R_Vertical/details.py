@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_speakON_Neutrik_NL4MD-V-R_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL4MD-V-R_Vertical")
 
 newPart.addTag("kicadDesc", "speakON Chassis Connectors, 4 pole chassis connector, red D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-r")
 newPart.addTag("kicadTags", "neutrik speakon")

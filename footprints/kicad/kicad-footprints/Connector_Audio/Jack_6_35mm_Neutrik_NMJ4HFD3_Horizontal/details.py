@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal")
 
 newPart.addTag("kicadDesc", "M Series, 6.35mm (1/4in) mono jack, switched, with a full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hfd3")
 newPart.addTag("kicadTags", "neutrik jack m")

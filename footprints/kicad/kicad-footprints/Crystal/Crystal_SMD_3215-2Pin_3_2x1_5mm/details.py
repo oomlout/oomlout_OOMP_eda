@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_3215-2Pin_3.2x1.5mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_3215-2Pin_3.2x1.5mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf")
 newPart.addTag("kicadTags", "SMD SMT Crystal")

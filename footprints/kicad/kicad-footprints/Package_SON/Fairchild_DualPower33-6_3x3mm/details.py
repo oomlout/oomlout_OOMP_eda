@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Fairchild_DualPower33-6_3x3mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Fairchild_DualPower33-6_3x3mm")
 
 newPart.addTag("kicadDesc", "Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)")
 newPart.addTag("kicadTags", "mosfet")

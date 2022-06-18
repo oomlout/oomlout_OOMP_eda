@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-152_14x18mm_Layout13x17_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-152_14x18mm_Layout13x17_P0.5mm")
 
 newPart.addTag("kicadDesc", "BGA-152_14x18mm_Layout13x17_P0.5mm")
 newPart.addTag("kicadTags", "VBGA-152")

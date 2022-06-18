@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SMB_Modified")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SMB_Modified")
 
 newPart.addTag("kicadDesc", "Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)")
 newPart.addTag("kicadTags", "Diode SMB (DO-214AA)")

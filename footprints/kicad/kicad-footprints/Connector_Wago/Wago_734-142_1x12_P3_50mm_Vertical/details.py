@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Wago")
 newPart.addTag("oompIndex", "Wago_734-142_1x12_P3.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Wago/Wago_734-142_1x12_P3.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-142 , 12 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Wago  side entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_Array_Convex_4x0612")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_Array_Convex_4x0612")
 
 newPart.addTag("kicadDesc", "Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)")
 newPart.addTag("kicadTags", "resistor array")

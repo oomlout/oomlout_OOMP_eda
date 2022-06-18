@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinSocket_2.00mm")
 newPart.addTag("oompIndex", "PinSocket_1x21_P2.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_1x21_P2.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "Through hole straight socket strip, 1x21, 2.00mm pitch, single row (from Kicad 4.0.7), script generated")
 newPart.addTag("kicadTags", "Through hole socket strip THT 1x21 2.00mm single row")

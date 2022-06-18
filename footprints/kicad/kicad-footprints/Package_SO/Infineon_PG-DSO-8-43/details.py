@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Infineon_PG-DSO-8-43")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Infineon_PG-DSO-8-43")
 
 newPart.addTag("kicadDesc", "Infineon_PG-DSO-8-43")
 newPart.addTag("kicadTags", "DSO DSO-8 SOIC SOIC-8")

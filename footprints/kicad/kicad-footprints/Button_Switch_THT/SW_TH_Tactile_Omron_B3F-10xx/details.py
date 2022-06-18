@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_TH_Tactile_Omron_B3F-10xx")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx")
 
 newPart.addTag("kicadDesc", "SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
 newPart.addTag("kicadTags", "Omron B3F-10xx")

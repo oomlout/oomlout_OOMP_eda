@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "MOD-nRF8001")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/MOD-nRF8001")
 
 newPart.addTag("kicadDesc", "BLE module, https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/")
 newPart.addTag("kicadTags", "BLE module")

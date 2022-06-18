@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_2114_3652Metric_Pad1.85x3.75mm_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_2114_3652Metric_Pad1.85x3.75mm_HandSolder")
 
 newPart.addTag("kicadDesc", "Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "diode handsolder")

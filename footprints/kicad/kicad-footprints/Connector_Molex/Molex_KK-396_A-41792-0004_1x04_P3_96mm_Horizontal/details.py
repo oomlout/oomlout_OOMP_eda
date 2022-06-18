@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_KK-396_A-41792-0004_1x04_P3.96mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0004_1x04_P3.96mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex KK 396 Interconnect System, old/engineering part number: A-41792-0004 example for new part number: 26-60-5040, 4 Pins (https://www.molex.com/pdm_docs/sd/026605050_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex KK-396 horizontal")

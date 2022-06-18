@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_TE-Connectivity")
 newPart.addTag("oompIndex", "TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Connector")
 newPart.addTag("kicadTags", "TE 776087")

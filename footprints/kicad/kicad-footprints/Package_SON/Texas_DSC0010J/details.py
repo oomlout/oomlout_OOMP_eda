@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Texas_DSC0010J")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Texas_DSC0010J")
 
 newPart.addTag("kicadDesc", "3x3mm Body, 0.5mm Pitch, DSC0010J, WSON, http://www.ti.com/lit/ds/symlink/tps61201.pdf")
 newPart.addTag("kicadTags", "0.5 DSC0010J WSON")

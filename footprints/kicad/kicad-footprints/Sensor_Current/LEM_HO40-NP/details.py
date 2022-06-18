@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "LEM_HO40-NP")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/LEM_HO40-NP")
 
 newPart.addTag("kicadDesc", "LEM HO 40/60/120/150-NP Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-np_0100__1100_series.pdf)")
 newPart.addTag("kicadTags", "current transducer")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Obsolete\Fiducial")
 newPart.addTag("oompIndex", "Fiducial_Modern_CopperBottom")
+newPart.addTag("oompName", "kicad-footprints/Obsolete\Fiducial/Fiducial_Modern_CopperBottom")
 
 newPart.addTag("kicadDesc", "Fiducial, Modern, Copper Bottom")
 newPart.addTag("kicadAttr", "smd")

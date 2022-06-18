@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "E18-MS1-PCB")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/E18-MS1-PCB")
 
 newPart.addTag("kicadDesc", "http://www.cdebyte.com/en/downpdf.aspx?id=122")
 newPart.addTag("kicadTags", "Zigbee")

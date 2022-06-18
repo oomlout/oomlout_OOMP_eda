@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles")
 
 newPart.addTag("kicadDesc", "Panasonic CR-1025/VSK battery")
 newPart.addTag("kicadTags", "battery CR-1025 coin cell vertical")

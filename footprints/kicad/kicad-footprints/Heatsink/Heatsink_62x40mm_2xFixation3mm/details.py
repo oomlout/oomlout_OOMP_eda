@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_62x40mm_2xFixation3mm")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_62x40mm_2xFixation3mm")
 
 newPart.addTag("kicadDesc", "Heatsink, 62 x 40mm, 2x 3mm Drills,")
 newPart.addTag("kicadTags", "heatsink")

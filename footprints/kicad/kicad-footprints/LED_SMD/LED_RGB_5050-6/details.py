@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_RGB_5050-6")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_RGB_5050-6")
 
 newPart.addTag("kicadDesc", "http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf")
 newPart.addTag("kicadTags", "RGB LED 5050-6")

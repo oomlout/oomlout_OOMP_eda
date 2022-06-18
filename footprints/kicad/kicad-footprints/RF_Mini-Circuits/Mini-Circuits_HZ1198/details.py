@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Mini-Circuits")
 newPart.addTag("oompIndex", "Mini-Circuits_HZ1198")
+newPart.addTag("oompName", "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HZ1198")
 
 newPart.addTag("kicadDesc", "Footprint for Mini-Circuits case HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf)")
 newPart.addTag("kicadTags", "Mini-Circuits HZ1198")

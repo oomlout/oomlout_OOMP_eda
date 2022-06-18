@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "ST_SPBTLE")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/ST_SPBTLE")
 
 newPart.addTag("kicadDesc", "Bluetooth Low Energy Module")
 newPart.addTag("kicadTags", "ble module st bluetooth")

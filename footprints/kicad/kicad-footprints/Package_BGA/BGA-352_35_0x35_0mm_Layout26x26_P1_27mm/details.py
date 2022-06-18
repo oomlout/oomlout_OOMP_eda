@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-352_35.0x35.0mm_Layout26x26_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm")
 
 newPart.addTag("kicadDesc", "BGA-352, https://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/b352p05.pdf")
 newPart.addTag("kicadTags", "BGA-352")

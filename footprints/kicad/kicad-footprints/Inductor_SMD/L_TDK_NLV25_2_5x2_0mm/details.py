@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_TDK_NLV25_2.5x2.0mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_TDK_NLV25_2.5x2.0mm")
 
 newPart.addTag("kicadDesc", "TDK NLV25, 2.5x2.0x1.8mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf")
 newPart.addTag("kicadTags", "tdk nlv25 nlcv25 nlfv25")

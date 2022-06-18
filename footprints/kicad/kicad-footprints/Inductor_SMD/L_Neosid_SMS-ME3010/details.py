@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_SMS-ME3010")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_SMS-ME3010")
 
 newPart.addTag("kicadDesc", "Neosid, Inductor, SMS-ME3010, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3010.pdf")
 newPart.addTag("kicadTags", "Neosid Inductor SMS-ME3010 Fixed inductor SMD magnetically shielded")

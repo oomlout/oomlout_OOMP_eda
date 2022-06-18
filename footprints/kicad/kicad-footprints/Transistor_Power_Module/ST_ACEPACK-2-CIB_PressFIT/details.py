@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transistor_Power_Module")
 newPart.addTag("oompIndex", "ST_ACEPACK-2-CIB_PressFIT")
+newPart.addTag("oompName", "kicad-footprints/Transistor_Power_Module/ST_ACEPACK-2-CIB_PressFIT")
 
 newPart.addTag("kicadDesc", "35-lead TH, ACEPACK 2 CIB, PressFIT, https://www.st.com/resource/en/datasheet/a2c50s65m2-f.pdf")
 newPart.addTag("kicadTags", "brifge rectifier igbt diode module")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y")
 
 newPart.addTag("kicadDesc", "LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lsm6ds3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "LGA NoLead")

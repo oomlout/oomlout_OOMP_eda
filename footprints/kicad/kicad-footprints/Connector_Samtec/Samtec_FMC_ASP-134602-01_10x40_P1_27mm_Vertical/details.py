@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Samtec")
 newPart.addTag("oompIndex", "Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Samtec/Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical")
 
 newPart.addTag("kicadDesc", "https://www.marutsu.co.jp/contents/shop/marutsu/ds/asp-134602-01.pdf")
 newPart.addTag("kicadTags", "FMC HPC")

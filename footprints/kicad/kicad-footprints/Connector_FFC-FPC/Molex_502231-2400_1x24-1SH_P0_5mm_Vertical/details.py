@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "Molex_502231-2400_1x24-1SH_P0.5mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/Molex_502231-2400_1x24-1SH_P0.5mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 24 Circuits (https://www.molex.com/pdm_docs/sd/5022312400_sd.pdf)")
 newPart.addTag("kicadTags", "molex FFC/FPC connector Pitch 0.5mm vertical")

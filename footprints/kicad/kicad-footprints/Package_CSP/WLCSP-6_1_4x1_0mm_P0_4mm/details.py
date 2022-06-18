@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "WLCSP-6_1.4x1.0mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/WLCSP-6_1.4x1.0mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "6pin Pitch 0.4mm")
 newPart.addTag("kicadTags", "6pin Pitch 0.4mm WLCSP")

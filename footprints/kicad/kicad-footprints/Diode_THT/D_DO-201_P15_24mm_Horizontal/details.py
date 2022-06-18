@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-201_P15.24mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-201_P15.24mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Diode, DO-201 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf")
 newPart.addTag("kicadTags", "Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5.21mm")

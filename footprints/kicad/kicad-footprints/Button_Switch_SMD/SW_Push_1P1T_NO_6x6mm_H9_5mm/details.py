@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_Push_1P1T_NO_6x6mm_H9.5mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_6x6mm_H9.5mm")
 
 newPart.addTag("kicadDesc", "tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm")
 newPart.addTag("kicadTags", "tact sw push 6mm smd")

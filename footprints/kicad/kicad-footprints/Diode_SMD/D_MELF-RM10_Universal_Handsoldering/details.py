@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_MELF-RM10_Universal_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_MELF-RM10_Universal_Handsoldering")
 
 newPart.addTag("kicadDesc", "Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,")
 newPart.addTag("kicadTags", "Diode Universal MELF RM10 Handsoldering SMD Thruhole")

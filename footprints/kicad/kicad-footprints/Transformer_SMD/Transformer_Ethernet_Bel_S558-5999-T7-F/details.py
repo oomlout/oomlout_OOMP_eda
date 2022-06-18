@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Ethernet_Bel_S558-5999-T7-F")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bel_S558-5999-T7-F")
 
 newPart.addTag("kicadDesc", "Ethernet Transformer, Bel S558-5999-T7-F, https://www.belfuse.com/resources/ICMs/lan-/S558-5999-T7-F.pdf")
 newPart.addTag("kicadTags", "Ethernet Transformer")

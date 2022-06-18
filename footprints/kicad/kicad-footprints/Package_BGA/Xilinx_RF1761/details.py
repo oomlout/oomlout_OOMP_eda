@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "Xilinx_RF1761")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/Xilinx_RF1761")
 
 newPart.addTag("kicadDesc", "Virtex-7 BGA, 42x42 grid, 42.5x42.5mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=306, NSMD pad definition Appendix A")
 newPart.addTag("kicadTags", "BGA 1760 1 RF1761")

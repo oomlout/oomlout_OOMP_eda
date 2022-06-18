@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_1W_3W_R8")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_1W_3W_R8")
 
 newPart.addTag("kicadDesc", "https://www.gme.cz/data/attachments/dsh.518-234.1.pdf")
 newPart.addTag("kicadTags", "LED 1W 3W 5W")

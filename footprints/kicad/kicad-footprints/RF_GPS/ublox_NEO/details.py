@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "ublox_NEO")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/ublox_NEO")
 
 newPart.addTag("kicadDesc", "ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)")
 newPart.addTag("kicadTags", "GPS ublox NEO 6/7/8")

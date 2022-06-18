@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SMB")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SMB")
 
 newPart.addTag("kicadDesc", "Diode SMB (DO-214AA)")
 newPart.addTag("kicadTags", "Diode SMB (DO-214AA)")

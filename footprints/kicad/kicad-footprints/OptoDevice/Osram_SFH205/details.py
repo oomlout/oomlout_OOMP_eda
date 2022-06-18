@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Osram_SFH205")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Osram_SFH205")
 
 newPart.addTag("kicadDesc", "PhotoDiode, SFH205, RM2.54")
 newPart.addTag("kicadTags", "PhotoDiode SFH205 RM2.54")

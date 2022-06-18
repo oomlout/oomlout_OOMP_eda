@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_speakON_Neutrik_NL8MD-V_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_speakON_Neutrik_NL8MD-V_Vertical")
 
 newPart.addTag("kicadDesc", "speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v")
 newPart.addTag("kicadTags", "neutrik speakon")

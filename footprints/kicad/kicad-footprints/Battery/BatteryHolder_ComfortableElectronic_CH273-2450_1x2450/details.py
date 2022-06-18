@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_ComfortableElectronic_CH273-2450_1x2450")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450")
 
 newPart.addTag("kicadDesc", "Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148")
 newPart.addTag("kicadTags", "Comfortable Electronic CR2450")

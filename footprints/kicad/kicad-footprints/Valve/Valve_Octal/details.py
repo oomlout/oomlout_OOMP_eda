@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Valve")
 newPart.addTag("oompIndex", "Valve_Octal")
+newPart.addTag("oompName", "kicad-footprints/Valve/Valve_Octal")
 
 newPart.addTag("kicadDesc", "8-pin round valve")
 newPart.addTag("kicadTags", "valve")

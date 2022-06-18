@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_Panasonic_JW1_FormC")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_Panasonic_JW1_FormC")
 
 newPart.addTag("kicadDesc", "Panasonic Relay SPDT, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok")
 newPart.addTag("kicadTags", "Panasonic Relay SPDT")

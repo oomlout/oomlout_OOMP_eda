@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_Comchip_SCVB-L")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_Comchip_SCVB-L")
 
 newPart.addTag("kicadDesc", "Three phase, Bridge, Rectifier, https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf")
 newPart.addTag("kicadTags", "diode module")

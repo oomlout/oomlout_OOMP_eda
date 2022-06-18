@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SP3T_PCM13")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SP3T_PCM13")
 
 newPart.addTag("kicadDesc", "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
 newPart.addTag("kicadAttr", "smd")

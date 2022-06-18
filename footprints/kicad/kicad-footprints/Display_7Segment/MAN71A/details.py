@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "MAN71A")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/MAN71A")
 
 newPart.addTag("kicadDesc", "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php")
 newPart.addTag("kicadTags", "One digit 7 segment red LED with right dot")

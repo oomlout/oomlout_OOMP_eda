@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_Round_D9.0mm")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_Round_D9.0mm")
 
 newPart.addTag("kicadDesc", "4-lead round diode bridge package, diameter 9.0mm, pin pitch 5.0mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf")
 newPart.addTag("kicadTags", "diode bridge 9.0mm 8.85mm WOB pitch 5.0mm")

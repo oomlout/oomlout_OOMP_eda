@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "EA_eDIPTFT70-XXX")
+newPart.addTag("oompName", "kicad-footprints/Display/EA_eDIPTFT70-XXX")
 
 newPart.addTag("kicadDesc", "TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf")
 newPart.addTag("kicadTags", "TFT-graphical display 800x480 16-bit colours and touch display")

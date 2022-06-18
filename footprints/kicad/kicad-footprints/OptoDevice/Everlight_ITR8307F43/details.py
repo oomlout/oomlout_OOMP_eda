@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Everlight_ITR8307F43")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Everlight_ITR8307F43")
 
 newPart.addTag("kicadDesc", "package for Everlight ITR8307/F43, see https://everlighteurope.com/index.php?controller=attachment&id_attachment=5385")
 newPart.addTag("kicadTags", "refective opto couple photo coupler")

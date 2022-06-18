@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_NKK_GW12LJP")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_NKK_GW12LJP")
 
 newPart.addTag("kicadDesc", "Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf")
 newPart.addTag("kicadTags", "switch single-pole double-throw spdt ON-ON illuminated LED")

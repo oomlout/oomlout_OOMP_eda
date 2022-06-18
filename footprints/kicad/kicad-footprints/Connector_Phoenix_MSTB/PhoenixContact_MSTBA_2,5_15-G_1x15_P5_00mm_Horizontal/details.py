@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MSTB")
 newPart.addTag("oompIndex", "PhoenixContact_MSTBA_2,5_15-G_1x15_P5.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_15-G_1x15_P5.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MSTBA_2,5/15-G; number of pins: 15; pin pitch: 5.00mm; Angled || order number: 1757598 12A")
 newPart.addTag("kicadTags", "phoenix_contact connector MSTBA_01x15_G_5.00mm")

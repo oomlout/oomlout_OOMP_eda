@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_REED_CT10-XXXX-G1")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT10-XXXX-G1")
 
 newPart.addTag("kicadDesc", "Coto Technologies SPST Reed Switch CT10-XXXX-G1")
 newPart.addTag("kicadTags", "Coto Reed SPST Switch")

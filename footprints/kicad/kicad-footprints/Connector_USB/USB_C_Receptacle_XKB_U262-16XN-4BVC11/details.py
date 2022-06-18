@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_XKB_U262-16XN-4BVC11")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_XKB_U262-16XN-4BVC11")
 
 newPart.addTag("kicadDesc", "USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf")
 newPart.addTag("kicadTags", "USB C Type-C Receptacle SMD")

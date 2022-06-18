@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_THT")
 newPart.addTag("oompIndex", "LED_VCCLite_5381H1_6.35x6.35mm")
+newPart.addTag("oompName", "kicad-footprints/LED_THT/LED_VCCLite_5381H1_6.35x6.35mm")
 
 newPart.addTag("kicadDesc", "Red 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf")
 newPart.addTag("kicadTags", "Red 5381 Series LED")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_GMSTB")
 newPart.addTag("oompIndex", "PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_6-GF-7,62_1x06_P7.62mm_Vertical_ThreadedFlange")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: GMSTBV_2,5/6-GF-7,62; number of pins: 06; pin pitch: 7.62mm; Vertical; threaded flange || order number: 1829196 12A 630V")
 newPart.addTag("kicadTags", "phoenix_contact connector GMSTBV_01x06_GF_7.62mm")

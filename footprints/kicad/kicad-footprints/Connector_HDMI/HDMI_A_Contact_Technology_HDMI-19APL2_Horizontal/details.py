@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_HDMI")
 newPart.addTag("oompIndex", "HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal")
 
 newPart.addTag("kicadDesc", "HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449")
 newPart.addTag("kicadTags", "HDMI Contact Technology Type A")

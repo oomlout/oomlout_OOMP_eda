@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "MLF NoLead")

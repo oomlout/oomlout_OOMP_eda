@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_Tantalum_SMD")
 newPart.addTag("oompIndex", "CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder")
 
 newPart.addTag("kicadDesc", "Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "capacitor tantalum")

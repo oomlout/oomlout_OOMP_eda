@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_DPDT_Finder_40.52")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_DPDT_Finder_40.52")
 
 newPart.addTag("kicadDesc", "Relay DPDT Finder 40.52, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf")
 newPart.addTag("kicadTags", "Relay DPDT Finder 40.52 Pitch 5mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_B3S-1000")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_B3S-1000")
 
 newPart.addTag("kicadDesc", "Surface Mount Tactile Switch for High-Density Packaging")
 newPart.addTag("kicadTags", "Tactile Switch")

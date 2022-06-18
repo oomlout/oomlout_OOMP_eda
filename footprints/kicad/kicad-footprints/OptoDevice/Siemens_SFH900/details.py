@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Siemens_SFH900")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Siemens_SFH900")
 
 newPart.addTag("kicadDesc", "package for Siemens SFH900 reflex photo interrupter/coupler/object detector, see https://www.batronix.com/pdf/sfh900.pdf")
 newPart.addTag("kicadTags", "Siemens SFH900 reflex photo interrupter coupler object detector")

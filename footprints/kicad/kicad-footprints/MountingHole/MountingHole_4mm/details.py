@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_4mm")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_4mm")
 
 newPart.addTag("kicadDesc", "Mounting Hole 4mm, no annular")
 newPart.addTag("kicadTags", "mounting hole 4mm no annular")

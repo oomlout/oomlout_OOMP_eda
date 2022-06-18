@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor")
 newPart.addTag("oompIndex", "Senseair_S8_Down")
+newPart.addTag("oompName", "kicad-footprints/Sensor/Senseair_S8_Down")
 
 newPart.addTag("kicadDesc", "Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT")
 newPart.addTag("kicadTags", "co2 gas sensor pwm modbus")

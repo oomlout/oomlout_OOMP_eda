@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "SIPAK-1EP_Horizontal_TabDown")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/SIPAK-1EP_Horizontal_TabDown")
 
 newPart.addTag("kicadDesc", "SIPAK, Horizontal, RM 2.286mm")
 newPart.addTag("kicadTags", "SIPAK Horizontal RM 2.286mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-220F-4_Horizontal_TabUp")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-220F-4_Horizontal_TabUp")
 
 newPart.addTag("kicadDesc", "TO-220F-4, Horizontal, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf")
 newPart.addTag("kicadTags", "TO-220F-4 Horizontal RM 2.54mm")

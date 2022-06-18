@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm")
 
 newPart.addTag("kicadDesc", "Ultraminiature Crystal Clock Oscillator TXCO Fordahl DFA S15-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 5.0x3.2mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

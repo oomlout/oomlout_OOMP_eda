@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "TD1208")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/TD1208")
 
 newPart.addTag("kicadDesc", "https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1208%20Datasheet.pdf")
 newPart.addTag("kicadTags", "SIGFOX Module")

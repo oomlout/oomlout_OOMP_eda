@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector/Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical")
 
 newPart.addTag("kicadDesc", "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2070-IDC%20Datasheet.pdf")
 newPart.addTag("kicadTags", "tag connect programming header pogo pins")

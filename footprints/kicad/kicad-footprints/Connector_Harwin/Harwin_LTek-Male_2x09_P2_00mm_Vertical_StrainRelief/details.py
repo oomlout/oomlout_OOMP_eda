@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Harwin")
 newPart.addTag("oompIndex", "Harwin_LTek-Male_2x09_P2.00mm_Vertical_StrainRelief")
+newPart.addTag("oompName", "kicad-footprints/Connector_Harwin/Harwin_LTek-Male_2x09_P2.00mm_Vertical_StrainRelief")
 
 newPart.addTag("kicadDesc", "Harwin LTek Connector, 18 pins, single row male, vertical entry, strain relief clip")
 newPart.addTag("kicadTags", "connector harwin ltek M80")

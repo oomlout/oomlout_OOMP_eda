@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Micro-B_Wuerth_629105150521_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_629105150521_CircularHoles")
 
 newPart.addTag("kicadDesc", "USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf")
 newPart.addTag("kicadTags", "usb micro receptacle")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Pico-SPOX Connector System, 87437-1443, 14 Pins per row (https://www.molex.com/pdm_docs/sd/874371443_sd.pdf#page=2)")
 newPart.addTag("kicadTags", "molex pico spox 14")

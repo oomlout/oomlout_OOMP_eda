@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST VH series connector, B2PS-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST VH top entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST SFH series connector, SM02B-SFHRS-TF (http://www.jst-mfg.com/product/pdf/eng/eSFH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST SFH horizontal")

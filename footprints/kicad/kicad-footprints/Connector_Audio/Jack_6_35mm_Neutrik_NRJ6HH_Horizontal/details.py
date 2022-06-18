@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_6.35mm_Neutrik_NRJ6HH_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HH_Horizontal")
 
 newPart.addTag("kicadDesc", "Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj6hh")
 newPart.addTag("kicadTags", "neutrik jack slim")

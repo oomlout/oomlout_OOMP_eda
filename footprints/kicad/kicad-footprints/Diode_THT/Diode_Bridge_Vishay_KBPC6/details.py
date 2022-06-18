@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_Vishay_KBPC6")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBPC6")
 
 newPart.addTag("kicadDesc", "Single phase bridge rectifier case KBPC6, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf")
 newPart.addTag("kicadTags", "Diode Bridge")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Sagami_CER1277B")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Sagami_CER1277B")
 
 newPart.addTag("kicadDesc", "Inductor, Sagami, h=8.0mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf")
 newPart.addTag("kicadTags", "inductor sagami cer12xxb smd")

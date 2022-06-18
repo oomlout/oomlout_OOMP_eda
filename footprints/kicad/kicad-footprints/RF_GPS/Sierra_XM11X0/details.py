@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "Sierra_XM11X0")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/Sierra_XM11X0")
 
 newPart.addTag("kicadDesc", "QFN-20, Pitch 1.20 no EP, https://source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification")
 newPart.addTag("kicadTags", "QFN-20 P1.20")

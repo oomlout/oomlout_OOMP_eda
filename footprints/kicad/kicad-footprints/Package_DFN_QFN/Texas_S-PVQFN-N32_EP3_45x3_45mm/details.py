@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_S-PVQFN-N32_EP3.45x3.45mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N32_EP3.45x3.45mm")
 
 newPart.addTag("kicadDesc", "QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

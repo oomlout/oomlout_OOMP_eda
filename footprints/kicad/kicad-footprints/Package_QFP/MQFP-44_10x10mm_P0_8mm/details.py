@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "MQFP-44_10x10mm_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/MQFP-44_10x10mm_P0.8mm")
 
 newPart.addTag("kicadDesc", "MQFP, 44 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7722.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "MQFP QFP")

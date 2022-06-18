@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Taiyo-Yuden_NR-50xx_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-50xx_HandSoldering")
 
 newPart.addTag("kicadDesc", "Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-50xx, 4.9mmx4.9mm")
 newPart.addTag("kicadTags", "inductor taiyo-yuden nr smd")

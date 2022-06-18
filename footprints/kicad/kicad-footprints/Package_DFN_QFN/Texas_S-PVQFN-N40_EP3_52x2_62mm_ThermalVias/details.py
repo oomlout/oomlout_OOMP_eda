@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/drv8308.pdf#page=56 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

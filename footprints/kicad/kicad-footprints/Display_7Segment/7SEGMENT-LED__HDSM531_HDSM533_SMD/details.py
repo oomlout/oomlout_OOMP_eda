@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "7SEGMENT-LED__HDSM531_HDSM533_SMD")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD")
 
 newPart.addTag("kicadDesc", "7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN")
 newPart.addTag("kicadTags", "7segment LED HDSM531 HDSM533")

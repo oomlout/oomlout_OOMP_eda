@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Infineon_PG-DSO-20-32")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Infineon_PG-DSO-20-32")
 
 newPart.addTag("kicadDesc", "Infineon SO package 20pin without exposed pad (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-32/)")
 newPart.addTag("kicadTags", "DSO-20")

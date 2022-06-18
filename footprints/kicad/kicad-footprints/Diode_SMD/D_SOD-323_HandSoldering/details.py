@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SOD-323_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SOD-323_HandSoldering")
 
 newPart.addTag("kicadDesc", "SOD-323")
 newPart.addTag("kicadTags", "SOD-323")

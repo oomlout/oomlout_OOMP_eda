@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MC")
 newPart.addTag("oompIndex", "PhoenixContact_MC_1,5_7-G-3.5_1x07_P3.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_7-G-3.5_1x07_P3.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MC_1,5/7-G-3.5; number of pins: 07; pin pitch: 3.50mm; Angled || order number: 1844265 8A 160V")
 newPart.addTag("kicadTags", "phoenix_contact connector MC_01x07_G_3.5mm")

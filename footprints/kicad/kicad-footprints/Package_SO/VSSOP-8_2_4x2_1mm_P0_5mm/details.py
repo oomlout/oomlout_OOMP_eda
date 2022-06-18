@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "VSSOP-8_2.4x2.1mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/VSSOP-8_2.4x2.1mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/lit/ml/mpds050d/mpds050d.pdf")
 newPart.addTag("kicadTags", "VSSOP DCU R-PDSO-G8 Pitch0.5mm")

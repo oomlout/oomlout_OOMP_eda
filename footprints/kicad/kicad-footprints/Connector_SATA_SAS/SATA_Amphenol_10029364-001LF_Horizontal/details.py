@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_SATA_SAS")
 newPart.addTag("oompIndex", "SATA_Amphenol_10029364-001LF_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_SATA_SAS/SATA_Amphenol_10029364-001LF_Horizontal")
 
 newPart.addTag("kicadDesc", "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029364.pdf")
 newPart.addTag("kicadTags", "SATA")

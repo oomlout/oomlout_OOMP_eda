@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal")
 
 newPart.addTag("kicadDesc", "http://katalog.we-online.de/em/datasheet/68611214422.pdf")
 newPart.addTag("kicadTags", "Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_AMASS")
 newPart.addTag("oompIndex", "AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_AMASS/AMASS_XT30PW-M_1x02_P2.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf")
 newPart.addTag("kicadTags", "RC Connector XT30")

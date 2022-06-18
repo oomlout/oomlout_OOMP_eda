@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_VQFN-RHL-20_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_VQFN-RHL-20_ThermalVias")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/lit/ds/symlink/bq51050b.pdf")
 newPart.addTag("kicadTags", "RHL0020A")

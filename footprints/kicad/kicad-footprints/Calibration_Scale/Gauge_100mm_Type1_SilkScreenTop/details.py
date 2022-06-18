@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Calibration_Scale")
 newPart.addTag("oompIndex", "Gauge_100mm_Type1_SilkScreenTop")
+newPart.addTag("oompName", "kicad-footprints/Calibration_Scale/Gauge_100mm_Type1_SilkScreenTop")
 
 newPart.addTag("kicadDesc", "Gauge, Massstab, 100mm, SilkScreenTop, Type 1,")
 newPart.addTag("kicadTags", "Gauge Massstab 100mm SilkScreenTop Type 1")

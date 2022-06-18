@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "STK672-080-E")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/STK672-080-E")
 
 newPart.addTag("kicadDesc", "SIP-15 (http://www.onsemi.com/pub_link/Collateral/EN6507-D.PDF)")
 newPart.addTag("kicadTags", "SIP-15")

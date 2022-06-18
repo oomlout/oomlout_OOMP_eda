@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_AVX_LMLP07A7")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_AVX_LMLP07A7")
 
 newPart.addTag("kicadDesc", "Inductor, AVX Kyocera, LMLP Series, style D, 6.6mmx7.3mm, 3.0mm height. (Script generated with StandardBox.py) (https://datasheets.avx.com/LMLPD.pdf)")
 newPart.addTag("kicadTags", "Inductor LMLP")

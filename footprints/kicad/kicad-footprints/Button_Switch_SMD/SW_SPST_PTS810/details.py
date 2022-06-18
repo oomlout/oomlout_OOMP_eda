@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_PTS810")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_PTS810")
 
 newPart.addTag("kicadDesc", "C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf")
 newPart.addTag("kicadTags", "SPST Button Switch")

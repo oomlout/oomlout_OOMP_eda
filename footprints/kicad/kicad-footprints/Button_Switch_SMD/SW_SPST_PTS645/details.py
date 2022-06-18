@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_PTS645")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_PTS645")
 
 newPart.addTag("kicadDesc", "C&K Components SPST SMD PTS645 Series 6mm Tact Switch")
 newPart.addTag("kicadTags", "SPST Button Switch")

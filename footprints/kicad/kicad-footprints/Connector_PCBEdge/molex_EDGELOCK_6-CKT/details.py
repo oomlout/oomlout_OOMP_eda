@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "molex_EDGELOCK_6-CKT")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT")
 
 newPart.addTag("kicadDesc", "https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf")
 newPart.addTag("kicadTags", "Connector PCBEdge molex EDGELOCK")

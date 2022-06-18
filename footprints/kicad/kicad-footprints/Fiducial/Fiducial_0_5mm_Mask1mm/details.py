@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fiducial")
 newPart.addTag("oompIndex", "Fiducial_0.5mm_Mask1mm")
+newPart.addTag("oompName", "kicad-footprints/Fiducial/Fiducial_0.5mm_Mask1mm")
 
 newPart.addTag("kicadDesc", "Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)")
 newPart.addTag("kicadTags", "fiducial")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_MiniMELF_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_MiniMELF_Handsoldering")
 
 newPart.addTag("kicadDesc", "Diode Mini-MELF (SOD-80) Handsoldering")
 newPart.addTag("kicadTags", "Diode Mini-MELF (SOD-80) Handsoldering")

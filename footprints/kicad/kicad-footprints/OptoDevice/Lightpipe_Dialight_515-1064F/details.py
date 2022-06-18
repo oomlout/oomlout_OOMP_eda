@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Lightpipe_Dialight_515-1064F")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Lightpipe_Dialight_515-1064F")
 
 newPart.addTag("kicadDesc", "https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources")
 newPart.addTag("kicadTags", "lightpipe triple tower right angle 3mm")

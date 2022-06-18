@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SeikoEpson_SG-8002DC")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC")
 
 newPart.addTag("kicadDesc", "8-lead dip package, row spacing 7.62 mm (300 mils)")
 newPart.addTag("kicadTags", "DIL DIP PDIP 2.54mm 7.62mm 300mil")

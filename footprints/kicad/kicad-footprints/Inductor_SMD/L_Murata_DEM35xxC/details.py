@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Murata_DEM35xxC")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Murata_DEM35xxC")
 
 newPart.addTag("kicadDesc", "https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx")
 newPart.addTag("kicadTags", "Inductor SMD DEM35xxC")

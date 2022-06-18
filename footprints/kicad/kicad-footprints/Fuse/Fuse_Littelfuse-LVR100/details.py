@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Littelfuse-LVR100")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Littelfuse-LVR100")
 
 newPart.addTag("kicadDesc", "Littelfuse, resettable fuse, PTC, polyswitch LVR100, Ih 1A http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lvr_catalog_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "LVR100 PTC resettable polyswitch")

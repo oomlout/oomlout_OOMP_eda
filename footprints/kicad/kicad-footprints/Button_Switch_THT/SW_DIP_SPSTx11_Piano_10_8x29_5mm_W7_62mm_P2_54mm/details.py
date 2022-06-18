@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_DIP_SPSTx11_Piano_10.8x29.5mm_W7.62mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx11_Piano_10.8x29.5mm_W7.62mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "11x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x29.5mm")
 newPart.addTag("kicadTags", "DIP Switch SPST Piano 7.62mm 300mil")

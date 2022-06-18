@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_SunFuse-6HP")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_SunFuse-6HP")
 
 newPart.addTag("kicadDesc", "SunFuse Ceramic Slow Blow Fuse 6H_6HP.PDF")
 newPart.addTag("kicadTags", "UL/CSA 6x32mm Ceramic Slow Blow Fuse")

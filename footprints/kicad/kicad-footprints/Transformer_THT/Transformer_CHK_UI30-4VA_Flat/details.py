@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_CHK_UI30-4VA_Flat")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_CHK_UI30-4VA_Flat")
 
 newPart.addTag("kicadDesc", "Trafo, Flattrafo, CHK, UI30, 4VA,")
 newPart.addTag("kicadTags", "Trafo Flattrafo CHK UI30 4VA")

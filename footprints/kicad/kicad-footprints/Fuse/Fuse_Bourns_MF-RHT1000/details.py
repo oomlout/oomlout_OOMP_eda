@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Bourns_MF-RHT1000")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Bourns_MF-RHT1000")
 
 newPart.addTag("kicadDesc", "PTC Resettable Fuse, Ihold = 10.0A, Itrip=18.5A, http://www.bourns.com/docs/product-datasheets/mfrht.pdf")
 newPart.addTag("kicadTags", "ptc resettable fuse polyfuse THT")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "MSOP-16_3x4.039mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/MSOP-16_3x4.039mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "MSOP, 16 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081669_A_MS16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "MSOP SO")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SDR1806")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SDR1806")
 
 newPart.addTag("kicadDesc", "https://www.bourns.com/docs/Product-Datasheets/SDR1806.pdf")
 newPart.addTag("kicadTags", "Bourns SDR1806")

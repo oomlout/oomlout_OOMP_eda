@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST SUR series connector, BM17B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST SUR side entry")

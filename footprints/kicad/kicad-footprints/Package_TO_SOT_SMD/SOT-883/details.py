@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-883")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-883")
 
 newPart.addTag("kicadDesc", "SOT-883, https://assets.nexperia.com/documents/outline-drawing/SOT883.pdf")
 newPart.addTag("kicadTags", "SOT-883")

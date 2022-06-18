@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_DIN")
 newPart.addTag("oompIndex", "DIN41612_D_2x8_Male_Horizontal_THT")
+newPart.addTag("oompName", "kicad-footprints/Connector_DIN/DIN41612_D_2x8_Male_Horizontal_THT")
 
 newPart.addTag("kicadDesc", "DIN41612 connector, type D, Horizontal, 3 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf")
 newPart.addTag("kicadTags", "DIN 41612 IEC 60603 D")

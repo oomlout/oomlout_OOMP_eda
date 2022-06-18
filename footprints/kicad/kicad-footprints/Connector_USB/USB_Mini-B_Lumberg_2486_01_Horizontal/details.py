@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Mini-B_Lumberg_2486_01_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Mini-B_Lumberg_2486_01_Horizontal")
 
 newPart.addTag("kicadDesc", "USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf")
 newPart.addTag("kicadTags", "USB USB_B USB_Mini connector")

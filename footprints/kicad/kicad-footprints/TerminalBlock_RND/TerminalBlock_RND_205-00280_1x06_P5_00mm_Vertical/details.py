@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_RND")
 newPart.addTag("oompIndex", "TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "terminal block RND 205-00082, vertical (cable from top), 6 pins, pitch 5mm, size 30x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND")
 newPart.addTag("kicadTags", "THT terminal block RND 205-00082 vertical pitch 5mm size 30x10mm^2 drill 1.3mm pad 2.5mm")

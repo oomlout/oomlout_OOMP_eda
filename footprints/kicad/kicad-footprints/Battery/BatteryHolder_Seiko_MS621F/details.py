@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Seiko_MS621F")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Seiko_MS621F")
 
 newPart.addTag("kicadDesc", "Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg")
 newPart.addTag("kicadTags", "Seiko MS621F")

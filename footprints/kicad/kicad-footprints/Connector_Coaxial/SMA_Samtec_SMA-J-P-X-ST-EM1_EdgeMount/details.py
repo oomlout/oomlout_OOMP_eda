@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
 
 newPart.addTag("kicadDesc", "Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)")
 newPart.addTag("kicadTags", "SMA Straight Samtec Edge Mount")

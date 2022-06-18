@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ12_Amphenol_54601")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ12_Amphenol_54601")
 
 newPart.addTag("kicadDesc", "RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf")
 newPart.addTag("kicadTags", "RJ12 connector")

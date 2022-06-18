@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_TDK_SLF12575")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_TDK_SLF12575")
 
 newPart.addTag("kicadDesc", "Inductor, TDK, SLF12575, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf12575-h_en.pdf)")
 newPart.addTag("kicadTags", "Inductor SLF12575")

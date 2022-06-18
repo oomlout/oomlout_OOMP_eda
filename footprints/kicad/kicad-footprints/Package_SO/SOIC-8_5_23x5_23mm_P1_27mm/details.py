@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SOIC-8_5.23x5.23mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SOIC-8_5.23x5.23mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SOIC SO")

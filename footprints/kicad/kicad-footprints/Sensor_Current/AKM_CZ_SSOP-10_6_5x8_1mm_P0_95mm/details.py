@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm")
 
 newPart.addTag("kicadDesc", "AKM CZ-381x current sensor, 6.5x8.1mm body, 0.95mm pitch (http://www.akm.com/akm/en/product/detail/0009/)")
 newPart.addTag("kicadTags", "akm cz-381x 10")

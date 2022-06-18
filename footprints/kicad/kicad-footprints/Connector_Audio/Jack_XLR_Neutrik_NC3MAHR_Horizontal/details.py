@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_XLR_Neutrik_NC3MAHR_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAHR_Horizontal")
 
 newPart.addTag("kicadDesc", "A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mahr")
 newPart.addTag("kicadTags", "neutrik xlr a")

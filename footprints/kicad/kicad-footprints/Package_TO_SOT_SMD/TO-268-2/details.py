@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-268-2")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-268-2")
 
 newPart.addTag("kicadDesc", "TO-268/D3PAK SMD package, http://www.icbank.com/icbank_data/semi_package/to268aa_dim.pdf")
 newPart.addTag("kicadTags", "D3PAK TO-268 D3PAK-3 TO-268-3")

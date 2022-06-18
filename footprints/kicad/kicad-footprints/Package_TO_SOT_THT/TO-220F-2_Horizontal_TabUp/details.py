@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-220F-2_Horizontal_TabUp")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-220F-2_Horizontal_TabUp")
 
 newPart.addTag("kicadDesc", "TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf")
 newPart.addTag("kicadTags", "TO-220F-2 Horizontal RM 5.08mm")

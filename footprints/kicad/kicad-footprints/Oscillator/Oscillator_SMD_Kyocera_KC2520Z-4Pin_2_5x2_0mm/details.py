@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm")
 
 newPart.addTag("kicadDesc", "https://global.kyocera.com/prdct/electro/product/pdf/clock_z_xz_e.pdf")
 newPart.addTag("kicadTags", "2.5mm 2mm SMD")

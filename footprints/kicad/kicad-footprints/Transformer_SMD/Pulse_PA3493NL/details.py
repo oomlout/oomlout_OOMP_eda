@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Pulse_PA3493NL")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Pulse_PA3493NL")
 
 newPart.addTag("kicadDesc", "SMT Gate Drive Transformer, 1.25:1, 10.9x9.7x2.7mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)")
 newPart.addTag("kicadTags", "pulse pa3493nl")

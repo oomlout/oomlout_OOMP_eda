@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "NetTie")
 newPart.addTag("oompIndex", "NetTie-3_THT_Pad0.3mm")
+newPart.addTag("oompName", "kicad-footprints/NetTie/NetTie-3_THT_Pad0.3mm")
 
 newPart.addTag("kicadDesc", "Net tie, 3 pin, 0.3mm round THT pads")
 newPart.addTag("kicadTags", "net tie")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMA_Amphenol_132134-11_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134-11_Vertical")
 
 newPart.addTag("kicadDesc", "https://www.amphenolrf.com/downloads/dl/file/id/3406/product/2975/132134_11_customer_drawing.pdf")
 newPart.addTag("kicadTags", "SMA THT Female Jack Vertical ExtendedLegs")

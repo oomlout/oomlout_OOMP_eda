@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Osram_SMD-SmartDIL")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Osram_SMD-SmartDIL")
 
 newPart.addTag("kicadDesc", "PhotoDiode, plastic SMD SmatDIL")
 newPart.addTag("kicadTags", "PhotoDiode plastic SMD SmatDIL")

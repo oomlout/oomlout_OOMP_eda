@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_MAPI-4020")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_MAPI-4020")
 
 newPart.addTag("kicadDesc", "Inductor, Wuerth Elektronik, Wuerth_MAPI-4020, 4.0mmx4.0mm")
 newPart.addTag("kicadTags", "inductor Wuerth smd")

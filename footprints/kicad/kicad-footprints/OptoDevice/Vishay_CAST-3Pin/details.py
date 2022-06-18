@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Vishay_CAST-3Pin")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Vishay_CAST-3Pin")
 
 newPart.addTag("kicadDesc", "IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf")
 newPart.addTag("kicadTags", "IRReceiverVishayTSOP-xxxx CAST")

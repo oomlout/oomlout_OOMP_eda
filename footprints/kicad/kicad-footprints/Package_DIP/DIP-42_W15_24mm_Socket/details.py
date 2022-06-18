@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DIP")
 newPart.addTag("oompIndex", "DIP-42_W15.24mm_Socket")
+newPart.addTag("oompName", "kicad-footprints/Package_DIP/DIP-42_W15.24mm_Socket")
 
 newPart.addTag("kicadDesc", "42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket")
 newPart.addTag("kicadTags", "THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_MC")
 newPart.addTag("oompIndex", "PhoenixContact_MC_1,5_4-G-3.81_1x04_P3.81mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_4-G-3.81_1x04_P3.81mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: MC_1,5/4-G-3.81; number of pins: 04; pin pitch: 3.81mm; Angled || order number: 1803293 8A 160V")
 newPart.addTag("kicadTags", "phoenix_contact connector MC_01x04_G_3.81mm")

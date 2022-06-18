@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37")
 
 newPart.addTag("kicadDesc", "Transformer, Toroid, horizontal, laying, Diameter 10,5mm, Amidon T37,")
 newPart.addTag("kicadTags", "Transformer Toroid horizontal laying Diameter 10 5mm Amidon T37")

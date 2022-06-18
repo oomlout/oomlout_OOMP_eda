@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_Array_Concave_4x0603")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_Array_Concave_4x0603")
 
 newPart.addTag("kicadDesc", "Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)")
 newPart.addTag("kicadTags", "resistor array")

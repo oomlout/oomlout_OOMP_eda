@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

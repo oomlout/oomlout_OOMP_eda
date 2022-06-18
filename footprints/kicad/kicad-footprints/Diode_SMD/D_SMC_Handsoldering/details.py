@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SMC_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SMC_Handsoldering")
 
 newPart.addTag("kicadDesc", "Diode SMC (DO-214AB) Handsoldering")
 newPart.addTag("kicadTags", "Diode SMC (DO-214AB) Handsoldering")

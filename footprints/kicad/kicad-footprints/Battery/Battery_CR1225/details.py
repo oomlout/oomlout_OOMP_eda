@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "Battery_CR1225")
+newPart.addTag("oompName", "kicad-footprints/Battery/Battery_CR1225")
 
 newPart.addTag("kicadDesc", "CR1225 battery")
 newPart.addTag("kicadTags", "battery CR1225 coin cell")

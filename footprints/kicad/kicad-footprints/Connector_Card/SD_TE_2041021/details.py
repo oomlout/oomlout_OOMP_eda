@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "SD_TE_2041021")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/SD_TE_2041021")
 
 newPart.addTag("kicadDesc", "SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)")
 newPart.addTag("kicadTags", "sd card")

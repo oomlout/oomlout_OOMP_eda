@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST AUH series connector, BM05B-AUHKS-GA-TB (http://www.jst-mfg.com/product/pdf/eng/eAUH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST AUH side entry")

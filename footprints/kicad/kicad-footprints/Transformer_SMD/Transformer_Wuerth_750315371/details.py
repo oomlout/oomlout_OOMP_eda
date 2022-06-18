@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Wuerth_750315371")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Wuerth_750315371")
 
 newPart.addTag("kicadDesc", "Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm")
 newPart.addTag("kicadTags", "transformer flyback")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_MiniMELF_MMA-0204")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_MiniMELF_MMA-0204")
 
 newPart.addTag("kicadDesc", "Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf")
 newPart.addTag("kicadTags", "MiniMELF Resistor")

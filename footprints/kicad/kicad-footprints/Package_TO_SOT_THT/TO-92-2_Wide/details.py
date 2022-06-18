@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-92-2_Wide")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-92-2_Wide")
 
 newPart.addTag("kicadDesc", "TO-92 2-pin leads in-line, wide, drill 0.75mm")
 newPart.addTag("kicadTags", "to-92 sc-43 sc-43a sot54 PA33 diode SOD70")

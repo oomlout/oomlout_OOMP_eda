@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "Banana_Jack_2Pin")
+newPart.addTag("oompName", "kicad-footprints/Connector/Banana_Jack_2Pin")
 
 newPart.addTag("kicadDesc", "Dual banana socket, footprint - 2 x 6mm drills")
 newPart.addTag("kicadTags", "banana socket")

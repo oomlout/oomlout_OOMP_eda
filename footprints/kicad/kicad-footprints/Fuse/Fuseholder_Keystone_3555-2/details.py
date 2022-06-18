@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Keystone_3555-2")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Keystone_3555-2")
 
 newPart.addTag("kicadDesc", "Maxi APX ATX Automotive Blade Fuse Clip Holder https://www.keyelco.com/userAssets/file/M65p40.pdf")
 newPart.addTag("kicadTags", "Maxi APX ATX Automotive Blade Fuse Clip Holder")

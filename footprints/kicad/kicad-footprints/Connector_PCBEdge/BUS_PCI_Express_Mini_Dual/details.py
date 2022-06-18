@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "BUS_PCI_Express_Mini_Dual")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual")
 
 newPart.addTag("kicadDesc", "Mini-PCI Express bus connector full size with dual clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=28)")
 newPart.addTag("kicadTags", "mini pcie")

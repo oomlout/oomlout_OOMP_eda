@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SOD-923")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SOD-923")
 
 newPart.addTag("kicadDesc", "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4")
 newPart.addTag("kicadTags", "Diode SOD923")

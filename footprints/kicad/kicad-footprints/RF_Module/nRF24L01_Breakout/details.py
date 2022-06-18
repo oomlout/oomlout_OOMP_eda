@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "nRF24L01_Breakout")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/nRF24L01_Breakout")
 
 newPart.addTag("kicadDesc", "nRF24L01 breakout board")
 newPart.addTag("kicadTags", "nRF24L01 adapter breakout")

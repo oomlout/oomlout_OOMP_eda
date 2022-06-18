@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_A_Stewart_SS-52100-001_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_A_Stewart_SS-52100-001_Horizontal")
 
 newPart.addTag("kicadDesc", "USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf")
 newPart.addTag("kicadTags", "USB_A Female Connector receptacle")

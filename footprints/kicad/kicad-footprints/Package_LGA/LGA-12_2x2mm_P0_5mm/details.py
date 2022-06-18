@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_LGA")
 newPart.addTag("oompIndex", "LGA-12_2x2mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_LGA/LGA-12_2x2mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "LGA12")
 newPart.addTag("kicadTags", "lga land grid array")

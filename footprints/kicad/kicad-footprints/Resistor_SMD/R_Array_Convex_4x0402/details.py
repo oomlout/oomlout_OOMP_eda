@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_Array_Convex_4x0402")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_Array_Convex_4x0402")
 
 newPart.addTag("kicadDesc", "Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)")
 newPart.addTag("kicadTags", "resistor array")

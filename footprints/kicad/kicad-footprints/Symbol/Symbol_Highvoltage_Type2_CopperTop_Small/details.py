@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_Highvoltage_Type2_CopperTop_Small")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_Highvoltage_Type2_CopperTop_Small")
 
 newPart.addTag("kicadDesc", "Symbol, Highvoltage, Type 2, Copper Top, Small,")
 newPart.addTag("kicadTags", "Symbol, Highvoltage, Type 2, Copper Top, Small,")

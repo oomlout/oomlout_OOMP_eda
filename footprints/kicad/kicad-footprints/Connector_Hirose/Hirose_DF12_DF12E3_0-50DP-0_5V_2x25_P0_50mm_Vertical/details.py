@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Hirose")
 newPart.addTag("oompIndex", "Hirose_DF12_DF12E3.0-50DP-0.5V_2x25_P0.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Hirose/Hirose_DF12_DF12E3.0-50DP-0.5V_2x25_P0.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Hirose DF12E SMD, DF12E3.0-50DP-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Hirose DF12 vertical")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Toshiba_TORX170_TORX173_TORX193_TORX194")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Toshiba_TORX170_TORX173_TORX193_TORX194")
 
 newPart.addTag("kicadDesc", "Fiberoptic Reciver, RX, Toshiba, Toslink, TORX170, TORX173, TORX193, TORX194")
 newPart.addTag("kicadTags", "Fiberoptic Reciver RX Toshiba Toslink TORX170 TORX173 TORX193 TORX194")

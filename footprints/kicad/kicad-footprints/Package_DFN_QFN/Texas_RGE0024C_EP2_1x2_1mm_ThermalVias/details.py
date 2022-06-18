@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_RGE0024C_EP2.1x2.1mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_RGE0024C_EP2.1x2.1mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "Texas QFN NoLead")

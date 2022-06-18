@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_GH_SM14B-GHS-TB_1x14-1MP_P1.25mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_GH_SM14B-GHS-TB_1x14-1MP_P1.25mm_Horizontal")
 
 newPart.addTag("kicadDesc", "JST GH series connector, SM14B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST GH top entry")

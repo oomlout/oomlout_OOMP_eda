@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "ESP-12E")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/ESP-12E")
 
 newPart.addTag("kicadDesc", "Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf")
 newPart.addTag("kicadTags", "Wi-Fi Module")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_ACDC")
 newPart.addTag("oompIndex", "Converter_ACDC_RECOM_RAC05-xxSK_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_ACDC/Converter_ACDC_RECOM_RAC05-xxSK_THT")
 
 newPart.addTag("kicadDesc", "https://www.recom-power.com/pdf/Powerline-AC-DC/RAC05-K.pdf")
 newPart.addTag("kicadTags", "recom power ac dc")

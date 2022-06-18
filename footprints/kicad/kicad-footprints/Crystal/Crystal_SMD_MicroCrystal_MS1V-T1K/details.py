@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_MicroCrystal_MS1V-T1K")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_MS1V-T1K")
 
 newPart.addTag("kicadDesc", "SMD Watch Crystal MicroCrystal MS1V-T1K 6.1mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS1V-T1K.pdf")
 newPart.addTag("kicadTags", "['MS1V-T1K']")

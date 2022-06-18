@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Plug_Molex_105444")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Plug_Molex_105444")
 
 newPart.addTag("kicadDesc", "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf")
 newPart.addTag("kicadTags", "USB Type-C Plug Edge Mount")

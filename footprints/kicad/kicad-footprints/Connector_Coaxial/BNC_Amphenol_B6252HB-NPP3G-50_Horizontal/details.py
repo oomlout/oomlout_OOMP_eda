@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
 
 newPart.addTag("kicadDesc", "http://www.farnell.com/datasheets/612848.pdf")
 newPart.addTag("kicadTags", "BNC Amphenol Horizontal")

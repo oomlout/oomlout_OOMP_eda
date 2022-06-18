@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "SMB_Jack_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/SMB_Jack_Vertical")
 
 newPart.addTag("kicadDesc", "SMB pcb mounting jack")
 newPart.addTag("kicadTags", "SMB Jack  Striaght")

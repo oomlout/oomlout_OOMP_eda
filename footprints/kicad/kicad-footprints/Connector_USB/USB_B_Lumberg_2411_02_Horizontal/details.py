@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_B_Lumberg_2411_02_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_B_Lumberg_2411_02_Horizontal")
 
 newPart.addTag("kicadDesc", "USB 2.0 receptacle type B, horizontal version, through-hole, https://downloads.lumberg.com/datenblaetter/en/2411_02.pdf")
 newPart.addTag("kicadTags", "USB B receptacle horizontal through-hole")

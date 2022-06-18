@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GSM")
 newPart.addTag("oompIndex", "SIMCom_SIM800C")
+newPart.addTag("oompName", "kicad-footprints/RF_GSM/SIMCom_SIM800C")
 
 newPart.addTag("kicadDesc", "Quad-Band GSM/GPRS module, 17.6x15.7x2.3mm, http://simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf")
 newPart.addTag("kicadTags", "GSM Module SIM800C")

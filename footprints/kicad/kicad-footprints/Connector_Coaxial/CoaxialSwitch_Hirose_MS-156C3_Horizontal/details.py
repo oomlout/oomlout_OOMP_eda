@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "CoaxialSwitch_Hirose_MS-156C3_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/CoaxialSwitch_Hirose_MS-156C3_Horizontal")
 
 newPart.addTag("kicadDesc", "Subminiature Coaxial Switch 1.35mm High, DC to 11GHz")
 newPart.addTag("kicadTags", "Switch Coaxial RF")

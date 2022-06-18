@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Mini-Circuits_DL805")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Mini-Circuits_DL805")
 
 newPart.addTag("kicadDesc", "https://ww2.minicircuits.com/case_style/DL805.pdf")
 newPart.addTag("kicadTags", "RF Switch")

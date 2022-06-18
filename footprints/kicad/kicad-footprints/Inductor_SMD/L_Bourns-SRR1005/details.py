@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns-SRR1005")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns-SRR1005")
 
 newPart.addTag("kicadDesc", "Bourns SRR1005 series SMD inductor")
 newPart.addTag("kicadTags", "Bourns SRR1005 SMD inductor")

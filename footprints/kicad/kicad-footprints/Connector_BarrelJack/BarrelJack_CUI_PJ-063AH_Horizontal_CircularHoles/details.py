@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_BarrelJack")
 newPart.addTag("oompIndex", "BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles")
 
 newPart.addTag("kicadDesc", "Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf")
 newPart.addTag("kicadTags", "barrel jack cui dc power")

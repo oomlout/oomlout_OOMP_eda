@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_GNU-Logo_SilkscreenTop")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_GNU-Logo_SilkscreenTop")
 
 newPart.addTag("kicadDesc", "GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,")
 newPart.addTag("kicadTags", "GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,")

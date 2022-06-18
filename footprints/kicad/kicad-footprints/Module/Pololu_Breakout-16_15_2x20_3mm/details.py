@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Pololu_Breakout-16_15.2x20.3mm")
+newPart.addTag("oompName", "kicad-footprints/Module/Pololu_Breakout-16_15.2x20.3mm")
 
 newPart.addTag("kicadDesc", "Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\\")
 newPart.addTag("kicadTags", "Pololu Breakout")

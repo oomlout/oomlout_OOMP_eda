@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SMC-RM10_Universal_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SMC-RM10_Universal_Handsoldering")
 
 newPart.addTag("kicadDesc", "Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole")
 newPart.addTag("kicadTags", "Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole")

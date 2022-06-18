@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Sabre_43160-2104_1x04_P7.49mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Sabre Power Connector, 43160-2104, 4 Pins per row (http://www.molex.com/pdm_docs/sd/431602102_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Sabre side entry")

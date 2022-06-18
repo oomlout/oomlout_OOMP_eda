@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_HC49-U-3Pin_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_HC49-U-3Pin_Vertical")
 
 newPart.addTag("kicadDesc", "Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf")
 newPart.addTag("kicadTags", "THT crystalHC-49/U")

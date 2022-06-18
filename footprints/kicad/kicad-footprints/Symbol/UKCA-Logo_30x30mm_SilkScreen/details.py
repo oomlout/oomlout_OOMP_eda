@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "UKCA-Logo_30x30mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/UKCA-Logo_30x30mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "UKCA marking")
 newPart.addTag("kicadTags", "Logo UKCA marking")

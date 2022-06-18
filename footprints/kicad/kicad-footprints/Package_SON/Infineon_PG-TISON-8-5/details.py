@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Infineon_PG-TISON-8-5")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Infineon_PG-TISON-8-5")
 
 newPart.addTag("kicadDesc", "Infineon, PG-TISON-8-5, 8x8x1.1mm, 1mm Pitch, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-5/")
 newPart.addTag("kicadTags", "tison")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_SMD")
 newPart.addTag("oompIndex", "CP_Elec_5x3")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_SMD/CP_Elec_5x3")
 
 newPart.addTag("kicadDesc", "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm")
 newPart.addTag("kicadTags", "capacitor electrolytic")

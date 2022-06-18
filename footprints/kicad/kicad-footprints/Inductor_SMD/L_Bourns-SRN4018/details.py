@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns-SRN4018")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns-SRN4018")
 
 newPart.addTag("kicadDesc", "Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf")
 newPart.addTag("kicadTags", "Bourns SRN4018 SMD inductor")

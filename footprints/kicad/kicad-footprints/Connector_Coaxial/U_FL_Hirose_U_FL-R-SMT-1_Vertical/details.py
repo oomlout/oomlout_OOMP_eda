@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "U.FL_Hirose_U.FL-R-SMT-1_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/U.FL_Hirose_U.FL-R-SMT-1_Vertical")
 
 newPart.addTag("kicadDesc", "Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/")
 newPart.addTag("kicadTags", "Hirose U.FL Coaxial")

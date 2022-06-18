@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SOD-323F")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SOD-323F")
 
 newPart.addTag("kicadDesc", "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
 newPart.addTag("kicadTags", "SOD-323F")

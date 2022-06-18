@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_SPOX_5268-06A_1x06_P2.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_SPOX_5268-06A_1x06_P2.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex SPOX Connector System, 5268-06A, 6 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex SPOX horizontal")

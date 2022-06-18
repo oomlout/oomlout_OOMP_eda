@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SRP2313AA")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SRP2313AA")
 
 newPart.addTag("kicadDesc", "Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/product-datasheets/srp2313aa.pdf")
 newPart.addTag("kicadTags", "Bourns SRR1260 SMD inductor")

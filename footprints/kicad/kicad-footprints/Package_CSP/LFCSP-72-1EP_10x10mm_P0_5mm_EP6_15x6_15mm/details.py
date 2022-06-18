@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm")
 
 newPart.addTag("kicadDesc", "72-Lead Frame Chip Scale Package - 10x10x0.9 mm Body [LFCSP]; (see https://www.intersil.com/content/dam/Intersil/documents/l72_/l72.10x10c.pdf)")
 newPart.addTag("kicadTags", "LFCSP 0.5")

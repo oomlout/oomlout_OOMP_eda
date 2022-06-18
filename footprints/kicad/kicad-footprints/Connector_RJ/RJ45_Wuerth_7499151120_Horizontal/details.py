@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Wuerth_7499151120_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Wuerth_7499151120_Horizontal")
 
 newPart.addTag("kicadDesc", "Wuerth 7499151120, LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT, Dual Ethernet Jack (http://katalog.we-online.de/pbs/datasheet/7499151120.pdf)")
 newPart.addTag("kicadTags", "ethernet lan connector")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "FCC-Logo_9.6x8mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/FCC-Logo_9.6x8mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "FCC marking")
 newPart.addTag("kicadTags", "Logo FCC certification")

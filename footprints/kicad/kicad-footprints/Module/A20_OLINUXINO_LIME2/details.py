@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "A20_OLINUXINO_LIME2")
+newPart.addTag("oompName", "kicad-footprints/Module/A20_OLINUXINO_LIME2")
 
 newPart.addTag("kicadDesc", "A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet")
 newPart.addTag("kicadTags", "A20 Olimex Olinuxino LIME2 development board")

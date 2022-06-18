@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "ST_MultiPowerSO-30")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/ST_MultiPowerSO-30")
 
 newPart.addTag("kicadDesc", "MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm (http://www.st.com/resource/en/datasheet/vnh2sp30-e.pdf)")
 newPart.addTag("kicadTags", "MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingEquipment")
 newPart.addTag("oompIndex", "DINRailAdapter_3xM3_PhoenixContact_1201578")
+newPart.addTag("oompName", "kicad-footprints/MountingEquipment/DINRailAdapter_3xM3_PhoenixContact_1201578")
 
 newPart.addTag("kicadDesc", "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1")
 newPart.addTag("kicadTags", "DIN rail adapter universal three M3 clearance holes")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SOD-123")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SOD-123")
 
 newPart.addTag("kicadDesc", "SOD-123")
 newPart.addTag("kicadTags", "SOD-123")

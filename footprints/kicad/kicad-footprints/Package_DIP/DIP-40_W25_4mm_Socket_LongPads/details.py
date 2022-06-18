@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DIP")
 newPart.addTag("oompIndex", "DIP-40_W25.4mm_Socket_LongPads")
+newPart.addTag("oompName", "kicad-footprints/Package_DIP/DIP-40_W25.4mm_Socket_LongPads")
 
 newPart.addTag("kicadDesc", "40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket, LongPads")
 newPart.addTag("kicadTags", "THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket LongPads")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "RFDigital_RFD77101")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/RFDigital_RFD77101")
 
 newPart.addTag("kicadDesc", "RFDigital RFD77101 Simblee")
 newPart.addTag("kicadTags", "RFDigital RFD77101 Simblee")

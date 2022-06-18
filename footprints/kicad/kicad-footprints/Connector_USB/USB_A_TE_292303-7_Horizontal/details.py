@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_A_TE_292303-7_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_A_TE_292303-7_Horizontal")
 
 newPart.addTag("kicadDesc", "USB type A, Horizontal, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English")
 newPart.addTag("kicadTags", "USB_A Female Connector receptacle")

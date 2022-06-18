@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinSocket_1.27mm")
 newPart.addTag("oompIndex", "PinSocket_1x20_P1.27mm_Vertical_SMD_Pin1Left")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x20_P1.27mm_Vertical_SMD_Pin1Left")
 
 newPart.addTag("kicadDesc", "surface-mounted straight socket strip, 1x20, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD075.pdf&t=1511594726925), script generated")
 newPart.addTag("kicadTags", "Surface mounted socket strip SMD 1x20 1.27mm single row style1 pin1 left")

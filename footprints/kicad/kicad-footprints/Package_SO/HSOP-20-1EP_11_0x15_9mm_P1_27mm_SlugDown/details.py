@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown")
 
 newPart.addTag("kicadDesc", "HSOP 11.0x15.9mm Pitch 1.27mm Slug Down (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)")
 newPart.addTag("kicadTags", "HSOP 11.0 x 15.9mm Pitch 1.27mm")

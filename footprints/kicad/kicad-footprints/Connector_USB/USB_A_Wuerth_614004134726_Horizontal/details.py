@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_A_Wuerth_614004134726_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_A_Wuerth_614004134726_Horizontal")
 
 newPart.addTag("kicadDesc", "USB A connector https://www.we-online.com/catalog/datasheet/614004134726.pdf")
 newPart.addTag("kicadTags", "USB_A Female Connector receptacle")

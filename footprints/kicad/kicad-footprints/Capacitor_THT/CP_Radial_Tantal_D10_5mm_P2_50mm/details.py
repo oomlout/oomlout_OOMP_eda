@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Capacitor_THT")
 newPart.addTag("oompIndex", "CP_Radial_Tantal_D10.5mm_P2.50mm")
+newPart.addTag("oompName", "kicad-footprints/Capacitor_THT/CP_Radial_Tantal_D10.5mm_P2.50mm")
 
 newPart.addTag("kicadDesc", "CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=10.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf")
 newPart.addTag("kicadTags", "CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 10.5mm Tantal Electrolytic Capacitor")

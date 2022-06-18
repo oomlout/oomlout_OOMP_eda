@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_NKK_BB15AH")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_NKK_BB15AH")
 
 newPart.addTag("kicadDesc", "https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf")
 newPart.addTag("kicadTags", "Pushbutton Right-angle")

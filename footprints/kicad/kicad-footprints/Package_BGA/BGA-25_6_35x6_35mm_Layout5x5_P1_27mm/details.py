@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-25_6.35x6.35mm_Layout5x5_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-25_6.35x6.35mm_Layout5x5_P1.27mm")
 
 newPart.addTag("kicadDesc", "BGA-25, http://cds.linear.com/docs/en/datasheet/4624fc.pdf")
 newPart.addTag("kicadTags", "BGA-25 uModule")

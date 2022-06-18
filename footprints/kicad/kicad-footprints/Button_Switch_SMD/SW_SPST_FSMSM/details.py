@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_FSMSM")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_FSMSM")
 
 newPart.addTag("kicadDesc", "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English")
 newPart.addTag("kicadTags", "SPST button tactile switch")

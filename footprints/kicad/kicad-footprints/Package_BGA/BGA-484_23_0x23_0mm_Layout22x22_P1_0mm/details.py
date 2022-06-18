@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-484_23.0x23.0mm_Layout22x22_P1.0mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm")
 
 newPart.addTag("kicadDesc", "BGA-484, https://www.xilinx.com/support/documentation/package_specs/fg484.pdf")
 newPart.addTag("kicadTags", "BGA-484")

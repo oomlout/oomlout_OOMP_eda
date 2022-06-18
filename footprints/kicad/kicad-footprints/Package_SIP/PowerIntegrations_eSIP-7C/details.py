@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "PowerIntegrations_eSIP-7C")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C")
 
 newPart.addTag("kicadDesc", "eSIP-7C Vertical Flat Package with Heatsink Tab, https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf")
 newPart.addTag("kicadTags", "Power Integrations E Package")

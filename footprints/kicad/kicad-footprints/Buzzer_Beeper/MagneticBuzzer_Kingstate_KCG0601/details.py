@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Buzzer_Beeper")
 newPart.addTag("oompIndex", "MagneticBuzzer_Kingstate_KCG0601")
+newPart.addTag("oompName", "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kingstate_KCG0601")
 
 newPart.addTag("kicadDesc", "Buzzer, Elektromagnetic Beeper, Summer,")
 newPart.addTag("kicadTags", "Kingstate KCG0601")

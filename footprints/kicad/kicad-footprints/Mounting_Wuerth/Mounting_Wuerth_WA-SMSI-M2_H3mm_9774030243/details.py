@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Mounting_Wuerth")
 newPart.addTag("oompIndex", "Mounting_Wuerth_WA-SMSI-M2_H3mm_9774030243")
+newPart.addTag("oompName", "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M2_H3mm_9774030243")
 
 newPart.addTag("kicadDesc", "Mounting Hardware, inside through hole M2, height 3, Wuerth electronics 9774030243 (https://katalog.we-online.de/em/datasheet/9774030243.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Mounting M2 9774030243")

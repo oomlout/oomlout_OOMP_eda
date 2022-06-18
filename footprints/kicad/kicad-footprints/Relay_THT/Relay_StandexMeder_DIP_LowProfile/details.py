@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_StandexMeder_DIP_LowProfile")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_StandexMeder_DIP_LowProfile")
 
 newPart.addTag("kicadDesc", "package for Standex Meder DIP reed relay series, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf")
 newPart.addTag("kicadTags", "DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay")

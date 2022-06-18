@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Obsolete\Fiducial")
 newPart.addTag("oompIndex", "Fiducial_classic_big_SilkscreenTop_Type2")
+newPart.addTag("oompName", "kicad-footprints/Obsolete\Fiducial/Fiducial_classic_big_SilkscreenTop_Type2")
 
 newPart.addTag("kicadDesc", "Fiducial, Classic, Big, Silkscreen Top, Type 2")
 newPart.addTag("kicadAttr", "smd")

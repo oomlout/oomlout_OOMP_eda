@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-46-2_Pin2Center_Window")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-46-2_Pin2Center_Window")
 
 newPart.addTag("kicadDesc", "TO-46-2, Pin2 at center of package, Thorlabs photodiodes")
 newPart.addTag("kicadTags", "TO-46-2 Thorlabs")

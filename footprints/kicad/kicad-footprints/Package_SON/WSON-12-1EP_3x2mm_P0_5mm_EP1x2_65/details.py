@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65")
 
 newPart.addTag("kicadDesc", "WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf")
 newPart.addTag("kicadTags", "WSON-12")

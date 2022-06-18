@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50")
 
 newPart.addTag("kicadDesc", "Choke, Inductance, Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 14mm, Amidon T50,")
 newPart.addTag("kicadTags", "Choke Inductance Autotransformer Toroid horizontal laying 1 Tap Diameter 14mm Amidon T50")

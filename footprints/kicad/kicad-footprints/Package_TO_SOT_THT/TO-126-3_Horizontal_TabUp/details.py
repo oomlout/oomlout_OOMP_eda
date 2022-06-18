@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-126-3_Horizontal_TabUp")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-126-3_Horizontal_TabUp")
 
 newPart.addTag("kicadDesc", "TO-126-3, Horizontal, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf")
 newPart.addTag("kicadTags", "TO-126-3 Horizontal RM 2.54mm")

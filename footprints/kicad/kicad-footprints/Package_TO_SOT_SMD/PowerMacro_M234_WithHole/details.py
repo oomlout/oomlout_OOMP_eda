@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "PowerMacro_M234_WithHole")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/PowerMacro_M234_WithHole")
 
 newPart.addTag("kicadDesc", "TO-50-4 Power Macro Package Style M234")
 newPart.addTag("kicadTags", "TO-50-4 Power Macro Package Style M234")

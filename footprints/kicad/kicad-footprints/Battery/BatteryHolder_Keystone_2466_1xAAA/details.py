@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Keystone_2466_1xAAA")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Keystone_2466_1xAAA")
 
 newPart.addTag("kicadDesc", "1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031")
 newPart.addTag("kicadTags", "AAA battery holder Keystone")

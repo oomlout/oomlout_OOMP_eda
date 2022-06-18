@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "IQRF_TRx2D_KON-SIM-01")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/IQRF_TRx2D_KON-SIM-01")
 
 newPart.addTag("kicadDesc", "8 pin SIM connector for IQRF TR-x2D(C)(T) modules, http://iqrf.org/weben/downloads.php?id=104")
 newPart.addTag("kicadTags", "IQRF_KON-SIM-01 IQRF_TRx2D IQRF_TRx2DC")

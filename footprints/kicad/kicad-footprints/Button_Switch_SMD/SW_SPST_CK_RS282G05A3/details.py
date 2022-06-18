@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_CK_RS282G05A3")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_CK_RS282G05A3")
 
 newPart.addTag("kicadDesc", "https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf")
 newPart.addTag("kicadTags", "SPST button tactile switch")

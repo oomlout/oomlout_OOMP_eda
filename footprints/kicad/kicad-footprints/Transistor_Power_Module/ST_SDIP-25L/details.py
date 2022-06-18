@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transistor_Power_Module")
 newPart.addTag("oompIndex", "ST_SDIP-25L")
+newPart.addTag("oompName", "kicad-footprints/Transistor_Power_Module/ST_SDIP-25L")
 
 newPart.addTag("kicadDesc", "25-lead TH, SDIP-25L, https://www.st.com/resource/en/datasheet/stgips20k60.pdf")
 newPart.addTag("kicadTags", "igbt diode module")

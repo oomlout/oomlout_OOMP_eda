@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Mini-Circuits")
 newPart.addTag("oompIndex", "Mini-Circuits_CD541_H2.08mm")
+newPart.addTag("oompName", "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD541_H2.08mm")
 
 newPart.addTag("kicadDesc", "https://ww2.minicircuits.com/case_style/CD541.pdf")
 newPart.addTag("kicadTags", "RF Transformer")

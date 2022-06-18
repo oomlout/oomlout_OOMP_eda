@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_HC49-SD_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering")
 
 newPart.addTag("kicadDesc", "SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal hand-soldering")

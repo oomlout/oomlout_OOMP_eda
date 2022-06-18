@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TSOT-23-8_HandSoldering")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TSOT-23-8_HandSoldering")
 
 newPart.addTag("kicadDesc", "8-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_8_05-08-1637.pdf")
 newPart.addTag("kicadTags", "TSOT-23-8 Hand-soldering")

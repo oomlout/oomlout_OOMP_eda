@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_HCI-2212")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_HCI-2212")
 
 newPart.addTag("kicadDesc", "Inductor, Wuerth Elektronik, Wuerth_HCI-2212, 22.5mmx22.0mm")
 newPart.addTag("kicadTags", "inductor Wuerth hci smd")

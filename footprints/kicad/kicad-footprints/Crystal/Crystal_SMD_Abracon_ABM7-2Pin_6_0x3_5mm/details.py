@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf")
 newPart.addTag("kicadTags", "SMD SMT crystal")

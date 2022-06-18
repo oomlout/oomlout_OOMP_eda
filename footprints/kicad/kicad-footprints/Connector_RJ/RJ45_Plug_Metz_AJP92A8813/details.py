@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Plug_Metz_AJP92A8813")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Plug_Metz_AJP92A8813")
 
 newPart.addTag("kicadDesc", "plug, ethernet, 8P8C, RJ45 Plug")
 newPart.addTag("kicadTags", "AJP92A8813 8P8C RJ45 ethernet plug")

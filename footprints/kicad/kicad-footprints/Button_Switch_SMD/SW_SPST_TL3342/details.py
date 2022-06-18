@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_TL3342")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_TL3342")
 
 newPart.addTag("kicadDesc", "Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf")
 newPart.addTag("kicadTags", "SPST Tactile Switch")

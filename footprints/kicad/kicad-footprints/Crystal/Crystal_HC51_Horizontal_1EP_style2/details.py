@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_HC51_Horizontal_1EP_style2")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_HC51_Horizontal_1EP_style2")
 
 newPart.addTag("kicadDesc", "Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf")
 newPart.addTag("kicadTags", "THT crystal")

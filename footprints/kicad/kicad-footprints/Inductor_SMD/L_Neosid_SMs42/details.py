@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_SMs42")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_SMs42")
 
 newPart.addTag("kicadDesc", "Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs42.pdf")
 newPart.addTag("kicadTags", "Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded")

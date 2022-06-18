@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm")
 
 newPart.addTag("kicadDesc", "64-Lead Plastic Quad Flat No-Lead Package, 9x9mm Body (see Atmel Appnote 8826)")
 newPart.addTag("kicadTags", "QFN 0.5")

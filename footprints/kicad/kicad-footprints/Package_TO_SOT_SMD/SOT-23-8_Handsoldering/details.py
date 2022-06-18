@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-23-8_Handsoldering")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-23-8_Handsoldering")
 
 newPart.addTag("kicadDesc", "8-pin SOT-23 package, Handsoldering, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf")
 newPart.addTag("kicadTags", "SOT-23-8 Handsoldering")

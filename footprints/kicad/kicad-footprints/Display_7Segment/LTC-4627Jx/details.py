@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "LTC-4627Jx")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/LTC-4627Jx")
 
 newPart.addTag("kicadDesc", "http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf")
 newPart.addTag("kicadTags", "4 digit 7 segment LED")

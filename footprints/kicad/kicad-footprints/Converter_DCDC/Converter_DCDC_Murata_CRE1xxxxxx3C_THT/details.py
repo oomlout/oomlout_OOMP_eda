@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_Murata_CRE1xxxxxx3C_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_CRE1xxxxxx3C_THT")
 
 newPart.addTag("kicadDesc", "Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf")
 newPart.addTag("kicadTags", "Isolated 1W single output DC/DC")

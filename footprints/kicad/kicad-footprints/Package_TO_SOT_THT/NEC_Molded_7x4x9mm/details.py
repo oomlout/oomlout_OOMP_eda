@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "NEC_Molded_7x4x9mm")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/NEC_Molded_7x4x9mm")
 
 newPart.addTag("kicadDesc", "Molded Japan Transistor Package 7x4x9mm^3, http://rtellason.com/transdata/2sb734.pdf")
 newPart.addTag("kicadTags", "Japan transistor")

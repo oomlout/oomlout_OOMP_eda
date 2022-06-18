@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSOP-I-28_11.8x8mm_P0.55mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSOP-I-28_11.8x8mm_P0.55mm")
 
 newPart.addTag("kicadDesc", "TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)")
 newPart.addTag("kicadTags", "TSOP I 28 pins")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Infineon_PG-TSDSO-14-22")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Infineon_PG-TSDSO-14-22")
 
 newPart.addTag("kicadDesc", "Infineon_PG-TSDSO-14-22")
 newPart.addTag("kicadTags", "Infineon TSDSO 14-22")

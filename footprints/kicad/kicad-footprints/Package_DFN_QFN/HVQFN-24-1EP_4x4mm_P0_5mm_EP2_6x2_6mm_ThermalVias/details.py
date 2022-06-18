@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "HVQFN NoLead")

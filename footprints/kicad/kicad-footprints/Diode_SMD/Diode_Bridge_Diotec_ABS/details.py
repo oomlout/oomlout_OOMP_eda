@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_Diotec_ABS")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_ABS")
 
 newPart.addTag("kicadDesc", "SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf")
 newPart.addTag("kicadTags", "ABS MBLS")

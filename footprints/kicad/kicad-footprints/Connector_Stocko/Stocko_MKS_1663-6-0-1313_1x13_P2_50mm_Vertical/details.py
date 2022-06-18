@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Stocko")
 newPart.addTag("oompIndex", "Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Stocko RFK MKS 16xx")

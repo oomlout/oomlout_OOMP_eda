@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SIP")
 newPart.addTag("oompIndex", "SIP9_Housing_BigPads")
+newPart.addTag("oompName", "kicad-footprints/Package_SIP/SIP9_Housing_BigPads")
 
 newPart.addTag("kicadDesc", "SIP9, large pads")
 newPart.addTag("kicadTags", "SIP9")

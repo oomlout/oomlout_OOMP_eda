@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_DPDT_Omron_G6S-2")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_DPDT_Omron_G6S-2")
 
 newPart.addTag("kicadDesc", "Relay Omron G6S-2, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf")
 newPart.addTag("kicadTags", "Relay Omron G6S-2")

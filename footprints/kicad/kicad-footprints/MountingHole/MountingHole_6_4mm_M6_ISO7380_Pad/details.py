@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "MountingHole")
 newPart.addTag("oompIndex", "MountingHole_6.4mm_M6_ISO7380_Pad")
+newPart.addTag("oompName", "kicad-footprints/MountingHole/MountingHole_6.4mm_M6_ISO7380_Pad")
 
 newPart.addTag("kicadDesc", "Mounting Hole 6.4mm, M6, ISO7380")
 newPart.addTag("kicadTags", "mounting hole 6.4mm m6 iso7380")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin")
 
 newPart.addTag("kicadDesc", "Fuseholder ATO Blade littelfuse Pudenz 2 Pin")
 newPart.addTag("kicadTags", "Fuseholder ATO Blade littelfuse Pudenz 2 Pin")

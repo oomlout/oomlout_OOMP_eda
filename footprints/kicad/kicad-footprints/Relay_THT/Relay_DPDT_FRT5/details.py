@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_DPDT_FRT5")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_DPDT_FRT5")
 
 newPart.addTag("kicadDesc", "IM Signal Relay DPDT FRT5 narrow footprint")
 newPart.addTag("kicadTags", "Relay DPDT IM-relay FRT5")

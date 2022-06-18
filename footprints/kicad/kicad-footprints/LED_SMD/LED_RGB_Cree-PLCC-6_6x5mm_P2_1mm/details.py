@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm")
 
 newPart.addTag("kicadDesc", "http://www.farnell.com/datasheets/2003905.pdf")
 newPart.addTag("kicadTags", "LED RGB PLCC-6 CLP6C-FBK")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Resistor, Axial_DIN0614 series, Axial, Horizontal, pin pitch=20.32mm, 1.5W, length*diameter=14.3*5.7mm^2")
 newPart.addTag("kicadTags", "Resistor Axial_DIN0614 series Axial Horizontal pin pitch 20.32mm 1.5W length 14.3mm diameter 5.7mm")

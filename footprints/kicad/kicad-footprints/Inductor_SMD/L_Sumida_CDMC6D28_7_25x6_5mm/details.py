@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Sumida_CDMC6D28_7.25x6.5mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Sumida_CDMC6D28_7.25x6.5mm")
 
 newPart.addTag("kicadDesc", "SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)")
 newPart.addTag("kicadTags", "Inductor Sumida SMD CDMC6D28")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-277B")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-277B")
 
 newPart.addTag("kicadDesc", "TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf")
 newPart.addTag("kicadTags", "TO-277B")

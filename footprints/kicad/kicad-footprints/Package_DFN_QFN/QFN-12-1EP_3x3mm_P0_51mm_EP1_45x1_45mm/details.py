@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "QFN-12-1EP_3x3mm_P0.51mm_EP1.45x1.45mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/QFN-12-1EP_3x3mm_P0.51mm_EP1.45x1.45mm")
 
 newPart.addTag("kicadDesc", "QFN, 12 Pin (https://ww2.minicircuits.com/case_style/DQ1225.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "QFN NoLead")

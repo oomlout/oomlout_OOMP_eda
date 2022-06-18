@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_16.7x16.7x6.3mm_P10.8mm")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_16.7x16.7x6.3mm_P10.8mm")
 
 newPart.addTag("kicadDesc", "Single phase bridge rectifier case 16.7x16.7")
 newPart.addTag("kicadTags", "Diode Bridge")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_C_Receptacle_JAE_DX07S024WJ3R400")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S024WJ3R400")
 
 newPart.addTag("kicadDesc", "USB TYPE C, VERT RCPT PCB, SMT, http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117928.pdf")
 newPart.addTag("kicadTags", "USB C Type-C Receptacle SMD")

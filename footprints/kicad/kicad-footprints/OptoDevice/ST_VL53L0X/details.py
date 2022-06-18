@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "ST_VL53L0X")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/ST_VL53L0X")
 
 newPart.addTag("kicadDesc", "https://www.st.com/resource/en/datasheet/vl53l1x.pdf")
 newPart.addTag("kicadTags", "laser-ranging sensor")

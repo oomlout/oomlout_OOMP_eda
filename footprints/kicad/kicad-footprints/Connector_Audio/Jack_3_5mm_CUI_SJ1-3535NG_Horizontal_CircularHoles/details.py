@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles")
 
 newPart.addTag("kicadDesc", "TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf")
 newPart.addTag("kicadTags", "TRS audio jack stereo horizontal circular")

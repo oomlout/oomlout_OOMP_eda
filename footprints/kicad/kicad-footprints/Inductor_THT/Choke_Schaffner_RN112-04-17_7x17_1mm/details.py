@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "Choke_Schaffner_RN112-04-17.7x17.1mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/Choke_Schaffner_RN112-04-17.7x17.1mm")
 
 newPart.addTag("kicadDesc", "Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/")
 newPart.addTag("kicadTags", "chokes schaffner tht")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "Xilinx_RS484")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/Xilinx_RS484")
 
 newPart.addTag("kicadDesc", "Artix-7 BGA, 22x22 grid, 19x19mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=279, NSMD pad definition Appendix A")
 newPart.addTag("kicadTags", "BGA 484 0.8 RS484")

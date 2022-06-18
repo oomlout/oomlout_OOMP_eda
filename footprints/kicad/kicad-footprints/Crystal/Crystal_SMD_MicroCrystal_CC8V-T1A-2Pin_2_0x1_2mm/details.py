@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal")

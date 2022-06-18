@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_B_TE_5787834_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_B_TE_5787834_Vertical")
 
 newPart.addTag("kicadDesc", "http://www.mouser.com/ds/2/418/NG_CD_5787834_A4-669110.pdf")
 newPart.addTag("kicadTags", "USB_B USB B vertical female connector")

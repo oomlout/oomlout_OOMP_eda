@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSOP-I-32_16.4x8mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSOP-I-32_16.4x8mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "TSOP-I, 32 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation BC), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "TSOP-I SO")

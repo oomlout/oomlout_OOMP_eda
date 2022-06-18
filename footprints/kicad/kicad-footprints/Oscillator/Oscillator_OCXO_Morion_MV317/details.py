@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_OCXO_Morion_MV317")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV317")
 
 newPart.addTag("kicadDesc", "https://www.morion-us.com/catalog_pdf/mv317.pdf")
 newPart.addTag("kicadTags", "OCXO")

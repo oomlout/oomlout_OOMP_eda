@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "LFCSP NoLead")

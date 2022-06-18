@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_MPD_BC2AAPC_2xAA")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA")
 
 newPart.addTag("kicadDesc", "2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf")
 newPart.addTag("kicadTags", "AA battery cell holder")

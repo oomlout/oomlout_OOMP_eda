@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_Omron_G6E")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_Omron_G6E")
 
 newPart.addTag("kicadDesc", "Relay SPDT Omron Serie G6E")
 newPart.addTag("kicadTags", "Relay SPDT Omron Serie G6E 1x um")

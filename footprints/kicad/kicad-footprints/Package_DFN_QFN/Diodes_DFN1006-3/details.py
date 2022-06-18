@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Diodes_DFN1006-3")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Diodes_DFN1006-3")
 
 newPart.addTag("kicadDesc", "DFN package size 1006 3 pins")
 newPart.addTag("kicadTags", "DFN package size 1006 3 pins")

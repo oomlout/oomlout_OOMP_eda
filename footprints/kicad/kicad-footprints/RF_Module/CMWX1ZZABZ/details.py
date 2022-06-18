@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "CMWX1ZZABZ")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/CMWX1ZZABZ")
 
 newPart.addTag("kicadDesc", "https://wireless.murata.com/RFM/data/type_abz.pdf")
 newPart.addTag("kicadTags", "iot lora sigfox")

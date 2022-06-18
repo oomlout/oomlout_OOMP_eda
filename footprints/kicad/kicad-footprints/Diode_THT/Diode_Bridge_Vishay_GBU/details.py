@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_Vishay_GBU")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_Vishay_GBU")
 
 newPart.addTag("kicadDesc", "Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf")
 newPart.addTag("kicadTags", "Vishay GBU rectifier diode bridge")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "TDFN-8_1.4x1.6mm_P0.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/TDFN-8_1.4x1.6mm_P0.4mm")
 
 newPart.addTag("kicadDesc", "TDFN, 8 Pin (https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "TDFN NoLead")

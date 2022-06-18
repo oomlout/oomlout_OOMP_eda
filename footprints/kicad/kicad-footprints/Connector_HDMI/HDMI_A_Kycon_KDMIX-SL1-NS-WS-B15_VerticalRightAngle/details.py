@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_HDMI")
 newPart.addTag("oompIndex", "HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle")
+newPart.addTag("oompName", "kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle")
 
 newPart.addTag("kicadDesc", "HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf")
 newPart.addTag("kicadTags", "hdmi type a")

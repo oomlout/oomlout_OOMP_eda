@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_MeanWell_NID60_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_MeanWell_NID60_THT")
 
 newPart.addTag("kicadDesc", "MeanWell NID60, http://www.meanwell.com/Upload/PDF/NID60/NID60-SPEC.PDF")
 newPart.addTag("kicadTags", "MeanWell NID60")

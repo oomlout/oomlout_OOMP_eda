@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DirectFET")
 newPart.addTag("oompIndex", "DirectFET_S3C")
+newPart.addTag("oompName", "kicad-footprints/Package_DirectFET/DirectFET_S3C")
 
 newPart.addTag("kicadDesc", "DirectFET S3C https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=25")
 newPart.addTag("kicadTags", "DirectFET S3C MOSFET Infineon")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
 
 newPart.addTag("kicadDesc", "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "fuse handsolder")

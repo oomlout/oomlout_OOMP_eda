@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "microSD_HC_Wuerth_693072010801")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801")
 
 newPart.addTag("kicadDesc", "http://katalog.we-online.de/em/datasheet/693072010801.pdf")
 newPart.addTag("kicadTags", "Micro SD Wuerth Wurth Würth")

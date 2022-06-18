@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-201AE_P3.81mm_Vertical_AnodeUp")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-201AE_P3.81mm_Vertical_AnodeUp")
 
 newPart.addTag("kicadDesc", "Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf")
 newPart.addTag("kicadTags", "Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DirectFET")
 newPart.addTag("oompIndex", "DirectFET_ST")
+newPart.addTag("oompName", "kicad-footprints/Package_DirectFET/DirectFET_ST")
 
 newPart.addTag("kicadDesc", "DirectFET ST https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=16")
 newPart.addTag("kicadTags", "DirectFET ST MOSFET Infineon")

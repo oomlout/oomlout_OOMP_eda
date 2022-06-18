@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_SlimStack_53748-0608_2x30_P0.50mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_SlimStack_53748-0608_2x30_P0.50mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0608, 60 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex SlimStack vertical")

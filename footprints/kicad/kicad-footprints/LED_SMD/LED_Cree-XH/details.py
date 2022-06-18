@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Cree-XH")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Cree-XH")
 
 newPart.addTag("kicadDesc", "http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XHB.pdf")
 newPart.addTag("kicadTags", "LED Cree XH")

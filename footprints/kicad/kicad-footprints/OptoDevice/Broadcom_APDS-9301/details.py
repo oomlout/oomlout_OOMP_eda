@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Broadcom_APDS-9301")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Broadcom_APDS-9301")
 
 newPart.addTag("kicadDesc", "ambient light sensor, i2c interface, 6-pin chipled package, https://docs.broadcom.com/docs/AV02-2315EN")
 newPart.addTag("kicadTags", "ambient light sensor chipled")

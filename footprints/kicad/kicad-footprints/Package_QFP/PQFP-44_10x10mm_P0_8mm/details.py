@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "PQFP-44_10x10mm_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/PQFP-44_10x10mm_P0.8mm")
 
 newPart.addTag("kicadDesc", "44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)")
 newPart.addTag("kicadTags", "PQFP 0.8")

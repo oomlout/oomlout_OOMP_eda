@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30")
 
 newPart.addTag("kicadDesc", "Transformer, Toroid, tapped, horizontal, laying, Diameter 9mm, Amidon, T30,")
 newPart.addTag("kicadTags", "Transformer Toroid tapped horizontal laying Diameter 9mm Amidon T30")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Wuerth_7499111446_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Wuerth_7499111446_Horizontal")
 
 newPart.addTag("kicadDesc", "LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT")
 newPart.addTag("kicadTags", "ethernet lan connector")

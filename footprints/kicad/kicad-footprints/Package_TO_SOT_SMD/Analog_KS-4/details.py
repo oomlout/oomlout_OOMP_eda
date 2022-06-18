@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Analog_KS-4")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Analog_KS-4")
 
 newPart.addTag("kicadDesc", "Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf")
 newPart.addTag("kicadTags", "Analog Devices KS-4 (like EIAJ SC-82)")

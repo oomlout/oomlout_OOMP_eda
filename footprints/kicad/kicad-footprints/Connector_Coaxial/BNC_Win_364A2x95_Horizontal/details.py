@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "BNC_Win_364A2x95_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/BNC_Win_364A2x95_Horizontal")
 
 newPart.addTag("kicadDesc", "Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)")
 newPart.addTag("kicadTags", "Dual BNC Horizontal Isolated")

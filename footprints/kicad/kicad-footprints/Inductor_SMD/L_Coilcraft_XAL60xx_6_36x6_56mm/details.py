@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Coilcraft_XAL60xx_6.36x6.56mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Coilcraft_XAL60xx_6.36x6.56mm")
 
 newPart.addTag("kicadDesc", "Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf")
 newPart.addTag("kicadTags", "L Coilcraft XAL60xx")

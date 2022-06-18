@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Amphenol_RJHSE538X-02")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Amphenol_RJHSE538X-02")
 
 newPart.addTag("kicadDesc", "Shielded, 2 LED, 2 Ports, http://www.amphenolinfocom.eu/NavData/Drawings/RJHSE-538X-02-REVC.pdf")
 newPart.addTag("kicadTags", "RJ45 8p8c dual ethernet cat5")

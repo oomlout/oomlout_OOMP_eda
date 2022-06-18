@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "MFSOP6-5_4.4x3.6mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/MFSOP6-5_4.4x3.6mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.5pin%20MFSOP6.html")
 newPart.addTag("kicadTags", "MFSOP 4 pin SMD")

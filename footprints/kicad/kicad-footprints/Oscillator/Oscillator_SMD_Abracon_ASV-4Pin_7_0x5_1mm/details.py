@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm")
 
 newPart.addTag("kicadDesc", "Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, 7.0x5.1mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

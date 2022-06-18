@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open")
 
 newPart.addTag("kicadDesc", "Fuseholder, horizontal, open, 6.3x32, Schurter, 0031.8002, https://www.schurter.com/en/datasheet/typ_OG__Holder__6.3x32.pdf")
 newPart.addTag("kicadTags", "Fuseholder horizontal open 6.3x32 Schurter 0031.8002")

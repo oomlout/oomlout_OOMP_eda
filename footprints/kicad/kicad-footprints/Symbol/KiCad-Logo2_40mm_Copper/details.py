@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "KiCad-Logo2_40mm_Copper")
+newPart.addTag("oompName", "kicad-footprints/Symbol/KiCad-Logo2_40mm_Copper")
 
 newPart.addTag("kicadDesc", "KiCad Logo")
 newPart.addTag("kicadTags", "Logo KiCad")

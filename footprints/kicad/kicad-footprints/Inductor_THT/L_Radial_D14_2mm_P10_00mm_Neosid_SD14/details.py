@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Radial_D14.2mm_P10.00mm_Neosid_SD14")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Radial_D14.2mm_P10.00mm_Neosid_SD14")
 
 newPart.addTag("kicadDesc", "Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=14.2mm, Neosid, SD14, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd14.pdf")
 newPart.addTag("kicadTags", "Inductor Radial series Radial pin pitch 10.00mm  diameter 14.2mm Neosid SD14")

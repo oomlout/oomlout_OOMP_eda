@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_WE-TPC-3816")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_WE-TPC-3816")
 
 newPart.addTag("kicadDesc", "L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf")
 newPart.addTag("kicadTags", "wurth wuerth smd inductor")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm")
 
 newPart.addTag("kicadDesc", "http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf")
 newPart.addTag("kicadTags", "RGB LED NeoPixel addressable")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Hanrun_HR911105A")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Hanrun_HR911105A")
 
 newPart.addTag("kicadDesc", "http://www.kosmodrom.com.ua/pdf/HR911105A.pdf")
 newPart.addTag("kicadTags", "RJ45 Magjack")

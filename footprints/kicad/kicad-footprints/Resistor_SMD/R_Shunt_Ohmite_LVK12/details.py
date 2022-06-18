@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_Shunt_Ohmite_LVK12")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12")
 
 newPart.addTag("kicadDesc", "4 contact shunt resistor")
 newPart.addTag("kicadTags", "shunt resistor 4 contacts")

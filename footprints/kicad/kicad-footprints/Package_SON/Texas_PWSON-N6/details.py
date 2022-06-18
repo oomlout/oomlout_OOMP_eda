@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Texas_PWSON-N6")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Texas_PWSON-N6")
 
 newPart.addTag("kicadDesc", "Plastic Small Outline No-Lead http://www.ti.com/lit/ml/mpds176e/mpds176e.pdf")
 newPart.addTag("kicadTags", "Plastic Small Outline No-Lead")

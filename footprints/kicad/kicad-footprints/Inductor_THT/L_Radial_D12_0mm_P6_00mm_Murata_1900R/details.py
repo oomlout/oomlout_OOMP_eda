@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Radial_D12.0mm_P6.00mm_Murata_1900R")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P6.00mm_Murata_1900R")
 
 newPart.addTag("kicadDesc", "Inductor, Radial series, Radial, pin pitch=6.00mm, , diameter=12.0mm, MuRATA, 1900R, http://www.murata-ps.com/data/magnetics/kmp_1900r.pdf")
 newPart.addTag("kicadTags", "Inductor Radial series Radial pin pitch 6.00mm  diameter 12.0mm MuRATA 1900R")

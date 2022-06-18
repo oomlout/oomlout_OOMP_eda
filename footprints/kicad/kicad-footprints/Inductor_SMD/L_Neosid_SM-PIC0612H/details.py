@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Neosid_SM-PIC0612H")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC0612H")
 
 newPart.addTag("kicadDesc", "Neosid, Power Inductor, SM-PIC0612H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0612H.pdf")
 newPart.addTag("kicadTags", "Neosid Power Inductor SM-PIC0612H Fixed inductor SMD")

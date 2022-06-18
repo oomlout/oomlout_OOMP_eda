@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_USB")
 newPart.addTag("oompIndex", "USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_USB/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")
 
 newPart.addTag("kicadDesc", "Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf")
 newPart.addTag("kicadTags", "USB USB_B USB_micro USB_OTG")

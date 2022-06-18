@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_12x12mm_H4.5mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_12x12mm_H4.5mm")
 
 newPart.addTag("kicadDesc", "Choke, SMD, 12x12mm 4.5mm height")
 newPart.addTag("kicadTags", "Choke SMD")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SC-70-8")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SC-70-8")
 
 newPart.addTag("kicadDesc", "SC70-8")
 newPart.addTag("kicadTags", "SC70-8")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_RGB_Getian_GT-P6PRGB4303")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_RGB_Getian_GT-P6PRGB4303")
 
 newPart.addTag("kicadDesc", "https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf")
 newPart.addTag("kicadTags", "LED RGB")

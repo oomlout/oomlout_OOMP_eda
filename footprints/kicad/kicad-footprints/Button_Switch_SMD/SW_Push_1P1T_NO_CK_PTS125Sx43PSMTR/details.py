@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR")
 
 newPart.addTag("kicadDesc", "C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs, https://www.ckswitches.com/media/1462/pts125.pdf")
 newPart.addTag("kicadTags", "Button Tactile Switch SPST 1P1T")

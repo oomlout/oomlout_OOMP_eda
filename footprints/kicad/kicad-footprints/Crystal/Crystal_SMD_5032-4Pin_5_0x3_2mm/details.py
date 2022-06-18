@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_SMD_5032-4Pin_5.0x3.2mm")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_SMD_5032-4Pin_5.0x3.2mm")
 
 newPart.addTag("kicadDesc", "SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal")

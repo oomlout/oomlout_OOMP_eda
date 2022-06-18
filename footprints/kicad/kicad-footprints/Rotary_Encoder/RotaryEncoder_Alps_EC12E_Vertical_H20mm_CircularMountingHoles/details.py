@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Rotary_Encoder")
 newPart.addTag("oompIndex", "RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles")
 
 newPart.addTag("kicadDesc", "Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html")
 newPart.addTag("kicadTags", "rotary encoder")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_FFC-FPC")
 newPart.addTag("oompIndex", "TE_2-84953-1_1x21-1MP_P1.0mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_FFC-FPC/TE_2-84953-1_1x21-1MP_P1.0mm_Horizontal")
 
 newPart.addTag("kicadDesc", "TE FPC connector, 21 top-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84953&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84953-4")
 newPart.addTag("kicadTags", "te fpc 84953")

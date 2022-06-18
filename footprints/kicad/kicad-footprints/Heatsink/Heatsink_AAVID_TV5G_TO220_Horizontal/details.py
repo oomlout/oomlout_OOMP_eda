@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Heatsink")
 newPart.addTag("oompIndex", "Heatsink_AAVID_TV5G_TO220_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Heatsink/Heatsink_AAVID_TV5G_TO220_Horizontal")
 
 newPart.addTag("kicadDesc", "Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G")
 newPart.addTag("kicadTags", "Heatsink TV5G TO-220 Horizontal")

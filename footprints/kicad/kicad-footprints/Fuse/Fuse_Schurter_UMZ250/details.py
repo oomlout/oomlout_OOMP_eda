@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuse_Schurter_UMZ250")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuse_Schurter_UMZ250")
 
 newPart.addTag("kicadDesc", "Surface Mount Fuse with Clip, 4.2 x 11.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMZ_250.pdf)")
 newPart.addTag("kicadTags", "fuse smd mount holder")

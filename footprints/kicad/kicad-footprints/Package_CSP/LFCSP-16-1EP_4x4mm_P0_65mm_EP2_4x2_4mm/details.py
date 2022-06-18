@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm")
 
 newPart.addTag("kicadDesc", "LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "LFCSP NoLead")

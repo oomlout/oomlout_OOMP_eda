@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_THT")
 newPart.addTag("oompIndex", "Transformer_NF_ETAL_P1165")
+newPart.addTag("oompName", "kicad-footprints/Transformer_THT/Transformer_NF_ETAL_P1165")
 
 newPart.addTag("kicadDesc", "NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf")
 newPart.addTag("kicadTags", "NF-Transformer ETAL P1165")

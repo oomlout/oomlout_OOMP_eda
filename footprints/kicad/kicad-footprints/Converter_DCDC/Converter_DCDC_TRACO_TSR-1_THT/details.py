@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Converter_DCDC")
 newPart.addTag("oompIndex", "Converter_DCDC_TRACO_TSR-1_THT")
+newPart.addTag("oompName", "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TSR-1_THT")
 
 newPart.addTag("kicadDesc", "DCDC-Converter, TRACO, TSR 1-xxxx")
 newPart.addTag("kicadTags", "DCDC-Converter TRACO TSR-1")

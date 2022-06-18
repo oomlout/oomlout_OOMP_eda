@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SSO-7-8_6.4x9.78mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SSO-7-8_6.4x9.78mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "SSO, 7 Pin (https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SSO SO")

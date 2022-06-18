@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Mount_Lodestone_VTM160")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Mount_Lodestone_VTM160")
 
 newPart.addTag("kicadDesc", "Lodestone Pacific, 40.64mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf")
 newPart.addTag("kicadTags", "vertical inductor toroid mount")

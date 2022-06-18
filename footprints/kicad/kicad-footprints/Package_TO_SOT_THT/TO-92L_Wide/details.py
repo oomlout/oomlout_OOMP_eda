@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-92L_Wide")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-92L_Wide")
 
 newPart.addTag("kicadDesc", "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)")
 newPart.addTag("kicadTags", "TO-92L Molded Wide transistor")

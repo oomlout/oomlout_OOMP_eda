@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_Vishay_DFSFlat")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFSFlat")
 
 newPart.addTag("kicadDesc", "SMD diode bridge Low Profile DFS \"Flat\", see http://www.vishay.com/docs/88874/dfl15005.pdf")
 newPart.addTag("kicadTags", "DFS")

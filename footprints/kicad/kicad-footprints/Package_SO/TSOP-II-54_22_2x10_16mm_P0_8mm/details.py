@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "TSOP-II-54_22.2x10.16mm_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/TSOP-II-54_22.2x10.16mm_P0.8mm")
 
 newPart.addTag("kicadDesc", "54-lead TSOP typ II package")
 newPart.addTag("kicadTags", "TSOPII TSOP2")

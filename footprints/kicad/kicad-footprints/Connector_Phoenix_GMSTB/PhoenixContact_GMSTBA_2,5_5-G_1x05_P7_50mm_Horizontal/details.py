@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Phoenix_GMSTB")
 newPart.addTag("oompIndex", "PhoenixContact_GMSTBA_2,5_5-G_1x05_P7.50mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBA_2,5_5-G_1x05_P7.50mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Generic Phoenix Contact connector footprint for: GMSTBA_2,5/5-G; number of pins: 05; pin pitch: 7.50mm; Angled || order number: 1766372 12A 630V")
 newPart.addTag("kicadTags", "phoenix_contact connector GMSTBA_01x05_G_7.50mm")

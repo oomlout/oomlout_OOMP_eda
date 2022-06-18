@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "WLCSP-16_1.409x1.409mm_P0.35mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm")
 
 newPart.addTag("kicadDesc", "WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213")
 newPart.addTag("kicadTags", "CSP 16 0.35")

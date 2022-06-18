@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Vishay_MINIMOLD-3Pin")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Vishay_MINIMOLD-3Pin")
 
 newPart.addTag("kicadDesc", "IR Receiver Vishay TSOP-xxxx, MINIMOLD package, see https://www.vishay.com/docs/82742/tsop331.pdf")
 newPart.addTag("kicadTags", "IR Receiver Vishay TSOP-xxxx MINIMOLD")

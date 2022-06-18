@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "DA04-11SYKWA")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/DA04-11SYKWA")
 
 newPart.addTag("kicadDesc", "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SYKWA(Ver.6A).pdf")
 newPart.addTag("kicadTags", "Dubble digit super bright yellow 7 segment LED display")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Pin")
 newPart.addTag("oompIndex", "Pin_D1.3mm_L11.3mm_W2.8mm_Flat")
+newPart.addTag("oompName", "kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.3mm_W2.8mm_Flat")
 
 newPart.addTag("kicadDesc", "solder Pin_ with flat with hole, hole diameter 1.3mm, length 11.3mm, width 2.8mm")
 newPart.addTag("kicadTags", "solder Pin_ with flat fork")

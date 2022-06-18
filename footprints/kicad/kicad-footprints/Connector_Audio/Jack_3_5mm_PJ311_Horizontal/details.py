@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "Jack_3.5mm_PJ311_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/Jack_3.5mm_PJ311_Horizontal")
 
 newPart.addTag("kicadDesc", "PJ311 6pin SMD 3.5mm stereo headphones jack.")
 newPart.addTag("kicadTags", "headphones jack plug stereo 3.5mm PJ311")

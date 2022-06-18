@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "U.FL_Molex_MCRF_73412-0110_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/U.FL_Molex_MCRF_73412-0110_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)")
 newPart.addTag("kicadTags", "mcrf hirose ufl u.fl microcoaxial")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_SPST_SKQG_WithStem")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_SPST_SKQG_WithStem")
 
 newPart.addTag("kicadDesc", "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 newPart.addTag("kicadTags", "SPST Button Switch")

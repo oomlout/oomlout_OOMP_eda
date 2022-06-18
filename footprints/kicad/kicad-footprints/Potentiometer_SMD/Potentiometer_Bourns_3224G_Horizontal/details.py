@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Potentiometer_SMD")
 newPart.addTag("oompIndex", "Potentiometer_Bourns_3224G_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3224G_Horizontal")
 
 newPart.addTag("kicadDesc", "Potentiometer, horizontal, Bourns 3224G, https://www.bourns.com/docs/Product-Datasheets/3224.pdf")
 newPart.addTag("kicadTags", "Potentiometer horizontal Bourns 3224G")

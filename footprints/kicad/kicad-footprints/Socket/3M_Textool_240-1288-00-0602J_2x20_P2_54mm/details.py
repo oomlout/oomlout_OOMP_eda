@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Socket")
 newPart.addTag("oompIndex", "3M_Textool_240-1288-00-0602J_2x20_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm")
 
 newPart.addTag("kicadDesc", "3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)")
 newPart.addTag("kicadTags", "THT DIP DIL ZIF 25.4mm 1000mil Socket")

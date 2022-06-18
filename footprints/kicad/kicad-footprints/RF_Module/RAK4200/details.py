@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "RAK4200")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/RAK4200")
 
 newPart.addTag("kicadDesc", "RAK4200 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK4200/Hardware-Specification/RAK4200_Module_Specifications_V1.4.pdf")
 newPart.addTag("kicadTags", "LoRa LoRaWAN RAK4200")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_Vishay_KBPM")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBPM")
 
 newPart.addTag("kicadDesc", "Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)")
 newPart.addTag("kicadTags", "Vishay KBM rectifier diode bridge")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-220-5_Horizontal_TabUp")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-220-5_Horizontal_TabUp")
 
 newPart.addTag("kicadDesc", "TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf")
 newPart.addTag("kicadTags", "TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5")

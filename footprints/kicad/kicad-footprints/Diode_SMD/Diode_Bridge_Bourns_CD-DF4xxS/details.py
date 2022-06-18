@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "Diode_Bridge_Bourns_CD-DF4xxS")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/Diode_Bridge_Bourns_CD-DF4xxS")
 
 newPart.addTag("kicadDesc", "8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf")
 newPart.addTag("kicadTags", "Surface Mount Bridge Rectifier Diode")

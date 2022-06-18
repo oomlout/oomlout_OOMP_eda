@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_SMD")
 newPart.addTag("oompIndex", "R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm")
+newPart.addTag("oompName", "kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm")
 
 newPart.addTag("kicadDesc", "Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)")
 newPart.addTag("kicadTags", "resistor shunt WSK2512")

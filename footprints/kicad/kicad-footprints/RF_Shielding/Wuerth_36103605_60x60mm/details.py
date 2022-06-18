@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Shielding")
 newPart.addTag("oompIndex", "Wuerth_36103605_60x60mm")
+newPart.addTag("oompName", "kicad-footprints/RF_Shielding/Wuerth_36103605_60x60mm")
 
 newPart.addTag("kicadDesc", "WE-SHC Shielding Cabinet SMD 60x60mm")
 newPart.addTag("kicadTags", "Shielding Cabinet")

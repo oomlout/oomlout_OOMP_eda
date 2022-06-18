@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Infineon_PG-TISON-8-3")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Infineon_PG-TISON-8-3")
 
 newPart.addTag("kicadDesc", "Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/")
 newPart.addTag("kicadTags", "tison")

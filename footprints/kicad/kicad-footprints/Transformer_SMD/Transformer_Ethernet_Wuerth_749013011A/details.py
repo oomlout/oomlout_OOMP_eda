@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Transformer_SMD")
 newPart.addTag("oompIndex", "Transformer_Ethernet_Wuerth_749013011A")
+newPart.addTag("oompName", "kicad-footprints/Transformer_SMD/Transformer_Ethernet_Wuerth_749013011A")
 
 newPart.addTag("kicadDesc", "Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf")
 newPart.addTag("kicadTags", "Ethernet Transformer")

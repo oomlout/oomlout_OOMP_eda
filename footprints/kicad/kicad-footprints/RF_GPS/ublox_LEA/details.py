@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GPS")
 newPart.addTag("oompIndex", "ublox_LEA")
+newPart.addTag("oompName", "kicad-footprints/RF_GPS/ublox_LEA")
 
 newPart.addTag("kicadDesc", "ublox LEA 6/7/8, (https://www.u-blox.com/sites/default/files/LEA-M8S-M8T-FW3_HardwareIntegrationManual_%28UBX-15030060%29.pdf)")
 newPart.addTag("kicadTags", "GPS ublox LEA 6/7/8")

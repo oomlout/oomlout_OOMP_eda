@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "TO-263-2_TabPin1")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/TO-263-2_TabPin1")
 
 newPart.addTag("kicadDesc", "TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf")
 newPart.addTag("kicadTags", "D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode")

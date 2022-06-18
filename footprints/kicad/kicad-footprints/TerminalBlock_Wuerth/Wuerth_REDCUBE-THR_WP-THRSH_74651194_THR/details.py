@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_Wuerth")
 newPart.addTag("oompIndex", "Wuerth_REDCUBE-THR_WP-THRSH_74651194_THR")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRSH_74651194_THR")
 
 newPart.addTag("kicadDesc", "REDCUBE THR with internal through-hole thread WP-THRSH (https://www.we-online.de/katalog/datasheet/74651194.pdf)")
 newPart.addTag("kicadTags", "screw terminal thread redcube thr power connector")

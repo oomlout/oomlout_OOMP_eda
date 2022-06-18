@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Panelmate_53780-1070_1x10-1MP_P1.25mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Panelmate series connector, 53780-1070 (), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Panelmate top entry")

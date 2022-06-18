@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm")
 
 newPart.addTag("kicadDesc", "UQFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=332), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "UQFN NoLead")

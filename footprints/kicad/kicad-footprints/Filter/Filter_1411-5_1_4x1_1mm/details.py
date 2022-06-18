@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_1411-5_1.4x1.1mm")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_1411-5_1.4x1.1mm")
 
 newPart.addTag("kicadDesc", "5-pin filter package - 1.4x1.1 mm Body; (see https://global.kyocera.com/prdct/electro/product/pdf/sf14_tdlte.pdf)")
 newPart.addTag("kicadTags", "Filter 5")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "MonoWireless_TWE-L-WX")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/MonoWireless_TWE-L-WX")
 
 newPart.addTag("kicadDesc", "https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf")
 newPart.addTag("kicadTags", "TWE-L-WX")

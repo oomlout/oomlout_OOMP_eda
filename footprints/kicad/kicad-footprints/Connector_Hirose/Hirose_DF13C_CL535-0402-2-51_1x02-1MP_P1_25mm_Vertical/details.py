@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Hirose")
 newPart.addTag("oompIndex", "Hirose_DF13C_CL535-0402-2-51_1x02-1MP_P1.25mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0402-2-51_1x02-1MP_P1.25mm_Vertical")
 
 newPart.addTag("kicadDesc", "Hirose DF13C SMD, CL535-0402-2-51, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Hirose DF13C vertical")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_BGA")
 newPart.addTag("oompIndex", "BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm")
+newPart.addTag("oompName", "kicad-footprints/Package_BGA/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm")
 
 newPart.addTag("kicadDesc", "BGA-1023")
 newPart.addTag("kicadTags", "BGA-1023")

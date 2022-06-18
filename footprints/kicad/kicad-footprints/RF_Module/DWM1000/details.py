@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "DWM1000")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/DWM1000")
 
 newPart.addTag("kicadDesc", "IEEE802.15.4-2011 UWB")
 newPart.addTag("kicadTags", "UWB Module")

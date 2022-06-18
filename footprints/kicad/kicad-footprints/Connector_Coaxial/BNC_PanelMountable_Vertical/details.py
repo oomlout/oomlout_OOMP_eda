@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Coaxial")
 newPart.addTag("oompIndex", "BNC_PanelMountable_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical")
 
 newPart.addTag("kicadDesc", "Panel-mountable BNC connector mounted through PCB, vertical")
 newPart.addTag("kicadTags", "BNC connector")

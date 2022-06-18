@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Micro-Latch_53253-0670_1x06_P2.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Micro-Latch_53253-0670_1x06_P2.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Micro-Latch Wire-to-Board Connector System, 53253-0670 (compatible alternatives: 53253-0650), 6 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Micro-Latch side entry")

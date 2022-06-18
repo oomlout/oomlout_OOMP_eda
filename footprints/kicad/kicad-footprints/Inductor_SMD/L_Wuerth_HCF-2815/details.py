@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Wuerth_HCF-2815")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Wuerth_HCF-2815")
 
 newPart.addTag("kicadDesc", "74436410150, http://katalog.we-online.de/pbs/datasheet/74436410150.pdf")
 newPart.addTag("kicadTags", "inductor shielded wuerth hcf")

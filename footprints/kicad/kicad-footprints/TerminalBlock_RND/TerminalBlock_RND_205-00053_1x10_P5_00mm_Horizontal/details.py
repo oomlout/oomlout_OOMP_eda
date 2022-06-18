@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "TerminalBlock_RND")
 newPart.addTag("oompIndex", "TerminalBlock_RND_205-00053_1x10_P5.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00053_1x10_P5.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "terminal block RND 205-00053, 10 pins, pitch 5mm, size 50x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND")
 newPart.addTag("kicadTags", "THT terminal block RND 205-00053 pitch 5mm size 50x8.1mm^2 drill 1.1mm pad 2.1mm")

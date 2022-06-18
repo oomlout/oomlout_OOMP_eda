@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SO-6L_10x3.84mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SO-6L_10x3.84mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "6-pin plasic small outline 7,5mm long https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770")
 newPart.addTag("kicadTags", "SO-6L")

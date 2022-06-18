@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.3*2.2mm^2, Vishay, IM-1, http://www.vishay.com/docs/34030/im.pdf")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 5.3mm diameter 2.2mm Vishay IM-1")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Filter")
 newPart.addTag("oompIndex", "Filter_FILTERCON_1FPxx")
+newPart.addTag("oompName", "kicad-footprints/Filter/Filter_FILTERCON_1FPxx")
 
 newPart.addTag("kicadDesc", "0.5A, 250VAC, 50/60Hz line filter (https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)")
 newPart.addTag("kicadTags", "EMI filter")

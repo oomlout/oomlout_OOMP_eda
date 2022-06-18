@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "D_DO-201AE_P12.70mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/D_DO-201AE_P12.70mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Diode, DO-201AE series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf")
 newPart.addTag("kicadTags", "Diode DO-201AE series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 5.3mm")

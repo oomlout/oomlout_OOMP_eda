@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Resistor_THT")
 newPart.addTag("oompIndex", "R_Axial_Power_L25.0mm_W9.0mm_P7.62mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Resistor_THT/R_Axial_Power_L25.0mm_W9.0mm_P7.62mm_Vertical")
 
 newPart.addTag("kicadDesc", "Resistor, Axial_Power series, Axial, Vertical, pin pitch=7.62mm, 7W, length*width*height=25*9*9mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf")
 newPart.addTag("kicadTags", "Resistor Axial_Power series Axial Vertical pin pitch 7.62mm 7W length 25mm width 9mm height 9mm")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm")
 
 newPart.addTag("kicadDesc", "HUSON, 3 Pin, SOT1061 (Ref: https://assets.nexperia.com/documents/data-sheet/PMEG2020CPA.pdf)")
 newPart.addTag("kicadTags", "huson nolead SOT1061")

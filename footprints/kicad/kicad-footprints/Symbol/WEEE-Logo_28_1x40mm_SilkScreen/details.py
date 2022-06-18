@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "WEEE-Logo_28.1x40mm_SilkScreen")
+newPart.addTag("oompName", "kicad-footprints/Symbol/WEEE-Logo_28.1x40mm_SilkScreen")
 
 newPart.addTag("kicadDesc", "Waste Electrical and Electronic Equipment Directive")
 newPart.addTag("kicadTags", "Logo WEEE")

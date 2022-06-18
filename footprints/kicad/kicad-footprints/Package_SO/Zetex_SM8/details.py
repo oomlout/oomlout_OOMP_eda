@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Zetex_SM8")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Zetex_SM8")
 
 newPart.addTag("kicadDesc", "Zetex,  SMD, 8 pin package (http://datasheet.octopart.com/ZDT6758TA-Zetex-datasheet-68057.pdf)")
 newPart.addTag("kicadTags", "Zetex SM8")

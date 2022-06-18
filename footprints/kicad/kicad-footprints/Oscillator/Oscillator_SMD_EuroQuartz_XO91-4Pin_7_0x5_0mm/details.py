@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm")
 
 newPart.addTag("kicadDesc", "Miniature Crystal Clock Oscillator EuroQuartz XO91 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf, 7.0x5.0mm^2 package")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

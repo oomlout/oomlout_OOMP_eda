@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Valve")
 newPart.addTag("oompIndex", "Valve_ECC-83-1")
+newPart.addTag("oompName", "kicad-footprints/Valve/Valve_ECC-83-1")
 
 newPart.addTag("kicadDesc", "Valve ECC-83-1 round pins")
 newPart.addTag("kicadTags", "Valve ECC-83-1 round pins")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-723")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-723")
 
 newPart.addTag("kicadDesc", "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
 newPart.addTag("kicadTags", "sot 723")

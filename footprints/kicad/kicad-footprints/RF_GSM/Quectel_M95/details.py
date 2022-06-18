@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GSM")
 newPart.addTag("oompIndex", "Quectel_M95")
+newPart.addTag("oompName", "kicad-footprints/RF_GSM/Quectel_M95")
 
 newPart.addTag("kicadDesc", "Quad-Band GSM/GPRS module, 19.9x23.6x2.65mm, https://www.quectel.com/UploadImage/Downlad/M95_Hardware_Design_V1.3.pdf")
 newPart.addTag("kicadTags", "GSM Module M95")

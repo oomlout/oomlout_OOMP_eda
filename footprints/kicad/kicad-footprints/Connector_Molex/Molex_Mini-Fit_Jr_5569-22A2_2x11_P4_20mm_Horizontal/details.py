@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Mini-Fit_Jr_5569-22A2_2x11_P4.20mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Mini-Fit_Jr_5569-22A2_2x11_P4.20mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-22A2, example for new mpn: 39-30-0220, 11 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Mini-Fit_Jr top entryplastic_peg")

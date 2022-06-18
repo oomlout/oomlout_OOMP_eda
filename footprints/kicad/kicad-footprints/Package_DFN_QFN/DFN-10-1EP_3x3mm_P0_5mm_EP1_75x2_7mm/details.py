@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm")
 
 newPart.addTag("kicadDesc", "10-Lead Plastic Dual Flat No-Lead Package, 3x3mm Body (see Atmel Appnote 8826)")
 newPart.addTag("kicadTags", "DFN 0.5")

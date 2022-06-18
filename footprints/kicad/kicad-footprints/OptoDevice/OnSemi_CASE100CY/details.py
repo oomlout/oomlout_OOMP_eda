@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "OnSemi_CASE100CY")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/OnSemi_CASE100CY")
 
 newPart.addTag("kicadDesc", "OnSemi CASE 100CY, light-direction upwards, see http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF")
 newPart.addTag("kicadTags", "refective opto couple photo coupler")

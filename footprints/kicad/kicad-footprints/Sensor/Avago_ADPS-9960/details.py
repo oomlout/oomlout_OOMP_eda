@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor")
 newPart.addTag("oompIndex", "Avago_ADPS-9960")
+newPart.addTag("oompName", "kicad-footprints/Sensor/Avago_ADPS-9960")
 
 newPart.addTag("kicadDesc", "Digital Proximity, Ambient Light, RGB and Gesture Sensor (https://docs.broadcom.com/doc/AV02-4191EN)")
 newPart.addTag("kicadTags", "DFN Sensor optical IR")

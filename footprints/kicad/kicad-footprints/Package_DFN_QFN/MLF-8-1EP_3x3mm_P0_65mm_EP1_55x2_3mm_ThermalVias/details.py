@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias")
 
 newPart.addTag("kicadDesc", "8-Pin ePad 3mm x 3mm MLF - 3x3x0.85 mm Body (see Microchip datasheet http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf)")
 newPart.addTag("kicadTags", "DFN MLF 0.65")

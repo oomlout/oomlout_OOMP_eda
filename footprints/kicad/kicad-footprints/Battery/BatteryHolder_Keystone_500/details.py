@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Battery")
 newPart.addTag("oompIndex", "BatteryHolder_Keystone_500")
+newPart.addTag("oompName", "kicad-footprints/Battery/BatteryHolder_Keystone_500")
 
 newPart.addTag("kicadDesc", "Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710")
 newPart.addTag("kicadTags", "CR1220 battery holder")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SMF")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SMF")
 
 newPart.addTag("kicadDesc", "Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf")
 newPart.addTag("kicadTags", "Diode SMF (DO-214AB)")

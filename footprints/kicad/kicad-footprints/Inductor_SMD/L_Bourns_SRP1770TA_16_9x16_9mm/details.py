@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SRP1770TA_16.9x16.9mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SRP1770TA_16.9x16.9mm")
 
 newPart.addTag("kicadDesc", "Bourns SRP1770TA series SMD Inductor http://www.bourns.com/docs/Product-Datasheets/SRP1770TA.pdf")
 newPart.addTag("kicadTags", "Bourns SRP1770TA series SMD Inductor")

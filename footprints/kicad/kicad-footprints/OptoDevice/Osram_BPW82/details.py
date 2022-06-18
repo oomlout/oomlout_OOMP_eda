@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "Osram_BPW82")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/Osram_BPW82")
 
 newPart.addTag("kicadDesc", "PhotoDiode, BPW82, RM2.54")
 newPart.addTag("kicadTags", "PhotoDiode BPW82 RM2.54")

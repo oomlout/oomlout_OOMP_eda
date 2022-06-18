@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Fuse")
 newPart.addTag("oompIndex", "Fuseholder_Littelfuse_Nano2_154x")
+newPart.addTag("oompName", "kicad-footprints/Fuse/Fuseholder_Littelfuse_Nano2_154x")
 
 newPart.addTag("kicadDesc", "Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf")
 newPart.addTag("kicadTags", "SMD Nano2 holder")

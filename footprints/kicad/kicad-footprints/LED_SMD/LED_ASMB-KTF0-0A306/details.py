@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "LED_SMD")
 newPart.addTag("oompIndex", "LED_ASMB-KTF0-0A306")
+newPart.addTag("oompName", "kicad-footprints/LED_SMD/LED_ASMB-KTF0-0A306")
 
 newPart.addTag("kicadDesc", "2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100")
 newPart.addTag("kicadTags", "Tricolor LED")

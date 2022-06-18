@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Crystal")
 newPart.addTag("oompIndex", "Crystal_HC35-U")
+newPart.addTag("oompName", "kicad-footprints/Crystal/Crystal_HC35-U")
 
 newPart.addTag("kicadDesc", "Crystal, Quarz, HC35/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/TO71xx.pdf")
 newPart.addTag("kicadTags", "Crystal Quarz HC35/U")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "SA15-11xxx")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/SA15-11xxx")
 
 newPart.addTag("kicadDesc", "http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf")
 newPart.addTag("kicadTags", "SA15-11xxx single digit 7 segment display 38.1mm 1.5inch")

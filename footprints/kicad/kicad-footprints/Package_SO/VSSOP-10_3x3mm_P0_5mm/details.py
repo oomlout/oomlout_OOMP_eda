@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "VSSOP-10_3x3mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/VSSOP-10_3x3mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "VSSOP SO")

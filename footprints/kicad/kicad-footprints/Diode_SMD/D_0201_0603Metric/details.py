@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_0201_0603Metric")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_0201_0603Metric")
 
 newPart.addTag("kicadDesc", "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "diode")

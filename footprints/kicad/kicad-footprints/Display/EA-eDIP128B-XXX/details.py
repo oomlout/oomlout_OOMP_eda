@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "EA-eDIP128B-XXX")
+newPart.addTag("oompName", "kicad-footprints/Display/EA-eDIP128B-XXX")
 
 newPart.addTag("kicadDesc", "LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf")
 newPart.addTag("kicadTags", "LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Diodes_PowerDI3333-8")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Diodes_PowerDI3333-8")
 
 newPart.addTag("kicadDesc", "Diodes Incorporated PowerDI3333-8, Plastic Dual Flat No Lead Package, 3.3x3.3x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf")
 newPart.addTag("kicadTags", "PowerDI 0.65")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_Push_1P1T_NO_CK_KSC7xxJ")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ")
 
 newPart.addTag("kicadDesc", "CK components KSC7 tactile switch https://www.ckswitches.com/media/1973/ksc7.pdf")
 newPart.addTag("kicadTags", "tactile switch ksc7")

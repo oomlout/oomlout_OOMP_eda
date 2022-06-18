@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm")
 
 newPart.addTag("kicadDesc", "LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/57080735642908cp_8_4.pdf")
 newPart.addTag("kicadTags", "LFCSP 8pin thermal pad 3x2mm Pitch 0.5mm")

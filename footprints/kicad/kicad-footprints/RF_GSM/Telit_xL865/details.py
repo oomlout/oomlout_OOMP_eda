@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GSM")
 newPart.addTag("oompIndex", "Telit_xL865")
+newPart.addTag("oompName", "kicad-footprints/RF_GSM/Telit_xL865")
 
 newPart.addTag("kicadDesc", "Telit xL865 familly footprint, http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf")
 newPart.addTag("kicadTags", "xL865 gsm umts")

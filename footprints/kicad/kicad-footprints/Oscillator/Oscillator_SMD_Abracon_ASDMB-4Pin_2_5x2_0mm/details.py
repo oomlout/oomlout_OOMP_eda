@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Oscillator")
 newPart.addTag("oompIndex", "Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm")
+newPart.addTag("oompName", "kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm")
 
 newPart.addTag("kicadDesc", "Miniature Crystal Clock Oscillator Abracon ASDMB series, 2.5x2.0mm package, http://www.abracon.com/Oscillators/ASDMB.pdf")
 newPart.addTag("kicadTags", "SMD SMT crystal oscillator")

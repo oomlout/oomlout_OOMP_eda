@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_QFP")
 newPart.addTag("oompIndex", "PQFP-80_14x20mm_P0.8mm")
+newPart.addTag("oompName", "kicad-footprints/Package_QFP/PQFP-80_14x20mm_P0.8mm")
 
 newPart.addTag("kicadDesc", "PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)")
 newPart.addTag("kicadTags", "QFP 0.8")

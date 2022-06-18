@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST PH series connector, B2B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST PH side entry")

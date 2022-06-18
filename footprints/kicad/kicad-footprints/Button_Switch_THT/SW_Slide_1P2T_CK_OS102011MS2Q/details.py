@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_Slide_1P2T_CK_OS102011MS2Q")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_Slide_1P2T_CK_OS102011MS2Q")
 
 newPart.addTag("kicadDesc", "CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf")
 newPart.addTag("kicadTags", "switch SPDT")

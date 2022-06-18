@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Axial_L12.8mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Axial_L12.8mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC")
 
 newPart.addTag("kicadDesc", "Inductor, Axial series, Axial, Horizontal, pin pitch=25.4mm, , length*diameter=12.8*5.8mm^2, Fastron, HBCC, http://www.fastrongroup.com/image-show/18/HBCC.pdf?type=Complete-DataSheet&productType=series")
 newPart.addTag("kicadTags", "Inductor Axial series Axial Horizontal pin pitch 25.4mm  length 12.8mm diameter 5.8mm Fastron HBCC")

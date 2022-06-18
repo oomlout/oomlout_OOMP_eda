@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_Keyboard")
 newPart.addTag("oompIndex", "SW_Matias_ISOEnter")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_Keyboard/SW_Matias_ISOEnter")
 
 newPart.addTag("kicadDesc", "Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/")
 newPart.addTag("kicadTags", "Matias ALPS keyswitch ISO enter")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_THT")
 newPart.addTag("oompIndex", "SW_PUSH-12mm_Wuerth-430476085716")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716")
 
 newPart.addTag("kicadDesc", "SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf")
 newPart.addTag("kicadTags", "tact sw push 12mm")

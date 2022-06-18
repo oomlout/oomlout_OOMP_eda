@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Card")
 newPart.addTag("oompIndex", "SD_Kyocera_145638109511859+")
+newPart.addTag("oompName", "kicad-footprints/Connector_Card/SD_Kyocera_145638109511859+")
 
 newPart.addTag("kicadDesc", "SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)")
 newPart.addTag("kicadTags", "sd card smt")

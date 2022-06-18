@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "SIPAK_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical")
 
 newPart.addTag("kicadDesc", "SIPAK, Vertical, RM 2.286mm")
 newPart.addTag("kicadTags", "SIPAK Vertical RM 2.286mm")

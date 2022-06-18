@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Adafruit_Feather_WICED_WithMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Module/Adafruit_Feather_WICED_WithMountingHoles")
 
 newPart.addTag("kicadDesc", "Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi")
 newPart.addTag("kicadTags", "Adafruit Feather WICED Wifi")

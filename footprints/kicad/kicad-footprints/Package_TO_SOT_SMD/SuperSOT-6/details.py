@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SuperSOT-6")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SuperSOT-6")
 
 newPart.addTag("kicadDesc", "6-pin SuperSOT package http://www.mouser.com/ds/2/149/FMB5551-889214.pdf")
 newPart.addTag("kicadTags", "SuperSOT-6 SSOT-6")

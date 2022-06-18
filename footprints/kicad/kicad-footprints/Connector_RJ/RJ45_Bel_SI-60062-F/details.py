@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Bel_SI-60062-F")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Bel_SI-60062-F")
 
 newPart.addTag("kicadDesc", "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf")
 newPart.addTag("kicadTags", "RJ45 Magjack")

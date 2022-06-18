@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_THT")
 newPart.addTag("oompIndex", "L_Toroid_Horizontal_D26.0mm_P5.08mm")
+newPart.addTag("oompName", "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D26.0mm_P5.08mm")
 
 newPart.addTag("kicadDesc", "inductor 26mm diameter toroid")
 newPart.addTag("kicadTags", "SELF INDUCTOR")

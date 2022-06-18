@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Mounting_Wuerth")
 newPart.addTag("oompIndex", "Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960")
+newPart.addTag("oompName", "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960")
 
 newPart.addTag("kicadDesc", "Mounting Hardware, inside through hole 3.3mm, height 3, Wuerth electronics 9776030960 (https://katalog.we-online.com/em/datasheet/9776030960.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Mounting 3.3mm 9776030960")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Texas_EUS_R-PDSS-T5_THT")
+newPart.addTag("oompName", "kicad-footprints/Module/Texas_EUS_R-PDSS-T5_THT")
 
 newPart.addTag("kicadDesc", "Texas Instruments EUS 5 Pin Double Sided Module")
 newPart.addTag("kicadTags", "module pcb")

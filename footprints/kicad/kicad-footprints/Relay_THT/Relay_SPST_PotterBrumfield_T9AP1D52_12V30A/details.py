@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPST_PotterBrumfield_T9AP1D52_12V30A")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A")
 
 newPart.addTag("kicadDesc", "Relay SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Only Dummy for Space NO Pads")
 newPart.addTag("kicadTags", "Relau SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Flachsteckeranschluss Only Dummy for Space NO Pads")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_Wuerth_74980111211_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_Wuerth_74980111211_Horizontal")
 
 newPart.addTag("kicadDesc", "RJ45 LAN Transformer 10/100BaseT (https://katalog.we-online.de/pbs/datasheet/74980111211.pdf)")
 newPart.addTag("kicadTags", "lan magnetics transformer")

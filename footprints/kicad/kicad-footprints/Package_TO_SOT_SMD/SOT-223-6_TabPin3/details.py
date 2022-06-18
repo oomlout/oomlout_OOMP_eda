@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "SOT-223-6_TabPin3")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/SOT-223-6_TabPin3")
 
 newPart.addTag("kicadDesc", "module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf")
 newPart.addTag("kicadTags", "CMS SOT")

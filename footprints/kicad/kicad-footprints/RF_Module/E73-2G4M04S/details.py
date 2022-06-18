@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_Module")
 newPart.addTag("oompIndex", "E73-2G4M04S")
+newPart.addTag("oompName", "kicad-footprints/RF_Module/E73-2G4M04S")
 
 newPart.addTag("kicadDesc", "http://www.cdebyte.com/en/downpdf.aspx?id=243")
 newPart.addTag("kicadTags", "BLE BLE5 nRF52832")

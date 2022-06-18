@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Audio")
 newPart.addTag("oompIndex", "MiniXLR-5_Switchcraft_TRAPC_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Audio/MiniXLR-5_Switchcraft_TRAPC_Horizontal")
 
 newPart.addTag("kicadDesc", "http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF")
 newPart.addTag("kicadTags", "THT Mini XLR 5Pin right angle")

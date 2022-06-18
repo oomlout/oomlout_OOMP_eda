@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical")
 
 newPart.addTag("kicadDesc", "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-24A, example for new mpn: 39-28-x24x, 12 Pins per row, Mounting:  (http://www.molex.com/pdm_docs/sd/039281043_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Mini-Fit_Jr side entry")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Valve")
 newPart.addTag("oompIndex", "Valve_Mini_Pentode_Linear")
+newPart.addTag("oompName", "kicad-footprints/Valve/Valve_Mini_Pentode_Linear")
 
 newPart.addTag("kicadDesc", "Mini-Pentode, 5-pin, e.g. JAN6418")
 newPart.addTag("kicadTags", "Valve Mini-Pentode 5-pin JAN6418")

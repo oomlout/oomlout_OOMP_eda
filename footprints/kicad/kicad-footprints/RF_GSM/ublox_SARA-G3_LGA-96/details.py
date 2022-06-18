@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "RF_GSM")
 newPart.addTag("oompIndex", "ublox_SARA-G3_LGA-96")
+newPart.addTag("oompName", "kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96")
 
 newPart.addTag("kicadDesc", "ublox Sara GSM/HSPA modem, https://www.u-blox.com/sites/default/files/SARA-G3-U2_SysIntegrManual_%28UBX-13000995%29.pdf, pag.162")
 newPart.addTag("kicadTags", "ublox SARA-G3 SARA-U2 GSM HSPA")

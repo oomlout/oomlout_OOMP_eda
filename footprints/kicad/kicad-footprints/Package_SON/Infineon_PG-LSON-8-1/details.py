@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SON")
 newPart.addTag("oompIndex", "Infineon_PG-LSON-8-1")
+newPart.addTag("oompName", "kicad-footprints/Package_SON/Infineon_PG-LSON-8-1")
 
 newPart.addTag("kicadDesc", "https://www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/")
 newPart.addTag("kicadTags", "PG-LSON-8-1")

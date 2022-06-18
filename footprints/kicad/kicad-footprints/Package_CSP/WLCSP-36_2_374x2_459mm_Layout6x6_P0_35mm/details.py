@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_CSP")
 newPart.addTag("oompIndex", "WLCSP-36_2.374x2.459mm_Layout6x6_P0.35mm")
+newPart.addTag("oompName", "kicad-footprints/Package_CSP/WLCSP-36_2.374x2.459mm_Layout6x6_P0.35mm")
 
 newPart.addTag("kicadDesc", "WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00604D.pdf")
 newPart.addTag("kicadTags", "WLCSP-36")

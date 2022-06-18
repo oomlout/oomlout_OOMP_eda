@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PinSocket_2.00mm")
 newPart.addTag("oompIndex", "PinSocket_1x23_P2.00mm_Vertical_SMD_Pin1Left")
+newPart.addTag("oompName", "kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_1x23_P2.00mm_Vertical_SMD_Pin1Left")
 
 newPart.addTag("kicadDesc", "surface-mounted straight socket strip, 1x23, 2.00mm pitch, single row, style 1 (pin 1 left) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated")
 newPart.addTag("kicadTags", "Surface mounted socket strip SMD 1x23 2.00mm single row style1 pin1 left")

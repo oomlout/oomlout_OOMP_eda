@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Symbol")
 newPart.addTag("oompIndex", "Symbol_CC-ShareAlike_CopperTop_Big")
+newPart.addTag("oompName", "kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Big")
 
 newPart.addTag("kicadDesc", "Symbol, CC-Share Alike, Copper Top, Big,")
 newPart.addTag("kicadTags", "Symbol, CC-Share Alike, Copper Top, Big,")

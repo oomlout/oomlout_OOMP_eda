@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_HDMI")
 newPart.addTag("oompIndex", "HDMI_A_Molex_208658-1001_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal")
 
 newPart.addTag("kicadDesc", "HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf")
 newPart.addTag("kicadTags", "HDMI Molex Type A")

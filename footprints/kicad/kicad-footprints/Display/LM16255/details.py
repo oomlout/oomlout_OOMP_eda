@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "LM16255")
+newPart.addTag("oompName", "kicad-footprints/Display/LM16255")
 
 newPart.addTag("kicadDesc", "LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html")
 newPart.addTag("kicadTags", "LCD 12x2")

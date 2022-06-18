@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "OptoDevice")
 newPart.addTag("oompIndex", "AGILENT_HFBR-152x")
+newPart.addTag("oompName", "kicad-footprints/OptoDevice/AGILENT_HFBR-152x")
 
 newPart.addTag("kicadDesc", "Fiberoptic Transmitter TX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)")
 newPart.addTag("kicadTags", "Fiberoptic Transmitter")

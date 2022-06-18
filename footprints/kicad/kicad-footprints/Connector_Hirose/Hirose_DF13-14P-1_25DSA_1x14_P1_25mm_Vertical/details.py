@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Hirose")
 newPart.addTag("oompIndex", "Hirose_DF13-14P-1.25DSA_1x14_P1.25mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_Hirose/Hirose_DF13-14P-1.25DSA_1x14_P1.25mm_Vertical")
 
 newPart.addTag("kicadDesc", "Hirose DF13 through hole, DF13-14P-1.25DSA, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Hirose DF13 vertical")

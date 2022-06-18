@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_R-PUQFN-N10")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_R-PUQFN-N10")
 
 newPart.addTag("kicadDesc", "http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF186&fileType=pdf")
 newPart.addTag("kicadTags", "Texas_R-PUQFN-N10")

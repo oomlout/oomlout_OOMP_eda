@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_PCBEdge")
 newPart.addTag("oompIndex", "Samtec_MECF-08-02-L-DV-WT_2x08_P1.27mm_Polarized_Socket_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-02-L-DV-WT_2x08_P1.27mm_Polarized_Socket_Horizontal")
 
 newPart.addTag("kicadDesc", "Highspeed card edge connector for 2.4mm PCB's with 08 contacts (polarized)")
 newPart.addTag("kicadTags", "conn samtec card-edge high-speed")

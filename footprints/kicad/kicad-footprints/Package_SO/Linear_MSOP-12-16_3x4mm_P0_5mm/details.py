@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "Linear_MSOP-12-16_3x4mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/Linear_MSOP-12-16_3x4mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "12-Lead Plastic Micro Small Outline Package (MS) [MSOP], variant of MSOP-16 (see https://www.analog.com/media/en/technical-documentation/data-sheets/3748fb.pdf)")
 newPart.addTag("kicadTags", "SSOP 0.5")

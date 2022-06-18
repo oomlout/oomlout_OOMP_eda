@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "ST_UFQFPN-20_3x3mm_P0.5mm")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/ST_UFQFPN-20_3x3mm_P0.5mm")
 
 newPart.addTag("kicadDesc", "UFQFPN 20-lead, 3 x 3 mm, 0.5 mm pitch, ultra thin fine pitch quad flat package (http://www.st.com/resource/en/datasheet/stm8s003f3.pdf)")
 newPart.addTag("kicadTags", "UFQFPN 0.5")

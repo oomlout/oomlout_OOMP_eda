@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "CUI_PD-30")
+newPart.addTag("oompName", "kicad-footprints/Connector/CUI_PD-30")
 
 newPart.addTag("kicadDesc", "3 pin connector, PD-30, http://www.cui.com/product/resource/pd-30.pdf")
 newPart.addTag("kicadTags", "connector 3-pin PD-30 power DIN")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_THT")
 newPart.addTag("oompIndex", "TO-17-4")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_THT/TO-17-4")
 
 newPart.addTag("kicadDesc", "TO-17-4")
 newPart.addTag("kicadTags", "TO-17-4")

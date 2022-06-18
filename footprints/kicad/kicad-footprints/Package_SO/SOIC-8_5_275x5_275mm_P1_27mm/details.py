@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_SO")
 newPart.addTag("oompIndex", "SOIC-8_5.275x5.275mm_P1.27mm")
+newPart.addTag("oompName", "kicad-footprints/Package_SO/SOIC-8_5.275x5.275mm_P1.27mm")
 
 newPart.addTag("kicadDesc", "SOIC, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 newPart.addTag("kicadTags", "SOIC SO")

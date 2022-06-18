@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_THT")
 newPart.addTag("oompIndex", "Diode_Bridge_Vishay_KBL")
+newPart.addTag("oompName", "kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBL")
 
 newPart.addTag("kicadDesc", "Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf")
 newPart.addTag("kicadTags", "Vishay KBL rectifier diode bridge")

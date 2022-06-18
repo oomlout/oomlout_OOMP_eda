@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector")
 newPart.addTag("oompIndex", "SpringContact_Harwin_S1941-46R")
+newPart.addTag("oompName", "kicad-footprints/Connector/SpringContact_Harwin_S1941-46R")
 
 newPart.addTag("kicadDesc", "7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf")
 newPart.addTag("kicadTags", "spring contact emi emc shield")

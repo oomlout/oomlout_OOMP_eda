@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display")
 newPart.addTag("oompIndex", "ERM19264")
+newPart.addTag("oompName", "kicad-footprints/Display/ERM19264")
 
 newPart.addTag("kicadDesc", "STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf")
 newPart.addTag("kicadTags", "ERM19264 Graphics Display 192x64")

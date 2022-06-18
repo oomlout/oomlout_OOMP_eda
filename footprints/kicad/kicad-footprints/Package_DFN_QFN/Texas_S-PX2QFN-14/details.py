@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DFN_QFN")
 newPart.addTag("oompIndex", "Texas_S-PX2QFN-14")
+newPart.addTag("oompName", "kicad-footprints/Package_DFN_QFN/Texas_S-PX2QFN-14")
 
 newPart.addTag("kicadDesc", "Texas  QFN, 14 Pin (http://www.ti.com/lit/ds/symlink/tlv9004.pdf#page=64), generated with kicad-footprint-generator ipc_noLead_generator.py")
 newPart.addTag("kicadTags", "Texas QFN NoLead")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Adafruit_Feather_32u4_RFM")
+newPart.addTag("oompName", "kicad-footprints/Module/Adafruit_Feather_32u4_RFM")
 
 newPart.addTag("kicadDesc", "Footprint for the Adafruit Feather 32u4 RFM series of boards, https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module")
 newPart.addTag("kicadTags", "Adafruit Feather 32u4 RFM")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Display_7Segment")
 newPart.addTag("oompIndex", "CA56-12CGKWA")
+newPart.addTag("oompName", "kicad-footprints/Display_7Segment/CA56-12CGKWA")
 
 newPart.addTag("kicadDesc", "4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf")
 newPart.addTag("kicadTags", "4 digit 7 segment green LED")

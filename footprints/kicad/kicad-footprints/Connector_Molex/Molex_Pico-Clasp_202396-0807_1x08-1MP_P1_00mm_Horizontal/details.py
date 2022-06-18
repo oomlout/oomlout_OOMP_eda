@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_Molex")
 newPart.addTag("oompIndex", "Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal")
+newPart.addTag("oompName", "kicad-footprints/Connector_Molex/Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal")
 
 newPart.addTag("kicadDesc", "Molex Pico-Clasp series connector, 202396-0807 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector Molex Pico-Clasp top entry")

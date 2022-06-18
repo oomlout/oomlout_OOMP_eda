@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_SANYOU_SRD_Series_Form_C")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_SANYOU_SRD_Series_Form_C")
 
 newPart.addTag("kicadDesc", "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf")
 newPart.addTag("kicadTags", "relay Sanyu SRD form C")

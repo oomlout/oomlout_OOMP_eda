@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_RJ")
 newPart.addTag("oompIndex", "RJ45_OST_PJ012-8P8CX_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical")
 
 newPart.addTag("kicadDesc", "RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf")
 newPart.addTag("kicadTags", "RJ45 PJ012")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Inductor_SMD")
 newPart.addTag("oompIndex", "L_Bourns_SRP5030T")
+newPart.addTag("oompName", "kicad-footprints/Inductor_SMD/L_Bourns_SRP5030T")
 
 newPart.addTag("kicadDesc", "Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)")
 newPart.addTag("kicadTags", "Inductor Bourns_SRP5030T")

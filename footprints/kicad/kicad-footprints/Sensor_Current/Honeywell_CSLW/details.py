@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Sensor_Current")
 newPart.addTag("oompIndex", "Honeywell_CSLW")
+newPart.addTag("oompName", "kicad-footprints/Sensor_Current/Honeywell_CSLW")
 
 newPart.addTag("kicadDesc", "https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf")
 newPart.addTag("kicadTags", "Miniature Wired Open-Loop Current Sensor")

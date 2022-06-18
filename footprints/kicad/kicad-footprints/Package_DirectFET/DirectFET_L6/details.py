@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_DirectFET")
 newPart.addTag("oompIndex", "DirectFET_L6")
+newPart.addTag("oompName", "kicad-footprints/Package_DirectFET/DirectFET_L6")
 
 newPart.addTag("kicadDesc", "DirectFET L6 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=42")
 newPart.addTag("kicadTags", "DirectFET L6 MOSFET Infineon")

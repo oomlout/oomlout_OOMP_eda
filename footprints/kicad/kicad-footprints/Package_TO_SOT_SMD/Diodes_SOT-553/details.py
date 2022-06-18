@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
 newPart.addTag("oompIndex", "Diodes_SOT-553")
+newPart.addTag("oompName", "kicad-footprints/Package_TO_SOT_SMD/Diodes_SOT-553")
 
 newPart.addTag("kicadDesc", "Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf")
 newPart.addTag("kicadTags", "SOT-553")

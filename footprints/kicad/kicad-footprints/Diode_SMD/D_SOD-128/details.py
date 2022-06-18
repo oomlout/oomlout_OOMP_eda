@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Diode_SMD")
 newPart.addTag("oompIndex", "D_SOD-128")
+newPart.addTag("oompName", "kicad-footprints/Diode_SMD/D_SOD-128")
 
 newPart.addTag("kicadDesc", "D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf")
 newPart.addTag("kicadTags", "D_SOD-128")

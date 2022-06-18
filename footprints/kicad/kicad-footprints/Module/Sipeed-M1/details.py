@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Sipeed-M1")
+newPart.addTag("oompName", "kicad-footprints/Module/Sipeed-M1")
 
 newPart.addTag("kicadDesc", "AI accelerated MCU with optional wifi, https://dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications")
 newPart.addTag("kicadTags", "AI Kendryte K210 RISC-V")

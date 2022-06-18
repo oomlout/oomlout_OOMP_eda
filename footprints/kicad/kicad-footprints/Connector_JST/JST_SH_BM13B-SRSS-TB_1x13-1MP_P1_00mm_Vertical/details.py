@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Connector_JST")
 newPart.addTag("oompIndex", "JST_SH_BM13B-SRSS-TB_1x13-1MP_P1.00mm_Vertical")
+newPart.addTag("oompName", "kicad-footprints/Connector_JST/JST_SH_BM13B-SRSS-TB_1x13-1MP_P1.00mm_Vertical")
 
 newPart.addTag("kicadDesc", "JST SH series connector, BM13B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "connector JST SH side entry")

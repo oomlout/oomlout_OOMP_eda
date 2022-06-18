@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Mounting_Wuerth")
 newPart.addTag("oompIndex", "Mounting_Wuerth_WA-SMSR-3.2mm_H3.6mm_ReverseMount_9775036960")
+newPart.addTag("oompName", "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-3.2mm_H3.6mm_ReverseMount_9775036960")
 
 newPart.addTag("kicadDesc", "Mounting Hardware, inside through hole 3.2mm, height 3.6, Wuerth electronics 9775036960 (https://katalog.we-online.com/em/datasheet/9775036960.pdf), generated with kicad-footprint-generator")
 newPart.addTag("kicadTags", "Mounting 3.2mm 9775036960")

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Relay_THT")
 newPart.addTag("oompIndex", "Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm")
+newPart.addTag("oompName", "kicad-footprints/Relay_THT/Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm")
 
 newPart.addTag("kicadDesc", "Relay SPST Schrack-RT1 RM5mm 16A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf")
 newPart.addTag("kicadTags", "Relay SPST Schrack-RT1 RM5mm 16A 250V AC Relay")

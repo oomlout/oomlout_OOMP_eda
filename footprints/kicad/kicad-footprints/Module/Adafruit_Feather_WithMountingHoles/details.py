@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Module")
 newPart.addTag("oompIndex", "Adafruit_Feather_WithMountingHoles")
+newPart.addTag("oompName", "kicad-footprints/Module/Adafruit_Feather_WithMountingHoles")
 
 newPart.addTag("kicadDesc", "Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification")
 newPart.addTag("kicadTags", "Adafruit Feather")
