@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_QFP-VQFP-100_14x14mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_qfp-vqfp-100_14x14mm_p05mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_QFP-VQFP-100_14x14mm_P0.5mm>
+
+## Tags
+
+- index: 10070
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_QFP
+- oompIndex: VQFP-100_14x14mm_P0.5mm
+- kicadDesc: VQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+- kicadTags: VQFP QFP
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/VQFP-100_14x14mm_P0.5mm.wrl

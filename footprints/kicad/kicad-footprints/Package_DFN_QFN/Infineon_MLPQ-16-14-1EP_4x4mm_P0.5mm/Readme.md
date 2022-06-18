@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-infineon_mlpq-16-14-1ep_4x4mm_p05mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm>
+
+## Tags
+
+- index: 9222
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm
+- kicadDesc: MLPQ 32 leads, 7x7mm, 0.127mm stencil (https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)
+- kicadTags: mlpq 32 7x7mm
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm.wrl

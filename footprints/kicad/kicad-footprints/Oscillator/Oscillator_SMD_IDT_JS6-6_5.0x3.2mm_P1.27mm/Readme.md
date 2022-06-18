@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_idt_js6-6_50x32mm_p127mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm>
+
+## Tags
+
+- index: 8859
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Oscillator
+- oompIndex: Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
+- kicadDesc: SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=15, 5.0x3.2mm
+- kicadTags: SMD SMT crystal oscillator
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm.wrl

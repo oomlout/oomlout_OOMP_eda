@@ -1,0 +1,24 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_8mm_SilkScreen>](#footprint-kicad-kicad-footprints-symbol-rohs-logo_8mm_silkscreen)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_8mm_SilkScreen>
+
+## Tags
+
+- index: 11574
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Symbol
+- oompIndex: RoHS-Logo_8mm_SilkScreen
+- kicadDesc: Restriction of Hazardous Substances Directive Logo
+- kicadTags: Logo RoHS
+- kicadAttr: exclude_from_pos_files exclude_from_bom

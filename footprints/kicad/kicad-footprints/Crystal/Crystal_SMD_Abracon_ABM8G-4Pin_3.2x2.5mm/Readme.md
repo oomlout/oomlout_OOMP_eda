@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_abracon_abm8g-4pin_32x25mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm>
+
+## Tags
+
+- index: 7197
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Crystal
+- oompIndex: Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
+- kicadDesc: Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
+- kicadTags: SMD SMT crystal
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm.wrl

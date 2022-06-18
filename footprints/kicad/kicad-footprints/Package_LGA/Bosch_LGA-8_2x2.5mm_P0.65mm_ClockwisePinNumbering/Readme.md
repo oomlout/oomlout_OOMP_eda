@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering>](#footprint-kicad-kicad-footprints-package_lga-bosch_lga-8_2x25mm_p065mm_clockwisepinnumbering)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering>
+
+## Tags
+
+- index: 9967
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_LGA
+- oompIndex: Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering
+- kicadDesc: LGA-8, https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf
+- kicadTags: lga land grid array
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering.wrl

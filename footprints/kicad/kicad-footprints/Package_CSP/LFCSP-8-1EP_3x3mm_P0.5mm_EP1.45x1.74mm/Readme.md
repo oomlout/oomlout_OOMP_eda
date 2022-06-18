@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm>](#footprint-kicad-kicad-footprints-package_csp-lfcsp-8-1ep_3x3mm_p05mm_ep145x174mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm>
+
+## Tags
+
+- index: 9065
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_CSP
+- oompIndex: LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm
+- kicadDesc: LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-8/CP_8_13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+- kicadTags: LFCSP NoLead
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm.wrl

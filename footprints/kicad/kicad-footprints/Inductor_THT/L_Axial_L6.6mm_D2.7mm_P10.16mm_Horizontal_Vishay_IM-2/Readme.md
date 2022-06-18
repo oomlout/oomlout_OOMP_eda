@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2>](#footprint-kicad-kicad-footprints-inductor_tht-l_axial_l66mm_d27mm_p1016mm_horizontal_vishay_im-2)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2>
+
+## Tags
+
+- index: 8010
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Inductor_THT
+- oompIndex: L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2
+- kicadDesc: Inductor, Axial series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=6.6*2.7mm^2, Vishay, IM-2, http://www.vishay.com/docs/34030/im.pdf
+- kicadTags: Inductor Axial series Axial Horizontal pin pitch 10.16mm  length 6.6mm diameter 2.7mm Vishay IM-2
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2.wrl

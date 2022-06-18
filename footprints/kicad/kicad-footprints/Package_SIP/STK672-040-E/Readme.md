@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-040-E>](#footprint-kicad-kicad-footprints-package_sip-stk672-040-e)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-040-E>
+
+## Tags
+
+- index: 10088
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SIP
+- oompIndex: STK672-040-E
+- kicadDesc: SIP-22 (http://www.onsemi.com/pub_link/Collateral/EN5227-D.PDF)
+- kicadTags: SIP-22
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/STK672-040-E.wrl

@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN242-04-18.0x31.0mm>](#footprint-kicad-kicad-footprints-inductor_tht-choke_schaffner_rn242-04-180x310mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN242-04-18.0x31.0mm>
+
+## Tags
+
+- index: 7941
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Inductor_THT
+- oompIndex: Choke_Schaffner_RN242-04-18.0x31.0mm
+- kicadDesc: Current-compensated Chokes, Schaffner, RN242-04, 18.0mmx31.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
+- kicadTags: chokes schaffner tht
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN242-04-18.0x31.0mm.wrl

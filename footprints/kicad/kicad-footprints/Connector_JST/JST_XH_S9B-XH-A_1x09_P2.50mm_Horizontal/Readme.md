@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jst-jst_xh_s9b-xh-a_1x09_p250mm_horizontal)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal>
+
+## Tags
+
+- index: 2557
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_JST
+- oompIndex: JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal
+- kicadDesc: JST XH series connector, S9B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+- kicadTags: connector JST XH horizontal
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal.wrl
+
+
+
+[im]: image.png

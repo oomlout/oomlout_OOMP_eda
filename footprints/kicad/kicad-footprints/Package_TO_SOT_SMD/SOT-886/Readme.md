@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886>](#footprint-kicad-kicad-footprints-package_to_sot_smd-sot-886)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-886>
+
+## Tags
+
+- index: 10561
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_TO_SOT_SMD
+- oompIndex: SOT-886
+- kicadDesc: SOT-886
+- kicadTags: SOT-886
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-886.wrl

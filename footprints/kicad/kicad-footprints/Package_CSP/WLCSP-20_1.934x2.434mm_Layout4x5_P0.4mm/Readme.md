@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm>](#footprint-kicad-kicad-footprints-package_csp-wlcsp-20_1934x2434mm_layout4x5_p04mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm>
+
+## Tags
+
+- index: 9123
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_CSP
+- oompIndex: WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm
+- kicadDesc: WLCSP-20, 4x5 raster, 1.934x2.434mm package, pitch 0.4mm; see section 36.2.3 of http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf
+- kicadTags: BGA 20 0.4
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm.wrl

@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal>](#footprint-kicad-kicad-footprints-connector_coaxial-bnc_amphenol_b6252hb-npp3g-50_horizontal)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal>
+
+## Tags
+
+- index: 1270
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_Coaxial
+- oompIndex: BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
+- kicadDesc: http://www.farnell.com/datasheets/612848.pdf
+- kicadTags: BNC Amphenol Horizontal
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Amphenol_B6252HB-NPP3G-50_Horizontal.wrl
+
+
+
+[im]: image.png

@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm>](#footprint-kicad-kicad-footprints-fuse-fuse_bourns_mf-sm_798x544mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm>
+
+## Tags
+
+- index: 7672
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Fuse
+- oompIndex: Fuse_Bourns_MF-SM_7.98x5.44mm
+- kicadDesc: https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf
+- kicadTags: bourns ptc resettable fuse polyfuse MF-SM MF-SMHT
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_7.98x5.44mm.wrl

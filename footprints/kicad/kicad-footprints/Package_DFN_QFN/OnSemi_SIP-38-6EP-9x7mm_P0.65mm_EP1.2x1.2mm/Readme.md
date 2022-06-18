@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-onsemi_sip-38-6ep-9x7mm_p065mm_ep12x12mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm>
+
+## Tags
+
+- index: 9252
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
+- kicadDesc: On Semiconductor, SIP-38, 9x7mm, (https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)
+- kicadTags: On Semiconductor SIP
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm.wrl

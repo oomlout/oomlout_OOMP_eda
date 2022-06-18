@@ -1,0 +1,24 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1mm_Mask2mm>](#footprint-kicad-kicad-footprints-fiducial-fiducial_1mm_mask2mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1mm_Mask2mm>
+
+## Tags
+
+- index: 7564
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Fiducial
+- oompIndex: Fiducial_1mm_Mask2mm
+- kicadDesc: Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
+- kicadTags: fiducial
+- kicadAttr: smd

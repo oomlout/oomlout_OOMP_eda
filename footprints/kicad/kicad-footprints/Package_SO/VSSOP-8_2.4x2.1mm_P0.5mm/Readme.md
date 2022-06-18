@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_so-vssop-8_24x21mm_p05mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm>
+
+## Tags
+
+- index: 10413
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SO
+- oompIndex: VSSOP-8_2.4x2.1mm_P0.5mm
+- kicadDesc: http://www.ti.com/lit/ml/mpds050d/mpds050d.pdf
+- kicadTags: VSSOP DCU R-PDSO-G8 Pitch0.5mm
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_2.4x2.1mm_P0.5mm.wrl

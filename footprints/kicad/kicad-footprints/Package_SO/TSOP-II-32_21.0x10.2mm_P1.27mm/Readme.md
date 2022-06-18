@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-32_21.0x10.2mm_P1.27mm>](#footprint-kicad-kicad-footprints-package_so-tsop-ii-32_210x102mm_p127mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-32_21.0x10.2mm_P1.27mm>
+
+## Tags
+
+- index: 10341
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SO
+- oompIndex: TSOP-II-32_21.0x10.2mm_P1.27mm
+- kicadDesc: 32-lead plastic TSOP; Type II
+- kicadTags: TSOP-II 32
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-II-32_21.0x10.2mm_P1.27mm.wrl

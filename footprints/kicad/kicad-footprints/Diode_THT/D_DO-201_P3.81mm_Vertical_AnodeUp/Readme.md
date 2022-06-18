@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201_P3.81mm_Vertical_AnodeUp>](#footprint-kicad-kicad-footprints-diode_tht-d_do-201_p381mm_vertical_anodeup)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201_P3.81mm_Vertical_AnodeUp>
+
+## Tags
+
+- index: 7424
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Diode_THT
+- oompIndex: D_DO-201_P3.81mm_Vertical_AnodeUp
+- kicadDesc: Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+- kicadTags: Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201_P3.81mm_Vertical_AnodeUp.wrl

@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm>](#footprint-kicad-kicad-footprints-package_bga-bga-1156_350x350mm_layout34x34_p10mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm>
+
+## Tags
+
+- index: 8890
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_BGA
+- oompIndex: BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm
+- kicadDesc: BGA-1156
+- kicadTags: BGA-1156
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm.wrl

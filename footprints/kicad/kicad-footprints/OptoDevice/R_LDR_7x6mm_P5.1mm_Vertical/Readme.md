@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical>](#footprint-kicad-kicad-footprints-optodevice-r_ldr_7x6mm_p51mm_vertical)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical>
+
+## Tags
+
+- index: 8807
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: OptoDevice
+- oompIndex: R_LDR_7x6mm_P5.1mm_Vertical
+- kicadDesc: Resistor, LDR 7x6mm
+- kicadTags: Resistor LDR7x6mm
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_7x6mm_P5.1mm_Vertical.wrl

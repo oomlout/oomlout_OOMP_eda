@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22>](#footprint-kicad-kicad-footprints-transformer_smd-transformer_macom_sm-22)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22>
+
+## Tags
+
+- index: 12223
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Transformer_SMD
+- oompIndex: Transformer_MACOM_SM-22
+- kicadDesc: https://cdn.macom.com/datasheets/ETC1-1-13.pdf
+- kicadTags: RF Transformer
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_MACOM_SM-22.wrl

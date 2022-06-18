@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-64_W15.24mm>](#footprint-kicad-kicad-footprints-package_dip-smdip-64_w1524mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-64_W15.24mm>
+
+## Tags
+
+- index: 9901
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DIP
+- oompIndex: SMDIP-64_W15.24mm
+- kicadDesc: 64-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+- kicadTags: SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-64_W15.24mm.wrl

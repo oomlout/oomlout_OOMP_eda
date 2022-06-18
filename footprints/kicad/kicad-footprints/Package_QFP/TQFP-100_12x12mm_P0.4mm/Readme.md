@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-100_12x12mm_P0.4mm>](#footprint-kicad-kicad-footprints-package_qfp-tqfp-100_12x12mm_p04mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-100_12x12mm_P0.4mm>
+
+## Tags
+
+- index: 10047
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_QFP
+- oompIndex: TQFP-100_12x12mm_P0.4mm
+- kicadDesc: 100-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+- kicadTags: QFP 0.4
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-100_12x12mm_P0.4mm.wrl

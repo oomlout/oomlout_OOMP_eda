@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM02B-ZESS-TBT_1x02-1MP_P1.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_ze_bm02b-zess-tbt_1x02-1mp_p150mm_vertical)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM02B-ZESS-TBT_1x02-1MP_P1.50mm_Vertical>
+
+## Tags
+
+- index: 2587
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_JST
+- oompIndex: JST_ZE_BM02B-ZESS-TBT_1x02-1MP_P1.50mm_Vertical
+- kicadDesc: JST ZE series connector, BM02B-ZESS-TBT (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
+- kicadTags: connector JST ZE vertical
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_BM02B-ZESS-TBT_1x02-1MP_P1.50mm_Vertical.wrl
+
+
+
+[im]: image.png

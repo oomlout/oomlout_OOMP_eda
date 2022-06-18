@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_rgv_s-pvqfn-n16_ep21x21mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm>
+
+## Tags
+
+- index: 9500
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm
+- kicadDesc: QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ina3221.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+- kicadTags: QFN NoLead
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm.wrl

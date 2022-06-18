@@ -1,0 +1,24 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo_40mm_SilkScreen>](#footprint-kicad-kicad-footprints-symbol-kicad-logo_40mm_silkscreen)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo_40mm_SilkScreen>
+
+## Tags
+
+- index: 11514
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Symbol
+- oompIndex: KiCad-Logo_40mm_SilkScreen
+- kicadDesc: KiCad Logo
+- kicadTags: Logo KiCad
+- kicadAttr: exclude_from_pos_files exclude_from_bom

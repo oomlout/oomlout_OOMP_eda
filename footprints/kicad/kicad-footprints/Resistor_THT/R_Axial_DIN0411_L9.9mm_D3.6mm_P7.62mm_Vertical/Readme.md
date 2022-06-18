@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical>](#footprint-kicad-kicad-footprints-resistor_tht-r_axial_din0411_l99mm_d36mm_p762mm_vertical)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical>
+
+## Tags
+
+- index: 11178
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Resistor_THT
+- oompIndex: R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical
+- kicadDesc: Resistor, Axial_DIN0411 series, Axial, Vertical, pin pitch=7.62mm, 1W, length*diameter=9.9*3.6mm^2
+- kicadTags: Resistor Axial_DIN0411 series Axial Vertical pin pitch 7.62mm 1W length 9.9mm diameter 3.6mm
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical.wrl

@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_s-pvqfn-n36_ep44x44mm_thermalvias)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias>
+
+## Tags
+
+- index: 9527
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias
+- kicadDesc: QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+- kicadTags: QFN NoLead
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N36_EP4.4x4.4mm.wrl

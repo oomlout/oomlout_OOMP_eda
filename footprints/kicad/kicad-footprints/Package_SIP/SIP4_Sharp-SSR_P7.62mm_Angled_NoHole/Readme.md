@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole>](#footprint-kicad-kicad-footprints-package_sip-sip4_sharp-ssr_p762mm_angled_nohole)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole>
+
+## Tags
+
+- index: 10083
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SIP
+- oompIndex: SIP4_Sharp-SSR_P7.62mm_Angled_NoHole
+- kicadDesc: SIP4 Footprint for SSR made by Sharp
+- kicadTags: Solid State relais SSR Sharp
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl

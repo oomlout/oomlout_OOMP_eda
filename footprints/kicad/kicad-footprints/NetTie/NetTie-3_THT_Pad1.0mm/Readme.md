@@ -1,0 +1,24 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-3_THT_Pad1.0mm>](#footprint-kicad-kicad-footprints-nettie-nettie-3_tht_pad10mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-3_THT_Pad1.0mm>
+
+## Tags
+
+- index: 8724
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: NetTie
+- oompIndex: NetTie-3_THT_Pad1.0mm
+- kicadDesc: Net tie, 3 pin, 1.0mm round THT pads
+- kicadTags: net tie
+- kicadAttr: exclude_from_pos_files exclude_from_bom

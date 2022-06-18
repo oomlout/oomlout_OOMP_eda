@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-wdfn-12-1ep_3x3mm_p045mm_ep17x25mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm>
+
+## Tags
+
+- index: 9647
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm
+- kicadDesc: WDFN, 12 Pin (https://www.diodes.com/assets/Datasheets/PAM2306.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+- kicadTags: WDFN NoLead
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm.wrl

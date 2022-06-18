@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-625_21.0x21.0mm_Layout25x25_P0.8mm>](#footprint-kicad-kicad-footprints-package_bga-bga-625_210x210mm_layout25x25_p08mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-625_21.0x21.0mm_Layout25x25_P0.8mm>
+
+## Tags
+
+- index: 8914
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_BGA
+- oompIndex: BGA-625_21.0x21.0mm_Layout25x25_P0.8mm
+- kicadDesc: BGA-625
+- kicadTags: BGA-625
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm.wrl

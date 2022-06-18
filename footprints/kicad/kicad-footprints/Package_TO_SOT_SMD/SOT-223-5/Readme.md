@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-5>](#footprint-kicad-kicad-footprints-package_to_sot_smd-sot-223-5)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-5>
+
+## Tags
+
+- index: 10528
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_TO_SOT_SMD
+- oompIndex: SOT-223-5
+- kicadDesc: module CMS SOT223 5 pins, http://ww1.microchip.com/downloads/en/DeviceDoc/51751a.pdf
+- kicadTags: CMS SOT
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223-5.wrl

@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L22.2mm_W8.0mm_PS14.30mm_P25.40mm>](#footprint-kicad-kicad-footprints-resistor_tht-r_axial_shunt_l222mm_w80mm_ps1430mm_p2540mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L22.2mm_W8.0mm_PS14.30mm_P25.40mm>
+
+## Tags
+
+- index: 11232
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Resistor_THT
+- oompIndex: R_Axial_Shunt_L22.2mm_W8.0mm_PS14.30mm_P25.40mm
+- kicadDesc: Resistor, Axial_Shunt series, Box, pin pitch=25.4mm, 3W, length*width*height=22.2*8*8mm^3, shunt pin pitch = 14.30mm, http://www.vishay.com/docs/30217/cpsl.pdf
+- kicadTags: Resistor Axial_Shunt series Box pin pitch 25.4mm 3W length 22.2mm width 8mm height 8mm shunt pin pitch 14.30mm
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Shunt_L22.2mm_W8.0mm_PS14.30mm_P25.40mm.wrl

@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_5.3x6.2mm_P1.27mm>](#footprint-kicad-kicad-footprints-package_so-so-8_53x62mm_p127mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_5.3x6.2mm_P1.27mm>
+
+## Tags
+
+- index: 10218
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SO
+- oompIndex: SO-8_5.3x6.2mm_P1.27mm
+- kicadDesc: SO, 8 Pin (https://www.ti.com/lit/ml/msop001a/msop001a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+- kicadTags: SO SO
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.wrl

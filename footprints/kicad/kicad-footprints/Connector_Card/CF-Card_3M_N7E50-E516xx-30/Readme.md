@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30>](#footprint-kicad-kicad-footprints-connector_card-cf-card_3m_n7e50-e516xx-30)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30>
+
+## Tags
+
+- index: 1256
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_Card
+- oompIndex: CF-Card_3M_N7E50-E516xx-30
+- kicadDesc: Compact Flash Card connector, normal polarization (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)
+- kicadTags: connector cf
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/CF-Card_3M_N7E50-E516xx-30.wrl
+
+
+
+[im]: image.png

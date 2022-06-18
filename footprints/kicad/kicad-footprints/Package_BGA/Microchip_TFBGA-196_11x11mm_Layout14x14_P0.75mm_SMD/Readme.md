@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD>](#footprint-kicad-kicad-footprints-package_bga-microchip_tfbga-196_11x11mm_layout14x14_p075mm_smd)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD>
+
+## Tags
+
+- index: 8938
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_BGA
+- oompIndex: Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
+- kicadDesc: TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956
+- kicadTags: BGA 196 0.75
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD.wrl

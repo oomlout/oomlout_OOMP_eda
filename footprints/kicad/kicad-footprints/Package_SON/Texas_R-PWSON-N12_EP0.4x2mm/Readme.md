@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm>](#footprint-kicad-kicad-footprints-package_son-texas_r-pwson-n12_ep04x2mm)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm>
+
+## Tags
+
+- index: 10438
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SON
+- oompIndex: Texas_R-PWSON-N12_EP0.4x2mm
+- kicadDesc: http://www.ti.com/lit/ds/symlink/tpd6f003.pdf
+- kicadTags: WSON SMD
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_R-PWSON-N12_EP0.4x2mm.wrl

@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42819-22XX_1x02_P10.00mm_Vertical_ThermalVias>](#footprint-kicad-kicad-footprints-connector_molex-molex_mini-fit_sr_42819-22xx_1x02_p1000mm_vertical_thermalvias)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42819-22XX_1x02_P10.00mm_Vertical_ThermalVias>
+
+## Tags
+
+- index: 3059
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_Molex
+- oompIndex: Molex_Mini-Fit_Sr_42819-22XX_1x02_P10.00mm_Vertical_ThermalVias
+- kicadDesc: Molex Mini-Fit Sr. Power Connectors, 42819-22XX, With thermal vias in pads, 2 Pins per row (http://www.molex.com/pdm_docs/sd/428192214_sd.pdf), generated with kicad-footprint-generator
+- kicadTags: connector Molex Mini-Fit_Sr side entry
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-22XX_1x02_P10.00mm_Vertical_ThermalVias.wrl
+
+
+
+[im]: image.png

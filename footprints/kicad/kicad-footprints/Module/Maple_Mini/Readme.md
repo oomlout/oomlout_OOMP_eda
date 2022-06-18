@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini>](#footprint-kicad-kicad-footprints-module-maple_mini)
+	* [Tags](#tags)
+
+# FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini>
+
+## Tags
+
+- index: 8375
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Module
+- oompIndex: Maple_Mini
+- kicadDesc: Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html
+- kicadTags: Maple Mini
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Maple_Mini.wrl
