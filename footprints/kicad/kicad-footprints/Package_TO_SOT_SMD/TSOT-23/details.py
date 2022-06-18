@@ -1,0 +1,19 @@
+###### OOMP FILE  ######
+
+import OOMP
+
+newPart = OOMP.oompItem()
+
+newPart.addTag("hexID", "")
+newPart.addTag("oompType", "FOOTPRINT")
+newPart.addTag("oompSize", "kicad")
+newPart.addTag("oompColor", "kicad-footprints")
+newPart.addTag("oompDesc", "Package_TO_SOT_SMD")
+newPart.addTag("oompIndex", "TSOT-23")
+
+newPart.addTag("kicadDesc", "3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf")
+newPart.addTag("kicadTags", "TSOT-23")
+newPart.addTag("kicadAttr", "smd")
+newPart.addTag("kicad3DModel", "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23.wrl")
+
+OOMP.parts.append(newPart)
