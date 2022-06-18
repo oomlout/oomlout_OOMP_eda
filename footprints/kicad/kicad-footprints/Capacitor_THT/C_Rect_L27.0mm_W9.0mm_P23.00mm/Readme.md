@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L27.0mm_W9.0mm_P23.00mm>](#footprint-kicad-kicad-footprints-capacitor_tht-c_rect_l270mm_w90mm_p2300mm)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L27.0mm_W9.0mm_P23.00mm>
+
+## Tags
+
+- index: 924
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Capacitor_THT
+- oompIndex: C_Rect_L27.0mm_W9.0mm_P23.00mm
+- kicadDesc: C, Rect series, Radial, pin pitch=23.00mm, , length*width=27*9mm^2, Capacitor
+- kicadTags: C Rect series Radial pin pitch 23.00mm  length 27mm width 9mm Capacitor
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L27.0mm_W9.0mm_P23.00mm.wrl
+
+
+
+[im]: image.png

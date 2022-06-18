@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D12.5mm_P2.50mm>](#footprint-kicad-kicad-footprints-capacitor_tht-cp_radial_d125mm_p250mm)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D12.5mm_P2.50mm>
+
+## Tags
+
+- index: 690
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Capacitor_THT
+- oompIndex: CP_Radial_D12.5mm_P2.50mm
+- kicadDesc: CP, Radial series, Radial, pin pitch=2.50mm, , diameter=12.5mm, Electrolytic Capacitor
+- kicadTags: CP Radial series Radial pin pitch 2.50mm  diameter 12.5mm Electrolytic Capacitor
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D12.5mm_P2.50mm.wrl
+
+
+
+[im]: image.png

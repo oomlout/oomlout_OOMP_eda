@@ -1,0 +1,30 @@
+
+
+
+
+Contents
+========
+
+* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L40.0mm_D16.0mm_P48.00mm_Horizontal>](#footprint-kicad-kicad-footprints-capacitor_tht-cp_axial_l400mm_d160mm_p4800mm_horizontal)
+	* [Tags](#tags)
+  
+![][im]
+# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L40.0mm_D16.0mm_P48.00mm_Horizontal>
+
+## Tags
+
+- index: 655
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Capacitor_THT
+- oompIndex: CP_Axial_L40.0mm_D16.0mm_P48.00mm_Horizontal
+- kicadDesc: CP, Axial series, Axial, Horizontal, pin pitch=48mm, , length*diameter=40*16mm^2, Electrolytic Capacitor
+- kicadTags: CP Axial series Axial Horizontal pin pitch 48mm  length 40mm diameter 16mm Electrolytic Capacitor
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L40.0mm_D16.0mm_P48.00mm_Horizontal.wrl
+
+
+
+[im]: image.png
