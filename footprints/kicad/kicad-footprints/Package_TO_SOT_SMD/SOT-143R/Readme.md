@@ -1,0 +1,26 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- index: 10410
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_TO_SOT_SMD
+- oompIndex: SOT-143R
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-143R
+- kicadDesc: SOT-143R, reverse pinning, https://www.nxp.com/docs/en/package-information/SOT143R.pdf
+- kicadTags: SOT-143R Reverse
+- kicadAttr: smd
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl
