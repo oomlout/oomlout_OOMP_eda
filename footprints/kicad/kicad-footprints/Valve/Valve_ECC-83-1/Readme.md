@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12303
+- index: 12304
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Valve
 - oompIndex: Valve_ECC-83-1
+- oompName: kicad-footprints/Valve/Valve_ECC-83-1
 - kicadDesc: Valve ECC-83-1 round pins
 - kicadTags: Valve ECC-83-1 round pins
 - kicadAttr: through_hole

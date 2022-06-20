@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9233
+- index: 9234
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias
 - kicadDesc: http://ww1.microchip.com/downloads/en/DeviceDoc/mic2290.pdf
 - kicadTags: mlf 8 2x2 mm
 - kicadAttr: smd

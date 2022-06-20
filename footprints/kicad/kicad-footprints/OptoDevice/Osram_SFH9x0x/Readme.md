@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8794
+- index: 8795
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Osram_SFH9x0x
+- oompName: kicad-footprints/OptoDevice/Osram_SFH9x0x
 - kicadDesc: package for Osram SFH9x0x series of reflective photo interrupters/couplers, see http://www.osram-os.com/Graphics/XPic6/00200860_0.pdf
 - kicadTags: reflective photo interrupter SMD
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8829
+- index: 8830
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_OCXO_Morion_MV317
+- oompName: kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV317
 - kicadDesc: https://www.morion-us.com/catalog_pdf/mv317.pdf
 - kicadTags: OCXO
 - kicadAttr: through_hole

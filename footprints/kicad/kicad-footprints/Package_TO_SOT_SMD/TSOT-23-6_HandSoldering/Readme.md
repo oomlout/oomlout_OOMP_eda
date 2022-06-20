@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10610
+- index: 10611
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: TSOT-23-6_HandSoldering
+- oompName: kicad-footprints/Package_TO_SOT_SMD/TSOT-23-6_HandSoldering
 - kicadDesc: 6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
 - kicadTags: TSOT-23-6 MK06A TSOT-6 Hand-soldering
 - kicadAttr: smd

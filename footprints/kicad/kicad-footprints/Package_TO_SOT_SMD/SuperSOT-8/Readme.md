@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10569
+- index: 10570
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SuperSOT-8
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SuperSOT-8
 - kicadDesc: 8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf
 - kicadTags: SuperSOT-8 SSOT-8
 - kicadAttr: smd

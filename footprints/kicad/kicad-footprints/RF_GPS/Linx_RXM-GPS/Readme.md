@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11266
+- index: 11267
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GPS
 - oompIndex: Linx_RXM-GPS
+- oompName: kicad-footprints/RF_GPS/Linx_RXM-GPS
 - kicadDesc: GPS Module, Linx (https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf)
 - kicadTags: gps linx
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4726
+- index: 4727
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_2.00mm
 - oompIndex: PinHeader_1x36_P2.00mm_Horizontal
+- oompName: kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x36_P2.00mm_Horizontal
 - kicadDesc: Through hole angled pin header, 1x36, 2.00mm pitch, 4.2mm pin length, single row
 - kicadTags: Through hole angled pin header THT 1x36 2.00mm single row
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10053
+- index: 10054
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: TQFP-176_24x24mm_P0.5mm
+- oompName: kicad-footprints/Package_QFP/TQFP-176_24x24mm_P0.5mm
 - kicadDesc: TQFP, 176 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: TQFP QFP
 - kicadAttr: smd

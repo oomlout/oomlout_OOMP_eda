@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2199
+- index: 2200
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical
 - kicadDesc: JST JWPF series connector, B02B-JWPF-SK-R (http://www.jst-mfg.com/product/pdf/eng/eJWPF1.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST JWPF side entry
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4021
+- index: 4022
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Pin
 - oompIndex: Pin_D1.0mm_L10.0mm
+- oompName: kicad-footprints/Connector_Pin/Pin_D1.0mm_L10.0mm
 - kicadDesc: solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm
 - kicadTags: solder Pin_ press fit
 - kicadAttr: through_hole

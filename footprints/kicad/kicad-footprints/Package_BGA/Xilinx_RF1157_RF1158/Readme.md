@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9021
+- index: 9022
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: Xilinx_RF1157_RF1158
+- oompName: kicad-footprints/Package_BGA/Xilinx_RF1157_RF1158
 - kicadDesc: Virtex-7 BGA, 34x34 grid, 35x35mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=305, NSMD pad definition Appendix A
 - kicadTags: BGA 1156 1 RF1157 RF1158
 - kicadAttr: smd

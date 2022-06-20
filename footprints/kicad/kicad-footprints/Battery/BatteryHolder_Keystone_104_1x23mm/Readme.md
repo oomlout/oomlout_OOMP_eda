@@ -20,6 +20,7 @@ Contents
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Keystone_104_1x23mm
+- oompName: kicad-footprints/Battery/BatteryHolder_Keystone_104_1x23mm
 - kicadDesc: http://www.keyelco.com/product-pdf.cfm?p=744
 - kicadTags: Keystone type 104 battery holder
 - kicadAttr: through_hole

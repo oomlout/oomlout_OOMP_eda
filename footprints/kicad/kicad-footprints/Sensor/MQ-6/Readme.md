@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11404
+- index: 11405
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor
 - oompIndex: MQ-6
+- oompName: kicad-footprints/Sensor/MQ-6
 - kicadDesc: Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
 - kicadTags: gas sensor
 - kicadAttr: through_hole

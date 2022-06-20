@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8914
+- index: 8915
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: BGA-625_21.0x21.0mm_Layout25x25_P0.8mm
+- oompName: kicad-footprints/Package_BGA/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm
 - kicadDesc: BGA-625
 - kicadTags: BGA-625
 - kicadAttr: smd

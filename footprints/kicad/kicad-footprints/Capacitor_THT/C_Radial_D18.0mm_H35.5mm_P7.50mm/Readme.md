@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 815
+- index: 816
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Radial_D18.0mm_H35.5mm_P7.50mm
+- oompName: kicad-footprints/Capacitor_THT/C_Radial_D18.0mm_H35.5mm_P7.50mm
 - kicadDesc: C, Radial series, Radial, pin pitch=7.50mm, diameter=18mm, height=35.5mm, Non-Polar Electrolytic Capacitor
 - kicadTags: C Radial series Radial pin pitch 7.50mm diameter 18mm height 35.5mm Non-Polar Electrolytic Capacitor
 - kicadAttr: through_hole

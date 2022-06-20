@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10511
+- index: 10512
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SC-59
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SC-59
 - kicadDesc: SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
 - kicadTags: SC-59
 - kicadAttr: smd

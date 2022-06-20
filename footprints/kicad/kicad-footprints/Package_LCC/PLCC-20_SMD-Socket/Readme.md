@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9942
+- index: 9943
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LCC
 - oompIndex: PLCC-20_SMD-Socket
+- oompName: kicad-footprints/Package_LCC/PLCC-20_SMD-Socket
 - kicadDesc: PLCC, 20 pins, surface mount
 - kicadTags: plcc smt
 - kicadAttr: smd

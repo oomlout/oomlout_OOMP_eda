@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3681
+- index: 3682
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MCV_1,5_9-GF-3.81_1x09_P3.81mm_Vertical_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_9-GF-3.81_1x09_P3.81mm_Vertical_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: MCV_1,5/9-GF-3.81; number of pins: 09; pin pitch: 3.81mm; Vertical; threaded flange || order number: 1830664 8A 160V
 - kicadTags: phoenix_contact connector MCV_01x09_GF_3.81mm
 - kicadAttr: through_hole

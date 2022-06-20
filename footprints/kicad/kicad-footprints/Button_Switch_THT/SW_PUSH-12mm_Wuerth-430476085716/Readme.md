@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 398
+- index: 399
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_PUSH-12mm_Wuerth-430476085716
+- oompName: kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716
 - kicadDesc: SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf
 - kicadTags: tact sw push 12mm
 - kicadAttr: through_hole

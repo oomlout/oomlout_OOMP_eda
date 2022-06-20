@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10526
+- index: 10527
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-223
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-223
 - kicadDesc: module CMS SOT223 4 pins
 - kicadTags: CMS SOT
 - kicadAttr: smd

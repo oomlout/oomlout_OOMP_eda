@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1075
+- index: 1076
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_6.35mm_Neutrik_NRJ4HF_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ4HF_Horizontal
 - kicadDesc: Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj4hf
 - kicadTags: neutrik jack slim
 - kicadAttr: through_hole

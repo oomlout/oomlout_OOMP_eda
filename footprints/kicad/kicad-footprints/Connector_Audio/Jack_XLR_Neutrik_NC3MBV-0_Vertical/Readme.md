@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1210
+- index: 1211
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC3MBV-0_Vertical
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MBV-0_Vertical
 - kicadDesc: B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-0
 - kicadTags: neutrik xlr b
 - kicadAttr: through_hole

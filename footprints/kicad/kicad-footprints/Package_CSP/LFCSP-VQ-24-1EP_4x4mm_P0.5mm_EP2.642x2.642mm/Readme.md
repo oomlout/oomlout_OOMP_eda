@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9069
+- index: 9070
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm
+- oompName: kicad-footprints/Package_CSP/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm
 - kicadDesc: LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf)
 - kicadTags: LFCSP 0.5
 - kicadAttr: smd

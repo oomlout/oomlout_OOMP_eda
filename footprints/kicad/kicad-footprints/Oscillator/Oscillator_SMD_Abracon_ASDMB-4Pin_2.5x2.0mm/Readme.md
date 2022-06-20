@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8834
+- index: 8835
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm
 - kicadDesc: Miniature Crystal Clock Oscillator Abracon ASDMB series, 2.5x2.0mm package, http://www.abracon.com/Oscillators/ASDMB.pdf
 - kicadTags: SMD SMT crystal oscillator
 - kicadAttr: smd

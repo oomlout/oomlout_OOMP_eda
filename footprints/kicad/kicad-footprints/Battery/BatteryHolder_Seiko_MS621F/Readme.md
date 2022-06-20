@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 34
+- index: 35
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Seiko_MS621F
+- oompName: kicad-footprints/Battery/BatteryHolder_Seiko_MS621F
 - kicadDesc: Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
 - kicadTags: Seiko MS621F
 - kicadAttr: smd

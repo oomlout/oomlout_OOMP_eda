@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8872
+- index: 8873
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm_HandSoldering
 - kicadDesc: SMD Crystal Oscillator Seiko Epson SG-8002CE https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, hand-soldering, 3.2x2.5mm^2 package
 - kicadTags: SMD SMT crystal oscillator hand-soldering
 - kicadAttr: smd

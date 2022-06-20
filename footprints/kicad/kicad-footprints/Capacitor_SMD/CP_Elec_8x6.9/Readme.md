@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 521
+- index: 522
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_8x6.9
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_8x6.9
 - kicadDesc: SMD capacitor, aluminum electrolytic, Panasonic E7, 8.0x6.9mm
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

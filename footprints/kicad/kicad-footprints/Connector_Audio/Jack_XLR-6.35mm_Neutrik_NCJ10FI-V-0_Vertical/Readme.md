@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1112
+- index: 1113
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR-6.35mm_Neutrik_NCJ10FI-V-0_Vertical
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ10FI-V-0_Vertical
 - kicadDesc: Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj10fi-v-0
 - kicadTags: neutrik jack combo i
 - kicadAttr: through_hole

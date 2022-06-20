@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9372
+- index: 9373
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm
 - kicadDesc: QFN, 36 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf#page=43), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

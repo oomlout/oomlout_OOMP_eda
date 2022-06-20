@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10164
+- index: 10165
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
+- oompName: kicad-footprints/Package_SO/MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias
 - kicadDesc: MSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/xtr111.pdf#page=27), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: MSOP SO
 - kicadAttr: smd

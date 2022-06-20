@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10517
+- index: 10518
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SC-82AB
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SC-82AB
 - kicadDesc: SC-82AB
 - kicadTags: SC-82AB
 - kicadAttr: smd

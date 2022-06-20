@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8606
+- index: 8607
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSI-M2_H4.5mm_9774045243
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M2_H4.5mm_9774045243
 - kicadDesc: Mounting Hardware, inside through hole M2, height 4.5, Wuerth electronics 9774045243 (https://katalog.we-online.de/em/datasheet/9774045243.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting M2 9774045243
 - kicadAttr: smd

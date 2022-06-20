@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 519
+- index: 520
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_8x6.5
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_8x6.5
 - kicadDesc: SMD capacitor, aluminum electrolytic, Rubycon, 8.0x6.5mm
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

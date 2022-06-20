@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1114
+- index: 1115
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR-6.35mm_Neutrik_NCJ5FI-H-0_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ5FI-H-0_Horizontal
 - kicadDesc: Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj5fi-h-0
 - kicadTags: neutrik jack combo i
 - kicadAttr: through_hole

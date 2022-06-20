@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1119
+- index: 1120
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal
 - kicadDesc: Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-h-da
 - kicadTags: neutrik jack combo a
 - kicadAttr: through_hole

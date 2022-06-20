@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9893
+- index: 9894
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: SMDIP-40_W15.24mm
+- oompName: kicad-footprints/Package_DIP/SMDIP-40_W15.24mm
 - kicadDesc: 40-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
 - kicadTags: SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
 - kicadAttr: smd

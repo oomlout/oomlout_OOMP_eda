@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8757
+- index: 8758
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Everlight_ITR8307
+- oompName: kicad-footprints/OptoDevice/Everlight_ITR8307
 - kicadDesc: package for Everlight ITR8307 with PCB cutout, light-direction upwards, see http://www.everlight.com/file/ProductFile/ITR8307.pdf
 - kicadTags: refective opto couple photo coupler
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11315
+- index: 11316
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: Ai-Thinker-Ra-01-LoRa
+- oompName: kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa
 - kicadDesc: Ai Thinker Ra-01 LoRa
 - kicadTags: LoRa Ra-01
 - kicadAttr: smd

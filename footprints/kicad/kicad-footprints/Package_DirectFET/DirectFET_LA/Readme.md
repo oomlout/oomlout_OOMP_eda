@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9915
+- index: 9916
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DirectFET
 - oompIndex: DirectFET_LA
+- oompName: kicad-footprints/Package_DirectFET/DirectFET_LA
 - kicadDesc: DirectFET LA https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=44
 - kicadTags: DirectFET LA MOSFET Infineon
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8306
+- index: 8307
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D5.0mm-3
+- oompName: kicad-footprints/LED_THT/LED_D5.0mm-3
 - kicadDesc: LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-59EGC(Ver.17A).pdf
 - kicadTags: LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins
 - kicadAttr: through_hole

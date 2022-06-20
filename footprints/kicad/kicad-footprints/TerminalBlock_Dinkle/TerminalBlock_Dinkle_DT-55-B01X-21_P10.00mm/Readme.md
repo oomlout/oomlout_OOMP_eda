@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11697
+- index: 11698
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_Dinkle
 - oompIndex: TerminalBlock_Dinkle_DT-55-B01X-21_P10.00mm
+- oompName: kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-21_P10.00mm
 - kicadDesc: Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX
 - kicadTags: Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
 - kicadAttr: through_hole

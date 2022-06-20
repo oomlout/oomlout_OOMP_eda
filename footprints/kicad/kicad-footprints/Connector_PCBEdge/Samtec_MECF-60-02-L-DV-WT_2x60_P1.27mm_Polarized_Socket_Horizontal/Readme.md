@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3489
+- index: 3490
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PCBEdge
 - oompIndex: Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
+- oompName: kicad-footprints/Connector_PCBEdge/Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
 - kicadDesc: Highspeed card edge connector for 2.4mm PCB's with 60 contacts (polarized)
 - kicadTags: conn samtec card-edge high-speed
 - kicadAttr: smd

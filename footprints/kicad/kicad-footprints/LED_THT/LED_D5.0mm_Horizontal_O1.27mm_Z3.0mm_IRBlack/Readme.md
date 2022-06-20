@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8316
+- index: 8317
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack
+- oompName: kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack
 - kicadDesc: LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
 - kicadTags: LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
 - kicadAttr: through_hole

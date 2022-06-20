@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1226
+- index: 1227
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC5FAH-0_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5FAH-0_Horizontal
 - kicadDesc: A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc5fah-0
 - kicadTags: neutrik xlr a
 - kicadAttr: through_hole

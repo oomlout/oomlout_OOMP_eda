@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11394
+- index: 11395
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Rotary_Encoder
 - oompIndex: RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles
+- oompName: kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles
 - kicadDesc: Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 - kicadTags: rotary encoder
 - kicadAttr: through_hole

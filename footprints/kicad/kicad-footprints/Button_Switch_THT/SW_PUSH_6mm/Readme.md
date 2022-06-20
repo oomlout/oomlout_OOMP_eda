@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 411
+- index: 412
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_PUSH_6mm
+- oompName: kicad-footprints/Button_Switch_THT/SW_PUSH_6mm
 - kicadDesc: https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 - kicadTags: tact sw push 6mm
 - kicadAttr: through_hole

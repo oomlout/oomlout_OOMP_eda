@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11101
+- index: 11102
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+- oompName: kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
 - kicadDesc: Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 - kicadTags: resistor handsolder
 - kicadAttr: smd

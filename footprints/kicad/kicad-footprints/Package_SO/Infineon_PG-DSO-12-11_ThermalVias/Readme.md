@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10142
+- index: 10143
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: Infineon_PG-DSO-12-11_ThermalVias
+- oompName: kicad-footprints/Package_SO/Infineon_PG-DSO-12-11_ThermalVias
 - kicadDesc: Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-11/)
 - kicadTags: PG-DSO
 - kicadAttr: smd

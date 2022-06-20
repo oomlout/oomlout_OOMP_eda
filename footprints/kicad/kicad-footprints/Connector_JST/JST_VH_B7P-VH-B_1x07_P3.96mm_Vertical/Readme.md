@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2426
+- index: 2427
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_VH_B7P-VH-B_1x07_P3.96mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_VH_B7P-VH-B_1x07_P3.96mm_Vertical
 - kicadDesc: JST VH PBT series connector, B7P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST VH vertical
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10560
+- index: 10561
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-883
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-883
 - kicadDesc: SOT-883, https://assets.nexperia.com/documents/outline-drawing/SOT883.pdf
 - kicadTags: SOT-883
 - kicadAttr: smd

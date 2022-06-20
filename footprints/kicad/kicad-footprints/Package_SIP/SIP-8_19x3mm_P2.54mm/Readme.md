@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10078
+- index: 10079
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SIP
 - oompIndex: SIP-8_19x3mm_P2.54mm
+- oompName: kicad-footprints/Package_SIP/SIP-8_19x3mm_P2.54mm
 - kicadDesc: SIP 8-pin (http://www.njr.com/semicon/PDF/package/SIP8_E.pdf)
 - kicadTags: SIP8
 - kicadAttr: through_hole

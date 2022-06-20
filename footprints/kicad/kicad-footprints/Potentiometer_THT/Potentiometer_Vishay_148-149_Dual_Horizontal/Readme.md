@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10972
+- index: 10973
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Vishay_148-149_Dual_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Dual_Horizontal
 - kicadDesc: Potentiometer, horizontal, Vishay 148-149 Dual, http://www.vishay.com/docs/57040/148149.pdf
 - kicadTags: Potentiometer horizontal Vishay 148-149 Dual
 - kicadAttr: through_hole

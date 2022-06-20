@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8877
+- index: 8878
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm
 - kicadDesc: SMD Crystal Oscillator Seiko Epson SG-8002LB https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 5.0x3.2mm^2 package
 - kicadTags: SMD SMT crystal oscillator
 - kicadAttr: smd

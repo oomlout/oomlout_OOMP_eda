@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 433
+- index: 434
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: Buzzer_CUI_CPT-9019S-SMT
+- oompName: kicad-footprints/Buzzer_Beeper/Buzzer_CUI_CPT-9019S-SMT
 - kicadDesc: https://www.cui.com/product/resource/cpt-9019s-smt.pdf
 - kicadTags: buzzer piezo
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8880
+- index: 8881
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_SI570_SI571_Standard
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_SI570_SI571_Standard
 - kicadDesc: SI570, SI571, Programmable oscillator, Standard
 - kicadTags: SI570 SI571 Programmable oscillator Standard
 - kicadAttr: smd

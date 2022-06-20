@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10176
+- index: 10177
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: MSOP-16_3x4mm_P0.5mm
+- oompName: kicad-footprints/Package_SO/MSOP-16_3x4mm_P0.5mm
 - kicadDesc: MSOP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf#page=22), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: MSOP SO
 - kicadAttr: smd

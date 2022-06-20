@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10116
+- index: 10117
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm
+- oompName: kicad-footprints/Package_SO/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm
 - kicadDesc: 20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [HTSSOP], with thermal pad with vias
 - kicadTags: HTSSOP 0.65
 - kicadAttr: smd

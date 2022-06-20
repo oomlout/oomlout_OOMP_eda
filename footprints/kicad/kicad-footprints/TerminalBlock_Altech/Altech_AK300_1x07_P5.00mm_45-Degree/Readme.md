@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11660
+- index: 11661
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_Altech
 - oompIndex: Altech_AK300_1x07_P5.00mm_45-Degree
+- oompName: kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x07_P5.00mm_45-Degree
 - kicadDesc: Altech AK300 serie terminal block (Script generated with StandardBox.py) (http://www.altechcorp.com/PDFS/PCBMETRC.PDF)
 - kicadTags: Altech AK300 serie connector
 - kicadAttr: through_hole

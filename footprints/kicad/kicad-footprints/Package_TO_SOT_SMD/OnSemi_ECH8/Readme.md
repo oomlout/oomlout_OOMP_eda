@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10506
+- index: 10507
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: OnSemi_ECH8
+- oompName: kicad-footprints/Package_TO_SOT_SMD/OnSemi_ECH8
 - kicadDesc: On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF
 - kicadTags: ECH8 SOT28-FL SOT-28-FL
 - kicadAttr: smd

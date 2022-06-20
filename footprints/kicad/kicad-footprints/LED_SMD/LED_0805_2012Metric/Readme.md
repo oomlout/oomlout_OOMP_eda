@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8205
+- index: 8206
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_0805_2012Metric
+- oompName: kicad-footprints/LED_SMD/LED_0805_2012Metric
 - kicadDesc: LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 - kicadTags: LED
 - kicadAttr: smd

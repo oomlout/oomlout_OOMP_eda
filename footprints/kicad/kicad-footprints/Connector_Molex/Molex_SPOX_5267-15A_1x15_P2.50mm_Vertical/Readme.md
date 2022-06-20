@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3395
+- index: 3396
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_SPOX_5267-15A_1x15_P2.50mm_Vertical
 - kicadDesc: Molex SPOX Connector System, 5267-15A, 15 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex SPOX side entry
 - kicadAttr: through_hole

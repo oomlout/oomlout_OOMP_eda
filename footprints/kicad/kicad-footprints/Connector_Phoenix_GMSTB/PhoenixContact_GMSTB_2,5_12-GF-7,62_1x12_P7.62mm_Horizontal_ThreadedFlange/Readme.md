@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3575
+- index: 3576
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_GMSTB
 - oompIndex: PhoenixContact_GMSTB_2,5_12-GF-7,62_1x12_P7.62mm_Horizontal_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTB_2,5_12-GF-7,62_1x12_P7.62mm_Horizontal_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: GMSTB_2,5/12-GF-7,62; number of pins: 12; pin pitch: 7.62mm; Angled; threaded flange || order number: 1806326 12A 630V
 - kicadTags: phoenix_contact connector GMSTB_01x12_GF_7.62mm
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12068
+- index: 12069
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_WAGO
 - oompIndex: TerminalBlock_WAGO_236-406_1x06_P5.00mm_45Degree
+- oompName: kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-406_1x06_P5.00mm_45Degree
 - kicadDesc: Terminal Block WAGO 236-406, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 32.3x14mm^2, drill diamater 1.15mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
 - kicadTags: THT Terminal Block WAGO 236-406 45Degree pitch 5mm size 32.3x14mm^2 drill 1.15mm pad 3mm
 - kicadAttr: through_hole

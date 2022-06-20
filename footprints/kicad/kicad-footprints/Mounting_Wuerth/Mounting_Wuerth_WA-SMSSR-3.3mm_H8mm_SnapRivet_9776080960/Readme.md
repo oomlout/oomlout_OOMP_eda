@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8662
+- index: 8663
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSSR-3.3mm_H8mm_SnapRivet_9776080960
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H8mm_SnapRivet_9776080960
 - kicadDesc: Mounting Hardware, inside through hole 3.3mm, height 8, Wuerth electronics 9776080960 (https://katalog.we-online.com/em/datasheet/9776080960.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting 3.3mm 9776080960
 - kicadAttr: smd

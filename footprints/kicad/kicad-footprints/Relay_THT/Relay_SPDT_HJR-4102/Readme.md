@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11039
+- index: 11040
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_HJR-4102
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_HJR-4102
 - kicadDesc: IM Signal Relay SPDT HJR-4102
 - kicadTags: Relay SPDT IM-relay HJR-4102
 - kicadAttr: through_hole

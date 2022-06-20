@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9122
+- index: 9123
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: WLCSP-16_4x4_B2.17x2.32mm_P0.5mm
+- oompName: kicad-footprints/Package_CSP/WLCSP-16_4x4_B2.17x2.32mm_P0.5mm
 - kicadDesc: WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf
 - kicadTags: WLCSP-16 NXP
 - kicadAttr: smd

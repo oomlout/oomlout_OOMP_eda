@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1472
+- index: 1473
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Dsub
 - oompIndex: DSUB-9_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+- oompName: kicad-footprints/Connector_Dsub/DSUB-9_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
 - kicadDesc: 9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
 - kicadTags: 9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
 - kicadAttr: through_hole

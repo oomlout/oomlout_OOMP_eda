@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8762
+- index: 8763
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Hamamatsu_S13360-30CS
+- oompName: kicad-footprints/OptoDevice/Hamamatsu_S13360-30CS
 - kicadDesc: SiPM, 2pin
 - kicadTags: Hamamatsu SiPM
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8228
+- index: 8229
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Cree-XHP35
+- oompName: kicad-footprints/LED_SMD/LED_Cree-XHP35
 - kicadDesc: http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds--XHP35.pdf
 - kicadTags: LED Cree XHP35
 - kicadAttr: smd

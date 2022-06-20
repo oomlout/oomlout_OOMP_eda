@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12264
+- index: 12265
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_CHK_EI54-12VA_1xSec
+- oompName: kicad-footprints/Transformer_THT/Transformer_CHK_EI54-12VA_1xSec
 - kicadDesc: Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,http://www.eratransformers.com/product-detail/19
 - kicadTags: Trafo Printtrafo CHK EI54 12VA 1x Sec
 - kicadAttr: through_hole

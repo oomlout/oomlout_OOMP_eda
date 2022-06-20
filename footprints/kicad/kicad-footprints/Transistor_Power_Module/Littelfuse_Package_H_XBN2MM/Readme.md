@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12296
+- index: 12297
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transistor_Power_Module
 - oompIndex: Littelfuse_Package_H_XBN2MM
+- oompName: kicad-footprints/Transistor_Power_Module/Littelfuse_Package_H_XBN2MM
 - kicadDesc: 24-lead TH, Package H, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1215h_xbn2mm_datasheet.pdf.pdf
 - kicadTags: brifge rectifier igbt diode module
 - kicadAttr: through_hole

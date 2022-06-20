@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1822
+- index: 1823
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Hirose
 - oompIndex: Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical
+- oompName: kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical
 - kicadDesc: Hirose DF12C SMD, DF12C3.0-10DS-0.5V, 10 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
 - kicadTags: connector Hirose DF12 vertical
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3925
+- index: 3926
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBV_2,5_16-GF_1x16_P5.00mm_Vertical_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_16-GF_1x16_P5.00mm_Vertical_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBV_2,5/16-GF; number of pins: 16; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776028 12A
 - kicadTags: phoenix_contact connector MSTBV_01x16_GF_5.00mm
 - kicadAttr: through_hole

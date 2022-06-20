@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2949
+- index: 2950
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Micro-Latch_53254-1170_1x11_P2.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Micro-Latch_53254-1170_1x11_P2.00mm_Horizontal
 - kicadDesc: Molex Micro-Latch Wire-to-Board Connector System, 53254-1170 (compatible alternatives: 53254-1150), 11 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Micro-Latch top entry
 - kicadAttr: through_hole

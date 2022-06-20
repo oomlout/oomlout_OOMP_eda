@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 801
+- index: 802
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Disc_D8.0mm_W5.0mm_P10.00mm
+- oompName: kicad-footprints/Capacitor_THT/C_Disc_D8.0mm_W5.0mm_P10.00mm
 - kicadDesc: C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=8*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
 - kicadTags: C Disc series Radial pin pitch 10.00mm  diameter 8mm width 5.0mm Capacitor
 - kicadAttr: through_hole

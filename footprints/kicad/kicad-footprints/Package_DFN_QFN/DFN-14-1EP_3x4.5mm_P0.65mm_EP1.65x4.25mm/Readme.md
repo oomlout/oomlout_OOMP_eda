@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9157
+- index: 9158
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm
 - kicadDesc: 14-lead very thin plastic quad flat, 3.0x4.5mm size, 0.65mm pitch (http://ww1.microchip.com/downloads/en/DeviceDoc/14L_VDFN_4_5x3_0mm_JHA_C041198A.pdf)
 - kicadTags: VDFN DFN 0.65mm
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 443
+- index: 444
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: MagneticBuzzer_Kingstate_KCG0601
+- oompName: kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kingstate_KCG0601
 - kicadDesc: Buzzer, Elektromagnetic Beeper, Summer,
 - kicadTags: Kingstate KCG0601
 - kicadAttr: through_hole

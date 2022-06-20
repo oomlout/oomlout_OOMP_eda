@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11307
+- index: 11308
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Mini-Circuits
 - oompIndex: Mini-Circuits_QQQ130_ClockwisePinNumbering
+- oompName: kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering
 - kicadDesc: Footprint for Mini-Circuits case QQQ130 (https://ww2.minicircuits.com/case_style/QQQ130.pdf)
 - kicadTags: Mini-Circuits QQQ130
 - kicadAttr: smd

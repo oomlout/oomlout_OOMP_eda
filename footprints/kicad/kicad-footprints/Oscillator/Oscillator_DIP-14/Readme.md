@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8824
+- index: 8825
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_DIP-14
+- oompName: kicad-footprints/Oscillator/Oscillator_DIP-14
 - kicadDesc: Oscillator, DIP14, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
 - kicadTags: oscillator
 - kicadAttr: through_hole

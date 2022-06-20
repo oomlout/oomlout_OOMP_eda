@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10154
+- index: 10155
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: Infineon_PG-TSDSO-14-22
+- oompName: kicad-footprints/Package_SO/Infineon_PG-TSDSO-14-22
 - kicadDesc: Infineon_PG-TSDSO-14-22
 - kicadTags: Infineon TSDSO 14-22
 - kicadAttr: smd

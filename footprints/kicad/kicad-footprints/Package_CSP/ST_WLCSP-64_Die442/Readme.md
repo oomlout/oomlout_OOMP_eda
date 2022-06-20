@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9109
+- index: 9110
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: ST_WLCSP-64_Die442
+- oompName: kicad-footprints/Package_CSP/ST_WLCSP-64_Die442
 - kicadDesc: WLCSP-64, 8x8 raster, 3.347x3.585mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f091vb.pdf
 - kicadTags: BGA 64 0.4
 - kicadAttr: smd

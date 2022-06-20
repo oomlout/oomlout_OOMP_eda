@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9080
+- index: 9081
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: ST_WLCSP-100_Die452
+- oompName: kicad-footprints/Package_CSP/ST_WLCSP-100_Die452
 - kicadDesc: WLCSP-100, 10x10 raster, 4.201x4.663mm package, pitch 0.4mm; see section 7.7 of http://www.st.com/resource/en/datasheet/DM00330506.pdf
 - kicadTags: BGA 100 0.4
 - kicadAttr: smd

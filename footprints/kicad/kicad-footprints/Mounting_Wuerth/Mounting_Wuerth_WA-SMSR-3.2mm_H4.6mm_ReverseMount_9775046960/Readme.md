@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8634
+- index: 8635
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSR-3.2mm_H4.6mm_ReverseMount_9775046960
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-3.2mm_H4.6mm_ReverseMount_9775046960
 - kicadDesc: Mounting Hardware, inside through hole 3.2mm, height 4.6, Wuerth electronics 9775046960 (https://katalog.we-online.com/em/datasheet/9775046960.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting 3.2mm 9775046960
 - kicadAttr: smd

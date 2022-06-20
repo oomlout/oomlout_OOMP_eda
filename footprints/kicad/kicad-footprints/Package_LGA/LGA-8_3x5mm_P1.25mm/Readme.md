@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9980
+- index: 9981
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: LGA-8_3x5mm_P1.25mm
+- oompName: kicad-footprints/Package_LGA/LGA-8_3x5mm_P1.25mm
 - kicadDesc: LGA-8
 - kicadTags: lga land grid array
 - kicadAttr: smd

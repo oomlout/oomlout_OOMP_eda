@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 975
+- index: 976
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+- oompName: kicad-footprints/Capacitor_THT/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
 - kicadDesc: C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
 - kicadTags: C Rect series Radial pin pitch 5.00mm  length 7.2mm width 2.5mm Capacitor
 - kicadAttr: through_hole

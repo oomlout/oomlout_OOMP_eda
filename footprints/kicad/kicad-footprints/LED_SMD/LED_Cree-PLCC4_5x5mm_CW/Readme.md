@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8224
+- index: 8225
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Cree-PLCC4_5x5mm_CW
+- oompName: kicad-footprints/LED_SMD/LED_Cree-PLCC4_5x5mm_CW
 - kicadDesc: 5.0mm x 5.0mm PLCC4 LED
 - kicadTags: LED Cree PLCC-4
 - kicadAttr: smd

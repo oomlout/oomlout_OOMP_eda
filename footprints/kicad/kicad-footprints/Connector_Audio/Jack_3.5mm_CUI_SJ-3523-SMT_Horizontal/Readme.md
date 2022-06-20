@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1039
+- index: 1040
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
 - kicadDesc: 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
 - kicadTags: 3.5mm audio cui horizontal jack stereo
 - kicadAttr: smd

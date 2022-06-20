@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9591
+- index: 9592
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
+- oompName: kicad-footprints/Package_DFN_QFN/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
 - kicadDesc: 16-Lead Ultra Thin Quad Flat, No Lead Package (UC) - 3x3x0.5 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)
 - kicadTags: QFN 0.5
 - kicadAttr: smd

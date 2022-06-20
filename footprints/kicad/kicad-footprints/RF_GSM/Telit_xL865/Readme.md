@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11282
+- index: 11283
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GSM
 - oompIndex: Telit_xL865
+- oompName: kicad-footprints/RF_GSM/Telit_xL865
 - kicadDesc: Telit xL865 familly footprint, http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf
 - kicadTags: xL865 gsm umts
 - kicadAttr: smd

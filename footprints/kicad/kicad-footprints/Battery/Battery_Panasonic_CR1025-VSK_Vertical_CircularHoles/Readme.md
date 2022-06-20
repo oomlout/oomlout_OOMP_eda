@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 37
+- index: 38
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
+- oompName: kicad-footprints/Battery/Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
 - kicadDesc: Panasonic CR-1025/VSK battery
 - kicadTags: battery CR-1025 coin cell vertical
 - kicadAttr: through_hole

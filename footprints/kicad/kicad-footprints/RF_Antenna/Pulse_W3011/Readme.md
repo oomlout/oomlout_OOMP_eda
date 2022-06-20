@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11256
+- index: 11257
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Antenna
 - oompIndex: Pulse_W3011
+- oompName: kicad-footprints/RF_Antenna/Pulse_W3011
 - kicadDesc: Pulse RF Antenna, 4mm Clearance
 - kicadTags: antenna rf
 - kicadAttr: smd

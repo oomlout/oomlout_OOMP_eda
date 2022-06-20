@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10343
+- index: 10344
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: TSOP-II-54_22.2x10.16mm_P0.8mm
+- oompName: kicad-footprints/Package_SO/TSOP-II-54_22.2x10.16mm_P0.8mm
 - kicadDesc: 54-lead TSOP typ II package
 - kicadTags: TSOPII TSOP2
 - kicadAttr: smd

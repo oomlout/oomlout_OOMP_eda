@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1294
+- index: 1295
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
+- oompName: kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
 - kicadDesc: Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)
 - kicadTags: SMA Straight Samtec Edge Mount
 - kicadAttr: smd

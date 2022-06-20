@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11493
+- index: 11494
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Symbol
 - oompIndex: KiCad-Logo2_12mm_Copper
+- oompName: kicad-footprints/Symbol/KiCad-Logo2_12mm_Copper
 - kicadDesc: KiCad Logo
 - kicadTags: Logo KiCad
 - kicadAttr: exclude_from_pos_files exclude_from_bom

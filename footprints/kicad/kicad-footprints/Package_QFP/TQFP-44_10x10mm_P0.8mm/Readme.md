@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10056
+- index: 10057
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: TQFP-44_10x10mm_P0.8mm
+- oompName: kicad-footprints/Package_QFP/TQFP-44_10x10mm_P0.8mm
 - kicadDesc: 44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
 - kicadTags: QFP 0.8
 - kicadAttr: smd

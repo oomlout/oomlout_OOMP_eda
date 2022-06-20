@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 59
+- index: 60
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_Keyboard
 - oompIndex: SW_Cherry_MX_1.50u_Plate
+- oompName: kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.50u_Plate
 - kicadDesc: Cherry MX keyswitch, 1.50u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 - kicadTags: Cherry MX keyswitch 1.50u plate
 - kicadAttr: through_hole

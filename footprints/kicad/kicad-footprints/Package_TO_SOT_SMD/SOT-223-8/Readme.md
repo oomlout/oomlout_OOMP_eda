@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10531
+- index: 10532
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-223-8
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-223-8
 - kicadDesc: module CMS SOT223 8 pins, https://www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf
 - kicadTags: CMS SOT
 - kicadAttr: smd

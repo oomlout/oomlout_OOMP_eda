@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10447
+- index: 10448
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: USON-10_2.5x1.0mm_P0.5mm
+- oompName: kicad-footprints/Package_SON/USON-10_2.5x1.0mm_P0.5mm
 - kicadDesc: USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
 - kicadTags: USON-10 2.5x1.0mm Pitch 0.5mm
 - kicadAttr: smd

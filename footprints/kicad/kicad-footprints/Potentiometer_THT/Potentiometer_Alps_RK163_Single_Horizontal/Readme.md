@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10906
+- index: 10907
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Alps_RK163_Single_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK163_Single_Horizontal
 - kicadDesc: 1110U1Q 1110TNP 1110U2A 1110U0Q Potentiometer, horizontal, Alps RK163 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
 - kicadTags: Potentiometer horizontal Alps RK163 Single
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 437
+- index: 438
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: Buzzer_Murata_PKLCS1212E
+- oompName: kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E
 - kicadDesc: Murata Buzzer https://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx
 - kicadTags: Murata Buzzer Beeper
 - kicadAttr: smd

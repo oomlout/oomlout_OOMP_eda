@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12308
+- index: 12309
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Valve
 - oompIndex: Valve_Mini_P
+- oompName: kicad-footprints/Valve/Valve_Mini_P
 - kicadDesc: Valve mini P
 - kicadTags: Valve mini P
 - kicadAttr: through_hole

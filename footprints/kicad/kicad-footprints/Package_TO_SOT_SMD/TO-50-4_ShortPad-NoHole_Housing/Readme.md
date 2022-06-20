@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10604
+- index: 10605
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: TO-50-4_ShortPad-NoHole_Housing
+- oompName: kicad-footprints/Package_TO_SOT_SMD/TO-50-4_ShortPad-NoHole_Housing
 - kicadDesc: TO-50-4 Macro X Package Style M238
 - kicadTags: TO-50-4 Macro X Package Style M238
 - kicadAttr: smd

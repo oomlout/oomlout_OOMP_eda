@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11402
+- index: 11403
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor
 - oompIndex: Avago_ADPS-9960
+- oompName: kicad-footprints/Sensor/Avago_ADPS-9960
 - kicadDesc: Digital Proximity, Ambient Light, RGB and Gesture Sensor (https://docs.broadcom.com/doc/AV02-4191EN)
 - kicadTags: DFN Sensor optical IR
 - kicadAttr: smd

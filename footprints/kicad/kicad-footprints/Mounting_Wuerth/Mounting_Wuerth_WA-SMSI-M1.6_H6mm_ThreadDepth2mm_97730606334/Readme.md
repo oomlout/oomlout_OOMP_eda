@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8597
+- index: 8598
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606334
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606334
 - kicadDesc: Mounting Hardware, inside blind hole M1.6, height 6, Wuerth electronics 97730606334 (https://katalog.we-online.com/em/datasheet/97730606334.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting M1.6 97730606334
 - kicadAttr: smd

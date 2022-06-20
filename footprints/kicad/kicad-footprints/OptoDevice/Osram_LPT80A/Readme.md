@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8791
+- index: 8792
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Osram_LPT80A
+- oompName: kicad-footprints/OptoDevice/Osram_LPT80A
 - kicadDesc: PhotoTransistor, sidelooker package, RM2.54
 - kicadTags: PhotoTransistor sidelooker package RM2.54
 - kicadAttr: through_hole

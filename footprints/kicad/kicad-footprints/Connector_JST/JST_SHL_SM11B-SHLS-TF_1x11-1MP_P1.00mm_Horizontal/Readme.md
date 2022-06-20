@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2336
+- index: 2337
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_SHL_SM11B-SHLS-TF_1x11-1MP_P1.00mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_SHL_SM11B-SHLS-TF_1x11-1MP_P1.00mm_Horizontal
 - kicadDesc: JST SHL series connector, SM11B-SHLS-TF (http://www.jst-mfg.com/product/pdf/eng/eSHL.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST SHL top entry
 - kicadAttr: smd

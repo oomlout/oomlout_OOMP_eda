@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10437
+- index: 10438
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_PWSON-N6
+- oompName: kicad-footprints/Package_SON/Texas_PWSON-N6
 - kicadDesc: Plastic Small Outline No-Lead http://www.ti.com/lit/ml/mpds176e/mpds176e.pdf
 - kicadTags: Plastic Small Outline No-Lead
 - kicadAttr: smd

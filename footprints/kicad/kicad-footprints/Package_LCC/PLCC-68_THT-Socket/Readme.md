@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9959
+- index: 9960
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LCC
 - oompIndex: PLCC-68_THT-Socket
+- oompName: kicad-footprints/Package_LCC/PLCC-68_THT-Socket
 - kicadDesc: PLCC, 68 pins, through hole
 - kicadTags: plcc leaded
 - kicadAttr: through_hole

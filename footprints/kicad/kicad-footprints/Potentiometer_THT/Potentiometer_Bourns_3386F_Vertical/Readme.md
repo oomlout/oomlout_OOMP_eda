@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10934
+- index: 10935
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Bourns_3386F_Vertical
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3386F_Vertical
 - kicadDesc: Potentiometer, vertical, Bourns 3386F, https://www.bourns.com/pdfs/3386.pdf
 - kicadTags: Potentiometer vertical Bourns 3386F
 - kicadAttr: through_hole

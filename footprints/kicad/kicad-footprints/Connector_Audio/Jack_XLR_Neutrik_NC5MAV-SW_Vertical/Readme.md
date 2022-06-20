@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1238
+- index: 1239
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC5MAV-SW_Vertical
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5MAV-SW_Vertical
 - kicadDesc: A Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav-sw
 - kicadTags: neutrik xlr a
 - kicadAttr: through_hole

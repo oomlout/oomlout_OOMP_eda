@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3112
+- index: 3113
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Nano-Fit_105314-xx10_2x05_P2.50mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Nano-Fit_105314-xx10_2x05_P2.50mm_Horizontal
 - kicadDesc: Molex Nano-Fit Power Connectors, 105314-xx10, 5 Pins per row (http://www.molex.com/pdm_docs/sd/1053141208_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Nano-Fit top entry
 - kicadAttr: through_hole

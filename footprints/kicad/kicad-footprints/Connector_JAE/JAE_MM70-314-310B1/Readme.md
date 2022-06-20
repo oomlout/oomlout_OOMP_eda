@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2122
+- index: 2123
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JAE
 - oompIndex: JAE_MM70-314-310B1
+- oompName: kicad-footprints/Connector_JAE/JAE_MM70-314-310B1
 - kicadDesc: http://www.heilind.com/marketing/documents/jae/JAE_MM70.pdf
 - kicadTags: connector JAE MXM
 - kicadAttr: smd

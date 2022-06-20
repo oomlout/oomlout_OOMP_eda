@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8860
+- index: 8861
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm
 - kicadDesc: SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm
 - kicadTags: SMD SMT crystal oscillator
 - kicadAttr: smd

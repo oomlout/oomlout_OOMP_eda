@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 436
+- index: 437
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: Buzzer_Mallory_AST1240MLQ
+- oompName: kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1240MLQ
 - kicadDesc: Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf
 - kicadTags: piezo buzzer
 - kicadAttr: smd

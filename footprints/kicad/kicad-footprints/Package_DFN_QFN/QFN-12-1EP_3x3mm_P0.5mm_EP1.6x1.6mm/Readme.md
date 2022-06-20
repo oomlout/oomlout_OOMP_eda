@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9261
+- index: 9262
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
 - kicadDesc: QFN, 12 Pin (https://www.nxp.com/docs/en/data-sheet/MMZ09332B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10564
+- index: 10565
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-89-5
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-89-5
 - kicadDesc: SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
 - kicadTags: SOT-89-5
 - kicadAttr: smd

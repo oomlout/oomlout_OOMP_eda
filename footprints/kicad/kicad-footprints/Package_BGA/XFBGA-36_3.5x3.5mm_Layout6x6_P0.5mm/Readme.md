@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8988
+- index: 8989
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm
+- oompName: kicad-footprints/Package_BGA/XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm
 - kicadDesc: XFBGA-36, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf
 - kicadTags: XFBGA-36
 - kicadAttr: smd

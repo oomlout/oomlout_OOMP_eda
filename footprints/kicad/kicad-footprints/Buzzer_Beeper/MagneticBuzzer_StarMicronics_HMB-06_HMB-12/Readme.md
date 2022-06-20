@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 450
+- index: 451
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: MagneticBuzzer_StarMicronics_HMB-06_HMB-12
+- oompName: kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12
 - kicadDesc: Buzzer, Elektromagnetic Beeper, Summer,
 - kicadTags: Star Micronics HMB-06 HMB-12
 - kicadAttr: through_hole

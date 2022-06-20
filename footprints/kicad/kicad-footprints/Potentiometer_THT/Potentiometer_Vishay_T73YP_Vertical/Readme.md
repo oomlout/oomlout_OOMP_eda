@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10984
+- index: 10985
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Vishay_T73YP_Vertical
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_T73YP_Vertical
 - kicadDesc: Potentiometer, vertical, Vishay T73YP, http://www.vishay.com/docs/51016/t73.pdf
 - kicadTags: Potentiometer vertical Vishay T73YP
 - kicadAttr: through_hole

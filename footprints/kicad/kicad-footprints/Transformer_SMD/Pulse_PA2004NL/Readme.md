@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12206
+- index: 12207
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Pulse_PA2004NL
+- oompName: kicad-footprints/Transformer_SMD/Pulse_PA2004NL
 - kicadDesc: SMT Gate Drive Transformer, 1:1:1, 8.6x6.7x3.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
 - kicadTags: pulse pa2004nl pa0264nl
 - kicadAttr: smd

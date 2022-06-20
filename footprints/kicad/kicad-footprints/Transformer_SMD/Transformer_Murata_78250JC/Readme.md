@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12224
+- index: 12225
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_Murata_78250JC
+- oompName: kicad-footprints/Transformer_SMD/Transformer_Murata_78250JC
 - kicadDesc: Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf
 - kicadTags: Murata transformer
 - kicadAttr: smd

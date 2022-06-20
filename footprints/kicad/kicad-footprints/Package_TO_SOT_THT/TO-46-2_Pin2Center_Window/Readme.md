@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10780
+- index: 10781
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-46-2_Pin2Center_Window
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-46-2_Pin2Center_Window
 - kicadDesc: TO-46-2, Pin2 at center of package, Thorlabs photodiodes
 - kicadTags: TO-46-2 Thorlabs
 - kicadAttr: through_hole

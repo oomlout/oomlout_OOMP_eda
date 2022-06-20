@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 298
+- index: 299
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_B3SL-1022P
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_B3SL-1022P
 - kicadDesc: Middle Stroke Tactile Switch, B3SL
 - kicadTags: Middle Stroke Tactile Switch
 - kicadAttr: smd

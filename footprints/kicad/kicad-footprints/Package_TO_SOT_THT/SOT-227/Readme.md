@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10626
+- index: 10627
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: SOT-227
+- oompName: kicad-footprints/Package_TO_SOT_THT/SOT-227
 - kicadDesc: SOT-227 / SOT-227B / ISOTOP, M4 mounting screws (https://www.vishay.com/docs/95423/sot227g2.pdf, https://www.vishay.com/docs/95793/vs-fc420sa10.pdf)
 - kicadTags: sot 227 isotop
 - kicadAttr: through_hole

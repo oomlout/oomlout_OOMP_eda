@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10082
+- index: 10083
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SIP
 - oompIndex: SIP4_Sharp-SSR_P7.62mm_Angled
+- oompName: kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled
 - kicadDesc: SIP4 Footprint for SSR made by Sharp
 - kicadTags: Solid State relais SSR Sharp
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 438
+- index: 439
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: Buzzer_Murata_PKMCS0909E
+- oompName: kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKMCS0909E
 - kicadDesc: Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
 - kicadTags: Murata Buzzer Beeper
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2594
+- index: 2595
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_ZE_BM09B-ZESS-TBT_1x09-1MP_P1.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_ZE_BM09B-ZESS-TBT_1x09-1MP_P1.50mm_Vertical
 - kicadDesc: JST ZE series connector, BM09B-ZESS-TBT (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST ZE vertical
 - kicadAttr: smd

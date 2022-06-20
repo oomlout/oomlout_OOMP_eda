@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3902
+- index: 3903
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBV_2,5_10-GF_1x10_P5.00mm_Vertical_ThreadedFlange_MountHole
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_10-GF_1x10_P5.00mm_Vertical_ThreadedFlange_MountHole
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBV_2,5/10-GF; number of pins: 10; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776964 12A || order number: 1924499 16A (HC)
 - kicadTags: phoenix_contact connector MSTBV_01x10_GF_5.00mm_MH
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 545
+- index: 546
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
+- oompName: kicad-footprints/Capacitor_SMD/C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
 - kicadDesc: Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
 - kicadTags: capacitor handsolder
 - kicadAttr: smd

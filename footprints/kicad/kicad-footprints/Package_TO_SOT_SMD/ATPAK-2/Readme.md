@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10490
+- index: 10491
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: ATPAK-2
+- oompName: kicad-footprints/Package_TO_SOT_SMD/ATPAK-2
 - kicadDesc: ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF
 - kicadTags: ATPAK
 - kicadAttr: smd

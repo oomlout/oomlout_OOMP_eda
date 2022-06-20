@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8268
+- index: 8269
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
+- oompName: kicad-footprints/LED_SMD/LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
 - kicadDesc: https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
 - kicadTags: LED RGB NeoPixel
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12299
+- index: 12300
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transistor_Power_Module
 - oompIndex: Littelfuse_Package_W_XN2MM
+- oompName: kicad-footprints/Transistor_Power_Module/Littelfuse_Package_W_XN2MM
 - kicadDesc: 35-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1275w_xn2mm_datasheet.pdf.pdf
 - kicadTags: igbt diode module
 - kicadAttr: through_hole

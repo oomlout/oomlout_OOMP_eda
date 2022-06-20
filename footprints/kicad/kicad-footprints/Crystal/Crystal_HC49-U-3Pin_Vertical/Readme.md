@@ -7,19 +7,25 @@ Contents
 
 * [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical>](#footprint-kicad-kicad-footprints-crystal-crystal_hc49-u-3pin_vertical)
 	* [Tags](#tags)
-
+  
+![][im]
 # FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical>
 
 ## Tags
 
-- index: 7144
+- index: 7145
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Crystal
 - oompIndex: Crystal_HC49-U-3Pin_Vertical
+- oompName: kicad-footprints/Crystal/Crystal_HC49-U-3Pin_Vertical
 - kicadDesc: Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf
 - kicadTags: THT crystalHC-49/U
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.wrl
+
+
+
+[im]: image.png

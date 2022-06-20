@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9675
+- index: 9676
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias
 - kicadDesc: WQFN, 42 Pin (http://www.ti.com/lit/ds/symlink/ts3l501e.pdf#page=23), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: WQFN NoLead
 - kicadAttr: smd

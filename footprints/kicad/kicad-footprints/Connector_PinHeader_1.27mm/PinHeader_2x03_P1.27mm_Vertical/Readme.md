@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4475
+- index: 4476
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_1.27mm
 - oompIndex: PinHeader_2x03_P1.27mm_Vertical
+- oompName: kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x03_P1.27mm_Vertical
 - kicadDesc: Through hole straight pin header, 2x03, 1.27mm pitch, double rows
 - kicadTags: Through hole pin header THT 2x03 1.27mm double row
 - kicadAttr: through_hole

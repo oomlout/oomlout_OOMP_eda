@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10944
+- index: 10945
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Omeg_PC16BU_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Omeg_PC16BU_Horizontal
 - kicadDesc: Potentiometer, horizontal, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm
 - kicadTags: Potentiometer horizontal Omeg PC16BU
 - kicadAttr: through_hole

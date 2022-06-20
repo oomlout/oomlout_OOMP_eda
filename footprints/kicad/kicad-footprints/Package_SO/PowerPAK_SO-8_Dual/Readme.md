@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10193
+- index: 10194
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: PowerPAK_SO-8_Dual
+- oompName: kicad-footprints/Package_SO/PowerPAK_SO-8_Dual
 - kicadDesc: PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)
 - kicadTags: PowerPAK SO-8 Dual
 - kicadAttr: smd

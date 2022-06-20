@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3273
+- index: 3274
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical_ThermalVias
+- oompName: kicad-footprints/Connector_Molex/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical_ThermalVias
 - kicadDesc: Molex Sabre Power Connector, 43160-2102, With thermal vias in pads, 2 Pins per row (http://www.molex.com/pdm_docs/sd/431602102_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Sabre side entry
 - kicadAttr: through_hole

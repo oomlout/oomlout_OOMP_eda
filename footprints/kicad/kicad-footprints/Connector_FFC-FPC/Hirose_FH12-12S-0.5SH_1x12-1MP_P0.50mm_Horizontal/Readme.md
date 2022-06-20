@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1493
+- index: 1494
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal
+- oompName: kicad-footprints/Connector_FFC-FPC/Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal
 - kicadDesc: Hirose FH12, FFC/FPC connector, FH12-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
 - kicadTags: connector Hirose FH12 horizontal
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1280
+- index: 1281
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: SMA_Amphenol_132134-10_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134-10_Vertical
 - kicadDesc: https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf
 - kicadTags: SMA SMD Female Jack Vertical
 - kicadAttr: smd

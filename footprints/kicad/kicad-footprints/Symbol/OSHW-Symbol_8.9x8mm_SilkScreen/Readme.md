@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11556
+- index: 11557
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Symbol
 - oompIndex: OSHW-Symbol_8.9x8mm_SilkScreen
+- oompName: kicad-footprints/Symbol/OSHW-Symbol_8.9x8mm_SilkScreen
 - kicadDesc: Open Source Hardware Symbol
 - kicadTags: Logo Symbol OSHW
 - kicadAttr: exclude_from_pos_files exclude_from_bom

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 421
+- index: 422
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_PUSH_LCD_E3_SAxxxx_SocketPins
+- oompName: kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx_SocketPins
 - kicadDesc: Switch with LCD screen E3 SAxxxx
 - kicadTags: switch normally-open pushbutton push-button LCD
 - kicadAttr: through_hole

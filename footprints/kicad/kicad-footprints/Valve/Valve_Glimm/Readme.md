@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12306
+- index: 12307
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Valve
 - oompIndex: Valve_Glimm
+- oompName: kicad-footprints/Valve/Valve_Glimm
 - kicadDesc: Valve Glimm
 - kicadTags: Valve Glimm
 - kicadAttr: through_hole

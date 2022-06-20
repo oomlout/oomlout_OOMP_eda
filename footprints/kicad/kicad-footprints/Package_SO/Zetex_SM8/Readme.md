@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10415
+- index: 10416
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: Zetex_SM8
+- oompName: kicad-footprints/Package_SO/Zetex_SM8
 - kicadDesc: Zetex,  SMD, 8 pin package (http://datasheet.octopart.com/ZDT6758TA-Zetex-datasheet-68057.pdf)
 - kicadTags: Zetex SM8
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 556
+- index: 557
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: C_Elec_6.3x7.7
+- oompName: kicad-footprints/Capacitor_SMD/C_Elec_6.3x7.7
 - kicadDesc: SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
 - kicadTags: capacitor electrolyic nonpolar
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 631
+- index: 632
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Axial_L11.0mm_D6.0mm_P18.00mm_Horizontal
+- oompName: kicad-footprints/Capacitor_THT/CP_Axial_L11.0mm_D6.0mm_P18.00mm_Horizontal
 - kicadDesc: CP, Axial series, Axial, Horizontal, pin pitch=18mm, , length*diameter=11*6mm^2, Electrolytic Capacitor
 - kicadTags: CP Axial series Axial Horizontal pin pitch 18mm  length 11mm diameter 6mm Electrolytic Capacitor
 - kicadAttr: through_hole

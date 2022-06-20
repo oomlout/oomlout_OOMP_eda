@@ -20,6 +20,7 @@ Contents
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Keystone_2468_2xAAA
+- oompName: kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA
 - kicadDesc: 2xAAA cell battery holder, Keystone P/N 2468, http://www.keyelco.com/product-pdf.cfm?p=1033
 - kicadTags: AAA battery cell holder
 - kicadAttr: through_hole

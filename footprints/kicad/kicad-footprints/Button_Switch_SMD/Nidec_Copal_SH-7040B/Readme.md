@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 103
+- index: 104
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: Nidec_Copal_SH-7040B
+- oompName: kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7040B
 - kicadDesc: 4-bit rotary coded switch, gull wing, Gray code, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
 - kicadTags: rotary switch bcd
 - kicadAttr: smd

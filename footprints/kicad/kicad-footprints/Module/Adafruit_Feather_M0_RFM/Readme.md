@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8358
+- index: 8359
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Module
 - oompIndex: Adafruit_Feather_M0_RFM
+- oompName: kicad-footprints/Module/Adafruit_Feather_M0_RFM
 - kicadDesc: Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio
 - kicadTags: Adafruit Feather M0 RFM
 - kicadAttr: through_hole

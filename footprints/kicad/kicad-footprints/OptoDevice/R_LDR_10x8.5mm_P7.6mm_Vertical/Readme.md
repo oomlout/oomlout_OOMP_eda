@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8800
+- index: 8801
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: R_LDR_10x8.5mm_P7.6mm_Vertical
+- oompName: kicad-footprints/OptoDevice/R_LDR_10x8.5mm_P7.6mm_Vertical
 - kicadDesc: Resistor, LDR 10x8.5mm
 - kicadTags: Resistor LDR10.8.5mm
 - kicadAttr: through_hole

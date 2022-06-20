@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9717
+- index: 9718
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: DIP-20_W7.62mm_Socket
+- oompName: kicad-footprints/Package_DIP/DIP-20_W7.62mm_Socket
 - kicadDesc: 20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
 - kicadTags: THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
 - kicadAttr: through_hole

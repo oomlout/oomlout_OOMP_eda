@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1267
+- index: 1268
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Card
 - oompIndex: SD_Kyocera_145638109511859+
+- oompName: kicad-footprints/Connector_Card/SD_Kyocera_145638109511859+
 - kicadDesc: SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
 - kicadTags: sd card smt
 - kicadAttr: smd

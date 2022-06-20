@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11135
+- index: 11136
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_MiniMELF_MMA-0204
+- oompName: kicad-footprints/Resistor_SMD/R_MiniMELF_MMA-0204
 - kicadDesc: Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf
 - kicadTags: MiniMELF Resistor
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 27
+- index: 28
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Keystone_500
+- oompName: kicad-footprints/Battery/BatteryHolder_Keystone_500
 - kicadDesc: Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
 - kicadTags: CR1220 battery holder
 - kicadAttr: through_hole

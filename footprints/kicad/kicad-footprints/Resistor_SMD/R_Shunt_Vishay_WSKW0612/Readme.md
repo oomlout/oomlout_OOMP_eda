@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11143
+- index: 11144
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_Shunt_Vishay_WSKW0612
+- oompName: kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSKW0612
 - kicadDesc: https://www.vishay.com/docs/30332/wskw0612.pdf
 - kicadTags: 4-Terminal SMD Shunt
 - kicadAttr: smd

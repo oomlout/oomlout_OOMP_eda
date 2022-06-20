@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11996
+- index: 11997
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_RND
 - oompIndex: TerminalBlock_RND_205-00291_1x06_P5.08mm_Horizontal
+- oompName: kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00291_1x06_P5.08mm_Horizontal
 - kicadDesc: terminal block RND 205-00291, 6 pins, pitch 5.08mm, size 30.5x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
 - kicadTags: THT terminal block RND 205-00291 pitch 5.08mm size 30.5x10.6mm^2 drill 1.3mm pad 2.5mm
 - kicadAttr: through_hole

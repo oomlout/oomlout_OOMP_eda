@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 442
+- index: 443
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: MagneticBuzzer_CUI_CST-931RP-A
+- oompName: kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CST-931RP-A
 - kicadDesc: CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf
 - kicadTags: CST-931RP-A
 - kicadAttr: through_hole

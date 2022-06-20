@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11358
+- index: 11359
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: TD1205
+- oompName: kicad-footprints/RF_Module/TD1205
 - kicadDesc: https://github.com/Telecom-Design/Documentation_TD_RF_Module/blob/master/TD1205%20Datasheet.pdf
 - kicadTags: SIGFOX Module
 - kicadAttr: through_hole

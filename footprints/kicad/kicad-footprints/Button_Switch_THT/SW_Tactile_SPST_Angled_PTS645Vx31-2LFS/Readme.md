@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 424
+- index: 425
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_Tactile_SPST_Angled_PTS645Vx31-2LFS
+- oompName: kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx31-2LFS
 - kicadDesc: tactile switch SPST right angle, PTS645VL31-2 LFS
 - kicadTags: tactile switch SPST angled PTS645VL31-2 LFS C&K Button
 - kicadAttr: through_hole

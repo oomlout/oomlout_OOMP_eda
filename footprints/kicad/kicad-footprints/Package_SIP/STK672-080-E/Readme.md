@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10089
+- index: 10090
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SIP
 - oompIndex: STK672-080-E
+- oompName: kicad-footprints/Package_SIP/STK672-080-E
 - kicadDesc: SIP-15 (http://www.onsemi.com/pub_link/Collateral/EN6507-D.PDF)
 - kicadTags: SIP-15
 - kicadAttr: through_hole

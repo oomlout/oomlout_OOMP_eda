@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2506
+- index: 2507
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_XH_B12B-XH-A_1x12_P2.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_XH_B12B-XH-A_1x12_P2.50mm_Vertical
 - kicadDesc: JST XH series connector, B12B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST XH side entry
 - kicadAttr: through_hole

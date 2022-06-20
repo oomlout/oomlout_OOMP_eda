@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8802
+- index: 8803
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: R_LDR_12x10.8mm_P9.0mm_Vertical
+- oompName: kicad-footprints/OptoDevice/R_LDR_12x10.8mm_P9.0mm_Vertical
 - kicadDesc: Resistor, LDR 12x10.8mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf
 - kicadTags: Resistor LDR12x10.8mm
 - kicadAttr: through_hole

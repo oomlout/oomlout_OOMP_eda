@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8768
+- index: 8769
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Kodenshi_LG206L
+- oompName: kicad-footprints/OptoDevice/Kodenshi_LG206L
 - kicadDesc: http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG205L.pdf
 - kicadTags: Photointerrupter  infrared LED with photo IC
 - kicadAttr: through_hole

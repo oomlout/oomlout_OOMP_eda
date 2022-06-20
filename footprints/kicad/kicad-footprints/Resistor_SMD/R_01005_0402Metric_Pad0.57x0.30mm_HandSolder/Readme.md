@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11085
+- index: 11086
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+- oompName: kicad-footprints/Resistor_SMD/R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
 - kicadDesc: Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
 - kicadTags: resistor handsolder
 - kicadAttr: smd

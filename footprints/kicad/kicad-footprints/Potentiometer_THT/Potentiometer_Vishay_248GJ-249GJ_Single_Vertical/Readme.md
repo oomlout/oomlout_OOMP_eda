@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10979
+- index: 10980
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Vishay_248GJ-249GJ_Single_Vertical
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_248GJ-249GJ_Single_Vertical
 - kicadDesc: Potentiometer, vertical, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf
 - kicadTags: Potentiometer vertical Vishay 248GJ-249GJ Single
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9176
+- index: 9177
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-6-1EP_2x2mm_P0.5mm_EP0.6x1.37mm
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-6-1EP_2x2mm_P0.5mm_EP0.6x1.37mm
 - kicadDesc: DFN, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081703_C_DC6.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: DFN NoLead
 - kicadAttr: smd

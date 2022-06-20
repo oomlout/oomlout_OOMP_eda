@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11251
+- index: 11252
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF
 - oompIndex: Skyworks_SKY65404-31
+- oompName: kicad-footprints/RF/Skyworks_SKY65404-31
 - kicadDesc: http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf
 - kicadTags: Skyworks
 - kicadAttr: smd

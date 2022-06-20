@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8753
+- index: 8754
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Broadcom_APDS-9301
+- oompName: kicad-footprints/OptoDevice/Broadcom_APDS-9301
 - kicadDesc: ambient light sensor, i2c interface, 6-pin chipled package, https://docs.broadcom.com/docs/AV02-2315EN
 - kicadTags: ambient light sensor chipled
 - kicadAttr: smd

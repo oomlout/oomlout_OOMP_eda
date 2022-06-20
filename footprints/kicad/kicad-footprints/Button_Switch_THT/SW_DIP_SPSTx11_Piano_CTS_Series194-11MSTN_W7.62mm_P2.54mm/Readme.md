@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 382
+- index: 383
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm
+- oompName: kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm
 - kicadDesc: 11x-dip-switch SPST CTS_Series194-11MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
 - kicadTags: DIP Switch SPST Piano 7.62mm 300mil
 - kicadAttr: through_hole

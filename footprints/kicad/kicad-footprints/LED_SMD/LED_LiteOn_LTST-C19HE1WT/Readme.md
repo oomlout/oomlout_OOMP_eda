@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8244
+- index: 8245
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_LiteOn_LTST-C19HE1WT
+- oompName: kicad-footprints/LED_SMD/LED_LiteOn_LTST-C19HE1WT
 - kicadDesc: LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
 - kicadTags: LED RGB Chip SMD
 - kicadAttr: smd

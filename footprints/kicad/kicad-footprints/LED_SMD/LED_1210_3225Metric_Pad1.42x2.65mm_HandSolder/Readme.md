@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8211
+- index: 8212
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+- oompName: kicad-footprints/LED_SMD/LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 - kicadDesc: LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 - kicadTags: LED handsolder
 - kicadAttr: smd

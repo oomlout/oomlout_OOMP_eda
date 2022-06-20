@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9477
+- index: 9478
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: TDFN-12_2x3mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/TDFN-12_2x3mm_P0.5mm
 - kicadDesc: TDFN, 12 Pads, No exposed, http://www.st.com/resource/en/datasheet/stm6600.pdf
 - kicadTags: DFN
 - kicadAttr: smd

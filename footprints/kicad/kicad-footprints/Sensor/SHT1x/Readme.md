@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11407
+- index: 11408
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor
 - oompIndex: SHT1x
+- oompName: kicad-footprints/Sensor/SHT1x
 - kicadDesc: SHT1x
 - kicadTags: SHT1x
 - kicadAttr: smd

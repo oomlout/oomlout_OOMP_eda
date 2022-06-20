@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10942
+- index: 10943
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Bourns_PTV09A-1_Single_Vertical
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_PTV09A-1_Single_Vertical
 - kicadDesc: Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
 - kicadTags: Potentiometer vertical Bourns PTV09A-1 Single
 - kicadAttr: through_hole

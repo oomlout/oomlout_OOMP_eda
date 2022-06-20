@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10316
+- index: 10317
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: TI_SO-PowerPAD-8_ThermalVias
+- oompName: kicad-footprints/Package_SO/TI_SO-PowerPAD-8_ThermalVias
 - kicadDesc: 8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf
 - kicadTags: HTSOP 1.27
 - kicadAttr: smd

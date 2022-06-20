@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10656
+- index: 10657
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-218-3_Horizontal_TabUp
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-218-3_Horizontal_TabUp
 - kicadDesc: TO-218-3, Horizontal, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
 - kicadTags: TO-218-3 Horizontal RM 5.475mm SOT-93
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11130
+- index: 11131
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_Cat16-2
+- oompName: kicad-footprints/Resistor_SMD/R_Cat16-2
 - kicadDesc: SMT resistor net, Bourns CAT16 series, 2 way
 - kicadTags: SMT resistor net Bourns CAT16 series 2 way
 - kicadAttr: smd

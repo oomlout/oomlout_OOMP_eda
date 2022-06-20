@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9431
+- index: 9432
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm
 - kicadDesc: QFN, 56 Pin (http://www.ti.com/lit/ds/symlink/tlc5957.pdf#page=23), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

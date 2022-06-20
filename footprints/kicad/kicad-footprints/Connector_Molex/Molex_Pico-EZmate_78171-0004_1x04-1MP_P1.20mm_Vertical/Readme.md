@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3160
+- index: 3161
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
 - kicadDesc: Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Pico-EZmate side entry
 - kicadAttr: smd

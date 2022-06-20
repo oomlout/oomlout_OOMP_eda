@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1244
+- index: 1245
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC5MBV_Vertical
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5MBV_Vertical
 - kicadDesc: B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv
 - kicadTags: neutrik xlr b
 - kicadAttr: through_hole

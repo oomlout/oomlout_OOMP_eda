@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12288
+- index: 12289
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37
+- oompName: kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37
 - kicadDesc: Transformer, Toroid, tapped, horizontal, laying, Diameter 10,5mm, Amidon, T37,
 - kicadTags: Transformer Toroid tapped horizontal laying Diameter 10 5mm Amidon T37
 - kicadAttr: through_hole

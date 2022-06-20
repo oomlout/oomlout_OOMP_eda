@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9181
+- index: 9182
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-6_1.3x1.2mm_P0.4mm
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-6_1.3x1.2mm_P0.4mm
 - kicadDesc: 6-Lead Plastic DFN (1.3mm x 1.2mm)
 - kicadTags: DFN 0.4
 - kicadAttr: smd

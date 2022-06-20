@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11428
+- index: 11429
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Current
 - oompIndex: LEM_CKSR
+- oompName: kicad-footprints/Sensor_Current/LEM_CKSR
 - kicadDesc: LEM CKSR 6/15/25/50/75-NP Current Transducer, https://www.lem.com/sites/default/files/products_datasheets/cksr_75-np.pdf
 - kicadTags: current transducer LEM
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10213
+- index: 10214
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SO-4_7.6x3.6mm_P2.54mm
+- oompName: kicad-footprints/Package_SO/SO-4_7.6x3.6mm_P2.54mm
 - kicadDesc: 4-Lead Plastic Small Outline (SO) (http://www.everlight.com/file/ProductFile/201407061745083848.pdf)
 - kicadTags: SO SOIC 2.54
 - kicadAttr: smd

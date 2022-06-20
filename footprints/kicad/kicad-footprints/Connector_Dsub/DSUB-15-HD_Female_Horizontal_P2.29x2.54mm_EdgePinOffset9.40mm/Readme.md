@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1374
+- index: 1375
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Dsub
 - oompIndex: DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+- oompName: kicad-footprints/Connector_Dsub/DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
 - kicadDesc: 15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
 - kicadTags: 15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
 - kicadAttr: through_hole

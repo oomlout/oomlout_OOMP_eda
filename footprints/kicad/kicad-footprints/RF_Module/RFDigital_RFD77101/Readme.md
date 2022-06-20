@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11352
+- index: 11353
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: RFDigital_RFD77101
+- oompName: kicad-footprints/RF_Module/RFDigital_RFD77101
 - kicadDesc: RFDigital RFD77101 Simblee
 - kicadTags: RFDigital RFD77101 Simblee
 - kicadAttr: smd

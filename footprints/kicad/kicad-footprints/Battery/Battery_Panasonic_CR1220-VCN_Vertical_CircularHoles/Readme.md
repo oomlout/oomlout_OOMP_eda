@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 38
+- index: 39
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
+- oompName: kicad-footprints/Battery/Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
 - kicadDesc: Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.PDF
 - kicadTags: battery CR-1220 coin cell vertical
 - kicadAttr: through_hole

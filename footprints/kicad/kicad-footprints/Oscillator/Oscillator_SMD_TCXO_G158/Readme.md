@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8883
+- index: 8884
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_TCXO_G158
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_TCXO_G158
 - kicadDesc: TCXO
 - kicadTags: TCXO
 - kicadAttr: smd

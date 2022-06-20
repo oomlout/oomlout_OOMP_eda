@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8270
+- index: 8271
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_BL-FL7680RGB
+- oompName: kicad-footprints/LED_THT/LED_BL-FL7680RGB
 - kicadDesc: 'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
 - kicadTags: RGB LED Piranha Super-Flux BetLux
 - kicadAttr: through_hole

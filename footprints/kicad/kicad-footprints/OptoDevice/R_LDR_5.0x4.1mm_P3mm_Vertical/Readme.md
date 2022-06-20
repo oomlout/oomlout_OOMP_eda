@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8804
+- index: 8805
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: R_LDR_5.0x4.1mm_P3mm_Vertical
+- oompName: kicad-footprints/OptoDevice/R_LDR_5.0x4.1mm_P3mm_Vertical
 - kicadDesc: Resistor, LDR 5x4.1mm, see http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf
 - kicadTags: Resistor LDR5x4.1mm
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8620
+- index: 8621
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSI-M3_H2.5mm_9774025360
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M3_H2.5mm_9774025360
 - kicadDesc: Mounting Hardware, inside through hole M3, height 2.5, Wuerth electronics 9774025360 (https://katalog.we-online.de/em/datasheet/9774025360.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting M3 9774025360
 - kicadAttr: smd

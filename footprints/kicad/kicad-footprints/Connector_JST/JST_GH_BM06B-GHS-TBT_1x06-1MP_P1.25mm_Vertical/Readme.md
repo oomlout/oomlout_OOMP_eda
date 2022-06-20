@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2163
+- index: 2164
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_GH_BM06B-GHS-TBT_1x06-1MP_P1.25mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_GH_BM06B-GHS-TBT_1x06-1MP_P1.25mm_Vertical
 - kicadDesc: JST GH series connector, BM06B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST GH side entry
 - kicadAttr: smd

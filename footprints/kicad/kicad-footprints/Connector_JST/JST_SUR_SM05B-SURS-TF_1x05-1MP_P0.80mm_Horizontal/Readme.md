@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2389
+- index: 2390
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_SUR_SM05B-SURS-TF_1x05-1MP_P0.80mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_SUR_SM05B-SURS-TF_1x05-1MP_P0.80mm_Horizontal
 - kicadDesc: JST SUR series connector, SM05B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST SUR top entry
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5048
+- index: 5049
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_2.54mm
 - oompIndex: PinHeader_2x09_P2.54mm_Horizontal
+- oompName: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x09_P2.54mm_Horizontal
 - kicadDesc: Through hole angled pin header, 2x09, 2.54mm pitch, 6mm pin length, double rows
 - kicadTags: Through hole angled pin header THT 2x09 2.54mm double row
 - kicadAttr: through_hole

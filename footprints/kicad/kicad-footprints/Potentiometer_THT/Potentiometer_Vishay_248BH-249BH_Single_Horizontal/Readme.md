@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10977
+- index: 10978
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Vishay_248BH-249BH_Single_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_248BH-249BH_Single_Horizontal
 - kicadDesc: Potentiometer, horizontal, Vishay 248BH-249BH Single, http://www.vishay.com/docs/57054/248249.pdf
 - kicadTags: Potentiometer horizontal Vishay 248BH-249BH Single
 - kicadAttr: through_hole

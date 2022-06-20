@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 341
+- index: 342
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_CW_GPTS203211B
+- oompName: kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B
 - kicadDesc: SPST Off-On Pushbutton, 1A, 30V, CW Industries P/N GPTS203211B, http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf
 - kicadTags: SPST button switch Off-On
 - kicadAttr: through_hole

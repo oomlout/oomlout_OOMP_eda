@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11263
+- index: 11264
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Converter
 - oompIndex: Balun_Johanson_1.6x0.8mm
+- oompName: kicad-footprints/RF_Converter/Balun_Johanson_1.6x0.8mm
 - kicadDesc: 6-pin 1.6x0.8 mm balun footprint
 - kicadTags: Johanson balun filter
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1062
+- index: 1063
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal
 - kicadDesc: M Series, 6.35mm (1/4in) mono jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj4hcd2
 - kicadTags: neutrik jack m
 - kicadAttr: through_hole

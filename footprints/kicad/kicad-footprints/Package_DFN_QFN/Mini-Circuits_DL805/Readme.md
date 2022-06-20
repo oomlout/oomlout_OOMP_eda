@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9240
+- index: 9241
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Mini-Circuits_DL805
+- oompName: kicad-footprints/Package_DFN_QFN/Mini-Circuits_DL805
 - kicadDesc: https://ww2.minicircuits.com/case_style/DL805.pdf
 - kicadTags: RF Switch
 - kicadAttr: smd

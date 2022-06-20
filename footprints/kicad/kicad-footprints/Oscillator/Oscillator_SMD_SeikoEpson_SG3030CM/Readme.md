@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8868
+- index: 8869
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_SeikoEpson_SG3030CM
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG3030CM
 - kicadDesc: SMD Crystal Oscillator Seiko Epson SG-3030CM package
 - kicadTags: SMD SMT crystal oscillator
 - kicadAttr: smd

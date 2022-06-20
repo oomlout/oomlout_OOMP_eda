@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8787
+- index: 8788
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: OnSemi_CASE100CY
+- oompName: kicad-footprints/OptoDevice/OnSemi_CASE100CY
 - kicadDesc: OnSemi CASE 100CY, light-direction upwards, see http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF
 - kicadTags: refective opto couple photo coupler
 - kicadAttr: smd

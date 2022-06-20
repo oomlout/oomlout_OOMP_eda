@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8649
+- index: 8650
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSR-M3_H5.6mm_ReverseMount_9775056360
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-M3_H5.6mm_ReverseMount_9775056360
 - kicadDesc: Mounting Hardware, inside through hole M3, height 5.6, Wuerth electronics 9775056360 (https://katalog.we-online.com/em/datasheet/9775056360.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting M3 9775056360
 - kicadAttr: smd

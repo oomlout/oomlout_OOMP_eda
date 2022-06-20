@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 389
+- index: 390
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_E-Switch_EG1224_SPDT_Angled
+- oompName: kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1224_SPDT_Angled
 - kicadDesc: E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf
 - kicadTags: switch SPDT
 - kicadAttr: through_hole

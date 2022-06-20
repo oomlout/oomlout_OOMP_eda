@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8682
+- index: 8683
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMST-2.7mm_H4mm_9774040951
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.7mm_H4mm_9774040951
 - kicadDesc: Mounting Hardware, inside through hole 2.7mm, height 4, Wuerth electronics 9774040951 (https://katalog.we-online.de/em/datasheet/9774040951.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting 2.7mm 9774040951
 - kicadAttr: smd

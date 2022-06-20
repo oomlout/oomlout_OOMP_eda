@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 863
+- index: 864
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Rect_L11.5mm_W7.3mm_P10.00mm_MKT
+- oompName: kicad-footprints/Capacitor_THT/C_Rect_L11.5mm_W7.3mm_P10.00mm_MKT
 - kicadDesc: C, Rect series, Radial, pin pitch=10.00mm, , length*width=11.5*7.3mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
 - kicadTags: C Rect series Radial pin pitch 10.00mm  length 11.5mm width 7.3mm Capacitor
 - kicadAttr: through_hole

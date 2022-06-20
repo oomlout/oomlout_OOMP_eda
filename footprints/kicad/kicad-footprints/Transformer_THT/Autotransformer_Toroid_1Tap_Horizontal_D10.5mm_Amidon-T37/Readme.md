@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12237
+- index: 12238
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37
+- oompName: kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37
 - kicadDesc: Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 10,5mm, Amidon T37,
 - kicadTags: Autotransformer Toroid horizontal laying 1 Tap Diameter 10 5mm Amidon T37
 - kicadAttr: through_hole

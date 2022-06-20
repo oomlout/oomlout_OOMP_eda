@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9507
+- index: 9508
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_RWH0032A
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_RWH0032A
 - kicadDesc: Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)
 - kicadTags: ti rwh0032a
 - kicadAttr: smd

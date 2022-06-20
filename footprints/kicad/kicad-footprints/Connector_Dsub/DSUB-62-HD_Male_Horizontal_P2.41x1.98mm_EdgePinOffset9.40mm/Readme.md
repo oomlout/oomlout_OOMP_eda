@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1468
+- index: 1469
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Dsub
 - oompIndex: DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm
+- oompName: kicad-footprints/Connector_Dsub/DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm
 - kicadDesc: 62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
 - kicadTags: 62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 9.4mm
 - kicadAttr: through_hole

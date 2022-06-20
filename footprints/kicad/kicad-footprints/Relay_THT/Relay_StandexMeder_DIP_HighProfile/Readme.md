@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11081
+- index: 11082
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_StandexMeder_DIP_HighProfile
+- oompName: kicad-footprints/Relay_THT/Relay_StandexMeder_DIP_HighProfile
 - kicadDesc: package for Standex Meder DIP reed relay series, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf
 - kicadTags: DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8837
+- index: 8838
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm
 - kicadDesc: Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, 7.0x5.1mm^2 package
 - kicadTags: SMD SMT crystal oscillator
 - kicadAttr: smd

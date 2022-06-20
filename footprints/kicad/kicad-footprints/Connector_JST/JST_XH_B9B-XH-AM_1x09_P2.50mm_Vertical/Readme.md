@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2527
+- index: 2528
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical
 - kicadDesc: JST XH series connector, B9B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST XH vertical boss
 - kicadAttr: through_hole

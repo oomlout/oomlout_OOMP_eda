@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12159
+- index: 12160
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TestPoint
 - oompIndex: TestPoint_Keystone_5015_Micro-Minature
+- oompName: kicad-footprints/TestPoint/TestPoint_Keystone_5015_Micro-Minature
 - kicadDesc: SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353
 - kicadTags: Test Point
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11353
+- index: 11354
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: RN2483
+- oompName: kicad-footprints/RF_Module/RN2483
 - kicadDesc: Low-Power Long Range LoRa Transceiver Module
 - kicadTags: rf module lora lorawan
 - kicadAttr: smd

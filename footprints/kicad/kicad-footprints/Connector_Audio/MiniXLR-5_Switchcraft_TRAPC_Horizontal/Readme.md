@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1245
+- index: 1246
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: MiniXLR-5_Switchcraft_TRAPC_Horizontal
+- oompName: kicad-footprints/Connector_Audio/MiniXLR-5_Switchcraft_TRAPC_Horizontal
 - kicadDesc: http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF
 - kicadTags: THT Mini XLR 5Pin right angle
 - kicadAttr: through_hole

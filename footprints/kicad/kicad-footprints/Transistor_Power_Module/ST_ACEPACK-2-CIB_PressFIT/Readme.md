@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12301
+- index: 12302
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transistor_Power_Module
 - oompIndex: ST_ACEPACK-2-CIB_PressFIT
+- oompName: kicad-footprints/Transistor_Power_Module/ST_ACEPACK-2-CIB_PressFIT
 - kicadDesc: 35-lead TH, ACEPACK 2 CIB, PressFIT, https://www.st.com/resource/en/datasheet/a2c50s65m2-f.pdf
 - kicadTags: brifge rectifier igbt diode module
 - kicadAttr: through_hole

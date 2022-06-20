@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1089
+- index: 1090
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal
 - kicadDesc: Stacking Jacks, Stereo dual jack, full threaded nose, https://www.neutrik.com/en/product/nsj12hf-1
 - kicadTags: neutrik jack stacking
 - kicadAttr: through_hole

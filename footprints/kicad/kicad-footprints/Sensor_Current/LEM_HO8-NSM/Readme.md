@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11431
+- index: 11432
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Current
 - oompIndex: LEM_HO8-NSM
+- oompName: kicad-footprints/Sensor_Current/LEM_HO8-NSM
 - kicadDesc: LEM HO 8/15/25-NSM Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf)
 - kicadTags: current transducer
 - kicadAttr: smd

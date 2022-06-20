@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11383
+- index: 11384
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Shielding
 - oompIndex: Wuerth_36103255_25x25mm
+- oompName: kicad-footprints/RF_Shielding/Wuerth_36103255_25x25mm
 - kicadDesc: WE-SHC Shielding Cabinet SMD 25x25mm
 - kicadTags: Shielding Cabinet
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 423
+- index: 424
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_Tactile_SKHH_Angled
+- oompName: kicad-footprints/Button_Switch_THT/SW_Tactile_SKHH_Angled
 - kicadDesc: tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
 - kicadTags: tactile switch 6mm ALPS SKHH right angle
 - kicadAttr: through_hole

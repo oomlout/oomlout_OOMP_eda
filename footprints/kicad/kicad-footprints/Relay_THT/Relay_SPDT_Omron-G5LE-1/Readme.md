@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11041
+- index: 11042
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_Omron-G5LE-1
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_Omron-G5LE-1
 - kicadDesc: Omron Relay SPDT, http://www.omron.com/ecb/products/pdf/en-g5le.pdf
 - kicadTags: Omron Relay SPDT
 - kicadAttr: through_hole

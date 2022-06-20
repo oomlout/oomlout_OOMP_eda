@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 295
+- index: 296
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_B3S-1000
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_B3S-1000
 - kicadDesc: Surface Mount Tactile Switch for High-Density Packaging
 - kicadTags: Tactile Switch
 - kicadAttr: smd

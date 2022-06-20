@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1260
+- index: 1261
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Card
 - oompIndex: microSD_HC_Molex_104031-0811
+- oompName: kicad-footprints/Connector_Card/microSD_HC_Molex_104031-0811
 - kicadDesc: 1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
 - kicadTags: microSD SD molex
 - kicadAttr: smd

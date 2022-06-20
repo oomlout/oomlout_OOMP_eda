@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3049
+- index: 3050
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Mini-Fit_Jr_5569-16A2_2x08_P4.20mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Mini-Fit_Jr_5569-16A2_2x08_P4.20mm_Horizontal
 - kicadDesc: Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-16A2, example for new mpn: 39-30-0160, 8 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Mini-Fit_Jr top entryplastic_peg
 - kicadAttr: through_hole

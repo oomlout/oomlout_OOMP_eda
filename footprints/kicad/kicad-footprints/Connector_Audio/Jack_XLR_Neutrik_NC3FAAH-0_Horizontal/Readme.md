@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1132
+- index: 1133
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC3FAAH-0_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAAH-0_Horizontal
 - kicadDesc: AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah-0
 - kicadTags: neutrik xlr aa
 - kicadAttr: through_hole

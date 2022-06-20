@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1559
+- index: 1560
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: Molex_502250-1791_2Rows-17Pins-1MP_P0.60mm_Horizontal
+- oompName: kicad-footprints/Connector_FFC-FPC/Molex_502250-1791_2Rows-17Pins-1MP_P0.60mm_Horizontal
 - kicadDesc: Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-1791, 17 Circuits (http://www.molex.com/pdm_docs/sd/5022501791_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex  top entry
 - kicadAttr: smd

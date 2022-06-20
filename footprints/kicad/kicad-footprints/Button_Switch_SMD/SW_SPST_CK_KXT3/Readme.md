@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 307
+- index: 308
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_CK_KXT3
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_CK_KXT3
 - kicadDesc: https://www.ckswitches.com/media/1465/kxt3.pdf
 - kicadTags: Switch SPST KXT3
 - kicadAttr: smd

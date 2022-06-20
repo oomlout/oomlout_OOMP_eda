@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11455
+- index: 11456
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Pressure
 - oompIndex: Freescale_98ARH99066A
+- oompName: kicad-footprints/Sensor_Pressure/Freescale_98ARH99066A
 - kicadDesc: https://www.nxp.com/docs/en/data-sheet/MPXH6250A.pdf
 - kicadTags: sensor pressure ssop 98ARH99066A
 - kicadAttr: smd

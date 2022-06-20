@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10867
+- index: 10868
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_SMD
 - oompIndex: Potentiometer_Bourns_3269P_Horizontal
+- oompName: kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3269P_Horizontal
 - kicadDesc: Potentiometer, horizontal, Bourns 3269P, https://www.bourns.com/docs/Product-Datasheets/3269.pdf
 - kicadTags: Potentiometer horizontal Bourns 3269P
 - kicadAttr: smd

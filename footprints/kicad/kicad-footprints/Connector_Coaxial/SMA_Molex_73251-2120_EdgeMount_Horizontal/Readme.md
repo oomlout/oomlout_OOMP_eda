@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1292
+- index: 1293
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: SMA_Molex_73251-2120_EdgeMount_Horizontal
+- oompName: kicad-footprints/Connector_Coaxial/SMA_Molex_73251-2120_EdgeMount_Horizontal
 - kicadDesc: Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
 - kicadTags: sma edge
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 349
+- index: 350
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_DIP_SPSTx03_Piano_10.8x9.18mm_W7.62mm_P2.54mm
+- oompName: kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx03_Piano_10.8x9.18mm_W7.62mm_P2.54mm
 - kicadDesc: 3x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x9.18mm
 - kicadTags: DIP Switch SPST Piano 7.62mm 300mil
 - kicadAttr: through_hole

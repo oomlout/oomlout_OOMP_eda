@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2581
+- index: 2582
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_ZE_B14B-ZESK-1D_1x14_P1.50mm_Vertical
 - kicadDesc: JST ZE series connector, B14B-ZESK-1D, with boss (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST ZE side entry boss
 - kicadAttr: through_hole

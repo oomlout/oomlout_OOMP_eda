@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9251
+- index: 9252
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: OnSemi_DFN-8_2x2mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/OnSemi_DFN-8_2x2mm_P0.5mm
 - kicadDesc: DFN8 2x2, 0.5P (https://www.onsemi.com/pub/Collateral/511AT.PDF)
 - kicadTags: DFN 0.5
 - kicadAttr: smd

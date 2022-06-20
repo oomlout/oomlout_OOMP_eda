@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10438
+- index: 10439
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_R-PWSON-N12_EP0.4x2mm
+- oompName: kicad-footprints/Package_SON/Texas_R-PWSON-N12_EP0.4x2mm
 - kicadDesc: http://www.ti.com/lit/ds/symlink/tpd6f003.pdf
 - kicadTags: WSON SMD
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9983
+- index: 9984
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: NXP_LGA-8_3x5mm_P1.25mm_H1.2mm
+- oompName: kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm
 - kicadDesc: NXP  LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: NXP LGA NoLead
 - kicadAttr: smd

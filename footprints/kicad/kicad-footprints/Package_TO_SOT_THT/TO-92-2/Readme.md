@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10821
+- index: 10822
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-92-2
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-92-2
 - kicadDesc: TO-92 2-pin leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
 - kicadTags: to-92 sc-43 sc-43a sot54 PA33 diode SOD70
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9569
+- index: 9570
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm
+- oompName: kicad-footprints/Package_DFN_QFN/TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm
 - kicadDesc: TQFN, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF (T2855-4)), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: TQFN NoLead
 - kicadAttr: smd

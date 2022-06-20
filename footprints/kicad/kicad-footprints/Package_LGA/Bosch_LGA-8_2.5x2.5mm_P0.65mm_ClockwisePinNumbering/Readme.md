@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9968
+- index: 9969
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering
+- oompName: kicad-footprints/Package_LGA/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering
 - kicadDesc: LGA-8
 - kicadTags: lga land grid array
 - kicadAttr: smd

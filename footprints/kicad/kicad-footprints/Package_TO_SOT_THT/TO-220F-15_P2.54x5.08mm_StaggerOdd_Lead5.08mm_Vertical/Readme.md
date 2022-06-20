@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10699
+- index: 10700
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220F-15_P2.54x5.08mm_StaggerOdd_Lead5.08mm_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220F-15_P2.54x5.08mm_StaggerOdd_Lead5.08mm_Vertical
 - kicadDesc: TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-1
 - kicadTags: TO-220F-15 Vertical RM 1.27mm MultiwattF-15 staggered type-1
 - kicadAttr: through_hole

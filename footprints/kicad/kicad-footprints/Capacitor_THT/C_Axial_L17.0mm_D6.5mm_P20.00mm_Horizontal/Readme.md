@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 751
+- index: 752
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Axial_L17.0mm_D6.5mm_P20.00mm_Horizontal
+- oompName: kicad-footprints/Capacitor_THT/C_Axial_L17.0mm_D6.5mm_P20.00mm_Horizontal
 - kicadDesc: C, Axial series, Axial, Horizontal, pin pitch=20mm, , length*diameter=17*6.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
 - kicadTags: C Axial series Axial Horizontal pin pitch 20mm  length 17mm diameter 6.5mm
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9786
+- index: 9787
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: DIP-42_W16.51mm_SMDSocket_LongPads
+- oompName: kicad-footprints/Package_DIP/DIP-42_W16.51mm_SMDSocket_LongPads
 - kicadDesc: 42-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
 - kicadTags: THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
 - kicadAttr: smd

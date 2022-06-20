@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2423
+- index: 2424
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_VH_B6P-VH-FB-B_1x06_P3.96mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_VH_B6P-VH-FB-B_1x06_P3.96mm_Vertical
 - kicadDesc: JST VH series connector, B6P-VH-FB-B, shrouded (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf),  generated with kicad-footprint-generator
 - kicadTags: connector JST VH side entry
 - kicadAttr: through_hole

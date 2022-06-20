@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8785
+- index: 8786
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Maxim_OLGA-14_3.3x5.6mm_P0.8mm
+- oompName: kicad-footprints/OptoDevice/Maxim_OLGA-14_3.3x5.6mm_P0.8mm
 - kicadDesc: https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF
 - kicadTags: OLGA-14 OESIP-14
 - kicadAttr: smd

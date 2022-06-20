@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11265
+- index: 11266
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Converter
 - oompIndex: RF_Attenuator_Susumu_PAT1220
+- oompName: kicad-footprints/RF_Converter/RF_Attenuator_Susumu_PAT1220
 - kicadDesc: http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf
 - kicadTags: 2mm 1.2mm
 - kicadAttr: smd

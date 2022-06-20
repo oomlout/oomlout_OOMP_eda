@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10477
+- index: 10478
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm_ThermalVias
+- oompName: kicad-footprints/Package_SON/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm_ThermalVias
 - kicadDesc: WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: WSON NoLead
 - kicadAttr: smd

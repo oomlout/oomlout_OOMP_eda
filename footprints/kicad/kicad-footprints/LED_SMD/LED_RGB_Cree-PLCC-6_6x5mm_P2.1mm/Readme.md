@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8257
+- index: 8258
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+- oompName: kicad-footprints/LED_SMD/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
 - kicadDesc: http://www.farnell.com/datasheets/2003905.pdf
 - kicadTags: LED RGB PLCC-6 CLP6C-FBK
 - kicadAttr: smd

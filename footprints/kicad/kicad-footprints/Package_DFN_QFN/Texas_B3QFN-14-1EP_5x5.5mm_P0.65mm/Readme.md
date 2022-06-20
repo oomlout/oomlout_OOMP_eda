@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9488
+- index: 9489
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
 - kicadDesc: Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf
 - kicadTags: Texas instruments QFN
 - kicadAttr: smd

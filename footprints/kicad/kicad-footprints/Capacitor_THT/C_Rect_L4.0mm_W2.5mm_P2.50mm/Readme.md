@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 961
+- index: 962
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Rect_L4.0mm_W2.5mm_P2.50mm
+- oompName: kicad-footprints/Capacitor_THT/C_Rect_L4.0mm_W2.5mm_P2.50mm
 - kicadDesc: C, Rect series, Radial, pin pitch=2.50mm, , length*width=4*2.5mm^2, Capacitor
 - kicadTags: C Rect series Radial pin pitch 2.50mm  length 4mm width 2.5mm Capacitor
 - kicadAttr: through_hole

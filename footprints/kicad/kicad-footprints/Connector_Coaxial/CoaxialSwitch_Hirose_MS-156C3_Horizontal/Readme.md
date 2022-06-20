@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1275
+- index: 1276
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: CoaxialSwitch_Hirose_MS-156C3_Horizontal
+- oompName: kicad-footprints/Connector_Coaxial/CoaxialSwitch_Hirose_MS-156C3_Horizontal
 - kicadDesc: Subminiature Coaxial Switch 1.35mm High, DC to 11GHz
 - kicadTags: Switch Coaxial RF
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10712
+- index: 10713
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220F-4_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220F-4_Vertical
 - kicadDesc: TO-220F-4, Vertical, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
 - kicadTags: TO-220F-4 Vertical RM 2.54mm
 - kicadAttr: through_hole

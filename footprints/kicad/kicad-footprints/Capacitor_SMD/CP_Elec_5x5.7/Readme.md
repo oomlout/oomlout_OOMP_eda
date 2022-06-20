@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 498
+- index: 499
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_5x5.7
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_5x5.7
 - kicadDesc: SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

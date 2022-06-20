@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1481
+- index: 1482
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Dsub
 - oompIndex: DSUB-9_Male_EdgeMount_P2.77mm
+- oompName: kicad-footprints/Connector_Dsub/DSUB-9_Male_EdgeMount_P2.77mm
 - kicadDesc: 9-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
 - kicadTags: 9-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 25mm
 - kicadAttr: smd

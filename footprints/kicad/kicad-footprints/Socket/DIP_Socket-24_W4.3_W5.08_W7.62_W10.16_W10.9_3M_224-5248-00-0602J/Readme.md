@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11467
+- index: 11468
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Socket
 - oompIndex: DIP_Socket-24_W4.3_W5.08_W7.62_W10.16_W10.9_3M_224-5248-00-0602J
+- oompName: kicad-footprints/Socket/DIP_Socket-24_W4.3_W5.08_W7.62_W10.16_W10.9_3M_224-5248-00-0602J
 - kicadDesc: 3M 24-pin zero insertion force socket, through-hole, row spacing 7.62 mm (300 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf
 - kicadTags: THT DIP DIL ZIF 7.62mm 300mil Socket
 - kicadAttr: through_hole

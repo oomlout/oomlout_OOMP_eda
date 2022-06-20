@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8987
+- index: 8988
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: XFBGA-121_8x8mm_Layout11x11_P0.65mm
+- oompName: kicad-footprints/Package_BGA/XFBGA-121_8x8mm_Layout11x11_P0.65mm
 - kicadDesc: XFBGA-121, https://www.nxp.com/docs/en/package-information/SOT1533-1.pdf
 - kicadTags: XFBGA-121
 - kicadAttr: smd

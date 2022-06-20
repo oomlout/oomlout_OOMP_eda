@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9987
+- index: 9988
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm
+- oompName: kicad-footprints/Package_LGA/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm
 - kicadDesc: Texas SIL0010A MicroSiP, 10 Pin (http://www.ti.com/lit/ml/mpds579b/mpds579b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: Texas MicroSiP NoLead
 - kicadAttr: smd

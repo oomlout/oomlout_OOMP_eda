@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2181
+- index: 2182
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_GH_SM10B-GHS-TB_1x10-1MP_P1.25mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_GH_SM10B-GHS-TB_1x10-1MP_P1.25mm_Horizontal
 - kicadDesc: JST GH series connector, SM10B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST GH top entry
 - kicadAttr: smd

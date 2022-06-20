@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1015
+- index: 1016
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: FanPinHeader_1x03_P2.54mm_Vertical
+- oompName: kicad-footprints/Connector/FanPinHeader_1x03_P2.54mm_Vertical
 - kicadDesc: 3-pin CPU fan Through hole pin header, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
 - kicadTags: pin header 3-pin CPU fan
 - kicadAttr: through_hole

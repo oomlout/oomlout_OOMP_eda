@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12242
+- index: 12243
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_37x44
+- oompName: kicad-footprints/Transformer_THT/Transformer_37x44
 - kicadDesc: transformer 37x44mm²
 - kicadTags: transformer 37x44mm²
 - kicadAttr: through_hole

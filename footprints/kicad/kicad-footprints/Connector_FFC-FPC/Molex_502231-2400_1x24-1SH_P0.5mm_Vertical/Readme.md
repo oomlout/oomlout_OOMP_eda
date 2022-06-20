@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1554
+- index: 1555
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: Molex_502231-2400_1x24-1SH_P0.5mm_Vertical
+- oompName: kicad-footprints/Connector_FFC-FPC/Molex_502231-2400_1x24-1SH_P0.5mm_Vertical
 - kicadDesc: Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 24 Circuits (https://www.molex.com/pdm_docs/sd/5022312400_sd.pdf)
 - kicadTags: molex FFC/FPC connector Pitch 0.5mm vertical
 - kicadAttr: smd

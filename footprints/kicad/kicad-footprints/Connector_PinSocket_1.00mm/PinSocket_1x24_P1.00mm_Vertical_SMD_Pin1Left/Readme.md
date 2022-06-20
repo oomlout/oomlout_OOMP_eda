@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5211
+- index: 5212
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinSocket_1.00mm
 - oompIndex: PinSocket_1x24_P1.00mm_Vertical_SMD_Pin1Left
+- oompName: kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x24_P1.00mm_Vertical_SMD_Pin1Left
 - kicadDesc: surface-mounted straight socket strip, 1x24, 1.00mm pitch, single row, style 1 (pin 1 left) (https://gct.co/files/drawings/bc070.pdf), script generated
 - kicadTags: Surface mounted socket strip SMD 1x24 1.00mm single row style1 pin1 left
 - kicadAttr: smd

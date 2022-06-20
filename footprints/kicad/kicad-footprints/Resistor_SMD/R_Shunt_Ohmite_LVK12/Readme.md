@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11136
+- index: 11137
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_Shunt_Ohmite_LVK12
+- oompName: kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK12
 - kicadDesc: 4 contact shunt resistor
 - kicadTags: shunt resistor 4 contacts
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11401
+- index: 11402
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor
 - oompIndex: Aosong_DHT11_5.5x12.0_P2.54mm
+- oompName: kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm
 - kicadDesc: Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
 - kicadTags: Temperature and humidity module
 - kicadAttr: through_hole

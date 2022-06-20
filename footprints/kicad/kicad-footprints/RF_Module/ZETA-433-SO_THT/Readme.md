@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11361
+- index: 11362
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: ZETA-433-SO_THT
+- oompName: kicad-footprints/RF_Module/ZETA-433-SO_THT
 - kicadDesc: RF transceiver THT style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf
 - kicadTags: RF transceiver SMD style
 - kicadAttr: through_hole

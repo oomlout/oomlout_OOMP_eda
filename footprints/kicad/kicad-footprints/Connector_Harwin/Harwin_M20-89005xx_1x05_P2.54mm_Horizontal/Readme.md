@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1783
+- index: 1784
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Harwin
 - oompIndex: Harwin_M20-89005xx_1x05_P2.54mm_Horizontal
+- oompName: kicad-footprints/Connector_Harwin/Harwin_M20-89005xx_1x05_P2.54mm_Horizontal
 - kicadDesc: Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89005xx, 5 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Harwin M20-890 horizontal
 - kicadAttr: smd

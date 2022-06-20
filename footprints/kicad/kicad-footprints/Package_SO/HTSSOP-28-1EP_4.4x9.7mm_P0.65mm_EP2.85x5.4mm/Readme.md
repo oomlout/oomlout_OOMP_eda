@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10127
+- index: 10128
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
+- oompName: kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
 - kicadDesc: HTSSOP, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: HTSSOP SO
 - kicadAttr: smd

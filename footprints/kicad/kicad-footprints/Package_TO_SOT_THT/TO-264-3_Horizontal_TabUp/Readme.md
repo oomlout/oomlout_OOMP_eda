@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10748
+- index: 10749
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-264-3_Horizontal_TabUp
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-264-3_Horizontal_TabUp
 - kicadDesc: TO-264-3, Horizontal, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
 - kicadTags: TO-264-3 Horizontal RM 5.45mm
 - kicadAttr: through_hole

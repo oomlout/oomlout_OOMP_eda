@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 827
+- index: 828
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3
+- oompName: kicad-footprints/Capacitor_THT/C_Rect_L10.0mm_W3.0mm_P7.50mm_FKS3_FKP3
 - kicadDesc: C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*3mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf
 - kicadTags: C Rect series Radial pin pitch 7.50mm  length 10mm width 3mm Capacitor
 - kicadAttr: through_hole

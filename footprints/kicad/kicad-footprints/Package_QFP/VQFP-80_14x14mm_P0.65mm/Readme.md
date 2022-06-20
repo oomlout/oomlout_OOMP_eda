@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10073
+- index: 10074
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: VQFP-80_14x14mm_P0.65mm
+- oompName: kicad-footprints/Package_QFP/VQFP-80_14x14mm_P0.65mm
 - kicadDesc: VQFP, 80 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: VQFP QFP
 - kicadAttr: smd

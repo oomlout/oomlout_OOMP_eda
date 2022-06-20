@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10462
+- index: 10463
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm
+- oompName: kicad-footprints/Package_SON/WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm
 - kicadDesc: WSON, 12 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: WSON NoLead
 - kicadAttr: smd

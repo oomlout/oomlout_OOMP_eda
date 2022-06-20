@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3856
+- index: 3857
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBA_2,5/3-G; number of pins: 03; pin pitch: 5.00mm; Angled || order number: 1757488 12A || order number: 1923762 16A (HC)
 - kicadTags: phoenix_contact connector MSTBA_01x03_G_5.00mm
 - kicadAttr: through_hole

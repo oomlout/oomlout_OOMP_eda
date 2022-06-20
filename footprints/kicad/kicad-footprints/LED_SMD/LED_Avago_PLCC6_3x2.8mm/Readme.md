@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8221
+- index: 8222
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Avago_PLCC6_3x2.8mm
+- oompName: kicad-footprints/LED_SMD/LED_Avago_PLCC6_3x2.8mm
 - kicadDesc: https://docs.broadcom.com/docs/AV02-3793EN
 - kicadTags: LED Avago PLCC-6 ASMT-YTB7-0AA02
 - kicadAttr: smd

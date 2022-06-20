@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11284
+- index: 11285
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Mini-Circuits
 - oompIndex: Mini-Circuits_BK377
+- oompName: kicad-footprints/RF_Mini-Circuits/Mini-Circuits_BK377
 - kicadDesc: Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf)
 - kicadTags: Mini-circuits BK377
 - kicadAttr: smd

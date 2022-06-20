@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11056
+- index: 11057
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_Schrack-RT1-FormC_RM5mm
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_Schrack-RT1-FormC_RM5mm
 - kicadDesc: Relay SPST Schrack-RT1 RM5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
 - kicadTags: Relay SPST Schrack-RT1 RM5mm 8A 250V AC Relay
 - kicadAttr: through_hole

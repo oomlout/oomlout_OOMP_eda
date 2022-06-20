@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11390
+- index: 11391
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Shielding
 - oompIndex: Wuerth_36503505_50x50mm
+- oompName: kicad-footprints/RF_Shielding/Wuerth_36503505_50x50mm
 - kicadDesc: WE-SHC Shielding Cabinet THT 51x51mm
 - kicadTags: Shielding Cabinet
 - kicadAttr: through_hole

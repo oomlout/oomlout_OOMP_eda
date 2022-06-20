@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8771
+- index: 8772
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Kodenshi_SG105_Reverse
+- oompName: kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse
 - kicadDesc: package for Kodenshi SG-105 with PCB cutout, light-direction downwards, see http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105.pdf
 - kicadTags: refective opto couple photo coupler
 - kicadAttr: smd

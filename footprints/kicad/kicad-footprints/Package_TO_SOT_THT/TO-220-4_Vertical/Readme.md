@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10679
+- index: 10680
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220-4_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220-4_Vertical
 - kicadDesc: TO-220-4, Vertical, RM 2.54mm
 - kicadTags: TO-220-4 Vertical RM 2.54mm
 - kicadAttr: through_hole

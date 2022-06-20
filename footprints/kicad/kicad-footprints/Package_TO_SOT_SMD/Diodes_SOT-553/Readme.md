@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10491
+- index: 10492
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: Diodes_SOT-553
+- oompName: kicad-footprints/Package_TO_SOT_SMD/Diodes_SOT-553
 - kicadDesc: Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf
 - kicadTags: SOT-553
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 531
+- index: 532
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- oompName: kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
 - kicadDesc: Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 - kicadTags: capacitor handsolder
 - kicadAttr: smd

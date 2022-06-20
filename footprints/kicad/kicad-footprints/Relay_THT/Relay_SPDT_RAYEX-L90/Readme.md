@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11048
+- index: 11049
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_RAYEX-L90
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_RAYEX-L90
 - kicadDesc: https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
 - kicadTags: Relay RAYEX L90 SPDT
 - kicadAttr: through_hole

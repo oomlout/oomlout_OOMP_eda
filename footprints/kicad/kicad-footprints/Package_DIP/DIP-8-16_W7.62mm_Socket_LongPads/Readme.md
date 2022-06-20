@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9837
+- index: 9838
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: DIP-8-16_W7.62mm_Socket_LongPads
+- oompName: kicad-footprints/Package_DIP/DIP-8-16_W7.62mm_Socket_LongPads
 - kicadDesc: 16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
 - kicadTags: THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8302
+- index: 8303
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D3.0mm_IRBlack
+- oompName: kicad-footprints/LED_THT/LED_D3.0mm_IRBlack
 - kicadDesc: IR-ED, diameter 3.0mm, 2 pins, color: black
 - kicadTags: IR infrared LED diameter 3.0mm 2 pins black
 - kicadAttr: through_hole

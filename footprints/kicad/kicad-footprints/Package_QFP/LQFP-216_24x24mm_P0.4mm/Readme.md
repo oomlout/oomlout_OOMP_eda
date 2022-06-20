@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10010
+- index: 10011
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: LQFP-216_24x24mm_P0.4mm
+- oompName: kicad-footprints/Package_QFP/LQFP-216_24x24mm_P0.4mm
 - kicadDesc: LQFP, 216 Pin (https://www.onsemi.com/pub/Collateral/561BE.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: LQFP QFP
 - kicadAttr: smd

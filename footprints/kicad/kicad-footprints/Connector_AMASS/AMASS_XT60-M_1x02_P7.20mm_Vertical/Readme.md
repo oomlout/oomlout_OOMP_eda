@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1037
+- index: 1038
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_AMASS
 - oompIndex: AMASS_XT60-M_1x02_P7.20mm_Vertical
+- oompName: kicad-footprints/Connector_AMASS/AMASS_XT60-M_1x02_P7.20mm_Vertical
 - kicadDesc: AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
 - kicadTags: XT60 female vertical
 - kicadAttr: through_hole

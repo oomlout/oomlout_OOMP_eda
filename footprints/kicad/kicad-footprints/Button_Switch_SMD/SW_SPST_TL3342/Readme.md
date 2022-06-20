@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 334
+- index: 335
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_TL3342
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_TL3342
 - kicadDesc: Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
 - kicadTags: SPST Tactile Switch
 - kicadAttr: smd

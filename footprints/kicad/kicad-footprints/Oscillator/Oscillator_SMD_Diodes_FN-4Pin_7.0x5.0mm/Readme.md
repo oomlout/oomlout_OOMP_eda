@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8839
+- index: 8840
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm
 - kicadDesc: FN Series Crystal Clock Oscillator (XO) (https://www.diodes.com/assets/Datasheets/FN_3-3V.pdf)
 - kicadTags: Oscillator Crystal SMD SMT
 - kicadAttr: smd

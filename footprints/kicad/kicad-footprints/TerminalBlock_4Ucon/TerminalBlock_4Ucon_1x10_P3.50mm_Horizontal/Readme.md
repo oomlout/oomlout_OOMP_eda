@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11643
+- index: 11644
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_4Ucon
 - oompIndex: TerminalBlock_4Ucon_1x10_P3.50mm_Horizontal
+- oompName: kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x10_P3.50mm_Horizontal
 - kicadDesc: Terminal Block 4Ucon ItemNo. 10687, 10 pins, pitch 3.5mm, size 35.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/10687.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
 - kicadTags: THT Terminal Block 4Ucon ItemNo. 10687 pitch 3.5mm size 35.7x7mm^2 drill 1.2mm pad 2.4mm
 - kicadAttr: through_hole

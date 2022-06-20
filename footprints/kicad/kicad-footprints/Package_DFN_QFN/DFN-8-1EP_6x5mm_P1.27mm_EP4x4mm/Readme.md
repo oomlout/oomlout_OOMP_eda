@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9206
+- index: 9207
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm
 - kicadDesc: DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)
 - kicadTags: dfn
 - kicadAttr: smd

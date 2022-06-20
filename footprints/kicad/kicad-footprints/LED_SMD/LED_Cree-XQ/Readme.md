@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8235
+- index: 8236
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Cree-XQ
+- oompName: kicad-footprints/LED_SMD/LED_Cree-XQ
 - kicadDesc: LED Cree-XQ http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
 - kicadTags: LED Cree XQ
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9414
+- index: 9415
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm
 - kicadDesc: QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

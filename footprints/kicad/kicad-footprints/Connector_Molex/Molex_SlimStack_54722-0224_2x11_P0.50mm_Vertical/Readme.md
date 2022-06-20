@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3340
+- index: 3341
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_SlimStack_54722-0224_2x11_P0.50mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_SlimStack_54722-0224_2x11_P0.50mm_Vertical
 - kicadDesc: Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 54722-0224, 22 Pins (http://www.molex.com/pdm_docs/sd/547220804_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex SlimStack side entry
 - kicadAttr: smd

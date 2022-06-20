@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10183
+- index: 10184
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias
+- oompName: kicad-footprints/Package_SO/MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias
 - kicadDesc: MSOP, 8 Pin (http://www.st.com/resource/en/datasheet/pm8834.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: MSOP SO
 - kicadAttr: smd

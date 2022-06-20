@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8199
+- index: 8200
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_0201_0603Metric
+- oompName: kicad-footprints/LED_SMD/LED_0201_0603Metric
 - kicadDesc: LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
 - kicadTags: LED
 - kicadAttr: smd

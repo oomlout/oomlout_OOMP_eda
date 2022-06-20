@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9490
+- index: 9491
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_DRB0008A
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_DRB0008A
 - kicadDesc: DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf
 - kicadTags: DRB0008A
 - kicadAttr: smd

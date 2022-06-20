@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11292
+- index: 11293
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Mini-Circuits
 - oompIndex: Mini-Circuits_CD637_H5.23mm
+- oompName: kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD637_H5.23mm
 - kicadDesc: https://ww2.minicircuits.com/case_style/CD637.pdf
 - kicadTags: RF Transformer
 - kicadAttr: smd

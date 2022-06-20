@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10597
+- index: 10598
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: TO-277B
+- oompName: kicad-footprints/Package_TO_SOT_SMD/TO-277B
 - kicadDesc: TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf
 - kicadTags: TO-277B
 - kicadAttr: smd

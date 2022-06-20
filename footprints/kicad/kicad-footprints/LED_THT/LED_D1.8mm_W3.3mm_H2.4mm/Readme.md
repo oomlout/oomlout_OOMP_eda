@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8282
+- index: 8283
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D1.8mm_W3.3mm_H2.4mm
+- oompName: kicad-footprints/LED_THT/LED_D1.8mm_W3.3mm_H2.4mm
 - kicadDesc: LED, Round,  Rectangular size 3.3x2.4mm^2 diameter 1.8mm, 2 pins
 - kicadTags: LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins
 - kicadAttr: through_hole

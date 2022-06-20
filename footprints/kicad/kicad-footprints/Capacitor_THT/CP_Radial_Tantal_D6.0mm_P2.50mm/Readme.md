@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 733
+- index: 734
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_Tantal_D6.0mm_P2.50mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_Tantal_D6.0mm_P2.50mm
 - kicadDesc: CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=6.0mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf
 - kicadTags: CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 6.0mm Tantal Electrolytic Capacitor
 - kicadAttr: through_hole

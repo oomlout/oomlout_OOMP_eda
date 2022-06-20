@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4356
+- index: 4357
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_1.27mm
 - oompIndex: PinHeader_1x13_P1.27mm_Horizontal
+- oompName: kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x13_P1.27mm_Horizontal
 - kicadDesc: Through hole angled pin header, 1x13, 1.27mm pitch, 4.0mm pin length, single row
 - kicadTags: Through hole angled pin header THT 1x13 1.27mm single row
 - kicadAttr: through_hole

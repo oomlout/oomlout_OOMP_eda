@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3118
+- index: 3119
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Panelmate_53780-0470_1x04-1MP_P1.25mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Panelmate_53780-0470_1x04-1MP_P1.25mm_Horizontal
 - kicadDesc: Molex Panelmate series connector, 53780-0470 (), generated with kicad-footprint-generator
 - kicadTags: connector Molex Panelmate top entry
 - kicadAttr: smd

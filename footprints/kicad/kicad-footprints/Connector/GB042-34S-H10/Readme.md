@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1017
+- index: 1018
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: GB042-34S-H10
+- oompName: kicad-footprints/Connector/GB042-34S-H10
 - kicadDesc: http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF
 - kicadTags: 34pin SMD connector
 - kicadAttr: smd

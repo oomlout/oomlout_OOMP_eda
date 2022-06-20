@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10492
+- index: 10493
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: HVSOF5
+- oompName: kicad-footprints/Package_TO_SOT_SMD/HVSOF5
 - kicadDesc: HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/hall/bu52001gul-e.pdf
 - kicadTags: HVSOF5
 - kicadAttr: smd

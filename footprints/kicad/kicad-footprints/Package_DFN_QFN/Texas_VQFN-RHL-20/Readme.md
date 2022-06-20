@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9550
+- index: 9551
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_VQFN-RHL-20
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_VQFN-RHL-20
 - kicadDesc: http://www.ti.com/lit/ds/symlink/bq51050b.pdf
 - kicadTags: RHL0020A
 - kicadAttr: smd

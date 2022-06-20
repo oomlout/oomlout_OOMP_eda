@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5073
+- index: 5074
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_2.54mm
 - oompIndex: PinHeader_2x17_P2.54mm_Vertical
+- oompName: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x17_P2.54mm_Vertical
 - kicadDesc: Through hole straight pin header, 2x17, 2.54mm pitch, double rows
 - kicadTags: Through hole pin header THT 2x17 2.54mm double row
 - kicadAttr: through_hole

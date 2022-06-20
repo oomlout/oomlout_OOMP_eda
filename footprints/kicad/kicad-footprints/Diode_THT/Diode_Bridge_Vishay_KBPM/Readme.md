@@ -7,19 +7,25 @@ Contents
 
 * [FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPM>](#footprint-kicad-kicad-footprints-diode_tht-diode_bridge_vishay_kbpm)
 	* [Tags](#tags)
-
+  
+![][im]
 # FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPM>
 
 ## Tags
 
-- index: 7381
+- index: 7382
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Diode_THT
 - oompIndex: Diode_Bridge_Vishay_KBPM
+- oompName: kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBPM
 - kicadDesc: Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)
 - kicadTags: Vishay KBM rectifier diode bridge
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPM.wrl
+
+
+
+[im]: image.png

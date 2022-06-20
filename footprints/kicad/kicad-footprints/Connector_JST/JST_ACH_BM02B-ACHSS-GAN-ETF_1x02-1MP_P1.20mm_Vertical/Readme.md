@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2125
+- index: 2126
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical
 - kicadDesc: JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST ACH vertical
 - kicadAttr: smd

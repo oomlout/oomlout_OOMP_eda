@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 391
+- index: 392
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_E-Switch_EG2219_DPDT_Angled
+- oompName: kicad-footprints/Button_Switch_THT/SW_E-Switch_EG2219_DPDT_Angled
 - kicadDesc: E-Switch slide switch, EG series, DPDT, right angle, http://spec_sheets.e-switch.com/specs/P040170.pdf
 - kicadTags: switch DPDT
 - kicadAttr: through_hole

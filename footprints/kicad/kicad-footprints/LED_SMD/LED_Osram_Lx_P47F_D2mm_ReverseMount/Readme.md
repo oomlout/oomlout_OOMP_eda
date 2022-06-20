@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8251
+- index: 8252
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Osram_Lx_P47F_D2mm_ReverseMount
+- oompName: kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount
 - kicadDesc: OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
 - kicadTags: LED ReverseMount Reverse
 - kicadAttr: smd

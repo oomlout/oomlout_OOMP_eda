@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2488
+- index: 2489
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_XA_S08B-XASK-1N-BN_1x08_P2.50mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_XA_S08B-XASK-1N-BN_1x08_P2.50mm_Horizontal
 - kicadDesc: JST XA series connector, S08B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST XA horizontal
 - kicadAttr: through_hole

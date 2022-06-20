@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1765
+- index: 1766
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Harwin
 - oompIndex: Harwin_LTek-Male_2x17_P2.00mm_Vertical
+- oompName: kicad-footprints/Connector_Harwin/Harwin_LTek-Male_2x17_P2.00mm_Vertical
 - kicadDesc: Harwin LTek Connector, 34 pins, single row male, vertical entry
 - kicadTags: connector harwin ltek M80
 - kicadAttr: through_hole

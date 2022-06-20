@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 89
+- index: 90
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_Keyboard
 - oompIndex: SW_Matias_1.25u
+- oompName: kicad-footprints/Button_Switch_Keyboard/SW_Matias_1.25u
 - kicadDesc: Matias/ALPS keyswitch, 1.25u, http://matias.ca/switches/
 - kicadTags: Matias ALPS keyswitch 1.25u
 - kicadAttr: through_hole

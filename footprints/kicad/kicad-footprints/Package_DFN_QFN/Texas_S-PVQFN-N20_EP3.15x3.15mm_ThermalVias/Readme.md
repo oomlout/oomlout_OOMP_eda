@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9521
+- index: 9522
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_S-PVQFN-N20_EP3.15x3.15mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N20_EP3.15x3.15mm_ThermalVias
 - kicadDesc: QFN, 20 Pin (www.ti.com/lit/ds/symlink/tps7a7200.pdf#page=36), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

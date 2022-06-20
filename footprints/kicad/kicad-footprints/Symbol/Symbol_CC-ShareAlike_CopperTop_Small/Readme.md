@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11586
+- index: 11587
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Symbol
 - oompIndex: Symbol_CC-ShareAlike_CopperTop_Small
+- oompName: kicad-footprints/Symbol/Symbol_CC-ShareAlike_CopperTop_Small
 - kicadDesc: Symbol, CC-Share Alike, Copper Top, Small,
 - kicadTags: Symbol, CC-Share Alike, Copper Top, Small,
 - kicadAttr: exclude_from_pos_files exclude_from_bom

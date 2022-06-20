@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9043
+- index: 9044
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+- oompName: kicad-footprints/Package_CSP/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
 - kicadDesc: LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 - kicadTags: LFCSP DFN_QFN
 - kicadAttr: smd

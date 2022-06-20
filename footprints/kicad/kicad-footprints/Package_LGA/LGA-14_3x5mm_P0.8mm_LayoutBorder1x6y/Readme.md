@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9974
+- index: 9975
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
+- oompName: kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
 - kicadDesc: LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lsm303dlhc.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: LGA NoLead
 - kicadAttr: smd

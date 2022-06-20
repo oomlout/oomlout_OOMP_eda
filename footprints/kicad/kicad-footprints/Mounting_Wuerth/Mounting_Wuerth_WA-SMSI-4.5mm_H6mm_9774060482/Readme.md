@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8571
+- index: 8572
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSI-4.5mm_H6mm_9774060482
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-4.5mm_H6mm_9774060482
 - kicadDesc: Mounting Hardware, inside through hole 4.5mm, height 6, Wuerth electronics 9774060482 (https://katalog.we-online.de/em/datasheet/9774060482.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting 4.5mm 9774060482
 - kicadAttr: smd

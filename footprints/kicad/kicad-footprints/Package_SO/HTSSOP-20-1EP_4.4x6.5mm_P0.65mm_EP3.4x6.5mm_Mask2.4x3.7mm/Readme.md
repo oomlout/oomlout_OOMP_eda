@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10117
+- index: 10118
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.4x3.7mm
+- oompName: kicad-footprints/Package_SO/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.4x3.7mm
 - kicadDesc: HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/bq24006.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: HTSSOP SO
 - kicadAttr: smd

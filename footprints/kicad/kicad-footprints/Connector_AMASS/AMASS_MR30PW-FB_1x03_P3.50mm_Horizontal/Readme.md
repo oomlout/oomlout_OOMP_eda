@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1028
+- index: 1029
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_AMASS
 - oompIndex: AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
+- oompName: kicad-footprints/Connector_AMASS/AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
 - kicadDesc: Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
 - kicadTags: RC Connector XT30
 - kicadAttr: through_hole

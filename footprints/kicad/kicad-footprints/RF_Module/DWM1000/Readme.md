@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11323
+- index: 11324
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: DWM1000
+- oompName: kicad-footprints/RF_Module/DWM1000
 - kicadDesc: IEEE802.15.4-2011 UWB
 - kicadTags: UWB Module
 - kicadAttr: smd

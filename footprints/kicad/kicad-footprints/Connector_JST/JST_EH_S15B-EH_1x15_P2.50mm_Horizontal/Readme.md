@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2150
+- index: 2151
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_EH_S15B-EH_1x15_P2.50mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_EH_S15B-EH_1x15_P2.50mm_Horizontal
 - kicadDesc: JST EH series connector, S15B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST EH top entry
 - kicadAttr: through_hole

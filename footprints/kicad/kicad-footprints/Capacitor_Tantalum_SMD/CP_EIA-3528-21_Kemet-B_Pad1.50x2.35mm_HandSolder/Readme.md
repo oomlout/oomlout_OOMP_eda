@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 591
+- index: 592
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_Tantalum_SMD
 - oompIndex: CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder
+- oompName: kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder
 - kicadDesc: Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
 - kicadTags: capacitor tantalum
 - kicadAttr: smd

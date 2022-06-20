@@ -12,12 +12,13 @@ Contents
 
 ## Tags
 
-- index: 8744
+- index: 8745
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Obsolete\Fiducial
 - oompIndex: Fiducial_Modern_CopperTop
+- oompName: kicad-footprints/Obsolete\Fiducial/Fiducial_Modern_CopperTop
 - kicadDesc: Fiducial, Modern, Copper Top
 - kicadAttr: smd

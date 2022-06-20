@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1250
+- index: 1251
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_BarrelJack
 - oompIndex: BarrelJack_CUI_PJ-102AH_Horizontal
+- oompName: kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal
 - kicadDesc: Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
 - kicadTags: Power Jack
 - kicadAttr: through_hole

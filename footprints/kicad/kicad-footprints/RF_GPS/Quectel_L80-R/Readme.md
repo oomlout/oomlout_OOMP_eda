@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11267
+- index: 11268
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GPS
 - oompIndex: Quectel_L80-R
+- oompName: kicad-footprints/RF_GPS/Quectel_L80-R
 - kicadDesc: Quectel L80-R GPS Module, Patch on Top, https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf
 - kicadTags: quectel GPS GNSS
 - kicadAttr: smd

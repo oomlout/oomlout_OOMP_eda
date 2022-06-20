@@ -7,19 +7,25 @@ Contents
 
 * [FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_62x40mm_2xFixation3mm>](#footprint-kicad-kicad-footprints-heatsink-heatsink_62x40mm_2xfixation3mm)
 	* [Tags](#tags)
-
+  
+![][im]
 # FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_62x40mm_2xFixation3mm>
 
 ## Tags
 
-- index: 7686
+- index: 7687
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Heatsink
 - oompIndex: Heatsink_62x40mm_2xFixation3mm
+- oompName: kicad-footprints/Heatsink/Heatsink_62x40mm_2xFixation3mm
 - kicadDesc: Heatsink, 62 x 40mm, 2x 3mm Drills,
 - kicadTags: heatsink
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_62x40mm_2xFixation3mm.wrl
+
+
+
+[im]: image.png

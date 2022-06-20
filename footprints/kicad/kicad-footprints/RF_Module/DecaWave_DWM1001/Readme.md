@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11321
+- index: 11322
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: DecaWave_DWM1001
+- oompName: kicad-footprints/RF_Module/DecaWave_DWM1001
 - kicadDesc: https://www.decawave.com/sites/default/files/dwm1001_datasheet.pdf
 - kicadTags: UWB module
 - kicadAttr: smd

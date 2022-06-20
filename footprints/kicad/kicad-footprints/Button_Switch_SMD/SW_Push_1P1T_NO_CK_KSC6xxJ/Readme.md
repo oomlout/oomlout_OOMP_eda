@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 287
+- index: 288
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_Push_1P1T_NO_CK_KSC6xxJ
+- oompName: kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC6xxJ
 - kicadDesc: CK components KSC6 tactile switch https://www.ckswitches.com/media/1972/ksc6.pdf
 - kicadTags: tactile switch ksc6
 - kicadAttr: smd

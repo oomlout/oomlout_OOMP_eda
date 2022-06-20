@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8984
+- index: 8985
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: WLP-4_0.86x0.86mm_P0.4mm
+- oompName: kicad-footprints/Package_BGA/WLP-4_0.86x0.86mm_P0.4mm
 - kicadDesc: WLP-4_0.86x0.86mm_P0.4mm https://pdfserv.maximintegrated.com/package_dwgs/21-0612.PDF, https://www.maximintegrated.com/en/app-notes/index.mvp/id/1891
 - kicadTags: WLP-4
 - kicadAttr: smd

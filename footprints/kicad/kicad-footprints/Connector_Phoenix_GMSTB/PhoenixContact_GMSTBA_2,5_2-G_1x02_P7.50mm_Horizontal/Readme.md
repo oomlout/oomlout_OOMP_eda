@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3512
+- index: 3513
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_GMSTB
 - oompIndex: PhoenixContact_GMSTBA_2,5_2-G_1x02_P7.50mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBA_2,5_2-G_1x02_P7.50mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: GMSTBA_2,5/2-G; number of pins: 02; pin pitch: 7.50mm; Angled || order number: 1766343 12A 630V
 - kicadTags: phoenix_contact connector GMSTBA_01x02_G_7.50mm
 - kicadAttr: through_hole

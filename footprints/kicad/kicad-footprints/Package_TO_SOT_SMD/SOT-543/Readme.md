@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10554
+- index: 10555
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-543
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-543
 - kicadDesc: SOT-543 4 lead surface package
 - kicadTags: SOT-543 SC-107A EMD4
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 812
+- index: 813
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Radial_D12.5mm_H25.0mm_P5.00mm
+- oompName: kicad-footprints/Capacitor_THT/C_Radial_D12.5mm_H25.0mm_P5.00mm
 - kicadDesc: C, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=25mm, Non-Polar Electrolytic Capacitor
 - kicadTags: C Radial series Radial pin pitch 5.00mm diameter 12.5mm height 25mm Non-Polar Electrolytic Capacitor
 - kicadAttr: through_hole

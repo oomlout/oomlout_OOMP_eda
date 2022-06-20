@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3826
+- index: 3827
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC_HighVoltage
 - oompIndex: PhoenixContact_MC_1,5_5-GF-5.08_1x05_P5.08mm_Horizontal_ThreadedFlange_MountHole
+- oompName: kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_5-GF-5.08_1x05_P5.08mm_Horizontal_ThreadedFlange_MountHole
 - kicadDesc: Generic Phoenix Contact connector footprint for: MC_1,5/5-GF-5.08; number of pins: 05; pin pitch: 5.08mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x4.5 C or ISO 7049-ST 2.2x4.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1847495 8A 320V
 - kicadTags: phoenix_contact connector MC_01x05_GF_5.08mm_MH
 - kicadAttr: through_hole

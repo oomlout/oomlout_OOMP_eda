@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8790
+- index: 8791
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Osram_DIL2_4.3x4.65mm_P5.08mm
+- oompName: kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm
 - kicadDesc: PhotoDiode, plastic DIL, 4.3x4.65mm², RM5.08
 - kicadTags: PhotoDiode plastic DIL RM5.08
 - kicadAttr: through_hole

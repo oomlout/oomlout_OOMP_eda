@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1202
+- index: 1203
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC3MBH-1_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MBH-1_Horizontal
 - kicadDesc: B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-1
 - kicadTags: neutrik xlr b
 - kicadAttr: through_hole

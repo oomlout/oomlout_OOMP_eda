@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10639
+- index: 10640
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-126-3_Horizontal_TabUp
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-126-3_Horizontal_TabUp
 - kicadDesc: TO-126-3, Horizontal, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
 - kicadTags: TO-126-3 Horizontal RM 2.54mm
 - kicadAttr: through_hole

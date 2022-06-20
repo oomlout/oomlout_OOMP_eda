@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11644
+- index: 11645
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_4Ucon
 - oompIndex: TerminalBlock_4Ucon_1x10_P3.50mm_Vertical
+- oompName: kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x10_P3.50mm_Vertical
 - kicadDesc: Terminal Block 4Ucon ItemNo. 10701, vertical (cable from top), 10 pins, pitch 3.5mm, size 36x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10701.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
 - kicadTags: THT Terminal Block 4Ucon ItemNo. 10701 vertical pitch 3.5mm size 36x8.3mm^2 drill 1.3mm pad 2.6mm
 - kicadAttr: through_hole

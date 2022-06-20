@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10440
+- index: 10441
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_S-PVSON-N10
+- oompName: kicad-footprints/Package_SON/Texas_S-PVSON-N10
 - kicadDesc: 3x3mm Body, 0.5mm Pitch, S-PVSON-N10, DRC, http://www.ti.com/lit/ds/symlink/tps61201.pdf
 - kicadTags: 0.5 S-PVSON-N10 DRC
 - kicadAttr: smd

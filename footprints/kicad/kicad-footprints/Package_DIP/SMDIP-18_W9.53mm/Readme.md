@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9874
+- index: 9875
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: SMDIP-18_W9.53mm
+- oompName: kicad-footprints/Package_DIP/SMDIP-18_W9.53mm
 - kicadDesc: 18-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
 - kicadTags: SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
 - kicadAttr: smd

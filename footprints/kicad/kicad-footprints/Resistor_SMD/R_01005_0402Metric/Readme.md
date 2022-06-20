@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11084
+- index: 11085
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_01005_0402Metric
+- oompName: kicad-footprints/Resistor_SMD/R_01005_0402Metric
 - kicadDesc: Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
 - kicadTags: resistor
 - kicadAttr: smd

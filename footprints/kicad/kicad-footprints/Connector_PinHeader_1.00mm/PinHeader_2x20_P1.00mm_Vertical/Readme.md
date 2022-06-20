@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4248
+- index: 4249
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_1.00mm
 - oompIndex: PinHeader_2x20_P1.00mm_Vertical
+- oompName: kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x20_P1.00mm_Vertical
 - kicadDesc: Through hole straight pin header, 2x20, 1.00mm pitch, double rows
 - kicadTags: Through hole pin header THT 2x20 1.00mm double row
 - kicadAttr: through_hole

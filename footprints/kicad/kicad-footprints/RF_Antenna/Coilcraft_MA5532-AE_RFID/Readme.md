@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11253
+- index: 11254
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Antenna
 - oompIndex: Coilcraft_MA5532-AE_RFID
+- oompName: kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID
 - kicadDesc: RFID Transponder Coil
 - kicadTags: antenna rfid coilcraft
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 105
+- index: 106
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: Panasonic_EVQPUK_EVQPUB
+- oompName: kicad-footprints/Button_Switch_SMD/Panasonic_EVQPUK_EVQPUB
 - kicadDesc: http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
 - kicadTags: SMD SMT SPST EVQPUK EVQPUB
 - kicadAttr: smd

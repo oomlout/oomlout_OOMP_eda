@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1271
+- index: 1272
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: BNC_PanelMountable_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical
 - kicadDesc: Panel-mountable BNC connector mounted through PCB, vertical
 - kicadTags: BNC connector
 - kicadAttr: through_hole

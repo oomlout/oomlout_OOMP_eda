@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4325
+- index: 4326
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_1.27mm
 - oompIndex: PinHeader_1x05_P1.27mm_Vertical
+- oompName: kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_1x05_P1.27mm_Vertical
 - kicadDesc: Through hole straight pin header, 1x05, 1.27mm pitch, single row
 - kicadTags: Through hole pin header THT 1x05 1.27mm single row
 - kicadAttr: through_hole

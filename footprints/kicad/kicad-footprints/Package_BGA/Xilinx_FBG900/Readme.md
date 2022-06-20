@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9002
+- index: 9003
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: Xilinx_FBG900
+- oompName: kicad-footprints/Package_BGA/Xilinx_FBG900
 - kicadDesc: Kintex-7 BGA, 30x30 grid, 31x31mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=289, NSMD pad definition Appendix A
 - kicadTags: BGA 900 1 FB900 FBG900 FBV900
 - kicadAttr: smd

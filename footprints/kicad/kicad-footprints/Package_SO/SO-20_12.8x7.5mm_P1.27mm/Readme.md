@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10206
+- index: 10207
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SO-20_12.8x7.5mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SO-20_12.8x7.5mm_P1.27mm
 - kicadDesc: SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf
 - kicadTags: S0-20
 - kicadAttr: smd

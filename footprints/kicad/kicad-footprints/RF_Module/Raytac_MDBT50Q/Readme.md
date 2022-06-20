@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11351
+- index: 11352
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: Raytac_MDBT50Q
+- oompName: kicad-footprints/RF_Module/Raytac_MDBT50Q
 - kicadDesc: Multiprotocol radio SoC module https://www.raytac.com/download/index.php?index_id=43
 - kicadTags: wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52840 nrf52833
 - kicadAttr: smd

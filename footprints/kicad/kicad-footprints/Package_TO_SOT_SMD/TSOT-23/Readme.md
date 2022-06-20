@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10606
+- index: 10607
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: TSOT-23
+- oompName: kicad-footprints/Package_TO_SOT_SMD/TSOT-23
 - kicadDesc: 3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf
 - kicadTags: TSOT-23
 - kicadAttr: smd

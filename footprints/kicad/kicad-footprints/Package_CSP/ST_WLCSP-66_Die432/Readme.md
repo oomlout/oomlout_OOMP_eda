@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9112
+- index: 9113
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: ST_WLCSP-66_Die432
+- oompName: kicad-footprints/Package_CSP/ST_WLCSP-66_Die432
 - kicadDesc: WLCSP-66, 8x9 raster, 3.767x4.229mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f378vc.pdf
 - kicadTags: BGA 66 0.4
 - kicadAttr: smd

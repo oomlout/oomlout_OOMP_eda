@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8376
+- index: 8377
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Module
 - oompIndex: Onion_Omega2+
+- oompName: kicad-footprints/Module/Onion_Omega2+
 - kicadDesc: https://onion.io/omega2/
 - kicadTags: Omega Onion module
 - kicadAttr: through_hole

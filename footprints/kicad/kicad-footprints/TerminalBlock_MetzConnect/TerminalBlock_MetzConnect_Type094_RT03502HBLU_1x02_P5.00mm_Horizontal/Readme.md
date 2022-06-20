@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11739
+- index: 11740
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_MetzConnect
 - oompIndex: TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal
+- oompName: kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal
 - kicadDesc: terminal block Metz Connect Type094_RT03502HBLU, 2 pins, pitch 5mm, size 10x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
 - kicadTags: THT terminal block Metz Connect Type094_RT03502HBLU pitch 5mm size 10x8.3mm^2 drill 1.3mm pad 2.6mm
 - kicadAttr: through_hole

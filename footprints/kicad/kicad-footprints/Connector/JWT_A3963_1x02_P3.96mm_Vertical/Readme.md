@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1019
+- index: 1020
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: JWT_A3963_1x02_P3.96mm_Vertical
+- oompName: kicad-footprints/Connector/JWT_A3963_1x02_P3.96mm_Vertical
 - kicadDesc: JWT A3963, 3.96mm pitch Pin head connector (http://www.jwt.com.tw/pro_pdf/A3963.pdf)
 - kicadTags: connector JWT A3963 pinhead
 - kicadAttr: through_hole

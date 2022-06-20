@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 32
+- index: 33
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_MPD_BC2AAPC_2xAA
+- oompName: kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA
 - kicadDesc: 2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf
 - kicadTags: AA battery cell holder
 - kicadAttr: through_hole

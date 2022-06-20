@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 794
+- index: 795
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Disc_D7.0mm_W2.5mm_P5.00mm
+- oompName: kicad-footprints/Capacitor_THT/C_Disc_D7.0mm_W2.5mm_P5.00mm
 - kicadDesc: C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
 - kicadTags: C Disc series Radial pin pitch 5.00mm  diameter 7mm width 2.5mm Capacitor
 - kicadAttr: through_hole

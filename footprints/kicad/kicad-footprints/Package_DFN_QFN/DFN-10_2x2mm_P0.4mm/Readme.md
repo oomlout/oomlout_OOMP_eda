@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9146
+- index: 9147
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-10_2x2mm_P0.4mm
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-10_2x2mm_P0.4mm
 - kicadDesc: 10-Lead Plastic DFN (2mm x 2mm)  0.40mm pitch
 - kicadTags: DFN 10 0.4mm
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10865
+- index: 10866
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_SMD
 - oompIndex: Potentiometer_Bourns_3224W_Vertical
+- oompName: kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3224W_Vertical
 - kicadDesc: Potentiometer, vertical, Bourns 3224W, https://www.bourns.com/docs/Product-Datasheets/3224.pdf
 - kicadTags: Potentiometer vertical Bourns 3224W
 - kicadAttr: smd

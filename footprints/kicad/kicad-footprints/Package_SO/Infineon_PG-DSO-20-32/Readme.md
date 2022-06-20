@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10147
+- index: 10148
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: Infineon_PG-DSO-20-32
+- oompName: kicad-footprints/Package_SO/Infineon_PG-DSO-20-32
 - kicadDesc: Infineon SO package 20pin without exposed pad (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-32/)
 - kicadTags: DSO-20
 - kicadAttr: smd

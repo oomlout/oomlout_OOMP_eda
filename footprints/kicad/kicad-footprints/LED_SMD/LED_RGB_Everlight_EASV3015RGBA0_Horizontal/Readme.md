@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8258
+- index: 8259
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+- oompName: kicad-footprints/LED_SMD/LED_RGB_Everlight_EASV3015RGBA0_Horizontal
 - kicadDesc: LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220
 - kicadTags: LED RGB right-angle
 - kicadAttr: smd

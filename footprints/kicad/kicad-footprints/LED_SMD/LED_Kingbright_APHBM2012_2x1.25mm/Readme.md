@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8242
+- index: 8243
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Kingbright_APHBM2012_2x1.25mm
+- oompName: kicad-footprints/LED_SMD/LED_Kingbright_APHBM2012_2x1.25mm
 - kicadDesc: Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012
 - kicadTags: LED Kingbright APHM2012
 - kicadAttr: smd

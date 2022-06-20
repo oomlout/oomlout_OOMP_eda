@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8820
+- index: 8821
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Vishay_CNY70
+- oompName: kicad-footprints/OptoDevice/Vishay_CNY70
 - kicadDesc: package for Vishay CNY70 refective photo coupler/interrupter
 - kicadTags: Vishay CNY70 refective photo coupler
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10504
+- index: 10505
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: LFPAK56
+- oompName: kicad-footprints/Package_TO_SOT_SMD/LFPAK56
 - kicadDesc: LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf
 - kicadTags: LFPAK56 SOT-669 Power-SO8
 - kicadAttr: smd

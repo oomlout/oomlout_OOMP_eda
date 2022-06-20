@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 562
+- index: 563
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: C_Trimmer_Murata_TZC3
+- oompName: kicad-footprints/Capacitor_SMD/C_Trimmer_Murata_TZC3
 - kicadDesc: trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
 - kicadTags: Murata TZC3
 - kicadAttr: smd

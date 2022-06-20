@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11007
+- index: 11008
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_1-Form-B_Schrack-RYII_RM5mm
+- oompName: kicad-footprints/Relay_THT/Relay_1-Form-B_Schrack-RYII_RM5mm
 - kicadDesc: Relay, 1-Form-B, Schrack-RYII, RM5mm, SPST-NC
 - kicadTags: Relay 1-Form-B Schrack-RYII RM5mm SPST-NC
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8830
+- index: 8831
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SeikoEpson_SG-8002DB
+- oompName: kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DB
 - kicadDesc: 14-lead dip package, row spacing 7.62 mm (300 mils)
 - kicadTags: DIL DIP PDIP 2.54mm 7.62mm 300mil
 - kicadAttr: through_hole

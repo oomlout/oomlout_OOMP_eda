@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10753
+- index: 10754
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-3
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-3
 - kicadDesc: Transistor TO-3
 - kicadTags: TR TO-3 TO3 TO-204
 - kicadAttr: through_hole

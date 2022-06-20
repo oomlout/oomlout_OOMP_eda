@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10468
+- index: 10469
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-6-1EP_3x3mm_P0.95mm
+- oompName: kicad-footprints/Package_SON/WSON-6-1EP_3x3mm_P0.95mm
 - kicadDesc: WSON6 3*3 MM, 0.95 PITCH; http://www.ti.com/lit/ds/symlink/lmr62421.pdf
 - kicadTags: WSON6 0.95
 - kicadAttr: smd

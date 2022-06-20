@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9540
+- index: 9541
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_S-PWQFN-N100_EP5.5x5.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm
 - kicadDesc: http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf
 - kicadTags: MultiRow QFN
 - kicadAttr: smd

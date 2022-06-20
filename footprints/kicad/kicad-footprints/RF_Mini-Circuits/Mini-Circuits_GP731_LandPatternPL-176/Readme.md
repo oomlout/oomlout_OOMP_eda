@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11299
+- index: 11300
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Mini-Circuits
 - oompIndex: Mini-Circuits_GP731_LandPatternPL-176
+- oompName: kicad-footprints/RF_Mini-Circuits/Mini-Circuits_GP731_LandPatternPL-176
 - kicadDesc: Footprint for Mini-Circuits case GP731 (https://ww2.minicircuits.com/case_style/GP731.pdf) following land pattern PL-176, including GND vias (https://www.minicircuits.com/pcb/98-pl176.pdf)
 - kicadTags: mini-circuits PL-176
 - kicadAttr: smd

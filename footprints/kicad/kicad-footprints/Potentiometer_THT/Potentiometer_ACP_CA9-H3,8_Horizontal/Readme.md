@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10886
+- index: 10887
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_ACP_CA9-H3,8_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA9-H3,8_Horizontal
 - kicadDesc: Potentiometer, horizontal, ACP CA9-H3,8, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
 - kicadTags: Potentiometer horizontal ACP CA9-H3,8
 - kicadAttr: through_hole

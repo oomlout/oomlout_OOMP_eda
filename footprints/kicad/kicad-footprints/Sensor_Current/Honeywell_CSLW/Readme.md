@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11427
+- index: 11428
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Current
 - oompIndex: Honeywell_CSLW
+- oompName: kicad-footprints/Sensor_Current/Honeywell_CSLW
 - kicadDesc: https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf
 - kicadTags: Miniature Wired Open-Loop Current Sensor
 - kicadAttr: through_hole

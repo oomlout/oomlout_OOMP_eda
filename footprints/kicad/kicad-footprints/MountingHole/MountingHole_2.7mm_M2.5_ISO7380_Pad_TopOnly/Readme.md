@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8425
+- index: 8426
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: MountingHole
 - oompIndex: MountingHole_2.7mm_M2.5_ISO7380_Pad_TopOnly
+- oompName: kicad-footprints/MountingHole/MountingHole_2.7mm_M2.5_ISO7380_Pad_TopOnly
 - kicadDesc: Mounting Hole 2.7mm, M2.5, ISO7380
 - kicadTags: mounting hole 2.7mm m2.5 iso7380
 - kicadAttr: exclude_from_pos_files exclude_from_bom

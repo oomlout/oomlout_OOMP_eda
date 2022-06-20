@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4853
+- index: 4854
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_2.00mm
 - oompIndex: PinHeader_2x36_P2.00mm_Vertical_SMD
+- oompName: kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_2x36_P2.00mm_Vertical_SMD
 - kicadDesc: surface-mounted straight pin header, 2x36, 2.00mm pitch, double rows
 - kicadTags: Surface mounted pin header SMD 2x36 2.00mm double row
 - kicadAttr: smd

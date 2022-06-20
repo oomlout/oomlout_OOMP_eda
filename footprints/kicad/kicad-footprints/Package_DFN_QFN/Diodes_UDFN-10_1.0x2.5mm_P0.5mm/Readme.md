@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9210
+- index: 9211
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Diodes_UDFN-10_1.0x2.5mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/Diodes_UDFN-10_1.0x2.5mm_P0.5mm
 - kicadDesc: U-DFN2510-10 package used by Diodes Incorporated (https://www.diodes.com/assets/Package-Files/U-DFN2510-10-Type-CJ.pdf)
 - kicadTags: UDFN-10 U-DFN2510-10 Diodes
 - kicadAttr: smd

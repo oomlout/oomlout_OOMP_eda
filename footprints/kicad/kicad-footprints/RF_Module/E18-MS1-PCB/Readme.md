@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11324
+- index: 11325
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: E18-MS1-PCB
+- oompName: kicad-footprints/RF_Module/E18-MS1-PCB
 - kicadDesc: http://www.cdebyte.com/en/downpdf.aspx?id=122
 - kicadTags: Zigbee
 - kicadAttr: smd

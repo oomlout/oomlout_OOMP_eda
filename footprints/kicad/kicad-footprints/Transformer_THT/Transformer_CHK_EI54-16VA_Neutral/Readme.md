@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12269
+- index: 12270
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_CHK_EI54-16VA_Neutral
+- oompName: kicad-footprints/Transformer_THT/Transformer_CHK_EI54-16VA_Neutral
 - kicadDesc: Trafo, Printtrafo, CHK, EI54, 16VA, neutral,http://www.eratransformers.com/product-detail/19
 - kicadTags: Trafo Printtrafo CHK EI54 16VA neutral
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12272
+- index: 12273
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_Coilcraft_Q4434-B_Rhombus-T1311
+- oompName: kicad-footprints/Transformer_THT/Transformer_Coilcraft_Q4434-B_Rhombus-T1311
 - kicadDesc: Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,
 - kicadTags: Transformator Transformer Flyback Coilcraft Q4434-B Rgombus T1311
 - kicadAttr: through_hole

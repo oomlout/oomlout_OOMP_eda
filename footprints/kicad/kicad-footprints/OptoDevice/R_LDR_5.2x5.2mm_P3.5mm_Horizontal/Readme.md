@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8806
+- index: 8807
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: R_LDR_5.2x5.2mm_P3.5mm_Horizontal
+- oompName: kicad-footprints/OptoDevice/R_LDR_5.2x5.2mm_P3.5mm_Horizontal
 - kicadDesc: Resistor, LDR 5.2x5.2, upright, see http://cdn-reichelt.de/documents/datenblatt/A500/M996011A.pdf
 - kicadTags: Resistor LDR5.2x5.2
 - kicadAttr: through_hole

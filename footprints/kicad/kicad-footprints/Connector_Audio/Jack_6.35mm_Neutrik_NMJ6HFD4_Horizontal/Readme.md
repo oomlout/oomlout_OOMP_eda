@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1071
+- index: 1072
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
 - kicadDesc: M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and fishtail PCB pins, https://www.neutrik.com/en/product/nmj6hfd4
 - kicadTags: neutrik jack m
 - kicadAttr: through_hole

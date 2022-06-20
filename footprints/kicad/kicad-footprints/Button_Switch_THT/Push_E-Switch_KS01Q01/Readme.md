@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 337
+- index: 338
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: Push_E-Switch_KS01Q01
+- oompName: kicad-footprints/Button_Switch_THT/Push_E-Switch_KS01Q01
 - kicadDesc: E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
 - kicadTags: Push Button
 - kicadAttr: through_hole

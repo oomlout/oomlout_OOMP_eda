@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10425
+- index: 10426
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Infineon_PG-TISON-8-3
+- oompName: kicad-footprints/Package_SON/Infineon_PG-TISON-8-3
 - kicadDesc: Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/
 - kicadTags: tison
 - kicadAttr: smd

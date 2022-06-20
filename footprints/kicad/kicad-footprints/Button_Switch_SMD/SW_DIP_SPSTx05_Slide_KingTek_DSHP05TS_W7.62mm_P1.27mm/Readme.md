@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 185
+- index: 186
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_DIP_SPSTx05_Slide_KingTek_DSHP05TS_W7.62mm_P1.27mm
+- oompName: kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TS_W7.62mm_P1.27mm
 - kicadDesc: SMD 5x-dip-switch SPST KingTek_DSHP05TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
 - kicadTags: SMD DIP Switch SPST Slide 7.62mm 300mil
 - kicadAttr: smd

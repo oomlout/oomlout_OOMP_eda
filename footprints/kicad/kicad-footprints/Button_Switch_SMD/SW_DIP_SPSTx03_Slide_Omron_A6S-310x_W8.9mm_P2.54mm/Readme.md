@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 155
+- index: 156
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_DIP_SPSTx03_Slide_Omron_A6S-310x_W8.9mm_P2.54mm
+- oompName: kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx03_Slide_Omron_A6S-310x_W8.9mm_P2.54mm
 - kicadDesc: SMD 3x-dip-switch SPST Omron_A6S-310x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
 - kicadTags: SMD DIP Switch SPST Slide 8.9mm 350mil
 - kicadAttr: smd

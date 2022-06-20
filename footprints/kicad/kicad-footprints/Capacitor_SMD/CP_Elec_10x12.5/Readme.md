@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 474
+- index: 475
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_10x12.5
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_10x12.5
 - kicadDesc: SMD capacitor, aluminum electrolytic, Vishay 1012, 10.0x12.5mm, http://www.vishay.com/docs/28395/150crz.pdf
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

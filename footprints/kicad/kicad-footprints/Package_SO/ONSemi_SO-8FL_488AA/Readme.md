@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10188
+- index: 10189
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: ONSemi_SO-8FL_488AA
+- oompName: kicad-footprints/Package_SO/ONSemi_SO-8FL_488AA
 - kicadDesc: ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https://www.onsemi.com/pub/Collateral/488AA.PDF
 - kicadTags: ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A
 - kicadAttr: smd

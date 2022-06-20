@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10892
+- index: 10893
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
 - kicadDesc: Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
 - kicadTags: potentiometer vertical 9mm dual
 - kicadAttr: through_hole

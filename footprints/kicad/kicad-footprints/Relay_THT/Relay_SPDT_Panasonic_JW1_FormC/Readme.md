@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11046
+- index: 11047
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_Panasonic_JW1_FormC
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_Panasonic_JW1_FormC
 - kicadDesc: Panasonic Relay SPDT, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
 - kicadTags: Panasonic Relay SPDT
 - kicadAttr: through_hole

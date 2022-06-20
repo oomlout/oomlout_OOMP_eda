@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2329
+- index: 2330
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal
 - kicadDesc: JST SFH series connector, SM02B-SFHRS-TF (http://www.jst-mfg.com/product/pdf/eng/eSFH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST SFH horizontal
 - kicadAttr: smd

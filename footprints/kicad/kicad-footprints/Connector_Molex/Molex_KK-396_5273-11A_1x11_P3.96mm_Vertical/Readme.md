@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2734
+- index: 2735
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_KK-396_5273-11A_1x11_P3.96mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_KK-396_5273-11A_1x11_P3.96mm_Vertical
 - kicadDesc: Molex KK 396 Interconnect System, old/engineering part number: 5273-11A example for new part number: 09-65-2118, 11 Pins (https://www.molex.com/pdm_docs/sd/009652028_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex KK-396 vertical
 - kicadAttr: through_hole

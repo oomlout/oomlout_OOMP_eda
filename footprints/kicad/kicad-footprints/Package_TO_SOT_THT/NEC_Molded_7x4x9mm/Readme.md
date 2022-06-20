@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10620
+- index: 10621
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: NEC_Molded_7x4x9mm
+- oompName: kicad-footprints/Package_TO_SOT_THT/NEC_Molded_7x4x9mm
 - kicadDesc: Molded Japan Transistor Package 7x4x9mm^3, http://rtellason.com/transdata/2sb734.pdf
 - kicadTags: Japan transistor
 - kicadAttr: through_hole

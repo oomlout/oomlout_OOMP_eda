@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8816
+- index: 8817
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: ST_VL53L1X
+- oompName: kicad-footprints/OptoDevice/ST_VL53L1X
 - kicadDesc: https://www.st.com/resource/en/datasheet/vl53l1x.pdf
 - kicadTags: laser-ranging sensor
 - kicadAttr: smd

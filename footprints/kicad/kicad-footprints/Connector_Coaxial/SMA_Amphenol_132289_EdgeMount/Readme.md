@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1286
+- index: 1287
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: SMA_Amphenol_132289_EdgeMount
+- oompName: kicad-footprints/Connector_Coaxial/SMA_Amphenol_132289_EdgeMount
 - kicadDesc: http://www.amphenolrf.com/132289.html
 - kicadTags: SMA
 - kicadAttr: smd

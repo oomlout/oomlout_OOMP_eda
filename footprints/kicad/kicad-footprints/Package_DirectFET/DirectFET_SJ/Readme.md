@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9938
+- index: 9939
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DirectFET
 - oompIndex: DirectFET_SJ
+- oompName: kicad-footprints/Package_DirectFET/DirectFET_SJ
 - kicadDesc: DirectFET SJ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=18
 - kicadTags: DirectFET SJ MOSFET Infineon
 - kicadAttr: smd

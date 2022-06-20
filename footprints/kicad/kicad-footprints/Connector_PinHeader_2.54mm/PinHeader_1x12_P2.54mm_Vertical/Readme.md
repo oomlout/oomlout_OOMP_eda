@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4909
+- index: 4910
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_2.54mm
 - oompIndex: PinHeader_1x12_P2.54mm_Vertical
+- oompName: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical
 - kicadDesc: Through hole straight pin header, 1x12, 2.54mm pitch, single row
 - kicadTags: Through hole pin header THT 1x12 2.54mm single row
 - kicadAttr: through_hole

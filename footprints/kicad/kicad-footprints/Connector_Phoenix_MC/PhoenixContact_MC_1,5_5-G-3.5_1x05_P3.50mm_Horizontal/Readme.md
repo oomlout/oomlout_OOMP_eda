@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3743
+- index: 3744
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MC_1,5_5-G-3.5_1x05_P3.50mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_5-G-3.5_1x05_P3.50mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: MC_1,5/5-G-3.5; number of pins: 05; pin pitch: 3.50mm; Angled || order number: 1844249 8A 160V
 - kicadTags: phoenix_contact connector MC_01x05_G_3.5mm
 - kicadAttr: through_hole

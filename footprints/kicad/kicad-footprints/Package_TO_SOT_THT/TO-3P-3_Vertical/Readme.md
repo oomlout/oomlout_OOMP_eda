@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10774
+- index: 10775
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-3P-3_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-3P-3_Vertical
 - kicadDesc: TO-3P-3, Vertical, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
 - kicadTags: TO-3P-3 Vertical RM 5.45mm
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 482
+- index: 483
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_18x22
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_18x22
 - kicadDesc: SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

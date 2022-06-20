@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2271
+- index: 2272
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_PH_S12B-PH-SM4-TB_1x12-1MP_P2.00mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_PH_S12B-PH-SM4-TB_1x12-1MP_P2.00mm_Horizontal
 - kicadDesc: JST PH series connector, S12B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST PH top entry
 - kicadAttr: smd

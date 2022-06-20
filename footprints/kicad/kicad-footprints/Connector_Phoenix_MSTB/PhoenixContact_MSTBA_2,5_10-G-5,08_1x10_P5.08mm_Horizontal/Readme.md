@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3839
+- index: 3840
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_10-G-5,08_1x10_P5.08mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBA_2,5/10-G-5,08; number of pins: 10; pin pitch: 5.08mm; Angled || order number: 1757323 12A || order number: 1923940 16A (HC)
 - kicadTags: phoenix_contact connector MSTBA_01x10_G_5.08mm
 - kicadAttr: through_hole

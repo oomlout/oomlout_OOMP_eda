@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3871
+- index: 3872
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBVA_2,5_11-G-5,08_1x11_P5.08mm_Vertical
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_11-G-5,08_1x11_P5.08mm_Vertical
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBVA_2,5/11-G-5,08; number of pins: 11; pin pitch: 5.08mm; Vertical || order number: 1755820 12A || order number: 1924392 16A (HC)
 - kicadTags: phoenix_contact connector MSTBVA_01x11_G_5.08mm
 - kicadAttr: through_hole

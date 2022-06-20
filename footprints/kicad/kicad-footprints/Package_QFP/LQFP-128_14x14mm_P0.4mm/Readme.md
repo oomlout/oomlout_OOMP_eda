@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10003
+- index: 10004
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: LQFP-128_14x14mm_P0.4mm
+- oompName: kicad-footprints/Package_QFP/LQFP-128_14x14mm_P0.4mm
 - kicadDesc: LQFP, 128 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/q128.14x14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: LQFP QFP
 - kicadAttr: smd

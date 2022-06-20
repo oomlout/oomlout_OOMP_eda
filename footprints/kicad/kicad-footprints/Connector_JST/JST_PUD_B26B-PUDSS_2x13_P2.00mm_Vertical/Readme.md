@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2304
+- index: 2305
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_PUD_B26B-PUDSS_2x13_P2.00mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_PUD_B26B-PUDSS_2x13_P2.00mm_Vertical
 - kicadDesc: JST PUD series connector, B26B-PUDSS (http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST PUD side entry
 - kicadAttr: through_hole

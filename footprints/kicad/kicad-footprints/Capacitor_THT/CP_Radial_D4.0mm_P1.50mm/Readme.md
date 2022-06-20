@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 715
+- index: 716
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_D4.0mm_P1.50mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_D4.0mm_P1.50mm
 - kicadDesc: CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor
 - kicadTags: CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor
 - kicadAttr: through_hole

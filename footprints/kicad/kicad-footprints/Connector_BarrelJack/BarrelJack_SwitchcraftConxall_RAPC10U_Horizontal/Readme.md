@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1253
+- index: 1254
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_BarrelJack
 - oompIndex: BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
+- oompName: kicad-footprints/Connector_BarrelJack/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
 - kicadDesc: DC Power Jack, 13A, 24V, Panel Mount,Through-hole, https://www.switchcraft.com/Drawings/RAPC10U_CD.pdf
 - kicadTags: barreljack switchcraftconxall dc power
 - kicadAttr: through_hole

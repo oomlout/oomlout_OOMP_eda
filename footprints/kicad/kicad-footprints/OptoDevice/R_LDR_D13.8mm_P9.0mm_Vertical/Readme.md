@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8808
+- index: 8809
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: R_LDR_D13.8mm_P9.0mm_Vertical
+- oompName: kicad-footprints/OptoDevice/R_LDR_D13.8mm_P9.0mm_Vertical
 - kicadDesc: Resistor, diameter 13.8mm pitch 9mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf
 - kicadTags: Resistor LDR
 - kicadAttr: through_hole

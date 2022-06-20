@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11317
+- index: 11318
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: BLE112-A
+- oompName: kicad-footprints/RF_Module/BLE112-A
 - kicadDesc: Class 4 Bluetooth Module with on-board antenna
 - kicadTags: Bluetooth Module
 - kicadAttr: smd

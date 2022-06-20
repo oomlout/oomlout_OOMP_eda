@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9113
+- index: 9114
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: ST_WLCSP-72_Die415
+- oompName: kicad-footprints/Package_CSP/ST_WLCSP-72_Die415
 - kicadDesc: WLCSP-72, 9x9 raster, 4.4084x3.7594mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l476me.pdf
 - kicadTags: BGA 72 0.4
 - kicadAttr: smd

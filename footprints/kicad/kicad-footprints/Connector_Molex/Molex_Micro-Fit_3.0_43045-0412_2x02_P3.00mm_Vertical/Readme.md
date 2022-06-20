@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2796
+- index: 2797
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical
 - kicadDesc: Molex Micro-Fit 3.0 Connector System, 43045-0412 (compatible alternatives: 43045-0413, 43045-0424), 2 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Micro-Fit_3.0 side entry
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10086
+- index: 10087
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SIP
 - oompIndex: SIP9_Housing_BigPads
+- oompName: kicad-footprints/Package_SIP/SIP9_Housing_BigPads
 - kicadDesc: SIP9, large pads
 - kicadTags: SIP9
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 548
+- index: 549
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: C_Elec_10x10.2
+- oompName: kicad-footprints/Capacitor_SMD/C_Elec_10x10.2
 - kicadDesc: SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
 - kicadTags: capacitor electrolyic nonpolar
 - kicadAttr: smd

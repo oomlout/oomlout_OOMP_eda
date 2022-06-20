@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12312
+- index: 12313
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Valve
 - oompIndex: Valve_Octal
+- oompName: kicad-footprints/Valve/Valve_Octal
 - kicadDesc: 8-pin round valve
 - kicadTags: valve
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10539
+- index: 10540
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-23W
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-23W
 - kicadDesc: SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
 - kicadTags: SOT-23W
 - kicadAttr: smd

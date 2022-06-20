@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4026
+- index: 4027
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Pin
 - oompIndex: Pin_D1.2mm_L11.3mm_W3.0mm_Flat
+- oompName: kicad-footprints/Connector_Pin/Pin_D1.2mm_L11.3mm_W3.0mm_Flat
 - kicadDesc: solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm
 - kicadTags: solder Pin_ with flat fork
 - kicadAttr: through_hole

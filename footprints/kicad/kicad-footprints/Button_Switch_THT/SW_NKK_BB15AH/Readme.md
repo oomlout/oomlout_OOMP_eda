@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 394
+- index: 395
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_NKK_BB15AH
+- oompName: kicad-footprints/Button_Switch_THT/SW_NKK_BB15AH
 - kicadDesc: https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf
 - kicadTags: Pushbutton Right-angle
 - kicadAttr: through_hole

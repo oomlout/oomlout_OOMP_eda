@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11099
+- index: 11100
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
+- oompName: kicad-footprints/Resistor_SMD/R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
 - kicadDesc: Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
 - kicadTags: resistor handsolder
 - kicadAttr: smd

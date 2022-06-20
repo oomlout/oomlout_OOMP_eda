@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4688
+- index: 4689
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinHeader_2.00mm
 - oompIndex: PinHeader_1x26_P2.00mm_Vertical_SMD_Pin1Left
+- oompName: kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x26_P2.00mm_Vertical_SMD_Pin1Left
 - kicadDesc: surface-mounted straight pin header, 1x26, 2.00mm pitch, single row, style 1 (pin 1 left)
 - kicadTags: Surface mounted pin header SMD 1x26 2.00mm single row style1 pin1 left
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3364
+- index: 3365
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_SL_171971-0008_1x08_P2.54mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_SL_171971-0008_1x08_P2.54mm_Vertical
 - kicadDesc: Molex Stackable Linear Connector, 171971-0008 (compatible alternatives: 171971-0108, 171971-0208), 8 Pins per row (https://www.molex.com/pdm_docs/sd/1719710002_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex SL vertical
 - kicadAttr: through_hole

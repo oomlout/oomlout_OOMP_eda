@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9504
+- index: 9505
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_RNN0018A
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_RNN0018A
 - kicadDesc: Texas Instruments, VQFN-HR RNN0018A (http://www.ti.com/lit/ds/symlink/tps568215.pdf)
 - kicadTags: ti vqfn-hr rnn0018a
 - kicadAttr: smd

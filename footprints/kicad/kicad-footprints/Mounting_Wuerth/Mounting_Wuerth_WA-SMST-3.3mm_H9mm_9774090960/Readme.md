@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8706
+- index: 8707
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMST-3.3mm_H9mm_9774090960
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-3.3mm_H9mm_9774090960
 - kicadDesc: Mounting Hardware, inside through hole 3.3mm, height 9, Wuerth electronics 9774090960 (https://katalog.we-online.de/em/datasheet/9774090960.pdf,), generated with kicad-footprint-generator
 - kicadTags: Mounting 3.3mm 9774090960
 - kicadAttr: smd

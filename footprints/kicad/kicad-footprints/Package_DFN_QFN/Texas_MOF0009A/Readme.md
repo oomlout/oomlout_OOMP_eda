@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9491
+- index: 9492
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_MOF0009A
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_MOF0009A
 - kicadDesc: Texas Instruments, QFM MOF0009A, 6x8x2mm (http://www.ti.com/lit/ml/mpsi063a/mpsi063a.pdf)
 - kicadTags: ti qfm mof0009a
 - kicadAttr: smd

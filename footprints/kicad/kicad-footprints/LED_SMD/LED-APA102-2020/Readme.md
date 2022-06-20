@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8197
+- index: 8198
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED-APA102-2020
+- oompName: kicad-footprints/LED_SMD/LED-APA102-2020
 - kicadDesc: http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
 - kicadTags: LED RGB SPI
 - kicadAttr: smd

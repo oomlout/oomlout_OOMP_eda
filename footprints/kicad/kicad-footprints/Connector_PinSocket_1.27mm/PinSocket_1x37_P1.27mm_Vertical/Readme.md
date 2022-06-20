@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5406
+- index: 5407
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinSocket_1.27mm
 - oompIndex: PinSocket_1x37_P1.27mm_Vertical
+- oompName: kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x37_P1.27mm_Vertical
 - kicadDesc: Through hole straight socket strip, 1x37, 1.27mm pitch, single row (from Kicad 4.0.7), script generated
 - kicadTags: Through hole socket strip THT 1x37 1.27mm single row
 - kicadAttr: through_hole

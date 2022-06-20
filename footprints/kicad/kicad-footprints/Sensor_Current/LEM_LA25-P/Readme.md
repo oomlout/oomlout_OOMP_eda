@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11446
+- index: 11447
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Current
 - oompIndex: LEM_LA25-P
+- oompName: kicad-footprints/Sensor_Current/LEM_LA25-P
 - kicadDesc: LEM Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/la_25-p.pdf)
 - kicadTags: current transducer
 - kicadAttr: through_hole

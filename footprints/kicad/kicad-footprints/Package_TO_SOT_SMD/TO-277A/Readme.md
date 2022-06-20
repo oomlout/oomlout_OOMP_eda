@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10596
+- index: 10597
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: TO-277A
+- oompName: kicad-footprints/Package_TO_SOT_SMD/TO-277A
 - kicadDesc: Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
 - kicadTags: TO-277A SMPC
 - kicadAttr: smd

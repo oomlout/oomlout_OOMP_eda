@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12169
+- index: 12170
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TestPoint
 - oompIndex: TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
+- oompName: kicad-footprints/TestPoint/TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
 - kicadDesc: wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
 - kicadTags: test point wire loop bead
 - kicadAttr: through_hole

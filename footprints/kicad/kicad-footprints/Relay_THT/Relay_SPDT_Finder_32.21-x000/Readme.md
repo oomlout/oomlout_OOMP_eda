@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11031
+- index: 11032
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_Finder_32.21-x000
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_Finder_32.21-x000
 - kicadDesc: Finder 32.21-x000 Relay, SPDT, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
 - kicadTags: AXICOM IM-Series Relay SPDT
 - kicadAttr: through_hole

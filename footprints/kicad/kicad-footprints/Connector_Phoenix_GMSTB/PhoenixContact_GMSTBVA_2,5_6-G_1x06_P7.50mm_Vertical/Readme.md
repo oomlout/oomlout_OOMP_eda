@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3542
+- index: 3543
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_GMSTB
 - oompIndex: PhoenixContact_GMSTBVA_2,5_6-G_1x06_P7.50mm_Vertical
+- oompName: kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_6-G_1x06_P7.50mm_Vertical
 - kicadDesc: Generic Phoenix Contact connector footprint for: GMSTBVA_2,5/6-G; number of pins: 06; pin pitch: 7.50mm; Vertical || order number: 1766709 12A 630V
 - kicadTags: phoenix_contact connector GMSTBVA_01x06_G_7.50mm
 - kicadAttr: through_hole

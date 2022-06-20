@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8246
+- index: 8247
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Lumex_SML-LX0303SIUPGUSB
+- oompName: kicad-footprints/LED_SMD/LED_Lumex_SML-LX0303SIUPGUSB
 - kicadDesc: Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf
 - kicadTags: LED RGB
 - kicadAttr: smd

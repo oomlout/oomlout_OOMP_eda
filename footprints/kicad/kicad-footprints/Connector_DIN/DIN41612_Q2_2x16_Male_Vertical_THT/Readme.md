@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1348
+- index: 1349
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_DIN
 - oompIndex: DIN41612_Q2_2x16_Male_Vertical_THT
+- oompName: kicad-footprints/Connector_DIN/DIN41612_Q2_2x16_Male_Vertical_THT
 - kicadDesc: DIN41612 connector, type Q/2, Vertical, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 - kicadTags: DIN 41612 IEC 60603 Q/2
 - kicadAttr: through_hole

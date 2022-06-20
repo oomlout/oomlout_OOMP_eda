@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1139
+- index: 1140
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC3FAAV-0_Vertical
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3FAAV-0_Vertical
 - kicadDesc: AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav-0
 - kicadTags: neutrik xlr aa
 - kicadAttr: through_hole

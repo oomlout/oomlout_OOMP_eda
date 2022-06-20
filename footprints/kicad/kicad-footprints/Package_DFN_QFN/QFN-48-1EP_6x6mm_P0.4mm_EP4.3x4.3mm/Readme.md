@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9404
+- index: 9405
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm
 - kicadDesc: QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

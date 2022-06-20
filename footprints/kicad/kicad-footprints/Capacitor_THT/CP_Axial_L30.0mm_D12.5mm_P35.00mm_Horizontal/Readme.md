@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 646
+- index: 647
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal
+- oompName: kicad-footprints/Capacitor_THT/CP_Axial_L30.0mm_D12.5mm_P35.00mm_Horizontal
 - kicadDesc: CP, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=30*12.5mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
 - kicadTags: CP Axial series Axial Horizontal pin pitch 35mm  length 30mm diameter 12.5mm Electrolytic Capacitor
 - kicadAttr: through_hole

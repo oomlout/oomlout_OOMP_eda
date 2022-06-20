@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1274
+- index: 1275
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: BNC_Win_364A2x95_Horizontal
+- oompName: kicad-footprints/Connector_Coaxial/BNC_Win_364A2x95_Horizontal
 - kicadDesc: Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)
 - kicadTags: Dual BNC Horizontal Isolated
 - kicadAttr: through_hole

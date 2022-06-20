@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3966
+- index: 3967
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange_MountHole
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_11-GF_1x11_P5.00mm_Horizontal_ThreadedFlange_MountHole
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTB_2,5/11-GF; number of pins: 11; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776786 12A || order number: 1924062 16A (HC)
 - kicadTags: phoenix_contact connector MSTB_01x11_GF_5.00mm_MH
 - kicadAttr: through_hole

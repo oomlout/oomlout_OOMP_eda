@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1587
+- index: 1588
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: TE_1-84952-1_1x11-1MP_P1.0mm_Horizontal
+- oompName: kicad-footprints/Connector_FFC-FPC/TE_1-84952-1_1x11-1MP_P1.0mm_Horizontal
 - kicadDesc: TE FPC connector, 11 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
 - kicadTags: te fpc 84952
 - kicadAttr: smd

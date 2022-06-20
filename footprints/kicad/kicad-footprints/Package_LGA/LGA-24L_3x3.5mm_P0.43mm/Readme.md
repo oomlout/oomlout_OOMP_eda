@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9978
+- index: 9979
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: LGA-24L_3x3.5mm_P0.43mm
+- oompName: kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm
 - kicadDesc: LGA 24L 3x3.5mm Pitch 0.43mm
 - kicadTags: LGA 24L 3x3.5mm Pitch 0.43mm
 - kicadAttr: smd

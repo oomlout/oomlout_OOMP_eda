@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 592
+- index: 593
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_Tantalum_SMD
 - oompIndex: CP_EIA-6032-15_Kemet-U
+- oompName: kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-6032-15_Kemet-U
 - kicadDesc: Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
 - kicadTags: capacitor tantalum
 - kicadAttr: smd

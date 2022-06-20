@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11624
+- index: 11625
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock
 - oompIndex: TerminalBlock_bornier-5_P5.08mm
+- oompName: kicad-footprints/TerminalBlock/TerminalBlock_bornier-5_P5.08mm
 - kicadDesc: simple 5-pin terminal block, pitch 5.08mm, revamped version of bornier5
 - kicadTags: terminal block bornier5
 - kicadAttr: through_hole

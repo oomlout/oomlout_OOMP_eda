@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10731
+- index: 10732
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-247-4_Horizontal_TabUp
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-247-4_Horizontal_TabUp
 - kicadDesc: TO-247-4, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
 - kicadTags: TO-247-4 Horizontal RM 2.54mm
 - kicadAttr: through_hole

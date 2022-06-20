@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2578
+- index: 2579
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical
 - kicadDesc: JST ZE series connector, B12B-ZESK-D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST ZE side entry
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1706
+- index: 1707
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Harwin
 - oompIndex: Harwin_Gecko-G125-FVX1005L0X_2x05_P1.25mm_Vertical
+- oompName: kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-FVX1005L0X_2x05_P1.25mm_Vertical
 - kicadDesc: Harwin Gecko Connector, 10 pins, dual row female, vertical entry, PN:G125-FVX1005L0X
 - kicadTags: connector harwin gecko
 - kicadAttr: through_hole

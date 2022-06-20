@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 159
+- index: 160
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile
+- oompName: kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile
 - kicadDesc: SMD 4x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x11.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
 - kicadTags: SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
 - kicadAttr: smd

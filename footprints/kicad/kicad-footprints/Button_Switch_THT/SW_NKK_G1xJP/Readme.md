@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 395
+- index: 396
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_NKK_G1xJP
+- oompName: kicad-footprints/Button_Switch_THT/SW_NKK_G1xJP
 - kicadDesc: Switch NKK G1xJP http://www.nkkswitches.com/pdf/gwillum.pdf
 - kicadTags: SWITCH TOGGLE ILLUM SPDT NKK
 - kicadAttr: through_hole

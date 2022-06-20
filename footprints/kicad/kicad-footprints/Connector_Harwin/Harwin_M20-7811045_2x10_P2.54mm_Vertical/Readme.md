@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1777
+- index: 1778
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Harwin
 - oompIndex: Harwin_M20-7811045_2x10_P2.54mm_Vertical
+- oompName: kicad-footprints/Connector_Harwin/Harwin_M20-7811045_2x10_P2.54mm_Vertical
 - kicadDesc: Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811045, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Harwin M20 side entry
 - kicadAttr: smd

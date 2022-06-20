@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 719
+- index: 720
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_D6.3mm_P2.50mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_D6.3mm_P2.50mm
 - kicadDesc: CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
 - kicadTags: CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
 - kicadAttr: through_hole

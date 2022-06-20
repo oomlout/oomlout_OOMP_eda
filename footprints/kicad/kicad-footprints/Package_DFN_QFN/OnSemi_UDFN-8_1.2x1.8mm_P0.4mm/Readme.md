@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9253
+- index: 9254
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
+- oompName: kicad-footprints/Package_DFN_QFN/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
 - kicadDesc: 8-Lead Plastic Dual Flat, No Lead Package, 1.2x1.8x1.55 mm Body [UDFN] (See http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)
 - kicadTags: dfn udfn dual flat
 - kicadAttr: smd

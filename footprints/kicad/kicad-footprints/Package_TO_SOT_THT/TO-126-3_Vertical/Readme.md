@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10640
+- index: 10641
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-126-3_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-126-3_Vertical
 - kicadDesc: TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
 - kicadTags: TO-126-3 Vertical RM 2.54mm
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1189
+- index: 1190
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC3MAAH_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAAH_Horizontal
 - kicadDesc: AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah
 - kicadTags: neutrik xlr aa
 - kicadAttr: through_hole

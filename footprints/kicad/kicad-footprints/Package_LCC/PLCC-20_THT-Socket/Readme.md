@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9943
+- index: 9944
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LCC
 - oompIndex: PLCC-20_THT-Socket
+- oompName: kicad-footprints/Package_LCC/PLCC-20_THT-Socket
 - kicadDesc: PLCC, 20 pins, through hole
 - kicadTags: plcc leaded
 - kicadAttr: through_hole

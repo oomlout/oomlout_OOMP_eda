@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 332
+- index: 333
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_TL3305B
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_TL3305B
 - kicadDesc: https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
 - kicadTags: TL3305 Series Tact Switch
 - kicadAttr: smd

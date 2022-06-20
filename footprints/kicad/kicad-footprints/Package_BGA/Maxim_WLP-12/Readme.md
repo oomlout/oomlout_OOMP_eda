@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8936
+- index: 8937
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: Maxim_WLP-12
+- oompName: kicad-footprints/Package_BGA/Maxim_WLP-12
 - kicadDesc: Maxim_WLP-12 W121B2+1 http://pdfserv.maximintegrated.com/package_dwgs/21-0009.PDF
 - kicadTags: Maxim_WLP-12
 - kicadAttr: smd

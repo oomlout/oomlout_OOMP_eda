@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8310
+- index: 8311
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D5.0mm-4_RGB_Wide_Pins
+- oompName: kicad-footprints/LED_THT/LED_D5.0mm-4_RGB_Wide_Pins
 - kicadDesc: LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
 - kicadTags: LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
 - kicadAttr: through_hole

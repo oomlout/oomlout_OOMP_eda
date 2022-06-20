@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8832
+- index: 8833
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_Abracon_ABLNO
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_Abracon_ABLNO
 - kicadDesc: https://abracon.com/Precisiontiming/ABLNO.pdf
 - kicadTags: VCXO XO
 - kicadAttr: smd

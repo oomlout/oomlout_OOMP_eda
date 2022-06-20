@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3232
+- index: 3233
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Picoflex_90325-0012_2x06_P1.27mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0012_2x06_P1.27mm_Vertical
 - kicadDesc: Molex Picoflex Ribbon-Cable Connectors, 90325-0012, 12 Pins (http://www.molex.com/pdm_docs/sd/903250004_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Picoflex side entry
 - kicadAttr: through_hole

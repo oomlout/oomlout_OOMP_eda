@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10139
+- index: 10140
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm
+- oompName: kicad-footprints/Package_SO/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm
 - kicadDesc: HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: HVSSOP SO
 - kicadAttr: smd

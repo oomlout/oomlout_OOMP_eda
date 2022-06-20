@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11518
+- index: 11519
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Symbol
 - oompIndex: KiCad-Logo_6mm_SilkScreen
+- oompName: kicad-footprints/Symbol/KiCad-Logo_6mm_SilkScreen
 - kicadDesc: KiCad Logo
 - kicadTags: Logo KiCad
 - kicadAttr: exclude_from_pos_files exclude_from_bom

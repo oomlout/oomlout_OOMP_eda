@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10017
+- index: 10018
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: LQFP-48_7x7mm_P0.5mm
+- oompName: kicad-footprints/Package_QFP/LQFP-48_7x7mm_P0.5mm
 - kicadDesc: LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: LQFP QFP
 - kicadAttr: smd

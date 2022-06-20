@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1020
+- index: 1021
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: NS-Tech_Grove_1x04_P2mm_Vertical
+- oompName: kicad-footprints/Connector/NS-Tech_Grove_1x04_P2mm_Vertical
 - kicadDesc: https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
 - kicadTags: Grove-1x04
 - kicadAttr: through_hole

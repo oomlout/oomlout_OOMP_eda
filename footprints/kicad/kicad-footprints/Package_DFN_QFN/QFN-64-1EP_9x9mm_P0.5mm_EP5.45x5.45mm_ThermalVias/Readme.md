@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9448
+- index: 9449
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm_ThermalVias
 - kicadDesc: QFN, 64 Pin (https://www.infineon.com/dgdl/Infineon-MA12040-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b7467a3d617c#page=81), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

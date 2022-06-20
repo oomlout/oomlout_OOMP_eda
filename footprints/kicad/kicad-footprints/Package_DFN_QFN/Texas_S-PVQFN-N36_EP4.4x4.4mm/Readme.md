@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9526
+- index: 9527
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_S-PVQFN-N36_EP4.4x4.4mm
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N36_EP4.4x4.4mm
 - kicadDesc: QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

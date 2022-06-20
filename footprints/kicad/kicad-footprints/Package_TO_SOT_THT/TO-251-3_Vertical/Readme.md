@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10739
+- index: 10740
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-251-3_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-251-3_Vertical
 - kicadDesc: TO-251-3, Vertical, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
 - kicadTags: TO-251-3 Vertical RM 2.29mm IPAK
 - kicadAttr: through_hole

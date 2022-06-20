@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10464
+- index: 10465
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-14-1EP_4.0x4.0mm_P0.5mm_EP2.6x2.6mm
+- oompName: kicad-footprints/Package_SON/WSON-14-1EP_4.0x4.0mm_P0.5mm_EP2.6x2.6mm
 - kicadDesc: 14-Lead Plastic Dual Flat, No Lead Package - 4.0x4.0x0.8 mm Body [WSON], http://www.ti.com/lit/ml/mpds421/mpds421.pdf
 - kicadTags: NHL014B
 - kicadAttr: smd

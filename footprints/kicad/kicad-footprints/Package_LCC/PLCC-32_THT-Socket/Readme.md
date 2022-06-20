@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9948
+- index: 9949
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LCC
 - oompIndex: PLCC-32_THT-Socket
+- oompName: kicad-footprints/Package_LCC/PLCC-32_THT-Socket
 - kicadDesc: PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf
 - kicadTags: plcc leaded
 - kicadAttr: through_hole

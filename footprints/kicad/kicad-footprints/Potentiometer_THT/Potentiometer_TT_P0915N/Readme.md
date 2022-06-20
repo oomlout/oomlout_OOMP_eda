@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10971
+- index: 10972
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_TT_P0915N
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_TT_P0915N
 - kicadDesc: http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf
 - kicadTags: potentiometer vertical TT P0915N single
 - kicadAttr: through_hole

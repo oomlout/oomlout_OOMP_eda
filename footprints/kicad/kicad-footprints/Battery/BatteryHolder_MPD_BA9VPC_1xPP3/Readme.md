@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 29
+- index: 30
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_MPD_BA9VPC_1xPP3
+- oompName: kicad-footprints/Battery/BatteryHolder_MPD_BA9VPC_1xPP3
 - kicadDesc: 1xPP3 (9V) battery holder, Memory Protection Devices P/N BA9VPC, http://www.memoryprotectiondevices.com/datasheets/BA9VPC-datasheet.pdf
 - kicadTags: PP3 Battery Holder BA9VPC 9V
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11342
+- index: 11343
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: Laird_BL652
+- oompName: kicad-footprints/RF_Module/Laird_BL652
 - kicadDesc: Bluetooth v4.2 + NFC module
 - kicadTags: Bluetooth BLE NFC
 - kicadAttr: smd

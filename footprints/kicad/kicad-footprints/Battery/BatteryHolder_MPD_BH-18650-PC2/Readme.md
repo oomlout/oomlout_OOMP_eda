@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 33
+- index: 34
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_MPD_BH-18650-PC2
+- oompName: kicad-footprints/Battery/BatteryHolder_MPD_BH-18650-PC2
 - kicadDesc: 18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)
 - kicadTags: 18650 Battery Holder
 - kicadAttr: through_hole

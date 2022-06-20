@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12271
+- index: 12272
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_CHK_UI39-10VA_Flat
+- oompName: kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat
 - kicadDesc: Trafo, Flattrafo, CHK, UI39, 10VA,
 - kicadTags: Trafo Flattrafo CHK UI39 10VA
 - kicadAttr: through_hole

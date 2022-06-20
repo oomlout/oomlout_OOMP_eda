@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12228
+- index: 12229
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_NF_ETAL_P3000_HandSoldering
+- oompName: kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3000_HandSoldering
 - kicadDesc: NF-Reansformer, ETAL, P3000, SMD, Handsoldering,
 - kicadTags: NF-Reansformer ETAL P3000 SMD Handsoldering
 - kicadAttr: smd

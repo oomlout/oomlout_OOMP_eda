@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11424
+- index: 11425
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Current
 - oompIndex: Allegro_SIP-4
+- oompName: kicad-footprints/Sensor_Current/Allegro_SIP-4
 - kicadDesc: Allegro Microsystems SIP-4, 1.27mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/A1363-Datasheet.ashx)
 - kicadTags: Allegro SIP-4
 - kicadAttr: through_hole

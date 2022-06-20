@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10201
+- index: 10202
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SO-14_5.3x10.2mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SO-14_5.3x10.2mm_P1.27mm
 - kicadDesc: SO, 14 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SO SO
 - kicadAttr: smd

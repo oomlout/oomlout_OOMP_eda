@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11410
+- index: 11411
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Audio
 - oompIndex: Infineon_PG-LLGA-5-1
+- oompName: kicad-footprints/Sensor_Audio/Infineon_PG-LLGA-5-1
 - kicadDesc: Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/
 - kicadTags: infineon mems microphone
 - kicadAttr: smd

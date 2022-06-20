@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10963
+- index: 10964
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Piher_PT-6-H_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-6-H_Horizontal
 - kicadDesc: Potentiometer, horizontal, Piher PT-6-H, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
 - kicadTags: Potentiometer horizontal Piher PT-6-H
 - kicadAttr: through_hole

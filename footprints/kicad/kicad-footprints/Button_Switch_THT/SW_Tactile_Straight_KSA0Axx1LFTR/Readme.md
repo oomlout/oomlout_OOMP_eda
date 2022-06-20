@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 428
+- index: 429
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_Tactile_Straight_KSA0Axx1LFTR
+- oompName: kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSA0Axx1LFTR
 - kicadDesc: SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf
 - kicadTags: SW PUSH SMALL Tactile C&K
 - kicadAttr: through_hole

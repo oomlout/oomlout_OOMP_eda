@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9351
+- index: 9352
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias
 - kicadDesc: QFN, 32 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/l32.4x4a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12144
+- index: 12145
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_Wuerth
 - oompIndex: Wuerth_REDCUBE-THR_WP-THRSH_74651195_THR
+- oompName: kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRSH_74651195_THR
 - kicadDesc: REDCUBE THR with internal through-hole thread WP-THRSH (https://www.we-online.de/katalog/datasheet/74651195.pdf)
 - kicadTags: screw terminal thread redcube thr power connector
 - kicadAttr: smd

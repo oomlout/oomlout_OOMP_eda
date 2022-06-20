@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5854
+- index: 5855
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinSocket_2.54mm
 - oompIndex: PinSocket_1x09_P2.54mm_Horizontal
+- oompName: kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x09_P2.54mm_Horizontal
 - kicadDesc: Through hole angled socket strip, 1x09, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
 - kicadTags: Through hole angled socket strip THT 1x09 2.54mm single row
 - kicadAttr: through_hole

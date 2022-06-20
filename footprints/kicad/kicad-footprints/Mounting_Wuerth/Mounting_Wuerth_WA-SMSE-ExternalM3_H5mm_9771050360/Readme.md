@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8560
+- index: 8561
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 - kicadDesc: Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting M3 9771050360
 - kicadAttr: smd

@@ -20,6 +20,7 @@ Contents
 - oompColor: kicad-footprints
 - oompDesc: Audio_Module
 - oompIndex: Reverb_BTDR-1V
+- oompName: kicad-footprints/Audio_Module/Reverb_BTDR-1V
 - kicadDesc: Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
 - kicadTags: audio belton reverb
 - kicadAttr: through_hole

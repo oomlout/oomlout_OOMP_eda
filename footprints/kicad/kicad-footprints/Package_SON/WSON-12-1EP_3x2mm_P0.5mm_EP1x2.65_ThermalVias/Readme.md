@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10461
+- index: 10462
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias
+- oompName: kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias
 - kicadDesc: WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf
 - kicadTags: WSON-12
 - kicadAttr: smd

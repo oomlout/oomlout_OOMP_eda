@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11319
+- index: 11320
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: CMWX1ZZABZ
+- oompName: kicad-footprints/RF_Module/CMWX1ZZABZ
 - kicadDesc: https://wireless.murata.com/RFM/data/type_abz.pdf
 - kicadTags: iot lora sigfox
 - kicadAttr: smd

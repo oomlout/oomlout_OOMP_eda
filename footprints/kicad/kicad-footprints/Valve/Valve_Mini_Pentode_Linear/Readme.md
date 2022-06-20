@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12309
+- index: 12310
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Valve
 - oompIndex: Valve_Mini_Pentode_Linear
+- oompName: kicad-footprints/Valve/Valve_Mini_Pentode_Linear
 - kicadDesc: Mini-Pentode, 5-pin, e.g. JAN6418
 - kicadTags: Valve Mini-Pentode 5-pin JAN6418
 - kicadAttr: through_hole

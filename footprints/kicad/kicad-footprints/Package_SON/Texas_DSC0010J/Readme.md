@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10435
+- index: 10436
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_DSC0010J
+- oompName: kicad-footprints/Package_SON/Texas_DSC0010J
 - kicadDesc: 3x3mm Body, 0.5mm Pitch, DSC0010J, WSON, http://www.ti.com/lit/ds/symlink/tps61201.pdf
 - kicadTags: 0.5 DSC0010J WSON
 - kicadAttr: smd

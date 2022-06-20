@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10507
+- index: 10508
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: PowerMacro_M234_NoHole
+- oompName: kicad-footprints/Package_TO_SOT_SMD/PowerMacro_M234_NoHole
 - kicadDesc: TO-50-4 Power Macro Package Style M234
 - kicadTags: TO-50-4 Power Macro Package Style M234
 - kicadAttr: smd

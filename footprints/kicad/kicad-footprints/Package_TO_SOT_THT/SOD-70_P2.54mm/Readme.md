@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10624
+- index: 10625
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: SOD-70_P2.54mm
+- oompName: kicad-footprints/Package_TO_SOT_THT/SOD-70_P2.54mm
 - kicadDesc: Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]
 - kicadTags: Sod-70
 - kicadAttr: through_hole

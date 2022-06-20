@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10880
+- index: 10881
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_ACP_CA14-H4_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA14-H4_Horizontal
 - kicadDesc: Potentiometer, horizontal, ACP CA14-H4, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
 - kicadTags: Potentiometer horizontal ACP CA14-H4
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8772
+- index: 8773
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: LaserDiode_TO18-D5.6-3
+- oompName: kicad-footprints/OptoDevice/LaserDiode_TO18-D5.6-3
 - kicadDesc: Laser Diode, TO18-like (D=5.6mm), 3pin
 - kicadTags: Laser Diode TO18-like
 - kicadAttr: through_hole

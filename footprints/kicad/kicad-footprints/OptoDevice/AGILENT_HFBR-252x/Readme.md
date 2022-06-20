@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8748
+- index: 8749
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: AGILENT_HFBR-252x
+- oompName: kicad-footprints/OptoDevice/AGILENT_HFBR-252x
 - kicadDesc: Fiberoptic Receiver RX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)
 - kicadTags: Fiberoptic Transmitter
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12231
+- index: 12232
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_NF_ETAL_P3188
+- oompName: kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3188
 - kicadDesc: NF-Transformer, ETAL, P3188, SMD,
 - kicadTags: NF-Transformer ETAL P3188 SMD
 - kicadAttr: smd

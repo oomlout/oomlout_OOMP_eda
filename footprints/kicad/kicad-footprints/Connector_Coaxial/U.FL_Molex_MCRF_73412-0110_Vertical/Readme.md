@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1298
+- index: 1299
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: U.FL_Molex_MCRF_73412-0110_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/U.FL_Molex_MCRF_73412-0110_Vertical
 - kicadDesc: Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
 - kicadTags: mcrf hirose ufl u.fl microcoaxial
 - kicadAttr: smd

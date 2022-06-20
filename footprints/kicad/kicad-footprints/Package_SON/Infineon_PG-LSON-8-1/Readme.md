@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10423
+- index: 10424
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Infineon_PG-LSON-8-1
+- oompName: kicad-footprints/Package_SON/Infineon_PG-LSON-8-1
 - kicadDesc: https://www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/
 - kicadTags: PG-LSON-8-1
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1232
+- index: 1233
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC5FBH-B_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC5FBH-B_Horizontal
 - kicadDesc: B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbh-b
 - kicadTags: neutrik xlr b
 - kicadAttr: through_hole

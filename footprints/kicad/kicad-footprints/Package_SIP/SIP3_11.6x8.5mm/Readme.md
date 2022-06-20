@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10081
+- index: 10082
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SIP
 - oompIndex: SIP3_11.6x8.5mm
+- oompName: kicad-footprints/Package_SIP/SIP3_11.6x8.5mm
 - kicadDesc: RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
 - kicadTags: SIP3 Regulator Module
 - kicadAttr: through_hole

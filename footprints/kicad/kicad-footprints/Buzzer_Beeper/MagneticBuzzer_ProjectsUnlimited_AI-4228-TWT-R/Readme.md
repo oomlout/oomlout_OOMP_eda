@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 445
+- index: 446
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
+- oompName: kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
 - kicadDesc: Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf
 - kicadTags: Projects Unlimited AI-4228-TWT-R
 - kicadAttr: through_hole

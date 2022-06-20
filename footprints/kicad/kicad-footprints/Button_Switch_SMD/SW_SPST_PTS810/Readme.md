@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 323
+- index: 324
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_PTS810
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_PTS810
 - kicadDesc: C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
 - kicadTags: SPST Button Switch
 - kicadAttr: smd

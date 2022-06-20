@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 448
+- index: 449
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: MagneticBuzzer_ProSignal_ABT-410-RC
+- oompName: kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProSignal_ABT-410-RC
 - kicadDesc: Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,
 - kicadTags: Pro Signal ABT-410-RC
 - kicadAttr: through_hole

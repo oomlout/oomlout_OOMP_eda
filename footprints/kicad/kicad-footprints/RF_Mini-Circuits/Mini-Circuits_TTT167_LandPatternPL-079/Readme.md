@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11312
+- index: 11313
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Mini-Circuits
 - oompIndex: Mini-Circuits_TTT167_LandPatternPL-079
+- oompName: kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TTT167_LandPatternPL-079
 - kicadDesc: Footprint for Mini-Circuits case TTT167 (Mini-Circuits_TTT167_LandPatternPL-079) following land pattern PL-079, including GND vias (https://ww2.minicircuits.com/pcb/98-pl079.pdf)
 - kicadTags: Mini-Circuits PL-079
 - kicadAttr: smd

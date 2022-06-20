@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3593
+- index: 3594
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MCV_1,5_10-G-3.5_1x10_P3.50mm_Vertical
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_10-G-3.5_1x10_P3.50mm_Vertical
 - kicadDesc: Generic Phoenix Contact connector footprint for: MCV_1,5/10-G-3.5; number of pins: 10; pin pitch: 3.50mm; Vertical || order number: 1843680 8A 160V
 - kicadTags: phoenix_contact connector MCV_01x10_G_3.5mm
 - kicadAttr: through_hole

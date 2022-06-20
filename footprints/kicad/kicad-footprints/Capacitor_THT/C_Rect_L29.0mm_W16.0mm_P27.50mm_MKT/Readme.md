@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 934
+- index: 935
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Rect_L29.0mm_W16.0mm_P27.50mm_MKT
+- oompName: kicad-footprints/Capacitor_THT/C_Rect_L29.0mm_W16.0mm_P27.50mm_MKT
 - kicadDesc: C, Rect series, Radial, pin pitch=27.50mm, , length*width=29*16mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
 - kicadTags: C Rect series Radial pin pitch 27.50mm  length 29mm width 16mm Capacitor
 - kicadAttr: through_hole

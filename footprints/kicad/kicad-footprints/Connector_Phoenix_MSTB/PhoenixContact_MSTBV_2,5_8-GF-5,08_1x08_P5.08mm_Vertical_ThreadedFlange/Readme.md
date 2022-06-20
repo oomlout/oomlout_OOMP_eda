@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3951
+- index: 3952
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBV_2,5_8-GF-5,08_1x08_P5.08mm_Vertical_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_8-GF-5,08_1x08_P5.08mm_Vertical_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBV_2,5/8-GF-5,08; number of pins: 08; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777138 12A || order number: 1924583 16A (HC)
 - kicadTags: phoenix_contact connector MSTBV_01x08_GF_5.08mm
 - kicadAttr: through_hole

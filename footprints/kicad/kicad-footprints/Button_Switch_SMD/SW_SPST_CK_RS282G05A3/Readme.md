@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 308
+- index: 309
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_CK_RS282G05A3
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_CK_RS282G05A3
 - kicadDesc: https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf
 - kicadTags: SPST button tactile switch
 - kicadAttr: smd

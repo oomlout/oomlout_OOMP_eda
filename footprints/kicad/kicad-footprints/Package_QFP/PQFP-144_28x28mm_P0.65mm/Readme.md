@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10037
+- index: 10038
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: PQFP-144_28x28mm_P0.65mm
+- oompName: kicad-footprints/Package_QFP/PQFP-144_28x28mm_P0.65mm
 - kicadDesc: PQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: PQFP QFP
 - kicadAttr: smd

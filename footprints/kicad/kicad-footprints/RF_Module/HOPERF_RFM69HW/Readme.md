@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11337
+- index: 11338
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: HOPERF_RFM69HW
+- oompName: kicad-footprints/RF_Module/HOPERF_RFM69HW
 - kicadDesc: Radio, RF, Module, http://www.hoperf.com/upload/rf/RFM69HW-V1.3.pdf
 - kicadTags: Radio RF Module
 - kicadAttr: smd

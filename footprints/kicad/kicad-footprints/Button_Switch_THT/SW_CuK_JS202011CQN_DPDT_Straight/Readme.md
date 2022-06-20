@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 339
+- index: 340
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_CuK_JS202011CQN_DPDT_Straight
+- oompName: kicad-footprints/Button_Switch_THT/SW_CuK_JS202011CQN_DPDT_Straight
 - kicadDesc: CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
 - kicadTags: switch DPDT
 - kicadAttr: through_hole

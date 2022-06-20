@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8312
+- index: 8313
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D5.0mm_FlatTop
+- oompName: kicad-footprints/LED_THT/LED_D5.0mm_FlatTop
 - kicadDesc: LED, Round, FlatTop, diameter 5.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-483GDT(Ver.15B).pdf
 - kicadTags: LED Round FlatTop diameter 5.0mm 2 pins
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 418
+- index: 419
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_PUSH_6mm_H9.5mm
+- oompName: kicad-footprints/Button_Switch_THT/SW_PUSH_6mm_H9.5mm
 - kicadDesc: tactile push button, 6x6mm e.g. PHAP33xx series, height=9.5mm
 - kicadTags: tact sw push 6mm
 - kicadAttr: through_hole

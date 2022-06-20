@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12251
+- index: 12252
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_CHK_EI30-2VA_Neutral
+- oompName: kicad-footprints/Transformer_THT/Transformer_CHK_EI30-2VA_Neutral
 - kicadDesc: Trafo, Printtrafo, CHK, EI30, 2VA, neutral,
 - kicadTags: Trafo Printtrafo CHK EI30 2VA neutral
 - kicadAttr: through_hole

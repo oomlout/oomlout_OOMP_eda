@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8784
+- index: 8785
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Luna_NSL-32
+- oompName: kicad-footprints/OptoDevice/Luna_NSL-32
 - kicadDesc: Optoisolator with LED and photoresistor
 - kicadTags: optoisolator
 - kicadAttr: through_hole

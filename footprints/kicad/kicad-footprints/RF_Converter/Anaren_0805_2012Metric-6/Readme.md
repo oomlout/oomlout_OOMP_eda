@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11260
+- index: 11261
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Converter
 - oompIndex: Anaren_0805_2012Metric-6
+- oompName: kicad-footprints/RF_Converter/Anaren_0805_2012Metric-6
 - kicadDesc: https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf
 - kicadTags: coupler rf
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12285
+- index: 12286
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_Toroid_Horizontal_D14.0mm_Amidon-T50
+- oompName: kicad-footprints/Transformer_THT/Transformer_Toroid_Horizontal_D14.0mm_Amidon-T50
 - kicadDesc: Transformer, Toroid, horizontal, laying, Diameter 14mm, Amidon T50,
 - kicadTags: Transformer Toroid horizontal laying Diameter 14mm Amidon T50
 - kicadAttr: through_hole

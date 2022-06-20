@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1041
+- index: 1042
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_3.5mm_CUI_SJ1-3523N_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3523N_Horizontal
 - kicadDesc: TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
 - kicadTags: TRS audio jack stereo horizontal
 - kicadAttr: through_hole exclude_from_pos_files exclude_from_bom

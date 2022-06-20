@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11347
+- index: 11348
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: nRF24L01_Breakout
+- oompName: kicad-footprints/RF_Module/nRF24L01_Breakout
 - kicadDesc: nRF24L01 breakout board
 - kicadTags: nRF24L01 adapter breakout
 - kicadAttr: through_hole

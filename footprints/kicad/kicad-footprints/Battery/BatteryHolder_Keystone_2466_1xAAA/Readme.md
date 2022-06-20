@@ -20,6 +20,7 @@ Contents
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Keystone_2466_1xAAA
+- oompName: kicad-footprints/Battery/BatteryHolder_Keystone_2466_1xAAA
 - kicadDesc: 1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031
 - kicadTags: AAA battery holder Keystone
 - kicadAttr: through_hole

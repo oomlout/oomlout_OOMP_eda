@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8760
+- index: 8761
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Finder_34.81
+- oompName: kicad-footprints/OptoDevice/Finder_34.81
 - kicadDesc: Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 - kicadTags: Relay SPST Finder
 - kicadAttr: through_hole

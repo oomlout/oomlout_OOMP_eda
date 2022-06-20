@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3882
+- index: 3883
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBVA_2,5_16-G_1x16_P5.00mm_Vertical
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_16-G_1x16_P5.00mm_Vertical
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBVA_2,5/16-G; number of pins: 16; pin pitch: 5.00mm; Vertical || order number: 1755642 12A
 - kicadTags: phoenix_contact connector MSTBVA_01x16_G_5.00mm
 - kicadAttr: through_hole

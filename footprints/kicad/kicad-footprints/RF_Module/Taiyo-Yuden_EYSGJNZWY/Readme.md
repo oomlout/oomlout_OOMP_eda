@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11357
+- index: 11358
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: Taiyo-Yuden_EYSGJNZWY
+- oompName: kicad-footprints/RF_Module/Taiyo-Yuden_EYSGJNZWY
 - kicadDesc: Taiyo Yuden NRF51822 Module Bluetooth https://www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf
 - kicadTags: Taiyo Yuden NRF51822 Module Bluetooth
 - kicadAttr: smd

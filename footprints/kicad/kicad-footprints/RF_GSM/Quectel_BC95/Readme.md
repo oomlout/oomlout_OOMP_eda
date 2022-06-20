@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11278
+- index: 11279
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GSM
 - oompIndex: Quectel_BC95
+- oompName: kicad-footprints/RF_GSM/Quectel_BC95
 - kicadDesc: GSM NB-IoT module, 19.9x23.6x2.2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC95_Hardware_Design_V1.3.pdf
 - kicadTags: GSM NB-IoT module BC95
 - kicadAttr: smd

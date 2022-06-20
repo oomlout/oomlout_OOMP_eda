@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10146
+- index: 10147
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: Infineon_PG-DSO-20-30_ThermalVias
+- oompName: kicad-footprints/Package_SO/Infineon_PG-DSO-20-30_ThermalVias
 - kicadDesc: Infineon SO package 20pin, exposed pad 4.5x7mm (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-71/)
 - kicadTags: DSO-20
 - kicadAttr: smd

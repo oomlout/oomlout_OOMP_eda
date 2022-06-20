@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9656
+- index: 9657
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm
+- oompName: kicad-footprints/Package_DFN_QFN/WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm
 - kicadDesc: WQFN, 14 Pin (https://www.onsemi.com/pub/Collateral/FUSB302B-D.PDF#page=32), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: WQFN NoLead
 - kicadAttr: smd

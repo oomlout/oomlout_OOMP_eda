@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1568
+- index: 1569
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: Molex_52559-3652_2x18-1MP_P0.5mm_Vertical
+- oompName: kicad-footprints/Connector_FFC-FPC/Molex_52559-3652_2x18-1MP_P0.5mm_Vertical
 - kicadDesc: Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)
 - kicadTags: connector Molex top entry
 - kicadAttr: smd

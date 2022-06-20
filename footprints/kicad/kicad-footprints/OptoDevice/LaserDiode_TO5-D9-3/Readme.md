@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8775
+- index: 8776
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: LaserDiode_TO5-D9-3
+- oompName: kicad-footprints/OptoDevice/LaserDiode_TO5-D9-3
 - kicadDesc: Laser Diode, TO5-like (D=9mm), 3pin
 - kicadTags: Laser Diode TO5-like
 - kicadAttr: through_hole

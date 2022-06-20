@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10836
+- index: 10837
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-92S_Wide
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-92S_Wide
 - kicadDesc: TO-92S_Wide package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
 - kicadTags: TO-92S_Wide transistor
 - kicadAttr: through_hole

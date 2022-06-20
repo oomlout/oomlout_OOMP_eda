@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1273
+- index: 1274
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: BNC_TEConnectivity_1478204_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478204_Vertical
 - kicadDesc: BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html
 - kicadTags: BNC female PCB mount 4 pin straight chassis connector
 - kicadAttr: through_hole

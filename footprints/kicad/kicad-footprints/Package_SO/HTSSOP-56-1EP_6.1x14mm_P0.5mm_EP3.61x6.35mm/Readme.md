@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10138
+- index: 10139
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
+- oompName: kicad-footprints/Package_SO/HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
 - kicadDesc: HTSSOP56: plastic thin shrink small outline package http://www.ti.com/lit/ds/symlink/drv8301.pdf
 - kicadTags: HTSSOP 0.5
 - kicadAttr: smd

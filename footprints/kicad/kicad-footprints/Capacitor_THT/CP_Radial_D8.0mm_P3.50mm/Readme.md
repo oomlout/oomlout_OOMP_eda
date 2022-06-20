@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 722
+- index: 723
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_D8.0mm_P3.50mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_D8.0mm_P3.50mm
 - kicadDesc: CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
 - kicadTags: CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
 - kicadAttr: through_hole

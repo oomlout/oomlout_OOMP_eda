@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3399
+- index: 3400
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_SPOX_5268-05A_1x05_P2.50mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_SPOX_5268-05A_1x05_P2.50mm_Horizontal
 - kicadDesc: Molex SPOX Connector System, 5268-05A, 5 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex SPOX horizontal
 - kicadAttr: through_hole

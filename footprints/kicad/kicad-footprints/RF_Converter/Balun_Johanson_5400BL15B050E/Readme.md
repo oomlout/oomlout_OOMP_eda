@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11264
+- index: 11265
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Converter
 - oompIndex: Balun_Johanson_5400BL15B050E
+- oompName: kicad-footprints/RF_Converter/Balun_Johanson_5400BL15B050E
 - kicadDesc: https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf
 - kicadTags: balun RF
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8252
+- index: 8253
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_PLCC-2
+- oompName: kicad-footprints/LED_SMD/LED_PLCC-2
 - kicadDesc: LED PLCC-2 SMD package
 - kicadTags: LED PLCC-2 SMD
 - kicadAttr: smd

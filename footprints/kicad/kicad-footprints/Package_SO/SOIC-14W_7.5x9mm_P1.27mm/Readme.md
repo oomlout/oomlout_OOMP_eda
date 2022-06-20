@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10220
+- index: 10221
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SOIC-14W_7.5x9mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SOIC-14W_7.5x9mm_P1.27mm
 - kicadDesc: SOIC, 14 Pin (JEDEC MS-013AF, https://www.analog.com/media/en/package-pcb-resources/package/54614177245586rw_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SOIC SO
 - kicadAttr: smd

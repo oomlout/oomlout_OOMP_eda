@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11261
+- index: 11262
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Converter
 - oompIndex: Balun_Johanson_0896BM15A0001
+- oompName: kicad-footprints/RF_Converter/Balun_Johanson_0896BM15A0001
 - kicadDesc: https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf
 - kicadTags: balun RF
 - kicadAttr: smd

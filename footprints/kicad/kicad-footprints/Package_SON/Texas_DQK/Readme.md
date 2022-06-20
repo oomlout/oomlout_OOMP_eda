@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10432
+- index: 10433
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_DQK
+- oompName: kicad-footprints/Package_SON/Texas_DQK
 - kicadDesc: Texas WSON-6 DQK, http://www.ti.com/lit/ds/symlink/csd16301q2.pdf
 - kicadTags: Texas WSON6 2x2mm
 - kicadAttr: smd

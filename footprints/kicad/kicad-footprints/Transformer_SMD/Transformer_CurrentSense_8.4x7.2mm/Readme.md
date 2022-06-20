@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12215
+- index: 12216
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_CurrentSense_8.4x7.2mm
+- oompName: kicad-footprints/Transformer_SMD/Transformer_CurrentSense_8.4x7.2mm
 - kicadDesc: Transformer current sense SMD 8.4x7.2mm
 - kicadTags: Transformer current sense SMD
 - kicadAttr: smd

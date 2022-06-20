@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8286
+- index: 8287
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_D3.0mm
+- oompName: kicad-footprints/LED_THT/LED_D3.0mm
 - kicadDesc: LED, diameter 3.0mm, 2 pins
 - kicadTags: LED diameter 3.0mm 2 pins
 - kicadAttr: through_hole

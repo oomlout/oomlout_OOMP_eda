@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9329
+- index: 9330
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm
 - kicadDesc: QFN, 28 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

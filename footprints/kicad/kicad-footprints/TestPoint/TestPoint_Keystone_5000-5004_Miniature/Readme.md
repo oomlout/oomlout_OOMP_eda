@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12156
+- index: 12157
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TestPoint
 - oompIndex: TestPoint_Keystone_5000-5004_Miniature
+- oompName: kicad-footprints/TestPoint/TestPoint_Keystone_5000-5004_Miniature
 - kicadDesc: Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
 - kicadTags: Through Hole Mount Test Points
 - kicadAttr: through_hole

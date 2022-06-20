@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11343
+- index: 11344
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: Microchip_RN4871
+- oompName: kicad-footprints/RF_Module/Microchip_RN4871
 - kicadDesc: Microchip RN4871 footprint
 - kicadTags: RN4871 BLE
 - kicadAttr: smd

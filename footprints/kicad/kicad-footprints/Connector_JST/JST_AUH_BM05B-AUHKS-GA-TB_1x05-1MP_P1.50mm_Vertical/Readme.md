@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2130
+- index: 2131
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_AUH_BM05B-AUHKS-GA-TB_1x05-1MP_P1.50mm_Vertical
 - kicadDesc: JST AUH series connector, BM05B-AUHKS-GA-TB (http://www.jst-mfg.com/product/pdf/eng/eAUH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST AUH side entry
 - kicadAttr: smd

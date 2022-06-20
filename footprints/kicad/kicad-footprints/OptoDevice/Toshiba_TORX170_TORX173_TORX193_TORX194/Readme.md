@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8817
+- index: 8818
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Toshiba_TORX170_TORX173_TORX193_TORX194
+- oompName: kicad-footprints/OptoDevice/Toshiba_TORX170_TORX173_TORX193_TORX194
 - kicadDesc: Fiberoptic Reciver, RX, Toshiba, Toslink, TORX170, TORX173, TORX193, TORX194
 - kicadTags: Fiberoptic Reciver RX Toshiba Toslink TORX170 TORX173 TORX193 TORX194
 - kicadAttr: through_hole

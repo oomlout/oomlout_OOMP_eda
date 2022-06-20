@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2902
+- index: 2903
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Micro-Fit_3.0_43650-0900_1x09_P3.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0900_1x09_P3.00mm_Horizontal
 - kicadDesc: Molex Micro-Fit 3.0 Connector System, 43650-0900 (compatible alternatives: 43650-0901, 43650-0902), 9 Pins per row (https://www.molex.com/pdm_docs/sd/436500300_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Micro-Fit_3.0 top entry
 - kicadAttr: through_hole

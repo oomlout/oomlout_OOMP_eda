@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11067
+- index: 11068
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPST_SANYOU_SRD_Series_Form_B
+- oompName: kicad-footprints/Relay_THT/Relay_SPST_SANYOU_SRD_Series_Form_B
 - kicadDesc: relay Sanyou SRD series Form B opener http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
 - kicadTags: relay Sanyu SRD form B opener
 - kicadAttr: through_hole

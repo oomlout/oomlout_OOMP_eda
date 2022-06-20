@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 580
+- index: 581
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_Tantalum_SMD
 - oompIndex: CP_EIA-3216-10_Kemet-I
+- oompName: kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-10_Kemet-I
 - kicadDesc: Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
 - kicadTags: capacitor tantalum
 - kicadAttr: smd

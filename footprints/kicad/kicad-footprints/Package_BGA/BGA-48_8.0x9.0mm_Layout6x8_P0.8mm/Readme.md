@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8912
+- index: 8913
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: BGA-48_8.0x9.0mm_Layout6x8_P0.8mm
+- oompName: kicad-footprints/Package_BGA/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm
 - kicadDesc: BGA-48 - pitch 0.8 mm
 - kicadTags: BGA-48
 - kicadAttr: smd

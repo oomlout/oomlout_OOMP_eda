@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3417
+- index: 3418
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PCBEdge
 - oompIndex: BUS_PCI_Express_Mini
+- oompName: kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini
 - kicadDesc: Mini-PCI Express bus connector (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=11)
 - kicadTags: mini pcie
 - kicadAttr: smd

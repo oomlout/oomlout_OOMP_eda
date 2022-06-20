@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10650
+- index: 10651
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-18-4_Lens
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-18-4_Lens
 - kicadDesc: TO-18-4_Lens, Lens
 - kicadTags: TO-18-4_Lens Lens
 - kicadAttr: through_hole

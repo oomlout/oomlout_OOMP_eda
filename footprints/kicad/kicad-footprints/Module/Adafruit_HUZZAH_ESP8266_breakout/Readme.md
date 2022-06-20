@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8365
+- index: 8366
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Module
 - oompIndex: Adafruit_HUZZAH_ESP8266_breakout
+- oompName: kicad-footprints/Module/Adafruit_HUZZAH_ESP8266_breakout
 - kicadDesc: 32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471
 - kicadTags: ESP8266 WiFi microcontroller
 - kicadAttr: through_hole

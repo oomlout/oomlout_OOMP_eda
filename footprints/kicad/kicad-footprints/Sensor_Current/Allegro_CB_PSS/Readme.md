@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11419
+- index: 11420
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Current
 - oompIndex: Allegro_CB_PSS
+- oompName: kicad-footprints/Sensor_Current/Allegro_CB_PSS
 - kicadDesc: Allegro MicroSystems, CB-PSS Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)
 - kicadTags: Allegro CB-PSS
 - kicadAttr: smd

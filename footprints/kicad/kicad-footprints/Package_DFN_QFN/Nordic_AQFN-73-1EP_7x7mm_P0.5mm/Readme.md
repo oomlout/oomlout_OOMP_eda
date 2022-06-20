@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9248
+- index: 9249
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Nordic_AQFN-73-1EP_7x7mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/Nordic_AQFN-73-1EP_7x7mm_P0.5mm
 - kicadDesc: http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html
 - kicadTags: AQFN 7mm
 - kicadAttr: smd

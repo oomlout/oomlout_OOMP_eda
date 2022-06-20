@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11191
+- index: 11192
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_THT
 - oompIndex: R_Axial_DIN0614_L14.3mm_D5.7mm_P25.40mm_Horizontal
+- oompName: kicad-footprints/Resistor_THT/R_Axial_DIN0614_L14.3mm_D5.7mm_P25.40mm_Horizontal
 - kicadDesc: Resistor, Axial_DIN0614 series, Axial, Horizontal, pin pitch=25.4mm, 1.5W, length*diameter=14.3*5.7mm^2
 - kicadTags: Resistor Axial_DIN0614 series Axial Horizontal pin pitch 25.4mm 1.5W length 14.3mm diameter 5.7mm
 - kicadAttr: through_hole

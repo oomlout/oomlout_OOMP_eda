@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1055
+- index: 1056
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_3.5mm_Switronic_ST-005-G_horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal
 - kicadDesc: 3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
 - kicadTags: Connector Audio Switronic ST-005-G
 - kicadAttr: through_hole

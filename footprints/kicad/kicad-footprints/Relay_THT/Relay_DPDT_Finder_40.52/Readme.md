@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11013
+- index: 11014
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_DPDT_Finder_40.52
+- oompName: kicad-footprints/Relay_THT/Relay_DPDT_Finder_40.52
 - kicadDesc: Relay DPDT Finder 40.52, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
 - kicadTags: Relay DPDT Finder 40.52 Pitch 5mm
 - kicadAttr: through_hole

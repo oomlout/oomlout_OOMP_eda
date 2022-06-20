@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8385
+- index: 8386
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Module
 - oompIndex: Texas_EUW_R-PDSS-T7_THT
+- oompName: kicad-footprints/Module/Texas_EUW_R-PDSS-T7_THT
 - kicadDesc: Texas Instruments EUW 7 Pin Double Sided Module
 - kicadTags: module pcb
 - kicadAttr: through_hole

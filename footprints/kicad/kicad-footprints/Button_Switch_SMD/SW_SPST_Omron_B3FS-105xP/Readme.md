@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 319
+- index: 320
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_Omron_B3FS-105xP
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP
 - kicadDesc: Surface Mount Tactile Switch for High-Density Mounting, 7.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 - kicadTags: Tactile Switch
 - kicadAttr: smd

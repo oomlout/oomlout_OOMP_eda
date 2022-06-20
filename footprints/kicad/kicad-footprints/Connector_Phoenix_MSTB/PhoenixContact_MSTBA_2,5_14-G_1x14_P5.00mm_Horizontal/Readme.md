@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3848
+- index: 3849
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_14-G_1x14_P5.00mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTBA_2,5/14-G; number of pins: 14; pin pitch: 5.00mm; Angled || order number: 1757585 12A
 - kicadTags: phoenix_contact connector MSTBA_01x14_G_5.00mm
 - kicadAttr: through_hole

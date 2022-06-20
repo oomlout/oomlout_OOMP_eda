@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10248
+- index: 10249
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SOIC-8-N7_3.9x4.9mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SOIC-8-N7_3.9x4.9mm_P1.27mm
 - kicadDesc: 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC], pin 7 removed (Microchip Packaging Specification 00000049BS.pdf, http://www.onsemi.com/pub/Collateral/NCP1207B.PDF)
 - kicadTags: SOIC 1.27
 - kicadAttr: smd

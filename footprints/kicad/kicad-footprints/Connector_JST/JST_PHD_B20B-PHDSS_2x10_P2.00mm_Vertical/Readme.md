@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2213
+- index: 2214
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_PHD_B20B-PHDSS_2x10_P2.00mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_PHD_B20B-PHDSS_2x10_P2.00mm_Vertical
 - kicadDesc: JST PHD series connector, B20B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST PHD vertical
 - kicadAttr: through_hole

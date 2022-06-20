@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11458
+- index: 11459
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Pressure
 - oompIndex: TE_MS5525DSO-DBxxxyS
+- oompName: kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS
 - kicadDesc: Pressure Sensor, Dual-Barbed, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English
 - kicadTags: Pressure DualBarbed
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11622
+- index: 11623
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock
 - oompIndex: TerminalBlock_bornier-3_P5.08mm
+- oompName: kicad-footprints/TerminalBlock/TerminalBlock_bornier-3_P5.08mm
 - kicadDesc: simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
 - kicadTags: terminal block bornier3
 - kicadAttr: through_hole

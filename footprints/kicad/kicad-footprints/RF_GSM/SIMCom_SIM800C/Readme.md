@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11280
+- index: 11281
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GSM
 - oompIndex: SIMCom_SIM800C
+- oompName: kicad-footprints/RF_GSM/SIMCom_SIM800C
 - kicadDesc: Quad-Band GSM/GPRS module, 17.6x15.7x2.3mm, http://simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf
 - kicadTags: GSM Module SIM800C
 - kicadAttr: smd

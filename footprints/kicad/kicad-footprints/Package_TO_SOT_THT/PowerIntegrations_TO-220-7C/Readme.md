@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10621
+- index: 10622
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: PowerIntegrations_TO-220-7C
+- oompName: kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C
 - kicadDesc: Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf
 - kicadTags: Power Integration Y Package
 - kicadAttr: through_hole

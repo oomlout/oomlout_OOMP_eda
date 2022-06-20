@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8198
+- index: 8199
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED-L1T2_LUMILEDS
+- oompName: kicad-footprints/LED_SMD/LED-L1T2_LUMILEDS
 - kicadDesc: http://www.lumileds.com/uploads/438/DS133-pdf
 - kicadTags: LUMILEDS LUXEON TX L1T2 LED
 - kicadAttr: smd

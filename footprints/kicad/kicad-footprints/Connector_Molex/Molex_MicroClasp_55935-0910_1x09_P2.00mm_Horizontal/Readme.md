@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2996
+- index: 2997
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_MicroClasp_55935-0910_1x09_P2.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_MicroClasp_55935-0910_1x09_P2.00mm_Horizontal
 - kicadDesc: Molex MicroClasp Wire-to-Board System, 55935-0910, with PCB locator, 9 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex MicroClasp horizontal
 - kicadAttr: through_hole

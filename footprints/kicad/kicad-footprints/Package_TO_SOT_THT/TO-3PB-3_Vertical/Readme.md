@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10777
+- index: 10778
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-3PB-3_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-3PB-3_Vertical
 - kicadDesc: TO-3PB-3, Vertical, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
 - kicadTags: TO-3PB-3 Vertical RM 5.45mm
 - kicadAttr: through_hole

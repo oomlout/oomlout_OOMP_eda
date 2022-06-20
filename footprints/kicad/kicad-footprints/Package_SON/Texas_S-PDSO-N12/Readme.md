@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10439
+- index: 10440
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_S-PDSO-N12
+- oompName: kicad-footprints/Package_SON/Texas_S-PDSO-N12
 - kicadDesc: http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
 - kicadTags: SON thermal pads
 - kicadAttr: smd

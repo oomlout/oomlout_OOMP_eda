@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4013
+- index: 4014
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MSTB
 - oompIndex: PhoenixContact_MSTB_2,5_8-GF_1x08_P5.00mm_Horizontal_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_8-GF_1x08_P5.00mm_Horizontal_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: MSTB_2,5/8-GF; number of pins: 08; pin pitch: 5.00mm; Angled; threaded flange || order number: 1776757 12A || order number: 1924033 16A (HC)
 - kicadTags: phoenix_contact connector MSTB_01x08_GF_5.00mm
 - kicadAttr: through_hole

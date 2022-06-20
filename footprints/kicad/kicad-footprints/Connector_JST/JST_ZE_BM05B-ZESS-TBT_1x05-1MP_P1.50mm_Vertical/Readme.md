@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2590
+- index: 2591
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_ZE_BM05B-ZESS-TBT_1x05-1MP_P1.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_ZE_BM05B-ZESS-TBT_1x05-1MP_P1.50mm_Vertical
 - kicadDesc: JST ZE series connector, BM05B-ZESS-TBT (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST ZE vertical
 - kicadAttr: smd

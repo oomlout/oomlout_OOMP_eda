@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10446
+- index: 10447
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Texas_X2SON-4_1x1mm_P0.65mm
+- oompName: kicad-footprints/Package_SON/Texas_X2SON-4_1x1mm_P0.65mm
 - kicadDesc: X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]
 - kicadTags: X2SON
 - kicadAttr: smd

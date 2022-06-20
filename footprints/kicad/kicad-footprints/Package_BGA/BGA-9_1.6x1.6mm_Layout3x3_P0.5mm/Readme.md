@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8922
+- index: 8923
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
+- oompName: kicad-footprints/Package_BGA/BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
 - kicadDesc: BGA-9, http://www.ti.com/lit/ds/symlink/bq27421-g1.pdf
 - kicadTags: BGA-9
 - kicadAttr: smd

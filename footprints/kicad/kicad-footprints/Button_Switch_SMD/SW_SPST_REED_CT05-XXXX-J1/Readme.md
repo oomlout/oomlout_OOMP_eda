@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 325
+- index: 326
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_REED_CT05-XXXX-J1
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT05-XXXX-J1
 - kicadDesc: Coto Technologies SPST Reed Switch CT05-XXXX-J1
 - kicadTags: Coto Reed SPST Switch
 - kicadAttr: smd

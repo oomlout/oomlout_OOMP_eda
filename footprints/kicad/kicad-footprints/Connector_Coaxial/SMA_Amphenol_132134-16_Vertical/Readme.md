@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1283
+- index: 1284
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: SMA_Amphenol_132134-16_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134-16_Vertical
 - kicadDesc: https://www.amphenolrf.com/downloads/dl/file/id/1141/product/2978/132134_16_customer_drawing.pdf
 - kicadTags: SMA THT Female Jack Vertical ExtendedLegs
 - kicadAttr: through_hole

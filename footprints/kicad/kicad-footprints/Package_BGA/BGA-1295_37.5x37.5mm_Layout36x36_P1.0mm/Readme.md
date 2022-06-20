@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8893
+- index: 8894
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm
+- oompName: kicad-footprints/Package_BGA/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm
 - kicadDesc: BGA-1295
 - kicadTags: BGA-1295
 - kicadAttr: smd

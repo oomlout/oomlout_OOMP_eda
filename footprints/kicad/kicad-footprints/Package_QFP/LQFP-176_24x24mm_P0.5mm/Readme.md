@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10008
+- index: 10009
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: LQFP-176_24x24mm_P0.5mm
+- oompName: kicad-footprints/Package_QFP/LQFP-176_24x24mm_P0.5mm
 - kicadDesc: LQFP, 176 Pin (https://www.st.com/resource/en/datasheet/stm32f207vg.pdf#page=163), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: LQFP QFP
 - kicadAttr: smd

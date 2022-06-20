@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12227
+- index: 12228
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_NF_ETAL_P3000
+- oompName: kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3000
 - kicadDesc: NF-Reansformer, ETAL, P3000, SMD,
 - kicadTags: NF-Reansformer ETAL P3000 SMD
 - kicadAttr: smd

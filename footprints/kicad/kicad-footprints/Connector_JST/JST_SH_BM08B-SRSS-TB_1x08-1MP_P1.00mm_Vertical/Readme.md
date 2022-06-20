@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2350
+- index: 2351
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical
 - kicadDesc: JST SH series connector, BM08B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST SH side entry
 - kicadAttr: smd

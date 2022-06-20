@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1221
+- index: 1222
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_XLR_Neutrik_NC4FBV_Vertical
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC4FBV_Vertical
 - kicadDesc: B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fbv
 - kicadTags: neutrik xlr b
 - kicadAttr: through_hole

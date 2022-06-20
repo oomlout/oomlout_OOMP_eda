@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 716
+- index: 717
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_D4.0mm_P2.00mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_D4.0mm_P2.00mm
 - kicadDesc: CP, Radial series, Radial, pin pitch=2.00mm, , diameter=4mm, Electrolytic Capacitor
 - kicadTags: CP Radial series Radial pin pitch 2.00mm  diameter 4mm Electrolytic Capacitor
 - kicadAttr: through_hole

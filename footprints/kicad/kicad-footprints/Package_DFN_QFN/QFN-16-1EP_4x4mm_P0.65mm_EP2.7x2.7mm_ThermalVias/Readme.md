@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9282
+- index: 9283
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_ThermalVias
 - kicadDesc: QFN, 16 Pin (https://www.allegromicro.com/~/media/Files/Datasheets/A4403-Datasheet.ashx), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

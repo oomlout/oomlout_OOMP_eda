@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1248
+- index: 1249
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_BarrelJack
 - oompIndex: BarrelJack_CUI_PJ-063AH_Horizontal
+- oompName: kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-063AH_Horizontal
 - kicadDesc: Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
 - kicadTags: barrel jack cui dc power
 - kicadAttr: through_hole

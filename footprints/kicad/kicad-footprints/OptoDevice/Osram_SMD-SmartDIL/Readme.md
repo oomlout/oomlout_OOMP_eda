@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8796
+- index: 8797
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Osram_SMD-SmartDIL
+- oompName: kicad-footprints/OptoDevice/Osram_SMD-SmartDIL
 - kicadDesc: PhotoDiode, plastic SMD SmatDIL
 - kicadTags: PhotoDiode plastic SMD SmatDIL
 - kicadAttr: smd

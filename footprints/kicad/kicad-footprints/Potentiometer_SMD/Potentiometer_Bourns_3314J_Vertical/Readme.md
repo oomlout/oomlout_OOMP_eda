@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10871
+- index: 10872
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_SMD
 - oompIndex: Potentiometer_Bourns_3314J_Vertical
+- oompName: kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3314J_Vertical
 - kicadDesc: Potentiometer, vertical, Bourns 3314J, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 - kicadTags: Potentiometer vertical Bourns 3314J
 - kicadAttr: smd

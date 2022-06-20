@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3462
+- index: 3463
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PCBEdge
 - oompIndex: Samtec_MECF-30-02-NP-L-DV_2x30_P1.27mm_Socket_Horizontal
+- oompName: kicad-footprints/Connector_PCBEdge/Samtec_MECF-30-02-NP-L-DV_2x30_P1.27mm_Socket_Horizontal
 - kicadDesc: Highspeed card edge connector for 2.4mm PCB's with 30 contacts (not polarized)
 - kicadTags: conn samtec card-edge high-speed
 - kicadAttr: smd

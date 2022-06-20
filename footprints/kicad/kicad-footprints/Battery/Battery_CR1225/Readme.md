@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 36
+- index: 37
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: Battery_CR1225
+- oompName: kicad-footprints/Battery/Battery_CR1225
 - kicadDesc: CR1225 battery
 - kicadTags: battery CR1225 coin cell
 - kicadAttr: exclude_from_pos_files exclude_from_bom

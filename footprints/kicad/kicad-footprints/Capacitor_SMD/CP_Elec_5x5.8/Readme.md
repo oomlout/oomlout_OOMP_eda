@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 499
+- index: 500
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_5x5.8
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_5x5.8
 - kicadDesc: SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

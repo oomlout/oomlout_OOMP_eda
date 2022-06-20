@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12230
+- index: 12231
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_NF_ETAL_P3181_HandSoldering
+- oompName: kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3181_HandSoldering
 - kicadDesc: NF-Transformer, ETAL, P3181, SMD, Hand Soldering,
 - kicadTags: NF-Transformer ETAL P3181 SMD Hand Soldering
 - kicadAttr: smd

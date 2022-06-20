@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3703
+- index: 3704
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MC_1,5_13-GF-3.5_1x13_P3.50mm_Horizontal_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_13-GF-3.5_1x13_P3.50mm_Horizontal_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: MC_1,5/13-GF-3.5; number of pins: 13; pin pitch: 3.50mm; Angled; threaded flange || order number: 1843907 8A 160V
 - kicadTags: phoenix_contact connector MC_01x13_GF_3.5mm
 - kicadAttr: through_hole

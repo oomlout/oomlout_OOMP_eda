@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10704
+- index: 10705
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220F-3_Horizontal_TabUp
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220F-3_Horizontal_TabUp
 - kicadDesc: TO-220F-3, Horizontal, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
 - kicadTags: TO-220F-3 Horizontal RM 2.54mm
 - kicadAttr: through_hole

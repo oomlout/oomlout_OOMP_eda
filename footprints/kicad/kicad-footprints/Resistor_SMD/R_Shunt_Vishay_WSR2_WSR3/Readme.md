@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11144
+- index: 11145
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_Shunt_Vishay_WSR2_WSR3
+- oompName: kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSR2_WSR3
 - kicadDesc: Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
 - kicadTags: SMD Shunt Resistor
 - kicadAttr: smd

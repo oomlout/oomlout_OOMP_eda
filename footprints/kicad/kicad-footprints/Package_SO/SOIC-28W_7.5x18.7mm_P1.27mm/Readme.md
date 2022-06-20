@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10233
+- index: 10234
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SOIC-28W_7.5x18.7mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SOIC-28W_7.5x18.7mm_P1.27mm
 - kicadDesc: SOIC, 28 Pin (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SOIC SO
 - kicadAttr: smd

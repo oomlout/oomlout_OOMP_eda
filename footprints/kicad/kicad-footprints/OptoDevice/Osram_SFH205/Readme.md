@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8792
+- index: 8793
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Osram_SFH205
+- oompName: kicad-footprints/OptoDevice/Osram_SFH205
 - kicadDesc: PhotoDiode, SFH205, RM2.54
 - kicadTags: PhotoDiode SFH205 RM2.54
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4027
+- index: 4028
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Pin
 - oompIndex: Pin_D1.3mm_L10.0mm_W3.5mm_Flat
+- oompName: kicad-footprints/Connector_Pin/Pin_D1.3mm_L10.0mm_W3.5mm_Flat
 - kicadDesc: solder Pin_ with flat with hole, hole diameter 1.3mm, length 10.0mm, width 3.5mm, e.g. Ettinger 13.13.865, https://katalog.ettinger.de/#p=434
 - kicadTags: solder Pin_ with flat fork
 - kicadAttr: through_hole

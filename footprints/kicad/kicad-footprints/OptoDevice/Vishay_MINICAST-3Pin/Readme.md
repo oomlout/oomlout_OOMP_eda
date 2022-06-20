@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8821
+- index: 8822
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Vishay_MINICAST-3Pin
+- oompName: kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin
 - kicadDesc: IR Receiver Vishay TSOP-xxxx, MINICAST package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf
 - kicadTags: IR Receiver Vishay TSOP-xxxx MINICAST
 - kicadAttr: through_hole

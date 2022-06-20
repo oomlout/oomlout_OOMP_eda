@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1569
+- index: 1570
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
+- oompName: kicad-footprints/Connector_FFC-FPC/Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
 - kicadDesc: Molex FFC/FPC connector, 50 bottom-side contacts, 0.5mm pitch, 2.0mm height, https://www.molex.com/pdm_docs/sd/541325033_sd.pdf
 - kicadTags: FFC FPC
 - kicadAttr: smd

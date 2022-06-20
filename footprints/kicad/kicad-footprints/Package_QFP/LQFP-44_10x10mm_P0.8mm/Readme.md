@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10014
+- index: 10015
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: LQFP-44_10x10mm_P0.8mm
+- oompName: kicad-footprints/Package_QFP/LQFP-44_10x10mm_P0.8mm
 - kicadDesc: LQFP, 44 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ASS23225W.pdf?&fsrch=1), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: LQFP QFP
 - kicadAttr: smd

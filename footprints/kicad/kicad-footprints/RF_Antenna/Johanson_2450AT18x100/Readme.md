@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11254
+- index: 11255
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Antenna
 - oompIndex: Johanson_2450AT18x100
+- oompName: kicad-footprints/RF_Antenna/Johanson_2450AT18x100
 - kicadDesc: Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, -0.5dBi, https://www.johansontechnology.com/datasheets/2450AT18A100/2450AT18A100.pdf
 - kicadTags: antenna
 - kicadAttr: smd

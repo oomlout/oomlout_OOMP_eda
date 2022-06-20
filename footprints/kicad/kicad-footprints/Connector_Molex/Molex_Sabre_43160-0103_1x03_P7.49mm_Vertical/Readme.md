@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3254
+- index: 3255
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Sabre_43160-0103_1x03_P7.49mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_Sabre_43160-0103_1x03_P7.49mm_Vertical
 - kicadDesc: Molex Sabre Power Connector, 43160-0103, 3 Pins per row (http://www.molex.com/pdm_docs/sd/431600105_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Sabre side entry
 - kicadAttr: through_hole

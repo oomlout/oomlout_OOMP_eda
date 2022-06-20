@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9385
+- index: 9386
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-40-1EP_5x5mm_P0.4mm_EP3.6x3.6mm_ThermalVias
 - kicadDesc: QFN, 40 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=297), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

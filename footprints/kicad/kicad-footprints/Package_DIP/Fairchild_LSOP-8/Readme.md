@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9848
+- index: 9849
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: Fairchild_LSOP-8
+- oompName: kicad-footprints/Package_DIP/Fairchild_LSOP-8
 - kicadDesc: 8-Lead, 300\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)
 - kicadTags: LSOP 2.54mm 300mil
 - kicadAttr: smd

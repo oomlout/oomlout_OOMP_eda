@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8262
+- index: 8263
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_ROHM_SMLVN6
+- oompName: kicad-footprints/LED_SMD/LED_ROHM_SMLVN6
 - kicadDesc: https://www.rohm.com/datasheet/SMLVN6RGB1U
 - kicadTags: LED ROHM SMLVN6
 - kicadAttr: smd

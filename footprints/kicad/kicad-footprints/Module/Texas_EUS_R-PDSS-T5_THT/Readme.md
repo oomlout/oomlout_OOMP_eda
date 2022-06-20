@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8384
+- index: 8385
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Module
 - oompIndex: Texas_EUS_R-PDSS-T5_THT
+- oompName: kicad-footprints/Module/Texas_EUS_R-PDSS-T5_THT
 - kicadDesc: Texas Instruments EUS 5 Pin Double Sided Module
 - kicadTags: module pcb
 - kicadAttr: through_hole

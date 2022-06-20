@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10043
+- index: 10044
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: PQFP-44_10x10mm_P0.8mm
+- oompName: kicad-footprints/Package_QFP/PQFP-44_10x10mm_P0.8mm
 - kicadDesc: 44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)
 - kicadTags: PQFP 0.8
 - kicadAttr: smd

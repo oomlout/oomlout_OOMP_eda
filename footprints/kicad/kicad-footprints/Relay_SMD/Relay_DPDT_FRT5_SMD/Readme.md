@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10987
+- index: 10988
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_SMD
 - oompIndex: Relay_DPDT_FRT5_SMD
+- oompName: kicad-footprints/Relay_SMD/Relay_DPDT_FRT5_SMD
 - kicadDesc: IM Signal Relay DPDT FRT5 narrow footprint, SMD version of package
 - kicadTags: Relay DPDT IM-relay FRT5
 - kicadAttr: smd

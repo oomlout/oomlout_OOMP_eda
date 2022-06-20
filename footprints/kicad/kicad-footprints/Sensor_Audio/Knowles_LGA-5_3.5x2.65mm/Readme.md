@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11411
+- index: 11412
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor_Audio
 - oompIndex: Knowles_LGA-5_3.5x2.65mm
+- oompName: kicad-footprints/Sensor_Audio/Knowles_LGA-5_3.5x2.65mm
 - kicadDesc: https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf
 - kicadTags: MEMS Microphone LGA
 - kicadAttr: smd

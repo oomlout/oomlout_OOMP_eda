@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10384
+- index: 10385
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: TSSOP-44_4.4x11.2mm_P0.5mm
+- oompName: kicad-footprints/Package_SO/TSSOP-44_4.4x11.2mm_P0.5mm
 - kicadDesc: TSSOP44: plastic thin shrink small outline package; 44 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)
 - kicadTags: SSOP 0.5
 - kicadAttr: smd

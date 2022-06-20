@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11040
+- index: 11041
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_HsinDa_Y14
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_HsinDa_Y14
 - kicadDesc: http://www.hsinda.com.cn/en/ProductShow.asp?ID=208
 - kicadTags: Relay Y14
 - kicadAttr: through_hole

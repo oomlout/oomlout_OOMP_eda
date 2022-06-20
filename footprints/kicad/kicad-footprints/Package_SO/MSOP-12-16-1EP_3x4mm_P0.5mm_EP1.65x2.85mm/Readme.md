@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10166
+- index: 10167
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm
+- oompName: kicad-footprints/Package_SO/MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm
 - kicadDesc: 10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
 - kicadTags: SSOP 0.5
 - kicadAttr: smd

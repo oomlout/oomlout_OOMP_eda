@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10646
+- index: 10647
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-18-3
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-18-3
 - kicadDesc: TO-18-3
 - kicadTags: TO-18-3
 - kicadAttr: through_hole

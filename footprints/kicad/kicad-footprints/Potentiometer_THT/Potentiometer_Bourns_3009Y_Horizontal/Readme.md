@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10912
+- index: 10913
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Bourns_3009Y_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3009Y_Horizontal
 - kicadDesc: Potentiometer, horizontal, Bourns 3009Y, http://www.bourns.com/docs/Product-Datasheets/3009.pdf
 - kicadTags: Potentiometer horizontal Bourns 3009Y
 - kicadAttr: through_hole

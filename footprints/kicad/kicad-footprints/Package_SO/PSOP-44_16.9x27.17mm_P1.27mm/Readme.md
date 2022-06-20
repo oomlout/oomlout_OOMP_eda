@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10195
+- index: 10196
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: PSOP-44_16.9x27.17mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/PSOP-44_16.9x27.17mm_P1.27mm
 - kicadDesc: PSOP44: plastic thin shrink small outline package; 44 leads; body width 16.90 mm
 - kicadTags: PSOP 1.27
 - kicadAttr: smd

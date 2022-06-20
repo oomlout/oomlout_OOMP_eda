@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8331
+- index: 8332
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_Rectangular_W3.9mm_H1.8mm
+- oompName: kicad-footprints/LED_THT/LED_Rectangular_W3.9mm_H1.8mm
 - kicadDesc: LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf
 - kicadTags: LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins
 - kicadAttr: through_hole

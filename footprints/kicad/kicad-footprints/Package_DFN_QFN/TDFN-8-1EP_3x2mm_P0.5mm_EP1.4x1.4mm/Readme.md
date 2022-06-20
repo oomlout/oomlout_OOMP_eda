@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9484
+- index: 9485
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm
+- oompName: kicad-footprints/Package_DFN_QFN/TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm
 - kicadDesc: TDFN, 8 Pin (http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: TDFN NoLead
 - kicadAttr: smd

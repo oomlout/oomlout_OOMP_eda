@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8813
+- index: 8814
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Sharp_IS485
+- oompName: kicad-footprints/OptoDevice/Sharp_IS485
 - kicadDesc: Sharp OPIC, IS485, IS486, see http://microrato.ua.pt/main/Actividades/Estagios/Docs/IS485_6.pdf
 - kicadTags: Sharp OPIC IS485 IS486
 - kicadAttr: through_hole

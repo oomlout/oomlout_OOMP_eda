@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10428
+- index: 10429
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: NXP_XSON-16
+- oompName: kicad-footprints/Package_SON/NXP_XSON-16
 - kicadDesc: http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf
 - kicadTags: NXP XSON SOT-1341
 - kicadAttr: smd

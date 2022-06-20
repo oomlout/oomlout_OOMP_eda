@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10066
+- index: 10067
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: TQFP-64_7x7mm_P0.4mm
+- oompName: kicad-footprints/Package_QFP/TQFP-64_7x7mm_P0.4mm
 - kicadDesc: TQFP64 7x7, 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)
 - kicadTags: QFP 0.4
 - kicadAttr: smd

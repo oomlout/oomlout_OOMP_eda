@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10949
+- index: 10950
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Piher_PC-16_Triple_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PC-16_Triple_Horizontal
 - kicadDesc: Potentiometer, horizontal, Piher PC-16 Triple, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
 - kicadTags: Potentiometer horizontal Piher PC-16 Triple
 - kicadAttr: through_hole

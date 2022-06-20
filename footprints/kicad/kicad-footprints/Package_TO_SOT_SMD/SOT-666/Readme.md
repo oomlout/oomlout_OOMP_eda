@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10558
+- index: 10559
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-666
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-666
 - kicadDesc: SOT666
 - kicadTags: SOT-666
 - kicadAttr: smd

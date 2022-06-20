@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10690
+- index: 10691
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220-7_P2.54x3.8mm_StaggerOdd_Lead5.85mm_TabDown
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220-7_P2.54x3.8mm_StaggerOdd_Lead5.85mm_TabDown
 - kicadDesc: TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-1
 - kicadTags: TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-1
 - kicadAttr: through_hole

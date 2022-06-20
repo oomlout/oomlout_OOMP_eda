@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 74
+- index: 75
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_Keyboard
 - oompIndex: SW_Cherry_MX_2.25u_PCB
+- oompName: kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_2.25u_PCB
 - kicadDesc: Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 - kicadTags: Cherry MX keyswitch 2.25u PCB
 - kicadAttr: through_hole

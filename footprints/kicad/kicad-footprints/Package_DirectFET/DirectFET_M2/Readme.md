@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9916
+- index: 9917
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DirectFET
 - oompIndex: DirectFET_M2
+- oompName: kicad-footprints/Package_DirectFET/DirectFET_M2
 - kicadDesc: DirectFET M2 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=33
 - kicadTags: DirectFET M2 MOSFET Infineon
 - kicadAttr: smd

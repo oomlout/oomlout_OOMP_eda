@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10872
+- index: 10873
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_SMD
 - oompIndex: Potentiometer_Bourns_3314R-1_Vertical_Hole
+- oompName: kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3314R-1_Vertical_Hole
 - kicadDesc: Potentiometer, vertical, shaft hole, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 - kicadTags: Potentiometer vertical hole Bourns 3314R-1
 - kicadAttr: smd

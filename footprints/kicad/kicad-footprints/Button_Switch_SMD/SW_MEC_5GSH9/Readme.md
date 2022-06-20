@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 281
+- index: 282
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_MEC_5GSH9
+- oompName: kicad-footprints/Button_Switch_SMD/SW_MEC_5GSH9
 - kicadDesc: MEC 5G single pole normally-open tactile switch
 - kicadTags: switch normally-open pushbutton push-button
 - kicadAttr: smd

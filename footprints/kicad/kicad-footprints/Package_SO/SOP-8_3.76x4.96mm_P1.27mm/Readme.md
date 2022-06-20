@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10265
+- index: 10266
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SOP-8_3.76x4.96mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SOP-8_3.76x4.96mm_P1.27mm
 - kicadDesc: SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SOP SO
 - kicadAttr: smd

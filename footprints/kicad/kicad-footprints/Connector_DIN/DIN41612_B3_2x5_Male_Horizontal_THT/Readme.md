@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1306
+- index: 1307
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_DIN
 - oompIndex: DIN41612_B3_2x5_Male_Horizontal_THT
+- oompName: kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Male_Horizontal_THT
 - kicadDesc: DIN41612 connector, type B/3, Horizontal, 2 rows 10 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
 - kicadTags: DIN 41612 IEC 60603 B/3
 - kicadAttr: through_hole

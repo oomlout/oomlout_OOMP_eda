@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11127
+- index: 11128
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_Array_Convex_5x0603
+- oompName: kicad-footprints/Resistor_SMD/R_Array_Convex_5x0603
 - kicadDesc: Chip Resistor Network, ROHM MNR15 (see mnr_g.pdf)
 - kicadTags: resistor array
 - kicadAttr: smd

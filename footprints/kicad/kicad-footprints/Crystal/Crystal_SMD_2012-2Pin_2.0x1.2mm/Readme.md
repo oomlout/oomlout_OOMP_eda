@@ -7,19 +7,25 @@ Contents
 
 * [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_2012-2pin_20x12mm)
 	* [Tags](#tags)
-
+  
+![][im]
 # FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm>
 
 ## Tags
 
-- index: 7178
+- index: 7179
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Crystal
 - oompIndex: Crystal_SMD_2012-2Pin_2.0x1.2mm
+- oompName: kicad-footprints/Crystal/Crystal_SMD_2012-2Pin_2.0x1.2mm
 - kicadDesc: SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package
 - kicadTags: SMD SMT crystal
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2012-2Pin_2.0x1.2mm.wrl
+
+
+
+[im]: image.png

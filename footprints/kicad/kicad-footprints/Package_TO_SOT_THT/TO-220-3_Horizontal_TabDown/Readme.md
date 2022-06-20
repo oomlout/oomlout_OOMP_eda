@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10670
+- index: 10671
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220-3_Horizontal_TabDown
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220-3_Horizontal_TabDown
 - kicadDesc: TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 - kicadTags: TO-220-3 Horizontal RM 2.54mm
 - kicadAttr: through_hole

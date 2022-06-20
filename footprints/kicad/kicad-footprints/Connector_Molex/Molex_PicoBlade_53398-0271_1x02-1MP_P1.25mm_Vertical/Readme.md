@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3214
+- index: 3215
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_PicoBlade_53398-0271_1x02-1MP_P1.25mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_PicoBlade_53398-0271_1x02-1MP_P1.25mm_Vertical
 - kicadDesc: Molex PicoBlade series connector, 53398-0271 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex PicoBlade side entry
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10997
+- index: 10998
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_SMD
 - oompIndex: Relay_DPDT_Omron_G6K-2G
+- oompName: kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6K-2G
 - kicadDesc: Omron G6K-2G relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
 - kicadTags: Omron G6K-2G relay
 - kicadAttr: smd

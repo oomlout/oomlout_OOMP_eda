@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8798
+- index: 8799
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: PerkinElmer_VTL5C
+- oompName: kicad-footprints/OptoDevice/PerkinElmer_VTL5C
 - kicadDesc: Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)
 - kicadTags: vactrol
 - kicadAttr: through_hole

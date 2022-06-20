@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2088
+- index: 2089
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JAE
 - oompIndex: JAE_LY20-18P-DLT1_2x09_P2.00mm_Horizontal
+- oompName: kicad-footprints/Connector_JAE/JAE_LY20-18P-DLT1_2x09_P2.00mm_Horizontal
 - kicadDesc: Molex LY 20 series connector, LY20-18P-DLT1, 9 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ038187.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JAE  top entry
 - kicadAttr: through_hole

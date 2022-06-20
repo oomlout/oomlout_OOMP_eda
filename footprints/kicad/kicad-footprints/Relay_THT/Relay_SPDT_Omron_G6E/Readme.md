@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11044
+- index: 11045
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_Omron_G6E
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_Omron_G6E
 - kicadDesc: Relay SPDT Omron Serie G6E
 - kicadTags: Relay SPDT Omron Serie G6E 1x um
 - kicadAttr: through_hole

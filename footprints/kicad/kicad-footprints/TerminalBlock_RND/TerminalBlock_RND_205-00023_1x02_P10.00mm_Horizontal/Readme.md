@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11906
+- index: 11907
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_RND
 - oompIndex: TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal
+- oompName: kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal
 - kicadDesc: terminal block RND 205-00023, 2 pins, pitch 10mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
 - kicadTags: THT terminal block RND 205-00023 pitch 10mm size 15x9mm^2 drill 1.3mm pad 2.5mm
 - kicadAttr: through_hole

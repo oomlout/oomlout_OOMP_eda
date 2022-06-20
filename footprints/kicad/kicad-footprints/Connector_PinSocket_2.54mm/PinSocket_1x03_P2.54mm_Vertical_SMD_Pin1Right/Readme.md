@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5833
+- index: 5834
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinSocket_2.54mm
 - oompIndex: PinSocket_1x03_P2.54mm_Vertical_SMD_Pin1Right
+- oompName: kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_1x03_P2.54mm_Vertical_SMD_Pin1Right
 - kicadDesc: surface-mounted straight socket strip, 1x03, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
 - kicadTags: Surface mounted socket strip SMD 1x03 2.54mm single row style2 pin1 right
 - kicadAttr: smd

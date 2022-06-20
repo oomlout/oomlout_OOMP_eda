@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10455
+- index: 10456
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm
+- oompName: kicad-footprints/Package_SON/WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm
 - kicadDesc: WSON-10 package 2x3mm body, pitch 0.5mm, see http://www.ti.com/lit/ds/symlink/tps62177.pdf
 - kicadTags: WSON 0.5
 - kicadAttr: smd

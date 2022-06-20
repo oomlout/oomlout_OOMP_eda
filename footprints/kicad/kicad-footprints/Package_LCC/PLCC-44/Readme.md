@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9949
+- index: 9950
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LCC
 - oompIndex: PLCC-44
+- oompName: kicad-footprints/Package_LCC/PLCC-44
 - kicadDesc: PLCC, 44 pins, surface mount
 - kicadTags: plcc smt
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11272
+- index: 11273
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GPS
 - oompIndex: ublox_MAX
+- oompName: kicad-footprints/RF_GPS/ublox_MAX
 - kicadDesc: ublox MAX 6/7/8, (https://www.u-blox.com/sites/default/files/MAX-8-M8-FW3_HardwareIntegrationManual_%28UBX-15030059%29.pdf)
 - kicadTags: GPS ublox MAX 6/7/8
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12398
+- index: 12399
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Varistor
 - oompIndex: RV_Disc_D9mm_W3.6mm_P5mm
+- oompName: kicad-footprints/Varistor/RV_Disc_D9mm_W3.6mm_P5mm
 - kicadDesc: Varistor, diameter 9mm, width 3.6mm, pitch 5mm
 - kicadTags: varistor SIOV
 - kicadAttr: through_hole

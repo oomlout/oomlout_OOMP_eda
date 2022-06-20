@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9192
+- index: 9193
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-8-1EP_3x2mm_P0.45mm_EP1.66x1.36mm
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-8-1EP_3x2mm_P0.45mm_EP1.66x1.36mm
 - kicadDesc: DCB Package 8-Lead Plastic DFN (2mm x 3mm) (see Linear Technology DFN_8_05-08-1718.pdf)
 - kicadTags: DFN 0.45
 - kicadAttr: smd

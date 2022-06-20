@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11147
+- index: 11148
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_THT
 - oompIndex: R_Array_SIP11
+- oompName: kicad-footprints/Resistor_THT/R_Array_SIP11
 - kicadDesc: 11-pin Resistor SIP pack
 - kicadTags: R
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 396
+- index: 397
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_NKK_GW12LJP
+- oompName: kicad-footprints/Button_Switch_THT/SW_NKK_GW12LJP
 - kicadDesc: Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf
 - kicadTags: switch single-pole double-throw spdt ON-ON illuminated LED
 - kicadAttr: through_hole

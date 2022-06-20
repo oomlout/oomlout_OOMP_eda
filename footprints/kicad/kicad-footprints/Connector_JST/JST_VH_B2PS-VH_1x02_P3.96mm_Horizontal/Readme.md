@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2409
+- index: 2410
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal
 - kicadDesc: JST VH series connector, B2PS-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST VH top entry
 - kicadAttr: through_hole

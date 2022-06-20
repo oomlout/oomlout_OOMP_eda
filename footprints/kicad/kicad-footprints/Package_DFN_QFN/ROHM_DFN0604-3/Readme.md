@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9470
+- index: 9471
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: ROHM_DFN0604-3
+- oompName: kicad-footprints/Package_DFN_QFN/ROHM_DFN0604-3
 - kicadDesc: DFN package size 0604 3 pins
 - kicadTags: DFN package size 0604 3 pins
 - kicadAttr: smd

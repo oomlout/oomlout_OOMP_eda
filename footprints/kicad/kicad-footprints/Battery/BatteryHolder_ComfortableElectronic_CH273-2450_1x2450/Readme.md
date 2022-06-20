@@ -20,6 +20,7 @@ Contents
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_ComfortableElectronic_CH273-2450_1x2450
+- oompName: kicad-footprints/Battery/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450
 - kicadDesc: Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148
 - kicadTags: Comfortable Electronic CR2450
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10543
+- index: 10544
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-323_SC-70_Handsoldering
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-323_SC-70_Handsoldering
 - kicadDesc: SOT-323, SC-70 Handsoldering
 - kicadTags: SOT-323 SC-70 Handsoldering
 - kicadAttr: smd

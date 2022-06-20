@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11274
+- index: 11275
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GPS
 - oompIndex: ublox_SAM-M8Q
+- oompName: kicad-footprints/RF_GPS/ublox_SAM-M8Q
 - kicadDesc: GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf
 - kicadTags: ublox SAM-M8Q
 - kicadAttr: smd

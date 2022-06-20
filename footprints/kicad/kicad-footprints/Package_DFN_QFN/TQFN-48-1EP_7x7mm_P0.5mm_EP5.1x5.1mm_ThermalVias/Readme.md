@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9582
+- index: 9583
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm_ThermalVias
 - kicadDesc: TQFN, 48 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0144.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: TQFN NoLead
 - kicadAttr: smd

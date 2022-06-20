@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10042
+- index: 10043
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: PQFP-32_5x5mm_P0.5mm
+- oompName: kicad-footprints/Package_QFP/PQFP-32_5x5mm_P0.5mm
 - kicadDesc: PQFP, 32 Pin (https://www.ti.com/lit/ds/symlink/ads127l01.pdf#page=87), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: PQFP QFP
 - kicadAttr: smd

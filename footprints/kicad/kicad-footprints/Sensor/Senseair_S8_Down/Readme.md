@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11405
+- index: 11406
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Sensor
 - oompIndex: Senseair_S8_Down
+- oompName: kicad-footprints/Sensor/Senseair_S8_Down
 - kicadDesc: Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT
 - kicadTags: co2 gas sensor pwm modbus
 - kicadAttr: through_hole

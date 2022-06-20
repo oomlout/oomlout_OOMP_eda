@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9497
+- index: 9498
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_RGE0024C_EP2.1x2.1mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_RGE0024C_EP2.1x2.1mm_ThermalVias
 - kicadDesc: Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: Texas QFN NoLead
 - kicadAttr: smd

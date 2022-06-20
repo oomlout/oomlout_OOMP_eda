@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9937
+- index: 9938
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DirectFET
 - oompIndex: DirectFET_SH
+- oompName: kicad-footprints/Package_DirectFET/DirectFET_SH
 - kicadDesc: DirectFET SH https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=19
 - kicadTags: DirectFET SH MOSFET Infineon
 - kicadAttr: smd

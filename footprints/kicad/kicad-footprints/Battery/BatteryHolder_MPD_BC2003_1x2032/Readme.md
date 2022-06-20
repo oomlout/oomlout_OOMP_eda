@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 31
+- index: 32
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_MPD_BC2003_1x2032
+- oompName: kicad-footprints/Battery/BatteryHolder_MPD_BC2003_1x2032
 - kicadDesc: http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf
 - kicadTags: BC2003 CR2032 2032 Battery Holder
 - kicadAttr: smd

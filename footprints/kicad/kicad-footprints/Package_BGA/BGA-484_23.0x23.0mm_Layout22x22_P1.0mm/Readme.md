@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8911
+- index: 8912
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
+- oompName: kicad-footprints/Package_BGA/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
 - kicadDesc: BGA-484, https://www.xilinx.com/support/documentation/package_specs/fg484.pdf
 - kicadTags: BGA-484
 - kicadAttr: smd

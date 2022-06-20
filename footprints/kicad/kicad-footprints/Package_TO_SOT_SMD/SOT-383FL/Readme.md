@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10551
+- index: 10552
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-383FL
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-383FL
 - kicadDesc: 8-pin SOT-383FL package, http://www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF
 - kicadTags: SOT-383FL
 - kicadAttr: smd

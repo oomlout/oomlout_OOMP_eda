@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12151
+- index: 12152
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TestPoint
 - oompIndex: TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
+- oompName: kicad-footprints/TestPoint/TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
 - kicadDesc: wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm
 - kicadTags: test point wire loop
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1006
+- index: 1007
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: Banana_Jack_1Pin
+- oompName: kicad-footprints/Connector/Banana_Jack_1Pin
 - kicadDesc: Single banana socket, footprint - 6mm drill
 - kicadTags: banana socket
 - kicadAttr: through_hole

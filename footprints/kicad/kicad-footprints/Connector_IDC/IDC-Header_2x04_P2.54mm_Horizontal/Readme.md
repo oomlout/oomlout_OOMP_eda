@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1921
+- index: 1922
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_IDC
 - oompIndex: IDC-Header_2x04_P2.54mm_Horizontal
+- oompName: kicad-footprints/Connector_IDC/IDC-Header_2x04_P2.54mm_Horizontal
 - kicadDesc: Through hole IDC box header, 2x04, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
 - kicadTags: Through hole horizontal IDC box header THT 2x04 2.54mm double row
 - kicadAttr: through_hole

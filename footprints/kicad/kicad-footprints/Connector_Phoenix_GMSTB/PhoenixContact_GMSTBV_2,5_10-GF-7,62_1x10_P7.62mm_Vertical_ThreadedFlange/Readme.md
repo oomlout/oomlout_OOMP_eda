@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3549
+- index: 3550
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_GMSTB
 - oompIndex: PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: GMSTBV_2,5/10-GF-7,62; number of pins: 10; pin pitch: 7.62mm; Vertical; threaded flange || order number: 1829235 12A 630V
 - kicadTags: phoenix_contact connector GMSTBV_01x10_GF_7.62mm
 - kicadAttr: through_hole

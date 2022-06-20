@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11173
+- index: 11174
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_THT
 - oompIndex: R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal
+- oompName: kicad-footprints/Resistor_THT/R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal
 - kicadDesc: Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=12.7mm, 1W, length*diameter=9.9*3.6mm^2
 - kicadTags: Resistor Axial_DIN0411 series Axial Horizontal pin pitch 12.7mm 1W length 9.9mm diameter 3.6mm
 - kicadAttr: through_hole

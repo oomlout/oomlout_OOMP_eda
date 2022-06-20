@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8346
+- index: 8347
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_THT
 - oompIndex: LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
+- oompName: kicad-footprints/LED_THT/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
 - kicadDesc: Datasheet can be found at https://www.gme.cz/data/attachments/dsh.511-795.1.pdf
 - kicadTags: LED automotive super flux 7.62mm
 - kicadAttr: through_hole

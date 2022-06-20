@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8795
+- index: 8796
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Osram_SMD-DIL2_4.5x4.0mm
+- oompName: kicad-footprints/OptoDevice/Osram_SMD-DIL2_4.5x4.0mm
 - kicadDesc: PhotoDiode, plastic SMD DIL, 4.5x4mm²
 - kicadTags: PhotoDiode plastic SMD DIL
 - kicadAttr: smd

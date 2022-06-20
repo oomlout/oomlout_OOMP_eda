@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1054
+- index: 1055
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+- oompName: kicad-footprints/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
 - kicadDesc: TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
 - kicadTags: WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 - kicadAttr: through_hole

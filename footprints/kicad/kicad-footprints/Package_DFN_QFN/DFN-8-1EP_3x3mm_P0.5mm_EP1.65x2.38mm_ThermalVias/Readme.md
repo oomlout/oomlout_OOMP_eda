@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9198
+- index: 9199
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias
+- oompName: kicad-footprints/Package_DFN_QFN/DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias
 - kicadDesc: DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4320fb.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: DFN NoLead
 - kicadAttr: smd

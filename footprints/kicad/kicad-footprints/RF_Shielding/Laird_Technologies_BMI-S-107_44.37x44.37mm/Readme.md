@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11370
+- index: 11371
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Shielding
 - oompIndex: Laird_Technologies_BMI-S-107_44.37x44.37mm
+- oompName: kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm
 - kicadDesc: Laird Technologies BMI-S-107 Shielding Cabinet One Piece SMD 44.37x44.37mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)
 - kicadTags: Shielding Cabinet
 - kicadAttr: smd

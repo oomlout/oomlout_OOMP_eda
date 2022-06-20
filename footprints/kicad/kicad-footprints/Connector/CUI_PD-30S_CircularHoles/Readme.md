@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1013
+- index: 1014
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: CUI_PD-30S_CircularHoles
+- oompName: kicad-footprints/Connector/CUI_PD-30S_CircularHoles
 - kicadDesc: 3-pin nonstandard DIN connector, shielded, PD-30S, http://www.cui.com/product/resource/pd-30s.pdf
 - kicadTags: connector 3-pin PD-30S power DIN shielded
 - kicadAttr: through_hole

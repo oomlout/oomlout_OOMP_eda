@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10516
+- index: 10517
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SC-82AA_Handsoldering
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SC-82AA_Handsoldering
 - kicadDesc: SC-82AA
 - kicadTags: SC-82AA
 - kicadAttr: smd

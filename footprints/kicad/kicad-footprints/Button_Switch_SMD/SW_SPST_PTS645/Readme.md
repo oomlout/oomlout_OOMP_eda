@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 322
+- index: 323
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_PTS645
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_PTS645
 - kicadDesc: C&K Components SPST SMD PTS645 Series 6mm Tact Switch
 - kicadTags: SPST Button Switch
 - kicadAttr: smd

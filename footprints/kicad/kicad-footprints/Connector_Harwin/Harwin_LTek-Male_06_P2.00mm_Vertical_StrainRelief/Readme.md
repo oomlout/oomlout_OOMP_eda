@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1738
+- index: 1739
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Harwin
 - oompIndex: Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief
+- oompName: kicad-footprints/Connector_Harwin/Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief
 - kicadDesc: Harwin LTek Connector, 6 pins, single row male, vertical entry, strain relief clip
 - kicadTags: connector harwin ltek M80
 - kicadAttr: through_hole

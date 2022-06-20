@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8675
+- index: 8676
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Mounting_Wuerth
 - oompIndex: Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943
+- oompName: kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943
 - kicadDesc: Mounting Hardware, inside through hole 2.25mm, height 8, Wuerth electronics 9774080943 (https://katalog.we-online.de/em/datasheet/9774080943.pdf), generated with kicad-footprint-generator
 - kicadTags: Mounting 2.25mm 9774080943
 - kicadAttr: smd

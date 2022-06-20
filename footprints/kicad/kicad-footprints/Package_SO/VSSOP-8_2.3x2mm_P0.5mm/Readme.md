@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10412
+- index: 10413
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: VSSOP-8_2.3x2mm_P0.5mm
+- oompName: kicad-footprints/Package_SO/VSSOP-8_2.3x2mm_P0.5mm
 - kicadDesc: VSSOP-8 2.3x2mm Pitch 0.5mm
 - kicadTags: VSSOP-8 2.3x2mm Pitch 0.5mm
 - kicadAttr: smd

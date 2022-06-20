@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11023
+- index: 11024
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_DPDT_Omron_G6S-2
+- oompName: kicad-footprints/Relay_THT/Relay_DPDT_Omron_G6S-2
 - kicadDesc: Relay Omron G6S-2, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
 - kicadTags: Relay Omron G6S-2
 - kicadAttr: through_hole

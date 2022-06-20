@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8780
+- index: 8781
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Lightpipe_Mentor_1275.x00x
+- oompName: kicad-footprints/OptoDevice/Lightpipe_Mentor_1275.x00x
 - kicadDesc: https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf
 - kicadTags: spherical light pipe 4 way 3mm PLCC-2 PLCC-4
 - kicadAttr: through_hole

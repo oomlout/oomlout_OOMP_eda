@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11572
+- index: 11573
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Symbol
 - oompIndex: RoHS-Logo_40mm_SilkScreen
+- oompName: kicad-footprints/Symbol/RoHS-Logo_40mm_SilkScreen
 - kicadDesc: Restriction of Hazardous Substances Directive Logo
 - kicadTags: Logo RoHS
 - kicadAttr: exclude_from_pos_files exclude_from_bom

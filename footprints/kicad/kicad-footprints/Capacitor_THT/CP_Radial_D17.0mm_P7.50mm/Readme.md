@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 699
+- index: 700
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_D17.0mm_P7.50mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_D17.0mm_P7.50mm
 - kicadDesc: CP, Radial series, Radial, pin pitch=7.50mm, , diameter=17mm, Electrolytic Capacitor
 - kicadTags: CP Radial series Radial pin pitch 7.50mm  diameter 17mm Electrolytic Capacitor
 - kicadAttr: through_hole

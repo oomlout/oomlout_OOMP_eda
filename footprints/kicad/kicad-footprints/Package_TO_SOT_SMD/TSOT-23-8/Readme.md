@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10611
+- index: 10612
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: TSOT-23-8
+- oompName: kicad-footprints/Package_TO_SOT_SMD/TSOT-23-8
 - kicadDesc: TSOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: TSOT TO_SOT_SMD
 - kicadAttr: smd

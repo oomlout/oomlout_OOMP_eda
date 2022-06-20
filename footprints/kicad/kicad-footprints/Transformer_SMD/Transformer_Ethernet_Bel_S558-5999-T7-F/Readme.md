@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12216
+- index: 12217
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_Ethernet_Bel_S558-5999-T7-F
+- oompName: kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bel_S558-5999-T7-F
 - kicadDesc: Ethernet Transformer, Bel S558-5999-T7-F, https://www.belfuse.com/resources/ICMs/lan-/S558-5999-T7-F.pdf
 - kicadTags: Ethernet Transformer
 - kicadAttr: smd

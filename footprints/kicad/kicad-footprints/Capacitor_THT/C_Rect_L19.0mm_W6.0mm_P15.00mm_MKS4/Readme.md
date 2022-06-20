@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 903
+- index: 904
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: C_Rect_L19.0mm_W6.0mm_P15.00mm_MKS4
+- oompName: kicad-footprints/Capacitor_THT/C_Rect_L19.0mm_W6.0mm_P15.00mm_MKS4
 - kicadDesc: C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*6mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
 - kicadTags: C Rect series Radial pin pitch 15.00mm  length 19mm width 6mm Capacitor
 - kicadAttr: through_hole

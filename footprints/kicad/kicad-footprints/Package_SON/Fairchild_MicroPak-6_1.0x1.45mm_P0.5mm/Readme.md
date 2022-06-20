@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10418
+- index: 10419
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
+- oompName: kicad-footprints/Package_SON/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
 - kicadDesc: Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https://www.nxp.com/docs/en/application-note/AN10343.pdff
 - kicadTags: Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm
 - kicadAttr: smd

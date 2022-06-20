@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9859
+- index: 9860
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: SMDIP-10_W9.53mm_Clearance8mm
+- oompName: kicad-footprints/Package_DIP/SMDIP-10_W9.53mm_Clearance8mm
 - kicadDesc: 10-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
 - kicadTags: SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2547
+- index: 2548
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal
 - kicadDesc: JST XH series connector, S4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST XH horizontal
 - kicadAttr: through_hole

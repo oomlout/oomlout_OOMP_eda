@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9106
+- index: 9107
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: ST_WLCSP-64_Die435
+- oompName: kicad-footprints/Package_CSP/ST_WLCSP-64_Die435
 - kicadDesc: WLCSP-64, 8x8 raster, 3.141x3.127mm package, pitch 0.35mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00257211.pdf
 - kicadTags: BGA 64 0.35
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10365
+- index: 10366
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: TSSOP-30_4.4x7.8mm_P0.5mm
+- oompName: kicad-footprints/Package_SO/TSSOP-30_4.4x7.8mm_P0.5mm
 - kicadDesc: TSSOP, 30 Pin (JEDEC MO-153 Var BC-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: TSSOP SO
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11014
+- index: 11015
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_DPDT_FRT5
+- oompName: kicad-footprints/Relay_THT/Relay_DPDT_FRT5
 - kicadDesc: IM Signal Relay DPDT FRT5 narrow footprint
 - kicadTags: Relay DPDT IM-relay FRT5
 - kicadAttr: through_hole

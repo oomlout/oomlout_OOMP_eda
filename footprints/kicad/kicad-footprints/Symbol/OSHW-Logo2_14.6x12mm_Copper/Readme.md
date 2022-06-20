@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11521
+- index: 11522
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Symbol
 - oompIndex: OSHW-Logo2_14.6x12mm_Copper
+- oompName: kicad-footprints/Symbol/OSHW-Logo2_14.6x12mm_Copper
 - kicadDesc: Open Source Hardware Symbol
 - kicadTags: Logo Symbol OSHW
 - kicadAttr: exclude_from_pos_files exclude_from_bom

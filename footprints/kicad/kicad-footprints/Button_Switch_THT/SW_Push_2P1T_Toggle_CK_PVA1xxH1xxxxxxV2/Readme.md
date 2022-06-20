@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 401
+- index: 402
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2
+- oompName: kicad-footprints/Button_Switch_THT/SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2
 - kicadDesc: momentary / push-push button, h=17.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
 - kicadTags: tact sw push PVA1 DPST
 - kicadAttr: through_hole

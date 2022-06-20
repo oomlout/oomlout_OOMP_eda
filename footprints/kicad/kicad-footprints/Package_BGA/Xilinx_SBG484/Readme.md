@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9028
+- index: 9029
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: Xilinx_SBG484
+- oompName: kicad-footprints/Package_BGA/Xilinx_SBG484
 - kicadDesc: Artix-7 BGA, 22x22 grid, 19x19mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=270, NSMD pad definition Appendix A
 - kicadTags: BGA 484 0.8 SB484 SBG484 SBV484
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8819
+- index: 8820
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Vishay_CAST-3Pin
+- oompName: kicad-footprints/OptoDevice/Vishay_CAST-3Pin
 - kicadDesc: IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf
 - kicadTags: IRReceiverVishayTSOP-xxxx CAST
 - kicadAttr: through_hole

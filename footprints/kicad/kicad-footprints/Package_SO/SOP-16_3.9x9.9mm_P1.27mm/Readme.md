@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10255
+- index: 10256
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SOP-16_3.9x9.9mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SOP-16_3.9x9.9mm_P1.27mm
 - kicadDesc: SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SOP SO
 - kicadAttr: smd

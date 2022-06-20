@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1534
+- index: 1535
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_FFC-FPC
 - oompIndex: Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal
+- oompName: kicad-footprints/Connector_FFC-FPC/Molex_200528-0120_1x12-1MP_P1.00mm_Horizontal
 - kicadDesc: Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0120, 12 Circuits (https://www.molex.com/pdm_docs/sd/2005280120_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex  top entry
 - kicadAttr: smd

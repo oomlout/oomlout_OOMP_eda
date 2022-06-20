@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1867
+- index: 1868
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Hirose
 - oompIndex: Hirose_DF13-15P-1.25DS_1x15_P1.25mm_Horizontal
+- oompName: kicad-footprints/Connector_Hirose/Hirose_DF13-15P-1.25DS_1x15_P1.25mm_Horizontal
 - kicadDesc: Hirose DF13 through hole, DF13-15P-1.25DS, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
 - kicadTags: connector Hirose DF13 horizontal
 - kicadAttr: through_hole

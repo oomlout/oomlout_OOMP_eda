@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1092
+- index: 1093
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Audio
 - oompIndex: Jack_6.35mm_Neutrik_NSJ8HC_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ8HC_Horizontal
 - kicadDesc: Stacking Jacks, Mono dual jack, full nose, https://www.neutrik.com/en/product/nsj8hc
 - kicadTags: neutrik jack stacking
 - kicadAttr: through_hole

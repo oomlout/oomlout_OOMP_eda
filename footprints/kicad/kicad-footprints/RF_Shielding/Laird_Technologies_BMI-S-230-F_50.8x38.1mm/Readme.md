@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11381
+- index: 11382
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Shielding
 - oompIndex: Laird_Technologies_BMI-S-230-F_50.8x38.1mm
+- oompName: kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-230-F_50.8x38.1mm
 - kicadDesc: Laird Technologies BMI-S-230-F Shielding Cabinet Two Piece SMD 50.8x38.1mm
 - kicadTags: Shielding Cabinet
 - kicadAttr: smd

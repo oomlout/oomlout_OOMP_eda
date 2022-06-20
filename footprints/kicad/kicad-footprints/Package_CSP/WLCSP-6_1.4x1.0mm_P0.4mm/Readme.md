@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9131
+- index: 9132
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: WLCSP-6_1.4x1.0mm_P0.4mm
+- oompName: kicad-footprints/Package_CSP/WLCSP-6_1.4x1.0mm_P0.4mm
 - kicadDesc: 6pin Pitch 0.4mm
 - kicadTags: 6pin Pitch 0.4mm WLCSP
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11325
+- index: 11326
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: E73-2G4M04S
+- oompName: kicad-footprints/RF_Module/E73-2G4M04S
 - kicadDesc: http://www.cdebyte.com/en/downpdf.aspx?id=243
 - kicadTags: BLE BLE5 nRF52832
 - kicadAttr: smd

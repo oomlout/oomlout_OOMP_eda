@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10269
+- index: 10270
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm
+- oompName: kicad-footprints/Package_SO/SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm
 - kicadDesc: 4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf
 - kicadTags: SSO Stretched SO SOIC 2.54
 - kicadAttr: smd

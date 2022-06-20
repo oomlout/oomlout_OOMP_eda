@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10751
+- index: 10752
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-264-5_Horizontal_TabUp
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-264-5_Horizontal_TabUp
 - kicadDesc: TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
 - kicadTags: TO-264-5 Horizontal RM 3.81mm
 - kicadAttr: through_hole

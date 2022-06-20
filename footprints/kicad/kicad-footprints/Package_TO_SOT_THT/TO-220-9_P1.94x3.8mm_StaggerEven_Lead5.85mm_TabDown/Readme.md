@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10694
+- index: 10695
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown
 - kicadDesc: TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-2
 - kicadTags: TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-2
 - kicadAttr: through_hole

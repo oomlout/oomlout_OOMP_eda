@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3642
+- index: 3643
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_Vertical
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_Vertical
 - kicadDesc: Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-3.81; number of pins: 03; pin pitch: 3.81mm; Vertical || order number: 1803439 8A 160V
 - kicadTags: phoenix_contact connector MCV_01x03_G_3.81mm
 - kicadAttr: through_hole

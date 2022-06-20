@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8219
+- index: 8220
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_ASMB-KTF0-0A306
+- oompName: kicad-footprints/LED_SMD/LED_ASMB-KTF0-0A306
 - kicadDesc: 2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100
 - kicadTags: Tricolor LED
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11043
+- index: 11044
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_SPDT_Omron_G5V-1
+- oompName: kicad-footprints/Relay_THT/Relay_SPDT_Omron_G5V-1
 - kicadDesc: Relay Omron G5V-1, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf
 - kicadTags: Relay Omron G5V-1
 - kicadAttr: through_hole

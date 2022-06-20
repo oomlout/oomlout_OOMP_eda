@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9265
+- index: 9266
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
+- oompName: kicad-footprints/Package_DFN_QFN/QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm
 - kicadDesc: QFN, 16 Pin (https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: QFN NoLead
 - kicadAttr: smd

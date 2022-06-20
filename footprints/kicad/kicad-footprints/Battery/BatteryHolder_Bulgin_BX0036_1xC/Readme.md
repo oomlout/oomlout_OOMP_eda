@@ -20,6 +20,7 @@ Contents
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Bulgin_BX0036_1xC
+- oompName: kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC
 - kicadDesc: Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
 - kicadTags: Bulgin BX0036
 - kicadAttr: through_hole

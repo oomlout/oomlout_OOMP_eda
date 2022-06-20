@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2454
+- index: 2455
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_XA_B06B-XASK-1_1x06_P2.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_XA_B06B-XASK-1_1x06_P2.50mm_Vertical
 - kicadDesc: JST XA series connector, B06B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST XA vertical
 - kicadAttr: through_hole

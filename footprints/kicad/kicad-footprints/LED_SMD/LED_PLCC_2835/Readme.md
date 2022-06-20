@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8253
+- index: 8254
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_PLCC_2835
+- oompName: kicad-footprints/LED_SMD/LED_PLCC_2835
 - kicadDesc: https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
 - kicadTags: LED
 - kicadAttr: smd

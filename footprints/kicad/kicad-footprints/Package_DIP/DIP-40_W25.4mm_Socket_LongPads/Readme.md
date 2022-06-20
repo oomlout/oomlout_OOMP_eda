@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9779
+- index: 9780
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: DIP-40_W25.4mm_Socket_LongPads
+- oompName: kicad-footprints/Package_DIP/DIP-40_W25.4mm_Socket_LongPads
 - kicadDesc: 40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket, LongPads
 - kicadTags: THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket LongPads
 - kicadAttr: through_hole

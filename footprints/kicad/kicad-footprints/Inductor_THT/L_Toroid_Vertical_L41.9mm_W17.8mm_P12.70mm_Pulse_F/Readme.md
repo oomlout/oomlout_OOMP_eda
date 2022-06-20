@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8170
+- index: 8171
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Inductor_THT
 - oompIndex: L_Toroid_Vertical_L41.9mm_W17.8mm_P12.70mm_Pulse_F
+- oompName: kicad-footprints/Inductor_THT/L_Toroid_Vertical_L41.9mm_W17.8mm_P12.70mm_Pulse_F
 - kicadDesc: L_Toroid, Vertical series, Radial, pin pitch=12.70mm, , length*width=41.91*17.78mm^2, Pulse, F, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf
 - kicadTags: L_Toroid Vertical series Radial pin pitch 12.70mm  length 41.91mm width 17.78mm Pulse F
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8367
+- index: 8368
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Module
 - oompIndex: Arduino_Nano
+- oompName: kicad-footprints/Module/Arduino_Nano
 - kicadDesc: Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 - kicadTags: Arduino Nano
 - kicadAttr: through_hole

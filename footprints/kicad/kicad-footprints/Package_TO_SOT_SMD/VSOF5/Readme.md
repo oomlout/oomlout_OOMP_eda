@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10616
+- index: 10617
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: VSOF5
+- oompName: kicad-footprints/Package_TO_SOT_SMD/VSOF5
 - kicadDesc: VSOF5
 - kicadTags: VSOF5
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8765
+- index: 8766
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: Kingbright_KRC011_Horizontal
+- oompName: kicad-footprints/OptoDevice/Kingbright_KRC011_Horizontal
 - kicadDesc: Subminiature Reflective Optical Sensor, http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf
 - kicadTags: Subminiature Reflective Optical Sensor
 - kicadAttr: smd

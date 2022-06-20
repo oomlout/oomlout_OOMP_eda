@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2139
+- index: 2140
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
 - kicadDesc: JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST EH vertical
 - kicadAttr: through_hole

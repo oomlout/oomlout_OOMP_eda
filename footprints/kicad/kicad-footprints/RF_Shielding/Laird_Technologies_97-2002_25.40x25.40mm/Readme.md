@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11362
+- index: 11363
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Shielding
 - oompIndex: Laird_Technologies_97-2002_25.40x25.40mm
+- oompName: kicad-footprints/RF_Shielding/Laird_Technologies_97-2002_25.40x25.40mm
 - kicadDesc: Laird Technologies 97-2002 EZ PEEL Shielding Cabinet One Piece SMD 25.40x25.40mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)
 - kicadTags: Shielding Cabinet
 - kicadAttr: smd

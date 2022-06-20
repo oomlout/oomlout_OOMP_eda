@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9645
+- index: 9646
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm
+- oompName: kicad-footprints/Package_DFN_QFN/VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm
 - kicadDesc: VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_QFN_9x9_MR_C04-00149e.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: VQFN NoLead
 - kicadAttr: smd

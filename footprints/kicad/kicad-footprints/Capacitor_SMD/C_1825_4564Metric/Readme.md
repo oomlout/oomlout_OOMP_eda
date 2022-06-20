@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 540
+- index: 541
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: C_1825_4564Metric
+- oompName: kicad-footprints/Capacitor_SMD/C_1825_4564Metric
 - kicadDesc: Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 - kicadTags: capacitor
 - kicadAttr: smd

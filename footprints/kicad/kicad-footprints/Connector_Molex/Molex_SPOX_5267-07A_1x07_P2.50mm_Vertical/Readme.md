@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3387
+- index: 3388
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_SPOX_5267-07A_1x07_P2.50mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_SPOX_5267-07A_1x07_P2.50mm_Vertical
 - kicadDesc: Molex SPOX Connector System, 5267-07A, 7 Pins per row (http://www.molex.com/pdm_docs/sd/022035035_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex SPOX side entry
 - kicadAttr: through_hole

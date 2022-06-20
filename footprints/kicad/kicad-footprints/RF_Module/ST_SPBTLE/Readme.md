@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11356
+- index: 11357
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: ST_SPBTLE
+- oompName: kicad-footprints/RF_Module/ST_SPBTLE
 - kicadDesc: Bluetooth Low Energy Module
 - kicadTags: ble module st bluetooth
 - kicadAttr: smd

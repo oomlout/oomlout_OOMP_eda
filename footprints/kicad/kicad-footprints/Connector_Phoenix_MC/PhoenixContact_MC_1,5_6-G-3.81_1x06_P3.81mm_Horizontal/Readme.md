@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3750
+- index: 3751
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MC_1,5_6-G-3.81_1x06_P3.81mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_6-G-3.81_1x06_P3.81mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: MC_1,5/6-G-3.81; number of pins: 06; pin pitch: 3.81mm; Angled || order number: 1803316 8A 160V
 - kicadTags: phoenix_contact connector MC_01x06_G_3.81mm
 - kicadAttr: through_hole

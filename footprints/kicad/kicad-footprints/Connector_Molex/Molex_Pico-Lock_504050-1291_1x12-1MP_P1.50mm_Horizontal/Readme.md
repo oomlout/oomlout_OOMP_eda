@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3169
+- index: 3170
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Pico-Lock_504050-1291_1x12-1MP_P1.50mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Pico-Lock_504050-1291_1x12-1MP_P1.50mm_Horizontal
 - kicadDesc: Molex Pico-Lock series connector, 504050-1291 (http://www.molex.com/pdm_docs/sd/5040500891_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Pico-Lock horizontal
 - kicadAttr: smd

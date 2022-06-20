@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9070
+- index: 9071
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_CSP
 - oompIndex: LFCSP-VQ-48-1EP_7x7mm_P0.5mm
+- oompName: kicad-footprints/Package_CSP/LFCSP-VQ-48-1EP_7x7mm_P0.5mm
 - kicadDesc: LFCSP VQ, 48 pin, exposed pad, 7x7mm body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf, http://www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html)
 - kicadTags: LFCSP 48
 - kicadAttr: smd

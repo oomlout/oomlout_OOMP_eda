@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3702
+- index: 3703
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC
 - oompIndex: PhoenixContact_MC_1,5_13-G-3.81_1x13_P3.81mm_Horizontal
+- oompName: kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_13-G-3.81_1x13_P3.81mm_Horizontal
 - kicadDesc: Generic Phoenix Contact connector footprint for: MC_1,5/13-G-3.81; number of pins: 13; pin pitch: 3.81mm; Angled || order number: 1803387 8A 160V
 - kicadTags: phoenix_contact connector MC_01x13_G_3.81mm
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9840
+- index: 9841
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DIP
 - oompIndex: DIP-8_W10.16mm
+- oompName: kicad-footprints/Package_DIP/DIP-8_W10.16mm
 - kicadDesc: 8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
 - kicadTags: THT DIP DIL PDIP 2.54mm 10.16mm 400mil
 - kicadAttr: through_hole

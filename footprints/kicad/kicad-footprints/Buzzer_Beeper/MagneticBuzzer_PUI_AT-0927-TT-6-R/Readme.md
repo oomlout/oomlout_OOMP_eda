@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 449
+- index: 450
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Buzzer_Beeper
 - oompIndex: MagneticBuzzer_PUI_AT-0927-TT-6-R
+- oompName: kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R
 - kicadDesc: Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
 - kicadTags: Buzzer Magnetic 9mm AT-0927-TT-6-R
 - kicadAttr: through_hole

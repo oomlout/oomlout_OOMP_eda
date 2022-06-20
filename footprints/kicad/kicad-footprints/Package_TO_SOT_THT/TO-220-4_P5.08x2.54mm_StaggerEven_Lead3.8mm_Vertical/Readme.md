@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10675
+- index: 10676
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical
 - kicadDesc: TO-220-4, Vertical, RM 2.54mm, staggered type-2
 - kicadTags: TO-220-4 Vertical RM 2.54mm staggered type-2
 - kicadAttr: through_hole

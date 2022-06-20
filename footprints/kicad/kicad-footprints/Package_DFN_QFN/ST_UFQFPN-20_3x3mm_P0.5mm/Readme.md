@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9473
+- index: 9474
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: ST_UFQFPN-20_3x3mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/ST_UFQFPN-20_3x3mm_P0.5mm
 - kicadDesc: UFQFPN 20-lead, 3 x 3 mm, 0.5 mm pitch, ultra thin fine pitch quad flat package (http://www.st.com/resource/en/datasheet/stm8s003f3.pdf)
 - kicadTags: UFQFPN 0.5
 - kicadAttr: smd

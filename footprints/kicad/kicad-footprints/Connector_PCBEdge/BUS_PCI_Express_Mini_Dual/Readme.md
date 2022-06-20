@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3418
+- index: 3419
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PCBEdge
 - oompIndex: BUS_PCI_Express_Mini_Dual
+- oompName: kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Dual
 - kicadDesc: Mini-PCI Express bus connector full size with dual clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=28)
 - kicadTags: mini pcie
 - kicadAttr: smd

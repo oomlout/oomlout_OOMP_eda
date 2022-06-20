@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 4019
+- index: 4020
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Pin
 - oompIndex: Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
+- oompName: kicad-footprints/Connector_Pin/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
 - kicadDesc: solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
 - kicadTags: solder Pin_ with flat fork
 - kicadAttr: through_hole

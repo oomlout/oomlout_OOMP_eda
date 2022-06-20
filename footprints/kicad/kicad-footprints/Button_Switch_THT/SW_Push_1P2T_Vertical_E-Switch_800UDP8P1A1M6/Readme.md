@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 400
+- index: 401
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
+- oompName: kicad-footprints/Button_Switch_THT/SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
 - kicadDesc: right angle SPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf
 - kicadTags: IP67 ultra-miniture horizontal
 - kicadAttr: through_hole

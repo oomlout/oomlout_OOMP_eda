@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8234
+- index: 8235
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Cree-XP-G
+- oompName: kicad-footprints/LED_SMD/LED_Cree-XP-G
 - kicadDesc: LED Cree-XP-G http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf
 - kicadTags: LED Cree XP-G
 - kicadAttr: smd

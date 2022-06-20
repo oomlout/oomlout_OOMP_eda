@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10563
+- index: 10564
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-89-3_Handsoldering
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-89-3_Handsoldering
 - kicadDesc: SOT-89-3 Handsoldering
 - kicadTags: SOT-89-3 Handsoldering
 - kicadAttr: smd

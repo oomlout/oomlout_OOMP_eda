@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9252
+- index: 9253
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
+- oompName: kicad-footprints/Package_DFN_QFN/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
 - kicadDesc: On Semiconductor, SIP-38, 9x7mm, (https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)
 - kicadTags: On Semiconductor SIP
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 367
+- index: 368
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: SW_DIP_SPSTx07_Slide_6.7x19.34mm_W7.62mm_P2.54mm_LowProfile
+- oompName: kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx07_Slide_6.7x19.34mm_W7.62mm_P2.54mm_LowProfile
 - kicadDesc: 7x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x19.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
 - kicadTags: DIP Switch SPST Slide 7.62mm 300mil LowProfile
 - kicadAttr: through_hole

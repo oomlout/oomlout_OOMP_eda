@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11305
+- index: 11306
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Mini-Circuits
 - oompIndex: Mini-Circuits_MMM168
+- oompName: kicad-footprints/RF_Mini-Circuits/Mini-Circuits_MMM168
 - kicadDesc: Footprint for Mini-Circuits case MMM168 (https://ww2.minicircuits.com/case_style/MMM168.pdf)
 - kicadTags: Mini-Circuits MMM168
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8241
+- index: 8242
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_Kingbright_APFA3010_3x1.5mm_Horizontal
+- oompName: kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal
 - kicadDesc: LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
 - kicadTags: LED RGB APFA3010 KINGBRIGHT 3x1.5mm
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10470
+- index: 10471
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SON
 - oompIndex: WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm
+- oompName: kicad-footprints/Package_SON/WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm
 - kicadDesc: 8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
 - kicadTags: WSON 8 1EP
 - kicadAttr: smd

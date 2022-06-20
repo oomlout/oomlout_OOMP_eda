@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11810
+- index: 11811
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: TerminalBlock_Phoenix
 - oompIndex: TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal
+- oompName: kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal
 - kicadDesc: Terminal Block Phoenix MKDS-3-5-5.08, 5 pins, pitch 5.08mm, size 25.4x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
 - kicadTags: THT Terminal Block Phoenix MKDS-3-5-5.08 pitch 5.08mm size 25.4x11.2mm^2 drill 1.3mm pad 2.6mm
 - kicadAttr: through_hole

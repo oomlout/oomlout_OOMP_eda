@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8971
+- index: 8972
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: UFBGA-132_7x7mm_P0.5mm
+- oompName: kicad-footprints/Package_BGA/UFBGA-132_7x7mm_P0.5mm
 - kicadDesc: UFBGA 132 Pins, 0.5mm Pitch, 0.3mm Ball, http://www.st.com/resource/en/datasheet/stm32l486qg.pdf
 - kicadTags: ufbga bga small-pitch
 - kicadAttr: smd

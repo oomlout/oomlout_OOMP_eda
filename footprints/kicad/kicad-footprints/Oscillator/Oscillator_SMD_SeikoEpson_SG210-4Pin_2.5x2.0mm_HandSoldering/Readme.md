@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8867
+- index: 8868
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering
 - kicadDesc: SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, hand-soldering, 2.5x2.0mm^2 package
 - kicadTags: SMD SMT crystal oscillator hand-soldering
 - kicadAttr: smd

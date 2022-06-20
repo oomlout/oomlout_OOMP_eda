@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12241
+- index: 12242
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Autotransformer_ZS1052-AC
+- oompName: kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC
 - kicadDesc: Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf
 - kicadTags: ignition coil autotransformer
 - kicadAttr: through_hole

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 694
+- index: 695
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_THT
 - oompIndex: CP_Radial_D13.0mm_P5.00mm
+- oompName: kicad-footprints/Capacitor_THT/CP_Radial_D13.0mm_P5.00mm
 - kicadDesc: CP, Radial series, Radial, pin pitch=5.00mm, , diameter=13mm, Electrolytic Capacitor
 - kicadTags: CP Radial series Radial pin pitch 5.00mm  diameter 13mm Electrolytic Capacitor
 - kicadAttr: through_hole

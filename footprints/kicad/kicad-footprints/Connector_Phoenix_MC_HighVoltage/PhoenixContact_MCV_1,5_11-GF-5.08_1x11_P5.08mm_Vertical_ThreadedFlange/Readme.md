@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3777
+- index: 3778
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Phoenix_MC_HighVoltage
 - oompIndex: PhoenixContact_MCV_1,5_11-GF-5.08_1x11_P5.08mm_Vertical_ThreadedFlange
+- oompName: kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_11-GF-5.08_1x11_P5.08mm_Vertical_ThreadedFlange
 - kicadDesc: Generic Phoenix Contact connector footprint for: MCV_1,5/11-GF-5.08; number of pins: 11; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1847709 8A 320V
 - kicadTags: phoenix_contact connector MCV_01x11_GF_5.08mm
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10666
+- index: 10667
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown
 - kicadDesc: TO-220-15, Horizontal, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf
 - kicadTags: TO-220-15 Horizontal RM 1.27mm staggered type-1
 - kicadAttr: through_hole

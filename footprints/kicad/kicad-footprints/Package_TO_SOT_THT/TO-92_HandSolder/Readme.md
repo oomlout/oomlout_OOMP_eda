@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10837
+- index: 10838
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-92_HandSolder
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-92_HandSolder
 - kicadDesc: TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)
 - kicadTags: to-92 sc-43 sc-43a sot54 PA33 transistor
 - kicadAttr: through_hole

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10889
+- index: 10890
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_ACP_CA9-V10_Vertical_Hole
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA9-V10_Vertical_Hole
 - kicadDesc: Potentiometer, vertical, shaft hole, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
 - kicadTags: Potentiometer vertical hole ACP CA9-V10
 - kicadAttr: through_hole

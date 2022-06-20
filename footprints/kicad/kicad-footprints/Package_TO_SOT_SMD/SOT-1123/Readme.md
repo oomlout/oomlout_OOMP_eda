@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10519
+- index: 10520
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_SMD
 - oompIndex: SOT-1123
+- oompName: kicad-footprints/Package_TO_SOT_SMD/SOT-1123
 - kicadDesc: SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)
 - kicadTags: SOT-1123 transistor
 - kicadAttr: smd

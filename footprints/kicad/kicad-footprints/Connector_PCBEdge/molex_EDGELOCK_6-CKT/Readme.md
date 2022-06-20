@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3423
+- index: 3424
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PCBEdge
 - oompIndex: molex_EDGELOCK_6-CKT
+- oompName: kicad-footprints/Connector_PCBEdge/molex_EDGELOCK_6-CKT
 - kicadDesc: https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf
 - kicadTags: Connector PCBEdge molex EDGELOCK
 - kicadAttr: exclude_from_pos_files exclude_from_bom

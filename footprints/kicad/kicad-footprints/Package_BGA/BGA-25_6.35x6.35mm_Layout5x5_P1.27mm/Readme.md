@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8905
+- index: 8906
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_BGA
 - oompIndex: BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
+- oompName: kicad-footprints/Package_BGA/BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
 - kicadDesc: BGA-25, http://cds.linear.com/docs/en/datasheet/4624fc.pdf
 - kicadTags: BGA-25 uModule
 - kicadAttr: smd

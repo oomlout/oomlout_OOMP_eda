@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 22
+- index: 23
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: BatteryHolder_Keystone_3001_1x12mm
+- oompName: kicad-footprints/Battery/BatteryHolder_Keystone_3001_1x12mm
 - kicadDesc: http://www.keyelco.com/product-pdf.cfm?p=778
 - kicadTags: Keystone type 3001 coin cell retainer
 - kicadAttr: through_hole

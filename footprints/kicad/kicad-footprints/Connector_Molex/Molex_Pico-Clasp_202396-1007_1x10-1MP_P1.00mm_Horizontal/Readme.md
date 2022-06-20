@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3138
+- index: 3139
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Pico-Clasp_202396-1007_1x10-1MP_P1.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Pico-Clasp_202396-1007_1x10-1MP_P1.00mm_Horizontal
 - kicadDesc: Molex Pico-Clasp series connector, 202396-1007 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Pico-Clasp top entry
 - kicadAttr: smd

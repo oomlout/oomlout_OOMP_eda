@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1278
+- index: 1279
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB
+- oompName: kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB
 - kicadDesc: Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
 - kicadTags: Molex MMCX Horizontal Coaxial
 - kicadAttr: smd

@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10896
+- index: 10897
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Alps_RK097_Single_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Alps_RK097_Single_Horizontal
 - kicadDesc: 1110, Single Pot, Horizontal, Alps RK097 Single,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
 - kicadTags: Potentiometer horizontal Alps RK097 Single
 - kicadAttr: through_hole

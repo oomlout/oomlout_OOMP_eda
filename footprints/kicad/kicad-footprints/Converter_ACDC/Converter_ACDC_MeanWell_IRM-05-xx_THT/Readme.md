@@ -7,19 +7,25 @@ Contents
 
 * [FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-05-xx_THT>](#footprint-kicad-kicad-footprints-converter_acdc-converter_acdc_meanwell_irm-05-xx_tht)
 	* [Tags](#tags)
-
+  
+![][im]
 # FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-05-xx_THT>
 
 ## Tags
 
-- index: 7032
+- index: 7033
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Converter_ACDC
 - oompIndex: Converter_ACDC_MeanWell_IRM-05-xx_THT
+- oompName: kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-05-xx_THT
 - kicadDesc: http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-05
 - kicadTags: ACDC-Converter 5W   Meanwell IRM-05
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-05-xx_THT.wrl
+
+
+
+[im]: image.png

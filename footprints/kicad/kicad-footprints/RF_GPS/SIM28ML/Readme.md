@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11270
+- index: 11271
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_GPS
 - oompIndex: SIM28ML
+- oompName: kicad-footprints/RF_GPS/SIM28ML
 - kicadDesc: https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf
 - kicadTags: SIM28ML GPS
 - kicadAttr: smd

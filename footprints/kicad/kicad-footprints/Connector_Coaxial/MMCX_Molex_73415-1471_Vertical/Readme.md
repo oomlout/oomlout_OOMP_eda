@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1279
+- index: 1280
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: MMCX_Molex_73415-1471_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-1471_Vertical
 - kicadDesc: http://www.molex.com/pdm_docs/sd/734151471_sd.pdf
 - kicadTags: Molex MMCX Coaxial Connector 50 ohms Female Jack Vertical THT
 - kicadAttr: through_hole

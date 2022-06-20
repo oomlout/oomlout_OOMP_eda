@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9966
+- index: 9967
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: Bosch_LGA-14_3x2.5mm_P0.5mm
+- oompName: kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm
 - kicadDesc: LGA-14 Bosch https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf
 - kicadTags: lga land grid array
 - kicadAttr: smd

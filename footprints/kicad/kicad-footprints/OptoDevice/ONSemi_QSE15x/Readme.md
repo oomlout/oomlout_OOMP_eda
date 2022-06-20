@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8788
+- index: 8789
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: ONSemi_QSE15x
+- oompName: kicad-footprints/OptoDevice/ONSemi_QSE15x
 - kicadDesc: 3 Lead Plastic Package
 - kicadTags: ONSemi QSE158 QSE159
 - kicadAttr: through_hole

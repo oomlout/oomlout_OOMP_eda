@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5819
+- index: 5820
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinSocket_2.00mm
 - oompIndex: PinSocket_2x39_P2.00mm_Vertical
+- oompName: kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_2x39_P2.00mm_Vertical
 - kicadDesc: Through hole straight socket strip, 2x39, 2.00mm pitch, double cols (from Kicad 4.0.7), script generated
 - kicadTags: Through hole socket strip THT 2x39 2.00mm double row
 - kicadAttr: through_hole

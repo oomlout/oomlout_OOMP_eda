@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10272
+- index: 10273
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SSO-7-8_6.4x9.78mm_P2.54mm
+- oompName: kicad-footprints/Package_SO/SSO-7-8_6.4x9.78mm_P2.54mm
 - kicadDesc: SSO, 7 Pin (https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SSO SO
 - kicadAttr: smd

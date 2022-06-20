@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10274
+- index: 10275
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SSO-8_6.7x9.8mm_P2.54mm_Clearance8mm
+- oompName: kicad-footprints/Package_SO/SSO-8_6.7x9.8mm_P2.54mm_Clearance8mm
 - kicadDesc: 8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/83831/lh1533ab.pdf
 - kicadTags: SSO Stretched SO SOIC Pitch 2.54
 - kicadAttr: smd

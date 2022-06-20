@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8776
+- index: 8777
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: LaserDiode_TO56-3
+- oompName: kicad-footprints/OptoDevice/LaserDiode_TO56-3
 - kicadDesc: Laser Diode, TO-56, 3pin
 - kicadTags: Laser Diode TO56
 - kicadAttr: through_hole

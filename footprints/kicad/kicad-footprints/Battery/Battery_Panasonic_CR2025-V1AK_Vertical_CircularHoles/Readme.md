@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 40
+- index: 41
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
+- oompName: kicad-footprints/Battery/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
 - kicadDesc: Panasonic CR-2025/V1AK battery,
 - kicadTags: battery CR-2025 coin cell vertical
 - kicadAttr: through_hole

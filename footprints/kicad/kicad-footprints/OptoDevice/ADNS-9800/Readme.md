@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8746
+- index: 8747
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: OptoDevice
 - oompIndex: ADNS-9800
+- oompName: kicad-footprints/OptoDevice/ADNS-9800
 - kicadDesc: Laser Gaming Sensor ADNS-9800
 - kicadTags: MOUSE MOUSE_SENSOR LASER_GAMING_SENSOR
 - kicadAttr: through_hole

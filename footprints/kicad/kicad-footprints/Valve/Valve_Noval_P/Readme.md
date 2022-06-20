@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12311
+- index: 12312
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Valve
 - oompIndex: Valve_Noval_P
+- oompName: kicad-footprints/Valve/Valve_Noval_P
 - kicadDesc: Valve NOVAL P
 - kicadTags: Valve NOVAL P
 - kicadAttr: through_hole

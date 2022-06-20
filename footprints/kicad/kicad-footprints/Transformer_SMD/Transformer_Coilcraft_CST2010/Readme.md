@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12214
+- index: 12215
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_SMD
 - oompIndex: Transformer_Coilcraft_CST2010
+- oompName: kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST2010
 - kicadDesc: Current sense transformer, SMD, 14.55x19.91x10.50mm (https://www.coilcraft.com/pdfs/cst2010.pdf)
 - kicadTags: Transformer current sense SMD
 - kicadAttr: smd

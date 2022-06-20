@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9996
+- index: 9997
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_QFP
 - oompIndex: EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm
+- oompName: kicad-footprints/Package_QFP/EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm
 - kicadDesc: EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00487-01.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: EQFP QFP
 - kicadAttr: smd

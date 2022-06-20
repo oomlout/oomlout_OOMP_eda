@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9493
+- index: 9494
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Texas_R-PUQFN-N10
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_R-PUQFN-N10
 - kicadDesc: http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF186&fileType=pdf
 - kicadTags: Texas_R-PUQFN-N10
 - kicadAttr: smd

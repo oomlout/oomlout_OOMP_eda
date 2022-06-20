@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9964
+- index: 9965
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_LGA
 - oompIndex: AMS_LGA-10-1EP_2.7x4mm_P0.6mm
+- oompName: kicad-footprints/Package_LGA/AMS_LGA-10-1EP_2.7x4mm_P0.6mm
 - kicadDesc: LGA-10, http://ams.com/eng/content/download/951091/2269479/471718
 - kicadTags: lga land grid array
 - kicadAttr: smd

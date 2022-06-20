@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 8263
+- index: 8264
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: LED_SMD
 - oompIndex: LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+- oompName: kicad-footprints/LED_SMD/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
 - kicadDesc: https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
 - kicadTags: LED RGB NeoPixel Nano
 - kicadAttr: smd

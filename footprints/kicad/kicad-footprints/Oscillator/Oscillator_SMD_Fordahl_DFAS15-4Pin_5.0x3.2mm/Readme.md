@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 8850
+- index: 8851
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Oscillator
 - oompIndex: Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm
+- oompName: kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm
 - kicadDesc: Ultraminiature Crystal Clock Oscillator TXCO Fordahl DFA S15-OV/UOV, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, 5.0x3.2mm^2 package
 - kicadTags: SMD SMT crystal oscillator
 - kicadAttr: smd

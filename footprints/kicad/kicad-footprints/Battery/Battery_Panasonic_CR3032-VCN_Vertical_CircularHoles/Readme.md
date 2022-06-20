@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 45
+- index: 46
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Battery
 - oompIndex: Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
+- oompName: kicad-footprints/Battery/Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 - kicadDesc: Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 - kicadTags: battery CR-3032 coin cell vertical
 - kicadAttr: through_hole

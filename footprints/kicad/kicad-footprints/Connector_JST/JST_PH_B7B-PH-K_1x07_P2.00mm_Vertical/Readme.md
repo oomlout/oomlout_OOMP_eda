@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2260
+- index: 2261
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_JST
 - oompIndex: JST_PH_B7B-PH-K_1x07_P2.00mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_PH_B7B-PH-K_1x07_P2.00mm_Vertical
 - kicadDesc: JST PH series connector, B7B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
 - kicadTags: connector JST PH side entry
 - kicadAttr: through_hole

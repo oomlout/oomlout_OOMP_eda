@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2637
+- index: 2638
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_CLIK-Mate_502382-0770_1x07-1MP_P1.25mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502382-0770_1x07-1MP_P1.25mm_Vertical
 - kicadDesc: Molex CLIK-Mate series connector, 502382-0770 (http://www.molex.com/pdm_docs/sd/5023820270_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex CLIK-Mate side entry
 - kicadAttr: smd

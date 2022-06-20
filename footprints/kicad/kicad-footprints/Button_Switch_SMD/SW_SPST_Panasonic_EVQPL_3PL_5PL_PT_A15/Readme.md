@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 321
+- index: 322
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15
 - kicadDesc: Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf
 - kicadTags: SMD SMT SPST EVQPL EVQPT
 - kicadAttr: smd

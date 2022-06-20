@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1297
+- index: 1298
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Coaxial
 - oompIndex: U.FL_Hirose_U.FL-R-SMT-1_Vertical
+- oompName: kicad-footprints/Connector_Coaxial/U.FL_Hirose_U.FL-R-SMT-1_Vertical
 - kicadDesc: Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
 - kicadTags: Hirose U.FL Coaxial
 - kicadAttr: smd

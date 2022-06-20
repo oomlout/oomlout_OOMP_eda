@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10917
+- index: 10918
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Bourns_3266Z_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3266Z_Horizontal
 - kicadDesc: Potentiometer, horizontal, Bourns 3266Z, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
 - kicadTags: Potentiometer horizontal Bourns 3266Z
 - kicadAttr: through_hole

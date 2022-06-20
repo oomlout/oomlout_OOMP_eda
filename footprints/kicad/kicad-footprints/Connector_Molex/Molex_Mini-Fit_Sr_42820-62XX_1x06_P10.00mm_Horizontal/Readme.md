@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 3076
+- index: 3077
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Mini-Fit_Sr_42820-62XX_1x06_P10.00mm_Horizontal
+- oompName: kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_42820-62XX_1x06_P10.00mm_Horizontal
 - kicadDesc: Molex Mini-Fit Sr. Power Connectors, 42820-62XX, 6 Pins per row (http://www.molex.com/pdm_docs/sd/428202214_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Mini-Fit_Sr top entry
 - kicadAttr: through_hole

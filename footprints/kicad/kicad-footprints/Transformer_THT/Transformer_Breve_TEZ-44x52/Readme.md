@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 12247
+- index: 12248
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Transformer_THT
 - oompIndex: Transformer_Breve_TEZ-44x52
+- oompName: kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-44x52
 - kicadDesc: http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
 - kicadTags: TEZ PCB Transformer
 - kicadAttr: through_hole

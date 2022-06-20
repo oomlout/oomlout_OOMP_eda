@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 336
+- index: 337
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_THT
 - oompIndex: Nidec_Copal_SH-7010C
+- oompName: kicad-footprints/Button_Switch_THT/Nidec_Copal_SH-7010C
 - kicadDesc: 4-bit rotary coded switch, through-hole, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
 - kicadTags: rotary switch bcd
 - kicadAttr: through_hole

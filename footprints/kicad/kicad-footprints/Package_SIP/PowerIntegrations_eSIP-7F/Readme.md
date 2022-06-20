@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10075
+- index: 10076
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SIP
 - oompIndex: PowerIntegrations_eSIP-7F
+- oompName: kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7F
 - kicadDesc: eSIP-7F Flat Package with Heatsink Tab https://ac-dc.power.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf
 - kicadTags: Power Integrations L Package
 - kicadAttr: through_hole

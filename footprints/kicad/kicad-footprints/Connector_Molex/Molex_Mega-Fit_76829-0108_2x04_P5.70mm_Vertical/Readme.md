@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 2785
+- index: 2786
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Molex
 - oompIndex: Molex_Mega-Fit_76829-0108_2x04_P5.70mm_Vertical
+- oompName: kicad-footprints/Connector_Molex/Molex_Mega-Fit_76829-0108_2x04_P5.70mm_Vertical
 - kicadDesc: Molex Mega-Fit Power Connectors, 76829-0108 (compatible alternatives: 172065-0208, 172065-0308), 4 Pins per row (http://www.molex.com/pdm_docs/sd/768290102_sd.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Molex Mega-Fit side entry
 - kicadAttr: through_hole

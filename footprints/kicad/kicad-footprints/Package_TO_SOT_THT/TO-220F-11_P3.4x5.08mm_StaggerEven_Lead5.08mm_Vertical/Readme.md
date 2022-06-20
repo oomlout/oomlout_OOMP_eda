@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10696
+- index: 10697
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-220F-11_P3.4x5.08mm_StaggerEven_Lead5.08mm_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-220F-11_P3.4x5.08mm_StaggerEven_Lead5.08mm_Vertical
 - kicadDesc: TO-220F-11, Vertical, RM 1.7mm, MultiwattF-11, staggered type-2, see http://www.ti.com/lit/ds/symlink/lm3886.pdf
 - kicadTags: TO-220F-11 Vertical RM 1.7mm MultiwattF-11 staggered type-2
 - kicadAttr: through_hole

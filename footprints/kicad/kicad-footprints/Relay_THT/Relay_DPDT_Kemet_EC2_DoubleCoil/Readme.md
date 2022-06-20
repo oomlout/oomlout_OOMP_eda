@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11017
+- index: 11018
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Relay_THT
 - oompIndex: Relay_DPDT_Kemet_EC2_DoubleCoil
+- oompName: kicad-footprints/Relay_THT/Relay_DPDT_Kemet_EC2_DoubleCoil
 - kicadDesc: Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
 - kicadTags: Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 - kicadAttr: through_hole

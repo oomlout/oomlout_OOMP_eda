@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 472
+- index: 473
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Capacitor_SMD
 - oompIndex: CP_Elec_10x10
+- oompName: kicad-footprints/Capacitor_SMD/CP_Elec_10x10
 - kicadDesc: SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
 - kicadTags: capacitor electrolytic
 - kicadAttr: smd

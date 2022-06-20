@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11133
+- index: 11134
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Resistor_SMD
 - oompIndex: R_MELF_MMB-0207
+- oompName: kicad-footprints/Resistor_SMD/R_MELF_MMB-0207
 - kicadDesc: Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf
 - kicadTags: MELF Resistor
 - kicadAttr: smd

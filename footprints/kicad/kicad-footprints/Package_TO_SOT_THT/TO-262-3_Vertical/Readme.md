@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10741
+- index: 10742
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: TO-262-3_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/TO-262-3_Vertical
 - kicadDesc: TO-262-3, Vertical, RM 2.54mm, IIPAK, I2PAK, see http://www.onsemi.com/pub/Collateral/EN8586-D.PDF
 - kicadTags: TO-262-3 Vertical RM 2.54mm IIPAK I2PAK
 - kicadAttr: through_hole

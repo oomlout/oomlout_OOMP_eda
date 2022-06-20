@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 302
+- index: 303
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Button_Switch_SMD
 - oompIndex: SW_SPST_B3U-1100P-B
+- oompName: kicad-footprints/Button_Switch_SMD/SW_SPST_B3U-1100P-B
 - kicadDesc: Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, with Boss
 - kicadTags: Tactile Switch
 - kicadAttr: smd

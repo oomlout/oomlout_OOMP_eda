@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10623
+- index: 10624
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_TO_SOT_THT
 - oompIndex: SIPAK_Vertical
+- oompName: kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical
 - kicadDesc: SIPAK, Vertical, RM 2.286mm
 - kicadTags: SIPAK Vertical RM 2.286mm
 - kicadAttr: through_hole

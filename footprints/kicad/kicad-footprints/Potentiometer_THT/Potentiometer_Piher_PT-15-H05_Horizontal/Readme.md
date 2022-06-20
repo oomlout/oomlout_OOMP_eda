@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10956
+- index: 10957
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_THT
 - oompIndex: Potentiometer_Piher_PT-15-H05_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-15-H05_Horizontal
 - kicadDesc: Potentiometer, horizontal, Piher PT-15-H05, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
 - kicadTags: Potentiometer horizontal Piher PT-15-H05
 - kicadAttr: through_hole

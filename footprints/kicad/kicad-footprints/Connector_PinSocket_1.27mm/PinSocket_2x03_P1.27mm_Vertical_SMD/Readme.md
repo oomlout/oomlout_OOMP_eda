@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 5424
+- index: 5425
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_PinSocket_1.27mm
 - oompIndex: PinSocket_2x03_P1.27mm_Vertical_SMD
+- oompName: kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x03_P1.27mm_Vertical_SMD
 - kicadDesc: surface-mounted straight socket strip, 2x03, 1.27mm pitch, double cols (from Kicad 4.0.7!), script generated
 - kicadTags: Surface mounted socket strip SMD 2x03 1.27mm double row
 - kicadAttr: smd

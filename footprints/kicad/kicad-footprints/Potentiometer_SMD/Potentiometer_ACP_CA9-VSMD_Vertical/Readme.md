@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10857
+- index: 10858
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Potentiometer_SMD
 - oompIndex: Potentiometer_ACP_CA9-VSMD_Vertical
+- oompName: kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA9-VSMD_Vertical
 - kicadDesc: Potentiometer, vertical, ACP CA9-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
 - kicadTags: Potentiometer vertical ACP CA9-VSMD
 - kicadAttr: smd

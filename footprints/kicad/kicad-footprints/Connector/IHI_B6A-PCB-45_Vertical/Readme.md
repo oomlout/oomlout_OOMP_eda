@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1018
+- index: 1019
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector
 - oompIndex: IHI_B6A-PCB-45_Vertical
+- oompName: kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical
 - kicadDesc: https://lugsdirect.com/PDF_Webprint/B6A-PCB-45-XX(-X).pdf
 - kicadTags: connector IHI B6A-PCB-45
 - kicadAttr: smd

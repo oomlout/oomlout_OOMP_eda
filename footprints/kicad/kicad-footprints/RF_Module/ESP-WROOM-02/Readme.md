@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 11328
+- index: 11329
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: RF_Module
 - oompIndex: ESP-WROOM-02
+- oompName: kicad-footprints/RF_Module/ESP-WROOM-02
 - kicadDesc: https://www.espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf
 - kicadTags: ESP WROOM-02 espressif esp8266ex
 - kicadAttr: smd

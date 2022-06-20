@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 10259
+- index: 10260
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_SO
 - oompIndex: SOP-20_7.5x12.8mm_P1.27mm
+- oompName: kicad-footprints/Package_SO/SOP-20_7.5x12.8mm_P1.27mm
 - kicadDesc: SOP, 20 Pin (https://www.holtek.com/documents/10179/116723/sop20-300.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: SOP SO
 - kicadAttr: smd

@@ -13,13 +13,14 @@ Contents
 
 ## Tags
 
-- index: 1898
+- index: 1899
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Connector_Hirose
 - oompIndex: Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
+- oompName: kicad-footprints/Connector_Hirose/Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
 - kicadDesc: Hirose  series connector, DF52-14S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
 - kicadTags: connector Hirose  top entry
 - kicadAttr: smd

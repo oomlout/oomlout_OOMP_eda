@@ -12,13 +12,14 @@ Contents
 
 ## Tags
 
-- index: 9469
+- index: 9470
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
 - oompColor: kicad-footprints
 - oompDesc: Package_DFN_QFN
 - oompIndex: Qorvo_DFN-8-1EP_2x2mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/Qorvo_DFN-8-1EP_2x2mm_P0.5mm
 - kicadDesc: DFN 8 2x2mm, 0.5mm http://www.qorvo.com/products/d/da000896
 - kicadTags: DFN 0.5 Qorvo 2x2mm
 - kicadAttr: smd
