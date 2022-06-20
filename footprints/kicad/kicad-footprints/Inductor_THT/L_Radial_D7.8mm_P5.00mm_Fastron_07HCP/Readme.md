@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.8mm_P5.00mm_Fastron_07HCP>](#footprint-kicad-kicad-footprints-inductor_tht-l_radial_d78mm_p500mm_fastron_07hcp)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.8mm_P5.00mm_Fastron_07HCP>
+# 
 
 ## Tags
 
-- index: 8099
+- index: 8081
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

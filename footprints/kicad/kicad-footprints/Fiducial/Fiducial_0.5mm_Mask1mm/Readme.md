@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.5mm_Mask1mm>](#footprint-kicad-kicad-footprints-fiducial-fiducial_05mm_mask1mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.5mm_Mask1mm>
+# 
 
 ## Tags
 
-- index: 7561
+- index: 7543
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

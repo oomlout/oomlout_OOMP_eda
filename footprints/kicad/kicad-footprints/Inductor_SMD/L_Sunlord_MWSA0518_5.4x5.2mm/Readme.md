@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_sunlord_mwsa0518_54x52mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm>
+# 
 
 ## Tags
 
-- index: 7822
+- index: 7804
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm>](#footprint-kicad-kicad-footprints-package_bga-texas_microstar_junior_bga-12_20x25mm_layout4x3_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm>
+# 
 
 ## Tags
 
-- index: 8959
+- index: 8941
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

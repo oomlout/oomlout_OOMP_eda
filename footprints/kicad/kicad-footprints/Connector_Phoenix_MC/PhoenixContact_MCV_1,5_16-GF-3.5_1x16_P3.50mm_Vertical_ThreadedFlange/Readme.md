@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_16-GF-3.5_1x16_P3.50mm_Vertical_ThreadedFlange>](#footprint-kicad-kicad-footprints-connector_phoenix_mc-phoenixcontact_mcv_15_16-gf-35_1x16_p350mm_vertical_threadedflange)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_16-GF-3.5_1x16_P3.50mm_Vertical_ThreadedFlange>
+# 
 
 ## Tags
 

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-162_1x02_P3.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_wago-wago_734-162_1x02_p350mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-162_1x02_P3.50mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 6710
+- index: 6692
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm>](#footprint-kicad-kicad-footprints-buzzer_beeper-buzzer_tdk_ps1240p02bt_d122mm_h65mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm>
+# 
 
 ## Tags
 

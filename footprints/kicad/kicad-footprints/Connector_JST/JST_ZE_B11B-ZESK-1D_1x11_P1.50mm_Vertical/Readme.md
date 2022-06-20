@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B11B-ZESK-1D_1x11_P1.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_ze_b11b-zesk-1d_1x11_p150mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B11B-ZESK-1D_1x11_P1.50mm_Vertical>
+# 
 
 ## Tags
 

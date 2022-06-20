@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm>](#footprint-kicad-kicad-footprints-diode_smd-diode_bridge_diotec_microdil_30x30x18mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm>
+# 
 
 ## Tags
 
-- index: 7292
+- index: 7274
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

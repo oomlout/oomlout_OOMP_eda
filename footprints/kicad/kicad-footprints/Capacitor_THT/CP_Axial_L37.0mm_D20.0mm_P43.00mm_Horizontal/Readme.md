@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal>](#footprint-kicad-kicad-footprints-capacitor_tht-cp_axial_l370mm_d200mm_p4300mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L37.0mm_D20.0mm_P43.00mm_Horizontal>
+# 
 
 ## Tags
 

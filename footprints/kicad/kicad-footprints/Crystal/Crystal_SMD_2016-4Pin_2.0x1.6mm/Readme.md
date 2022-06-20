@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2016-4Pin_2.0x1.6mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_2016-4pin_20x16mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2016-4Pin_2.0x1.6mm>
+# 
 
 ## Tags
 
-- index: 7181
+- index: 7163
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

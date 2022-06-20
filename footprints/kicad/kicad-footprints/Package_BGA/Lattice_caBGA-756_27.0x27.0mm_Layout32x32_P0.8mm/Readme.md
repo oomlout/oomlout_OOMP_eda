@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm>](#footprint-kicad-kicad-footprints-package_bga-lattice_cabga-756_270x270mm_layout32x32_p08mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm>
+# 
 
 ## Tags
 
-- index: 8930
+- index: 8912
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

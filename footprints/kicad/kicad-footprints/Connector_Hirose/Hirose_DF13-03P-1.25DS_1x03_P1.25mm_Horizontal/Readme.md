@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-03P-1.25DS_1x03_P1.25mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_hirose-hirose_df13-03p-125ds_1x03_p125mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-03P-1.25DS_1x03_P1.25mm_Horizontal>
+# 
 
 ## Tags
 

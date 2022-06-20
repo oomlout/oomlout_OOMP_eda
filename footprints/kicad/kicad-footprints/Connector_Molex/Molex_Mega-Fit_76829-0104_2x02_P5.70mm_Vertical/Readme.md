@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76829-0104_2x02_P5.70mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_mega-fit_76829-0104_2x02_p570mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76829-0104_2x02_P5.70mm_Vertical>
+# 
 
 ## Tags
 

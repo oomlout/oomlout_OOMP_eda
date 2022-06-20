@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTB_2,5_4-GF_1x04_P5.00mm_Horizontal_ThreadedFlange_MountHole>](#footprint-kicad-kicad-footprints-connector_phoenix_mstb-phoenixcontact_mstb_25_4-gf_1x04_p500mm_horizontal_threadedflange_mounthole)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTB_2,5_4-GF_1x04_P5.00mm_Horizontal_ThreadedFlange_MountHole>
+# 
 
 ## Tags
 

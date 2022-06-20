@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x02_P1.27mm_Vertical_SMD_Pin1Right>](#footprint-kicad-kicad-footprints-connector_pinheader_127mm-pinheader_1x02_p127mm_vertical_smd_pin1right)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_1x02_P1.27mm_Vertical_SMD_Pin1Right>
+# 
 
 ## Tags
 

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm>](#footprint-kicad-kicad-footprints-rf_shielding-laird_technologies_97-2003_1270x1337mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm>
+# 
 
 ## Tags
 
-- index: 11364
+- index: 11346
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

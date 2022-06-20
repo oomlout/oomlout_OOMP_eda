@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_harting-harting_har-flexicon_14110813002xxx_1x08-mp_p254mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal>
+# 
 
 ## Tags
 

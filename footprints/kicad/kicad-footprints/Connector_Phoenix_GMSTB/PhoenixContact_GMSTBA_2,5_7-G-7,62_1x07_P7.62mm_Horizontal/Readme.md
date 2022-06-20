@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBA_2,5_7-G-7,62_1x07_P7.62mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_phoenix_gmstb-phoenixcontact_gmstba_25_7-g-762_1x07_p762mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBA_2,5_7-G-7,62_1x07_P7.62mm_Horizontal>
+# 
 
 ## Tags
 

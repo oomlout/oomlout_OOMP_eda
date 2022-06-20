@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm>](#footprint-kicad-kicad-footprints-diode_tht-diode_bridge_167x167x63mm_p108mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm>
+# 
 
 ## Tags
 
-- index: 7365
+- index: 7347
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

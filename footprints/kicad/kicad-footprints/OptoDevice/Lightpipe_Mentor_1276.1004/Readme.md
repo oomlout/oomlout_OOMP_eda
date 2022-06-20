@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.1004>](#footprint-kicad-kicad-footprints-optodevice-lightpipe_mentor_12761004)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.1004>
+# 
 
 ## Tags
 
-- index: 8782
+- index: 8764
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

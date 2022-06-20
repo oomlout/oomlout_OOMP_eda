@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-st_uqfn-6l_15x17mm_pitch05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm>
+# 
 
 ## Tags
 
-- index: 9475
+- index: 9457
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

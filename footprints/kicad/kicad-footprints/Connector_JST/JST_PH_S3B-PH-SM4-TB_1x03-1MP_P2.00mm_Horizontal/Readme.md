@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jst-jst_ph_s3b-ph-sm4-tb_1x03-1mp_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

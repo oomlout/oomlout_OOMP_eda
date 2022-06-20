@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin>](#footprint-kicad-kicad-footprints-button_switch_smd-sw_dip_spstx09_slide_67x2442mm_w673mm_p254mm_lowprofile_jpin)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin>
+# 
 
 ## Tags
 

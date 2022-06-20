@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x28_P2.00mm_Vertical_SMD_Pin1Left>](#footprint-kicad-kicad-footprints-connector_pinsocket_200mm-pinsocket_1x28_p200mm_vertical_smd_pin1left)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x28_P2.00mm_Vertical_SMD_Pin1Left>
+# 
 
 ## Tags
 
-- index: 5655
+- index: 5637
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

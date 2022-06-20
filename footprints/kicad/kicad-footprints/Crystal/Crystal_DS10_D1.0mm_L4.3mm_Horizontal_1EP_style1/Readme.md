@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1>](#footprint-kicad-kicad-footprints-crystal-crystal_ds10_d10mm_l43mm_horizontal_1ep_style1)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1>
+# 
 
 ## Tags
 
-- index: 7124
+- index: 7106
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

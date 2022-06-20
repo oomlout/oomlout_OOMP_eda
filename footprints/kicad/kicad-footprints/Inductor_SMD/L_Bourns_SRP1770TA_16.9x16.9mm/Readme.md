@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_bourns_srp1770ta_169x169mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm>
+# 
 
 ## Tags
 
-- index: 7749
+- index: 7731
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

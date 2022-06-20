@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-20A2_2x10_P4.20mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_mini-fit_jr_5569-20a2_2x10_p420mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5569-20A2_2x10_P4.20mm_Horizontal>
+# 
 
 ## Tags
 

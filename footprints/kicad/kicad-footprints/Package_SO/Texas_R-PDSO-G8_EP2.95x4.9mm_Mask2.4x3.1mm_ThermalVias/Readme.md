@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-texas_r-pdso-g8_ep295x49mm_mask24x31mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10314
+- index: 10296
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

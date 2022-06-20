@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-FP_2x05_P1.27mm_Vertical>](#footprint-kicad-kicad-footprints-connector-tag-connect_tc2050-idc-fp_2x05_p127mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-FP_2x05_P1.27mm_Vertical>
+# 
 
 ## Tags
 

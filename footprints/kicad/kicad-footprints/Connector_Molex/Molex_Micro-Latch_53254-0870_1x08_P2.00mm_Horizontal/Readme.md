@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53254-0870_1x08_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_micro-latch_53254-0870_1x08_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53254-0870_1x08_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

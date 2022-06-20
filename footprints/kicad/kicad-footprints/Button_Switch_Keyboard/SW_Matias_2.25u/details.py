@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_Keyboard")
 newPart.addTag("oompIndex", "SW_Matias_2.25u")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_Keyboard/SW_Matias_2.25u")
 
 newPart.addTag("kicadDesc", "Matias/ALPS keyswitch, 2.25u, http://matias.ca/switches/")
 newPart.addTag("kicadTags", "Matias ALPS keyswitch 2.25u")

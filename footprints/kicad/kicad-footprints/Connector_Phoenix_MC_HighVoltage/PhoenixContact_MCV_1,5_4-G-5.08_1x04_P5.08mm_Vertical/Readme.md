@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MCV_1,5_4-G-5.08_1x04_P5.08mm_Vertical>](#footprint-kicad-kicad-footprints-connector_phoenix_mc_highvoltage-phoenixcontact_mcv_15_4-g-508_1x04_p508mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MCV_1,5_4-G-5.08_1x04_P5.08mm_Vertical>
+# 
 
 ## Tags
 

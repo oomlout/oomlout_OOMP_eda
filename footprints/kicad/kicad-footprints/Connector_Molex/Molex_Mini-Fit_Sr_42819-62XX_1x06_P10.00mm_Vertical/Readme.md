@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_mini-fit_sr_42819-62xx_1x06_p1000mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42819-62XX_1x06_P10.00mm_Vertical>
+# 
 
 ## Tags
 

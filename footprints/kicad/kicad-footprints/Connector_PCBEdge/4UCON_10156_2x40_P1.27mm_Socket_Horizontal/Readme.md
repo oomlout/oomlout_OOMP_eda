@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-4UCON_10156_2x40_P1.27mm_Socket_Horizontal>](#footprint-kicad-kicad-footprints-connector_pcbedge-4ucon_10156_2x40_p127mm_socket_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-4UCON_10156_2x40_P1.27mm_Socket_Horizontal>
+# 
 
 ## Tags
 

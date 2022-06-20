@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm>](#footprint-kicad-kicad-footprints-sensor_current-akm_cq_vsop-24_56x79mm_p065mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm>
+# 
 
 ## Tags
 
-- index: 11416
+- index: 11398
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

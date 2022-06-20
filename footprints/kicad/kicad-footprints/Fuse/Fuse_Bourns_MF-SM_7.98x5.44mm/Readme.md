@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm>](#footprint-kicad-kicad-footprints-fuse-fuse_bourns_mf-sm_798x544mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm>
+# 
 
 ## Tags
 
-- index: 7673
+- index: 7655
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

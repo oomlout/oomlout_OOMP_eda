@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x02_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_pinheader_200mm-pinheader_2x02_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_2x02_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

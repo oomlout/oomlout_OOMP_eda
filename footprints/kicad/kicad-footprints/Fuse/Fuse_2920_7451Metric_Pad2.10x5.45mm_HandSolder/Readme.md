@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder>](#footprint-kicad-kicad-footprints-fuse-fuse_2920_7451metric_pad210x545mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 7630
+- index: 7612
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm_HandSoldering>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_euroquartz_xo53-4pin_50x32mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 8845
+- index: 8827
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

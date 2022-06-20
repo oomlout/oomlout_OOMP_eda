@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H9mm_SnapRivet_9776090960>](#footprint-kicad-kicad-footprints-mounting_wuerth-mounting_wuerth_wa-smssr-33mm_h9mm_snaprivet_9776090960)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H9mm_SnapRivet_9776090960>
+# 
 
 ## Tags
 
-- index: 8664
+- index: 8646
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

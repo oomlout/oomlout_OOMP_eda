@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_Keyboard")
 newPart.addTag("oompIndex", "SW_Cherry_MX_1.25u_PCB")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB")
 
 newPart.addTag("kicadDesc", "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 newPart.addTag("kicadTags", "Cherry MX keyswitch 1.25u PCB")

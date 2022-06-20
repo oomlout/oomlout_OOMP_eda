@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.95x5.21x3.27mm_P1.27mm>](#footprint-kicad-kicad-footprints-package_so-ssop-8_395x521x327mm_p127mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.95x5.21x3.27mm_P1.27mm>
+# 
 
 ## Tags
 
-- index: 10298
+- index: 10280
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

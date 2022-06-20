@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering>](#footprint-kicad-kicad-footprints-inductor_smd-l_taiyo-yuden_nr-10050_98x100mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7829
+- index: 7811
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

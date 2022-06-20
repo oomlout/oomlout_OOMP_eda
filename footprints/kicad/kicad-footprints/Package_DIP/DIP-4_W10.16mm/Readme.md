@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-4_W10.16mm>](#footprint-kicad-kicad-footprints-package_dip-dip-4_w1016mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-4_W10.16mm>
+# 
 
 ## Tags
 
-- index: 9794
+- index: 9776
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

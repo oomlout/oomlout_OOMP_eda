@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm>](#footprint-kicad-kicad-footprints-fuse-fuse_littelfuse_372_d850mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm>
+# 
 
 ## Tags
 
-- index: 7679
+- index: 7661
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

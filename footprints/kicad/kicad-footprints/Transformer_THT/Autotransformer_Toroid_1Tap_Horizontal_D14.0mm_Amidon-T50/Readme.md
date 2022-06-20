@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50>](#footprint-kicad-kicad-footprints-transformer_tht-autotransformer_toroid_1tap_horizontal_d140mm_amidon-t50)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50>
+# 
 
 ## Tags
 
-- index: 12240
+- index: 12222
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

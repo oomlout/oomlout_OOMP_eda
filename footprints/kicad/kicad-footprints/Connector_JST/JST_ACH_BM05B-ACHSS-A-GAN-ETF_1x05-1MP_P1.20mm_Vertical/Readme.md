@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ACH_BM05B-ACHSS-A-GAN-ETF_1x05-1MP_P1.20mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_ach_bm05b-achss-a-gan-etf_1x05-1mp_p120mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ACH_BM05B-ACHSS-A-GAN-ETF_1x05-1MP_P1.20mm_Vertical>
+# 
 
 ## Tags
 

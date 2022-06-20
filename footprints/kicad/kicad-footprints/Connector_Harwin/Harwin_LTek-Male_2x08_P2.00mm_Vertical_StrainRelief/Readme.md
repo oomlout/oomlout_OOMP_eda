@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief>](#footprint-kicad-kicad-footprints-connector_harwin-harwin_ltek-male_2x08_p200mm_vertical_strainrelief)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief>
+# 
 
 ## Tags
 

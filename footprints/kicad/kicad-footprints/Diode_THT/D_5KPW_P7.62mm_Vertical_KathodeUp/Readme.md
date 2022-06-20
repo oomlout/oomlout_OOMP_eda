@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KPW_P7.62mm_Vertical_KathodeUp>](#footprint-kicad-kicad-footprints-diode_tht-d_5kpw_p762mm_vertical_kathodeup)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KPW_P7.62mm_Vertical_KathodeUp>
+# 
 
 ## Tags
 
-- index: 7386
+- index: 7368
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

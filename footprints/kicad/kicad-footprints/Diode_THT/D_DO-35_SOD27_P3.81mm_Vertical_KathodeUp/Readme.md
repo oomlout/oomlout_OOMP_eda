@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp>](#footprint-kicad-kicad-footprints-diode_tht-d_do-35_sod27_p381mm_vertical_kathodeup)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp>
+# 
 
 ## Tags
 
-- index: 7448
+- index: 7430
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

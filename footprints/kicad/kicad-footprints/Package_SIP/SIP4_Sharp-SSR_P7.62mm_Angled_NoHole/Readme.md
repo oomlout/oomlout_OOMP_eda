@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole>](#footprint-kicad-kicad-footprints-package_sip-sip4_sharp-ssr_p762mm_angled_nohole)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole>
+# 
 
 ## Tags
 
-- index: 10084
+- index: 10066
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

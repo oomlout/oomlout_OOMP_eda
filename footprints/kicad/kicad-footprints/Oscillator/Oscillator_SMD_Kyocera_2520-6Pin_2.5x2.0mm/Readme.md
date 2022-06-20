@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_kyocera_2520-6pin_25x20mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Kyocera_2520-6Pin_2.5x2.0mm>
+# 
 
 ## Tags
 
-- index: 8864
+- index: 8846
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm>](#footprint-kicad-kicad-footprints-relay_tht-relay_dpdt_axicom_imseries_pitch32mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm>
+# 
 
 ## Tags
 
-- index: 11011
+- index: 10993
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

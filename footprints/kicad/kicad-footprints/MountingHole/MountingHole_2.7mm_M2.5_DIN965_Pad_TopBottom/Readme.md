@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom>](#footprint-kicad-kicad-footprints-mountinghole-mountinghole_27mm_m25_din965_pad_topbottom)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom>
+# 
 
 ## Tags
 
-- index: 8417
+- index: 8399
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

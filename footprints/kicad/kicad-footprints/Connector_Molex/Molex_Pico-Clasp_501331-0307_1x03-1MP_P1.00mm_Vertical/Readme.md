@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-0307_1x03-1MP_P1.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_pico-clasp_501331-0307_1x03-1mp_p100mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-0307_1x03-1MP_P1.00mm_Vertical>
+# 
 
 ## Tags
 

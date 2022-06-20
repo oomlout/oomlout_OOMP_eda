@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal>](#footprint-kicad-kicad-footprints-terminalblock_rnd-terminalblock_rnd_205-00232_1x02_p508mm_horizontal)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 11962
+- index: 11944
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm>](#footprint-kicad-kicad-footprints-resistor_smd-r_shunt_vishay_wsk2512_6332metric_t119mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm>
+# 
 
 ## Tags
 
-- index: 11141
+- index: 11123
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

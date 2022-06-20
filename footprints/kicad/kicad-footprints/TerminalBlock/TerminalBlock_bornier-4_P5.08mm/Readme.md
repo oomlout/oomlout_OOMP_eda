@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-4_P5.08mm>](#footprint-kicad-kicad-footprints-terminalblock-terminalblock_bornier-4_p508mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-4_P5.08mm>
+# 
 
 ## Tags
 
-- index: 11624
+- index: 11606
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -10,6 +10,7 @@ newPart.addTag("oompSize", "kicad")
 newPart.addTag("oompColor", "kicad-footprints")
 newPart.addTag("oompDesc", "Button_Switch_SMD")
 newPart.addTag("oompIndex", "SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm")
+newPart.addTag("oompName", "kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm")
 
 newPart.addTag("kicadDesc", "SMD 2x-dip-switch SPST Omron_A6S-210x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)")
 newPart.addTag("kicadTags", "SMD DIP Switch SPST Slide 8.9mm 350mil")

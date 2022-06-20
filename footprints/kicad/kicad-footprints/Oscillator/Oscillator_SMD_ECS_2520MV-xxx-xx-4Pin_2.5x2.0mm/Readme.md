@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_ecs_2520mv-xxx-xx-4pin_25x20mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm>
+# 
 
 ## Tags
 
-- index: 8841
+- index: 8823
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

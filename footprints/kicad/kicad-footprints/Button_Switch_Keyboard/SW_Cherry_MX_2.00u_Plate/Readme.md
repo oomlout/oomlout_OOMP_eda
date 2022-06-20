@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.00u_Plate>](#footprint-kicad-kicad-footprints-button_switch_keyboard-sw_cherry_mx_200u_plate)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.00u_Plate>
+# 
 
 ## Tags
 

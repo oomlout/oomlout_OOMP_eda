@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_son-wson-10-1ep_2x3mm_p05mm_ep084x24mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10457
+- index: 10439
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

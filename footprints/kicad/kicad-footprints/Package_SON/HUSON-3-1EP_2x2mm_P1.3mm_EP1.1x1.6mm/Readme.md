@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm>](#footprint-kicad-kicad-footprints-package_son-huson-3-1ep_2x2mm_p13mm_ep11x16mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm>
+# 
 
 ## Tags
 
-- index: 10421
+- index: 10403
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

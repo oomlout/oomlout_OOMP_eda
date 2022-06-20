@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_3-1734839-2_1x32-1MP_P0.5mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_ffc-fpc-te_3-1734839-2_1x32-1mp_p05mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_3-1734839-2_1x32-1MP_P0.5mm_Horizontal>
+# 
 
 ## Tags
 

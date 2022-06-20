@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_euroquartz_mj-4pin_50x32mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm>
+# 
 
 ## Tags
 
-- index: 7203
+- index: 7185
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.0mm_W2.5mm_P2.50mm>](#footprint-kicad-kicad-footprints-capacitor_tht-c_disc_d50mm_w25mm_p250mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.0mm_W2.5mm_P2.50mm>
+# 
 
 ## Tags
 

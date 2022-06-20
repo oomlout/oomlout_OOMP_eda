@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_silicon_labs_lga-6_25x32mm_p125mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm>
+# 
 
 ## Tags
 
-- index: 8882
+- index: 8864
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

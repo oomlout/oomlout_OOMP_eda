@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5VxxxxU_D19.0mm_P5.00mm>](#footprint-kicad-kicad-footprints-capacitor_tht-dx_5r5vxxxxu_d190mm_p500mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5VxxxxU_D19.0mm_P5.00mm>
+# 
 
 ## Tags
 

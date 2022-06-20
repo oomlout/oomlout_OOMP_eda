@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.9>](#footprint-kicad-kicad-footprints-capacitor_smd-cp_elec_5x59)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x5.9>
+# 
 
 ## Tags
 

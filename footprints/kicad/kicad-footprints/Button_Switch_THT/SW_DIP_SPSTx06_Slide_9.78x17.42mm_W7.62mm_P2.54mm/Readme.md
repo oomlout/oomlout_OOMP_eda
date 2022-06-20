@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx06_Slide_9.78x17.42mm_W7.62mm_P2.54mm>](#footprint-kicad-kicad-footprints-button_switch_tht-sw_dip_spstx06_slide_978x1742mm_w762mm_p254mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx06_Slide_9.78x17.42mm_W7.62mm_P2.54mm>
+# 
 
 ## Tags
 

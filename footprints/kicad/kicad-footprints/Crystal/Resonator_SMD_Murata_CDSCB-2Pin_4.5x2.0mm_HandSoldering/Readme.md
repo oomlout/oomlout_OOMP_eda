@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-resonator_smd_murata_cdscb-2pin_45x20mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7281
+- index: 7263
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

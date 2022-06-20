@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_seikoepson_fa238v-4pin_32x25mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7241
+- index: 7223
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

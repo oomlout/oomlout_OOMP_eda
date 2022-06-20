@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Male_Vertical_P2.77x2.84mm>](#footprint-kicad-kicad-footprints-connector_dsub-dsub-37_male_vertical_p277x284mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Male_Vertical_P2.77x2.84mm>
+# 
 
 ## Tags
 

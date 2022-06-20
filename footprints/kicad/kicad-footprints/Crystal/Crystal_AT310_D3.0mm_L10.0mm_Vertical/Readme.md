@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical>](#footprint-kicad-kicad-footprints-crystal-crystal_at310_d30mm_l100mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Vertical>
+# 
 
 ## Tags
 
-- index: 7114
+- index: 7096
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

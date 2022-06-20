@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm>](#footprint-kicad-kicad-footprints-package_son-rtc_smd_microcrystal_c3_25x37mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm>
+# 
 
 ## Tags
 
-- index: 10431
+- index: 10413
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

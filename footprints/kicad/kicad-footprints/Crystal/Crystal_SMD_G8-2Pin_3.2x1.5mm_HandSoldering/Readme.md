@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_g8-2pin_32x15mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7220
+- index: 7202
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35>](#footprint-kicad-kicad-footprints-package_bga-infineon_lfbga-292_17x17mm_layout20x20_p08mm_ball05mm_pad035)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35>
+# 
 
 ## Tags
 
-- index: 8927
+- index: 8909
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

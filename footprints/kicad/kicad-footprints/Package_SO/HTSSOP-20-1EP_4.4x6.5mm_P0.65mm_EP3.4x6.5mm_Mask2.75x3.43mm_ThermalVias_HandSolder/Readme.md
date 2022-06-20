@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias_HandSolder>](#footprint-kicad-kicad-footprints-package_so-htssop-20-1ep_44x65mm_p065mm_ep34x65mm_mask275x343mm_thermalvias_handsolder)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias_HandSolder>
+# 
 
 ## Tags
 
-- index: 10121
+- index: 10103
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

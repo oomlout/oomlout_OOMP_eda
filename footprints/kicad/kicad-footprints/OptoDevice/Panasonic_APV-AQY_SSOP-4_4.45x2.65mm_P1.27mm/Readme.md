@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm>](#footprint-kicad-kicad-footprints-optodevice-panasonic_apv-aqy_ssop-4_445x265mm_p127mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm>
+# 
 
 ## Tags
 
-- index: 8798
+- index: 8780
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-2Pin_W10.0mm_H5.0mm>](#footprint-kicad-kicad-footprints-crystal-resonator-2pin_w100mm_h50mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-2Pin_W10.0mm_H5.0mm>
+# 
 
 ## Tags
 
-- index: 7266
+- index: 7248
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

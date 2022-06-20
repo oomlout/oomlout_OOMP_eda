@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-05-0_-L-DV_2x05_P1.27mm_Polarized_Edge>](#footprint-kicad-kicad-footprints-connector_pcbedge-samtec_mecf-05-0_-l-dv_2x05_p127mm_polarized_edge)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-05-0_-L-DV_2x05_P1.27mm_Polarized_Edge>
+# 
 
 ## Tags
 

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBV_2,5_3-GF-7,62_1x03_P7.62mm_Vertical_ThreadedFlange_MountHole>](#footprint-kicad-kicad-footprints-connector_phoenix_gmstb-phoenixcontact_gmstbv_25_3-gf-762_1x03_p762mm_vertical_threadedflange_mounthole)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBV_2,5_3-GF-7,62_1x03_P7.62mm_Vertical_ThreadedFlange_MountHole>
+# 
 
 ## Tags
 

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_SMD_Pad0.5mm>](#footprint-kicad-kicad-footprints-nettie-nettie-4_smd_pad05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_SMD_Pad0.5mm>
+# 
 
 ## Tags
 
-- index: 8726
+- index: 8708
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

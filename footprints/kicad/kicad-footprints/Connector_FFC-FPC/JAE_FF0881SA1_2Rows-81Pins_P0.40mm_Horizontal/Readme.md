@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-JAE_FF0881SA1_2Rows-81Pins_P0.40mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_ffc-fpc-jae_ff0881sa1_2rows-81pins_p040mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-JAE_FF0881SA1_2Rows-81Pins_P0.40mm_Horizontal>
+# 
 
 ## Tags
 

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD>](#footprint-kicad-kicad-footprints-package_bga-microchip_tfbga-196_11x11mm_layout14x14_p075mm_smd)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD>
+# 
 
 ## Tags
 
-- index: 8939
+- index: 8921
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

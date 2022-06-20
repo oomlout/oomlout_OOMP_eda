@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder>](#footprint-kicad-kicad-footprints-capacitor_tantalum_smd-cp_eia-3216-12_kemet-s_pad158x135mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder>
+# 
 
 ## Tags
 

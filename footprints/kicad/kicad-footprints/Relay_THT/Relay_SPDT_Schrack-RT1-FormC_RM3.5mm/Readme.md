@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Schrack-RT1-FormC_RM3.5mm>](#footprint-kicad-kicad-footprints-relay_tht-relay_spdt_schrack-rt1-formc_rm35mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Schrack-RT1-FormC_RM3.5mm>
+# 
 
 ## Tags
 
-- index: 11056
+- index: 11038
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

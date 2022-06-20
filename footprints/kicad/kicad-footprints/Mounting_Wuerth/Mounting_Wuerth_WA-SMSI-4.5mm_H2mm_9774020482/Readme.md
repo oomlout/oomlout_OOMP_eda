@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482>](#footprint-kicad-kicad-footprints-mounting_wuerth-mounting_wuerth_wa-smsi-45mm_h2mm_9774020482)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H2mm_9774020482>
+# 
 
 ## Tags
 
-- index: 8568
+- index: 8550
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

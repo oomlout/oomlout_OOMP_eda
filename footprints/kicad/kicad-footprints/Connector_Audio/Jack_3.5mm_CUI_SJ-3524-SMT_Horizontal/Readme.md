@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal>](#footprint-kicad-kicad-footprints-connector_audio-jack_35mm_cui_sj-3524-smt_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal>
+# 
 
 ## Tags
 

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100>](#footprint-kicad-kicad-footprints-led_smd-led_rgb_wuerth-plcc4_32x28mm_150141m173100)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100>
+# 
 
 ## Tags
 
-- index: 8262
+- index: 8244
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

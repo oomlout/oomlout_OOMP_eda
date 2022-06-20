@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-40_W25.4mm_Socket>](#footprint-kicad-kicad-footprints-package_dip-dip-40_w254mm_socket)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-40_W25.4mm_Socket>
+# 
 
 ## Tags
 
-- index: 9779
+- index: 9761
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

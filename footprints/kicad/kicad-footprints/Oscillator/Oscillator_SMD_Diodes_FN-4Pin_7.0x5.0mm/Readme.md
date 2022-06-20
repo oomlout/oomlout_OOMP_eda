@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_diodes_fn-4pin_70x50mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm>
+# 
 
 ## Tags
 
-- index: 8840
+- index: 8822
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4>](#footprint-kicad-kicad-footprints-inductor_tht-l_toroid_horizontal_d224mm_p1980mm_vishay_tj4)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4>
+# 
 
 ## Tags
 
-- index: 8122
+- index: 8104
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

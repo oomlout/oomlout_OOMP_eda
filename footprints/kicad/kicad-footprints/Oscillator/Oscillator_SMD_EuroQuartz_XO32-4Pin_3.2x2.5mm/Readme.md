@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_euroquartz_xo32-4pin_32x25mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm>
+# 
 
 ## Tags
 
-- index: 8842
+- index: 8824
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

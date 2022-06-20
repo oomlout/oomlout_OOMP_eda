@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm>](#footprint-kicad-kicad-footprints-relay_smd-relay_spdt_axicom_hf3series_75ohms_pitch127mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm>
+# 
 
 ## Tags
 
-- index: 11006
+- index: 10988
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

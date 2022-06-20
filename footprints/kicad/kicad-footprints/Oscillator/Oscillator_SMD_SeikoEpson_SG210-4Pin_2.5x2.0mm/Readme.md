@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_seikoepson_sg210-4pin_25x20mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm>
+# 
 
 ## Tags
 
-- index: 8867
+- index: 8849
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

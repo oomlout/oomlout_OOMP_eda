@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-infineon_pg-dso-8-27_39x49mm_ep265x3mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10153
+- index: 10135
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

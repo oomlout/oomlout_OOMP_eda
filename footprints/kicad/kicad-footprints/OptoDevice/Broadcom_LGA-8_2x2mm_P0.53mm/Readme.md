@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm>](#footprint-kicad-kicad-footprints-optodevice-broadcom_lga-8_2x2mm_p053mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm>
+# 
 
 ## Tags
 
-- index: 8756
+- index: 8738
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

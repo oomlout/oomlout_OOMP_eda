@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_lga-bosch_lga-14_3x25mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 9967
+- index: 9949
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

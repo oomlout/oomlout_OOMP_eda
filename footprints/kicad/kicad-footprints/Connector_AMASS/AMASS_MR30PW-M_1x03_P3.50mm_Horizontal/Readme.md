@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-M_1x03_P3.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_amass-amass_mr30pw-m_1x03_p350mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-M_1x03_P3.50mm_Horizontal>
+# 
 
 ## Tags
 

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-onsemi_udfn-8_12x18mm_p04mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm>
+# 
 
 ## Tags
 
-- index: 9254
+- index: 9236
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

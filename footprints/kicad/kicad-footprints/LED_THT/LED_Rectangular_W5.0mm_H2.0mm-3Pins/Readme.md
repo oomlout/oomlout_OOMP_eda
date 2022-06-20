@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm-3Pins>](#footprint-kicad-kicad-footprints-led_tht-led_rectangular_w50mm_h20mm-3pins)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H2.0mm-3Pins>
+# 
 
 ## Tags
 
-- index: 8336
+- index: 8318
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

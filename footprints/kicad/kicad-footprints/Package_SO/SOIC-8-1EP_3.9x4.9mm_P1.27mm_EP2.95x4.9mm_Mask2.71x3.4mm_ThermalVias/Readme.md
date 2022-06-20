@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-soic-8-1ep_39x49mm_p127mm_ep295x49mm_mask271x34mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10248
+- index: 10230
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

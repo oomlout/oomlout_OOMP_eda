@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-15P-2H_1x15-1MP_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_hirose-hirose_df3ea-15p-2h_1x15-1mp_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF3EA-15P-2H_1x15-1MP_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

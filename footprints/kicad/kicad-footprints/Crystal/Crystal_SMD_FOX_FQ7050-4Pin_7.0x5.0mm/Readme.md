@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_fox_fq7050-4pin_70x50mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm>
+# 
 
 ## Tags
 
-- index: 7217
+- index: 7199
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

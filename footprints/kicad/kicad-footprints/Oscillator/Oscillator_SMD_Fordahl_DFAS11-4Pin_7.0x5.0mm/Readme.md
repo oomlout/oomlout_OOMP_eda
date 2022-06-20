@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_fordahl_dfas11-4pin_70x50mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm>
+# 
 
 ## Tags
 
-- index: 8849
+- index: 8831
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

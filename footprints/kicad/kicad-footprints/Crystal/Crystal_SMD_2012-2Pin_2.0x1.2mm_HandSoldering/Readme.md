@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_2012-2pin_20x12mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7180
+- index: 7162
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-texas_hsop-8-1ep_39x49mm_p127mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10310
+- index: 10292
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

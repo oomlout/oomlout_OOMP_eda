@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_ffc-fpc-hirose_fh41-30s-05sh_1x30_1mp_1sh_p05mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal>
+# 
 
 ## Tags
 

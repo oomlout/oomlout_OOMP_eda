@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0402_1005Metric_Pad0.77x0.64mm_HandSolder>](#footprint-kicad-kicad-footprints-diode_smd-d_0402_1005metric_pad077x064mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0402_1005Metric_Pad0.77x0.64mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 7303
+- index: 7285
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

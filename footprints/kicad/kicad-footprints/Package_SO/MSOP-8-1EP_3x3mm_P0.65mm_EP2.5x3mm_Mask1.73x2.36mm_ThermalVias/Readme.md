@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-msop-8-1ep_3x3mm_p065mm_ep25x3mm_mask173x236mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10186
+- index: 10168
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jst-jst_pud_s16b-pudss-1_2x08_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S16B-PUDSS-1_2x08_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

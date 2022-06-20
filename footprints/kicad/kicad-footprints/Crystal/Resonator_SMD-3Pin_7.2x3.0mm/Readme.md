@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD-3Pin_7.2x3.0mm>](#footprint-kicad-kicad-footprints-crystal-resonator_smd-3pin_72x30mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD-3Pin_7.2x3.0mm>
+# 
 
 ## Tags
 
-- index: 7278
+- index: 7260
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

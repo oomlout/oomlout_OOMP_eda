@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB_Wide_Pins>](#footprint-kicad-kicad-footprints-led_tht-led_d50mm-4_rgb_wide_pins)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB_Wide_Pins>
+# 
 
 ## Tags
 
-- index: 8311
+- index: 8293
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

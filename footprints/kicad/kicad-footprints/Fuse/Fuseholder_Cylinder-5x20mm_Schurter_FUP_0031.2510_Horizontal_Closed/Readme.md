@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed>](#footprint-kicad-kicad-footprints-fuse-fuseholder_cylinder-5x20mm_schurter_fup_00312510_horizontal_closed)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed>
+# 
 
 ## Tags
 
-- index: 7597
+- index: 7579
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78B-2.0_THT>](#footprint-kicad-kicad-footprints-converter_dcdc-converter_dcdc_recom_r-78b-20_tht)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78B-2.0_THT>
+# 
 
 ## Tags
 
-- index: 7073
+- index: 7055
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

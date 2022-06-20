@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-siliconlabs_qfn-20-1ep_3x3mm_p05mm_ep18x18mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm>
+# 
 
 ## Tags
 
-- index: 9472
+- index: 9454
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

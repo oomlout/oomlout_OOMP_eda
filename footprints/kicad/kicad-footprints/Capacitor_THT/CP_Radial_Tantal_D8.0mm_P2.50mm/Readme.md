@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D8.0mm_P2.50mm>](#footprint-kicad-kicad-footprints-capacitor_tht-cp_radial_tantal_d80mm_p250mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D8.0mm_P2.50mm>
+# 
 
 ## Tags
 

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-70-01-NP-L-DV-WT_2x70_P1.27mm_Socket_Horizontal>](#footprint-kicad-kicad-footprints-connector_pcbedge-samtec_mecf-70-01-np-l-dv-wt_2x70_p127mm_socket_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-70-01-NP-L-DV-WT_2x70_P1.27mm_Socket_Horizontal>
+# 
 
 ## Tags
 

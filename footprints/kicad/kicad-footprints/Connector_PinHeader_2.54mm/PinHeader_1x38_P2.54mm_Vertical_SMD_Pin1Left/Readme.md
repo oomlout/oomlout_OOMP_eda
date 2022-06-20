@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x38_P2.54mm_Vertical_SMD_Pin1Left>](#footprint-kicad-kicad-footprints-connector_pinheader_254mm-pinheader_1x38_p254mm_vertical_smd_pin1left)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x38_P2.54mm_Vertical_SMD_Pin1Left>
+# 
 
 ## Tags
 
-- index: 5015
+- index: 4997
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

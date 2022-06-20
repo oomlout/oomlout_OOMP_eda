@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal>](#footprint-kicad-kicad-footprints-terminalblock_phoenix-terminalblock_phoenix_mkds-15-2-508_1x02_p508mm_horizontal)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 11785
+- index: 11767
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

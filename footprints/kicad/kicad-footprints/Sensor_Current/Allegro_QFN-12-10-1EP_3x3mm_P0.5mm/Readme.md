@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm>](#footprint-kicad-kicad-footprints-sensor_current-allegro_qfn-12-10-1ep_3x3mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 11422
+- index: 11404
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

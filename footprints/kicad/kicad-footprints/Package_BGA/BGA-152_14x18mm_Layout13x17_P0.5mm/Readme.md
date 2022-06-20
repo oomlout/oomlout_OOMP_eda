@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-152_14x18mm_Layout13x17_P0.5mm>](#footprint-kicad-kicad-footprints-package_bga-bga-152_14x18mm_layout13x17_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-152_14x18mm_Layout13x17_P0.5mm>
+# 
 
 ## Tags
 
-- index: 8898
+- index: 8880
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

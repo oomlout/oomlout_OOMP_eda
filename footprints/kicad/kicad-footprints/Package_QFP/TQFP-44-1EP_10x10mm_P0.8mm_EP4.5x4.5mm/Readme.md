@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm>](#footprint-kicad-kicad-footprints-package_qfp-tqfp-44-1ep_10x10mm_p08mm_ep45x45mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm>
+# 
 
 ## Tags
 
-- index: 10056
+- index: 10038
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

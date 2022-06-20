@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT>](#footprint-kicad-kicad-footprints-relay_tht-relay_1p1t_no_10x24x188mm_panasonic_adw11xxxxw_tht)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT>
+# 
 
 ## Tags
 
-- index: 11010
+- index: 10992
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

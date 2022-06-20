@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_22.3x20mm_SilkScreen>](#footprint-kicad-kicad-footprints-symbol-oshw-symbol_223x20mm_silkscreen)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_22.3x20mm_SilkScreen>
+# 
 
 ## Tags
 
-- index: 11549
+- index: 11531
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

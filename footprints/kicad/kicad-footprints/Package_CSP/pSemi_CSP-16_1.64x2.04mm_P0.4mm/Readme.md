@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm>](#footprint-kicad-kicad-footprints-package_csp-psemi_csp-16_164x204mm_p04mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm>
+# 
 
 ## Tags
 
-- index: 9077
+- index: 9059
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

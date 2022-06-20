@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_8.4x12mm_SilkScreen>](#footprint-kicad-kicad-footprints-symbol-weee-logo_84x12mm_silkscreen)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_8.4x12mm_SilkScreen>
+# 
 
 ## Tags
 
-- index: 11618
+- index: 11600
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

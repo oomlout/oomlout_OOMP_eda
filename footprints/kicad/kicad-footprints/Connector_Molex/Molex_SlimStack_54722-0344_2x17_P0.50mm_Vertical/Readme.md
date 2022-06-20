@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_54722-0344_2x17_P0.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_slimstack_54722-0344_2x17_p050mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_54722-0344_2x17_P0.50mm_Vertical>
+# 
 
 ## Tags
 

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm>](#footprint-kicad-kicad-footprints-led_smd-led_csp_samsung_lh181b_236x236mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm>
+# 
 
 ## Tags
 
-- index: 8238
+- index: 8220
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

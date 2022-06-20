@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder>](#footprint-kicad-kicad-footprints-capacitor_tantalum_smd-cp_eia-7343-40_kemet-y_pad225x255mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder>
+# 
 
 ## Tags
 

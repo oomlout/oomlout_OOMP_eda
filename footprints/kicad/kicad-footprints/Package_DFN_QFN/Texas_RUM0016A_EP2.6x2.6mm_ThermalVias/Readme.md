@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RUM0016A_EP2.6x2.6mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_rum0016a_ep26x26mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RUM0016A_EP2.6x2.6mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9507
+- index: 9489
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

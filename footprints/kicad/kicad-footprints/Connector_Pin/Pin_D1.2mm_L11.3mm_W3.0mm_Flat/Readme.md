@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.2mm_L11.3mm_W3.0mm_Flat>](#footprint-kicad-kicad-footprints-connector_pin-pin_d12mm_l113mm_w30mm_flat)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.2mm_L11.3mm_W3.0mm_Flat>
+# 
 
 ## Tags
 

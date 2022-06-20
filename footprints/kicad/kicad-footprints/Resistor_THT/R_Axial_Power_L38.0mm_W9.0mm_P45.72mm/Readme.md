@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W9.0mm_P45.72mm>](#footprint-kicad-kicad-footprints-resistor_tht-r_axial_power_l380mm_w90mm_p4572mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W9.0mm_P45.72mm>
+# 
 
 ## Tags
 
-- index: 11221
+- index: 11203
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

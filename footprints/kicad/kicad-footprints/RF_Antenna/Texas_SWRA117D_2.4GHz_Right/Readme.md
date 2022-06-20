@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA117D_2.4GHz_Right>](#footprint-kicad-kicad-footprints-rf_antenna-texas_swra117d_24ghz_right)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA117D_2.4GHz_Right>
+# 
 
 ## Tags
 
-- index: 11259
+- index: 11241
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

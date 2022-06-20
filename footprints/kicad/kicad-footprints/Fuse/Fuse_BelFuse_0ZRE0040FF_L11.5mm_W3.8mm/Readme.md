@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0040FF_L11.5mm_W3.8mm>](#footprint-kicad-kicad-footprints-fuse-fuse_belfuse_0zre0040ff_l115mm_w38mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0040FF_L11.5mm_W3.8mm>
+# 
 
 ## Tags
 
-- index: 7637
+- index: 7619
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

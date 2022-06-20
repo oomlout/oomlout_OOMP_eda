@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles>](#footprint-kicad-kicad-footprints-connector_audio-jack_35mm_qingpu_wqp-pj398sm_vertical_circularholes)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles>
+# 
 
 ## Tags
 

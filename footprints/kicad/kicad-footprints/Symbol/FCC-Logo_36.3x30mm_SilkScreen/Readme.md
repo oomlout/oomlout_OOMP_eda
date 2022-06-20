@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_36.3x30mm_SilkScreen>](#footprint-kicad-kicad-footprints-symbol-fcc-logo_363x30mm_silkscreen)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_36.3x30mm_SilkScreen>
+# 
 
 ## Tags
 
-- index: 11490
+- index: 11472
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

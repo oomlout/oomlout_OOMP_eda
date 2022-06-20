@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm>](#footprint-kicad-kicad-footprints-package_so_j-lead-tsoc-6_376x394mm_p127mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm>
+# 
 
 ## Tags
 
-- index: 10489
+- index: 10471
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

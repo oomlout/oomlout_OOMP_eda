@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric_Pad0.64x0.40mm_HandSolder>](#footprint-kicad-kicad-footprints-capacitor_smd-c_0201_0603metric_pad064x040mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric_Pad0.64x0.40mm_HandSolder>
+# 
 
 ## Tags
 

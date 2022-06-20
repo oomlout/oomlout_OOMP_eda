@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x28_P1.27mm_Vertical>](#footprint-kicad-kicad-footprints-connector_pinsocket_127mm-pinsocket_1x28_p127mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x28_P1.27mm_Vertical>
+# 
 
 ## Tags
 
-- index: 5380
+- index: 5362
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

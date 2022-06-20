@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_56.1x40mm_SilkScreen>](#footprint-kicad-kicad-footprints-symbol-ce-logo_561x40mm_silkscreen)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_56.1x40mm_SilkScreen>
+# 
 
 ## Tags
 
-- index: 11480
+- index: 11462
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

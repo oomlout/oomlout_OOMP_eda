@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm>](#footprint-kicad-kicad-footprints-led_smd-led_sk6812mini_plcc4_35x35mm_p175mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm>
+# 
 
 ## Tags
 
-- index: 8265
+- index: 8247
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

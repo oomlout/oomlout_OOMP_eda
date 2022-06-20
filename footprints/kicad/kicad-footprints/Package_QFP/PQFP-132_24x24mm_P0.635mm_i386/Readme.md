@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm_i386>](#footprint-kicad-kicad-footprints-package_qfp-pqfp-132_24x24mm_p0635mm_i386)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm_i386>
+# 
 
 ## Tags
 
-- index: 10037
+- index: 10019
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

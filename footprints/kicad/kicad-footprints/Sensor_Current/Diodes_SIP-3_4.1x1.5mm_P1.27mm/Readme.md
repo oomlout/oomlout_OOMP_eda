@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P1.27mm>](#footprint-kicad-kicad-footprints-sensor_current-diodes_sip-3_41x15mm_p127mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P1.27mm>
+# 
 
 ## Tags
 
-- index: 11426
+- index: 11408
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

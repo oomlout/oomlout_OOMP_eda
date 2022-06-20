@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-htssop-28-1ep_44x97mm_p065mm_ep285x54mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10129
+- index: 10111
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm>](#footprint-kicad-kicad-footprints-transformer_smd-transformer_currentsense_84x72mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm>
+# 
 
 ## Tags
 
-- index: 12216
+- index: 12198
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

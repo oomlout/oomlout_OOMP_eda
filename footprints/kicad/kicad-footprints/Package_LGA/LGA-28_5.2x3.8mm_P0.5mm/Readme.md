@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_lga-lga-28_52x38mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 9980
+- index: 9962
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

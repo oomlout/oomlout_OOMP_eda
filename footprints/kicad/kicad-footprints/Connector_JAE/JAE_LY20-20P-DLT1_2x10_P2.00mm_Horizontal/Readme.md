@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jae-jae_ly20-20p-dlt1_2x10_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100>](#footprint-kicad-kicad-footprints-inductor_tht-l_commonmode_toroid_vertical_l210mm_w100mm_px508mm_py1270mm_murata_5100)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100>
+# 
 
 ## Tags
 
-- index: 8022
+- index: 8004
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

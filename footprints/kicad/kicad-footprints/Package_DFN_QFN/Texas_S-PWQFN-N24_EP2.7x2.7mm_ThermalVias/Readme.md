@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_s-pwqfn-n24_ep27x27mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9547
+- index: 9529
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_1.0x1.0mm_Drill0.5mm>](#footprint-kicad-kicad-footprints-testpoint-testpoint_thtpad_10x10mm_drill05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_1.0x1.0mm_Drill0.5mm>
+# 
 
 ## Tags
 
-- index: 12191
+- index: 12173
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

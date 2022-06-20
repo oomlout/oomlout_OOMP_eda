@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53047-0510_1x05_P1.25mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_picoblade_53047-0510_1x05_p125mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53047-0510_1x05_P1.25mm_Vertical>
+# 
 
 ## Tags
 

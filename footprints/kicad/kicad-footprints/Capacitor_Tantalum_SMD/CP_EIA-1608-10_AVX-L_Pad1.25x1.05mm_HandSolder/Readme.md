@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L_Pad1.25x1.05mm_HandSolder>](#footprint-kicad-kicad-footprints-capacitor_tantalum_smd-cp_eia-1608-10_avx-l_pad125x105mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L_Pad1.25x1.05mm_HandSolder>
+# 
 
 ## Tags
 

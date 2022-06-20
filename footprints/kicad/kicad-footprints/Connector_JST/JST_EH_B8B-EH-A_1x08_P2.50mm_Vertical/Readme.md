@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_eh_b8b-eh-a_1x08_p250mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical>
+# 
 
 ## Tags
 

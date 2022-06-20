@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-209-F_29.36x18.50mm>](#footprint-kicad-kicad-footprints-rf_shielding-laird_technologies_bmi-s-209-f_2936x1850mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-209-F_29.36x18.50mm>
+# 
 
 ## Tags
 
-- index: 11380
+- index: 11362
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

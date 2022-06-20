@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AD_P3.81mm_Vertical_AnodeUp>](#footprint-kicad-kicad-footprints-diode_tht-d_do-201ad_p381mm_vertical_anodeup)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AD_P3.81mm_Vertical_AnodeUp>
+# 
 
 ## Tags
 
-- index: 7413
+- index: 7395
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

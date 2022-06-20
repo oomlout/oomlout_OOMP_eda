@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D9.8mm>](#footprint-kicad-kicad-footprints-diode_tht-diode_bridge_round_d98mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D9.8mm>
+# 
 
 ## Tags
 
-- index: 7376
+- index: 7358
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

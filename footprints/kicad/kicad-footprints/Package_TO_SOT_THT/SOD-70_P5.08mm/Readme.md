@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P5.08mm>](#footprint-kicad-kicad-footprints-package_to_sot_tht-sod-70_p508mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P5.08mm>
+# 
 
 ## Tags
 
-- index: 10626
+- index: 10608
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0005_1x05_P3.96mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_kk-396_a-41792-0005_1x05_p396mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41792-0005_1x05_P3.96mm_Horizontal>
+# 
 
 ## Tags
 

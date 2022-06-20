@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_ecs_csm3x-2pin_76x41mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm>
+# 
 
 ## Tags
 
-- index: 7200
+- index: 7182
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

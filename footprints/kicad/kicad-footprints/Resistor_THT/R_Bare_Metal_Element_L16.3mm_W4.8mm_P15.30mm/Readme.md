@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm>](#footprint-kicad-kicad-footprints-resistor_tht-r_bare_metal_element_l163mm_w48mm_p1530mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm>
+# 
 
 ## Tags
 
-- index: 11239
+- index: 11221
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

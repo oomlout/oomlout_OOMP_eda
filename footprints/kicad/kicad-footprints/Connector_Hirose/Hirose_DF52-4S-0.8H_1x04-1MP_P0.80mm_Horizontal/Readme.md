@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-4S-0.8H_1x04-1MP_P0.80mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_hirose-hirose_df52-4s-08h_1x04-1mp_p080mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-4S-0.8H_1x04-1MP_P0.80mm_Horizontal>
+# 
 
 ## Tags
 

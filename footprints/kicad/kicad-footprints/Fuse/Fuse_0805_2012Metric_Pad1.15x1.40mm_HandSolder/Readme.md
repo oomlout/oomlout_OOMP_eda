@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder>](#footprint-kicad-kicad-footprints-fuse-fuse_0805_2012metric_pad115x140mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 7618
+- index: 7600
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

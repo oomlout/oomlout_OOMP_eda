@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm>](#footprint-kicad-kicad-footprints-sensor_current-allegro_qsop-24_39x87mm_p0635mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm>
+# 
 
 ## Tags
 
-- index: 11423
+- index: 11405
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

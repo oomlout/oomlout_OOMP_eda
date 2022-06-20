@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Socket-3M_Textool_240-1288-00-0602J_2x20_P2.54mm>](#footprint-kicad-kicad-footprints-socket-3m_textool_240-1288-00-0602j_2x20_p254mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Socket-3M_Textool_240-1288-00-0602J_2x20_P2.54mm>
+# 
 
 ## Tags
 
-- index: 11461
+- index: 11443
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

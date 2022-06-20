@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_jwpf_b04b-jwpf-sk-r_1x04_p200mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical>
+# 
 
 ## Tags
 

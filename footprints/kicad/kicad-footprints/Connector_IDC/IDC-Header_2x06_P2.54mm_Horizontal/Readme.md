@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x06_P2.54mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_idc-idc-header_2x06_p254mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x06_P2.54mm_Horizontal>
+# 
 
 ## Tags
 

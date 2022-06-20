@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_qfp-eqfp-144-1ep_20x20mm_p05mm_ep72x635mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9998
+- index: 9980
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

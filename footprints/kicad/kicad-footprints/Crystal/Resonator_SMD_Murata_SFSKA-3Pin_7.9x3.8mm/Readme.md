@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm>](#footprint-kicad-kicad-footprints-crystal-resonator_smd_murata_sfska-3pin_79x38mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm>
+# 
 
 ## Tags
 
-- index: 7286
+- index: 7268
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

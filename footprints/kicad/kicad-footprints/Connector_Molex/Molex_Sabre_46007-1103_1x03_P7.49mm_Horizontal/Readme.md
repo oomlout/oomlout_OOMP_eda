@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_sabre_46007-1103_1x03_p749mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1103_1x03_P7.49mm_Horizontal>
+# 
 
 ## Tags
 

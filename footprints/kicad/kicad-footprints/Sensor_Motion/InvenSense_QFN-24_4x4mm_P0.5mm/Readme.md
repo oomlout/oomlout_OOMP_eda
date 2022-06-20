@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_4x4mm_P0.5mm>](#footprint-kicad-kicad-footprints-sensor_motion-invensense_qfn-24_4x4mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_4x4mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 11454
+- index: 11436
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical>](#footprint-kicad-kicad-footprints-optodevice-r_ldr_12x108mm_p90mm_vertical)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical>
+# 
 
 ## Tags
 
-- index: 8803
+- index: 8785
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

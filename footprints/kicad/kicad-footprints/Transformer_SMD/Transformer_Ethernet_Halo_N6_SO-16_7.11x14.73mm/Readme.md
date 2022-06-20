@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm>](#footprint-kicad-kicad-footprints-transformer_smd-transformer_ethernet_halo_n6_so-16_711x1473mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm>
+# 
 
 ## Tags
 
-- index: 12221
+- index: 12203
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

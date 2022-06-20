@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm>](#footprint-kicad-kicad-footprints-led_smd-led_1206_3216metric_reversemount_hole18x24mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm>
+# 
 
 ## Tags
 
-- index: 8210
+- index: 8192
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

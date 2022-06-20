@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm>](#footprint-kicad-kicad-footprints-connector_dsub-dsub-62-hd_female_horizontal_p241x198mm_edgepinoffset940mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm>
+# 
 
 ## Tags
 

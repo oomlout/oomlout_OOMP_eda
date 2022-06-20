@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502494-0470_1x04-1MP_P2.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_clik-mate_502494-0470_1x04-1mp_p200mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502494-0470_1x04-1MP_P2.00mm_Horizontal>
+# 
 
 ## Tags
 

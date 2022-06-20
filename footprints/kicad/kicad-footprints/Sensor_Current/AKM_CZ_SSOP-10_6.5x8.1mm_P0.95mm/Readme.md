@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm>](#footprint-kicad-kicad-footprints-sensor_current-akm_cz_ssop-10_65x81mm_p095mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm>
+# 
 
 ## Tags
 
-- index: 11417
+- index: 11399
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_12-GF-3.81_1x12_P3.81mm_Horizontal_ThreadedFlange_MountHole>](#footprint-kicad-kicad-footprints-connector_phoenix_mc-phoenixcontact_mc_15_12-gf-381_1x12_p381mm_horizontal_threadedflange_mounthole)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_12-GF-3.81_1x12_P3.81mm_Horizontal_ThreadedFlange_MountHole>
+# 
 
 ## Tags
 

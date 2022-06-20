@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x17_P2.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_harwin-harwin_ltek-male_2x17_p200mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x17_P2.00mm_Vertical>
+# 
 
 ## Tags
 

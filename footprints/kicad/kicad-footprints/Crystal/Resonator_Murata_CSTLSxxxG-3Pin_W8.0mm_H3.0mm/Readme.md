@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_Murata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm>](#footprint-kicad-kicad-footprints-crystal-resonator_murata_cstlsxxxg-3pin_w80mm_h30mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_Murata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm>
+# 
 
 ## Tags
 
-- index: 7274
+- index: 7256
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

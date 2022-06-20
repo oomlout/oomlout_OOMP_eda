@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal>](#footprint-kicad-kicad-footprints-led_smd-led_kingbright_apfa3010_3x15mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 8242
+- index: 8224
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

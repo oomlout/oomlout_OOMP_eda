@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm>](#footprint-kicad-kicad-footprints-rf_mini-circuits-mini-circuits_cd542_h284mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm>
+# 
 
 ## Tags
 
-- index: 11288
+- index: 11270
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

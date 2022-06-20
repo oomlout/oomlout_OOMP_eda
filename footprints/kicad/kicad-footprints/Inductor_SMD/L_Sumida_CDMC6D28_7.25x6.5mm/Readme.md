@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_sumida_cdmc6d28_725x65mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm>
+# 
 
 ## Tags
 
-- index: 7820
+- index: 7802
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

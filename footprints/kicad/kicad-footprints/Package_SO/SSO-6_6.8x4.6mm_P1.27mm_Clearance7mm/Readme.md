@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm>](#footprint-kicad-kicad-footprints-package_so-sso-6_68x46mm_p127mm_clearance7mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm>
+# 
 
 ## Tags
 
-- index: 10271
+- index: 10253
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

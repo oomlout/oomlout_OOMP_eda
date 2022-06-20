@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm>](#footprint-kicad-kicad-footprints-optodevice-maxim_olga-14_33x56mm_p08mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm>
+# 
 
 ## Tags
 
-- index: 8786
+- index: 8768
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

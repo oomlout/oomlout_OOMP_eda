@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_DIN965>](#footprint-kicad-kicad-footprints-mountinghole-mountinghole_64mm_m6_din965)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_DIN965>
+# 
 
 ## Tags
 
-- index: 8529
+- index: 8511
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

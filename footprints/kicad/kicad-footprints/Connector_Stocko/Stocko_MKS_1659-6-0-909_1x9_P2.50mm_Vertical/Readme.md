@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_stocko-stocko_mks_1659-6-0-909_1x9_p250mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical>
+# 
 
 ## Tags
 
-- index: 6587
+- index: 6569
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

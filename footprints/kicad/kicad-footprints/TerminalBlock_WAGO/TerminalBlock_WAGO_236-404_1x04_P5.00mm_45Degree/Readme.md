@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-404_1x04_P5.00mm_45Degree>](#footprint-kicad-kicad-footprints-terminalblock_wago-terminalblock_wago_236-404_1x04_p500mm_45degree)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-404_1x04_P5.00mm_45Degree>
+# 
 
 ## Tags
 
-- index: 12067
+- index: 12049
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

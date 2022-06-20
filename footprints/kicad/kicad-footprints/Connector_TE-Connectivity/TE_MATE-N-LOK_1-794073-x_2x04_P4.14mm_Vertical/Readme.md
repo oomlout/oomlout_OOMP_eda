@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-794073-x_2x04_P4.14mm_Vertical>](#footprint-kicad-kicad-footprints-connector_te-connectivity-te_mate-n-lok_1-794073-x_2x04_p414mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-794073-x_2x04_P4.14mm_Vertical>
+# 
 
 ## Tags
 
-- index: 6639
+- index: 6621
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

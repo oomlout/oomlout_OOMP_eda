@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60-M_1x02_P7.20mm_Vertical>](#footprint-kicad-kicad-footprints-connector_amass-amass_xt60-m_1x02_p720mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60-M_1x02_P7.20mm_Vertical>
+# 
 
 ## Tags
 

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_11-GF-5,08_1x11_P5.08mm_Vertical_ThreadedFlange>](#footprint-kicad-kicad-footprints-connector_phoenix_mstb-phoenixcontact_mstbv_25_11-gf-508_1x11_p508mm_vertical_threadedflange)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBV_2,5_11-GF-5,08_1x11_P5.08mm_Vertical_ThreadedFlange>
+# 
 
 ## Tags
 

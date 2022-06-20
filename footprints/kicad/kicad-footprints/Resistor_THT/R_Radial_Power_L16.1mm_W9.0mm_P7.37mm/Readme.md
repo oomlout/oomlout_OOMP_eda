@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm>](#footprint-kicad-kicad-footprints-resistor_tht-r_radial_power_l161mm_w90mm_p737mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm>
+# 
 
 ## Tags
 
-- index: 11248
+- index: 11230
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

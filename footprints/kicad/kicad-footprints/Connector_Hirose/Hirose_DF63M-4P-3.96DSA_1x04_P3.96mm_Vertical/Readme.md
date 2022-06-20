@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical>](#footprint-kicad-kicad-footprints-connector_hirose-hirose_df63m-4p-396dsa_1x04_p396mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical>
+# 
 
 ## Tags
 

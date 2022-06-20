@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_dfn_qfn-qfn-36-1ep_5x6mm_p05mm_ep36x41mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9374
+- index: 9356
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

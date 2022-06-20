@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm>](#footprint-kicad-kicad-footprints-package_csp-lfcsp-vq-24-1ep_4x4mm_p05mm_ep2642x2642mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm>
+# 
 
 ## Tags
 
-- index: 9070
+- index: 9052
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

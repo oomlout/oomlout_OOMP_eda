@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles>](#footprint-kicad-kicad-footprints-connector_dsub-dsub-62-hd_female_vertical_p241x198mm_mountingholes)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles>
+# 
 
 ## Tags
 

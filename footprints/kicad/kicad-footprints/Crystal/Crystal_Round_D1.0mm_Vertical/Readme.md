@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D1.0mm_Vertical>](#footprint-kicad-kicad-footprints-crystal-crystal_round_d10mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D1.0mm_Vertical>
+# 
 
 ## Tags
 
-- index: 7171
+- index: 7153
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

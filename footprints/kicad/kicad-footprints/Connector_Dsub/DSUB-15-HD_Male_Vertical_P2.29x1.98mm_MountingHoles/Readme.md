@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Male_Vertical_P2.29x1.98mm_MountingHoles>](#footprint-kicad-kicad-footprints-connector_dsub-dsub-15-hd_male_vertical_p229x198mm_mountingholes)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Male_Vertical_P2.29x1.98mm_MountingHoles>
+# 
 
 ## Tags
 

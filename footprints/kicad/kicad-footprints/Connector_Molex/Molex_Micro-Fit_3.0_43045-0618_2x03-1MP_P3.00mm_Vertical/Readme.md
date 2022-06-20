@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-0618_2x03-1MP_P3.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_micro-fit_30_43045-0618_2x03-1mp_p300mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-0618_2x03-1MP_P3.00mm_Vertical>
+# 
 
 ## Tags
 

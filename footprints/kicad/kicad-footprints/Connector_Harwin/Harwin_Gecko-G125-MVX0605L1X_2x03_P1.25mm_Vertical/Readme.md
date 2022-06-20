@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical>](#footprint-kicad-kicad-footprints-connector_harwin-harwin_gecko-g125-mvx0605l1x_2x03_p125mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical>
+# 
 
 ## Tags
 

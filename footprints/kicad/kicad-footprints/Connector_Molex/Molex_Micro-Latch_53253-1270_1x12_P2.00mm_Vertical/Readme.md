@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53253-1270_1x12_P2.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_micro-latch_53253-1270_1x12_p200mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53253-1270_1x12_P2.00mm_Vertical>
+# 
 
 ## Tags
 

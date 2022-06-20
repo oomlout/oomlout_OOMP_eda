@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx03_Piano_10.8x9.18mm_W7.62mm_P2.54mm>](#footprint-kicad-kicad-footprints-button_switch_tht-sw_dip_spstx03_piano_108x918mm_w762mm_p254mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx03_Piano_10.8x9.18mm_W7.62mm_P2.54mm>
+# 
 
 ## Tags
 

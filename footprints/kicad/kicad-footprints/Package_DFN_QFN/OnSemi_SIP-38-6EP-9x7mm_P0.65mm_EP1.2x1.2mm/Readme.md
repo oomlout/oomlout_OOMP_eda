@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-onsemi_sip-38-6ep-9x7mm_p065mm_ep12x12mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm>
+# 
 
 ## Tags
 
-- index: 9253
+- index: 9235
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

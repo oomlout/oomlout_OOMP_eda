@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder>](#footprint-kicad-kicad-footprints-capacitor_tantalum_smd-cp_eia-7361-438_avx-u_pad218x330mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder>
+# 
 
 ## Tags
 

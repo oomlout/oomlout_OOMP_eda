@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jst-jst_j2100_s12b-j21dk-ggxr_2x06_p250mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S12B-J21DK-GGXR_2x06_P2.50mm_Horizontal>
+# 
 
 ## Tags
 

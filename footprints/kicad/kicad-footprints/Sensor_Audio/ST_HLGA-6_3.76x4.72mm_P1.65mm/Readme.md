@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-ST_HLGA-6_3.76x4.72mm_P1.65mm>](#footprint-kicad-kicad-footprints-sensor_audio-st_hlga-6_376x472mm_p165mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-ST_HLGA-6_3.76x4.72mm_P1.65mm>
+# 
 
 ## Tags
 
-- index: 11413
+- index: 11395
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

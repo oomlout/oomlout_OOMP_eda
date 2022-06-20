@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering>](#footprint-kicad-kicad-footprints-package_lga-bosch_lga-8_3x3mm_p08mm_clockwisepinnumbering)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering>
+# 
 
 ## Tags
 
-- index: 9970
+- index: 9952
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

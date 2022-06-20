@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02-1MP_P2.50mm_Vertical>](#footprint-kicad-kicad-footprints-terminalblock_phoenix-terminalblock_phoenix_ptsm-05-2-25-v-smd_1x02-1mp_p250mm_vertical)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02-1MP_P2.50mm_Vertical>
+# 
 
 ## Tags
 
-- index: 11857
+- index: 11839
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

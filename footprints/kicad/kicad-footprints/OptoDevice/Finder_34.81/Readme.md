@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81>](#footprint-kicad-kicad-footprints-optodevice-finder_3481)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81>
+# 
 
 ## Tags
 
-- index: 8761
+- index: 8743
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

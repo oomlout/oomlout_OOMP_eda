@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm>](#footprint-kicad-kicad-footprints-package_bga-texas_dsbga-12_136x186mm_layout3x4_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm>
+# 
 
 ## Tags
 
-- index: 8948
+- index: 8930
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

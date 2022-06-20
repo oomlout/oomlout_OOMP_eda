@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3>](#footprint-kicad-kicad-footprints-heatsink-heatsink_fischer_sk104-stcb_35x13mm__2xdrill35mm_screwm3)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3>
+# 
 
 ## Tags
 
-- index: 7696
+- index: 7678
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_auh_bm03b-auhks-ga-tb_1x03-1mp_p150mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical>
+# 
 
 ## Tags
 

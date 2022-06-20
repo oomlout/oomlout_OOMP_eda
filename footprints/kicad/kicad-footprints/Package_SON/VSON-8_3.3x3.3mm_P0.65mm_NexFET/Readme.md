@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET>](#footprint-kicad-kicad-footprints-package_son-vson-8_33x33mm_p065mm_nexfet)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET>
+# 
 
 ## Tags
 
-- index: 10454
+- index: 10436
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.0mm_D10.0mm_P30.48mm_Horizontal_Fastron_77A>](#footprint-kicad-kicad-footprints-inductor_tht-l_axial_l260mm_d100mm_p3048mm_horizontal_fastron_77a)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.0mm_D10.0mm_P30.48mm_Horizontal_Fastron_77A>
+# 
 
 ## Tags
 
-- index: 7989
+- index: 7971
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

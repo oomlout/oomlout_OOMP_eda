@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700>](#footprint-kicad-kicad-footprints-inductor_tht-l_toroid_vertical_l540mm_w238mm_p2010mm_bourns_5700)
+* [](#)
 	* [Tags](#tags)
-
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700>
+  
+![][im]
+# 
 
 ## Tags
 
-- index: 8175
+- index: 8157
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,3 +25,7 @@ Contents
 - kicadTags: L_Toroid Vertical series Radial pin pitch 20.10mm  length 54mm width 23.8mm Bourns 5700
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700.wrl
+
+
+
+[im]: image.png

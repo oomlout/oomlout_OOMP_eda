@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_22.3x20mm_Copper>](#footprint-kicad-kicad-footprints-symbol-oshw-symbol_223x20mm_copper)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_22.3x20mm_Copper>
+# 
 
 ## Tags
 
-- index: 11548
+- index: 11530
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

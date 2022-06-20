@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-6_3.8x3.8mm>](#footprint-kicad-kicad-footprints-filter-filter_saw-6_38x38mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-6_3.8x3.8mm>
+# 
 
 ## Tags
 
-- index: 7583
+- index: 7565
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

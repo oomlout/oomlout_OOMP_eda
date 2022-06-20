@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_bourns_srp7028a_73x66mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm>
+# 
 
 ## Tags
 
-- index: 7752
+- index: 7734
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

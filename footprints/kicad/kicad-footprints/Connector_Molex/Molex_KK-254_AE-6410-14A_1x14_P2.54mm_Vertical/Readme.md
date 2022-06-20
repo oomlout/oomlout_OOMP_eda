@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-254_AE-6410-14A_1x14_P2.54mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_kk-254_ae-6410-14a_1x14_p254mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-254_AE-6410-14A_1x14_P2.54mm_Vertical>
+# 
 
 ## Tags
 

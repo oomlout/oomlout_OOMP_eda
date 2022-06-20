@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_sur_bm02b-surs-tf_1x02-1mp_p080mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM02B-SURS-TF_1x02-1MP_P0.80mm_Vertical>
+# 
 
 ## Tags
 

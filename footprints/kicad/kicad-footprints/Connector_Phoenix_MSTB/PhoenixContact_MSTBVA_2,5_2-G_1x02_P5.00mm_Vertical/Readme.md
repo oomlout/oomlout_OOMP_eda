@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_phoenix_mstb-phoenixcontact_mstbva_25_2-g_1x02_p500mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical>
+# 
 
 ## Tags
 

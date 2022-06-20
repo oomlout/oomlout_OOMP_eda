@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360>](#footprint-kicad-kicad-footprints-mounting_wuerth-mounting_wuerth_wa-smsr-m3_h41mm_reversemount_9775041360)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H4.1mm_ReverseMount_9775041360>
+# 
 
 ## Tags
 
-- index: 8647
+- index: 8629
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

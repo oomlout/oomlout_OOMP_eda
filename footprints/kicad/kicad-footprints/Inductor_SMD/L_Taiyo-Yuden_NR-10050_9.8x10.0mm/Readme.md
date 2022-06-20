@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-10050_9.8x10.0mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_taiyo-yuden_nr-10050_98x100mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-10050_9.8x10.0mm>
+# 
 
 ## Tags
 
-- index: 7828
+- index: 7810
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

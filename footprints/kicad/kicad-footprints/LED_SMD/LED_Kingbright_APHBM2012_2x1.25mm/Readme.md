@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APHBM2012_2x1.25mm>](#footprint-kicad-kicad-footprints-led_smd-led_kingbright_aphbm2012_2x125mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APHBM2012_2x1.25mm>
+# 
 
 ## Tags
 
-- index: 8243
+- index: 8225
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

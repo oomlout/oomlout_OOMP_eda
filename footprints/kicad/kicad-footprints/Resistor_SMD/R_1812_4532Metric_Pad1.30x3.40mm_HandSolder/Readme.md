@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric_Pad1.30x3.40mm_HandSolder>](#footprint-kicad-kicad-footprints-resistor_smd-r_1812_4532metric_pad130x340mm_handsolder)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1812_4532Metric_Pad1.30x3.40mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 11108
+- index: 11090
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

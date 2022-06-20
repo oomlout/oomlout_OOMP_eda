@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Socket-DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J>](#footprint-kicad-kicad-footprints-socket-dip_socket-28_w69_w762_w1016_w127_w135_3m_228-4817-00-0602j)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Socket-DIP_Socket-28_W6.9_W7.62_W10.16_W12.7_W13.5_3M_228-4817-00-0602J>
+# 
 
 ## Tags
 
-- index: 11470
+- index: 11452
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

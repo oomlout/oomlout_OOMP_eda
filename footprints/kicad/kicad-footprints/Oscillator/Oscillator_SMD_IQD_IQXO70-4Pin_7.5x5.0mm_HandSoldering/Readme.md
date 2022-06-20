@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_iqd_iqxo70-4pin_75x50mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 8863
+- index: 8845
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

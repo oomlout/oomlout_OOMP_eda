@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Omron_A6H-6101_W6.15mm_P1.27mm>](#footprint-kicad-kicad-footprints-button_switch_smd-sw_dip_spstx06_slide_omron_a6h-6101_w615mm_p127mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Omron_A6H-6101_W6.15mm_P1.27mm>
+# 
 
 ## Tags
 

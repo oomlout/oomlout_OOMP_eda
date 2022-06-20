@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm>](#footprint-kicad-kicad-footprints-heatsink-heatsink_fischer_sk129-sts_42x25mm_2xdrill25mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm>
+# 
 
 ## Tags
 
-- index: 7697
+- index: 7679
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

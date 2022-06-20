@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm>](#footprint-kicad-kicad-footprints-package_csp-maxim_wlcsp-32_30x217mm_layout7x5_p04mm_ball027mm_pad025mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_CSP-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm>
+# 
 
 ## Tags
 
-- index: 9076
+- index: 9058
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

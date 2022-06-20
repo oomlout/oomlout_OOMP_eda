@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-11_P10.00mm>](#footprint-kicad-kicad-footprints-terminalblock_dinkle-terminalblock_dinkle_dt-55-b01x-11_p1000mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-11_P10.00mm>
+# 
 
 ## Tags
 
-- index: 11688
+- index: 11670
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

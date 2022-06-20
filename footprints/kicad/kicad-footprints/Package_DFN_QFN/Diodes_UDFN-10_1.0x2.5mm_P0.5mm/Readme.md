@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN-10_1.0x2.5mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-diodes_udfn-10_10x25mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN-10_1.0x2.5mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 9211
+- index: 9193
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

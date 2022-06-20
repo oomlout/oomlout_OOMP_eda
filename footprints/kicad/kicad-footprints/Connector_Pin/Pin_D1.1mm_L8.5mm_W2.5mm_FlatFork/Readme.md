@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork>](#footprint-kicad-kicad-footprints-connector_pin-pin_d11mm_l85mm_w25mm_flatfork)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork>
+# 
 
 ## Tags
 

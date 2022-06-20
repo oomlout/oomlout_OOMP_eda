@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm>](#footprint-kicad-kicad-footprints-package_son-texas_r-pwson-n12_ep04x2mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm>
+# 
 
 ## Tags
 
-- index: 10439
+- index: 10421
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_txc_ax_8045-2pin_80x45mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm>
+# 
 
 ## Tags
 
-- index: 7265
+- index: 7247
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

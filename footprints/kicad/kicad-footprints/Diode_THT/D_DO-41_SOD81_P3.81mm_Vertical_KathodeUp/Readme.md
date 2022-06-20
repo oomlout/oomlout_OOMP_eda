@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P3.81mm_Vertical_KathodeUp>](#footprint-kicad-kicad-footprints-diode_tht-d_do-41_sod81_p381mm_vertical_kathodeup)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P3.81mm_Vertical_KathodeUp>
+# 
 
 ## Tags
 
-- index: 7457
+- index: 7439
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

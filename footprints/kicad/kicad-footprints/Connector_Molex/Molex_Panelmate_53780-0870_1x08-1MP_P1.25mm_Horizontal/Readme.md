@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_panelmate_53780-0870_1x08-1mp_p125mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-0870_1x08-1MP_P1.25mm_Horizontal>
+# 
 
 ## Tags
 

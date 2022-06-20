@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_sitime_sit9121-6pin_32x25mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm>
+# 
 
 ## Tags
 
-- index: 8883
+- index: 8865
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

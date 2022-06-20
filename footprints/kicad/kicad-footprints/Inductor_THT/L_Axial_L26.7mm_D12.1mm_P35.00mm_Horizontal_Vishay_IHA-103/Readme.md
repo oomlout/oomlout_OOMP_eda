@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103>](#footprint-kicad-kicad-footprints-inductor_tht-l_axial_l267mm_d121mm_p3500mm_horizontal_vishay_iha-103)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103>
+# 
 
 ## Tags
 
-- index: 7998
+- index: 7980
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

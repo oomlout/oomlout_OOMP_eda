@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type011_RT05506HBWC_1x06_P5.00mm_Horizontal>](#footprint-kicad-kicad-footprints-terminalblock_metzconnect-terminalblock_metzconnect_type011_rt05506hbwc_1x06_p500mm_horizontal)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type011_RT05506HBWC_1x06_P5.00mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 11720
+- index: 11702
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1106_1x06_P7.49mm_Horizontal_ThermalVias>](#footprint-kicad-kicad-footprints-connector_molex-molex_sabre_43160-1106_1x06_p749mm_horizontal_thermalvias)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-1106_1x06_P7.49mm_Horizontal_ThermalVias>
+# 
 
 ## Tags
 

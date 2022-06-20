@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-8_19x3mm_P2.54mm>](#footprint-kicad-kicad-footprints-package_sip-sip-8_19x3mm_p254mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-8_19x3mm_P2.54mm>
+# 
 
 ## Tags
 
-- index: 10079
+- index: 10061
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

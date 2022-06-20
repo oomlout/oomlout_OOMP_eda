@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm>](#footprint-kicad-kicad-footprints-package_so-infineon_pg-dso-8-27_39x49mm_ep265x3mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm>
+# 
 
 ## Tags
 
-- index: 10152
+- index: 10134
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

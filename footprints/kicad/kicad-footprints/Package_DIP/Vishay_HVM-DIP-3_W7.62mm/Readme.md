@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DIP-Vishay_HVM-DIP-3_W7.62mm>](#footprint-kicad-kicad-footprints-package_dip-vishay_hvm-dip-3_w762mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DIP-Vishay_HVM-DIP-3_W7.62mm>
+# 
 
 ## Tags
 
-- index: 9912
+- index: 9894
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

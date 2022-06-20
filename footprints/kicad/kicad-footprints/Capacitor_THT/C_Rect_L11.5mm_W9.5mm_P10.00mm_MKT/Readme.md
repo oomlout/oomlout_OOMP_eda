@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L11.5mm_W9.5mm_P10.00mm_MKT>](#footprint-kicad-kicad-footprints-capacitor_tht-c_rect_l115mm_w95mm_p1000mm_mkt)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L11.5mm_W9.5mm_P10.00mm_MKT>
+# 
 
 ## Tags
 

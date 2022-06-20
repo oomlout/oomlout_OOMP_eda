@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x13_P5.00mm_45-Degree>](#footprint-kicad-kicad-footprints-terminalblock_altech-altech_ak300_1x13_p500mm_45-degree)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x13_P5.00mm_45-Degree>
+# 
 
 ## Tags
 
-- index: 11667
+- index: 11649
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

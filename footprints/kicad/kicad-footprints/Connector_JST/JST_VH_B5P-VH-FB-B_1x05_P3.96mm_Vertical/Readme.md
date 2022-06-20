@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B5P-VH-FB-B_1x05_P3.96mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_vh_b5p-vh-fb-b_1x05_p396mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B5P-VH-FB-B_1x05_P3.96mm_Vertical>
+# 
 
 ## Tags
 

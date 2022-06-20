@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Lock_504050-0591_1x05-1MP_P1.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_pico-lock_504050-0591_1x05-1mp_p150mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Lock_504050-0591_1x05-1MP_P1.50mm_Horizontal>
+# 
 
 ## Tags
 

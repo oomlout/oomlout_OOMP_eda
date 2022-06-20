@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x25_P2.54mm_Latch_Vertical>](#footprint-kicad-kicad-footprints-connector_idc-idc-header_2x25_p254mm_latch_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x25_P2.54mm_Latch_Vertical>
+# 
 
 ## Tags
 

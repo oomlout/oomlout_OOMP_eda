@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm>](#footprint-kicad-kicad-footprints-package_bga-fujitsu_wlp-15_228x3092mm_layout3x5_p04mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm>
+# 
 
 ## Tags
 
-- index: 8926
+- index: 8908
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

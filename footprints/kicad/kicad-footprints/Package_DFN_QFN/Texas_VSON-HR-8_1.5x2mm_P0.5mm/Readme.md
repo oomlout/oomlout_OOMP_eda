@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VSON-HR-8_1.5x2mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_vson-hr-8_15x2mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VSON-HR-8_1.5x2mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 9553
+- index: 9535
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

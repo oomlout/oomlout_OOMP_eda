@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_phoenix_mc-phoenixcontact_mc_15_3-g-35_1x03_p350mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal>
+# 
 
 ## Tags
 

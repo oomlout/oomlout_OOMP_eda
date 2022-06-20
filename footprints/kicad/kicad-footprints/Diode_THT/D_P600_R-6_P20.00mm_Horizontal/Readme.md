@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal>](#footprint-kicad-kicad-footprints-diode_tht-d_p600_r-6_p2000mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 7462
+- index: 7444
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

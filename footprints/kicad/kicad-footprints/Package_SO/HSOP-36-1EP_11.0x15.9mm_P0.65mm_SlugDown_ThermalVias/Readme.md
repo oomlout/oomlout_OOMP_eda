@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown_ThermalVias>](#footprint-kicad-kicad-footprints-package_so-hsop-36-1ep_110x159mm_p065mm_slugdown_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown_ThermalVias>
+# 
 
 ## Tags
 
-- index: 10099
+- index: 10081
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

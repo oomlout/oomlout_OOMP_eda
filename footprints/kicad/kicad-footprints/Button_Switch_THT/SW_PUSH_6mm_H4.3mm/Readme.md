@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H4.3mm>](#footprint-kicad-kicad-footprints-button_switch_tht-sw_push_6mm_h43mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H4.3mm>
+# 
 
 ## Tags
 

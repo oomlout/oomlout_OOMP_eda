@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-09A_1x09_P3.96mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_kk-396_5273-09a_1x09_p396mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-09A_1x09_P3.96mm_Vertical>
+# 
 
 ## Tags
 

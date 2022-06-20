@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ3FD-V_Vertical>](#footprint-kicad-kicad-footprints-connector_audio-jack_635mm_neutrik_nj3fd-v_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NJ3FD-V_Vertical>
+# 
 
 ## Tags
 

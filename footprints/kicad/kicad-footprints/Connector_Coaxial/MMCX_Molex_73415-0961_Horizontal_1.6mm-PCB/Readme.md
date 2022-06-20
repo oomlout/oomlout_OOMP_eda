@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB>](#footprint-kicad-kicad-footprints-connector_coaxial-mmcx_molex_73415-0961_horizontal_16mm-pcb)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB>
+# 
 
 ## Tags
 

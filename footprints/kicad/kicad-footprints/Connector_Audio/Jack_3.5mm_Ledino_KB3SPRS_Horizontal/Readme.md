@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Ledino_KB3SPRS_Horizontal>](#footprint-kicad-kicad-footprints-connector_audio-jack_35mm_ledino_kb3sprs_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Ledino_KB3SPRS_Horizontal>
+# 
 
 ## Tags
 

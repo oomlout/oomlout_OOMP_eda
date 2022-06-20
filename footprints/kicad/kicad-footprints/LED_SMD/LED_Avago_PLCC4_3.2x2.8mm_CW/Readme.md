@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC4_3.2x2.8mm_CW>](#footprint-kicad-kicad-footprints-led_smd-led_avago_plcc4_32x28mm_cw)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC4_3.2x2.8mm_CW>
+# 
 
 ## Tags
 
-- index: 8221
+- index: 8203
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

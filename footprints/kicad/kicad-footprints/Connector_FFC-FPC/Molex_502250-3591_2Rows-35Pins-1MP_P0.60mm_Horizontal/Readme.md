@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_ffc-fpc-molex_502250-3591_2rows-35pins-1mp_p060mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal>
+# 
 
 ## Tags
 

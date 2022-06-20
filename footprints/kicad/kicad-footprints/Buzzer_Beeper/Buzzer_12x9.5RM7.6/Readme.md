@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6>](#footprint-kicad-kicad-footprints-buzzer_beeper-buzzer_12x95rm76)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6>
+# 
 
 ## Tags
 

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN102-04-14.0x14.0mm>](#footprint-kicad-kicad-footprints-inductor_tht-choke_schaffner_rn102-04-140x140mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN102-04-14.0x14.0mm>
+# 
 
 ## Tags
 
-- index: 7926
+- index: 7908
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

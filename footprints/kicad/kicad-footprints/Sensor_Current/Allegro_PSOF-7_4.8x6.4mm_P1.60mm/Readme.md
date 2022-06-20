@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm>](#footprint-kicad-kicad-footprints-sensor_current-allegro_psof-7_48x64mm_p160mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm>
+# 
 
 ## Tags
 
-- index: 11421
+- index: 11403
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

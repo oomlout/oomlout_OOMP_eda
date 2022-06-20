@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8>](#footprint-kicad-kicad-footprints-inductor_smd-l_104x104_h48)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8>
+# 
 
 ## Tags
 
-- index: 7713
+- index: 7695
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

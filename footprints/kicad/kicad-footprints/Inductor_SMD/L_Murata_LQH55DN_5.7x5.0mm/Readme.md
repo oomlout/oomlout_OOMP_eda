@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_murata_lqh55dn_57x50mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm>
+# 
 
 ## Tags
 
-- index: 7775
+- index: 7757
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

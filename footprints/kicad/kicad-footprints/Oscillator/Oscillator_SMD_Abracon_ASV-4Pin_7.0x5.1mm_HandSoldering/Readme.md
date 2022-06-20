@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_abracon_asv-4pin_70x51mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 8839
+- index: 8821
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

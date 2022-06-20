@@ -5,14 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm>](#footprint-kicad-kicad-footprints-jumper-solderjumper-2_p13mm_bridged_pad10x15mm)
+* [](#)
 	* [Tags](#tags)
-
-# FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm>
+  
+![][im]
+# 
 
 ## Tags
 
-- index: 8179
+- index: 8161
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -23,3 +24,7 @@ Contents
 - kicadDesc: SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
 - kicadTags: net tie solder jumper bridged
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

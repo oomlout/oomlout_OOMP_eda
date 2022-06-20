@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_2.225x2.17mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_csp-wlcsp-16_2225x217mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_2.225x2.17mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 9122
+- index: 9104
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

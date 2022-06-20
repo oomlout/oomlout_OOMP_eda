@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open>](#footprint-kicad-kicad-footprints-fuse-fuseholder_cylinder-63x32mm_schurter_0031-8002_horizontal_open)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open>
+# 
 
 ## Tags
 
-- index: 7601
+- index: 7583
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

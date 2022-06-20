@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Finder_40.52>](#footprint-kicad-kicad-footprints-relay_tht-relay_dpdt_finder_4052)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Finder_40.52>
+# 
 
 ## Tags
 
-- index: 11014
+- index: 10996
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

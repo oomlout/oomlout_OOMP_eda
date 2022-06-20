@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-27_P15.24mm_Horizontal>](#footprint-kicad-kicad-footprints-diode_tht-d_do-27_p1524mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-27_P15.24mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 7433
+- index: 7415
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal>](#footprint-kicad-kicad-footprints-capacitor_tht-c_axial_l220mm_d95mm_p2750mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L22.0mm_D9.5mm_P27.50mm_Horizontal>
+# 
 
 ## Tags
 

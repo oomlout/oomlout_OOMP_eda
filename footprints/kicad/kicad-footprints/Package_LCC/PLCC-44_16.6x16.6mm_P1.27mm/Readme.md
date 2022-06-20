@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_16.6x16.6mm_P1.27mm>](#footprint-kicad-kicad-footprints-package_lcc-plcc-44_166x166mm_p127mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_16.6x16.6mm_P1.27mm>
+# 
 
 ## Tags
 
-- index: 9951
+- index: 9933
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

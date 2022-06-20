@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x2.5mm_P0.5mm_EP1.2x1.5mm_PullBack>](#footprint-kicad-kicad-footprints-package_son-wson-8-1ep_3x25mm_p05mm_ep12x15mm_pullback)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x2.5mm_P0.5mm_EP1.2x1.5mm_PullBack>
+# 
 
 ## Tags
 
-- index: 10473
+- index: 10455
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

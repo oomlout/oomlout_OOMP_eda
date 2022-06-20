@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_microcrystal_cc4v-t1a-2pin_50x19mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7226
+- index: 7208
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

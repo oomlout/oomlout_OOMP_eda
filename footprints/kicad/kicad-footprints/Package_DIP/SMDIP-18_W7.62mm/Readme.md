@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-18_W7.62mm>](#footprint-kicad-kicad-footprints-package_dip-smdip-18_w762mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-18_W7.62mm>
+# 
 
 ## Tags
 
-- index: 9874
+- index: 9856
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

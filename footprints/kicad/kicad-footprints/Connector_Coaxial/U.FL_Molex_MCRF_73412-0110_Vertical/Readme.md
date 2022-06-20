@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Molex_MCRF_73412-0110_Vertical>](#footprint-kicad-kicad-footprints-connector_coaxial-ufl_molex_mcrf_73412-0110_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Molex_MCRF_73412-0110_Vertical>
+# 
 
 ## Tags
 

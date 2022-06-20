@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x02_P6mm_D1.7mm_OD3mm_Relief2x>](#footprint-kicad-kicad-footprints-connector_wire-solderwire-15sqmm_1x02_p6mm_d17mm_od3mm_relief2x)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x02_P6mm_D1.7mm_OD3mm_Relief2x>
+# 
 
 ## Tags
 
-- index: 6933
+- index: 6915
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

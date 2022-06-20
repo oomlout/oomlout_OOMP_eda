@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_pico-spox_87437-1443_1x14-p15mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical>
+# 
 
 ## Tags
 

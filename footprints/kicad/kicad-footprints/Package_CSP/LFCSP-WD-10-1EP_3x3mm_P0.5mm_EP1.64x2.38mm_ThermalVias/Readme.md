@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_csp-lfcsp-wd-10-1ep_3x3mm_p05mm_ep164x238mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9073
+- index: 9055
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

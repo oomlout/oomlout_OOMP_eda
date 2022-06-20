@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2>](#footprint-kicad-kicad-footprints-inductor_tht-l_axial_l66mm_d27mm_p254mm_vertical_vishay_im-2)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2>
+# 
 
 ## Tags
 
-- index: 8012
+- index: 7994
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

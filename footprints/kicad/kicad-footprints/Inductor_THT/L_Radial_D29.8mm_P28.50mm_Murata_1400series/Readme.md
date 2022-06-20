@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D29.8mm_P28.50mm_Murata_1400series>](#footprint-kicad-kicad-footprints-inductor_tht-l_radial_d298mm_p2850mm_murata_1400series)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D29.8mm_P28.50mm_Murata_1400series>
+# 
 
 ## Tags
 
-- index: 8080
+- index: 8062
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

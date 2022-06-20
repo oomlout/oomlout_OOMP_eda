@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_vishay_ifsc-1515ah_4x4x18mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm>
+# 
 
 ## Tags
 
-- index: 7861
+- index: 7843
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

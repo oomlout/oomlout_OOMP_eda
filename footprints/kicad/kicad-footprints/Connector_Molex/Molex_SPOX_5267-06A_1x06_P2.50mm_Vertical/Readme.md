@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_spox_5267-06a_1x06_p250mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5267-06A_1x06_P2.50mm_Vertical>
+# 
 
 ## Tags
 

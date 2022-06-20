@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_LGA-Texas_SIL0008D_MicroSiP-8-1EP_2.8x3mm_P0.65mm_EP1.1x1.9mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_lga-texas_sil0008d_microsip-8-1ep_28x3mm_p065mm_ep11x19mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_LGA-Texas_SIL0008D_MicroSiP-8-1EP_2.8x3mm_P0.65mm_EP1.1x1.9mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9987
+- index: 9969
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

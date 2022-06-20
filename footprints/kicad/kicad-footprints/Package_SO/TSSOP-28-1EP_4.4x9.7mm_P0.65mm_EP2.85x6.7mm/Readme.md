@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm>](#footprint-kicad-kicad-footprints-package_so-tssop-28-1ep_44x97mm_p065mm_ep285x67mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm>
+# 
 
 ## Tags
 
-- index: 10360
+- index: 10342
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

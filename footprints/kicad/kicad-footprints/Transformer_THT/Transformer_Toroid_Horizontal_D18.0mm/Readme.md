@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D18.0mm>](#footprint-kicad-kicad-footprints-transformer_tht-transformer_toroid_horizontal_d180mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D18.0mm>
+# 
 
 ## Tags
 
-- index: 12287
+- index: 12269
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

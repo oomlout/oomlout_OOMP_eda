@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0014_1x14_P2.54mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_sl_171971-0014_1x14_p254mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0014_1x14_P2.54mm_Vertical>
+# 
 
 ## Tags
 

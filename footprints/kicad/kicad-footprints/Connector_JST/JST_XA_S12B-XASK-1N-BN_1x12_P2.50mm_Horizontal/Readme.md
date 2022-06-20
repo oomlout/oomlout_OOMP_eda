@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S12B-XASK-1N-BN_1x12_P2.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jst-jst_xa_s12b-xask-1n-bn_1x12_p250mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S12B-XASK-1N-BN_1x12_P2.50mm_Horizontal>
+# 
 
 ## Tags
 

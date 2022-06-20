@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_qantek_qc5cb-2pin_5x32mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm>
+# 
 
 ## Tags
 
-- index: 7237
+- index: 7219
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

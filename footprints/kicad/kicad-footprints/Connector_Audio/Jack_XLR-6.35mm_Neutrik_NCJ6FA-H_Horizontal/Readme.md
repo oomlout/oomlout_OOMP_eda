@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-H_Horizontal>](#footprint-kicad-kicad-footprints-connector_audio-jack_xlr-635mm_neutrik_ncj6fa-h_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-H_Horizontal>
+# 
 
 ## Tags
 

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-20DP-0.5V_2x10_P0.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_hirose-hirose_df12_df12e30-20dp-05v_2x10_p050mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-20DP-0.5V_2x10_P0.50mm_Vertical>
+# 
 
 ## Tags
 

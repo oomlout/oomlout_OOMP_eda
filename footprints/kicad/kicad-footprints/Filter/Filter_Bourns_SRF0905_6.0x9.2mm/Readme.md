@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm>](#footprint-kicad-kicad-footprints-filter-filter_bourns_srf0905_60x92mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm>
+# 
 
 ## Tags
 
-- index: 7571
+- index: 7553
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

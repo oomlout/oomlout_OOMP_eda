@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P12.70mm_Horizontal>](#footprint-kicad-kicad-footprints-diode_tht-d_do-34_sod68_p1270mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P12.70mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 7437
+- index: 7419
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

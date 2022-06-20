@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_seikoepson_mc406-4pin_96x41mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm>
+# 
 
 ## Tags
 
-- index: 7256
+- index: 7238
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

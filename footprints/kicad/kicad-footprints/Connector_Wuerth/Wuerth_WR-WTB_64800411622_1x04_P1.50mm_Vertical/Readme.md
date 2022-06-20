@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800411622_1x04_P1.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_wuerth-wuerth_wr-wtb_64800411622_1x04_p150mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800411622_1x04_P1.50mm_Vertical>
+# 
 
 ## Tags
 
-- index: 7019
+- index: 7001
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

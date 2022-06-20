@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_g8-2pin_32x15mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm>
+# 
 
 ## Tags
 
-- index: 7219
+- index: 7201
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

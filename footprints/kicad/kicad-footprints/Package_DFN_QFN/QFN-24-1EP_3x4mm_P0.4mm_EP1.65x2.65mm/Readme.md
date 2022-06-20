@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-qfn-24-1ep_3x4mm_p04mm_ep165x265mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_3x4mm_P0.4mm_EP1.65x2.65mm>
+# 
 
 ## Tags
 
-- index: 9306
+- index: 9288
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

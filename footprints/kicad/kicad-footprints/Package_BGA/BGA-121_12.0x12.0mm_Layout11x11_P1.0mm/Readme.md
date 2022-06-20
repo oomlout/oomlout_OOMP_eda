@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm>](#footprint-kicad-kicad-footprints-package_bga-bga-121_120x120mm_layout11x11_p10mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm>
+# 
 
 ## Tags
 
-- index: 8892
+- index: 8874
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

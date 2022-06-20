@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder>](#footprint-kicad-kicad-footprints-led_smd-led_1812_4532metric_pad130x340mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 8214
+- index: 8196
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

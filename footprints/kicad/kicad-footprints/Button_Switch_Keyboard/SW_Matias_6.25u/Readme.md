@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_6.25u>](#footprint-kicad-kicad-footprints-button_switch_keyboard-sw_matias_625u)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_6.25u>
+# 
 
 ## Tags
 

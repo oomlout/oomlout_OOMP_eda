@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0016_2x08_P1.27mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_picoflex_90325-0016_2x08_p127mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0016_2x08_P1.27mm_Vertical>
+# 
 
 ## Tags
 

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGE0024H_EP2.7x2.7mm_ThermalVias>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_rge0024h_ep27x27mm_thermalvias)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGE0024H_EP2.7x2.7mm_ThermalVias>
+# 
 
 ## Tags
 
-- index: 9500
+- index: 9482
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

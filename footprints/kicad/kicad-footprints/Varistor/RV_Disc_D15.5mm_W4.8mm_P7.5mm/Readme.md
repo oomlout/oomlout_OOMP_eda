@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D15.5mm_W4.8mm_P7.5mm>](#footprint-kicad-kicad-footprints-varistor-rv_disc_d155mm_w48mm_p75mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D15.5mm_W4.8mm_P7.5mm>
+# 
 
 ## Tags
 
-- index: 12343
+- index: 12325
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm>](#footprint-kicad-kicad-footprints-package_bga-micron_fbga-96_75x135mm_layout9x16_p08mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm>
+# 
 
 ## Tags
 
-- index: 8943
+- index: 8925
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2>](#footprint-kicad-kicad-footprints-inductor_tht-l_toroid_vertical_l165mm_w114mm_p762mm_pulse_km-2)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2>
+# 
 
 ## Tags
 
-- index: 8151
+- index: 8133
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

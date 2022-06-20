@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-resonator_smd_murata_sfecv-3pin_69x29mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7285
+- index: 7267
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

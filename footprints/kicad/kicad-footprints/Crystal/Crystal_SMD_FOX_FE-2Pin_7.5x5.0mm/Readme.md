@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_fox_fe-2pin_75x50mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm>
+# 
 
 ## Tags
 
-- index: 7213
+- index: 7195
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

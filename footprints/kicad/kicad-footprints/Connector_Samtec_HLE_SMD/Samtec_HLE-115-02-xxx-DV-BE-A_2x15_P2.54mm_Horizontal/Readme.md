@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-115-02-xxx-DV-BE-A_2x15_P2.54mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_samtec_hle_smd-samtec_hle-115-02-xxx-dv-be-a_2x15_p254mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-115-02-xxx-DV-BE-A_2x15_P2.54mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 6221
+- index: 6203
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

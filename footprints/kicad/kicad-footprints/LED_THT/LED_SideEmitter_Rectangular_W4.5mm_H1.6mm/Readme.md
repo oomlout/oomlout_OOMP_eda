@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm>](#footprint-kicad-kicad-footprints-led_tht-led_sideemitter_rectangular_w45mm_h16mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm>
+# 
 
 ## Tags
 
-- index: 8348
+- index: 8330
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

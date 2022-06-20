@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_1-826576-3_1x13_P3.96mm_Vertical>](#footprint-kicad-kicad-footprints-connector_te-connectivity-te_1-826576-3_1x13_p396mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_1-826576-3_1x13_P3.96mm_Vertical>
+# 
 
 ## Tags
 
-- index: 6599
+- index: 6581
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

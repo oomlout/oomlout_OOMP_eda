@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded>](#footprint-kicad-kicad-footprints-testpoint-testpoint_loop_d260mm_drill14mm_beaded)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded>
+# 
 
 ## Tags
 
-- index: 12168
+- index: 12150
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

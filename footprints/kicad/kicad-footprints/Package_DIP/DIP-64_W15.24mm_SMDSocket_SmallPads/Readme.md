@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_SMDSocket_SmallPads>](#footprint-kicad-kicad-footprints-package_dip-dip-64_w1524mm_smdsocket_smallpads)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_SMDSocket_SmallPads>
+# 
 
 ## Tags
 
-- index: 9812
+- index: 9794
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger>](#footprint-kicad-kicad-footprints-package_csp-wlcsp-12_1403x1555mm_p04mm_stagger)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger>
+# 
 
 ## Tags
 
-- index: 9119
+- index: 9101
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

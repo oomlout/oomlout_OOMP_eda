@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder>](#footprint-kicad-kicad-footprints-resistor_smd-r_01005_0402metric_pad057x030mm_handsolder)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric_Pad0.57x0.30mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 11086
+- index: 11068
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

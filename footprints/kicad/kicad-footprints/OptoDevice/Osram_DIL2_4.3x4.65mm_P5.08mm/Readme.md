@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm>](#footprint-kicad-kicad-footprints-optodevice-osram_dil2_43x465mm_p508mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm>
+# 
 
 ## Tags
 
-- index: 8791
+- index: 8773
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

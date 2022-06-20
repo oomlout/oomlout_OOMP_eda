@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_abracon_ase-4pin_32x25mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm>
+# 
 
 ## Tags
 
-- index: 8836
+- index: 8818
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

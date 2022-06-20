@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm>](#footprint-kicad-kicad-footprints-heatsink-heatsink_stonecold_hs-132_32x14mm_2xfixation15mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm>
+# 
 
 ## Tags
 
-- index: 7699
+- index: 7681
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-08A_1x08_P2.50mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_molex-molex_spox_5268-08a_1x08_p250mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SPOX_5268-08A_1x08_P2.50mm_Horizontal>
+# 
 
 ## Tags
 

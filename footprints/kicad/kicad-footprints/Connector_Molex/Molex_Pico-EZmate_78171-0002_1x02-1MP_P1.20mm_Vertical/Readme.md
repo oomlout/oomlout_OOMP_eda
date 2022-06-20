@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_pico-ezmate_78171-0002_1x02-1mp_p120mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical>
+# 
 
 ## Tags
 

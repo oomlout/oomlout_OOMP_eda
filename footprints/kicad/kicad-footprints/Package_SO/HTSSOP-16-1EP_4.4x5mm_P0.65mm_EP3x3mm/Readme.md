@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm>](#footprint-kicad-kicad-footprints-package_so-htssop-16-1ep_44x5mm_p065mm_ep3x3mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm>
+# 
 
 ## Tags
 
-- index: 10110
+- index: 10092
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

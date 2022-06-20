@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown>](#footprint-kicad-kicad-footprints-package_to_sot_tht-to-220-9_p194x38mm_staggereven_lead585mm_tabdown)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown>
+# 
 
 ## Tags
 
-- index: 10695
+- index: 10677
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

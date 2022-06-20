@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Neosid_SD12_style2>](#footprint-kicad-kicad-footprints-inductor_tht-l_radial_d120mm_p500mm_neosid_sd12_style2)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D12.0mm_P5.00mm_Neosid_SD12_style2>
+# 
 
 ## Tags
 
-- index: 8054
+- index: 8036
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

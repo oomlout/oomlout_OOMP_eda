@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_LGA-Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm>](#footprint-kicad-kicad-footprints-package_lga-texas_sil0010a_microsip-10-1ep_38x3mm_p06mm_ep07x29mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_LGA-Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm>
+# 
 
 ## Tags
 
-- index: 9988
+- index: 9970
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

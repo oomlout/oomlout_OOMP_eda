@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D8.0mm-3>](#footprint-kicad-kicad-footprints-led_tht-led_d80mm-3)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D8.0mm-3>
+# 
 
 ## Tags
 
-- index: 8329
+- index: 8311
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

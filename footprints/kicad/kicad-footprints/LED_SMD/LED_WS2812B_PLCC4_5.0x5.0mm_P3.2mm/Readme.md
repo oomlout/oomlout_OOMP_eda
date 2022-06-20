@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm>](#footprint-kicad-kicad-footprints-led_smd-led_ws2812b_plcc4_50x50mm_p32mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm>
+# 
 
 ## Tags
 
-- index: 8268
+- index: 8250
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

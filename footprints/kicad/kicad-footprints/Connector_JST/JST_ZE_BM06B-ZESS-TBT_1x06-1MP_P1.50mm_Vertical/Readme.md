@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM06B-ZESS-TBT_1x06-1MP_P1.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_jst-jst_ze_bm06b-zess-tbt_1x06-1mp_p150mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM06B-ZESS-TBT_1x06-1MP_P1.50mm_Vertical>
+# 
 
 ## Tags
 

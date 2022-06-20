@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm>](#footprint-kicad-kicad-footprints-led_smd-led_sk6812_ec15_15x15mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm>
+# 
 
 ## Tags
 
-- index: 8266
+- index: 8248
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

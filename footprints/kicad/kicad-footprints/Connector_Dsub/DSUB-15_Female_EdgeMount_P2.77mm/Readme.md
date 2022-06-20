@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_EdgeMount_P2.77mm>](#footprint-kicad-kicad-footprints-connector_dsub-dsub-15_female_edgemount_p277mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_EdgeMount_P2.77mm>
+# 
 
 ## Tags
 

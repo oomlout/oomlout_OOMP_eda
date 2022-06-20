@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8>](#footprint-kicad-kicad-footprints-inductor_tht-l_radial_l80mm_w80mm_p500mm_neosid_sd8)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8>
+# 
 
 ## Tags
 
-- index: 8111
+- index: 8093
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

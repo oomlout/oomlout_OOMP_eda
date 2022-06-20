@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_samtec-samtec_lshm-120-xxx-x-dv-n_2x20_p050mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical>
+# 
 
 ## Tags
 
-- index: 6138
+- index: 6120
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm>](#footprint-kicad-kicad-footprints-sensor_audio-knowles_lga-5_35x265mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm>
+# 
 
 ## Tags
 
-- index: 11412
+- index: 11394
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

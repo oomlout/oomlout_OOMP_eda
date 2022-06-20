@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_euroquartz_eq161-2pin_32x15mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm>
+# 
 
 ## Tags
 
-- index: 7201
+- index: 7183
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

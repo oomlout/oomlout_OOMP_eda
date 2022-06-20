@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_seikoepson_tsx3225-4pin_32x25mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm>
+# 
 
 ## Tags
 
-- index: 7258
+- index: 7240
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

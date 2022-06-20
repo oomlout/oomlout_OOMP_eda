@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0805_2012Metric_Pad1.15x1.40mm_HandSolder>](#footprint-kicad-kicad-footprints-inductor_smd-l_0805_2012metric_pad115x140mm_handsolder)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0805_2012Metric_Pad1.15x1.40mm_HandSolder>
+# 
 
 ## Tags
 
-- index: 7710
+- index: 7692
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

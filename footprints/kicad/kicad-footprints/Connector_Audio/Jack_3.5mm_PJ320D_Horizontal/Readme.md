@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320D_Horizontal>](#footprint-kicad-kicad-footprints-connector_audio-jack_35mm_pj320d_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320D_Horizontal>
+# 
 
 ## Tags
 

@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_nano-fit_105310-xx08_2x04_p250mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical>
+# 
 
 ## Tags
 

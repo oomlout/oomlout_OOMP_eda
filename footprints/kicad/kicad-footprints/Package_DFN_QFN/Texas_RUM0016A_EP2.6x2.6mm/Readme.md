@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RUM0016A_EP2.6x2.6mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_rum0016a_ep26x26mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RUM0016A_EP2.6x2.6mm>
+# 
 
 ## Tags
 
-- index: 9506
+- index: 9488
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

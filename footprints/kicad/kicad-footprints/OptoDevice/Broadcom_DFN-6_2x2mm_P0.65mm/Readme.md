@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm>](#footprint-kicad-kicad-footprints-optodevice-broadcom_dfn-6_2x2mm_p065mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm>
+# 
 
 ## Tags
 
-- index: 8755
+- index: 8737
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

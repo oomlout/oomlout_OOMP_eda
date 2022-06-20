@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm>](#footprint-kicad-kicad-footprints-led_smd-led_luminus_mp-3030-1100_30x30mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm>
+# 
 
 ## Tags
 
-- index: 8249
+- index: 8231
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

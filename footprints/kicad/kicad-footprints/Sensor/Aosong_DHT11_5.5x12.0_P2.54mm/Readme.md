@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm>](#footprint-kicad-kicad-footprints-sensor-aosong_dht11_55x120_p254mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm>
+# 
 
 ## Tags
 
-- index: 11402
+- index: 11384
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

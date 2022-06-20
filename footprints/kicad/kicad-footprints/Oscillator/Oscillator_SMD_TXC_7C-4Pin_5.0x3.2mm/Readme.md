@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_txc_7c-4pin_50x32mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm>
+# 
 
 ## Tags
 
-- index: 8885
+- index: 8867
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

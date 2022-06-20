@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89006xx_1x06_P2.54mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_harwin-harwin_m20-89006xx_1x06_p254mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89006xx_1x06_P2.54mm_Horizontal>
+# 
 
 ## Tags
 

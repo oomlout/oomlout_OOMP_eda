@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_tdk_nlv25_25x20mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm>
+# 
 
 ## Tags
 
-- index: 7844
+- index: 7826
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

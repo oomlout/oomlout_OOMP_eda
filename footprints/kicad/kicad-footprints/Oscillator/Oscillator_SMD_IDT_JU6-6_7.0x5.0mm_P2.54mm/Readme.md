@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_idt_ju6-6_70x50mm_p254mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm>
+# 
 
 ## Tags
 
-- index: 8861
+- index: 8843
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

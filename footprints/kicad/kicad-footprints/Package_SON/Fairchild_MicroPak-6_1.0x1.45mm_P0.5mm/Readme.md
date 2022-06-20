@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm>](#footprint-kicad-kicad-footprints-package_son-fairchild_micropak-6_10x145mm_p05mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm>
+# 
 
 ## Tags
 
-- index: 10419
+- index: 10401
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

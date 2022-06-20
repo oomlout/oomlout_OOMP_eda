@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SHL_SM26B-SHLS-TF_1x26-1MP_P1.00mm_Horizontal>](#footprint-kicad-kicad-footprints-connector_jst-jst_shl_sm26b-shls-tf_1x26-1mp_p100mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SHL_SM26B-SHLS-TF_1x26-1MP_P1.00mm_Horizontal>
+# 
 
 ## Tags
 

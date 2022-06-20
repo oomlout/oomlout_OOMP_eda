@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N24_EP2.1x2.1mm>](#footprint-kicad-kicad-footprints-package_dfn_qfn-texas_s-pvqfn-n24_ep21x21mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N24_EP2.1x2.1mm>
+# 
 
 ## Tags
 
-- index: 9523
+- index: 9505
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

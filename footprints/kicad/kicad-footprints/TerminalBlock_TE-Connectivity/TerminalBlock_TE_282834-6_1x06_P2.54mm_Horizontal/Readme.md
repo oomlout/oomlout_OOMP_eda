@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_TE-Connectivity-TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal>](#footprint-kicad-kicad-footprints-terminalblock_te-connectivity-terminalblock_te_282834-6_1x06_p254mm_horizontal)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_TE-Connectivity-TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 12022
+- index: 12004
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm>](#footprint-kicad-kicad-footprints-rf_module-garmin_m8-35_98x140mm_layout6x6_p15mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm>
+# 
 
 ## Tags
 
-- index: 11337
+- index: 11319
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

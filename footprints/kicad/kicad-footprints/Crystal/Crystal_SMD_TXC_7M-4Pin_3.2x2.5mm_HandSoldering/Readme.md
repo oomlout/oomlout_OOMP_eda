@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm_HandSoldering>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_txc_7m-4pin_32x25mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 7262
+- index: 7244
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

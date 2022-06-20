@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3>](#footprint-kicad-kicad-footprints-optodevice-laserdiode_to18-d56-3)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3>
+# 
 
 ## Tags
 
-- index: 8773
+- index: 8755
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

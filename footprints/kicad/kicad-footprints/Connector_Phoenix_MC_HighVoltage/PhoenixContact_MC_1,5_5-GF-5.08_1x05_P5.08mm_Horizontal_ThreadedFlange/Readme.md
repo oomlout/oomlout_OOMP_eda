@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_5-GF-5.08_1x05_P5.08mm_Horizontal_ThreadedFlange>](#footprint-kicad-kicad-footprints-connector_phoenix_mc_highvoltage-phoenixcontact_mc_15_5-gf-508_1x05_p508mm_horizontal_threadedflange)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_5-GF-5.08_1x05_P5.08mm_Horizontal_ThreadedFlange>
+# 
 
 ## Tags
 

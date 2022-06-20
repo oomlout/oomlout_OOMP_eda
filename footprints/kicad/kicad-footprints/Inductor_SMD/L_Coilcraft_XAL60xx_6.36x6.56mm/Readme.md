@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm>](#footprint-kicad-kicad-footprints-inductor_smd-l_coilcraft_xal60xx_636x656mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm>
+# 
 
 ## Tags
 
-- index: 7759
+- index: 7741
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

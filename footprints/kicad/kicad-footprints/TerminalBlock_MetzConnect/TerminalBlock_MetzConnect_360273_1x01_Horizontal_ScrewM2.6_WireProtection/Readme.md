@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360273_1x01_Horizontal_ScrewM2.6_WireProtection>](#footprint-kicad-kicad-footprints-terminalblock_metzconnect-terminalblock_metzconnect_360273_1x01_horizontal_screwm26_wireprotection)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360273_1x01_Horizontal_ScrewM2.6_WireProtection>
+# 
 
 ## Tags
 
-- index: 11710
+- index: 11692
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

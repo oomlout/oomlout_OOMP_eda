@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6>](#footprint-kicad-kicad-footprints-inductor_tht-l_radial_d508mm_p3632mm_vishay_ihb-6)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6>
+# 
 
 ## Tags
 
-- index: 8092
+- index: 8074
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

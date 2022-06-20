@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal>](#footprint-kicad-kicad-footprints-crystal-crystal_c38-lf_d30mm_l80mm_horizontal)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal>
+# 
 
 ## Tags
 
-- index: 7119
+- index: 7101
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

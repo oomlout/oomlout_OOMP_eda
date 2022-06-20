@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm>](#footprint-kicad-kicad-footprints-led_smd-led_rgb_cree-plcc-6_6x5mm_p21mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm>
+# 
 
 ## Tags
 
-- index: 8258
+- index: 8240
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

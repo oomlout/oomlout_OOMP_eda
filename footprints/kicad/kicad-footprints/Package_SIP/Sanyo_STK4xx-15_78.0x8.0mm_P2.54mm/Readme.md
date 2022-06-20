@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm>](#footprint-kicad-kicad-footprints-package_sip-sanyo_stk4xx-15_780x80mm_p254mm)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm>
+# 
 
 ## Tags
 
-- index: 10078
+- index: 10060
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

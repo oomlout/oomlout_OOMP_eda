@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm_HandSoldering>](#footprint-kicad-kicad-footprints-oscillator-oscillator_smd_seikoepson_sg8002lb-4pin_50x32mm_handsoldering)
+* [](#)
 	* [Tags](#tags)
 
-# FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm_HandSoldering>
+# 
 
 ## Tags
 
-- index: 8879
+- index: 8861
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm>](#footprint-kicad-kicad-footprints-crystal-crystal_smd_abracon_abs25-4pin_80x38mm)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm>
+# 
 
 ## Tags
 
-- index: 7199
+- index: 7181
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

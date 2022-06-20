@@ -5,15 +5,15 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical>](#footprint-kicad-kicad-footprints-connector_samtec-samtec_fmc_asp-134602-01_10x40_p127mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical>
+# 
 
 ## Tags
 
-- index: 6132
+- index: 6114
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad

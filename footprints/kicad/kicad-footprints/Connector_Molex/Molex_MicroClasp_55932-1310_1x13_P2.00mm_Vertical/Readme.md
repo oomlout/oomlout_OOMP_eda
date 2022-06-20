@@ -5,11 +5,11 @@
 Contents
 ========
 
-* [FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55932-1310_1x13_P2.00mm_Vertical>](#footprint-kicad-kicad-footprints-connector_molex-molex_microclasp_55932-1310_1x13_p200mm_vertical)
+* [](#)
 	* [Tags](#tags)
   
 ![][im]
-# FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55932-1310_1x13_P2.00mm_Vertical>
+# 
 
 ## Tags
 
