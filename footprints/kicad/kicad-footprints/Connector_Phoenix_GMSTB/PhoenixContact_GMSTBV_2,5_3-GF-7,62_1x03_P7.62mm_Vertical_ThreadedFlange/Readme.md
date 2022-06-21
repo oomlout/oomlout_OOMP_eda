@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 3558
+- index: 3444
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: phoenix_contact connector GMSTBV_01x03_GF_7.62mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBV_2,5_3-GF-7,62_1x03_P7.62mm_Vertical_ThreadedFlange.wrl
-
-
-
-[im]: image.png

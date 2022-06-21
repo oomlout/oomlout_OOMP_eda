@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 5716
+- index: 5620
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Surface mounted socket strip SMD 2x10 2.00mm double row
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_2x10_P2.00mm_Vertical_SMD.wrl
-
-
-
-[im]: image.png

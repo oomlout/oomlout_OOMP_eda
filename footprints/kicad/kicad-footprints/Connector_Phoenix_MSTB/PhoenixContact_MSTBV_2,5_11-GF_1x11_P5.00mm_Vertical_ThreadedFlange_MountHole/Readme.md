@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 3907
+- index: 3793
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: phoenix_contact connector MSTBV_01x11_GF_5.00mm_MH
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBV_2,5_11-GF_1x11_P5.00mm_Vertical_ThreadedFlange_MountHole.wrl
-
-
-
-[im]: image.png

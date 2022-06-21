@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 1839
+- index: 1725
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Hirose DF12 vertical
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF12_DF12E3.0-50DP-0.5V_2x25_P0.50mm_Vertical.wrl
-
-
-
-[im]: image.png

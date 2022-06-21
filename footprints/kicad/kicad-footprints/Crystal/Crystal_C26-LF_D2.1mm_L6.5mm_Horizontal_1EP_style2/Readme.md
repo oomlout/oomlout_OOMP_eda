@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7099
+- index: 7003
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: ['C26-LF']
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2.wrl
-
-
-
-[im]: image.png

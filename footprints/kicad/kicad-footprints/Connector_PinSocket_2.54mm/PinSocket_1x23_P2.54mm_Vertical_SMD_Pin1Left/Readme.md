@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 5895
+- index: 5799
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Surface mounted socket strip SMD 1x23 2.54mm single row style1 pin1 left
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x23_P2.54mm_Vertical_SMD_Pin1Left.wrl
-
-
-
-[im]: image.png

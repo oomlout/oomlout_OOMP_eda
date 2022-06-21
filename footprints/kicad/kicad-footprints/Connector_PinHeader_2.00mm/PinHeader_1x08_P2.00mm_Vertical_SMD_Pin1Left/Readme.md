@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 4617
+- index: 4503
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Surface mounted pin header SMD 1x08 2.00mm single row style1 pin1 left
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x08_P2.00mm_Vertical_SMD_Pin1Left.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7700
+- index: 7604
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: inductor handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1210_3225Metric.wrl
-
-
-
-[im]: image.png

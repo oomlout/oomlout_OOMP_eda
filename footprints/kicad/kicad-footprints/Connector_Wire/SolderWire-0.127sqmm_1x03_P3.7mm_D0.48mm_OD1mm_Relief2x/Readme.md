@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6717
+- index: 6621
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector wire 0.127sqmm double-strain-relief
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.127sqmm_1x03_P3.7mm_D0.48mm_OD1mm_Relief2x.wrl
-
-
-
-[im]: image.png

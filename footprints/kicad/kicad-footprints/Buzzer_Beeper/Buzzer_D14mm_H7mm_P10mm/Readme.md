@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: buzzer
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_D14mm_H7mm_P10mm.wrl
+
+
+
+[im]: image.png

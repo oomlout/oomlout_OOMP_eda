@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 1884
+- index: 1770
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Hirose  top entry
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal.wrl
-
-
-
-[im]: image.png

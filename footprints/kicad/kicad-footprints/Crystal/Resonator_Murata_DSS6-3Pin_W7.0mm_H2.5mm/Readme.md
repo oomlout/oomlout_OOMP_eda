@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7259
+- index: 7163
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: THT ceramic resonator filter DSS6
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_Murata_DSS6-3Pin_W7.0mm_H2.5mm.wrl
-
-
-
-[im]: image.png

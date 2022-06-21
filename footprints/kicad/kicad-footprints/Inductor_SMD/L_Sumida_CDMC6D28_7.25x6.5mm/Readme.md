@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7802
+- index: 7706
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Sumida SMD CDMC6D28
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28_7.25x6.5mm.wrl
-
-
-
-[im]: image.png

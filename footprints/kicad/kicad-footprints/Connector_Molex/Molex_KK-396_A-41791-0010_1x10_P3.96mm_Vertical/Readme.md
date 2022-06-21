@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 2745
+- index: 2631
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Molex KK-396 vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41791-0010_1x10_P3.96mm_Vertical.wrl
-
-
-
-[im]: image.png

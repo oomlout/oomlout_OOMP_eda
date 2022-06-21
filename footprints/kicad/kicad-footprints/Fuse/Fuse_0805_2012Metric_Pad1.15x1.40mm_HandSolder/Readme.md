@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7600
+- index: 7504
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: fuse handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_0805_2012Metric.wrl
-
-
-
-[im]: image.png

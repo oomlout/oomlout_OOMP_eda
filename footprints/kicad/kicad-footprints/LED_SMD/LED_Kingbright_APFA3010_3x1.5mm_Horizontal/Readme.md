@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8224
+- index: 8128
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: LED RGB APFA3010 KINGBRIGHT 3x1.5mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APFA3010_3x1.5mm_Horizontal.wrl
-
-
-
-[im]: image.png

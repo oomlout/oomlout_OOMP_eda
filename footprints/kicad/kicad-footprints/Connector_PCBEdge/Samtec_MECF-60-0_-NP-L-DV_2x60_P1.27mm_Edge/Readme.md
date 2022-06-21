@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 3495
+- index: 3381
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,7 +23,3 @@ Contents
 - kicadDesc: Highspeed card edge connector for PCB's with 60 contacts (not polarized)
 - kicadTags: conn samtec card-edge high-speed
 - kicadAttr: exclude_from_pos_files exclude_from_bom
-
-
-
-[im]: image.png

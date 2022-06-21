@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 2226
+- index: 2112
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector JST PHD horizontal
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PHD_S16B-PHDSS_2x08_P2.00mm_Horizontal.wrl
-
-
-
-[im]: image.png

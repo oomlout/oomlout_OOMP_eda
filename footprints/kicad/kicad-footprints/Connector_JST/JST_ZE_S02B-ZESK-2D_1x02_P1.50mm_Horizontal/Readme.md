@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 2603
+- index: 2489
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector JST ZE top entry
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_S02B-ZESK-2D_1x02_P1.50mm_Horizontal.wrl
-
-
-
-[im]: image.png

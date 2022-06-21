@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8066
+- index: 7970
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 26.16mm  diameter 40.64mm Vishay IHB-5
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D40.6mm_P26.16mm_Vishay_IHB-5.wrl
-
-
-
-[im]: image.png

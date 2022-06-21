@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8103
+- index: 8007
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: L_Toroid Horizontal series Radial pin pitch 19.60mm  diameter 21.8mm Bourns 2100
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.60mm_Bourns_2100.wrl
-
-
-
-[im]: image.png

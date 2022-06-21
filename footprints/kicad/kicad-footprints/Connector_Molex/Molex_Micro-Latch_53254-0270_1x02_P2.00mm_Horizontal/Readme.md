@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 2941
+- index: 2827
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Molex Micro-Latch top entry
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-0270_1x02_P2.00mm_Horizontal.wrl
-
-
-
-[im]: image.png

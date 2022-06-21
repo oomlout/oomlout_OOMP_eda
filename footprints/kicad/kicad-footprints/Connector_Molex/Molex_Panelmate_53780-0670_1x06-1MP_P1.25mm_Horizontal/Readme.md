@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 3121
+- index: 3007
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Molex Panelmate top entry
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Panelmate_53780-0670_1x06-1MP_P1.25mm_Horizontal.wrl
-
-
-
-[im]: image.png

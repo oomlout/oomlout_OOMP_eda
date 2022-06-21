@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 3707
+- index: 3593
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: phoenix_contact connector MC_01x13_GF_3.81mm_MH
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_13-GF-3.81_1x13_P3.81mm_Horizontal_ThreadedFlange_MountHole.wrl
-
-
-
-[im]: image.png

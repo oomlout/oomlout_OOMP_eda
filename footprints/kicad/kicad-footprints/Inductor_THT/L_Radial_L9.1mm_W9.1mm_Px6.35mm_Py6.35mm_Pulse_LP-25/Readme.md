@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8094
+- index: 7998
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 6.35*6.35mm^2  length 9.14mm width 9.14mm Pulse LP-25
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L9.1mm_W9.1mm_Px6.35mm_Py6.35mm_Pulse_LP-25.wrl
-
-
-
-[im]: image.png

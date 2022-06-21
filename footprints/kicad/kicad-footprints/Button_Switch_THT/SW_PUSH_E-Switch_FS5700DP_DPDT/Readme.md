@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: switch DPDT footswitch
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_E-Switch_FS5700DP_DPDT.wrl
+
+
+
+[im]: image.png

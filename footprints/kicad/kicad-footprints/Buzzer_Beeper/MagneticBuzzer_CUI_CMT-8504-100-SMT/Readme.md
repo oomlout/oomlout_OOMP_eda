@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: CMT 8504
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CMT-8504-100-SMT.wrl
+
+
+
+[im]: image.png

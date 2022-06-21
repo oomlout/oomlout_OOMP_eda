@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 4020
+- index: 3906
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: solder Pin_ with flat fork
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork.wrl
-
-
-
-[im]: image.png

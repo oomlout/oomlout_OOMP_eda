@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: speaker CUI
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Speaker_CUI_CMR-1206S-67.wrl
+
+
+
+[im]: image.png

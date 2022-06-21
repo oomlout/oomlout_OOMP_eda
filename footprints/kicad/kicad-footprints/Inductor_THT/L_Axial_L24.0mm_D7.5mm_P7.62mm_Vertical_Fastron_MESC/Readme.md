@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7970
+- index: 7874
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 24mm diameter 7.5mm Fastron MESC
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC.wrl
-
-
-
-[im]: image.png

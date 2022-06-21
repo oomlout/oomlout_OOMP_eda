@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: buzzer piezo
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_CUI_CPT-9019S-SMT.wrl
+
+
+
+[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7701
+- index: 7605
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Choke SMD
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_12x12mm_H4.5mm.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7414
+- index: 7318
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Diode DO-27 series Axial Horizontal pin pitch 12.7mm  length 9.52mm diameter 5.33mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-27_P12.70mm_Horizontal.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 1655
+- index: 1541
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: te fpc 1734839
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/TE_4-1734839-6_1x46-1MP_P0.5mm_Horizontal.wrl
-
-
-
-[im]: image.png

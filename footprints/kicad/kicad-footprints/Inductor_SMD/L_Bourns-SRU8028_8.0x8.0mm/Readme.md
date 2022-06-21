@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7724
+- index: 7628
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Bourns SRU8028 SMD inductor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRU8028_8.0x8.0mm.wrl
-
-
-
-[im]: image.png

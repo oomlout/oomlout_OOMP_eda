@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6474
+- index: 6378
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Samtec HLE top entry
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_THT.3dshapes/Samtec_HLE-122-02-xx-DV-TE_2x22_P2.54mm_Horizontal.wrl
-
-
-
-[im]: image.png

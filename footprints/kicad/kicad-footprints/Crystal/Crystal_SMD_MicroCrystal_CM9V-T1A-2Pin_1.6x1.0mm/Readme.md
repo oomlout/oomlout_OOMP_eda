@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7215
+- index: 7119
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: SMD SMT crystal
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm.wrl
-
-
-
-[im]: image.png

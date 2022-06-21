@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8041
+- index: 7945
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 10.00mm  diameter 14.2mm Neosid SD14
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D14.2mm_P10.00mm_Neosid_SD14.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7963
+- index: 7867
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20.32mm diameter 12.7mm Vishay IHA-201
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201.wrl
-
-
-
-[im]: image.png

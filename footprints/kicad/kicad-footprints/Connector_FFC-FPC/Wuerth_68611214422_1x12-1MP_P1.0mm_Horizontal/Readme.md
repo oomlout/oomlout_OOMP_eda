@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 1672
+- index: 1558
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal.wrl
-
-
-
-[im]: image.png

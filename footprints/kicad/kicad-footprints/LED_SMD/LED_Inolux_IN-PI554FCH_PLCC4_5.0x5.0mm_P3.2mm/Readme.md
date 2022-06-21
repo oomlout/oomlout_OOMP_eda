@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8222
+- index: 8126
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: RGB LED NeoPixel addressable
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm.wrl
-
-
-
-[im]: image.png

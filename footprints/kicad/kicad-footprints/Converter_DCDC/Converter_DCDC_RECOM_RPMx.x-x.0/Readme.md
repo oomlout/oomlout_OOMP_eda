@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7063
+- index: 6967
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,7 +23,3 @@ Contents
 - kicadDesc: https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf
 - kicadTags: dc-dc recom buck lga-25 pitch 2.29mm
 - kicadAttr: smd
-
-
-
-[im]: image.png

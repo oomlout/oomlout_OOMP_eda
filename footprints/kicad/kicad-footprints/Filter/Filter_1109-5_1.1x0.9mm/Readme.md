@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7551
+- index: 7455
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Filter 5
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_1109-5_1.1x0.9mm.wrl
-
-
-
-[im]: image.png

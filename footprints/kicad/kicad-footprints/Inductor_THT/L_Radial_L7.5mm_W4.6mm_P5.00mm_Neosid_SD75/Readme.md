@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8091
+- index: 7995
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 5.00mm  length 7.5mm width 4.6mm Neosid SD75
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6359
+- index: 6263
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector Samtec HLE horizontal
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-141-02-xxx-DV-A_2x41_P2.54mm_Horizontal.wrl
-
-
-
-[im]: image.png

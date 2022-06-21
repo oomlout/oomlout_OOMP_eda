@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7421
+- index: 7325
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp.wrl
-
-
-
-[im]: image.png

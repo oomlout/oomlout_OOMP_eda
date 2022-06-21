@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 1957
+- index: 1843
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Through hole vertical IDC header THT 2x07 2.54mm double row
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Latch9.5mm_Vertical.wrl
-
-
-
-[im]: image.png

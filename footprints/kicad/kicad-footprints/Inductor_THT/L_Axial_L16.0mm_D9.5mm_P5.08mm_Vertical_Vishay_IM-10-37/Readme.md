@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7954
+- index: 7858
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Axial series Axial Vertical pin pitch 5.08mm  length 16mm diameter 9.5mm Vishay IM-10-37
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37.wrl
-
-
-
-[im]: image.png

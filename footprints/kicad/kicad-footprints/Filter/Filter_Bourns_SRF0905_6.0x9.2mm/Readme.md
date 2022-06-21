@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7553
+- index: 7457
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Line Filter
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Bourns_SRF0905_6.0x9.2mm.wrl
-
-
-
-[im]: image.png

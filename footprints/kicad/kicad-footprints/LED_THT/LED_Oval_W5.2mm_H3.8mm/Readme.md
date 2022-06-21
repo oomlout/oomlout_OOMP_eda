@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8312
+- index: 8216
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: LED_Oval Oval  Oval size 5.2x3.8mm^2 2 pins
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Oval_W5.2mm_H3.8mm.wrl
-
-
-
-[im]: image.png

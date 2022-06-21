@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7437
+- index: 7341
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp.wrl
-
-
-
-[im]: image.png

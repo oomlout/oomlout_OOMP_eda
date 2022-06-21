@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: MagneticBuzzer Kobitone 254-EMB84Q-RO
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kobitone_254-EMB84Q-RO.wrl
+
+
+
+[im]: image.png

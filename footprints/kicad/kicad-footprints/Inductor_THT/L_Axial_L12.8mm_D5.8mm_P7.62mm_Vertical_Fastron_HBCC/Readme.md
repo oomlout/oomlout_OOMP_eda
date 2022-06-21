@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7934
+- index: 7838
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 12.8mm diameter 5.8mm Fastron HBCC
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC.wrl
-
-
-
-[im]: image.png

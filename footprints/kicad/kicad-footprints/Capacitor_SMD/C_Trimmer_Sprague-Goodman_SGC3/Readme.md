@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: Sprague Goodman SGC3
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Sprague-Goodman_SGC3.wrl
+
+
+
+[im]: image.png

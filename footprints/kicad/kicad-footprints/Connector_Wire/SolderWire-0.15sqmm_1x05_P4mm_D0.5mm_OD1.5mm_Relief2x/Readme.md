@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6741
+- index: 6645
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: connector wire 0.15sqmm double-strain-relief
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.15sqmm_1x05_P4mm_D0.5mm_OD1.5mm_Relief2x.wrl
-
-
-
-[im]: image.png

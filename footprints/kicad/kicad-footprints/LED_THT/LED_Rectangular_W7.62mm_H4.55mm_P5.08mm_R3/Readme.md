@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8329
+- index: 8233
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: LED automotive super flux 7.62mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.wrl
-
-
-
-[im]: image.png

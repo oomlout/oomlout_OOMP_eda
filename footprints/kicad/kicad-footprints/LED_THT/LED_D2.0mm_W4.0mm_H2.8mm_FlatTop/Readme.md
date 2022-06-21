@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8267
+- index: 8170
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: LED Round FlatTop  Rectangular size 4.0x2.8mm^2 diameter 2.0mm 2 pins
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D2.0mm_W4.0mm_H2.8mm_FlatTop.wrl
-
-
-
-[im]: image.png

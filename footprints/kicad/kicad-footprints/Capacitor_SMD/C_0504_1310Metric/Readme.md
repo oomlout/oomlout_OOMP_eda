@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: capacitor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0504_1310Metric.wrl
+
+
+
+[im]: image.png

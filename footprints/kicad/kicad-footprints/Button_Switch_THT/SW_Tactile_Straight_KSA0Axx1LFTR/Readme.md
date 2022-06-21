@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: SW PUSH SMALL Tactile C&K
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_Straight_KSA0Axx1LFTR.wrl
+
+
+
+[im]: image.png

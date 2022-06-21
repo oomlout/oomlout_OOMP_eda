@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7446
+- index: 7350
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_P600_R-6_P7.62mm_Vertical_KathodeUp.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6569
+- index: 6473
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Stocko RFK MKS 16xx
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Stocko.3dshapes/Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical.wrl
-
-
-
-[im]: image.png

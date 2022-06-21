@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6596
+- index: 6500
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: TE 776087
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal.wrl
-
-
-
-[im]: image.png

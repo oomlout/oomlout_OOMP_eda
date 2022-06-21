@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8123
+- index: 8027
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: L_Toroid Horizontal series Radial pin pitch 13.00mm  diameter 7.7978mm Diameter9-5mm Amidon-T30
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30.wrl
-
-
-
-[im]: image.png

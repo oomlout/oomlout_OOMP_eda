@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7257
+- index: 7161
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: THT ceramic resonator filter CSTLSxxxX
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm.wrl
-
-
-
-[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: capacitor tantalum
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-12_Kemet-S.wrl
+
+
+
+[im]: image.png

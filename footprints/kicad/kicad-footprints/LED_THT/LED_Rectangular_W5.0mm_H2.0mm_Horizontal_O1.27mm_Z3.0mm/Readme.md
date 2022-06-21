@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8320
+- index: 8224
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z3.0mm.wrl
-
-
-
-[im]: image.png

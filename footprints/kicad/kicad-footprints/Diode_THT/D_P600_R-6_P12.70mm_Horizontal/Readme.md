@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7443
+- index: 7347
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Diode P600_R-6 series Axial Horizontal pin pitch 12.7mm  length 9.1mm diameter 9.1mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_P600_R-6_P12.70mm_Horizontal.wrl
-
-
-
-[im]: image.png

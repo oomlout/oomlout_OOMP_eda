@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7678
+- index: 7582
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Heatsink fischer TO-220
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3.wrl
-
-
-
-[im]: image.png

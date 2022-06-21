@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -24,3 +25,7 @@ Contents
 - kicadTags: switch SPDT
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide_1P2T_CK_OS102011MS2Q.wrl
+
+
+
+[im]: image.png

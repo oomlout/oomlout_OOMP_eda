@@ -7,13 +7,12 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7372
+- index: 7276
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +24,3 @@ Contents
 - kicadTags: Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_5KP_P7.62mm_Vertical_KathodeUp.wrl
-
-
-
-[im]: image.png
