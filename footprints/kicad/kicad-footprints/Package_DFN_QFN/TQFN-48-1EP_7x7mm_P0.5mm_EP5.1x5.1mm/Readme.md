@@ -12,7 +12,6 @@ Contents
 
 ## Tags
 
-- index: 9468
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
