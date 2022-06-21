@@ -1,0 +1,61 @@
+{
+    "index": 311,
+    "tags": [
+        {
+            "name": "index",
+            "value": 311
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Tactile_SPST_Angled_PTS645Vx31-2LFS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx31-2LFS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "tactile switch SPST right angle, PTS645VL31-2 LFS"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tactile switch SPST angled PTS645VL31-2 LFS C&K Button"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx31-2LFS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx31-2LFS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

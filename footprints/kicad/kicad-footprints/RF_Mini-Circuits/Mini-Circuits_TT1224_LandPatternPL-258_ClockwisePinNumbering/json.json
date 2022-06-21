@@ -1,0 +1,61 @@
+{
+    "index": 11197,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11197
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case TT1224 (https://ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258, including GND-vias (https://www.minicircuits.com/pcb/98-pl258.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PL-258 Mini-Circuits"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_TT1224.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

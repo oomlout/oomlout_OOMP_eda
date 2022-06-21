@@ -1,0 +1,61 @@
+{
+    "index": 9473,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9473
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "UFQFPN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

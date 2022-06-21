@@ -1,0 +1,61 @@
+{
+    "index": 8663,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8663
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LaserDiode_TO56-3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/LaserDiode_TO56-3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Laser Diode, TO-56, 3pin"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Laser Diode TO56"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO56-3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO56-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

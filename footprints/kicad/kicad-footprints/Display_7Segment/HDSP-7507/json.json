@@ -1,0 +1,61 @@
+{
+    "index": 7422,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7422
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDSP-7507"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/HDSP-7507"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "+-1 overflow 7 segment high efficiency red, https://docs.broadcom.com/docs/AV02-2553EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "+-1 overflow 7 segment high efficiency red"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-7507.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7507"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

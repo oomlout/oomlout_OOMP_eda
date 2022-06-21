@@ -1,0 +1,61 @@
+{
+    "index": 11154,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11154
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Quectel_L80-R"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/Quectel_L80-R"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Quectel L80-R GPS Module, Patch on Top, https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "quectel GPS GNSS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Quectel_L80-R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

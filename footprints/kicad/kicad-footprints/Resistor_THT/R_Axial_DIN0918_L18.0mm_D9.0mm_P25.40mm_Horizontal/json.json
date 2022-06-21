@@ -1,0 +1,61 @@
+{
+    "index": 11087,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11087
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Axial_DIN0918_L18.0mm_D9.0mm_P25.40mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_THT/R_Axial_DIN0918_L18.0mm_D9.0mm_P25.40mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, Axial_DIN0918 series, Axial, Horizontal, pin pitch=25.4mm, 4W, length*diameter=18*9mm^2"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor Axial_DIN0918 series Axial Horizontal pin pitch 25.4mm 4W length 18mm diameter 9mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0918_L18.0mm_D9.0mm_P25.40mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0918_L18.0mm_D9.0mm_P25.40mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

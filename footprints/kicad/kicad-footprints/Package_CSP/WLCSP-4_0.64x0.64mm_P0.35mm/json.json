@@ -1,0 +1,57 @@
+{
+    "index": 9016,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9016
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-4_0.64x0.64mm_P0.35mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-4_0.64x0.64mm_P0.35mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CSP 4 0.35"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4_0.64x0.64mm_P0.35mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

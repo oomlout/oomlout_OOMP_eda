@@ -1,0 +1,61 @@
+{
+    "index": 8768,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8768
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Silicon_Labs  LGA, 6 Pin (https://www.silabs.com/documents/public/data-sheets/si512-13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Silicon_Labs LGA NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

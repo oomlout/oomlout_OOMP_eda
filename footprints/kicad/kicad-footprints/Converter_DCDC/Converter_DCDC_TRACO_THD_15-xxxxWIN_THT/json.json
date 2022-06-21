@@ -1,0 +1,61 @@
+{
+    "index": 6976,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6976
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_TRACO_THD_15-xxxxWIN_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_THD_15-xxxxWIN_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Traco THD 15WIN, 15W, THT (https://www.tracopower.com/products/thd15win.pdf#page=3)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "traco dcdc tht 15w"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_THD_15-xxxxWIN_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_THD_15-xxxxWIN_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

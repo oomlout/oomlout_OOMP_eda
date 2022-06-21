@@ -1,0 +1,61 @@
+{
+    "index": 7456,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7456
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_1411-5_1.4x1.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_1411-5_1.4x1.1mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "5-pin filter package - 1.4x1.1 mm Body; (see https://global.kyocera.com/prdct/electro/product/pdf/sf14_tdlte.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Filter 5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_1411-5_1.4x1.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_1411-5_1.4x1.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

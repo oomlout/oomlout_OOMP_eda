@@ -1,0 +1,61 @@
+{
+    "index": 10417,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10417
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT-223-6_TabPin3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/SOT-223-6_TabPin3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CMS SOT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-6_TabPin3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

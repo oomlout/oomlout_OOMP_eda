@@ -1,0 +1,61 @@
+{
+    "index": 10870,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10870
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Vishay_T73XX_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_T73XX_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, horizontal, Vishay T73XX, http://www.vishay.com/docs/51016/t73.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer horizontal Vishay T73XX"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T73XX_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T73XX_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

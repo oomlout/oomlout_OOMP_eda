@@ -1,0 +1,61 @@
+{
+    "index": 10300,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10300
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VSSOP-8_2.4x2.1mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/VSSOP-8_2.4x2.1mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.ti.com/lit/ml/mpds050d/mpds050d.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VSSOP DCU R-PDSO-G8 Pitch0.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_2.4x2.1mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7358,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7358
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AG12864E"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/AG12864E"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php"
+        },
+        {
+            "name": "kicadTags",
+            "value": "AG12864E Graphics Display 128x64 Ampire"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/AG12864E.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-AG12864E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11150,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11150
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Converter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Balun_Johanson_1.6x0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Converter/Balun_Johanson_1.6x0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "6-pin 1.6x0.8 mm balun footprint"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Johanson balun filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_1.6x0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_1.6x0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

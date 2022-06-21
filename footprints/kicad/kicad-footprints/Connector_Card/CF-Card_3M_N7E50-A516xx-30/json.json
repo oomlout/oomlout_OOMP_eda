@@ -1,0 +1,61 @@
+{
+    "index": 1142,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1142
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Card"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CF-Card_3M_N7E50-A516xx-30"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Compact Flash Card connector, polarization inverse (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector cf"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/CF-Card_3M_N7E50-A516xx-30.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-A516xx-30"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

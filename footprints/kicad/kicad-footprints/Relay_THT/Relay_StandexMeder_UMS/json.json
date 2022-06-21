@@ -1,0 +1,61 @@
+{
+    "index": 10970,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10970
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_StandexMeder_UMS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_StandexMeder_UMS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Standex-Meder SIL-relais, UMS, see http://cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Standex Meder SIL reed relais"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_UMS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_UMS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

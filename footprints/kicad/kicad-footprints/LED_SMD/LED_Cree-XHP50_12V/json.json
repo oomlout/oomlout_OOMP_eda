@@ -1,0 +1,61 @@
+{
+    "index": 8116,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8116
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Cree-XHP50_12V"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Cree-XHP50_12V"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Cree XHP50, 12V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED XHP50 Cree"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes\\LED_Cree-XHP50_12V.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP50_12V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

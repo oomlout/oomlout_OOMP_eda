@@ -1,0 +1,61 @@
+{
+    "index": 8131,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8131
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_LiteOn_LTST-C19HE1WT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_LiteOn_LTST-C19HE1WT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED RGB Chip SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-C19HE1WT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

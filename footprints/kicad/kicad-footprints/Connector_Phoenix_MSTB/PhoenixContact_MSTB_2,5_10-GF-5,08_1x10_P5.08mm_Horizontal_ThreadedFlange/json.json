@@ -1,0 +1,61 @@
+{
+    "index": 3846,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3846
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_MSTB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_MSTB_2,5_10-GF-5,08_1x10_P5.08mm_Horizontal_ThreadedFlange"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTB_2,5_10-GF-5,08_1x10_P5.08mm_Horizontal_ThreadedFlange"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: MSTB_2,5/10-GF-5,08; number of pins: 10; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776582 12A || order number: 1924169 16A (HC)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector MSTB_01x10_GF_5.08mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTB_2,5_10-GF-5,08_1x10_P5.08mm_Horizontal_ThreadedFlange.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTB_2,5_10-GF-5,08_1x10_P5.08mm_Horizontal_ThreadedFlange"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

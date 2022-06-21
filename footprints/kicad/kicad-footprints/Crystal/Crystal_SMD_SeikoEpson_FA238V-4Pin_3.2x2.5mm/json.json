@@ -1,0 +1,61 @@
+{
+    "index": 7126,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7126
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "crystal Epson Toyocom FA-238 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7151,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7151
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.txccrystal.com/images/pdf/ax-automotive.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

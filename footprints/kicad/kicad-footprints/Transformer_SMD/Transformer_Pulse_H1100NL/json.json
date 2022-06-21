@@ -1,0 +1,61 @@
+{
+    "index": 12122,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12122
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Pulse_H1100NL"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_Pulse_H1100NL"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "For H1100NL, H1101NL, H1102NL, H1121NL, H1183NL, H1199NL, HX1188NL, HX1198NL and H1302NL. https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/H1102NL/doc_part/H1102NL.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "H1100NL H1101NL H1102NL H1121NL H1183NL H1199NL HX1188NL HX1198NL H1302N"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Pulse_H1100NL.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Pulse_H1100NL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8147,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8147
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_RGB_PLCC-6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_RGB_PLCC-6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "RGB LED PLCC-6"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RGB LED PLCC-6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_PLCC-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_PLCC-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

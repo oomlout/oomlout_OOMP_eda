@@ -1,0 +1,61 @@
+{
+    "index": 315,
+    "tags": [
+        {
+            "name": "index",
+            "value": 315
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Tactile_Straight_KSA0Axx1LFTR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Tactile_Straight_KSA0Axx1LFTR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SW PUSH SMALL Tactile C&K"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_Straight_KSA0Axx1LFTR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSA0Axx1LFTR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9911,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9911
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LQFP, 64 Pin (https://www.nxp.com/files-static/shared/doc/package_info/98ARH98426A.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LQFP QFP"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

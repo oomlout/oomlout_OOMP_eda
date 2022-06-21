@@ -1,0 +1,61 @@
+{
+    "index": 6597,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6597
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Wago"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Wago_734-163_1x03_P3.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Wago/Wago_734-163_1x03_P3.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-163 , 3 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Wago  top entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-163_1x03_P3.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-163_1x03_P3.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

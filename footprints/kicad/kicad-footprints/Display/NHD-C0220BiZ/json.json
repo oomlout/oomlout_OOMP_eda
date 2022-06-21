@@ -1,0 +1,61 @@
+{
+    "index": 7390,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7390
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NHD-C0220BiZ"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/NHD-C0220BiZ"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "NHD-C0220BiZ LCD http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NHD-C0220BiZ LCD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/NHD-C0220BiZ.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-NHD-C0220BiZ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

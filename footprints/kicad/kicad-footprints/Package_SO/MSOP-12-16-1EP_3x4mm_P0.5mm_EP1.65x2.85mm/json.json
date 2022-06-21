@@ -1,0 +1,61 @@
+{
+    "index": 10053,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10053
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-12-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 612,
+    "tags": [
+        {
+            "name": "index",
+            "value": 612
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Radial_Tantal_D10.5mm_P2.50mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/CP_Radial_Tantal_D10.5mm_P2.50mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CP, Radial_Tantal series, Radial, pin pitch=2.50mm, , diameter=10.5mm, Tantal Electrolytic Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/TANTAL-TB-Serie%23.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CP Radial_Tantal series Radial pin pitch 2.50mm  diameter 10.5mm Tantal Electrolytic Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_Tantal_D10.5mm_P2.50mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D10.5mm_P2.50mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

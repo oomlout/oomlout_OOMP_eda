@@ -1,0 +1,61 @@
+{
+    "index": 11288,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11288
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Aosong_DHT11_5.5x12.0_P2.54mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Temperature and humidity module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

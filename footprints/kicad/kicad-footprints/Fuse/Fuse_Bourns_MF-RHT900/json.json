@@ -1,0 +1,61 @@
+{
+    "index": 7558,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7558
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_Bourns_MF-RHT900"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_Bourns_MF-RHT900"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PTC Resettable Fuse, Ihold = 9.0A, Itrip=16.5A, http://www.bourns.com/docs/product-datasheets/mfrht.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ptc resettable fuse polyfuse THT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RHT900.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RHT900"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

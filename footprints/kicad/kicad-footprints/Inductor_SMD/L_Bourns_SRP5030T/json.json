@@ -1,0 +1,61 @@
+{
+    "index": 7637,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7637
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Bourns_SRP5030T"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Bourns_SRP5030T"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Bourns_SRP5030T"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP5030T.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP5030T"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8636,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8636
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AMS_TSL2550_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/AMS_TSL2550_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://ams.com/eng/content/download/250130/975613/142977"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TSL2550 ambient light sensor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/AMS_TSL2550_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8847,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8847
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TFBGA-100_8x8mm_Layout10x10_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/TFBGA-100_8x8mm_Layout10x10_P0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TFBGA-100, 10x10 raster, 8x8mm package, pitch 0.8mm; see section 6.2 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 100 0.8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-100_8x8mm_Layout10x10_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-100_8x8mm_Layout10x10_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

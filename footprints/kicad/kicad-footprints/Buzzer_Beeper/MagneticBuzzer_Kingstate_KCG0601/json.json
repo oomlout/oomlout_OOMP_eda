@@ -1,0 +1,61 @@
+{
+    "index": 330,
+    "tags": [
+        {
+            "name": "index",
+            "value": 330
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MagneticBuzzer_Kingstate_KCG0601"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kingstate_KCG0601"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Buzzer, Elektromagnetic Beeper, Summer,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Kingstate KCG0601"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kingstate_KCG0601.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7006,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7006
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT C38-LF 8.0mm length 3.0mm diameter"
+        },
+        {
+            "name": "kicadTags",
+            "value": "['C38-LF']"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

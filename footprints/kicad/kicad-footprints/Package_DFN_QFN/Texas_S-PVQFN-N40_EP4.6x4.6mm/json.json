@@ -1,0 +1,61 @@
+{
+    "index": 9421,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9421
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_S-PVQFN-N40_EP4.6x4.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N40_EP4.6x4.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N40_EP4.6x4.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.6x4.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

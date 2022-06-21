@@ -1,0 +1,57 @@
+{
+    "index": 9983,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9983
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HSOP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT1746-3.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

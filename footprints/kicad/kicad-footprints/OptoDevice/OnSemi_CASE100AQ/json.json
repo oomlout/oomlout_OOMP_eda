@@ -1,0 +1,61 @@
+{
+    "index": 8673,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8673
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OnSemi_CASE100AQ"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/OnSemi_CASE100AQ"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "OnSemi CASE 100AQ for QRE1113, see https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "reflective opto couple photo coupler"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/OnSemi_CASE100AQ.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100AQ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

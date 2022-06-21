@@ -1,0 +1,57 @@
+{
+    "index": 11500,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11500
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WEEE-Logo_21x30mm_SilkScreen"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/WEEE-Logo_21x30mm_SilkScreen"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Waste Electrical and Electronic Equipment Directive"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Logo WEEE"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_21x30mm_SilkScreen"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

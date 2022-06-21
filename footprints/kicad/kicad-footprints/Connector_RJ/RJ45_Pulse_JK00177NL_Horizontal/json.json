@@ -1,0 +1,61 @@
+{
+    "index": 6008,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6008
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Pulse_JK00177NL_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Pulse_JK00177NL_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10/100/1000 Base-T RJ45 single port with LEDs and 75W POE, https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J432/doc_part/J432.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RJ45 8p8c ethernet POE"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Pulse_JK00177NL_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JK00177NL_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11302,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11302
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "AKM VSOP-24 current sensor, 5.6x7.9mm body, 0.65mm pitch (http://www.akm.com/akm/en/file/datasheet/CQ-330J.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "akm vsop 24"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

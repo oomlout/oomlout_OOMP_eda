@@ -1,0 +1,61 @@
+{
+    "index": 10856,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10856
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Runtron_RM-063_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Runtron_RM-063_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer Trimmer RM-063"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-063_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-063_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

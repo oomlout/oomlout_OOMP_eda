@@ -1,0 +1,61 @@
+{
+    "index": 10773,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10773
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_ACP_CA9-H3,8_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA9-H3,8_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, horizontal, ACP CA9-H3,8, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer horizontal ACP CA9-H3,8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA9-H3,8_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-H3,8_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

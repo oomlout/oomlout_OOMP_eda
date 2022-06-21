@@ -1,0 +1,61 @@
+{
+    "index": 8658,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8658
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kodenshi_SG105_Reverse"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Kodenshi_SG105_Reverse"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Kodenshi SG-105 with PCB cutout, light-direction downwards, see http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "refective opto couple photo coupler"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_SG105_Reverse.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

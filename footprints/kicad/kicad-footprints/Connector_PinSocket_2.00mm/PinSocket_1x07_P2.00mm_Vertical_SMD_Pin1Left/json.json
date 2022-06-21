@@ -1,0 +1,61 @@
+{
+    "index": 5457,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5457
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinSocket_2.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinSocket_1x07_P2.00mm_Vertical_SMD_Pin1Left"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_1x07_P2.00mm_Vertical_SMD_Pin1Left"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "surface-mounted straight socket strip, 1x07, 2.00mm pitch, single row, style 1 (pin 1 left) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Surface mounted socket strip SMD 1x07 2.00mm single row style1 pin1 left"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x07_P2.00mm_Vertical_SMD_Pin1Left.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x07_P2.00mm_Vertical_SMD_Pin1Left"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

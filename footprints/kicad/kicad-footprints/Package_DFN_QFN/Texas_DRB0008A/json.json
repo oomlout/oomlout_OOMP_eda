@@ -1,0 +1,61 @@
+{
+    "index": 9377,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9377
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_DRB0008A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_DRB0008A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DRB0008A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_DRB0008A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_DRB0008A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

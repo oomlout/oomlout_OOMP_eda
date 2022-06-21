@@ -1,0 +1,61 @@
+{
+    "index": 9361,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9361
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "UQFN DFN 0.5 ST"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

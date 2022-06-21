@@ -1,0 +1,61 @@
+{
+    "index": 11020,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11020
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_MELF_MMB-0207"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_SMD/R_MELF_MMB-0207"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MELF Resistor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MELF_MMB-0207.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MELF_MMB-0207"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

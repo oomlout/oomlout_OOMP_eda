@@ -1,0 +1,61 @@
+{
+    "index": 331,
+    "tags": [
+        {
+            "name": "index",
+            "value": 331
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MagneticBuzzer_Kobitone_254-EMB84Q-RO"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_Kobitone_254-EMB84Q-RO"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MagneticBuzzer Kobitone 254-EMB84Q-RO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kobitone_254-EMB84Q-RO.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kobitone_254-EMB84Q-RO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11513,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11513
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_Wuerth_691311400102_P7.62mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock/TerminalBlock_Wuerth_691311400102_P7.62mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://katalog.we-online.de/em/datasheet/6913114001xx.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Wuerth_691311400102_P7.62mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

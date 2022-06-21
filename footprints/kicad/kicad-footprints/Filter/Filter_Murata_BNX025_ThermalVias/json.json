@@ -1,0 +1,61 @@
+{
+    "index": 7466,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7466
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_Murata_BNX025_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_Murata_BNX025_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.murata.com/en-us/products/productdata/8796778004510/QNFH9101.pdf?1496719830000"
+        },
+        {
+            "name": "kicadTags",
+            "value": "EMI Filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

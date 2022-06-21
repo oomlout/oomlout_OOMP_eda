@@ -1,0 +1,61 @@
+{
+    "index": 11320,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11320
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LEM_HX02-P"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/LEM_HX02-P"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LEM HX02-P hall effect current transducer (https://www.lem.com/sites/default/files/products_datasheets/hx%202_6-p_e%20v5.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "hall current"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX02-P.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX02-P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11255,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11255
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Shielding"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Laird_Technologies_BMI-S-105_38.10x25.40mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-105_38.10x25.40mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Laird Technologies BMI-S-105 Shielding Cabinet One Piece SMD 38.10x25.40mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Shielding Cabinet"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-105_38.10x25.40mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-105_38.10x25.40mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

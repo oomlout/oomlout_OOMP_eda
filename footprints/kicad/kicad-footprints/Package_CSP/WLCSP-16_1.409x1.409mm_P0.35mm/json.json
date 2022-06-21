@@ -1,0 +1,61 @@
+{
+    "index": 9007,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9007
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-16_1.409x1.409mm_P0.35mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CSP 16 0.35"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-16_1.409x1.409mm_P0.35mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

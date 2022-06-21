@@ -1,0 +1,61 @@
+{
+    "index": 6556,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6556
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_JAE_DX07S016JA1R1500"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S016JA1R1500"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB C Type-C Receptacle SMD USB 2.0"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_JAE_DX07S016JA1R1500.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S016JA1R1500"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

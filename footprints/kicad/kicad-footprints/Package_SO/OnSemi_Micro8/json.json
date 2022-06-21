@@ -1,0 +1,61 @@
+{
+    "index": 10074,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10074
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OnSemi_Micro8"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/OnSemi_Micro8"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ON Semiconductor Micro8 (Case846A-02): https://www.onsemi.com/pub/Collateral/846A-02.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "micro8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/OnSemi_Micro8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-OnSemi_Micro8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

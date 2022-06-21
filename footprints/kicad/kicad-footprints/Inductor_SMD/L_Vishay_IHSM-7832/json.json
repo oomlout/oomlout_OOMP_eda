@@ -1,0 +1,61 @@
+{
+    "index": 7758,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7758
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Vishay_IHSM-7832"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Vishay_IHSM-7832"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf, 19.8mmx8.1mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "inductor vishay icsm smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHSM-7832.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

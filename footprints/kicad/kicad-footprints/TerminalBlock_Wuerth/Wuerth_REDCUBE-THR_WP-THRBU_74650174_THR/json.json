@@ -1,0 +1,61 @@
+{
+    "index": 12023,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12023
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Wuerth_REDCUBE-THR_WP-THRBU_74650174_THR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74650174_THR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "REDCUBE THR with internal through-hole thread WP-THRBU (https://www.we-online.de/katalog/datasheet/74650174.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "screw terminal thread redcube thr power connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRBU_74650174_THR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRBU_74650174_THR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

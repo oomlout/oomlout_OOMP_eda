@@ -1,0 +1,61 @@
+{
+    "index": 5926,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5926
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinSocket_2.54mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinSocket_2x20_P2.54mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinSocket_2.54mm/PinSocket_2x20_P2.54mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Through hole angled socket strip, 2x20, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Through hole angled socket strip THT 2x20 2.54mm double row"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x20_P2.54mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x20_P2.54mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

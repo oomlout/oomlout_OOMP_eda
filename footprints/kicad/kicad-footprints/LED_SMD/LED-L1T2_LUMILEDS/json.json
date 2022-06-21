@@ -1,0 +1,61 @@
+{
+    "index": 8085,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8085
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED-L1T2_LUMILEDS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED-L1T2_LUMILEDS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.lumileds.com/uploads/438/DS133-pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LUMILEDS LUXEON TX L1T2 LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7582,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7582
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Heatsink fischer TO-220"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

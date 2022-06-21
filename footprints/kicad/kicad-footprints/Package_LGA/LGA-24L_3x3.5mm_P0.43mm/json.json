@@ -1,0 +1,61 @@
+{
+    "index": 9865,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9865
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LGA 24L 3x3.5mm Pitch 0.43mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LGA 24L 3x3.5mm Pitch 0.43mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-24L_3x3.5mm_P0.43mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

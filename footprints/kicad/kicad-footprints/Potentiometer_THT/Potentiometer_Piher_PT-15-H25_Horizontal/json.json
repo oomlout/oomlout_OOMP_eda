@@ -1,0 +1,61 @@
+{
+    "index": 10845,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10845
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Piher_PT-15-H25_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Piher_PT-15-H25_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, horizontal, Piher PT-15-H25, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer horizontal Piher PT-15-H25"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-15-H25_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-H25_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

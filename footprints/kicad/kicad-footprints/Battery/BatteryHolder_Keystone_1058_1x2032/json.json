@@ -1,0 +1,61 @@
+{
+    "index": 9,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_1058_1x2032"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_1058_1x2032"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.keyelco.com/product-pdf.cfm?p=14028"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Keystone type 1058 coin cell retainer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_1058_1x2032.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1058_1x2032"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

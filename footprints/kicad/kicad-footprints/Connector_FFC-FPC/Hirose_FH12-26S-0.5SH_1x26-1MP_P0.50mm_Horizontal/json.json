@@ -1,0 +1,61 @@
+{
+    "index": 1392,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1392
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_FFC-FPC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_FFC-FPC/Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Hirose FH12, FFC/FPC connector, FH12-26S-0.5SH, 26 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Hirose FH12 horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

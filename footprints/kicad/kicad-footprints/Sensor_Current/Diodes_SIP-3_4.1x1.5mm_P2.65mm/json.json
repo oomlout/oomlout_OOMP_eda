@@ -1,0 +1,61 @@
+{
+    "index": 11313,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11313
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diodes_SIP-3_4.1x1.5mm_P2.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P2.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diodes SIP-3 Ammo Pack, 2.65mm Pitch (https://www.diodes.com/assets/Package-Files/SIP-3-Ammo-Pack.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diodes SIP-3 Ammo Pack"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

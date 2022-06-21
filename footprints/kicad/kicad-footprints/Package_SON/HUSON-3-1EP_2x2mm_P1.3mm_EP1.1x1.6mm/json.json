@@ -1,0 +1,61 @@
+{
+    "index": 10307,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10307
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HUSON, 3 Pin, SOT1061 (Ref: https://assets.nexperia.com/documents/data-sheet/PMEG2020CPA.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "huson nolead SOT1061"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "index": 11457,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11457
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RoHS-Logo_20mm_SilkScreen"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/RoHS-Logo_20mm_SilkScreen"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Restriction of Hazardous Substances Directive Logo"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Logo RoHS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_20mm_SilkScreen"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

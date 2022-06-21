@@ -1,0 +1,61 @@
+{
+    "index": 11851,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11851
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_RND"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_RND_205-00235_1x05_P5.08mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00235_1x05_P5.08mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "terminal block RND 205-00235, 5 pins, pitch 5.08mm, size 25.4x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT terminal block RND 205-00235 pitch 5.08mm size 25.4x8.45mm^2 drill 1.1mm pad 2.1mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00235_1x05_P5.08mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00235_1x05_P5.08mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

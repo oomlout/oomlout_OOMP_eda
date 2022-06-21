@@ -1,0 +1,61 @@
+{
+    "index": 1406,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1406
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_FFC-FPC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_FFC-FPC/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Hirose FH41, FFC/FPC connector, FH41-30S-0.5SH, 30 Pins per row (https://www.hirose.com/fr/product/document?clcode=CL0580-2218-5-05&productname=FH41-30S-0.5SH(05)&series=FH41&documenttype=2DDrawing&lang=fr&documentid=0001001704)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Hirose FH41 horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

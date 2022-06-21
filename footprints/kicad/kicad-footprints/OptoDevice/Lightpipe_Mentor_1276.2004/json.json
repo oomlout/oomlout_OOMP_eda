@@ -1,0 +1,61 @@
+{
+    "index": 8669,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8669
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Lightpipe_Mentor_1276.2004"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Lightpipe_Mentor_1276.2004"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "planar light pipe 4 way 3mm PLCC-2 PLCC-4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.2004.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.2004"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

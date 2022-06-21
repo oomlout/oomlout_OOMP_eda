@@ -1,0 +1,57 @@
+{
+    "index": 9060,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9060
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10034,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10034
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-DSO-20-32"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Infineon_PG-DSO-20-32"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon SO package 20pin without exposed pad (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-32/)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DSO-20"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-20-32.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

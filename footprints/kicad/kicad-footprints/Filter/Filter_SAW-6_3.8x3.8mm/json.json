@@ -1,0 +1,61 @@
+{
+    "index": 7469,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7469
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_SAW-6_3.8x3.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_SAW-6_3.8x3.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "6-pin 3.8 x 3.8mm SAW filter package, https://www.golledge.com/media/3785/mp08167.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SAW filter 6-pin"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_SAW-6_3.8x3.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-6_3.8x3.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

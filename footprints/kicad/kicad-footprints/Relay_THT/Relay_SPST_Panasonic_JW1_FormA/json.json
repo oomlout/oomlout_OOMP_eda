@@ -1,0 +1,61 @@
+{
+    "index": 10947,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10947
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPST_Panasonic_JW1_FormA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPST_Panasonic_JW1_FormA"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Panasonic Relay SPST, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Panasonic Relay SPST"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Panasonic_JW1_FormA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Panasonic_JW1_FormA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

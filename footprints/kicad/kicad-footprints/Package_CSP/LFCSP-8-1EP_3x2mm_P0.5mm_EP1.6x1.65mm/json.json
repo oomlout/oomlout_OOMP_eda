@@ -1,0 +1,61 @@
+{
+    "index": 8951,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8951
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/57080735642908cp_8_4.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP 8pin thermal pad 3x2mm Pitch 0.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

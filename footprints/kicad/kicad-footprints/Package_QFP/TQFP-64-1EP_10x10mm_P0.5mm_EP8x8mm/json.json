@@ -1,0 +1,61 @@
+{
+    "index": 9950,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9950
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] thermal pad"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFP 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_10x10mm_P0.5mm_EP8x8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

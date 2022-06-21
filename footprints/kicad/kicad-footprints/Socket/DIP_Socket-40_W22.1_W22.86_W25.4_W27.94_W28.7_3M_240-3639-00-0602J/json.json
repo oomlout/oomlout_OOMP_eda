@@ -1,0 +1,61 @@
+{
+    "index": 11359,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11359
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Socket"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP_Socket-40_W22.1_W22.86_W25.4_W27.94_W28.7_3M_240-3639-00-0602J"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Socket/DIP_Socket-40_W22.1_W22.86_W25.4_W27.94_W28.7_3M_240-3639-00-0602J"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3M 40-pin zero insertion force socket, through-hole, row spacing 25.4 mm (1000 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL ZIF 25.4mm 1000mil Socket"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Socket.3dshapes/DIP_Socket-40_W22.1_W22.86_W25.4_W27.94_W28.7_3M_240-3639-00-0602J.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Socket-DIP_Socket-40_W22.1_W22.86_W25.4_W27.94_W28.7_3M_240-3639-00-0602J"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

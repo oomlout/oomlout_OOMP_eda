@@ -1,0 +1,61 @@
+{
+    "index": 8512,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8512
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Mounting_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hardware, inside through hole M3, height 7, Wuerth electronics 9774070360 (https://katalog.we-online.de/em/datasheet/9774070360.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mounting M3 9774070360"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

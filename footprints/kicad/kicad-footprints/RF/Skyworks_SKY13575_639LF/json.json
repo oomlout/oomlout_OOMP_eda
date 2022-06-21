@@ -1,0 +1,61 @@
+{
+    "index": 11137,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11137
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Skyworks_SKY13575_639LF"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF/Skyworks_SKY13575_639LF"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Skyworks"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF.3dshapes/Skyworks_SKY13575_639LF.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY13575_639LF"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

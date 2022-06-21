@@ -1,0 +1,61 @@
+{
+    "index": 7165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, hand-soldering, 7.2x3.0mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT ceramic resonator filter filter hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

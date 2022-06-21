@@ -1,0 +1,61 @@
+{
+    "index": 5186,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5186
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinSocket_1.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinSocket_2x40_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_2x40_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "surface-mounted straight socket strip, 2x40, 1.00mm pitch, double cols (https://gct.co/files/drawings/bc085.pdf), script generated"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Surface mounted socket strip SMD 2x40 1.00mm double row"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.00mm.3dshapes/PinSocket_2x40_P1.00mm_Vertical_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_2x40_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

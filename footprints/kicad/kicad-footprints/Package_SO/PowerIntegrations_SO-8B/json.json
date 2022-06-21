@@ -1,0 +1,61 @@
+{
+    "index": 10078,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10078
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_SO-8B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/PowerIntegrations_SO-8B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power-Integrations variant of 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC], see https://www.mouser.com/ds/2/328/linkswitch-pl_family_datasheet-12517.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOIC 1.27"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_SO-8B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

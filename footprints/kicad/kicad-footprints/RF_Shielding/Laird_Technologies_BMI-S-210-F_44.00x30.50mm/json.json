@@ -1,0 +1,61 @@
+{
+    "index": 11267,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11267
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Shielding"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Laird_Technologies_BMI-S-210-F_44.00x30.50mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-210-F_44.00x30.50mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Laird Technologies BMI-S-210-F Shielding Cabinet Two Piece SMD 44.00x30.50mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Shielding Cabinet"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-210-F_44.00x30.50mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-210-F_44.00x30.50mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

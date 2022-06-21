@@ -1,0 +1,61 @@
+{
+    "index": 10872,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10872
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_2P2T_10x6mm_TE_IMxxG"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_SMD/Relay_2P2T_10x6mm_TE_IMxxG"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TE IM-Series Relay DPDT Form C"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_2P2T_10x6mm_TE_IMxxG.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8698,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8698
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Sharp_GP2Y0A41SK0F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Sharp_GP2Y0A41SK0F"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Distance Sensor Sharp"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_GP2Y0A41SK0F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

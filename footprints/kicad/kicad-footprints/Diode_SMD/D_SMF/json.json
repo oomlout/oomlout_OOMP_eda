@@ -1,0 +1,61 @@
+{
+    "index": 7235,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7235
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_SMF"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/D_SMF"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode SMF (DO-214AB)"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMF.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMF"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

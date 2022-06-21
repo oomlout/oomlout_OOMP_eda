@@ -1,0 +1,61 @@
+{
+    "index": 191,
+    "tags": [
+        {
+            "name": "index",
+            "value": 191
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_SPST_B3U-3000P-B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_SPST_B3U-3000P-B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, with Boss"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Tactile Switch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3000P-B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-3000P-B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

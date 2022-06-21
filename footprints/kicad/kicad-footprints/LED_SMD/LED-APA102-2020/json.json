@@ -1,0 +1,61 @@
+{
+    "index": 8084,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8084
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED-APA102-2020"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED-APA102-2020"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED RGB SPI"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-APA102-2020.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

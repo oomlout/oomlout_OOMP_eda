@@ -1,0 +1,61 @@
+{
+    "index": 12046,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12046
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Keystone_5015_Micro-Minature"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Keystone_5015_Micro-Minature"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Test Point"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5015_Micro-Minature.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5015_Micro-Minature"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

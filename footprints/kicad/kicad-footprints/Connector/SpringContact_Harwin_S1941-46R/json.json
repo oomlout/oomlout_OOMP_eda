@@ -1,0 +1,61 @@
+{
+    "index": 908,
+    "tags": [
+        {
+            "name": "index",
+            "value": 908
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SpringContact_Harwin_S1941-46R"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/SpringContact_Harwin_S1941-46R"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "spring contact emi emc shield"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/SpringContact_Harwin_S1941-46R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-SpringContact_Harwin_S1941-46R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

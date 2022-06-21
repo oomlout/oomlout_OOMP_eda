@@ -1,0 +1,61 @@
+{
+    "index": 7705,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7705
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_SigTra_SC3316F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_SigTra_SC3316F"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.signaltransformer.com/sites/all/pdf/smd/P080_SC3316F.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Choke"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_SigTra_SC3316F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_SigTra_SC3316F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

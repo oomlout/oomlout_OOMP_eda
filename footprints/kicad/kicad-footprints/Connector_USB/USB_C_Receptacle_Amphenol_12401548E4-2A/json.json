@@ -1,0 +1,61 @@
+{
+    "index": 6549,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6549
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_Amphenol_12401548E4-2A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB C Type-C Receptacle Hybrid"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7087,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7087
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, 3.2x1.5mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

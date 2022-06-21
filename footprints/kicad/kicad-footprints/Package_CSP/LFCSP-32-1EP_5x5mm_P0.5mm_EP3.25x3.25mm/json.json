@@ -1,0 +1,61 @@
+{
+    "index": 8941,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8941
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

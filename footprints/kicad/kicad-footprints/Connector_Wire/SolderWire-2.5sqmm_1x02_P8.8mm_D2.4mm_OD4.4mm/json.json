@@ -1,0 +1,61 @@
+{
+    "index": 6856,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6856
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Wire"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SolderWire-2.5sqmm_1x02_P8.8mm_D2.4mm_OD4.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Wire/SolderWire-2.5sqmm_1x02_P8.8mm_D2.4mm_OD4.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Soldered wire connection, for 2 times 2.5 mm\u00b2 wires, reinforced insulation, conductor diameter 2.4mm, outer diameter 4.4mm, size source Multi-Contact FLEXI-xV 2.5 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector wire 2.5sqmm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-2.5sqmm_1x02_P8.8mm_D2.4mm_OD4.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2.5sqmm_1x02_P8.8mm_D2.4mm_OD4.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7982,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7982
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Radial_D7.2mm_P3.00mm_Murata_1700"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Radial_D7.2mm_P3.00mm_Murata_1700"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Radial series, Radial, pin pitch=3.00mm, , diameter=7.2mm, MuRATA, 1700, http://www.murata-ps.com/data/magnetics/kmp_1700.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Radial series Radial pin pitch 3.00mm  diameter 7.2mm MuRATA 1700"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_Murata_1700.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.2mm_P3.00mm_Murata_1700"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

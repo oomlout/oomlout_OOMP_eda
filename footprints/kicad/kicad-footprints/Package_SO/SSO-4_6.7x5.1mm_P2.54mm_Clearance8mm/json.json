@@ -1,0 +1,61 @@
+{
+    "index": 10156,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10156
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSO Stretched SO SOIC 2.54"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

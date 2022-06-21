@@ -1,0 +1,61 @@
+{
+    "index": 11316,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11316
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LEM_HO40-NP"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/LEM_HO40-NP"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LEM HO 40/60/120/150-NP Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-np_0100__1100_series.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "current transducer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HO40-NP.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO40-NP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

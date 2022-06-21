@@ -1,0 +1,61 @@
+{
+    "index": 6554,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6554
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_GCT_USB4115-03-C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4115-03-C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB C Type-C Receptacle SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4115-03-C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4115-03-C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 363,
+    "tags": [
+        {
+            "name": "index",
+            "value": 363
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Elec_10x14.3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_SMD/CP_Elec_10x14.3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor electrolytic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_10x14.3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x14.3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

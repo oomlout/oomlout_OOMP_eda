@@ -1,0 +1,57 @@
+{
+    "index": 12032,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12032
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CONN DEV"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_2Pads_Pitch2.54mm_Drill0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

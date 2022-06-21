@@ -1,0 +1,61 @@
+{
+    "index": 8589,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8589
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Mounting_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mounting_Wuerth_WA-SMST-3.3mm_H5mm_9774050960"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-3.3mm_H5mm_9774050960"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hardware, inside through hole 3.3mm, height 5, Wuerth electronics 9774050960 (https://katalog.we-online.de/em/datasheet/9774050960.pdf,), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mounting 3.3mm 9774050960"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-3.3mm_H5mm_9774050960.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-3.3mm_H5mm_9774050960"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

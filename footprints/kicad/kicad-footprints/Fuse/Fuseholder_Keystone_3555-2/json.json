@@ -1,0 +1,61 @@
+{
+    "index": 7489,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7489
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuseholder_Keystone_3555-2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuseholder_Keystone_3555-2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Maxi APX ATX Automotive Blade Fuse Clip Holder https://www.keyelco.com/userAssets/file/M65p40.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Maxi APX ATX Automotive Blade Fuse Clip Holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Keystone_3555-2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Keystone_3555-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

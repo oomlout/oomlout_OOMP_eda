@@ -1,0 +1,61 @@
+{
+    "index": 9005,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9005
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-12_1.403x1.555mm_P0.4mm_Stagger"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-12_1.403x1.555mm_P0.4mm_Stagger"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-12, 6x4 raster staggered array, 1.403x1.555mm package, pitch 0.4mm; http://ww1.microchip.com/downloads/en/devicedoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=208"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CSP 12 0.2x0.346333"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-12_1.403x1.555mm_P0.4mm_Stagger.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10320,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10320
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_DRC0010J"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/Texas_DRC0010J"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas DRC0010J, VSON10 3x3mm Body, 0.5mm Pitch,  http://www.ti.com/lit/ds/symlink/tps63000.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas VSON10 3x3mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DRC0010J.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DRC0010J"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9142,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9142
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "XDFN4 footprint (as found on the https://www.onsemi.com/pub/Collateral/NCP115-D.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "OnSemi XDFN4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

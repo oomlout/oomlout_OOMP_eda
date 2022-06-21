@@ -1,0 +1,61 @@
+{
+    "index": 6919,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6919
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_MeanWell_IRM-05-xx_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-05-xx_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-05"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ACDC-Converter 5W   Meanwell IRM-05"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-05-xx_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-05-xx_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

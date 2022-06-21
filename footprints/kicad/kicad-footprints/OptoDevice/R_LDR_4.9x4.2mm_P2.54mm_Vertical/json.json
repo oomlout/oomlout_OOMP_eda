@@ -1,0 +1,61 @@
+{
+    "index": 8690,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8690
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_LDR_4.9x4.2mm_P2.54mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/R_LDR_4.9x4.2mm_P2.54mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, LDR 4.9x4.2mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor LDR4.9x4.2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_4.9x4.2mm_P2.54mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_4.9x4.2mm_P2.54mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

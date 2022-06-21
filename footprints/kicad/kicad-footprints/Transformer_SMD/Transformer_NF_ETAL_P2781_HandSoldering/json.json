@@ -1,0 +1,61 @@
+{
+    "index": 12113,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12113
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_NF_ETAL_P2781_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P2781_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "NF-Transformer, ETAL, P2781, SMD, Handsoldering"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NF-Transformer ETAL P2781 SMD Handsoldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P2781_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

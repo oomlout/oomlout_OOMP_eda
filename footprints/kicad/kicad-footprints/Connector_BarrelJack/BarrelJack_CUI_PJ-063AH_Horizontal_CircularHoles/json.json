@@ -1,0 +1,61 @@
+{
+    "index": 1136,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1136
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_BarrelJack"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "barrel jack cui dc power"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 901,
+    "tags": [
+        {
+            "name": "index",
+            "value": 901
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DTF13-12Px"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/DTF13-12Px"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.te.com/usa-en/product-DTF13-12PA-G003.html"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DEUTSCH DT header 12 pin"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/DTF13-12Px.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-DTF13-12Px"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

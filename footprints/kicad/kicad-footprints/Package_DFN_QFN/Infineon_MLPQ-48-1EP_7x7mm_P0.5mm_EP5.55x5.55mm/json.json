@@ -1,0 +1,61 @@
+{
+    "index": 9111,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9111
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mlpq 32 7x7mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

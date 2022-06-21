@@ -1,0 +1,61 @@
+{
+    "index": 10816,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10816
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Bourns_3339P_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_3339P_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, Bourns 3339P, http://www.bourns.com/docs/Product-Datasheets/3339.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical Bourns 3339P"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3339P_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339P_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

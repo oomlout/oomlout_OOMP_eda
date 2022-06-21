@@ -1,0 +1,61 @@
+{
+    "index": 10378,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10378
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diodes_SOT-553"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/Diodes_SOT-553"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOT-553"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Diodes_SOT-553.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Diodes_SOT-553"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

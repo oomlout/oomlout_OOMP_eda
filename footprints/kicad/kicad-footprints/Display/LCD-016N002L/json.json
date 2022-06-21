@@ -1,0 +1,61 @@
+{
+    "index": 7387,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7387
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LCD-016N002L"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/LCD-016N002L"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "16 x 2 Character LCD, http://www.vishay.com/product?docid=37299"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LCD-016N002L 16 x 2 Character LCD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/LCD-016N002L.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

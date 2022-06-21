@@ -1,0 +1,61 @@
+{
+    "index": 7874,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7874
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=24*7.5mm^2, Fastron, MESC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MESC.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 24mm diameter 7.5mm Fastron MESC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

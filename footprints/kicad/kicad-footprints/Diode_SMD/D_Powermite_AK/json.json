@@ -1,0 +1,61 @@
+{
+    "index": 7220,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7220
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_Powermite_AK"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/D_Powermite_AK"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Powermite"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite_AK.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_AK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

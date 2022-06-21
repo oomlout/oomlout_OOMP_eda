@@ -1,0 +1,61 @@
+{
+    "index": 40,
+    "tags": [
+        {
+            "name": "index",
+            "value": 40
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Panasonic CR-2025/V1AK battery,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "battery CR-2025 coin cell vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

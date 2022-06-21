@@ -1,0 +1,57 @@
+{
+    "index": 8377,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8377
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 4mm, no annular"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 4mm no annular"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

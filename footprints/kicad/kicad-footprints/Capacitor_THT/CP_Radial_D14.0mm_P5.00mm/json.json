@@ -1,0 +1,61 @@
+{
+    "index": 583,
+    "tags": [
+        {
+            "name": "index",
+            "value": 583
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Radial_D14.0mm_P5.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/CP_Radial_D14.0mm_P5.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=14mm, Electrolytic Capacitor"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CP Radial series Radial pin pitch 5.00mm  diameter 14mm Electrolytic Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D14.0mm_P5.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D14.0mm_P5.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

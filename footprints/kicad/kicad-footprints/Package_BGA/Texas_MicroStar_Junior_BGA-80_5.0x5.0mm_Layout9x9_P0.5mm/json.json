@@ -1,0 +1,61 @@
+{
+    "index": 8846,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8846
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas Instruments, BGA Microstar Junior, 5x5mm, 80 ball 9x9 grid, NSMD pad definition (http://www.ti.com/lit/ds/symlink/tlv320aic23b.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas_Junior_BGA-80"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8682,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8682
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Osram_SMD-DIL2_4.5x4.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Osram_SMD-DIL2_4.5x4.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PhotoDiode, plastic SMD DIL, 4.5x4mm\u00b2"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PhotoDiode plastic SMD DIL"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SMD-DIL2_4.5x4.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-DIL2_4.5x4.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

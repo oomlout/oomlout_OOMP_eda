@@ -1,0 +1,61 @@
+{
+    "index": 8929,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8929
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP DFN_QFN"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

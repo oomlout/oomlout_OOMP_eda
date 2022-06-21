@@ -1,0 +1,61 @@
+{
+    "index": 7405,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7405
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CC56-12YWA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/CC56-12YWA"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "4 digit 7 segment green LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/CC56-12YWA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12YWA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

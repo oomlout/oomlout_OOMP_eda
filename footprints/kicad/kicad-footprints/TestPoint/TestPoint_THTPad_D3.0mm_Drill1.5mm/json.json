@@ -1,0 +1,57 @@
+{
+    "index": 12087,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12087
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_THTPad_D3.0mm_Drill1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_THTPad_D3.0mm_Drill1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "test point THT pad"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D3.0mm_Drill1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

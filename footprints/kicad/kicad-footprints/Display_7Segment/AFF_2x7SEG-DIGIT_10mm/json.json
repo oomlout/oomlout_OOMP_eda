@@ -1,0 +1,57 @@
+{
+    "index": 7397,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7397
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AFF_2x7SEG-DIGIT_10mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/AFF_2x7SEG-DIGIT_10mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Afficheur 7 segments 10mm DIGIT"
+        },
+        {
+            "name": "kicadTags",
+            "value": "AFFICHEUR"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

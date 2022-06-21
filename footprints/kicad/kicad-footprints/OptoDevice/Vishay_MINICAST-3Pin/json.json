@@ -1,0 +1,61 @@
+{
+    "index": 8708,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8708
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Vishay_MINICAST-3Pin"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Vishay_MINICAST-3Pin"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "IR Receiver Vishay TSOP-xxxx, MINICAST package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "IR Receiver Vishay TSOP-xxxx MINICAST"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_MINICAST-3Pin.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MINICAST-3Pin"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

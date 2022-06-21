@@ -1,0 +1,61 @@
+{
+    "index": 959,
+    "tags": [
+        {
+            "name": "index",
+            "value": 959
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "M Series, 6.35mm (1/4in) stereo jack, switched, with half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hhd2"
+        },
+        {
+            "name": "kicadTags",
+            "value": "neutrik jack m"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

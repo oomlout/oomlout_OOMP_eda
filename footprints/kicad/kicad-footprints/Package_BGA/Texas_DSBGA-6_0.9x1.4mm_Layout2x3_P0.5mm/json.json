@@ -1,0 +1,61 @@
+{
+    "index": 8839,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8839
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas Instruments, DSBGA, 0.9x1.4mm, 6 bump 2x3 (perimeter) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/ts5a3159a.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas Instruments DSBGA BGA YZP R-XBGA-N6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

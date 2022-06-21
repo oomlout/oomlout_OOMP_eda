@@ -1,0 +1,61 @@
+{
+    "index": 11180,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11180
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_CK605"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CK605"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case CK605 (https://ww2.minicircuits.com/case_style/CK605.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits CK605"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CK605.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CK605"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

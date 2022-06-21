@@ -1,0 +1,61 @@
+{
+    "index": 9739,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9739
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_SDIP-10C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/PowerIntegrations_SDIP-10C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PowerIntegrations variant of 10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://www.power.com/sites/default/files/product-docs/tophx_family_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_SDIP-10C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SDIP-10C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11290,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11290
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LuminOX_LOX-O2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor/LuminOX_LOX-O2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SST LuminOX O2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/LuminOX_LOX-O2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-LuminOX_LOX-O2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

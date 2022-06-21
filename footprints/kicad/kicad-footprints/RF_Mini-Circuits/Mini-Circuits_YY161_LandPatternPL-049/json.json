@@ -1,0 +1,61 @@
+{
+    "index": 11201,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11201
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_YY161_LandPatternPL-049"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_YY161_LandPatternPL-049"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case YY161 (https://ww2.minicircuits.com/case_style/YY161.pdf) using land-pattern PL-049, including GND-connections and vias (https://ww2.minicircuits.com/pcb/98-pl049.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mini-circuits pl-049"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_YY161.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161_LandPatternPL-049"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

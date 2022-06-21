@@ -1,0 +1,61 @@
+{
+    "index": 11227,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11227
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IQRF_TRx2DA_KON-SIM-01"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/IQRF_TRx2DA_KON-SIM-01"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8 pin SIM connector for IQRF TR-x2DA(T) modules, http://iqrf.org/weben/downloads.php?id=104"
+        },
+        {
+            "name": "kicadTags",
+            "value": "IQRF_KON-SIM-01 IQRF_TRx2DA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/IQRF_TRx2DA_KON-SIM-01.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-IQRF_TRx2DA_KON-SIM-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

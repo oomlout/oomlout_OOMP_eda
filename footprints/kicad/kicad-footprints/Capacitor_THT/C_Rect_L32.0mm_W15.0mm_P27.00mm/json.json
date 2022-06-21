@@ -1,0 +1,61 @@
+{
+    "index": 833,
+    "tags": [
+        {
+            "name": "index",
+            "value": 833
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Rect_L32.0mm_W15.0mm_P27.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Rect_L32.0mm_W15.0mm_P27.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Rect series, Radial, pin pitch=27.00mm, , length*width=32*15mm^2, Capacitor"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Rect series Radial pin pitch 27.00mm  length 32mm width 15mm Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L32.0mm_W15.0mm_P27.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L32.0mm_W15.0mm_P27.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

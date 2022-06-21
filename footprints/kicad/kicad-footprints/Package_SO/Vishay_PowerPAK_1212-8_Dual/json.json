@@ -1,0 +1,61 @@
+{
+    "index": 10294,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10294
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Vishay_PowerPAK_1212-8_Dual"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Vishay_PowerPAK_1212-8_Dual"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PowerPAK 1212-8 Dual (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72598/72598.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Vishay_PowerPAK_1212-8_Dual"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Dual.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

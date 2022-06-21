@@ -1,0 +1,61 @@
+{
+    "index": 7408,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7408
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DA04-11SEKWA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/DA04-11SEKWA"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SEKWA(Ver.9A).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Dubble digit super bright orange 7 segment LED display"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA04-11SEKWA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA04-11SEKWA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7262,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7262
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_Round_D9.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/Diode_Bridge_Round_D9.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4-lead round diode bridge package, diameter 9.8mm, pin pitch 5.08mm, see http://www.vishay.com/docs/88769/woo5g.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "diode bridge 9.8mm WOG pitch 5.08mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Round_D9.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D9.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

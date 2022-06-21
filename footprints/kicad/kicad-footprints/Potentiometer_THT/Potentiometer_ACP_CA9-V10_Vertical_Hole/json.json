@@ -1,0 +1,61 @@
+{
+    "index": 10776,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10776
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_ACP_CA9-V10_Vertical_Hole"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_ACP_CA9-V10_Vertical_Hole"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, shaft hole, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical hole ACP CA9-V10"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA9-V10_Vertical_Hole.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-V10_Vertical_Hole"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

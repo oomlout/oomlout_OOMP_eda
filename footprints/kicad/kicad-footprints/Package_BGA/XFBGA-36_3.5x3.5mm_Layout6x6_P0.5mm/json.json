@@ -1,0 +1,61 @@
+{
+    "index": 8875,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8875
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "XFBGA-36, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "XFBGA-36"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

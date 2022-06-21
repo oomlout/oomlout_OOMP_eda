@@ -1,0 +1,61 @@
+{
+    "index": 370,
+    "tags": [
+        {
+            "name": "index",
+            "value": 370
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Elec_3x5.3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_SMD/CP_Elec_3x5.3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Capacitor Electrolytic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_3x5.3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_3x5.3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

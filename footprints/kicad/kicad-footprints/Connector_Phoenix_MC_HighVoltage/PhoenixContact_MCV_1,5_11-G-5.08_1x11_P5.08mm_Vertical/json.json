@@ -1,0 +1,61 @@
+{
+    "index": 3663,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3663
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_MC_HighVoltage"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_MCV_1,5_11-G-5.08_1x11_P5.08mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_11-G-5.08_1x11_P5.08mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: MCV_1,5/11-G-5.08; number of pins: 11; pin pitch: 5.08mm; Vertical || order number: 1836383 8A 320V"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector MCV_01x11_G_5.08mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MCV_1,5_11-G-5.08_1x11_P5.08mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MCV_1,5_11-G-5.08_1x11_P5.08mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

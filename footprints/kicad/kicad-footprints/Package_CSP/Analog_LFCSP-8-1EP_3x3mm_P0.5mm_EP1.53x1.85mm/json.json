@@ -1,0 +1,61 @@
+{
+    "index": 8917,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8917
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP 8 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

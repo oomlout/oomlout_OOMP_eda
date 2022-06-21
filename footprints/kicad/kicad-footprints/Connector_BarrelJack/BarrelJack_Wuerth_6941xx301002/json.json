@@ -1,0 +1,61 @@
+{
+    "index": 1141,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1141
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_BarrelJack"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BarrelJack_Wuerth_6941xx301002"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_BarrelJack/BarrelJack_Wuerth_6941xx301002"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector barrel jack"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Wuerth_6941xx301002.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Wuerth_6941xx301002"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

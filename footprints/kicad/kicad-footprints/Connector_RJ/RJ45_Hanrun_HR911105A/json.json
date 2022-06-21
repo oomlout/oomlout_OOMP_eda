@@ -1,0 +1,61 @@
+{
+    "index": 6002,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6002
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Hanrun_HR911105A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Hanrun_HR911105A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.kosmodrom.com.ua/pdf/HR911105A.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RJ45 Magjack"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Hanrun_HR911105A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Hanrun_HR911105A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7497,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7497
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuseholder_Littelfuse_Nano2_157x"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuseholder_Littelfuse_Nano2_157x"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD Nano2 holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_157x.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_Nano2_157x"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

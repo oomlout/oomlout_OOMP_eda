@@ -1,0 +1,61 @@
+{
+    "index": 11140,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11140
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Antenna"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Coilcraft_MA5532-AE_RFID"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "RFID Transponder Coil"
+        },
+        {
+            "name": "kicadTags",
+            "value": "antenna rfid coilcraft"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Coilcraft_MA5532-AE_RFID.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11305,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11305
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Allegro_CB_PSF"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/Allegro_CB_PSF"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Allegro MicroSystems, CB-PSF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Allegro CB-PSF"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PSF.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSF"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

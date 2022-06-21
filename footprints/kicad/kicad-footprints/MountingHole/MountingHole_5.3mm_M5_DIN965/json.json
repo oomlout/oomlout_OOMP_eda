@@ -1,0 +1,57 @@
+{
+    "index": 8383,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8383
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_5.3mm_M5_DIN965"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_5.3mm_M5_DIN965"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 5.3mm, no annular, M5, DIN965"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 5.3mm no annular m5 din965"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_DIN965"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 1223,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1223
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_DIN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIN41612_E_2x16_Male_Horizontal_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_DIN/DIN41612_E_2x16_Male_Horizontal_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DIN41612 connector, type E, Horizontal, 5 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DIN 41612 IEC 60603 E"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_E_2x16_Male_Horizontal_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_E_2x16_Male_Horizontal_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

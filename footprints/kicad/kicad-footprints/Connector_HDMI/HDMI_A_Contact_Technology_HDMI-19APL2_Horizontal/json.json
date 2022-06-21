@@ -1,0 +1,61 @@
+{
+    "index": 1686,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1686
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_HDMI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HDMI Contact Technology Type A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

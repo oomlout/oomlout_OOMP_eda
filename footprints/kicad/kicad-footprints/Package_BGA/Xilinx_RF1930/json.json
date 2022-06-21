@@ -1,0 +1,61 @@
+{
+    "index": 8910,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8910
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Xilinx_RF1930"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/Xilinx_RF1930"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Virtex-7 BGA, 44x44 grid, 45x45mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=307, NSMD pad definition Appendix A"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 1924 1 RF1930"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_RF1930.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_RF1930"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

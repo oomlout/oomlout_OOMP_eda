@@ -1,0 +1,61 @@
+{
+    "index": 8677,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8677
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Osram_DIL2_4.3x4.65mm_P5.08mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PhotoDiode, plastic DIL, 4.3x4.65mm\u00b2, RM5.08"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PhotoDiode plastic DIL RM5.08"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65mm_P5.08mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

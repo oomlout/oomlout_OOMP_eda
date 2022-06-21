@@ -1,0 +1,61 @@
+{
+    "index": 8925,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8925
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP, 16 pin, 4x4mm, 2.1mm sq pad (http://www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP 16 0.65"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

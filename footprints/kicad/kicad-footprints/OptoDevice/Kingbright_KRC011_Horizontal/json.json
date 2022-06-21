@@ -1,0 +1,61 @@
+{
+    "index": 8652,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8652
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kingbright_KRC011_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Kingbright_KRC011_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Subminiature Reflective Optical Sensor, http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Subminiature Reflective Optical Sensor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KRC011_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

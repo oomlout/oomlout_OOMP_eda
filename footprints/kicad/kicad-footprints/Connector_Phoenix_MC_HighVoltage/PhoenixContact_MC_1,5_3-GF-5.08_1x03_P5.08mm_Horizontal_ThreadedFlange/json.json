@@ -1,0 +1,61 @@
+{
+    "index": 3706,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3706
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_MC_HighVoltage"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: MC_1,5/3-GF-5.08; number of pins: 03; pin pitch: 5.08mm; Angled; threaded flange || order number: 1847479 8A 320V"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector MC_01x03_GF_5.08mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_3-GF-5.08_1x03_P5.08mm_Horizontal_ThreadedFlange"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

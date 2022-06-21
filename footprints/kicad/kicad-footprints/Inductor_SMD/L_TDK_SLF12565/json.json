@@ -1,0 +1,61 @@
+{
+    "index": 7735,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7735
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_TDK_SLF12565"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_TDK_SLF12565"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, TDK, SLF12565, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf12565-h_en.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor SLF12565"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF12565.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12565"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

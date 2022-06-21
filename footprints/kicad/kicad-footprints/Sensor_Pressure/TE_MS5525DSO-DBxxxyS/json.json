@@ -1,0 +1,61 @@
+{
+    "index": 11345,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11345
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Pressure"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TE_MS5525DSO-DBxxxyS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Pressure Sensor, Dual-Barbed, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Pressure DualBarbed"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-TE_MS5525DSO-DBxxxyS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

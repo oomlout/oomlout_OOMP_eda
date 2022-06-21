@@ -1,0 +1,61 @@
+{
+    "index": 9040,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9040
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DF Package; 12-Lead Plastic DFN (4mm x 4mm) (see Linear Technology 05081733_A_DF12.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

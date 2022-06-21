@@ -1,0 +1,61 @@
+{
+    "index": 9948,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9948
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TQFP, 52 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_52_1.pdf), generated with kicad-footprint-generator ipc_qfp_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TQFP QFP"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

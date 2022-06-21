@@ -1,0 +1,61 @@
+{
+    "index": 7037,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7037
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_HC50_Horizontal_1EP_style1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_HC50_Horizontal_1EP_style1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC50_Horizontal_1EP_style1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Horizontal_1EP_style1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

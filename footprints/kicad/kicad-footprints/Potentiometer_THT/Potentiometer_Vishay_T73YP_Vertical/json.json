@@ -1,0 +1,61 @@
+{
+    "index": 10871,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10871
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Vishay_T73YP_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_T73YP_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, Vishay T73YP, http://www.vishay.com/docs/51016/t73.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical Vishay T73YP"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T73YP_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T73YP_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

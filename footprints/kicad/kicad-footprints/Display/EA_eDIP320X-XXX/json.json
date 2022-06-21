@@ -1,0 +1,61 @@
+{
+    "index": 7368,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7368
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA_eDIP320X-XXX"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/EA_eDIP320X-XXX"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LCD display 320x340 RS-232 I2C or SPI"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIP320X-XXX.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP320X-XXX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

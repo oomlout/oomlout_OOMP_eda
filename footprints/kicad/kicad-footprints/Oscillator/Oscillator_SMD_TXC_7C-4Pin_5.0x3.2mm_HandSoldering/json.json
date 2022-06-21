@@ -1,0 +1,61 @@
+{
+    "index": 8772,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8772
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Miniature Crystal Clock Oscillator TXC 7C series, http://www.txccorp.com/download/products/osc/7C_o.pdf, hand-soldering, 5.0x3.2mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal oscillator hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 207,
+    "tags": [
+        {
+            "name": "index",
+            "value": 207
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT SPST EVQPL EVQPT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

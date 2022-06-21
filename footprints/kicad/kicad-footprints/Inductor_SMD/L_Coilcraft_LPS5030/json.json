@@ -1,0 +1,61 @@
+{
+    "index": 7643,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7643
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Coilcraft_LPS5030"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Coilcraft_LPS5030"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Shielded Power Inductor SMD, Coilcraft LPS5030, https://www.coilcraft.com/pdfs/lps5030.pdf, StepUp generated footprint"
+        },
+        {
+            "name": "kicadTags",
+            "value": "inductor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS5030"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

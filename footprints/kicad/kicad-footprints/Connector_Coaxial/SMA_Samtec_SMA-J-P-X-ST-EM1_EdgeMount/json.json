@@ -1,0 +1,61 @@
+{
+    "index": 1181,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1181
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMA Straight Samtec Edge Mount"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

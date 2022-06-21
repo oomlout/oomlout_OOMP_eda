@@ -1,0 +1,61 @@
+{
+    "index": 7090,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7090
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, hand-soldering, 5.0x3.2mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

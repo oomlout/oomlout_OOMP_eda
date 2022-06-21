@@ -1,0 +1,61 @@
+{
+    "index": 7458,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7458
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_FILTERCON_1FPxx"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_FILTERCON_1FPxx"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "0.5A, 250VAC, 50/60Hz line filter (https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "EMI filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_FILTERCON_1FPxx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_FILTERCON_1FPxx"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

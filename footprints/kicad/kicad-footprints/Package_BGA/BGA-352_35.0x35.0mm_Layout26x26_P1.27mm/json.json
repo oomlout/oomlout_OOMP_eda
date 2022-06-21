@@ -1,0 +1,61 @@
+{
+    "index": 8795,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8795
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-352_35.0x35.0mm_Layout26x26_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-352, https://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/b352p05.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-352"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-352_35.0x35.0mm_Layout26x26_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

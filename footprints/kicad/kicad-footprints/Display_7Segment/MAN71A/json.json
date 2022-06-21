@@ -1,0 +1,61 @@
+{
+    "index": 7440,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7440
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAN71A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/MAN71A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php"
+        },
+        {
+            "name": "kicadTags",
+            "value": "One digit 7 segment red LED with right dot"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN71A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN71A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

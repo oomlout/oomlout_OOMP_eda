@@ -1,0 +1,61 @@
+{
+    "index": 20,
+    "tags": [
+        {
+            "name": "index",
+            "value": 20
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_2998_1x6.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_2998_1x6.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "www.keyelco.com/product-pdf.cfm?p=763"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Keystone type 2998 battery holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2998_1x6.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2998_1x6.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

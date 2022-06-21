@@ -1,0 +1,57 @@
+{
+    "index": 11475,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11475
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Symbol, Creative Commons Public Domain, SilkScreenTop, Small,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Symbol, Creative Commons Public Domain, SilkScreen Top, Small,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

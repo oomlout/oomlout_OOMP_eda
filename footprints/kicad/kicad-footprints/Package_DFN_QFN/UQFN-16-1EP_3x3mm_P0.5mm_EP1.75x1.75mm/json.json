@@ -1,0 +1,61 @@
+{
+    "index": 9478,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9478
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "16-Lead Ultra Thin Quad Flat, No Lead Package (UC) - 3x3x0.5 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

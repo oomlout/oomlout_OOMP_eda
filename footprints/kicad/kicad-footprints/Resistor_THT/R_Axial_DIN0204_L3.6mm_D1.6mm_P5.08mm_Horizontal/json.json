@@ -1,0 +1,61 @@
+{
+    "index": 11046,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11046
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

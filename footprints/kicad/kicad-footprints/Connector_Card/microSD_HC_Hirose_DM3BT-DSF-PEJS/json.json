@@ -1,0 +1,61 @@
+{
+    "index": 1145,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1145
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Card"
+        },
+        {
+            "name": "oompIndex",
+            "value": "microSD_HC_Hirose_DM3BT-DSF-PEJS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Micro SD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3BT-DSF-PEJS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

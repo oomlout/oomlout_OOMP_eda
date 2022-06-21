@@ -1,0 +1,61 @@
+{
+    "index": 929,
+    "tags": [
+        {
+            "name": "index",
+            "value": 929
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_3.5mm_CUI_SJ1-3524N_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ1-3524N_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TRS audio jack stereo horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3524N_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ1-3524N_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

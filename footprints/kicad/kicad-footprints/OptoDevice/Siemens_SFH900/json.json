@@ -1,0 +1,61 @@
+{
+    "index": 8701,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8701
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Siemens_SFH900"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Siemens_SFH900"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Siemens SFH900 reflex photo interrupter/coupler/object detector, see https://www.batronix.com/pdf/sfh900.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Siemens SFH900 reflex photo interrupter coupler object detector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Siemens_SFH900.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Siemens_SFH900"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

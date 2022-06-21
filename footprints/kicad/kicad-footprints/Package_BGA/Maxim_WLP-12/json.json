@@ -1,0 +1,61 @@
+{
+    "index": 8823,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8823
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Maxim_WLP-12"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/Maxim_WLP-12"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Maxim_WLP-12 W121B2+1 http://pdfserv.maximintegrated.com/package_dwgs/21-0009.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Maxim_WLP-12"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-Maxim_WLP-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

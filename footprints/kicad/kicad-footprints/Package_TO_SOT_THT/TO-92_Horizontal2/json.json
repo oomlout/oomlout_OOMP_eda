@@ -1,0 +1,61 @@
+{
+    "index": 10726,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10726
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-92_Horizontal2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-92_Horizontal2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "to-92 sc-43 sc-43a sot54 PA33 transistor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Horizontal2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_Horizontal2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

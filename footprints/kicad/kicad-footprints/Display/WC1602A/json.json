@@ -1,0 +1,61 @@
+{
+    "index": 7393,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7393
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WC1602A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/WC1602A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LCD 16x2 Alphanumeric 16pin"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/WC1602A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-WC1602A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

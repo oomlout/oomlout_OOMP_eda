@@ -1,0 +1,61 @@
+{
+    "index": 11223,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11223
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "D52M ANT SoC Module https://www.thisisant.com/assets/resources/D00001687_D52_Module_Datasheet.v.2.3_(Garmin).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RF SoC Radio ANT Bluetooth BLE D52 nRF52 Garmin Canada Dynastream Nordic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

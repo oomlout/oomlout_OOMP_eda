@@ -1,0 +1,61 @@
+{
+    "index": 11361,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11361
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Socket"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Wells_648-0482211SA01"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Socket/Wells_648-0482211SA01"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824"
+        },
+        {
+            "name": "kicadTags",
+            "value": "48pin TSOP Socket"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Socket.3dshapes/Wells_648-0482211SA01.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

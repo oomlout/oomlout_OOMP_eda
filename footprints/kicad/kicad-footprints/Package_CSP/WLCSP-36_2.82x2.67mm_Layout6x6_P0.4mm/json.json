@@ -1,0 +1,61 @@
+{
+    "index": 9014,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9014
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00949D.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WLCSP-36"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

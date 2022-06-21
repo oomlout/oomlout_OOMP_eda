@@ -1,0 +1,61 @@
+{
+    "index": 8255,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8255
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Arduino_Nano_WithMountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Arduino_Nano_WithMountingHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Arduino Nano"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_Nano_WithMountingHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Arduino_Nano_WithMountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

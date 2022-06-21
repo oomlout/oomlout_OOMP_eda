@@ -1,0 +1,61 @@
+{
+    "index": 1132,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1132
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MiniXLR-5_Switchcraft_TRAPC_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/MiniXLR-5_Switchcraft_TRAPC_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT Mini XLR 5Pin right angle"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/MiniXLR-5_Switchcraft_TRAPC_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-MiniXLR-5_Switchcraft_TRAPC_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

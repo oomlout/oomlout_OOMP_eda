@@ -1,0 +1,61 @@
+{
+    "index": 10202,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10202
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TI_SO-PowerPAD-8"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/TI_SO-PowerPAD-8"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 0.50 exposed pad"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-TI_SO-PowerPAD-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

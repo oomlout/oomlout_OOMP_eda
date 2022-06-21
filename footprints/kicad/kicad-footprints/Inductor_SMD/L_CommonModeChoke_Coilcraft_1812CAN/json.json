@@ -1,0 +1,61 @@
+{
+    "index": 7651,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7651
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_CommonModeChoke_Coilcraft_1812CAN"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Coilcraft 1812CAN Series Common Mode Choke, https://www.coilcraft.com/pdfs/1812can.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "surface mount common mode bead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Coilcraft_1812CAN.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_1812CAN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

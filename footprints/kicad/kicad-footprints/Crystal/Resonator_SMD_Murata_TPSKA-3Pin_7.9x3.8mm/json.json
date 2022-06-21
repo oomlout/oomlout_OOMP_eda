@@ -1,0 +1,61 @@
+{
+    "index": 7174,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7174
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT ceramic resonator filter filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

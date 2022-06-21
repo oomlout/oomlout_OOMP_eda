@@ -1,0 +1,57 @@
+{
+    "index": 9026,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9026
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

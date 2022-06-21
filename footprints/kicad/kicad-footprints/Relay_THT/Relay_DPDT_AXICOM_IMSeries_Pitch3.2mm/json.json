@@ -1,0 +1,61 @@
+{
+    "index": 10897,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10897
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "AXICOM IM-Series Relays, DPDR, Pitch 3.2mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FV%7Fpdf%7FEnglish%7FENG_SS_108-98001_V_IM_0614_v1.pdf%7F4-1462039-1"
+        },
+        {
+            "name": "kicadTags",
+            "value": "AXICOM IM-Series Relay DPDR Pitch 3.2mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

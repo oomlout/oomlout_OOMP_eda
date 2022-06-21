@@ -1,0 +1,61 @@
+{
+    "index": 7083,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7083
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

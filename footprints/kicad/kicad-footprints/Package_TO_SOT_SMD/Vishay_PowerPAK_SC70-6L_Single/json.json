@@ -1,0 +1,61 @@
+{
+    "index": 10502,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10502
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Vishay_PowerPAK_SC70-6L_Single"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Vishay PowerPAK SC70 single transistor package http://www.vishay.com/docs/70486/70486.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "powerpak sc70 sc-70"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Single.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Single"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

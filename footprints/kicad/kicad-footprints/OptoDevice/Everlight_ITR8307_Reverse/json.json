@@ -1,0 +1,61 @@
+{
+    "index": 8646,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8646
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Everlight_ITR8307_Reverse"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Everlight_ITR8307_Reverse"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Everlight ITR8307 with PCB cutout, light-direction downwards, see http://www.everlight.com/file/ProductFile/ITR8307.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "refective opto couple photo coupler"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307_Reverse.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 3906,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3906
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Pin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Pin/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "solder Pin_ with flat fork"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

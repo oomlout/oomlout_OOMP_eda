@@ -1,0 +1,61 @@
+{
+    "index": 11314,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11314
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Honeywell_CSLW"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/Honeywell_CSLW"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Miniature Wired Open-Loop Current Sensor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Honeywell_CSLW.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

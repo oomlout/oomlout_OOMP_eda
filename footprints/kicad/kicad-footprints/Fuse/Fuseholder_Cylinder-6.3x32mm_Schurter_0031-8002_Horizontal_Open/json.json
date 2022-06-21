@@ -1,0 +1,61 @@
+{
+    "index": 7487,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7487
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fuseholder, horizontal, open, 6.3x32, Schurter, 0031.8002, https://www.schurter.com/en/datasheet/typ_OG__Holder__6.3x32.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Fuseholder horizontal open 6.3x32 Schurter 0031.8002"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

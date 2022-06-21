@@ -1,0 +1,61 @@
+{
+    "index": 12128,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12128
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Autotransformer_ZS1052-AC"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ignition coil autotransformer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

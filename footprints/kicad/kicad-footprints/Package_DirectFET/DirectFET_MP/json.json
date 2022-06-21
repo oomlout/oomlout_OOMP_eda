@@ -1,0 +1,61 @@
+{
+    "index": 9812,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9812
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DirectFET"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DirectFET_MP"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DirectFET/DirectFET_MP"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DirectFET MP https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=28"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DirectFET MP MOSFET Infineon"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MP.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 5,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Eagle_12BH611-GR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Eagle_12BH611-GR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "9V Battery Holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Eagle_12BH611-GR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Eagle_12BH611-GR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

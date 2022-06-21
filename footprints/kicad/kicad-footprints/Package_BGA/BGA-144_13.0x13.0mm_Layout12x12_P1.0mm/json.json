@@ -1,0 +1,61 @@
+{
+    "index": 8782,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8782
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-144_13.0x13.0mm_Layout12x12_P1.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-144, http://www.topline.tv/drawings/pdf/BGA%201,0mm%20pitch/LBGA144T1.0-DC128.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-144"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

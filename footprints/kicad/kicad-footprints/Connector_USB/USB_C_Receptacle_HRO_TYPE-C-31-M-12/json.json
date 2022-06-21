@@ -1,0 +1,61 @@
+{
+    "index": 6555,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6555
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "usb usb-c 2.0 pd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

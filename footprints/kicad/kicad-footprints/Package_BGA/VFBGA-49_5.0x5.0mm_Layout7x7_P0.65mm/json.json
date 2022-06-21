@@ -1,0 +1,61 @@
+{
+    "index": 8867,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8867
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VFBGA-49, 7x7, 5x5mm package, pitch 0.65mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VFBGA-49"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

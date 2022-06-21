@@ -1,0 +1,61 @@
+{
+    "index": 10086,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10086
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC-74-6_1.5x2.9mm_P0.95mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SC-74-6_1.5x2.9mm_P0.95mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SC-74, 6 Pin (https://www.nxp.com/docs/en/package-information/SOT457.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SC-74 SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SC-74-6_1.5x2.9mm_P0.95mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

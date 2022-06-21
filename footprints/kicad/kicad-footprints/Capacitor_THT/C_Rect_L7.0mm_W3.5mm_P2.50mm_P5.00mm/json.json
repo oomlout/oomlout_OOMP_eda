@@ -1,0 +1,61 @@
+{
+    "index": 856,
+    "tags": [
+        {
+            "name": "index",
+            "value": 856
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Rect series, Radial, pin pitch=2.50mm 5.00mm, , length*width=7*3.5mm^2, Capacitor"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Rect series Radial pin pitch 2.50mm 5.00mm  length 7mm width 3.5mm Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L7.0mm_W3.5mm_P2.50mm_P5.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

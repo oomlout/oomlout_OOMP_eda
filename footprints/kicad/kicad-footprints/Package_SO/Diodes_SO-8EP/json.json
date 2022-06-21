@@ -1,0 +1,61 @@
+{
+    "index": 9978,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9978
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diodes_SO-8EP"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Diodes_SO-8EP"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-Lead Plastic SO, Exposed Die Pad (see https://www.diodes.com/assets/Package-Files/SO-8EP.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SO exposed pad"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_SO-8EP.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

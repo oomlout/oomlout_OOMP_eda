@@ -1,0 +1,61 @@
+{
+    "index": 276,
+    "tags": [
+        {
+            "name": "index",
+            "value": 276
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_E-Switch_EG1224_SPDT_Angled"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1224_SPDT_Angled"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch SPDT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1224_SPDT_Angled"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

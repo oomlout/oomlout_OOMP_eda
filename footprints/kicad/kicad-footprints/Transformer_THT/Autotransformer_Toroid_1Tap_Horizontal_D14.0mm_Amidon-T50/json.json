@@ -1,0 +1,61 @@
+{
+    "index": 12126,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12126
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Choke, Inductance, Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 14mm, Amidon T50,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Choke Inductance Autotransformer Toroid horizontal laying 1 Tap Diameter 14mm Amidon T50"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

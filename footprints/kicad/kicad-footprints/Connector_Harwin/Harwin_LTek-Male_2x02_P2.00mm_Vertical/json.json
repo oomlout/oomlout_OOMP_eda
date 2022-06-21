@@ -1,0 +1,61 @@
+{
+    "index": 1632,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1632
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Harwin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Harwin_LTek-Male_2x02_P2.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Harwin/Harwin_LTek-Male_2x02_P2.00mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Harwin LTek Connector, 4 pins, single row male, vertical entry"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector harwin ltek M80"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_2x02_P2.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x02_P2.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

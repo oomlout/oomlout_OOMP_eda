@@ -1,0 +1,61 @@
+{
+    "index": 9379,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9379
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_QFN-41_10x16mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_QFN-41_10x16mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 41 Pin (http://www.ti.com/lit/ml/mpqf506/mpqf506.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN DFN_QFN"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_QFN-41_10x16mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

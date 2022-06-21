@@ -1,0 +1,61 @@
+{
+    "index": 6496,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6496
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_TE-Connectivity"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TE_826576-6_1x06_P3.96mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_TE-Connectivity/TE_826576-6_1x06_P3.96mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TE, 826576-6, 6 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector TE 826576 vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_826576-6_1x06_P3.96mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_826576-6_1x06_P3.96mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

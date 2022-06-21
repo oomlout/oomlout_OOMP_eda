@@ -1,0 +1,61 @@
+{
+    "index": 10093,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10093
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-20_12.8x7.5mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SO-20_12.8x7.5mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "S0-20"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-20_12.8x7.5mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-20_12.8x7.5mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

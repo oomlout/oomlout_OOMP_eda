@@ -1,0 +1,61 @@
+{
+    "index": 11508,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11508
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_bornier-2_P5.08mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock/TerminalBlock_bornier-2_P5.08mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2"
+        },
+        {
+            "name": "kicadTags",
+            "value": "terminal block bornier2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-2_P5.08mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

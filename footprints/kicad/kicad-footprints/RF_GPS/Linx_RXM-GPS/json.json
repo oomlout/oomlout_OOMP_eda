@@ -1,0 +1,61 @@
+{
+    "index": 11153,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11153
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Linx_RXM-GPS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/Linx_RXM-GPS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "GPS Module, Linx (https://linxtechnologies.com/wp/wp-content/uploads/rxm-gps-rm.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "gps linx"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Linx_RXM-GPS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-Linx_RXM-GPS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

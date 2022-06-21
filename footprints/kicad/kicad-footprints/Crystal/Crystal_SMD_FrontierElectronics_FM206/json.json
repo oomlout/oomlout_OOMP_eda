@@ -1,0 +1,61 @@
+{
+    "index": 7104,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7104
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_FrontierElectronics_FM206"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_FrontierElectronics_FM206"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "['FM206']"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_FrontierElectronics_FM206.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FrontierElectronics_FM206"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

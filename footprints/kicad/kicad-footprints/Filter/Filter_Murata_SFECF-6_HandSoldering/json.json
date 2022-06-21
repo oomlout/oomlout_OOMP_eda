@@ -1,0 +1,61 @@
+{
+    "index": 7468,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7468
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_Murata_SFECF-6_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_Murata_SFECF-6_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "10.7MHz smd ceramic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

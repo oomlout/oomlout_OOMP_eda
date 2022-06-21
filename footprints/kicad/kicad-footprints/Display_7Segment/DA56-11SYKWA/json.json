@@ -1,0 +1,61 @@
+{
+    "index": 7414,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7414
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DA56-11SYKWA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/DA56-11SYKWA"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SYKWA(Ver.11A).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Double digit seven segment super bright yellow LED display"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA56-11SYKWA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SYKWA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

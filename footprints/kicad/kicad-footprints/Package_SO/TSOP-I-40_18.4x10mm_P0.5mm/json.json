@@ -1,0 +1,57 @@
+{
+    "index": 10220,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10220
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP-I-40_18.4x10mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/TSOP-I-40_18.4x10mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation CD), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TSOP-I SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-40_18.4x10mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10188,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10188
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_MultiPowerSO-30"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/ST_MultiPowerSO-30"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm (http://www.st.com/resource/en/datasheet/vnh2sp30-e.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_MultiPowerSO-30"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

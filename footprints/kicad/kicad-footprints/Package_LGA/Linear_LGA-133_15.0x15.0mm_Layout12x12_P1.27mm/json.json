@@ -1,0 +1,61 @@
+{
+    "index": 9868,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9868
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "133 pin lga"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

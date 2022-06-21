@@ -1,0 +1,61 @@
+{
+    "index": 170,
+    "tags": [
+        {
+            "name": "index",
+            "value": 170
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "push horizontal SPST 1P1T"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

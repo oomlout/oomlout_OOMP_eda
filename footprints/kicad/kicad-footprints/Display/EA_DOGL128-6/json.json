@@ -1,0 +1,61 @@
+{
+    "index": 7361,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7361
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA_DOGL128-6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/EA_DOGL128-6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Graphical,Display,LCD,128x64 https://www.lcd-module.com/eng/pdf/grafik/dogl128-6e.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "EA DOGL128"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGL128-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGL128-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

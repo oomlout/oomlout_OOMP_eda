@@ -1,0 +1,57 @@
+{
+    "index": 11498,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11498
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UKCA-Logo_8x8mm_SilkScreen"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/UKCA-Logo_8x8mm_SilkScreen"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UKCA marking"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Logo UKCA marking"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-UKCA-Logo_8x8mm_SilkScreen"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

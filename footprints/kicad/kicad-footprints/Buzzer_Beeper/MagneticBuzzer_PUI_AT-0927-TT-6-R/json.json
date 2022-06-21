@@ -1,0 +1,61 @@
+{
+    "index": 336,
+    "tags": [
+        {
+            "name": "index",
+            "value": 336
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MagneticBuzzer_PUI_AT-0927-TT-6-R"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Buzzer Magnetic 9mm AT-0927-TT-6-R"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_PUI_AT-0927-TT-6-R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

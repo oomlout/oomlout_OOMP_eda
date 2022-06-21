@@ -1,0 +1,61 @@
+{
+    "index": 324,
+    "tags": [
+        {
+            "name": "index",
+            "value": 324
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Buzzer_Murata_PKLCS1212E"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Murata Buzzer https://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Murata Buzzer Beeper"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Murata_PKLCS1212E.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

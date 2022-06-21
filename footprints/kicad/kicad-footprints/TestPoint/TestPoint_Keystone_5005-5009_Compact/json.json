@@ -1,0 +1,61 @@
+{
+    "index": 12044,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12044
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Keystone_5005-5009_Compact"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Keystone_5005-5009_Compact"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Through Hole Mount Test Points"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5005-5009_Compact.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5005-5009_Compact"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

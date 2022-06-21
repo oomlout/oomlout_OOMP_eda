@@ -1,0 +1,61 @@
+{
+    "index": 7180,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7180
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_OnSemi_SDIP-4L"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/Diode_Bridge_OnSemi_SDIP-4L"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "OnSemi Diode Bridge SDIP-4L"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_OnSemi_SDIP-4L.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_OnSemi_SDIP-4L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

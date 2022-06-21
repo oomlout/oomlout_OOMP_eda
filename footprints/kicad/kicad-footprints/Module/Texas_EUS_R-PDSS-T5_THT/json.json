@@ -1,0 +1,61 @@
+{
+    "index": 8271,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8271
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_EUS_R-PDSS-T5_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Texas_EUS_R-PDSS-T5_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas Instruments EUS 5 Pin Double Sided Module"
+        },
+        {
+            "name": "kicadTags",
+            "value": "module pcb"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Texas_EUSR-PDSS-T5_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUS_R-PDSS-T5_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

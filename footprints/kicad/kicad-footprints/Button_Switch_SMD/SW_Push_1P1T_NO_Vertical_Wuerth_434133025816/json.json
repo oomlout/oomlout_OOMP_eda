@@ -1,0 +1,61 @@
+{
+    "index": 177,
+    "tags": [
+        {
+            "name": "index",
+            "value": 177
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://katalog.we-online.com/em/datasheet/434133025816.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tactile switch Wurth Wuerth"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

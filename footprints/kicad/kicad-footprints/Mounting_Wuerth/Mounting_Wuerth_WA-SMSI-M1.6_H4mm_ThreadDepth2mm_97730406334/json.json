@@ -1,0 +1,61 @@
+{
+    "index": 8478,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8478
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Mounting_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mounting_Wuerth_WA-SMSI-M1.6_H4mm_ThreadDepth2mm_97730406334"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSI-M1.6_H4mm_ThreadDepth2mm_97730406334"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hardware, inside blind hole M1.6, height 4, Wuerth electronics 97730406334 (https://katalog.we-online.com/em/datasheet/97730406334.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mounting M1.6 97730406334"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H4mm_ThreadDepth2mm_97730406334.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H4mm_ThreadDepth2mm_97730406334"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

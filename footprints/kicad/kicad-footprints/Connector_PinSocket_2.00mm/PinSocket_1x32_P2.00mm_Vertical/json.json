@@ -1,0 +1,61 @@
+{
+    "index": 5556,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5556
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinSocket_2.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinSocket_1x32_P2.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinSocket_2.00mm/PinSocket_1x32_P2.00mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Through hole straight socket strip, 1x32, 2.00mm pitch, single row (from Kicad 4.0.7), script generated"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Through hole socket strip THT 1x32 2.00mm single row"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x32_P2.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x32_P2.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

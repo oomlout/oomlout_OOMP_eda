@@ -1,0 +1,61 @@
+{
+    "index": 7695,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7695
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Neosid_SMs85"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Neosid_SMs85"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Neosid, Inductor, SMs85, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs85.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Neosid Inductor SMs85 Fixed inductor SMD magnetically shielded"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SMs85.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs85"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

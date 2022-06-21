@@ -1,0 +1,61 @@
+{
+    "index": 7688,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7688
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Neosid_SM-PIC0602H"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Neosid_SM-PIC0602H"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Neosid, Power Inductor, SM-PIC0602H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0602H.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Neosid Power Inductor SM-PIC0602H Fixed inductor SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-PIC0602H.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-PIC0602H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "index": 6901,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6901
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Wire"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SolderWirePad_1x01_SMD_1x2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Wire/SolderWirePad_1x01_SMD_1x2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Wire Pad, Square, SMD Pad,  5mm x 10mm,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MesurementPoint Square SMDPad 5mmx10mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_1x2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

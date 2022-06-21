@@ -1,0 +1,57 @@
+{
+    "index": 12033,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12033
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_2Pads_Pitch5.08mm_Drill1.3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_2Pads_Pitch5.08mm_Drill1.3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CONN DEV"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_2Pads_Pitch5.08mm_Drill1.3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "index": 3298,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3298
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PCBEdge"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUS_AT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PCBEdge/BUS_AT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "AT ISA 16 bits Bus Edge Connector"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BUS ISA AT Edge connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_AT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

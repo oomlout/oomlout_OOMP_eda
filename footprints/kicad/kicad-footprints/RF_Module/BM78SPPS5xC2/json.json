@@ -1,0 +1,61 @@
+{
+    "index": 11205,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11205
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BM78SPPS5xC2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/BM78SPPS5xC2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Bluetooth BR/EDR BLE"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/BM78SPPS5xC2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-BM78SPPS5xC2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

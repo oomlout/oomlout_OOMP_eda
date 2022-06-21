@@ -1,0 +1,61 @@
+{
+    "index": 7161,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7161
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT ceramic resonator filter CSTLSxxxX"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

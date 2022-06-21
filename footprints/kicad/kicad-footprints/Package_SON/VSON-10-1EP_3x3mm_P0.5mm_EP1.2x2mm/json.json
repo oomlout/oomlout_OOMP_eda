@@ -1,0 +1,61 @@
+{
+    "index": 10336,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10336
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VSON NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

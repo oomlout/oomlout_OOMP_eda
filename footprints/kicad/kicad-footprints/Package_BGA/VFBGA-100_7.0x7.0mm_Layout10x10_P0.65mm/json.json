@@ -1,0 +1,61 @@
+{
+    "index": 8866,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8866
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VFBGA-100, 10x10, 7x7mm package, pitch 0.65mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VFBGA-100"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

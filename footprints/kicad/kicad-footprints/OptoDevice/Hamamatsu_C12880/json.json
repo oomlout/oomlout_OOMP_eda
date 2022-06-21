@@ -1,0 +1,61 @@
+{
+    "index": 8648,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8648
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Hamamatsu_C12880"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Hamamatsu_C12880"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Hamamatsu spectrometer, see http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "opto spectrometer Hamamatsu"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_C12880.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

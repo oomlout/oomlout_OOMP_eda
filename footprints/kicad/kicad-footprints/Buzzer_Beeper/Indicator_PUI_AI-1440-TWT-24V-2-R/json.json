@@ -1,0 +1,61 @@
+{
+    "index": 327,
+    "tags": [
+        {
+            "name": "index",
+            "value": 327
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Indicator_PUI_AI-1440-TWT-24V-2-R"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/Indicator_PUI_AI-1440-TWT-24V-2-R"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "14mm Indicator, https://www.puiaudio.com/media/SpecSheet/AI-1440-TWT-24V-2-R.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "piezo buzzer self drive oscillator"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Indicator_PUI_AI-1440-TWT-24V-2-R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

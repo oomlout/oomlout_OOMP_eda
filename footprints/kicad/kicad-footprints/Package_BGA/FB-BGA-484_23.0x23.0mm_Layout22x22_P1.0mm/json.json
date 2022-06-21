@@ -1,0 +1,61 @@
+{
+    "index": 8810,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8810
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Xilinx FB-484, https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "FB-BGA-484"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

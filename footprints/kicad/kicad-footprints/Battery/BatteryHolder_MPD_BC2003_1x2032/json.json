@@ -1,0 +1,61 @@
+{
+    "index": 31,
+    "tags": [
+        {
+            "name": "index",
+            "value": 31
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_MPD_BC2003_1x2032"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_MPD_BC2003_1x2032"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BC2003 CR2032 2032 Battery Holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC2003_1x2032.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC2003_1x2032"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

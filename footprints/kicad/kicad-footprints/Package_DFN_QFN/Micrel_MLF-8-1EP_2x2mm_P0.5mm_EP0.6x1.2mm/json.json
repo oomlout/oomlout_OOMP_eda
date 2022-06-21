@@ -1,0 +1,61 @@
+{
+    "index": 9118,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9118
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Micrel  MLF, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Micrel MLF NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

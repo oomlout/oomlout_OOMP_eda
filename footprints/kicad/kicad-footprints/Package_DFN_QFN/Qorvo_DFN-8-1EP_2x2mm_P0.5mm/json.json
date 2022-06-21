@@ -1,0 +1,61 @@
+{
+    "index": 9356,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9356
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Qorvo_DFN-8-1EP_2x2mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Qorvo_DFN-8-1EP_2x2mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DFN 8 2x2mm, 0.5mm http://www.qorvo.com/products/d/da000896"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.5 Qorvo 2x2mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Qorvo_DFN-8-1EP_2x2mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Qorvo_DFN-8-1EP_2x2mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7181,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7181
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_Vishay_DFS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/Diode_Bridge_Vishay_DFS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9962,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9962
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_eSIP-7F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7F"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "eSIP-7F Flat Package with Heatsink Tab https://ac-dc.power.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Power Integrations L Package"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

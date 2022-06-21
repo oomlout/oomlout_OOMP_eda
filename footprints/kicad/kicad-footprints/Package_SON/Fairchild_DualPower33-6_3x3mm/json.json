@@ -1,0 +1,61 @@
+{
+    "index": 10304,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10304
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fairchild_DualPower33-6_3x3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/Fairchild_DualPower33-6_3x3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mosfet"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Fairchild_DualPower33-6_3x3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

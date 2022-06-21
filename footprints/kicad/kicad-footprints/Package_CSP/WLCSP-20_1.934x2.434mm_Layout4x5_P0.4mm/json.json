@@ -1,0 +1,61 @@
+{
+    "index": 9010,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9010
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-20, 4x5 raster, 1.934x2.434mm package, pitch 0.4mm; see section 36.2.3 of http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 20 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

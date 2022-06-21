@@ -1,0 +1,61 @@
+{
+    "index": 11335,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11335
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Distance"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_VL53L1x"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Distance/ST_VL53L1x"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VL53L1x distance sensor"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VL53L1CXV0FY1 VL53L1x"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Distance.3dshapes/ST_VL53L1x.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Distance-ST_VL53L1x"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

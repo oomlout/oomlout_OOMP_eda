@@ -1,0 +1,61 @@
+{
+    "index": 2819,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2819
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex Micro-Latch Wire-to-Board Connector System, 53253-0870 (compatible alternatives: 53253-0850), 8 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex Micro-Latch side entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53253-0870_1x08_P2.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

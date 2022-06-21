@@ -1,0 +1,57 @@
+{
+    "index": 11295,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11295
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Winson_GM-402B_5x5mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Winson"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

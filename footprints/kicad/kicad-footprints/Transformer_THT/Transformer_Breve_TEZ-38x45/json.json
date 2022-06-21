@@ -1,0 +1,61 @@
+{
+    "index": 12133,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12133
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Breve_TEZ-38x45"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-38x45"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.breve.pl/pdf/ANG/TEZ_ang.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TEZ PCB Transformer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Breve_TEZ-38x45.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-38x45"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

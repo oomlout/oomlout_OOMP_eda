@@ -1,0 +1,61 @@
+{
+    "index": 6937,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6937
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_Bothhand_CFUSxxxx_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_Bothhand_CFUSxxxx_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand),"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DCDC-Converter BOTHHAND Type CFxxxx-Serie"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Bothhand_CFUSxxxx_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUSxxxx_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7439,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7439
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAN3820A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/MAN3820A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php"
+        },
+        {
+            "name": "kicadTags",
+            "value": "One digit 7 segment yellow LED with left dot"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3820A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3820A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

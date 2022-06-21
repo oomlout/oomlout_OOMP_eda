@@ -1,0 +1,61 @@
+{
+    "index": 11039,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11039
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Array_SIP5"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_THT/R_Array_SIP5"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "5-pin Resistor SIP pack"
+        },
+        {
+            "name": "kicadTags",
+            "value": "R"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP5.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11327,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11327
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LEM_HX10-P-SP2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/LEM_HX10-P-SP2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LEM HX10-P-SP2 hall effect current transducer (https://www.lem.com/sites/default/files/products_datasheets/hx%203_50-p_sp2_e%20v07.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "hall current"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX10-P-SP2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX10-P-SP2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

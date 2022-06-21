@@ -1,0 +1,61 @@
+{
+    "index": 6942,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6942
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_Cyntec_MUN12AD01-SH"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_Cyntec_MUN12AD01-SH"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD01-SH_Datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Power Module uPOL MUN12AD01"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cyntec_MUN12AD01-SH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

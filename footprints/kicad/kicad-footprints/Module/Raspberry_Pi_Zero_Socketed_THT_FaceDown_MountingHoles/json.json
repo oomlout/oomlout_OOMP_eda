@@ -1,0 +1,61 @@
+{
+    "index": 8266,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8266
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "raspberry pi zero through hole"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

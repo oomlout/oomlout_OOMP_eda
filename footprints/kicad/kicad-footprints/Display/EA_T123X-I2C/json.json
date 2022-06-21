@@ -1,0 +1,61 @@
+{
+    "index": 7375,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7375
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA_T123X-I2C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/EA_T123X-I2C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.lcd-module.de/pdf/doma/t123-i2c.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "3 Line 12 character wide alpha numeric LCD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_T123X-I2C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

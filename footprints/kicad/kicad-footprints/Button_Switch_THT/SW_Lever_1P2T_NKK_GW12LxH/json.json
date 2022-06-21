@@ -1,0 +1,61 @@
+{
+    "index": 279,
+    "tags": [
+        {
+            "name": "index",
+            "value": 279
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Lever_1P2T_NKK_GW12LxH"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Lever_1P2T_NKK_GW12LxH"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch single-pole double-throw spdt ON-ON horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Lever_1P2T_NKK_GW12LxH.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Lever_1P2T_NKK_GW12LxH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

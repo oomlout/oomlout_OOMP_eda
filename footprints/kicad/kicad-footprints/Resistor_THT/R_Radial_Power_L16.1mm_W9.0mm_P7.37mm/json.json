@@ -1,0 +1,61 @@
+{
+    "index": 11134,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11134
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Radial_Power_L16.1mm_W9.0mm_P7.37mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, Radial_Power series, Radial, pin pitch=7.37mm, 10W, length*width=16.1*9mm^2, http://www.vishay.com/docs/30218/cpcx.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

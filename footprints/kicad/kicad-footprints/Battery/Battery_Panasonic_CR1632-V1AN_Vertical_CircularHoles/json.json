@@ -1,0 +1,61 @@
+{
+    "index": 39,
+    "tags": [
+        {
+            "name": "index",
+            "value": 39
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D464.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "battery CR-1632 coin cell vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

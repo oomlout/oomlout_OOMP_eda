@@ -1,0 +1,61 @@
+{
+    "index": 9132,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9132
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-Pin ePad 3mm x 3mm MLF - 3x3x0.85 mm Body (see Microchip datasheet http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN MLF 0.65"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

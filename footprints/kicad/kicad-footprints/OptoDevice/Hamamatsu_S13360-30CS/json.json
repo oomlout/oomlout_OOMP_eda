@@ -1,0 +1,61 @@
+{
+    "index": 8649,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8649
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Hamamatsu_S13360-30CS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Hamamatsu_S13360-30CS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SiPM, 2pin"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Hamamatsu SiPM"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_S13360-30CS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_S13360-30CS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

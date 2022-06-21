@@ -1,0 +1,61 @@
+{
+    "index": 12199,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12199
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Valve"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Valve_Octal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Valve/Valve_Octal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-pin round valve"
+        },
+        {
+            "name": "kicadTags",
+            "value": "valve"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Octal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Octal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

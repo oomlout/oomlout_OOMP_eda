@@ -1,0 +1,61 @@
+{
+    "index": 10509,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10509
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIPAK-1EP_Horizontal_TabDown"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/SIPAK-1EP_Horizontal_TabDown"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIPAK, Horizontal, RM 2.286mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIPAK Horizontal RM 2.286mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK-1EP_Horizontal_TabDown.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK-1EP_Horizontal_TabDown"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

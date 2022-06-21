@@ -1,0 +1,61 @@
+{
+    "index": 8146,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8146
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_RGB_Getian_GT-P6PRGB4303"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_RGB_Getian_GT-P6PRGB4303"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED RGB"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Getian_GT-P6PRGB4303.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Getian_GT-P6PRGB4303"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

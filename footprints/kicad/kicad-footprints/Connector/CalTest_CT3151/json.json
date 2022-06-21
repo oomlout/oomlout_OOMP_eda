@@ -1,0 +1,61 @@
+{
+    "index": 896,
+    "tags": [
+        {
+            "name": "index",
+            "value": 896
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CalTest_CT3151"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/CalTest_CT3151"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "banana jack horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CalTest_CT3151.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-CalTest_CT3151"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

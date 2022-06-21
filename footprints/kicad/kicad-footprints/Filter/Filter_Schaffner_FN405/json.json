@@ -1,0 +1,61 @@
+{
+    "index": 7471,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7471
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_Schaffner_FN405"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_Schaffner_FN405"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "EMI filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN405.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN405"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

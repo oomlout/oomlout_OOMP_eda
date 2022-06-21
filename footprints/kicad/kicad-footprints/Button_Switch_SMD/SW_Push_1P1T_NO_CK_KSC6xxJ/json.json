@@ -1,0 +1,61 @@
+{
+    "index": 174,
+    "tags": [
+        {
+            "name": "index",
+            "value": 174
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Push_1P1T_NO_CK_KSC6xxJ"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC6xxJ"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CK components KSC6 tactile switch https://www.ckswitches.com/media/1972/ksc6.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tactile switch ksc6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC6xxJxxx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC6xxJ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

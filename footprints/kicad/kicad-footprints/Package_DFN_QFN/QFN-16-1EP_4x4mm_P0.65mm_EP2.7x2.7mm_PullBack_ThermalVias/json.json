@@ -1,0 +1,61 @@
+{
+    "index": 9168,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9168
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 16 Pin (https://ams.com/documents/20143/36005/AS5055A_DS000304_2-00.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 29,
+    "tags": [
+        {
+            "name": "index",
+            "value": 29
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_MPD_BA9VPC_1xPP3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_MPD_BA9VPC_1xPP3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "1xPP3 (9V) battery holder, Memory Protection Devices P/N BA9VPC, http://www.memoryprotectiondevices.com/datasheets/BA9VPC-datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PP3 Battery Holder BA9VPC 9V"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BA9VPC_1xPP3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BA9VPC_1xPP3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

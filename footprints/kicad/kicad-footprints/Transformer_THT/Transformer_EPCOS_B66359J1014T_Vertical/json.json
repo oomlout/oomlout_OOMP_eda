@@ -1,0 +1,61 @@
+{
+    "index": 12161,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12161
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_EPCOS_B66359J1014T_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359J1014T_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Transformer, Transformator, ETD29, 14 Pin, Vertical, EPCOS-B66359J1014T,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Transformer Transformator ETD29 14 Pin Vertical EPCOS-B66359J1014T"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_EPCOS_B66359J1014T_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

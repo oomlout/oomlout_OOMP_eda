@@ -1,0 +1,61 @@
+{
+    "index": 9965,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9965
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP-8_19x3mm_P2.54mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/SIP-8_19x3mm_P2.54mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIP 8-pin (http://www.njr.com/semicon/PDF/package/SIP8_E.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIP8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-8_19x3mm_P2.54mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-8_19x3mm_P2.54mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

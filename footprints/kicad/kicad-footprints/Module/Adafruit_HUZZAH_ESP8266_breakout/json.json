@@ -1,0 +1,61 @@
+{
+    "index": 8252,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8252
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Adafruit_HUZZAH_ESP8266_breakout"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Adafruit_HUZZAH_ESP8266_breakout"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ESP8266 WiFi microcontroller"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_HUZZAH_ESP8266_breakout.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

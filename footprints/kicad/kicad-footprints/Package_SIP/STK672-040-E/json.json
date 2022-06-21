@@ -1,0 +1,61 @@
+{
+    "index": 9975,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9975
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "STK672-040-E"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/STK672-040-E"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIP-22 (http://www.onsemi.com/pub_link/Collateral/EN5227-D.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIP-22"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/STK672-040-E.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-040-E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9392,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9392
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_RUM0016A_EP2.6x2.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_RUM0016A_EP2.6x2.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RUM0016A_EP2.6x2.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RUM0016A_EP2.6x2.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

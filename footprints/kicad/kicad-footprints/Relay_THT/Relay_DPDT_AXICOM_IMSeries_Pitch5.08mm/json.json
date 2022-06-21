@@ -1,0 +1,61 @@
+{
+    "index": 10898,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10898
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "AXICOM IM-Series Relays, DPDR, Pitch 5.08"
+        },
+        {
+            "name": "kicadTags",
+            "value": "AXICOM IM-Series Relay DPDR Pitch 5.08"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

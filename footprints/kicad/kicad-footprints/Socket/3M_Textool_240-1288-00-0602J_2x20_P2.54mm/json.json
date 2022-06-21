@@ -1,0 +1,61 @@
+{
+    "index": 11347,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11347
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Socket"
+        },
+        {
+            "name": "oompIndex",
+            "value": "3M_Textool_240-1288-00-0602J_2x20_P2.54mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL ZIF 25.4mm 1000mil Socket"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Socket.3dshapes/3M_Textool_240-1288-00-0602J_2x20_P2.54mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Socket-3M_Textool_240-1288-00-0602J_2x20_P2.54mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

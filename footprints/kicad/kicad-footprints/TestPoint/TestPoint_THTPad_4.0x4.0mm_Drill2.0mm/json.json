@@ -1,0 +1,57 @@
+{
+    "index": 12082,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12082
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_THTPad_4.0x4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_THTPad_4.0x4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "test point THT pad rectangle square"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_4.0x4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

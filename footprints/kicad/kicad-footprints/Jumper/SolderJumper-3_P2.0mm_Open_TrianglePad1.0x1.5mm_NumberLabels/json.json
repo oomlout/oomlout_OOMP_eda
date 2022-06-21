@@ -1,0 +1,57 @@
+{
+    "index": 8083,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8083
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Jumper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Jumper/SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers"
+        },
+        {
+            "name": "kicadTags",
+            "value": "solder jumper open"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

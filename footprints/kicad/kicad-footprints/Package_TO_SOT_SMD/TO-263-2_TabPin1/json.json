@@ -1,0 +1,61 @@
+{
+    "index": 10470,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10470
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-263-2_TabPin1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/TO-263-2_TabPin1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2_TabPin1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 6553,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6553
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_GCT_USB4085"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_GCT_USB4085"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB Type-C Receptacle Through-hole Right angle"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4085.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4085"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

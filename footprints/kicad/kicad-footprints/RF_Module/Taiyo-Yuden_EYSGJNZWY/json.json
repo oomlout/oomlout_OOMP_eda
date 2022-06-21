@@ -1,0 +1,61 @@
+{
+    "index": 11244,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11244
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Taiyo-Yuden_EYSGJNZWY"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/Taiyo-Yuden_EYSGJNZWY"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Taiyo Yuden NRF51822 Module Bluetooth https://www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Taiyo Yuden NRF51822 Module Bluetooth"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Taiyo-Yuden_EYSGJNZWY.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-Taiyo-Yuden_EYSGJNZWY"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8633,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8633
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ADNS-9800"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/ADNS-9800"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Laser Gaming Sensor ADNS-9800"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MOUSE MOUSE_SENSOR LASER_GAMING_SENSOR"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ADNS-9800.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-ADNS-9800"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

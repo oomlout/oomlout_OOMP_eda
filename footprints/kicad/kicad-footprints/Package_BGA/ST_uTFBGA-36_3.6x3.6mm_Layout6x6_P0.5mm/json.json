@@ -1,0 +1,61 @@
+{
+    "index": 8832,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8832
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 36 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

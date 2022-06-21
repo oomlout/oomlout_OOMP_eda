@@ -1,0 +1,61 @@
+{
+    "index": 7019,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7019
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "['DS26']"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

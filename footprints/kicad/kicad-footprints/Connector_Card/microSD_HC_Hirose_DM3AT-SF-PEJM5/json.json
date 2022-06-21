@@ -1,0 +1,61 @@
+{
+    "index": 1144,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1144
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Card"
+        },
+        {
+            "name": "oompIndex",
+            "value": "microSD_HC_Hirose_DM3AT-SF-PEJM5"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3AT-SF-PEJM5"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Micro SD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3AT-SF-PEJM5.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3AT-SF-PEJM5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

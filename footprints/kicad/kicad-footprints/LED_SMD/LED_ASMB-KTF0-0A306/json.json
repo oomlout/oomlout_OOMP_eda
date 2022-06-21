@@ -1,0 +1,61 @@
+{
+    "index": 8106,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8106
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_ASMB-KTF0-0A306"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_ASMB-KTF0-0A306"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Tricolor LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_ASMB-KTF0-0A306.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

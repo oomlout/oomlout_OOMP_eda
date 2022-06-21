@@ -1,0 +1,61 @@
+{
+    "index": 9472,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9472
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UDFN-9_1.0x3.8mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/UDFN-9_1.0x3.8mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "9-pin UDFN package, 1.0x3.8mm, (Ref: https://katalog.we-online.de/pbs/datasheet/824014881.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "UDFN SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UDFN-9_1.0x3.8mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-9_1.0x3.8mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

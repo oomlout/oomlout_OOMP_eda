@@ -1,0 +1,61 @@
+{
+    "index": 11766,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11766
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_Phoenix"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_Phoenix_PTSM-0,5-7-HV-2.5-SMD_1x07-1MP_P2.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-7-HV-2.5-SMD_1x07-1MP_P2.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PhoenixContact PTSM0,5 7 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778748/pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "2.5mm vertical SMD spring clamp terminal block connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-7-HV-2.5-SMD_1x07-1MP_P2.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PTSM-0,5-7-HV-2.5-SMD_1x07-1MP_P2.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

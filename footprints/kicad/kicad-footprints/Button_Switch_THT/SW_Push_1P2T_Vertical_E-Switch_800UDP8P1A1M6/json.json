@@ -1,0 +1,61 @@
+{
+    "index": 287,
+    "tags": [
+        {
+            "name": "index",
+            "value": 287
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "right angle SPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "IP67 ultra-miniture horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

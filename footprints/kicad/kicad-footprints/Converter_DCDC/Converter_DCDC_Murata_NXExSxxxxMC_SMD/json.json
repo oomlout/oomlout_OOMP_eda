@@ -1,0 +1,61 @@
+{
+    "index": 6956,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6956
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_Murata_NXExSxxxxMC_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_NXExSxxxxMC_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Isolated 1W or 2W Single Output SM DC/DC Converters https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf#page=8 https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf#page=9"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Isolated 1W or 2W Single Output SM DC/DC Converters"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NXE2SxxxxMC_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NXExSxxxxMC_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

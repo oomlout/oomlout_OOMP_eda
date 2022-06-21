@@ -1,0 +1,61 @@
+{
+    "index": 12194,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12194
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Valve"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Valve_Mini_G"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Valve/Valve_Mini_G"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Valve mini G"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Valve mini G"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Mini_G.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_G"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

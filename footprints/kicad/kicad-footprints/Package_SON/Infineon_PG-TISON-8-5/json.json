@@ -1,0 +1,61 @@
+{
+    "index": 10314,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10314
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-TISON-8-5"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/Infineon_PG-TISON-8-5"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon, PG-TISON-8-5, 8x8x1.1mm, 1mm Pitch, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-5/"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tison"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-TISON-8-5.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

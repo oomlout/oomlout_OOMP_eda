@@ -1,0 +1,61 @@
+{
+    "index": 2258,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2258
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JST"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JST_SH_SM15B-SRSS-TB_1x15-1MP_P1.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JST/JST_SH_SM15B-SRSS-TB_1x15-1MP_P1.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "JST SH series connector, SM15B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector JST SH top entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM15B-SRSS-TB_1x15-1MP_P1.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM15B-SRSS-TB_1x15-1MP_P1.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

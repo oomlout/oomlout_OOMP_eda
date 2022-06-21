@@ -1,0 +1,61 @@
+{
+    "index": 11289,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11289
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Avago_ADPS-9960"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor/Avago_ADPS-9960"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Digital Proximity, Ambient Light, RGB and Gesture Sensor (https://docs.broadcom.com/doc/AV02-4191EN)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN Sensor optical IR"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Avago_ADPS-9960.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_ADPS-9960"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

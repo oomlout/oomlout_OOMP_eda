@@ -1,0 +1,61 @@
+{
+    "index": 6962,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6962
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_RECOM_R-78HB-0.5_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_R-78HB-0.5_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DCDC-Converter, RECOM, RECOM_R-78HB-0.5, SIP-3, pitch 2.54mm, package size 11.5x8.5x17.5mm^3, https://www.recom-power.com/pdf/Innoline/R-78HBxx-0.5_L.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "dc-dc recom buck sip-3 pitch 2.54mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R-78HB-0.5_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78HB-0.5_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

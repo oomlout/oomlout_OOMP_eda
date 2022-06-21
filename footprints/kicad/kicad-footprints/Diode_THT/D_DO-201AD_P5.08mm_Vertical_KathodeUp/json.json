@@ -1,0 +1,61 @@
+{
+    "index": 7302,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7302
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_DO-201AD_P5.08mm_Vertical_KathodeUp"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/D_DO-201AD_P5.08mm_Vertical_KathodeUp"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201AD_P5.08mm_Vertical_KathodeUp.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AD_P5.08mm_Vertical_KathodeUp"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

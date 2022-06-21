@@ -1,0 +1,57 @@
+{
+    "index": 11487,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11487
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_GNU-Logo_SilkscreenTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_GNU-Logo_SilkscreenTop"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_SilkscreenTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10505,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10505
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fairchild_TO-220F-6L"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/Fairchild_TO-220F-6L"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Fairchild TO-220F-6L"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Fairchild_TO-220F-6L.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9380,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9380
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_R-PUQFN-N10"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_R-PUQFN-N10"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF186&fileType=pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas_R-PUQFN-N10"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_R-PUQFN-N10.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R-PUQFN-N10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

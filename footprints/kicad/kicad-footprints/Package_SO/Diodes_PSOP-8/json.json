@@ -1,0 +1,61 @@
+{
+    "index": 9977,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9977
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diodes_PSOP-8"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Diodes_PSOP-8"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 0.50 exposed pad"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_PSOP-8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_PSOP-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

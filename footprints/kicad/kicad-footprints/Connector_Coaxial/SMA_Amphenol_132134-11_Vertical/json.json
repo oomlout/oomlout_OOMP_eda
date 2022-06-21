@@ -1,0 +1,61 @@
+{
+    "index": 1168,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1168
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA_Amphenol_132134-11_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134-11_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.amphenolrf.com/downloads/dl/file/id/3406/product/2975/132134_11_customer_drawing.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMA THT Female Jack Vertical ExtendedLegs"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-11_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-11_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

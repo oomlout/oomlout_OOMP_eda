@@ -1,0 +1,61 @@
+{
+    "index": 9550,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9550
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WQFN, 16 Pin (https://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF#page=56), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WQFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

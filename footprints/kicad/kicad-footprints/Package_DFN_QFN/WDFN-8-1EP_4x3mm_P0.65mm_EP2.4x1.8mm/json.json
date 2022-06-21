@@ -1,0 +1,61 @@
+{
+    "index": 9539,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9539
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WDFN, 8 Pin (https://www.onsemi.com/pub/Collateral/509AF.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WDFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

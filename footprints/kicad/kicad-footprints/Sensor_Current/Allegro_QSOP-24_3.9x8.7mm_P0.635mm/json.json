@@ -1,0 +1,61 @@
+{
+    "index": 11309,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11309
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Allegro_QSOP-24_3.9x8.7mm_P0.635mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Allegro Microsystems 24-Lead Plastic Shrink Small Outline Narrow Body Body [QSOP] (http://www.allegromicro.com/~/media/Files/Datasheets/ACS726-Datasheet.ashx?la=en)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Allegro QSOP 0.635"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/QSOP-24_3.9x8.7mm_P0.635mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

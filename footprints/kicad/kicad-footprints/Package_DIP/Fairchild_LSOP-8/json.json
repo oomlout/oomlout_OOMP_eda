@@ -1,0 +1,61 @@
+{
+    "index": 9735,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9735
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fairchild_LSOP-8"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/Fairchild_LSOP-8"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-Lead, 300\\\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LSOP 2.54mm 300mil"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Fairchild_LSOP-8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-Fairchild_LSOP-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

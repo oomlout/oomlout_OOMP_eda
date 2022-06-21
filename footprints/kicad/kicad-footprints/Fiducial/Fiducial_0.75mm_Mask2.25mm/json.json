@@ -1,0 +1,57 @@
+{
+    "index": 7450,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7450
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_0.75mm_Mask2.25mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening"
+        },
+        {
+            "name": "kicadTags",
+            "value": "fiducial"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.75mm_Mask2.25mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

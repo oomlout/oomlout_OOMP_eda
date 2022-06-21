@@ -1,0 +1,61 @@
+{
+    "index": 1987,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1987
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JAE"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JAE_LY20-30P-DLT1_2x15_P2.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JAE/JAE_LY20-30P-DLT1_2x15_P2.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex LY 20 series connector, LY20-30P-DLT1, 15 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ038187.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector JAE  top entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-30P-DLT1_2x15_P2.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-30P-DLT1_2x15_P2.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

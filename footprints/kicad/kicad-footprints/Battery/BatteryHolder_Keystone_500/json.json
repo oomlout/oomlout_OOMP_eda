@@ -1,0 +1,61 @@
+{
+    "index": 27,
+    "tags": [
+        {
+            "name": "index",
+            "value": 27
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_500"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_500"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CR1220 battery holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_500.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_500"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

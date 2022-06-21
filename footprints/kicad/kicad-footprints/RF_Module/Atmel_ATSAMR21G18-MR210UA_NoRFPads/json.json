@@ -1,0 +1,61 @@
+{
+    "index": 11203,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11203
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Atmel_ATSAMR21G18-MR210UA_NoRFPads"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/Atmel_ATSAMR21G18-MR210UA_NoRFPads"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://ww1.microchip.com/downloads/en/devicedoc/atmel-42475-atsamr21g18-mr210ua_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "module wireless zigbee 802.15.4 flash crypto ATSAMR21G18 AT45DB041E  TECC508A U.Fi"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Atmel_ATSAMR21G18-MR210UA_NoRFPads.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-Atmel_ATSAMR21G18-MR210UA_NoRFPads"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

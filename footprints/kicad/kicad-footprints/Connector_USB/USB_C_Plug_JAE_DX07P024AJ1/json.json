@@ -1,0 +1,61 @@
+{
+    "index": 6547,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6547
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Plug_JAE_DX07P024AJ1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Plug_JAE_DX07P024AJ1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB Type-C Plug Edge Mount"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_JAE_DX07P024AJ1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_JAE_DX07P024AJ1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 50,
+    "tags": [
+        {
+            "name": "index",
+            "value": 50
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_Keyboard"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Cherry_MX_1.50u_PCB"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.50u_PCB"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Cherry MX keyswitch 1.50u PCB"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_PCB.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_1.50u_PCB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

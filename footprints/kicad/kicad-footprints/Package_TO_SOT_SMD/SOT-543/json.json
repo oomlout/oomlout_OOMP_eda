@@ -1,0 +1,61 @@
+{
+    "index": 10441,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10441
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT-543"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/SOT-543"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SOT-543 4 lead surface package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOT-543 SC-107A EMD4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-543.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-543"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8651,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8651
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kingbright_KPS-5130"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Kingbright_KPS-5130"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "KPS-5130 photodiode RGB sensor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-5130"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

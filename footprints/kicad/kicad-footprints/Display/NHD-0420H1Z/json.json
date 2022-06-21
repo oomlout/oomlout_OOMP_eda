@@ -1,0 +1,61 @@
+{
+    "index": 7389,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7389
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NHD-0420H1Z"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/NHD-0420H1Z"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NHD-0420H1Z LCD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/NHD-0420H1Z.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

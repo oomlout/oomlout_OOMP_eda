@@ -1,0 +1,61 @@
+{
+    "index": 7530,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7530
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_Blade_ATO_directSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_Blade_ATO_directSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "car blade fuse direct solder"
+        },
+        {
+            "name": "kicadTags",
+            "value": "car blade fuse"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Blade_ATO_directSolder.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_ATO_directSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11280,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11280
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Rotary_Encoder"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html"
+        },
+        {
+            "name": "kicadTags",
+            "value": "rotary encoder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

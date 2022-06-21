@@ -1,0 +1,61 @@
+{
+    "index": 11315,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11315
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LEM_CKSR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/LEM_CKSR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LEM CKSR 6/15/25/50/75-NP Current Transducer, https://www.lem.com/sites/default/files/products_datasheets/cksr_75-np.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "current transducer LEM"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_CKSR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_CKSR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

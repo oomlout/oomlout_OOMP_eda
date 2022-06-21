@@ -1,0 +1,61 @@
+{
+    "index": 11157,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11157
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIM28ML"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/SIM28ML"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIM28ML GPS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/SIM28ML.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-SIM28ML"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

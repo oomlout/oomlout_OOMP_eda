@@ -1,0 +1,61 @@
+{
+    "index": 8109,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8109
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Cree-PLCC4_2x2mm_CW"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Cree-PLCC4_2x2mm_CW"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED Cree PLCC-4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_2x2mm_CW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

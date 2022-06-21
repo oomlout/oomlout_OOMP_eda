@@ -1,0 +1,61 @@
+{
+    "index": 6352,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6352
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Samtec_HLE_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Samtec_HLE-114-02-xx-DV-PE-LC_2x14_P2.54mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-114-02-xx-DV-PE-LC_2x14_P2.54mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Samtec HLE .100\" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-114-02-xx-DV-PE-LC, 14 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xx-dv-xe-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-thru.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Samtec HLE top entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_THT.3dshapes/Samtec_HLE-114-02-xx-DV-PE-LC_2x14_P2.54mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-114-02-xx-DV-PE-LC_2x14_P2.54mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 1318,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1318
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Dsub"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSUB-37_Female_EdgeMount_P2.77mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Dsub/DSUB-37_Female_EdgeMount_P2.77mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "37-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 63.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-37_Female_EdgeMount_P2.77mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Female_EdgeMount_P2.77mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

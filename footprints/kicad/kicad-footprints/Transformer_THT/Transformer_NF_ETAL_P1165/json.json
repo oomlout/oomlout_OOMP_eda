@@ -1,0 +1,61 @@
+{
+    "index": 12167,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12167
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_NF_ETAL_P1165"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_NF_ETAL_P1165"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NF-Transformer ETAL P1165"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P1165.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P1165"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

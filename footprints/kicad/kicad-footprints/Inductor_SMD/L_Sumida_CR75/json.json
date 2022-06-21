@@ -1,0 +1,61 @@
+{
+    "index": 7707,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7707
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Sumida_CR75"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Sumida_CR75"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Sumida, 8.1mm \u00d7 7.3mm \u00d7 5.5 mm, Unshielded, http://products.sumida.com/products/pdf/CR75.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor SMD CR75 Unshielded"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CR75.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CR75"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

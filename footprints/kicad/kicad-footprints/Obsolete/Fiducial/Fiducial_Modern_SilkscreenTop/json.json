@@ -1,0 +1,53 @@
+{
+    "index": 8632,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8632
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Obsolete\\Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_Modern_SilkscreenTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Obsolete\\Fiducial/Fiducial_Modern_SilkscreenTop"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fiducial, Modern, Silkscreen Top"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_Modern_SilkscreenTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

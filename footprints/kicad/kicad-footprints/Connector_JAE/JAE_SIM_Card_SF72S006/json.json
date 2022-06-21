@@ -1,0 +1,61 @@
+{
+    "index": 2010,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2010
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JAE"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JAE_SIM_Card_SF72S006"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JAE/JAE_SIM_Card_SF72S006"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIM Card, Push-Push, https://www.jae.com/direct/topics/topics_file_download/topics_id=68892&ext_no=06&index=0&_lang=en&v=202003111511468456809"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIM Card with Detect Switch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_SIM_Card_SF72S006"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

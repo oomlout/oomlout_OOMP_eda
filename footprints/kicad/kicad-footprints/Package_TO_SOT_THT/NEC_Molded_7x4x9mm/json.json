@@ -1,0 +1,61 @@
+{
+    "index": 10507,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10507
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NEC_Molded_7x4x9mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/NEC_Molded_7x4x9mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molded Japan Transistor Package 7x4x9mm^3, http://rtellason.com/transdata/2sb734.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Japan transistor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/NEC_Molded_7x4x9mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-NEC_Molded_7x4x9mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

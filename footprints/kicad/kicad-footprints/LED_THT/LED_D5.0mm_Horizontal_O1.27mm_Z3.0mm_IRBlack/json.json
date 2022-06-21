@@ -1,0 +1,61 @@
+{
+    "index": 8203,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8203
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_THT/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED diameter 5.0mm z-position of LED center 3.0mm 2 pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

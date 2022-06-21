@@ -1,0 +1,61 @@
+{
+    "index": 8957,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8957
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-VQ-48-1EP_7x7mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-VQ-48-1EP_7x7mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP VQ, 48 pin, exposed pad, 7x7mm body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf, http://www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP 48"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-VQ-48-1EP_7x7mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-48-1EP_7x7mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 12109,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12109
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Ethernet_Wuerth_749013011A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_Ethernet_Wuerth_749013011A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Ethernet Transformer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Wuerth_749013011A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11174,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11174
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_CD542_H2.84mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://ww2.minicircuits.com/case_style/CD542.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RF Transformer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD542_H2.84mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

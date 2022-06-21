@@ -1,0 +1,61 @@
+{
+    "index": 7446,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7446
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Ferrite_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LairdTech_28C0236-0JW-10"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Ferrite_THT/LairdTech_28C0236-0JW-10"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Ferrite vertical LairdTech 28C0236-0JW-10"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Ferrite_THT.3dshapes/LairdTech_28C0236-0JW-10.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

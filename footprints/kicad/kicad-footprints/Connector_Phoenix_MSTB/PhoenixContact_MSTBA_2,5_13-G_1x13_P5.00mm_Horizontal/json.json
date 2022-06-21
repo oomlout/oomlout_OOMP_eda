@@ -1,0 +1,61 @@
+{
+    "index": 3733,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3733
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_MSTB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_MSTBA_2,5_13-G_1x13_P5.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBA_2,5_13-G_1x13_P5.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: MSTBA_2,5/13-G; number of pins: 13; pin pitch: 5.00mm; Angled || order number: 1757572 12A"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector MSTBA_01x13_G_5.00mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_13-G_1x13_P5.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBA_2,5_13-G_1x13_P5.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

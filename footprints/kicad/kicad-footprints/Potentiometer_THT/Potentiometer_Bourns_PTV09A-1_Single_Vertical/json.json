@@ -1,0 +1,61 @@
+{
+    "index": 10829,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10829
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Bourns_PTV09A-1_Single_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_PTV09A-1_Single_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical Bourns PTV09A-1 Single"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTV09A-1_Single_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10765,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10765
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Vishay_TS53YL_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_SMD/Potentiometer_Vishay_TS53YL_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, Vishay TS53YL, https://www.vishay.com/docs/51008/ts53.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical Vishay TS53YL"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YL_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YL_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

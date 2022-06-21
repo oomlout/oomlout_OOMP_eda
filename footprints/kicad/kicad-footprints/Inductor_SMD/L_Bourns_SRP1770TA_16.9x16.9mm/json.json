@@ -1,0 +1,61 @@
+{
+    "index": 7635,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7635
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Bourns_SRP1770TA_16.9x16.9mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Bourns_SRP1770TA_16.9x16.9mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Bourns SRP1770TA series SMD Inductor http://www.bourns.com/docs/Product-Datasheets/SRP1770TA.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Bourns SRP1770TA series SMD Inductor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP1770TA_16.9x16.9mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

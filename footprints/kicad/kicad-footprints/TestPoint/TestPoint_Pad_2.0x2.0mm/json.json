@@ -1,0 +1,57 @@
+{
+    "index": 12063,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12063
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Pad_2.0x2.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Pad_2.0x2.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD rectangular pad as test Point, square 2.0mm side length"
+        },
+        {
+            "name": "kicadTags",
+            "value": "test point SMD pad rectangle square"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_2.0x2.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

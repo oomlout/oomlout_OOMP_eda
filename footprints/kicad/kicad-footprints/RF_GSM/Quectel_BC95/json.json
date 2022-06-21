@@ -1,0 +1,61 @@
+{
+    "index": 11165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GSM"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Quectel_BC95"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GSM/Quectel_BC95"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "GSM NB-IoT module, 19.9x23.6x2.2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC95_Hardware_Design_V1.3.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "GSM NB-IoT module BC95"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BC95.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC95"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

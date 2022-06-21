@@ -1,0 +1,61 @@
+{
+    "index": 9108,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9108
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HVQFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

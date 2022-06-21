@@ -1,0 +1,61 @@
+{
+    "index": 10504,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10504
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Analog_TO-46-4_ThermalShield"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/Analog_TO-46-4_ThermalShield"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-46-4 with Valox case, based on https://www.analog.com/media/en/technical-documentation/data-sheets/199399fc.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TO-46-4 LM399"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Analog_TO-46-4_ThermalShield.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Analog_TO-46-4_ThermalShield"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

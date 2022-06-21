@@ -1,0 +1,61 @@
+{
+    "index": 8107,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8107
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Avago_PLCC4_3.2x2.8mm_CW"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://docs.broadcom.com/docs/AV02-4186EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED Avago PLCC-4 ASMB-MTB0-0A3A2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC4_3.2x2.8mm_CW.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC4_3.2x2.8mm_CW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

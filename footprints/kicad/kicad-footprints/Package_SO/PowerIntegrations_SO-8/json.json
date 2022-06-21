@@ -1,0 +1,61 @@
+{
+    "index": 10077,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10077
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_SO-8"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/PowerIntegrations_SO-8"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power-Integrations variant of 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC], see https://ac-dc.power.com/sites/default/files/product-docs/senzero_family_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOIC 1.27"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_SO-8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

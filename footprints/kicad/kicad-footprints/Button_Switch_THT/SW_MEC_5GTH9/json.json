@@ -1,0 +1,61 @@
+{
+    "index": 280,
+    "tags": [
+        {
+            "name": "index",
+            "value": 280
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_MEC_5GTH9"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_MEC_5GTH9"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MEC 5G single pole normally-open tactile switch https://cdn.sos.sk/productdata/80/f6/aabf7be6/5gth9358222.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch normally-open pushbutton push-button"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_MEC_5GTH9.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_MEC_5GTH9"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

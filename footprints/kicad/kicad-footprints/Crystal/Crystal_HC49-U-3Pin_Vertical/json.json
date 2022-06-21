@@ -1,0 +1,61 @@
+{
+    "index": 7031,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7031
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_HC49-U-3Pin_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_HC49-U-3Pin_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT crystalHC-49/U"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-U-3Pin_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

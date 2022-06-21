@@ -1,0 +1,61 @@
+{
+    "index": 6933,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6933
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Vigortronix VTX-214-010-xxx serie of ACDC converter, http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Vigortronix VTX-214-010-xxx serie of ACDC converter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

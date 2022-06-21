@@ -1,0 +1,57 @@
+{
+    "index": 6967,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6967
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_RECOM_RPMx.x-x.0"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_RECOM_RPMx.x-x.0"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "dc-dc recom buck lga-25 pitch 2.29mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

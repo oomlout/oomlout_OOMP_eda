@@ -1,0 +1,61 @@
+{
+    "index": 286,
+    "tags": [
+        {
+            "name": "index",
+            "value": 286
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Push_1P1T_NO_LED_E-Switch_TL1250"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "illuminated right angle tact switch https://www.e-switch.com/system/asset/product_line/data_sheet/148/TL1250.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "led push switch right angle"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Push_1P1T_NO_LED_E-Switch_TL1250.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

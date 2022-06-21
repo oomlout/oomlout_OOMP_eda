@@ -1,0 +1,61 @@
+{
+    "index": 8269,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8269
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_Morpho_Connector_144_STLink_MountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/ST_Morpho_Connector_144_STLink_MountingHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ST Morpho Connector 144 With STLink"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ST Morpho Connector 144 STLink"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/ST_Morpho_Connector_144_STLink.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink_MountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

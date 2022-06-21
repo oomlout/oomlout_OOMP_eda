@@ -1,0 +1,61 @@
+{
+    "index": 329,
+    "tags": [
+        {
+            "name": "index",
+            "value": 329
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MagneticBuzzer_CUI_CST-931RP-A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_CUI_CST-931RP-A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CST-931RP-A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CST-931RP-A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

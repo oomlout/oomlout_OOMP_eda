@@ -1,0 +1,57 @@
+{
+    "index": 910,
+    "tags": [
+        {
+            "name": "index",
+            "value": 910
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tag connect programming header pogo pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

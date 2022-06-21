@@ -1,0 +1,61 @@
+{
+    "index": 7570,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7570
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_125x35x50mm_3xFixationM3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_125x35x50mm_3xFixationM3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Heatsink, 125x35x50mm, 3 fixation holes 3.2mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8643,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8643
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Everlight_ITR1201SR10AR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Everlight_ITR1201SR10AR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Everlight ITR1201SR10AR, light-direction upwards, see https://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "reflective opto couple photo coupler"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR1201SR10AR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

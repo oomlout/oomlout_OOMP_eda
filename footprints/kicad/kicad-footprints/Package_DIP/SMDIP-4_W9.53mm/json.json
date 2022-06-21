@@ -1,0 +1,61 @@
+{
+    "index": 9786,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9786
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMDIP-4_W9.53mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/SMDIP-4_W9.53mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-4_W9.53mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-4_W9.53mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

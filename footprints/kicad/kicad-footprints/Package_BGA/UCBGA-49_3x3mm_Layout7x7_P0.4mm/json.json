@@ -1,0 +1,61 @@
+{
+    "index": 8854,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8854
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UCBGA-49_3x3mm_Layout7x7_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/UCBGA-49_3x3mm_Layout7x7_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UCBGA-49, 7x7 raster, 3x3mm package, pitch 0.4mm; https://www.latticesemi.com/view_document?document_id=213"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 49 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UCBGA-49_3x3mm_Layout7x7_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-49_3x3mm_Layout7x7_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

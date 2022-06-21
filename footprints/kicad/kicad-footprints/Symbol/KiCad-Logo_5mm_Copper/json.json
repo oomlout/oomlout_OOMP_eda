@@ -1,0 +1,57 @@
+{
+    "index": 11402,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11402
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KiCad-Logo_5mm_Copper"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/KiCad-Logo_5mm_Copper"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "KiCad Logo"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Logo KiCad"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo_5mm_Copper"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

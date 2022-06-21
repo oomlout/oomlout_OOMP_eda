@@ -1,0 +1,61 @@
+{
+    "index": 917,
+    "tags": [
+        {
+            "name": "index",
+            "value": 917
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_AMASS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_AMASS/AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RC Connector XT30"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30PW-F_1x02_P2.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

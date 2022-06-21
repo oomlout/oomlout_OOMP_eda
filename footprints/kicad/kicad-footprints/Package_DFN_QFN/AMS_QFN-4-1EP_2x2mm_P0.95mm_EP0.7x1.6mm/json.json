@@ -1,0 +1,61 @@
+{
+    "index": 9022,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9022
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UFD Package, 4-Lead Plastic QFN (2mm x 2mm), http://ams.com/eng/content/download/950231/2267959/483138"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN 0.95"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/AMS_QFN-4-1EP_2x2mm_P0.95mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

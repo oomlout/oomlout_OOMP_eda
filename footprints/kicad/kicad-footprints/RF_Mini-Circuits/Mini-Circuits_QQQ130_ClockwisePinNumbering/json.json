@@ -1,0 +1,61 @@
+{
+    "index": 11194,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11194
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_QQQ130_ClockwisePinNumbering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_QQQ130_ClockwisePinNumbering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case QQQ130 (https://ww2.minicircuits.com/case_style/QQQ130.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits QQQ130"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_QQQ130.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

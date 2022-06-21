@@ -1,0 +1,61 @@
+{
+    "index": 7179,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7179
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_Diotec_SO-DIL-Slim"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFS SO-DIL Slim"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_SO-DIL-Slim.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

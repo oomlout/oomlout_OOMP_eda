@@ -1,0 +1,61 @@
+{
+    "index": 8654,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8654
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kodenshi_LG206D"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Kodenshi_LG206D"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Photointerrupter  infrared LED with photo IC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_LG206D.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

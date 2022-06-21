@@ -1,0 +1,61 @@
+{
+    "index": 10762,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10762
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Bourns_PRS11S_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_PRS11S_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, Bourns PRS11S, http://www.bourns.com/docs/Product-Datasheets/PRS11S.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical Bourns PRS11S"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_PRS11S_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 1148,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1148
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Card"
+        },
+        {
+            "name": "oompIndex",
+            "value": "microSD_HC_Wuerth_693072010801"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Card/microSD_HC_Wuerth_693072010801"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://katalog.we-online.de/em/datasheet/693072010801.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Micro SD Wuerth Wurth W\u00fcrth"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Wuerth_693072010801.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Wuerth_693072010801"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9857,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9857
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Kionix  LGA, 12 Pin (http://kionixfs.kionix.com/en/document/TN008-PCB-Design-Guidelines-for-2x2-LGA-Sensors.pdf#page=4), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Kionix LGA NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

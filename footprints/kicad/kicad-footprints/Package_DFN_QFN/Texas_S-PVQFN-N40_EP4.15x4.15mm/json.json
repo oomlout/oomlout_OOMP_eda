@@ -1,0 +1,61 @@
+{
+    "index": 9419,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9419
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_S-PVQFN-N40_EP4.15x4.15mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_S-PVQFN-N40_EP4.15x4.15mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430g2755.pdf#page=70 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N40_EP4.15x4.15mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.15x4.15mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

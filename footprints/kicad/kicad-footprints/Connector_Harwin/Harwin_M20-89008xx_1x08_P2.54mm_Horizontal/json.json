@@ -1,0 +1,61 @@
+{
+    "index": 1673,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1673
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Harwin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Harwin_M20-89008xx_1x08_P2.54mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Harwin/Harwin_M20-89008xx_1x08_P2.54mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89008xx, 8 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Harwin M20-890 horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_M20-89008xx_1x08_P2.54mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89008xx_1x08_P2.54mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

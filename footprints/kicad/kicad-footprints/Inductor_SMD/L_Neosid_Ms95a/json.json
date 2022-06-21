@@ -1,0 +1,61 @@
+{
+    "index": 7681,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7681
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Neosid_Ms95a"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Neosid_Ms95a"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95a.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms95a.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms95a"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

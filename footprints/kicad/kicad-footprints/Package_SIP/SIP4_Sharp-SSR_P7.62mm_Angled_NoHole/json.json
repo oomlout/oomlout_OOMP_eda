@@ -1,0 +1,61 @@
+{
+    "index": 9970,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9970
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP4_Sharp-SSR_P7.62mm_Angled_NoHole"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled_NoHole"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIP4 Footprint for SSR made by Sharp"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Solid State relais SSR Sharp"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 212,
+    "tags": [
+        {
+            "name": "index",
+            "value": 212
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_SPST_REED_CT05-XXXX-J1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_SPST_REED_CT05-XXXX-J1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Coto Technologies SPST Reed Switch CT05-XXXX-J1"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Coto Reed SPST Switch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_REED_CT05-XXXX-J1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT05-XXXX-J1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

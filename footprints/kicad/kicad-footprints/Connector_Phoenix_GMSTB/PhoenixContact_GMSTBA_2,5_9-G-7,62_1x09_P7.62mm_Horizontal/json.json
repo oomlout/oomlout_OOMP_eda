@@ -1,0 +1,61 @@
+{
+    "index": 3412,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3412
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_GMSTB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_GMSTBA_2,5_9-G-7,62_1x09_P7.62mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBA_2,5_9-G-7,62_1x09_P7.62mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: GMSTBA_2,5/9-G-7,62; number of pins: 09; pin pitch: 7.62mm; Angled || order number: 1766301 12A 630V"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector GMSTBA_01x09_G_7.62mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_9-G-7,62_1x09_P7.62mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBA_2,5_9-G-7,62_1x09_P7.62mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

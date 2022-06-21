@@ -1,0 +1,61 @@
+{
+    "index": 7653,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7653
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_CommonMode_Delevan_4222"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_CommonMode_Delevan_4222"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "surface mount common mode bead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonMode_Delevan_4222.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Delevan_4222"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

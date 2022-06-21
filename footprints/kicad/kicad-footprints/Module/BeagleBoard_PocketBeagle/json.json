@@ -1,0 +1,61 @@
+{
+    "index": 8260,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8260
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BeagleBoard_PocketBeagle"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/BeagleBoard_PocketBeagle"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PocketBeagle"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
