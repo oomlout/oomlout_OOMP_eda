@@ -1,0 +1,45 @@
+{
+    "index": 360,
+    "tags": [
+        {
+            "name": "index",
+            "value": 360
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FEATHERWING_DIM"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/FEATHERWING_DIM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING_DIM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

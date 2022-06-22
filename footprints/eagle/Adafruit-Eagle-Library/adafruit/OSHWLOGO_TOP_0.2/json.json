@@ -1,0 +1,45 @@
+{
+    "index": 441,
+    "tags": [
+        {
+            "name": "index",
+            "value": 441
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OSHWLOGO_TOP_0.2"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/OSHWLOGO_TOP_0.2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOP_0.2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

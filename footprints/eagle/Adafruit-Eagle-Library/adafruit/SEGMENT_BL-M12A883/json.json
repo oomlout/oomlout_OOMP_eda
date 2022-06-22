@@ -1,0 +1,45 @@
+{
+    "index": 515,
+    "tags": [
+        {
+            "name": "index",
+            "value": 515
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SEGMENT_BL-M12A883"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M12A883"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
