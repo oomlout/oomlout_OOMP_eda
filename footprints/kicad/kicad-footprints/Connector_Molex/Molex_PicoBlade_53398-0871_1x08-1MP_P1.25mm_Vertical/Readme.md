@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -23,3 +24,7 @@ Contents
 - kicadTags: connector Molex PicoBlade side entry
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53398-0871_1x08-1MP_P1.25mm_Vertical.wrl
+
+
+
+[im]: image.png

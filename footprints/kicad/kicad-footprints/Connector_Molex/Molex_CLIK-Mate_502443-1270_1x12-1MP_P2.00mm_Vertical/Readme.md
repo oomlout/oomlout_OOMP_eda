@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -23,3 +24,7 @@ Contents
 - kicadTags: connector Molex CLIK-Mate side entry
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502443-1270_1x12-1MP_P2.00mm_Vertical.wrl
+
+
+
+[im]: image.png

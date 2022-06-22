@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -23,3 +24,7 @@ Contents
 - kicadTags: connector JST EH horizontal
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_EH_S7B-EH_1x07_P2.50mm_Horizontal.wrl
+
+
+
+[im]: image.png

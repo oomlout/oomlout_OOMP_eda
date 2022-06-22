@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 ## Tags
@@ -23,3 +24,7 @@ Contents
 - kicadTags: Through hole horizontal IDC header THT 2x25 2.54mm double row
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x25-1MP_P2.54mm_Latch_Horizontal.wrl
+
+
+
+[im]: image.png
