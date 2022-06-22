@@ -1,0 +1,45 @@
+{
+    "index": 7647,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7647
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C275-134X316"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/C275-134X316"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-C275-134X316"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

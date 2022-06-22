@@ -1,0 +1,45 @@
+{
+    "index": 13572,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13572
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP-6.PAC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TSOP-6.PAC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TSOP-6.PAC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

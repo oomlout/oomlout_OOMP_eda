@@ -1,0 +1,45 @@
+{
+    "index": 7492,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7492
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/RJ6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-RJ6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

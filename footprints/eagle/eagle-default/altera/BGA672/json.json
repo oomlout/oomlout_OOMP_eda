@@ -1,0 +1,45 @@
+{
+    "index": 856,
+    "tags": [
+        {
+            "name": "index",
+            "value": 856
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "altera"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA672"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/altera/BGA672"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-altera-BGA672"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

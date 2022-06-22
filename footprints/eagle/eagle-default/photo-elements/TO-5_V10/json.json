@@ -1,0 +1,45 @@
+{
+    "index": 7330,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7330
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "photo-elements"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-5_V10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/photo-elements/TO-5_V10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-photo-elements-TO-5_V10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

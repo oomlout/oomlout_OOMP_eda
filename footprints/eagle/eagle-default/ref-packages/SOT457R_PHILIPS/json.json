@@ -1,0 +1,45 @@
+{
+    "index": 9112,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9112
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT457R_PHILIPS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOT457R_PHILIPS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT457R_PHILIPS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

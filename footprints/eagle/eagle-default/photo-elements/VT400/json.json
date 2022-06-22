@@ -1,0 +1,45 @@
+{
+    "index": 7336,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7336
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "photo-elements"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VT400"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/photo-elements/VT400"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-photo-elements-VT400"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13342,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13342
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-neu-to92"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2-10H1A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-neu-to92/2-10H1A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-neu-to92-2-10H1A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

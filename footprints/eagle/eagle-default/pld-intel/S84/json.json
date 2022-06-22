@@ -1,0 +1,45 @@
+{
+    "index": 7451,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7451
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pld-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S84"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pld-intel/S84"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pld-intel-S84"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

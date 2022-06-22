@@ -1,0 +1,45 @@
+{
+    "index": 7114,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7114
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microphon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B6022APC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microphon/B6022APC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microphon-B6022APC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

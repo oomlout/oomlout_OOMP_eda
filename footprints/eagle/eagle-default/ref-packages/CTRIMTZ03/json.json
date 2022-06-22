@@ -1,0 +1,45 @@
+{
+    "index": 8280,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8280
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CTRIMTZ03"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/CTRIMTZ03"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMTZ03"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

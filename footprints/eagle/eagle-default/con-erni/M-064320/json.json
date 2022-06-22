@@ -1,0 +1,45 @@
+{
+    "index": 1966,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1966
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-erni"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M-064320"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-erni/M-064320"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-erni-M-064320"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

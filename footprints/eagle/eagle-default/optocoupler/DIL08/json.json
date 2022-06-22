@@ -1,0 +1,45 @@
+{
+    "index": 7290,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7290
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "optocoupler"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL08"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/optocoupler/DIL08"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-optocoupler-DIL08"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

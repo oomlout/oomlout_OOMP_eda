@@ -1,0 +1,45 @@
+{
+    "index": 4642,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4642
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M6-10M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/M6-10M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-M6-10M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

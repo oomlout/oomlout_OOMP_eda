@@ -1,0 +1,45 @@
+{
+    "index": 6198,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6198
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "IQD-Frequency-Products"
+        },
+        {
+            "name": "oompIndex",
+            "value": "91SMX"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/IQD-Frequency-Products/91SMX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-91SMX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

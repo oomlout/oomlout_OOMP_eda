@@ -1,0 +1,45 @@
+{
+    "index": 2387,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2387
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lsta"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FE07-2W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lsta/FE07-2W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lsta-FE07-2W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

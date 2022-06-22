@@ -1,0 +1,45 @@
+{
+    "index": 13557,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13557
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO3/AA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO3/AA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO3/AA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

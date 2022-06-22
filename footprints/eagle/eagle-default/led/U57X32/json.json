@@ -1,0 +1,45 @@
+{
+    "index": 6364,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6364
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "U57X32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/U57X32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-U57X32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

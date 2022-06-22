@@ -1,0 +1,45 @@
+{
+    "index": 14346,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14346
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XLR-3_FEMALE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/XLR-3_FEMALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-XLR-3_FEMALE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

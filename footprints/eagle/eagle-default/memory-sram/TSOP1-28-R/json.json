@@ -1,0 +1,45 @@
+{
+    "index": 6789,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6789
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-sram"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP1-28-R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-sram/TSOP1-28-R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-sram-TSOP1-28-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

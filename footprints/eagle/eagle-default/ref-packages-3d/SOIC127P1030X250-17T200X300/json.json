@@ -1,0 +1,45 @@
+{
+    "index": 9896,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9896
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC127P1030X250-17T200X300"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/SOIC127P1030X250-17T200X300"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P1030X250-17T200X300"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

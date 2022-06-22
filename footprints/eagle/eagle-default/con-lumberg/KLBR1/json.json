@@ -1,0 +1,45 @@
+{
+    "index": 2479,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2479
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lumberg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KLBR1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lumberg/KLBR1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lumberg-KLBR1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

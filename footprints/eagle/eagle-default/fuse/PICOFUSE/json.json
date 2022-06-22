@@ -1,0 +1,45 @@
+{
+    "index": 5751,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5751
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PICOFUSE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fuse/PICOFUSE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-PICOFUSE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

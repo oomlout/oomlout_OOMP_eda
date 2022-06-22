@@ -1,0 +1,45 @@
+{
+    "index": 13137,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13137
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ETD59"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/ETD59"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-ETD59"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 3502,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3502
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSW-111-02-G-T"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/SSW-111-02-G-T"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-SSW-111-02-G-T"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 9856,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9856
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP50P2200X2200X120-145T200"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFP50P2200X2200X120-145T200"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP50P2200X2200X120-145T200"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

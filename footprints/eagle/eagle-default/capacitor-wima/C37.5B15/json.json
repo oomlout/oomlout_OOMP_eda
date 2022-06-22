@@ -1,0 +1,45 @@
+{
+    "index": 1262,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1262
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "capacitor-wima"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C37.5B15"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/capacitor-wima/C37.5B15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-capacitor-wima-C37.5B15"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 9781,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9781
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN65P500X400X100-19T335X245"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFN65P500X400X100-19T335X245"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN65P500X400X100-19T335X245"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

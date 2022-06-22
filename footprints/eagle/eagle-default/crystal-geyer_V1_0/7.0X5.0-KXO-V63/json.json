@@ -1,0 +1,45 @@
+{
+    "index": 5320,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5320
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal-geyer_V1_0"
+        },
+        {
+            "name": "oompIndex",
+            "value": "7.0X5.0-KXO-V63"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal-geyer_V1_0/7.0X5.0-KXO-V63"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-geyer_V1_0-7.0X5.0-KXO-V63"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

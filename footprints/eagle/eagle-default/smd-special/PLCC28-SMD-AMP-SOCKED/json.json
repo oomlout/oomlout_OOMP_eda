@@ -1,0 +1,45 @@
+{
+    "index": 12494,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12494
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC28-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-special/PLCC28-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-PLCC28-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

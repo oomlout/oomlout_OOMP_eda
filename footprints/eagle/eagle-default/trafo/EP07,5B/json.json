@@ -1,0 +1,45 @@
+{
+    "index": 13131,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13131
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EP07,5B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/EP07,5B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-EP07,5B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

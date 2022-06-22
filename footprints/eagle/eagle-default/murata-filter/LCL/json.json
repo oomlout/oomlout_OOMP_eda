@@ -1,0 +1,45 @@
+{
+    "index": 7155,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7155
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "murata-filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LCL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/murata-filter/LCL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-murata-filter-LCL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

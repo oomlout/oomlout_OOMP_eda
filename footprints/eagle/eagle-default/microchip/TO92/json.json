@@ -1,0 +1,45 @@
+{
+    "index": 7095,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7095
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO92"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/TO92"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-TO92"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

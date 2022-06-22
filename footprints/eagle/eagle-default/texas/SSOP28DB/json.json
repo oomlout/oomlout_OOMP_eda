@@ -1,0 +1,45 @@
+{
+    "index": 13066,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13066
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP28DB"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/SSOP28DB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-SSOP28DB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

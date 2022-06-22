@@ -1,0 +1,45 @@
+{
+    "index": 990,
+    "tags": [
+        {
+            "name": "index",
+            "value": 990
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC16R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/SOIC16R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-SOIC16R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

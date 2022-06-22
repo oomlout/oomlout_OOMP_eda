@@ -1,0 +1,45 @@
+{
+    "index": 6805,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6805
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-fujitsu"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LCC20C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-fujitsu/LCC20C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-fujitsu-LCC20C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

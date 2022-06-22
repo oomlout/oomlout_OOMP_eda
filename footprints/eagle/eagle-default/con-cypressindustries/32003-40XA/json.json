@@ -1,0 +1,45 @@
+{
+    "index": 1872,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1872
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-cypressindustries"
+        },
+        {
+            "name": "oompIndex",
+            "value": "32003-40XA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-cypressindustries/32003-40XA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-cypressindustries-32003-40XA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

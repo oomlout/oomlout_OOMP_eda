@@ -1,0 +1,45 @@
+{
+    "index": 2073,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2073
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting-ml"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ML26"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting-ml/ML26"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-ml-ML26"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

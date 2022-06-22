@@ -1,0 +1,45 @@
+{
+    "index": 6312,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6312
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LZR182"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LZR182"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LZR182"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 1716,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1716
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-mt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S19P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-mt/S19P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt-S19P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

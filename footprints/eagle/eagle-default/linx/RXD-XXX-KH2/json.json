@@ -1,0 +1,45 @@
+{
+    "index": 6529,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6529
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linx"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RXD-XXX-KH2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linx/RXD-XXX-KH2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linx-RXD-XXX-KH2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

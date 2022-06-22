@@ -1,0 +1,45 @@
+{
+    "index": 6133,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6133
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RKE10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/RKE10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-RKE10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

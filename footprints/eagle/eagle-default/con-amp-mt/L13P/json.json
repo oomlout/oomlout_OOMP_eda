@@ -1,0 +1,45 @@
+{
+    "index": 1678,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1678
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-mt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L13P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-mt/L13P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt-L13P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

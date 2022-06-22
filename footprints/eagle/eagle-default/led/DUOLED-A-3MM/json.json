@@ -1,0 +1,45 @@
+{
+    "index": 6270,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6270
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DUOLED-A-3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/DUOLED-A-3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-DUOLED-A-3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

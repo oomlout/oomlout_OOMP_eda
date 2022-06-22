@@ -1,0 +1,45 @@
+{
+    "index": 8919,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8919
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO16W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SO16W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SO16W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

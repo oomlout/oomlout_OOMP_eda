@@ -1,0 +1,45 @@
+{
+    "index": 1013,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1013
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL40"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/DIL40"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-DIL40"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

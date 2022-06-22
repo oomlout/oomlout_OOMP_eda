@@ -1,0 +1,45 @@
+{
+    "index": 8039,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8039
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rectifier"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GBU4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rectifier/GBU4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rectifier-GBU4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

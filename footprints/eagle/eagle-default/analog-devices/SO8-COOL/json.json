@@ -1,0 +1,45 @@
+{
+    "index": 988,
+    "tags": [
+        {
+            "name": "index",
+            "value": 988
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO8-COOL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/SO8-COOL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-SO8-COOL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

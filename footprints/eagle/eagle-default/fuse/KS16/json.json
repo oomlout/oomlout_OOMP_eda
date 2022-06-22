@@ -1,0 +1,45 @@
+{
+    "index": 5746,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5746
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KS16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fuse/KS16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-KS16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

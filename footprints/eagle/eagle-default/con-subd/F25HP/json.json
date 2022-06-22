@@ -1,0 +1,45 @@
+{
+    "index": 4411,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4411
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F25HP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/F25HP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-F25HP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

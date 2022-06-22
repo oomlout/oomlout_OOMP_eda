@@ -1,0 +1,45 @@
+{
+    "index": 5472,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5472
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC79_INFINEON"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/SC79_INFINEON"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-SC79_INFINEON"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

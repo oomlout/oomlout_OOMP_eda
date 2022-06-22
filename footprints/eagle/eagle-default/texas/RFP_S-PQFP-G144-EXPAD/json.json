@@ -1,0 +1,45 @@
+{
+    "index": 13047,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13047
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RFP_S-PQFP-G144-EXPAD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/RFP_S-PQFP-G144-EXPAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-RFP_S-PQFP-G144-EXPAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6172,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6172
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220-51"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon/TO220-51"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-TO220-51"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

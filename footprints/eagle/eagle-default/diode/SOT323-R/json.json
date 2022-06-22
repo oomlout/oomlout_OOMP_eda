@@ -1,0 +1,45 @@
+{
+    "index": 5538,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5538
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT323-R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/SOT323-R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-SOT323-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 11965,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11965
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AC10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/AC10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-AC10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

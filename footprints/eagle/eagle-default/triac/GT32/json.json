@@ -1,0 +1,45 @@
+{
+    "index": 13681,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13681
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "triac"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GT32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/triac/GT32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-triac-GT32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13421,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13421
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-npn"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO202V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-npn/TO202V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-npn-TO202V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

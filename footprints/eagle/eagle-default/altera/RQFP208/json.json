@@ -1,0 +1,45 @@
+{
+    "index": 876,
+    "tags": [
+        {
+            "name": "index",
+            "value": 876
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "altera"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RQFP208"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/altera/RQFP208"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-altera-RQFP208"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

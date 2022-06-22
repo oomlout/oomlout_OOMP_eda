@@ -1,0 +1,45 @@
+{
+    "index": 12772,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12772
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A1353BCD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-dil/A1353BCD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-dil-A1353BCD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

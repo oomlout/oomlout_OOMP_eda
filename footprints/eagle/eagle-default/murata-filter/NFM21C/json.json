@@ -1,0 +1,45 @@
+{
+    "index": 7156,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7156
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "murata-filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NFM21C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/murata-filter/NFM21C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-murata-filter-NFM21C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

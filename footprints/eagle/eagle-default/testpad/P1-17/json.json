@@ -1,0 +1,45 @@
+{
+    "index": 12921,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12921
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "testpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P1-17"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/testpad/P1-17"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-testpad-P1-17"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13005,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13005
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HTSSOP38DAP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/HTSSOP38DAP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-HTSSOP38DAP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

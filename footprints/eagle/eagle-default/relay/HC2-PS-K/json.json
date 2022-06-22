@@ -1,0 +1,45 @@
+{
+    "index": 11747,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11747
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HC2-PS-K"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/HC2-PS-K"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-HC2-PS-K"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

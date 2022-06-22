@@ -1,0 +1,45 @@
+{
+    "index": 7491,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7491
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PT-SPIN"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/PT-SPIN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-PT-SPIN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

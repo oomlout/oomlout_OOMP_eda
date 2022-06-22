@@ -1,0 +1,45 @@
+{
+    "index": 1801,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1801
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-coax"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BU-SMA-V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-coax/BU-SMA-V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-coax-BU-SMA-V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

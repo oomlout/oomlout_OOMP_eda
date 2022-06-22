@@ -1,0 +1,45 @@
+{
+    "index": 13374,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13374
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-neu-to92"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220AV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-neu-to92/TO220AV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO220AV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

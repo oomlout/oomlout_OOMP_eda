@@ -1,0 +1,45 @@
+{
+    "index": 962,
+    "tags": [
+        {
+            "name": "index",
+            "value": 962
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICROSOIC10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/MICROSOIC10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-MICROSOIC10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

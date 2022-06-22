@@ -1,0 +1,45 @@
+{
+    "index": 4432,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4432
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDF44V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/HDF44V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-HDF44V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

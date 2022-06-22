@@ -1,0 +1,45 @@
+{
+    "index": 884,
+    "tags": [
+        {
+            "name": "index",
+            "value": 884
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "altera-cyclone-II"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FBGA896"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/altera-cyclone-II/FBGA896"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA896"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

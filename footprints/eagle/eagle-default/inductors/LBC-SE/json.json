@@ -1,0 +1,45 @@
+{
+    "index": 6121,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6121
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LBC-SE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/LBC-SE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-LBC-SE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

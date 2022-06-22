@@ -1,0 +1,45 @@
+{
+    "index": 5765,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5765
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gennum"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN40-6X6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/gennum/QFN40-6X6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-gennum-QFN40-6X6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

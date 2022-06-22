@@ -1,0 +1,45 @@
+{
+    "index": 13039,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13039
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PZ_S-PQFP-G100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/PZ_S-PQFP-G100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-PZ_S-PQFP-G100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

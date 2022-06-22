@@ -1,0 +1,45 @@
+{
+    "index": 12360,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12360
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SQFP-S-10X10-120"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/SQFP-S-10X10-120"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-10X10-120"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

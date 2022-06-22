@@ -1,0 +1,45 @@
+{
+    "index": 13855,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13855
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S20K275"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/S20K275"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-S20K275"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

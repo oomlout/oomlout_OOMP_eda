@@ -1,0 +1,45 @@
+{
+    "index": 6341,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6341
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PB3XX301V050A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/PB3XX301V050A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-PB3XX301V050A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

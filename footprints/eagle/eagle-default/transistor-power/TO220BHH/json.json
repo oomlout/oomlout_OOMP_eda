@@ -1,0 +1,45 @@
+{
+    "index": 13544,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13544
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220BHH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO220BHH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO220BHH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

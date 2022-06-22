@@ -1,0 +1,45 @@
+{
+    "index": 11729,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11729
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "G6K-2F-Y"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/G6K-2F-Y"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-G6K-2F-Y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

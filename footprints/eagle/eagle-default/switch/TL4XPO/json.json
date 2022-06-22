@@ -1,0 +1,45 @@
+{
+    "index": 12764,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12764
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TL4XPO"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/TL4XPO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-TL4XPO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

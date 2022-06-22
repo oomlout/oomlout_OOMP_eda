@@ -1,0 +1,45 @@
+{
+    "index": 4422,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4422
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F50HP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/F50HP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-F50HP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

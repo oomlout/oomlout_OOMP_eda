@@ -1,0 +1,45 @@
+{
+    "index": 6881,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6881
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UBGA4816"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-intel/UBGA4816"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-intel-UBGA4816"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

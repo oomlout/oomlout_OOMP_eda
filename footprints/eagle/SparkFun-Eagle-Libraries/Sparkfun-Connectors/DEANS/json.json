@@ -1,0 +1,45 @@
+{
+    "index": 14194,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14194
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DEANS"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/DEANS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-DEANS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

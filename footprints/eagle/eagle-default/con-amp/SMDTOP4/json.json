@@ -1,0 +1,45 @@
+{
+    "index": 1637,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1637
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMDTOP4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/SMDTOP4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-SMDTOP4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

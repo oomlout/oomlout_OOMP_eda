@@ -1,0 +1,45 @@
+{
+    "index": 7141,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7141
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "motorola-sensor-driver"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HSOP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/motorola-sensor-driver/HSOP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-HSOP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 2523,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2523
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lumberg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NEB25R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lumberg/NEB25R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lumberg-NEB25R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

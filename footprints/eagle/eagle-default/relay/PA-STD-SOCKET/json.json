@@ -1,0 +1,45 @@
+{
+    "index": 11796,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11796
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PA-STD-SOCKET"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/PA-STD-SOCKET"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-PA-STD-SOCKET"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

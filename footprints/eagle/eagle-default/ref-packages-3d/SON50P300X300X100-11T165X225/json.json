@@ -1,0 +1,45 @@
+{
+    "index": 9992,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9992
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SON50P300X300X100-11T165X225"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/SON50P300X300X100-11T165X225"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SON50P300X300X100-11T165X225"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

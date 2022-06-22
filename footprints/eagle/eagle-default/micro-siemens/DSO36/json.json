@@ -1,0 +1,45 @@
+{
+    "index": 7004,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7004
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSO36"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/DSO36"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-DSO36"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

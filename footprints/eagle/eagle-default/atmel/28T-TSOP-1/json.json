@@ -1,0 +1,45 @@
+{
+    "index": 1004,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1004
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "28T-TSOP-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/28T-TSOP-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-28T-TSOP-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

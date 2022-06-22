@@ -1,0 +1,45 @@
+{
+    "index": 12102,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12102
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "sipex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/sipex/DIL20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-sipex-DIL20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

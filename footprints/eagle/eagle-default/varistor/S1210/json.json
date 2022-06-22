@@ -1,0 +1,45 @@
+{
+    "index": 13833,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13833
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S1210"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/S1210"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-S1210"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

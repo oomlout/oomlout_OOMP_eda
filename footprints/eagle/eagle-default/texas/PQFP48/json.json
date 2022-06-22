@@ -1,0 +1,45 @@
+{
+    "index": 13030,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13030
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP48"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/PQFP48"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-PQFP48"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

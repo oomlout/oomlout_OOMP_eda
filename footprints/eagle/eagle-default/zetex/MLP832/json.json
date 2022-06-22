@@ -1,0 +1,45 @@
+{
+    "index": 13921,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13921
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "zetex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLP832"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/zetex/MLP832"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-zetex-MLP832"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

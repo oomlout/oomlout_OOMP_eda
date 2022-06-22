@@ -1,0 +1,45 @@
+{
+    "index": 5779,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5779
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FK209"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/heatsink/FK209"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-FK209"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12661,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12661
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/SO44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-SO44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

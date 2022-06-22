@@ -1,0 +1,45 @@
+{
+    "index": 7152,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7152
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "motorola-sensor-driver"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO24L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/motorola-sensor-driver/SO24L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO24L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

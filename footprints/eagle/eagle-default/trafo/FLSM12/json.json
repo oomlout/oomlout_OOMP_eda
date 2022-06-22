@@ -1,0 +1,45 @@
+{
+    "index": 13147,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13147
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FLSM12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/FLSM12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-FLSM12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

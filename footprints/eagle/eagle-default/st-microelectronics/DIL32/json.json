@@ -1,0 +1,45 @@
+{
+    "index": 12633,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12633
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/DIL32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

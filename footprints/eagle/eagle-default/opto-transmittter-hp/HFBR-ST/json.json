@@ -1,0 +1,45 @@
+{
+    "index": 7273,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7273
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-transmittter-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HFBR-ST"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-transmittter-hp/HFBR-ST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-transmittter-hp-HFBR-ST"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

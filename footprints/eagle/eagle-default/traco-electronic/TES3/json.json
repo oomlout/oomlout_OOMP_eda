@@ -1,0 +1,45 @@
+{
+    "index": 13095,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13095
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "traco-electronic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TES3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/traco-electronic/TES3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-traco-electronic-TES3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

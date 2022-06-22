@@ -1,0 +1,45 @@
+{
+    "index": 8715,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8715
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCCR32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/PLCCR32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-PLCCR32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

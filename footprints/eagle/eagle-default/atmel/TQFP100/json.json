@@ -1,0 +1,45 @@
+{
+    "index": 1049,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1049
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/TQFP100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-TQFP100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

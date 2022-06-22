@@ -1,0 +1,45 @@
+{
+    "index": 4657,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4657
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAB64Q"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/MAB64Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-MAB64Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

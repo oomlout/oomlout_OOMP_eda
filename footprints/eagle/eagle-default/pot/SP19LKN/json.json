@@ -1,0 +1,45 @@
+{
+    "index": 7509,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7509
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SP19LKN"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/SP19LKN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-SP19LKN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

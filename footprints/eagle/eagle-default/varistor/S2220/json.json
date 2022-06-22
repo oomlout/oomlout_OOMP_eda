@@ -1,0 +1,45 @@
+{
+    "index": 13867,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13867
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S2220"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/S2220"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-S2220"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

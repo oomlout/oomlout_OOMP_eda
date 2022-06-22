@@ -1,0 +1,45 @@
+{
+    "index": 2242,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2242
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-kycon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KLDVX-0202-C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-kycon/KLDVX-0202-C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-kycon-KLDVX-0202-C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

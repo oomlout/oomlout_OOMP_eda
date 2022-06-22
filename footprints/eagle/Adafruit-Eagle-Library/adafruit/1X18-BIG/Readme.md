@@ -1,0 +1,26 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+  
+![][im]
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: Adafruit-Eagle-Library
+- oompDesc: adafruit
+- oompIndex: 1X18-BIG
+- oompName: Adafruit-Eagle-Library/adafruit/1X18-BIG
+
+
+
+[im]: image.png

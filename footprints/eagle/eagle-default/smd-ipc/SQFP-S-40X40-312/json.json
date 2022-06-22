@@ -1,0 +1,45 @@
+{
+    "index": 12418,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12418
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SQFP-S-40X40-312"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/SQFP-S-40X40-312"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-40X40-312"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

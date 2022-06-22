@@ -1,0 +1,45 @@
+{
+    "index": 1208,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1208
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "buzzer"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EB2505"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/buzzer/EB2505"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-buzzer-EB2505"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

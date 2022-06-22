@@ -1,0 +1,45 @@
+{
+    "index": 4577,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4577
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-tycoelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45-SHIELD2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-tycoelectronics/RJ45-SHIELD2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ45-SHIELD2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

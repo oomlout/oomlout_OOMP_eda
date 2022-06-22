@@ -1,0 +1,45 @@
+{
+    "index": 3159,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3159
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-pc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PCI-E_SLOT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-pc/PCI-E_SLOT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-PCI-E_SLOT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

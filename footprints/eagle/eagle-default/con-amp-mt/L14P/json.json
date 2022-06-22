@@ -1,0 +1,45 @@
+{
+    "index": 1679,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1679
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-mt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L14P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-mt/L14P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt-L14P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

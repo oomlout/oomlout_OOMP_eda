@@ -1,0 +1,45 @@
+{
+    "index": 7989,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7989
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XC10B5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/XC10B5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-XC10B5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 14286,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14286
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RCA_LOCK"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/RCA_LOCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-RCA_LOCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

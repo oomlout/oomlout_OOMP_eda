@@ -1,0 +1,45 @@
+{
+    "index": 4439,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4439
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDM26V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/HDM26V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-HDM26V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

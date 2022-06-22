@@ -1,0 +1,45 @@
+{
+    "index": 7696,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7696
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "E2,5-6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/E2,5-6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-E2,5-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

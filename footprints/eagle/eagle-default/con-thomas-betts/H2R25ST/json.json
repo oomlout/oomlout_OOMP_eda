@@ -1,0 +1,45 @@
+{
+    "index": 4520,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4520
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-thomas-betts"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H2R25ST"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-thomas-betts/H2R25ST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-thomas-betts-H2R25ST"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

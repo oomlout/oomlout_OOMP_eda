@@ -1,0 +1,45 @@
+{
+    "index": 13783,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13783
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CT/CN1812"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/CT/CN1812"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-CT/CN1812"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6417,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6417
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LF871"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/LF871"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-LF871"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12808,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12808
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP04YL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-dil/DIP04YL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-dil-DIP04YL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

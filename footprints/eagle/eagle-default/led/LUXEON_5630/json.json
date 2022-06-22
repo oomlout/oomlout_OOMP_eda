@@ -1,0 +1,45 @@
+{
+    "index": 6304,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6304
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LUXEON_5630"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LUXEON_5630"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LUXEON_5630"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

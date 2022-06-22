@@ -1,0 +1,45 @@
+{
+    "index": 6115,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6115
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ED43"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/ED43"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-ED43"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

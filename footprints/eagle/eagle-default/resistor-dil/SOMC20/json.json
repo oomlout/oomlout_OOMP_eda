@@ -1,0 +1,45 @@
+{
+    "index": 11946,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11946
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOMC20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-dil/SOMC20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

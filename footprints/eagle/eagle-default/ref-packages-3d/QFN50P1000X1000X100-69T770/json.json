@@ -1,0 +1,45 @@
+{
+    "index": 9692,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9692
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN50P1000X1000X100-69T770"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFN50P1000X1000X100-69T770"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN50P1000X1000X100-69T770"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

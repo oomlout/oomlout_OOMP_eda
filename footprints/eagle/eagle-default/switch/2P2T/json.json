@@ -1,0 +1,45 @@
+{
+    "index": 12678,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12678
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2P2T"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/2P2T"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-2P2T"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12741,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12741
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MS243"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/MS243"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-MS243"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

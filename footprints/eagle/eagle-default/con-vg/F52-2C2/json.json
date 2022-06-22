@@ -1,0 +1,45 @@
+{
+    "index": 4592,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4592
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F52-2C2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/F52-2C2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-F52-2C2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

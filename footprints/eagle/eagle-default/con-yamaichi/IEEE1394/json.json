@@ -1,0 +1,45 @@
+{
+    "index": 5179,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5179
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-yamaichi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IEEE1394"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-yamaichi/IEEE1394"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-yamaichi-IEEE1394"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

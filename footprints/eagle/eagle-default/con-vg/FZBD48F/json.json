@@ -1,0 +1,45 @@
+{
+    "index": 4627,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4627
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FZBD48F"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/FZBD48F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-FZBD48F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13454,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13454
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-pnp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT93V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-pnp/SOT93V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-pnp-SOT93V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

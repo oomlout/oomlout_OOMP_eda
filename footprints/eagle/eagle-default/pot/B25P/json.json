@@ -1,0 +1,45 @@
+{
+    "index": 7462,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7462
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B25P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/B25P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-B25P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13273,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13273
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220BV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor/TO220BV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-TO220BV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

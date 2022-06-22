@@ -1,0 +1,45 @@
+{
+    "index": 14303,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14303
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SCREWTERMINAL-3.5MM-8"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SCREWTERMINAL-3.5MM-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-SCREWTERMINAL-3.5MM-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

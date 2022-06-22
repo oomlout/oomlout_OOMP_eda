@@ -1,0 +1,45 @@
+{
+    "index": 1850,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1850
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-cpci"
+        },
+        {
+            "name": "oompIndex",
+            "value": "044579_HI_CURRENT_PRESS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-cpci/044579_HI_CURRENT_PRESS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-cpci-044579_HI_CURRENT_PRESS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

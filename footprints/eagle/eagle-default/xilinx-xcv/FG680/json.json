@@ -1,0 +1,45 @@
+{
+    "index": 13908,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13908
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "xilinx-xcv"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FG680"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/xilinx-xcv/FG680"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-xilinx-xcv-FG680"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

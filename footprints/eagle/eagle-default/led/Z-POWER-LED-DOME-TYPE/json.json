@@ -1,0 +1,45 @@
+{
+    "index": 6370,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6370
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Z-POWER-LED-DOME-TYPE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/Z-POWER-LED-DOME-TYPE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-Z-POWER-LED-DOME-TYPE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

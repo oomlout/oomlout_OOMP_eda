@@ -1,0 +1,45 @@
+{
+    "index": 4563,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4563
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-tyco"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D1200D-16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-tyco/D1200D-16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-tyco-D1200D-16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

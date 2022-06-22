@@ -1,0 +1,45 @@
+{
+    "index": 6677,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6677
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MBGA60"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory/MBGA60"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-MBGA60"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 11783,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11783
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MR24"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/MR24"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-MR24"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

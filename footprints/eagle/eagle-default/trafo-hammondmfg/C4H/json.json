@@ -1,0 +1,45 @@
+{
+    "index": 13191,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13191
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-hammondmfg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C4H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-hammondmfg/C4H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-hammondmfg-C4H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

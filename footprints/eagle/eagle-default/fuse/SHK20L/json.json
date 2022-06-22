@@ -1,0 +1,45 @@
+{
+    "index": 5758,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5758
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SHK20L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fuse/SHK20L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-SHK20L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

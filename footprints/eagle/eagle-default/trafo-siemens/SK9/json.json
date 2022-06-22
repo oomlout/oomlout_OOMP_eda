@@ -1,0 +1,45 @@
+{
+    "index": 13231,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13231
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SK9"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-siemens/SK9"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-SK9"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

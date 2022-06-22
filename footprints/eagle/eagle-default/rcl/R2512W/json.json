@@ -1,0 +1,45 @@
+{
+    "index": 7834,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7834
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R2512W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/R2512W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-R2512W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

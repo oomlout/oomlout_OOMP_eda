@@ -1,0 +1,45 @@
+{
+    "index": 1671,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1671
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-mt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L06P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-mt/L06P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt-L06P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

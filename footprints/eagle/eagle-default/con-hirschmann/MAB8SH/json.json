@@ -1,0 +1,45 @@
+{
+    "index": 2181,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2181
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirschmann"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAB8SH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirschmann/MAB8SH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB8SH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

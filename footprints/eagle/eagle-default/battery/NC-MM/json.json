@@ -1,0 +1,45 @@
+{
+    "index": 1099,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1099
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NC-MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/NC-MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-NC-MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

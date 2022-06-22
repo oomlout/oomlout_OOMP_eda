@@ -1,0 +1,45 @@
+{
+    "index": 12745,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12745
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SRRM-4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/SRRM-4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-SRRM-4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

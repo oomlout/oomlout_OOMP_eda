@@ -1,0 +1,45 @@
+{
+    "index": 1253,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1253
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "capacitor-wima"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C22.5B6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/capacitor-wima/C22.5B6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-capacitor-wima-C22.5B6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

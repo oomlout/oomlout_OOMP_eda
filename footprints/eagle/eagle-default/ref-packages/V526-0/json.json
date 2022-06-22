@@ -1,0 +1,45 @@
+{
+    "index": 9549,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9549
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V526-0"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/V526-0"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-V526-0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

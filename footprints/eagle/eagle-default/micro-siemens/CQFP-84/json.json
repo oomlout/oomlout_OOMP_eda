@@ -1,0 +1,45 @@
+{
+    "index": 6998,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6998
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CQFP-84"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/CQFP-84"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-CQFP-84"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

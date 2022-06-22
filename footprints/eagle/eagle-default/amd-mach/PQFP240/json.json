@@ -1,0 +1,45 @@
+{
+    "index": 918,
+    "tags": [
+        {
+            "name": "index",
+            "value": 918
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "amd-mach"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP240"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/amd-mach/PQFP240"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-amd-mach-PQFP240"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

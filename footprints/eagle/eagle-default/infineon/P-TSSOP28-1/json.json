@@ -1,0 +1,45 @@
+{
+    "index": 6162,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6162
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-TSSOP28-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon/P-TSSOP28-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-P-TSSOP28-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

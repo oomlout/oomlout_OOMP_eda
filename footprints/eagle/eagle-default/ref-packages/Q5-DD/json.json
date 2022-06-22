@@ -1,0 +1,45 @@
+{
+    "index": 8739,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8739
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Q5-DD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/Q5-DD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-Q5-DD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

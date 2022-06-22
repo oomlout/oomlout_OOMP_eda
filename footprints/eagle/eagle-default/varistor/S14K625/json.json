@@ -1,0 +1,45 @@
+{
+    "index": 13848,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13848
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S14K625"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/S14K625"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-S14K625"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

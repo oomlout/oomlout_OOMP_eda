@@ -1,0 +1,45 @@
+{
+    "index": 12824,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12824
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DP-07"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-dil/DP-07"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-dil-DP-07"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

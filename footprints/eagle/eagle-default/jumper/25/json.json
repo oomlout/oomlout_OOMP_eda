@@ -1,0 +1,45 @@
+{
+    "index": 6229,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6229
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "jumper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "25"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/jumper/25"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-jumper-25"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

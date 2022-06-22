@@ -1,0 +1,45 @@
+{
+    "index": 1280,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1280
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "chipcard-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIM_CARD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/chipcard-siemens/SIM_CARD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-chipcard-siemens-SIM_CARD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

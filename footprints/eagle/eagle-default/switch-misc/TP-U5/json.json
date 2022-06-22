@@ -1,0 +1,45 @@
+{
+    "index": 12887,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12887
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-misc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TP-U5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-misc/TP-U5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-misc-TP-U5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

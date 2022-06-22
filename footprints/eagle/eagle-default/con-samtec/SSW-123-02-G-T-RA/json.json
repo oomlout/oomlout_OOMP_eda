@@ -1,0 +1,45 @@
+{
+    "index": 3599,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3599
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSW-123-02-G-T-RA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/SSW-123-02-G-T-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-SSW-123-02-G-T-RA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 2175,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2175
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirschmann"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAB5SV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirschmann/MAB5SV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB5SV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7877,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7877
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIMCVR42A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/RTRIMCVR42A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-RTRIMCVR42A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 1649,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1649
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-champ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "36H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-champ/36H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-champ-36H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

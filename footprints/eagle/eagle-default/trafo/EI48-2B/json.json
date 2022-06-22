@@ -1,0 +1,45 @@
+{
+    "index": 13117,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13117
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EI48-2B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/EI48-2B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-EI48-2B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

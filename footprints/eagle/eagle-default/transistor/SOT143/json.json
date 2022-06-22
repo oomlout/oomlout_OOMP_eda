@@ -1,0 +1,45 @@
+{
+    "index": 13246,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13246
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT143"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor/SOT143"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-SOT143"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

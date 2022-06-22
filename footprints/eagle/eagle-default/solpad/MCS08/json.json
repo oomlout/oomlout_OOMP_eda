@@ -1,0 +1,45 @@
+{
+    "index": 12528,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12528
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "solpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MCS08"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/solpad/MCS08"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-solpad-MCS08"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

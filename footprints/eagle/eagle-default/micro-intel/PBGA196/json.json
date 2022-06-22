@@ -1,0 +1,45 @@
+{
+    "index": 6847,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6847
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PBGA196"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-intel/PBGA196"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-intel-PBGA196"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

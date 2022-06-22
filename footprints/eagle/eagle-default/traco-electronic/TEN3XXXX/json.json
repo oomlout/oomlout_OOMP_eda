@@ -1,0 +1,45 @@
+{
+    "index": 13094,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13094
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "traco-electronic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TEN3XXXX"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/traco-electronic/TEN3XXXX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-traco-electronic-TEN3XXXX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

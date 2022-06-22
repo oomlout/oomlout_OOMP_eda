@@ -1,0 +1,45 @@
+{
+    "index": 7130,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7130
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microphon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WM-63PR"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microphon/WM-63PR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microphon-WM-63PR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

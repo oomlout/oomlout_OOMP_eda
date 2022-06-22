@@ -1,0 +1,45 @@
+{
+    "index": 1954,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1954
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-ebyelectro"
+        },
+        {
+            "name": "oompIndex",
+            "value": "5202-12-N-02"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-ebyelectro/5202-12-N-02"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-12-N-02"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

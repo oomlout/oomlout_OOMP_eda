@@ -1,0 +1,45 @@
+{
+    "index": 6303,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6303
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LUMILED+"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LUMILED+"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LUMILED+"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

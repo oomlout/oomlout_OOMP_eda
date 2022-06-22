@@ -1,0 +1,45 @@
+{
+    "index": 1817,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1817
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-coax"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R141426"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-coax/R141426"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-coax-R141426"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 1846,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1846
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-conrad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RCA-4-117-01"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-conrad/RCA-4-117-01"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-conrad-RCA-4-117-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

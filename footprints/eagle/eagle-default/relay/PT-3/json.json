@@ -1,0 +1,45 @@
+{
+    "index": 11803,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11803
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PT-3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/PT-3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-PT-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

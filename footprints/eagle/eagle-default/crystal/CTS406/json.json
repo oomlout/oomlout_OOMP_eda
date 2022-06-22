@@ -1,0 +1,45 @@
+{
+    "index": 5224,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5224
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CTS406"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/CTS406"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-CTS406"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 3690,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3690
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSW-135-02-G-Q"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/SSW-135-02-G-Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-SSW-135-02-G-Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

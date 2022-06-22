@@ -1,0 +1,45 @@
+{
+    "index": 5837,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5837
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "holtek"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/holtek/SOP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-holtek-SOP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

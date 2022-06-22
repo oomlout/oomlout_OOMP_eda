@@ -1,0 +1,45 @@
+{
+    "index": 14210,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14210
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FPC_16_0.5MM_VERTICAL"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/FPC_16_0.5MM_VERTICAL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-FPC_16_0.5MM_VERTICAL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

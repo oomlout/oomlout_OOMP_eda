@@ -1,0 +1,45 @@
+{
+    "index": 6098,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6098
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DK61"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/DK61"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-DK61"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

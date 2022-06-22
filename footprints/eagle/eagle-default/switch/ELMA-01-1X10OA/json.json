@@ -1,0 +1,45 @@
+{
+    "index": 12724,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12724
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ELMA-01-1X10OA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/ELMA-01-1X10OA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X10OA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

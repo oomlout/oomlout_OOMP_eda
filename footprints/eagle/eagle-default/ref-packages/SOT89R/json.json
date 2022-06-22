@@ -1,0 +1,45 @@
+{
+    "index": 9136,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9136
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT89R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOT89R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT89R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

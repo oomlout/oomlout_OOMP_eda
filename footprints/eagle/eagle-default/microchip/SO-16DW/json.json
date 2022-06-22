@@ -1,0 +1,45 @@
+{
+    "index": 7084,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7084
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-16DW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/SO-16DW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-SO-16DW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

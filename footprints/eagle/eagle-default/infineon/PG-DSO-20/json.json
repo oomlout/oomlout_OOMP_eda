@@ -1,0 +1,45 @@
+{
+    "index": 6163,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6163
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PG-DSO-20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon/PG-DSO-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

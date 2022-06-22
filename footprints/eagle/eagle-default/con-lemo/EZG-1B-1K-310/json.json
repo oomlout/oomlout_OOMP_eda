@@ -1,0 +1,45 @@
+{
+    "index": 2266,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2266
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lemo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EZG-1B-1K-310"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lemo/EZG-1B-1K-310"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lemo-EZG-1B-1K-310"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

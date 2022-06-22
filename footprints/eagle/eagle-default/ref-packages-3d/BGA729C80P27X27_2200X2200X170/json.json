@@ -1,0 +1,45 @@
+{
+    "index": 9659,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9659
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA729C80P27X27_2200X2200X170"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/BGA729C80P27X27_2200X2200X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA729C80P27X27_2200X2200X170"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

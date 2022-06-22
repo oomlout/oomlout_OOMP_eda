@@ -1,0 +1,45 @@
+{
+    "index": 5946,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5946
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-neosid"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RM5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-neosid/RM5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-neosid-RM5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

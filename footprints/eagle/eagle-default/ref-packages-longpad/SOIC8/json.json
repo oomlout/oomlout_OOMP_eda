@@ -1,0 +1,45 @@
+{
+    "index": 11044,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11044
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/SOIC8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOIC8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

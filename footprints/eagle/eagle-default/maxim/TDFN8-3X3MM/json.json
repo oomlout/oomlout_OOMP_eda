@@ -1,0 +1,45 @@
+{
+    "index": 6642,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6642
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "maxim"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TDFN8-3X3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/maxim/TDFN8-3X3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-maxim-TDFN8-3X3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

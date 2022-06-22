@@ -1,0 +1,45 @@
+{
+    "index": 5373,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5373
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C1103/"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/C1103/"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-C1103/"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

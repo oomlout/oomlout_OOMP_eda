@@ -1,0 +1,45 @@
+{
+    "index": 12554,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12554
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DUOLED"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special/DUOLED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-DUOLED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

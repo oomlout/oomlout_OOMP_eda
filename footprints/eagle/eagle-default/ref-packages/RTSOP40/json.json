@@ -1,0 +1,45 @@
+{
+    "index": 8850,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8850
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTSOP40"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/RTSOP40"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-RTSOP40"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

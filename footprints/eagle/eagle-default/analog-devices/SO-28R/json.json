@@ -1,0 +1,45 @@
+{
+    "index": 983,
+    "tags": [
+        {
+            "name": "index",
+            "value": 983
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-28R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/SO-28R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-SO-28R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

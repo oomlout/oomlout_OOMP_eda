@@ -1,0 +1,45 @@
+{
+    "index": 7779,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7779
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LAP02KR"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/LAP02KR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-LAP02KR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

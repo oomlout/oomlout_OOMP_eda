@@ -1,0 +1,45 @@
+{
+    "index": 4655,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4655
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAB32Q2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/MAB32Q2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-MAB32Q2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

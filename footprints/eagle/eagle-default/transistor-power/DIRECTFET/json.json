@@ -1,0 +1,45 @@
+{
+    "index": 13492,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13492
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIRECTFET"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/DIRECTFET"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-DIRECTFET"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

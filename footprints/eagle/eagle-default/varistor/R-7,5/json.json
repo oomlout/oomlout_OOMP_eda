@@ -1,0 +1,45 @@
+{
+    "index": 13792,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13792
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R-7,5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/R-7,5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-R-7,5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

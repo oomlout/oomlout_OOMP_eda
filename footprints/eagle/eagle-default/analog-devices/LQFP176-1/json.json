@@ -1,0 +1,45 @@
+{
+    "index": 956,
+    "tags": [
+        {
+            "name": "index",
+            "value": 956
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP176-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/LQFP176-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-LQFP176-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

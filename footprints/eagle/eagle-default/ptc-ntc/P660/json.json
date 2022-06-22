@@ -1,0 +1,45 @@
+{
+    "index": 7519,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7519
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ptc-ntc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P660"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ptc-ntc/P660"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ptc-ntc-P660"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

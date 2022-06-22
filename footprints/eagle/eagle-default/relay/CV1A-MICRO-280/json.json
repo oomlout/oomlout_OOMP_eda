@@ -1,0 +1,45 @@
+{
+    "index": 11668,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11668
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CV1A-MICRO-280"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/CV1A-MICRO-280"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-CV1A-MICRO-280"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

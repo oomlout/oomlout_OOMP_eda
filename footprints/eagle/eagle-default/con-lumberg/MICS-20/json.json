@@ -1,0 +1,45 @@
+{
+    "index": 2488,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2488
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lumberg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICS-20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lumberg/MICS-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

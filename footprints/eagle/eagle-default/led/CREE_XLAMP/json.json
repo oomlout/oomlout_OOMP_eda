@@ -1,0 +1,45 @@
+{
+    "index": 6269,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6269
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CREE_XLAMP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/CREE_XLAMP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-CREE_XLAMP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

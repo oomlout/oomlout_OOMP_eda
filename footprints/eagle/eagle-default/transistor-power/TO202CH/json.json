@@ -1,0 +1,45 @@
+{
+    "index": 13524,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13524
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO202CH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO202CH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO202CH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

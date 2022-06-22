@@ -1,0 +1,45 @@
+{
+    "index": 6299,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6299
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LP2C63-ST-RGB-SR0"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LP2C63-ST-RGB-SR0"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LP2C63-ST-RGB-SR0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

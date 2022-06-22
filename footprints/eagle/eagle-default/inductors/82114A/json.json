@@ -1,0 +1,45 @@
+{
+    "index": 6074,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6074
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "82114A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/82114A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-82114A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

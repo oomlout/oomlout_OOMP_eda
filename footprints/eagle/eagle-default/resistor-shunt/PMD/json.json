@@ -1,0 +1,45 @@
+{
+    "index": 12053,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12053
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-shunt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PMD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-shunt/PMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-shunt-PMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

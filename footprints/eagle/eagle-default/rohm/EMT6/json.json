@@ -1,0 +1,45 @@
+{
+    "index": 12078,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12078
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rohm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EMT6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rohm/EMT6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rohm-EMT6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

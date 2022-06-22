@@ -1,0 +1,45 @@
+{
+    "index": 12926,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12926
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "testpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P2-38-20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/testpad/P2-38-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-testpad-P2-38-20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

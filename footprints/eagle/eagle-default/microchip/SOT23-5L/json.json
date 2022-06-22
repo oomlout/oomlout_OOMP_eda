@@ -1,0 +1,45 @@
+{
+    "index": 7088,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7088
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT23-5L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/SOT23-5L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-SOT23-5L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

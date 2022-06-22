@@ -1,0 +1,45 @@
+{
+    "index": 8829,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8829
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIM5X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/RTRIM5X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-RTRIM5X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

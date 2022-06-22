@@ -1,0 +1,45 @@
+{
+    "index": 4387,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4387
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "177-015-212-FEMALE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/177-015-212-FEMALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-177-015-212-FEMALE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

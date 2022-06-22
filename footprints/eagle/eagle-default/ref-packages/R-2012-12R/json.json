@@ -1,0 +1,45 @@
+{
+    "index": 8769,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8769
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R/2012-12R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/R/2012-12R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-R/2012-12R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

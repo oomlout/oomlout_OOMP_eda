@@ -1,0 +1,45 @@
+{
+    "index": 6888,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6888
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-mc68000"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MPGA114"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-mc68000/MPGA114"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA114"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

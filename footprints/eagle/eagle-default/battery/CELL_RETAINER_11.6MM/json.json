@@ -1,0 +1,45 @@
+{
+    "index": 1086,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1086
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12992,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12992
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GTS_S-PBGA-N288"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/GTS_S-PBGA-N288"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-GTS_S-PBGA-N288"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

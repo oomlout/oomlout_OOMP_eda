@@ -1,0 +1,45 @@
+{
+    "index": 6362,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6362
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SUPERFLUX-SMD-7.6X7.6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/SUPERFLUX-SMD-7.6X7.6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-SMD-7.6X7.6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

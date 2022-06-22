@@ -1,0 +1,45 @@
+{
+    "index": 5639,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5639
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "etx-board"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FX8-100S-SV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/etx-board/FX8-100S-SV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-etx-board-FX8-100S-SV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

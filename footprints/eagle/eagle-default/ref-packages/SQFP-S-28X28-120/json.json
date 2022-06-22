@@ -1,0 +1,45 @@
+{
+    "index": 9216,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9216
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SQFP-S-28X28-120"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SQFP-S-28X28-120"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-28X28-120"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

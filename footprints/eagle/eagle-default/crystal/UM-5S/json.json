@@ -1,0 +1,45 @@
+{
+    "index": 5280,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5280
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UM-5S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/UM-5S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-UM-5S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7393,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7393
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pinhead"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1X24/90"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pinhead/1X24/90"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pinhead-1X24/90"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

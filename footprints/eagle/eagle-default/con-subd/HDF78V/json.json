@@ -1,0 +1,45 @@
+{
+    "index": 4435,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4435
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDF78V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/HDF78V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-HDF78V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

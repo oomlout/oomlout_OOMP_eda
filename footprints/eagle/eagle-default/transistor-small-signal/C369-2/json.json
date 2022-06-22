@@ -1,0 +1,45 @@
+{
+    "index": 13576,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13576
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-small-signal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C369-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-small-signal/C369-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-small-signal-C369-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

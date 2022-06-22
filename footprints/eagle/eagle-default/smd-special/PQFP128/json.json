@@ -1,0 +1,45 @@
+{
+    "index": 12508,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12508
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP128"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-special/PQFP128"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-PQFP128"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

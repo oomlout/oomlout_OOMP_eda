@@ -1,0 +1,45 @@
+{
+    "index": 7957,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7957
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TT2D7L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/TT2D7L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-TT2D7L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

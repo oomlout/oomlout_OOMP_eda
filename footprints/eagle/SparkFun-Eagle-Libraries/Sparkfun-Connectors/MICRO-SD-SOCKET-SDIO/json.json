@@ -1,0 +1,45 @@
+{
+    "index": 14245,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14245
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICRO-SD-SOCKET-SDIO"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MICRO-SD-SOCKET-SDIO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MICRO-SD-SOCKET-SDIO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

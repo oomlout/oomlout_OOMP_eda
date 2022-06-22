@@ -1,0 +1,45 @@
+{
+    "index": 7494,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7494
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ9W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/RJ9W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-RJ9W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

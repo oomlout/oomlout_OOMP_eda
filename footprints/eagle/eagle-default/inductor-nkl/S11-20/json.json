@@ -1,0 +1,45 @@
+{
+    "index": 6067,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6067
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-nkl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S11-20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-nkl/S11-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-nkl-S11-20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

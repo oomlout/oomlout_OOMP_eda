@@ -1,0 +1,45 @@
+{
+    "index": 2163,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2163
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirose"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FH28-50S-0.5SH(51)"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirose/FH28-50S-0.5SH(51)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirose-FH28-50S-0.5SH(51)"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

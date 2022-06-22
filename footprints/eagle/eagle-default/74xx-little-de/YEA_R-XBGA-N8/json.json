@@ -1,0 +1,45 @@
+{
+    "index": 771,
+    "tags": [
+        {
+            "name": "index",
+            "value": 771
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-little-de"
+        },
+        {
+            "name": "oompIndex",
+            "value": "YEA_R-XBGA-N8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-little-de/YEA_R-XBGA-N8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-little-de-YEA_R-XBGA-N8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

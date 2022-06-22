@@ -1,0 +1,45 @@
+{
+    "index": 7848,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7848
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIM3165W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/RTRIM3165W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-RTRIM3165W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

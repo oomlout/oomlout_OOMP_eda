@@ -1,0 +1,45 @@
+{
+    "index": 6154,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6154
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SUKW3-27"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/SUKW3-27"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-SUKW3-27"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

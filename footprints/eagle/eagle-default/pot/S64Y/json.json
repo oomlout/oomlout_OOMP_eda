@@ -1,0 +1,45 @@
+{
+    "index": 7500,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7500
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S64Y"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/S64Y"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-S64Y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

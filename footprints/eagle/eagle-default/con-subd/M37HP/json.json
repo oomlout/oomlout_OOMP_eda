@@ -1,0 +1,45 @@
+{
+    "index": 4469,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4469
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M37HP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/M37HP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-M37HP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

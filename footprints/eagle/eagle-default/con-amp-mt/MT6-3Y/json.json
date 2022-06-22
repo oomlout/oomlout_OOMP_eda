@@ -1,0 +1,45 @@
+{
+    "index": 1687,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1687
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-mt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MT6-3Y"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-mt/MT6-3Y"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt-MT6-3Y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

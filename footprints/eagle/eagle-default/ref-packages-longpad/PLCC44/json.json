@@ -1,0 +1,45 @@
+{
+    "index": 10745,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10745
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/PLCC44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLCC44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

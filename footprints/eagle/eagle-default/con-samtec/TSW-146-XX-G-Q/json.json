@@ -1,0 +1,45 @@
+{
+    "index": 4320,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4320
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSW-146-XX-G-Q"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/TSW-146-XX-G-Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-TSW-146-XX-G-Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

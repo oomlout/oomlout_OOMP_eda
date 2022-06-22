@@ -1,0 +1,45 @@
+{
+    "index": 3039,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3039
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-omron"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XF2H-1215-1LW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-omron/XF2H-1215-1LW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-omron-XF2H-1215-1LW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13677,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13677
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-small-signal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSFP-3_INFINEON"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-small-signal/TSFP-3_INFINEON"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-small-signal-TSFP-3_INFINEON"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

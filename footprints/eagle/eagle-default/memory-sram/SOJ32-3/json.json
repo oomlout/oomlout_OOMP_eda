@@ -1,0 +1,45 @@
+{
+    "index": 6783,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6783
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-sram"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOJ32/3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-sram/SOJ32/3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-sram-SOJ32/3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

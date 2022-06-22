@@ -1,0 +1,45 @@
+{
+    "index": 6614,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6614
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "maxim"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC28"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/maxim/PLCC28"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-maxim-PLCC28"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

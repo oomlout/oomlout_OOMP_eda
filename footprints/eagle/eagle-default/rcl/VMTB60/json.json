@@ -1,0 +1,45 @@
+{
+    "index": 7977,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7977
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VMTB60"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/VMTB60"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-VMTB60"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

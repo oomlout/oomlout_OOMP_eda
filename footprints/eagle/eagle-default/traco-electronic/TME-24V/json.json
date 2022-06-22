@@ -1,0 +1,45 @@
+{
+    "index": 13097,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13097
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "traco-electronic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TME-24V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/traco-electronic/TME-24V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-traco-electronic-TME-24V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

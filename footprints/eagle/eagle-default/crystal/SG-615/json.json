@@ -1,0 +1,45 @@
+{
+    "index": 5266,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5266
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SG-615"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/SG-615"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-SG-615"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

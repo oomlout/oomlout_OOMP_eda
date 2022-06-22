@@ -1,0 +1,45 @@
+{
+    "index": 6289,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6289
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED10MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LED10MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LED10MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

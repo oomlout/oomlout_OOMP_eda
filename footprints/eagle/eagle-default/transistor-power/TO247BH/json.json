@@ -1,0 +1,45 @@
+{
+    "index": 13548,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13548
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO247BH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO247BH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO247BH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

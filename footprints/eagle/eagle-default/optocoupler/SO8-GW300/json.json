@@ -1,0 +1,45 @@
+{
+    "index": 7317,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7317
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "optocoupler"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO8-GW300"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/optocoupler/SO8-GW300"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-optocoupler-SO8-GW300"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

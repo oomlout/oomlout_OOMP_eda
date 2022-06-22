@@ -1,0 +1,45 @@
+{
+    "index": 7340,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7340
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "photo-elements"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VT900"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/photo-elements/VT900"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-photo-elements-VT900"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

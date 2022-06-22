@@ -1,0 +1,45 @@
+{
+    "index": 7213,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7213
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-honeywell"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SCFIBER"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-honeywell/SCFIBER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-SCFIBER"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

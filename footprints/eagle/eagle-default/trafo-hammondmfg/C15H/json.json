@@ -1,0 +1,45 @@
+{
+    "index": 13186,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13186
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-hammondmfg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C15H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-hammondmfg/C15H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-hammondmfg-C15H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

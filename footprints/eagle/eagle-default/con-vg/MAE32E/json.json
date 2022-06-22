@@ -1,0 +1,45 @@
+{
+    "index": 4680,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4680
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAE32E"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/MAE32E"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-MAE32E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

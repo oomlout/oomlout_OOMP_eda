@@ -1,0 +1,45 @@
+{
+    "index": 3473,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3473
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSW-108-02-G-D-RA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/SSW-108-02-G-D-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-SSW-108-02-G-D-RA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

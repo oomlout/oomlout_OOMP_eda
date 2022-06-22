@@ -1,0 +1,45 @@
+{
+    "index": 1046,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1046
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP20D8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/SSOP20D8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-SSOP20D8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

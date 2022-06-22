@@ -1,0 +1,45 @@
+{
+    "index": 1151,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1151
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "burr-brown"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO28-3/8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/burr-brown/SO28-3/8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-burr-brown-SO28-3/8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

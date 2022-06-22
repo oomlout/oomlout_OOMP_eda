@@ -1,0 +1,45 @@
+{
+    "index": 7271,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7271
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-trans-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SFH303"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-trans-siemens/SFH303"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH303"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

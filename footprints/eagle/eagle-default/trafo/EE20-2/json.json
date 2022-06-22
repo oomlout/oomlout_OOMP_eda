@@ -1,0 +1,45 @@
+{
+    "index": 13105,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13105
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EE20-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/EE20-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-EE20-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

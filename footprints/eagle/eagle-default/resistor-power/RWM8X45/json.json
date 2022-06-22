@@ -1,0 +1,45 @@
+{
+    "index": 12046,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12046
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RWM8X45"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/RWM8X45"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-RWM8X45"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

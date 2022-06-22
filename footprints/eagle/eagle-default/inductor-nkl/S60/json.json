@@ -1,0 +1,45 @@
+{
+    "index": 6071,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6071
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-nkl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S60"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-nkl/S60"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-nkl-S60"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

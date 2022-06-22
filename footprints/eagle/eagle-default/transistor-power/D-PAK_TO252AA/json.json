@@ -1,0 +1,45 @@
+{
+    "index": 13487,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13487
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D-PAK_TO252AA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/D-PAK_TO252AA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-D-PAK_TO252AA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

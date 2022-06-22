@@ -1,0 +1,45 @@
+{
+    "index": 5631,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5631
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-lcd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TUXGR_16X2_R2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-lcd/TUXGR_16X2_R2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-lcd-TUXGR_16X2_R2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 11881,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11881
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SR6A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/SR6A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-SR6A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

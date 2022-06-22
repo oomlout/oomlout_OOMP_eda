@@ -1,0 +1,45 @@
+{
+    "index": 12263,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12263
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO36X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/SO36X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-SO36X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

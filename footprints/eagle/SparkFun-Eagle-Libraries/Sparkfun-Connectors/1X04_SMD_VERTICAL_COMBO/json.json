@@ -1,0 +1,45 @@
+{
+    "index": 13985,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13985
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1X04_SMD_VERTICAL_COMBO"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_SMD_VERTICAL_COMBO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_SMD_VERTICAL_COMBO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

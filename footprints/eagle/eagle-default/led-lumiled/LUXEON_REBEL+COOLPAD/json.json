@@ -1,0 +1,45 @@
+{
+    "index": 6377,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6377
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led-lumiled"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LUXEON_REBEL+COOLPAD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led-lumiled/LUXEON_REBEL+COOLPAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-lumiled-LUXEON_REBEL+COOLPAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

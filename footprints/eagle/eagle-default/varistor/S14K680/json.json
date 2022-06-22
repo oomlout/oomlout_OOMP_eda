@@ -1,0 +1,45 @@
+{
+    "index": 13849,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13849
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S14K680"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/S14K680"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-S14K680"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

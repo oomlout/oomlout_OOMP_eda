@@ -1,0 +1,45 @@
+{
+    "index": 11973,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11973
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CA4090"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/CA4090"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-CA4090"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

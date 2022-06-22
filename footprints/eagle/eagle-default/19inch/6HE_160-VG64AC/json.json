@@ -1,0 +1,45 @@
+{
+    "index": 645,
+    "tags": [
+        {
+            "name": "index",
+            "value": 645
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "19inch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "6HE_160-VG64AC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/19inch/6HE_160-VG64AC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-19inch-6HE_160-VG64AC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

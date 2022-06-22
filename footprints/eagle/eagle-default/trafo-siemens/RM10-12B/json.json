@@ -1,0 +1,45 @@
+{
+    "index": 13199,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13199
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RM10-12B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-siemens/RM10-12B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-RM10-12B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

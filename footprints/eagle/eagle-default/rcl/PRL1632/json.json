@@ -1,0 +1,45 @@
+{
+    "index": 7812,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7812
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PRL1632"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/PRL1632"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-PRL1632"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

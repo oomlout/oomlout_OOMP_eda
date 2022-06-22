@@ -1,0 +1,45 @@
+{
+    "index": 13165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VP32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/VP32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-VP32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6565,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6565
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "logo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ESD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/logo/ESD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-logo-ESD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

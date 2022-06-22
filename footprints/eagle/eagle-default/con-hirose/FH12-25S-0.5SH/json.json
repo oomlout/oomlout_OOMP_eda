@@ -1,0 +1,45 @@
+{
+    "index": 2119,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2119
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirose"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FH12-25S-0.5SH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirose/FH12-25S-0.5SH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirose-FH12-25S-0.5SH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

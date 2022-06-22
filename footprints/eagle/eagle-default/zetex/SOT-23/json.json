@@ -1,0 +1,45 @@
+{
+    "index": 13930,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13930
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "zetex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT-23"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/zetex/SOT-23"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-zetex-SOT-23"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6256,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6256
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lc-filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KNF21"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lc-filter/KNF21"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lc-filter-KNF21"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

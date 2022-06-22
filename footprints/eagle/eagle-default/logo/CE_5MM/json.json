@@ -1,0 +1,45 @@
+{
+    "index": 6537,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6537
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "logo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CE_5MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/logo/CE_5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-logo-CE_5MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

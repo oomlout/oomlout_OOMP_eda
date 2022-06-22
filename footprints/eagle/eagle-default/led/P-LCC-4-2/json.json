@@ -1,0 +1,45 @@
+{
+    "index": 6333,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6333
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-LCC-4-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/P-LCC-4-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-P-LCC-4-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

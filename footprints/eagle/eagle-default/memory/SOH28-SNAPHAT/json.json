@@ -1,0 +1,45 @@
+{
+    "index": 6680,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6680
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOH28-SNAPHAT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory/SOH28-SNAPHAT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-SOH28-SNAPHAT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

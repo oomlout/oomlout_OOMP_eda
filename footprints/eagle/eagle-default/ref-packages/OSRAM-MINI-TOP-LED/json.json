@@ -1,0 +1,45 @@
+{
+    "index": 8623,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8623
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OSRAM-MINI-TOP-LED"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/OSRAM-MINI-TOP-LED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-OSRAM-MINI-TOP-LED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6295,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6295
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED5MM_H6,0MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LED5MM_H6,0MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LED5MM_H6,0MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 5234,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5234
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FC-12M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/FC-12M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-FC-12M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

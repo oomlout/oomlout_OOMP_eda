@@ -1,0 +1,45 @@
+{
+    "index": 13000,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13000
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HTSSOP28DCP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/HTSSOP28DCP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-HTSSOP28DCP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

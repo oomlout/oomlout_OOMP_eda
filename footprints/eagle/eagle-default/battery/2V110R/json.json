@@ -1,0 +1,45 @@
+{
+    "index": 1074,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1074
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2V110R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/2V110R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-2V110R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

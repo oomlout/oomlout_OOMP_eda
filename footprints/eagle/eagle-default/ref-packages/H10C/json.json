@@ -1,0 +1,45 @@
+{
+    "index": 8474,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8474
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H10C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/H10C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-H10C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

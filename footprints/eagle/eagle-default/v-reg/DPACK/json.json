@@ -1,0 +1,45 @@
+{
+    "index": 13746,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13746
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "v-reg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DPACK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/v-reg/DPACK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-v-reg-DPACK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

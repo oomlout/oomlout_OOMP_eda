@@ -1,0 +1,45 @@
+{
+    "index": 1060,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1060
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VQFP32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/VQFP32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-VQFP32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

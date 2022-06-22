@@ -1,0 +1,45 @@
+{
+    "index": 7151,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7151
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "motorola-sensor-driver"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO20L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/motorola-sensor-driver/SO20L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-SO20L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

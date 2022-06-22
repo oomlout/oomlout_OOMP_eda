@@ -1,0 +1,45 @@
+{
+    "index": 12316,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12316
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT223"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/SOT223"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-SOT223"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

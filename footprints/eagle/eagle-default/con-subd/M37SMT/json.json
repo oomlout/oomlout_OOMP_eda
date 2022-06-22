@@ -1,0 +1,45 @@
+{
+    "index": 4470,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4470
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M37SMT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/M37SMT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-M37SMT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

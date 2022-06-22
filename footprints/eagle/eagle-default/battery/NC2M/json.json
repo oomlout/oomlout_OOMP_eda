@@ -1,0 +1,45 @@
+{
+    "index": 1101,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1101
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NC2M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/NC2M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-NC2M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

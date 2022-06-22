@@ -1,0 +1,45 @@
+{
+    "index": 12468,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12468
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP8X18"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/TSOP8X18"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP8X18"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

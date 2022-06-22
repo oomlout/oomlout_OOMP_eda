@@ -1,0 +1,45 @@
+{
+    "index": 12259,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12259
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO28X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/SO28X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-SO28X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

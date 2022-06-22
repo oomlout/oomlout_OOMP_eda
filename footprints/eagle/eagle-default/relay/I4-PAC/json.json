@@ -1,0 +1,45 @@
+{
+    "index": 11754,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11754
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "I4-PAC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/I4-PAC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-I4-PAC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

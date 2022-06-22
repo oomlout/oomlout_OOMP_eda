@@ -1,0 +1,45 @@
+{
+    "index": 13554,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13554
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO262-V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO262-V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO262-V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 8333,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8333
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/DIP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-DIP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

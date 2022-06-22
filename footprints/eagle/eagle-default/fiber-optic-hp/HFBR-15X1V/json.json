@@ -1,0 +1,45 @@
+{
+    "index": 5679,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5679
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fiber-optic-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HFBR-15X1V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fiber-optic-hp/HFBR-15X1V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fiber-optic-hp-HFBR-15X1V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

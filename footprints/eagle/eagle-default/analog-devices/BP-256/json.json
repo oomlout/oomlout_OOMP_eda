@@ -1,0 +1,45 @@
+{
+    "index": 933,
+    "tags": [
+        {
+            "name": "index",
+            "value": 933
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BP-256"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/BP-256"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-BP-256"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

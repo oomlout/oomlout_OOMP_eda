@@ -1,0 +1,45 @@
+{
+    "index": 13565,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13565
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO66A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO66A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO66A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

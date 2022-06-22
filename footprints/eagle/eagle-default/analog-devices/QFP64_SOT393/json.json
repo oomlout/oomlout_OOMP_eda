@@ -1,0 +1,45 @@
+{
+    "index": 978,
+    "tags": [
+        {
+            "name": "index",
+            "value": 978
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP64_SOT393"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/QFP64_SOT393"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-QFP64_SOT393"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

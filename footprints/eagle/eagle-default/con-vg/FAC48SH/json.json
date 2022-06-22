@@ -1,0 +1,45 @@
+{
+    "index": 4618,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4618
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FAC48SH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/FAC48SH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-FAC48SH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7067,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7067
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MQFP44-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/MQFP44-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-MQFP44-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

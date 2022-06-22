@@ -1,0 +1,45 @@
+{
+    "index": 817,
+    "tags": [
+        {
+            "name": "index",
+            "value": 817
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-us"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO14PW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-us/SO14PW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-us-SO14PW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

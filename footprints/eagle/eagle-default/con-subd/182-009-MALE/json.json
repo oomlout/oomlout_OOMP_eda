@@ -1,0 +1,45 @@
+{
+    "index": 4393,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4393
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "182-009-MALE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/182-009-MALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-182-009-MALE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

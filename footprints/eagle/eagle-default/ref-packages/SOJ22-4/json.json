@@ -1,0 +1,45 @@
+{
+    "index": 9018,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9018
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOJ22-4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOJ22-4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOJ22-4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

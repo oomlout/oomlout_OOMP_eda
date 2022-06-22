@@ -1,0 +1,45 @@
+{
+    "index": 7163,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7163
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "national-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H08C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/national-semiconductor/H08C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-national-semiconductor-H08C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

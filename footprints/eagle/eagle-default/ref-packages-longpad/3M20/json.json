@@ -1,0 +1,45 @@
+{
+    "index": 10160,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10160
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "3M20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/3M20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-3M20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

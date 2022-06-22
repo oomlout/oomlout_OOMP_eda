@@ -1,0 +1,45 @@
+{
+    "index": 1182,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1182
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "busbar"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TE3/7"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/busbar/TE3/7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-busbar-TE3/7"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

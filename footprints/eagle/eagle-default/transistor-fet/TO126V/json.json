@@ -1,0 +1,45 @@
+{
+    "index": 13318,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13318
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-fet"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO126V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-fet/TO126V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-fet-TO126V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

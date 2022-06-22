@@ -1,0 +1,45 @@
+{
+    "index": 1169,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1169
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "burr-brown"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220-5A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/burr-brown/TO220-5A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-burr-brown-TO220-5A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

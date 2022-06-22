@@ -1,0 +1,45 @@
+{
+    "index": 6158,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6158
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LOGO"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon/LOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-LOGO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

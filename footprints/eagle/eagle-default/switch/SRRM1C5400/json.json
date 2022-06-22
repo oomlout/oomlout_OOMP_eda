@@ -1,0 +1,45 @@
+{
+    "index": 12746,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12746
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SRRM1C5400"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/SRRM1C5400"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-SRRM1C5400"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

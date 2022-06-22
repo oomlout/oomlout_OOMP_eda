@@ -1,0 +1,45 @@
+{
+    "index": 6363,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6363
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TLUV5300"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/TLUV5300"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-TLUV5300"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

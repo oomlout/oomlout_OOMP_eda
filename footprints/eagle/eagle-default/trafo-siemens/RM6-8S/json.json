@@ -1,0 +1,45 @@
+{
+    "index": 13222,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13222
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RM6-8S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-siemens/RM6-8S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-8S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

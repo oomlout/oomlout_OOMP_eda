@@ -1,0 +1,45 @@
+{
+    "index": 3775,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3775
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSW-145-02-G-T-RA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/SSW-145-02-G-T-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-SSW-145-02-G-T-RA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

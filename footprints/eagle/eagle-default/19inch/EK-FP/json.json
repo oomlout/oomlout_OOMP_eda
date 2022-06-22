@@ -1,0 +1,45 @@
+{
+    "index": 649,
+    "tags": [
+        {
+            "name": "index",
+            "value": 649
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "19inch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EK-FP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/19inch/EK-FP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-19inch-EK-FP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

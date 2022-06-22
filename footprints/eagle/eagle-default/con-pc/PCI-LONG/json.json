@@ -1,0 +1,45 @@
+{
+    "index": 3160,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3160
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-pc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PCI-LONG"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-pc/PCI-LONG"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-PCI-LONG"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

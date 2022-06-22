@@ -1,0 +1,45 @@
+{
+    "index": 4476,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4476
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M50V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/M50V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-M50V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

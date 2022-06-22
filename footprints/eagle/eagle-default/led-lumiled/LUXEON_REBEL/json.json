@@ -1,0 +1,45 @@
+{
+    "index": 6376,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6376
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led-lumiled"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LUXEON_REBEL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led-lumiled/LUXEON_REBEL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-lumiled-LUXEON_REBEL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

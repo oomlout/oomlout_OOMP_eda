@@ -1,0 +1,45 @@
+{
+    "index": 2743,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2743
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "53460-0629"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-molex/53460-0629"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-molex-53460-0629"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

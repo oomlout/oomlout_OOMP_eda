@@ -1,0 +1,45 @@
+{
+    "index": 5216,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5216
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-yamaichi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSV-BD09"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-yamaichi/SSV-BD09"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BD09"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7124,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7124
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microphon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F9767AL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microphon/F9767AL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microphon-F9767AL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7082,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7082
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-14"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/SO-14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-SO-14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

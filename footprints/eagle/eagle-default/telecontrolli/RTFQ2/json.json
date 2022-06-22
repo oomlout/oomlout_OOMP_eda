@@ -1,0 +1,45 @@
+{
+    "index": 12911,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12911
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "telecontrolli"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTFQ2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/telecontrolli/RTFQ2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-telecontrolli-RTFQ2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

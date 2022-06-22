@@ -1,0 +1,45 @@
+{
+    "index": 7517,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7517
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ptc-ntc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P640"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ptc-ntc/P640"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ptc-ntc-P640"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

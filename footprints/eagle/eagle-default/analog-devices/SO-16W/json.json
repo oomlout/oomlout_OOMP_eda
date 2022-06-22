@@ -1,0 +1,45 @@
+{
+    "index": 982,
+    "tags": [
+        {
+            "name": "index",
+            "value": 982
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-16W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/SO-16W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-SO-16W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12583,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12583
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FUSE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special/FUSE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-FUSE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

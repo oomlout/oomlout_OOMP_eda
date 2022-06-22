@@ -1,0 +1,45 @@
+{
+    "index": 9892,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9892
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SODFL5226X110"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/SODFL5226X110"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SODFL5226X110"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

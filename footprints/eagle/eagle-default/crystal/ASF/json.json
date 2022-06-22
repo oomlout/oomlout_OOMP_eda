@@ -1,0 +1,45 @@
+{
+    "index": 5222,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5222
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ASF"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/ASF"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-ASF"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

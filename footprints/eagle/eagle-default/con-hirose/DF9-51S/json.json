@@ -1,0 +1,45 @@
+{
+    "index": 2100,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2100
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirose"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DF9-51S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirose/DF9-51S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirose-DF9-51S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

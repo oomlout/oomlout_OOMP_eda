@@ -1,0 +1,45 @@
+{
+    "index": 11916,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11916
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZF112"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/ZF112"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-ZF112"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

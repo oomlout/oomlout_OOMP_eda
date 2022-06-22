@@ -1,0 +1,45 @@
+{
+    "index": 825,
+    "tags": [
+        {
+            "name": "index",
+            "value": 825
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-us"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO24W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-us/SO24W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-us-SO24W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

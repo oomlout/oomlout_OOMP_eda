@@ -1,0 +1,45 @@
+{
+    "index": 3155,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3155
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-pc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IBM8BIT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-pc/IBM8BIT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-IBM8BIT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13087,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13087
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "toshiba"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP67-P-1420-0.80"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/toshiba/QFP67-P-1420-0.80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-QFP67-P-1420-0.80"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

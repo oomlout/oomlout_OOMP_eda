@@ -1,0 +1,45 @@
+{
+    "index": 6499,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6499
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZIP21-SLA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/ZIP21-SLA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-ZIP21-SLA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

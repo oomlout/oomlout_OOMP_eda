@@ -1,0 +1,45 @@
+{
+    "index": 9603,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9603
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA169C80P13X13_1100X1100X170"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/BGA169C80P13X13_1100X1100X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA169C80P13X13_1100X1100X170"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

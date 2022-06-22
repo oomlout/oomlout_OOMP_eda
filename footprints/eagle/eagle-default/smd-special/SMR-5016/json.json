@@ -1,0 +1,45 @@
+{
+    "index": 12514,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12514
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMR-5016"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-special/SMR-5016"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-SMR-5016"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

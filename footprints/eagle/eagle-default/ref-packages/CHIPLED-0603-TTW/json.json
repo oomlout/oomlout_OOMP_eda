@@ -1,0 +1,45 @@
+{
+    "index": 8237,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8237
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIPLED-0603-TTW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/CHIPLED-0603-TTW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CHIPLED-0603-TTW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

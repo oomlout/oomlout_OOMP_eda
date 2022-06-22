@@ -1,0 +1,45 @@
+{
+    "index": 7281,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7281
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-vishay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TFDU4-HOR"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-vishay/TFDU4-HOR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-vishay-TFDU4-HOR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

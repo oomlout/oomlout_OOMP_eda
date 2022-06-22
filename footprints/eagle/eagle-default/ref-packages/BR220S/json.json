@@ -1,0 +1,45 @@
+{
+    "index": 8128,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8128
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BR220S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/BR220S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-BR220S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

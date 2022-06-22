@@ -1,0 +1,45 @@
+{
+    "index": 11711,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11711
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "G5LE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/G5LE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-G5LE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

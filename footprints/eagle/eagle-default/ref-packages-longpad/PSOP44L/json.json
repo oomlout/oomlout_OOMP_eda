@@ -1,0 +1,45 @@
+{
+    "index": 10783,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10783
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PSOP44L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/PSOP44L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PSOP44L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

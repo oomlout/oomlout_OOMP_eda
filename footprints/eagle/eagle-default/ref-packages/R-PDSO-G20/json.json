@@ -1,0 +1,45 @@
+{
+    "index": 8774,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8774
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R-PDSO-G20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/R-PDSO-G20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-R-PDSO-G20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

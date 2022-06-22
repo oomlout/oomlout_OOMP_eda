@@ -1,0 +1,45 @@
+{
+    "index": 8924,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8924
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO20W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SO20W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SO20W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

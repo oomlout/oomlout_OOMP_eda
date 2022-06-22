@@ -1,0 +1,45 @@
+{
+    "index": 12708,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12708
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "75BF36"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/75BF36"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-75BF36"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

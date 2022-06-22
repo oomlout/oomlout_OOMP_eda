@@ -1,0 +1,45 @@
+{
+    "index": 1211,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1211
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "buzzer"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EFBRD22C413"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/buzzer/EFBRD22C413"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-buzzer-EFBRD22C413"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

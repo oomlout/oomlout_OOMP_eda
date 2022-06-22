@@ -1,0 +1,45 @@
+{
+    "index": 13243,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13243
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC59-EBC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor/SC59-EBC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-SC59-EBC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6683,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6683
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP32W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory/SOP32W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-SOP32W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

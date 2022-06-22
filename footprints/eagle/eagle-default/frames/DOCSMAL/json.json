@@ -1,0 +1,45 @@
+{
+    "index": 5707,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5707
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "frames"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DOCSMAL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/frames/DOCSMAL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-frames-DOCSMAL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

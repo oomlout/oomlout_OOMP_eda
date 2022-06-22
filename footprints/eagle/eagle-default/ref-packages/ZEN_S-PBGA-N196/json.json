@@ -1,0 +1,45 @@
+{
+    "index": 9582,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9582
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

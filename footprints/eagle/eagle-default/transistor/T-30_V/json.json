@@ -1,0 +1,45 @@
+{
+    "index": 13261,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13261
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "T-30_V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor/T-30_V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-T-30_V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

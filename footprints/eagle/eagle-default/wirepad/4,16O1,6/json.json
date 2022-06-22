@@ -1,0 +1,45 @@
+{
+    "index": 13889,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13889
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "wirepad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "4,16O1,6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/wirepad/4,16O1,6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wirepad-4,16O1,6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

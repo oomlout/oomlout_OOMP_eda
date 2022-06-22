@@ -1,0 +1,45 @@
+{
+    "index": 6061,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6061
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-nkl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KS3213"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-nkl/KS3213"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-nkl-KS3213"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

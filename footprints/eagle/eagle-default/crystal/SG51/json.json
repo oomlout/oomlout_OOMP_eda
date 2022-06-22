@@ -1,0 +1,45 @@
+{
+    "index": 5267,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5267
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SG51"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/SG51"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-SG51"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

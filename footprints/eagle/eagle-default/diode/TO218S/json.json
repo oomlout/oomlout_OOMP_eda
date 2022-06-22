@@ -1,0 +1,45 @@
+{
+    "index": 5557,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5557
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO218S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/TO218S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-TO218S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12033,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12033
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS1/4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/RS1/4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-RS1/4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

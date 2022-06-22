@@ -1,0 +1,45 @@
+{
+    "index": 6166,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6166
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PG-DSO-36W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon/PG-DSO-36W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

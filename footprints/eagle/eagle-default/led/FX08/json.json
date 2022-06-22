@@ -1,0 +1,45 @@
+{
+    "index": 6277,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6277
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FX08"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/FX08"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-FX08"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

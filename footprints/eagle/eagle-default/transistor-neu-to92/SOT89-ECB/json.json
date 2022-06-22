@@ -1,0 +1,45 @@
+{
+    "index": 13359,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13359
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-neu-to92"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT89-ECB"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-neu-to92/SOT89-ECB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT89-ECB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

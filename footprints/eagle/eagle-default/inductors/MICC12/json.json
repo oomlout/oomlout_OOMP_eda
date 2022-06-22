@@ -1,0 +1,45 @@
+{
+    "index": 6128,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6128
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICC12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/MICC12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-MICC12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

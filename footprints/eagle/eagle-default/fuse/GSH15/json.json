@@ -1,0 +1,45 @@
+{
+    "index": 5744,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5744
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GSH15"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fuse/GSH15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-GSH15"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13531,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13531
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO202FV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO202FV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO202FV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

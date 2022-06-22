@@ -1,0 +1,45 @@
+{
+    "index": 5724,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5724
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "freescale"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP160"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/freescale/QFP160"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-freescale-QFP160"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

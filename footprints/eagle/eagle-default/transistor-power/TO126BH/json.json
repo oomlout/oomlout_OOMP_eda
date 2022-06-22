@@ -1,0 +1,45 @@
+{
+    "index": 13517,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13517
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO126BH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO126BH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO126BH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

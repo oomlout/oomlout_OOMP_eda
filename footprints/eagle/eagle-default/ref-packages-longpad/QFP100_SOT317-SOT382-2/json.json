@@ -1,0 +1,45 @@
+{
+    "index": 10794,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10794
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

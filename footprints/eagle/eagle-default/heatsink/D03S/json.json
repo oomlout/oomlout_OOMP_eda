@@ -1,0 +1,45 @@
+{
+    "index": 5777,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5777
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D03S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/heatsink/D03S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-D03S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

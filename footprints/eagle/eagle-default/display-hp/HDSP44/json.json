@@ -1,0 +1,45 @@
+{
+    "index": 5601,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5601
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDSP44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-hp/HDSP44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HDSP44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

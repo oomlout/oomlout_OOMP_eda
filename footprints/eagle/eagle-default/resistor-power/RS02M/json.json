@@ -1,0 +1,45 @@
+{
+    "index": 12030,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12030
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS02M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/RS02M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-RS02M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

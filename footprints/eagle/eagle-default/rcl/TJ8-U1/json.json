@@ -1,0 +1,45 @@
+{
+    "index": 7946,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7946
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TJ8-U1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/TJ8-U1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-TJ8-U1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

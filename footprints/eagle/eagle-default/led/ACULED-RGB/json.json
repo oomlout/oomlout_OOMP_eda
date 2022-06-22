@@ -1,0 +1,45 @@
+{
+    "index": 6258,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6258
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ACULED-RGB"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/ACULED-RGB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-ACULED-RGB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

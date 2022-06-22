@@ -1,0 +1,45 @@
+{
+    "index": 4442,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4442
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-subd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDM62H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-subd/HDM62H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-subd-HDM62H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13336,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13336
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-fet"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO72"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-fet/TO72"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-fet-TO72"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

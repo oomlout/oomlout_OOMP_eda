@@ -1,0 +1,45 @@
+{
+    "index": 5763,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5763
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gennum"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LBGA100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/gennum/LBGA100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-gennum-LBGA100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 716,
+    "tags": [
+        {
+            "name": "index",
+            "value": 716
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74ac-logic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC28"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74ac-logic/PLCC28"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC28"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

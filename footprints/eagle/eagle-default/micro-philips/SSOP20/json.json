@@ -1,0 +1,45 @@
+{
+    "index": 6980,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6980
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-philips"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-philips/SSOP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-SSOP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 2008,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2008
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting"
+        },
+        {
+            "name": "oompIndex",
+            "value": "4R34P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting/4R34P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-4R34P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12869,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12869
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-misc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PVA2F"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-misc/PVA2F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-misc-PVA2F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

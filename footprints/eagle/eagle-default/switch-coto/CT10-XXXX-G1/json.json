@@ -1,0 +1,45 @@
+{
+    "index": 12770,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12770
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-coto"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CT10-XXXX-G1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-coto/CT10-XXXX-G1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

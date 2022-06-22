@@ -1,0 +1,45 @@
+{
+    "index": 8895,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8895
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMQ"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SMQ"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SMQ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

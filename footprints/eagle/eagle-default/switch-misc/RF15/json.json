@@ -1,0 +1,45 @@
+{
+    "index": 12873,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12873
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-misc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RF15"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-misc/RF15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-misc-RF15"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

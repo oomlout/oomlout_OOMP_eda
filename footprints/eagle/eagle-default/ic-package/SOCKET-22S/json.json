@@ -1,0 +1,45 @@
+{
+    "index": 5900,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5900
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ic-package"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOCKET-22S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ic-package/SOCKET-22S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-22S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

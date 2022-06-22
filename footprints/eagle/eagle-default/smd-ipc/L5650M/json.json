@@ -1,0 +1,45 @@
+{
+    "index": 12164,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12164
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L5650M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/L5650M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-L5650M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

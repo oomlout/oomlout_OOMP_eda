@@ -1,0 +1,45 @@
+{
+    "index": 7009,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7009
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MQFP144-RND"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/MQFP144-RND"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP144-RND"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

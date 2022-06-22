@@ -1,0 +1,45 @@
+{
+    "index": 2186,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2186
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirschmann"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SCART-F"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirschmann/SCART-F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirschmann-SCART-F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

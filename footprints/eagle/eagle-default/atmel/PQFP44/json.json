@@ -1,0 +1,45 @@
+{
+    "index": 1036,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1036
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/PQFP44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-PQFP44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

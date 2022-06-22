@@ -1,0 +1,45 @@
+{
+    "index": 6681,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6681
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP28X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory/SOP28X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-SOP28X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

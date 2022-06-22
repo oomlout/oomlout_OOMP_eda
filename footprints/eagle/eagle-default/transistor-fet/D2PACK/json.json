@@ -1,0 +1,45 @@
+{
+    "index": 13301,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13301
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-fet"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D2PACK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-fet/D2PACK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-fet-D2PACK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

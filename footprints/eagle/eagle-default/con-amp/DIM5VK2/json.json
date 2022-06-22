@@ -1,0 +1,45 @@
+{
+    "index": 1559,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1559
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIM5VK2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/DIM5VK2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-DIM5VK2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

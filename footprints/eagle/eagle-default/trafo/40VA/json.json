@@ -1,0 +1,45 @@
+{
+    "index": 13102,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13102
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "40VA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/40VA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-40VA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

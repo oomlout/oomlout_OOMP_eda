@@ -1,0 +1,45 @@
+{
+    "index": 7736,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7736
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EB25D"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/EB25D"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-EB25D"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

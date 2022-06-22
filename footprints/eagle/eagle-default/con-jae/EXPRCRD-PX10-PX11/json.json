@@ -1,0 +1,45 @@
+{
+    "index": 2194,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2194
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-jae"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EXPRCRD-PX10-PX11"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-jae/EXPRCRD-PX10-PX11"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-jae-EXPRCRD-PX10-PX11"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

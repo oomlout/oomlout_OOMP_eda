@@ -1,0 +1,45 @@
+{
+    "index": 14299,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14299
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SCREWTERMINAL-3.5MM-4_LOCK"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SCREWTERMINAL-3.5MM-4_LOCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-SCREWTERMINAL-3.5MM-4_LOCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 5409,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5409
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DO218S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/DO218S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-DO218S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7929,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7929
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TAP5-70"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/TAP5-70"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-TAP5-70"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

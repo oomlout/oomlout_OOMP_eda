@@ -1,0 +1,45 @@
+{
+    "index": 5259,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5259
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MM20SS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/MM20SS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-MM20SS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

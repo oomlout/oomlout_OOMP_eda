@@ -1,0 +1,45 @@
+{
+    "index": 7858,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7858
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIM3296Y"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/RTRIM3296Y"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-RTRIM3296Y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

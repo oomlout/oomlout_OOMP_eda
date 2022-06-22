@@ -1,0 +1,45 @@
+{
+    "index": 12890,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12890
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-omron"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B3F-10XX"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-omron/B3F-10XX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-omron-B3F-10XX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

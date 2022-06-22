@@ -1,0 +1,45 @@
+{
+    "index": 5662,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5662
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "exar"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP-44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/exar/QFP-44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-exar-QFP-44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

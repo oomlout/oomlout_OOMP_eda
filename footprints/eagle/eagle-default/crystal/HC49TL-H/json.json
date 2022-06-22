@@ -1,0 +1,45 @@
+{
+    "index": 5242,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5242
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HC49TL-H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/HC49TL-H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-HC49TL-H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

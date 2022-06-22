@@ -1,0 +1,45 @@
+{
+    "index": 1155,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1155
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "burr-brown"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/burr-brown/SOP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-burr-brown-SOP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

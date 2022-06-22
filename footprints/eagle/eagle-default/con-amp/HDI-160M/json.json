@@ -1,0 +1,45 @@
+{
+    "index": 1587,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1587
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDI-160M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/HDI-160M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-HDI-160M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 1056,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1056
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/TSOP32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-TSOP32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7193,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7193
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "on-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC-74"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/on-semiconductor/SC-74"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-on-semiconductor-SC-74"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

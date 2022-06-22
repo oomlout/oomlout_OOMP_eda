@@ -1,0 +1,45 @@
+{
+    "index": 5723,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5723
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "freescale"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP-12X12-80E"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/freescale/QFP-12X12-80E"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-freescale-QFP-12X12-80E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

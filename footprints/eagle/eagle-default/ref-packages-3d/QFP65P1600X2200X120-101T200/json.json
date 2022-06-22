@@ -1,0 +1,45 @@
+{
+    "index": 9874,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9874
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP65P1600X2200X120-101T200"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFP65P1600X2200X120-101T200"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP65P1600X2200X120-101T200"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

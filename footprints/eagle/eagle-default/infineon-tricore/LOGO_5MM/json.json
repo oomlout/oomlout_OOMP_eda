@@ -1,0 +1,45 @@
+{
+    "index": 6176,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6176
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon-tricore"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LOGO_5MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon-tricore/LOGO_5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-tricore-LOGO_5MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

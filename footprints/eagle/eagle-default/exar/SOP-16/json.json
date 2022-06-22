@@ -1,0 +1,45 @@
+{
+    "index": 5671,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5671
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "exar"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP-16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/exar/SOP-16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-exar-SOP-16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

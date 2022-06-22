@@ -1,0 +1,45 @@
+{
+    "index": 8033,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8033
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rectifier"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FBP1,5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rectifier/FBP1,5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rectifier-FBP1,5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

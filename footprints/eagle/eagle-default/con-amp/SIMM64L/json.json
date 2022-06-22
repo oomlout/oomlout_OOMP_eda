@@ -1,0 +1,45 @@
+{
+    "index": 1620,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1620
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIMM64L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/SIMM64L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-SIMM64L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

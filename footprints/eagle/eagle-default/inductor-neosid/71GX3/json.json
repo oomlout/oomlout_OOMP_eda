@@ -1,0 +1,45 @@
+{
+    "index": 5927,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5927
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-neosid"
+        },
+        {
+            "name": "oompIndex",
+            "value": "71GX3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-neosid/71GX3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-neosid-71GX3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

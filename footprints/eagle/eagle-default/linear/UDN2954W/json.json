@@ -1,0 +1,45 @@
+{
+    "index": 6495,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6495
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UDN2954W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/UDN2954W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-UDN2954W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

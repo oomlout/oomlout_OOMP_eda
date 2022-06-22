@@ -1,0 +1,45 @@
+{
+    "index": 6580,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6580
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "logo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VDE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/logo/VDE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-logo-VDE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

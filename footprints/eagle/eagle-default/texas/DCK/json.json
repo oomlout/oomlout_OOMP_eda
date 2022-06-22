@@ -1,0 +1,45 @@
+{
+    "index": 12966,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12966
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DCK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/DCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-DCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

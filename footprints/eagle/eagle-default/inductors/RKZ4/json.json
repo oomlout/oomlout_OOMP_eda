@@ -1,0 +1,45 @@
+{
+    "index": 6139,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6139
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RKZ4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/RKZ4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-RKZ4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

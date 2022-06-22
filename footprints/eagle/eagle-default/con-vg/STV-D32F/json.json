@@ -1,0 +1,45 @@
+{
+    "index": 4689,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4689
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "STV-D32F"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/STV-D32F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-STV-D32F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

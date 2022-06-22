@@ -1,0 +1,45 @@
+{
+    "index": 5429,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5429
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DOP3L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/DOP3L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-DOP3L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

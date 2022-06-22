@@ -1,0 +1,45 @@
+{
+    "index": 6877,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6877
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UBGA4008"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-intel/UBGA4008"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-intel-UBGA4008"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

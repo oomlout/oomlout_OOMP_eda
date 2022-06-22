@@ -1,0 +1,45 @@
+{
+    "index": 5634,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5634
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ecl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL24-3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ecl/DIL24-3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ecl-DIL24-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 5521,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5521
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOD81Z"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/SOD81Z"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-SOD81Z"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

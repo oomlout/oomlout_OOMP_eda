@@ -1,0 +1,45 @@
+{
+    "index": 1148,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1148
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "burr-brown"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO24L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/burr-brown/SO24L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-burr-brown-SO24L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

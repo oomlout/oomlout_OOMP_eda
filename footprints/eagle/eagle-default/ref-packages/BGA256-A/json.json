@@ -1,0 +1,45 @@
+{
+    "index": 8121,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8121
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA256-A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/BGA256-A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

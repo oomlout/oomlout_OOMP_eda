@@ -1,0 +1,45 @@
+{
+    "index": 7136,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7136
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "minicircuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A01"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/minicircuits/A01"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-minicircuits-A01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

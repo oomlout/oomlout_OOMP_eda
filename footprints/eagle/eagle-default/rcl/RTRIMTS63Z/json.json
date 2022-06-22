@@ -1,0 +1,45 @@
+{
+    "index": 7885,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7885
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIMTS63Z"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/RTRIMTS63Z"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-RTRIMTS63Z"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7112,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7112
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micronas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFN64-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micronas/PQFN64-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micronas-PQFN64-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

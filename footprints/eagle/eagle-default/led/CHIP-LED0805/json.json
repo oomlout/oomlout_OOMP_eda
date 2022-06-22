@@ -1,0 +1,45 @@
+{
+    "index": 6261,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6261
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIP-LED0805"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/CHIP-LED0805"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-CHIP-LED0805"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

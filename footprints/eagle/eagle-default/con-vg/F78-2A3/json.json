@@ -1,0 +1,45 @@
+{
+    "index": 4598,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4598
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F78-2A3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/F78-2A3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-F78-2A3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 10975,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10975
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO24X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/SO24X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SO24X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

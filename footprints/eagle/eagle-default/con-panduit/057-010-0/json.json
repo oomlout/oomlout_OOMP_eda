@@ -1,0 +1,45 @@
+{
+    "index": 3127,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3127
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-panduit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "057-010-0"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-panduit/057-010-0"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-panduit-057-010-0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

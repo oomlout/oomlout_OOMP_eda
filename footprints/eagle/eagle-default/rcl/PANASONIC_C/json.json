@@ -1,0 +1,45 @@
+{
+    "index": 7805,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7805
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PANASONIC_C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/PANASONIC_C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-PANASONIC_C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

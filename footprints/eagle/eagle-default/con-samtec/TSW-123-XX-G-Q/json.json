@@ -1,0 +1,45 @@
+{
+    "index": 4067,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4067
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSW-123-XX-G-Q"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/TSW-123-XX-G-Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-TSW-123-XX-G-Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6083,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6083
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B825-35"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/B825-35"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-B825-35"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

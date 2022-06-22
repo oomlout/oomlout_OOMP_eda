@@ -1,0 +1,45 @@
+{
+    "index": 6770,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6770
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-nec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL28-3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-nec/DIL28-3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-nec-DIL28-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 11152,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11152
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT346-W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/SOT346-W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT346-W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

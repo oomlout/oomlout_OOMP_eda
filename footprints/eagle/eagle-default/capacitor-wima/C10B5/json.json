@@ -1,0 +1,45 @@
+{
+    "index": 1235,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1235
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "capacitor-wima"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C10B5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/capacitor-wima/C10B5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-capacitor-wima-C10B5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

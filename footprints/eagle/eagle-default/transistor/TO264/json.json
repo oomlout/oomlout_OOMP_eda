@@ -1,0 +1,45 @@
+{
+    "index": 13277,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13277
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO264"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor/TO264"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-TO264"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

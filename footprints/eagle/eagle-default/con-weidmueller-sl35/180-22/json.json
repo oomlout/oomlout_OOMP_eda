@@ -1,0 +1,45 @@
+{
+    "index": 5046,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5046
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-weidmueller-sl35"
+        },
+        {
+            "name": "oompIndex",
+            "value": "180-22"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-weidmueller-sl35/180-22"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-180-22"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

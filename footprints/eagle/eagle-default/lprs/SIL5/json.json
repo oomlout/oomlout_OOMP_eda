@@ -1,0 +1,45 @@
+{
+    "index": 6584,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6584
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lprs"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIL5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lprs/SIL5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lprs-SIL5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

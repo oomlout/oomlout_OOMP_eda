@@ -1,0 +1,45 @@
+{
+    "index": 3223,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3223
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-500"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSTBV8R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-500/MSTBV8R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-500-MSTBV8R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

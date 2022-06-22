@@ -1,0 +1,45 @@
+{
+    "index": 6969,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6969
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-philips"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-28L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-philips/SO-28L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-SO-28L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

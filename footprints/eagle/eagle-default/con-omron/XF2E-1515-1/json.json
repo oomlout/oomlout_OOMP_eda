@@ -1,0 +1,45 @@
+{
+    "index": 3030,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3030
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-omron"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XF2E-1515-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-omron/XF2E-1515-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-omron-XF2E-1515-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

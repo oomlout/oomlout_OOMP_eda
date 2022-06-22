@@ -1,0 +1,45 @@
+{
+    "index": 1014,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1014
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFBGA256_A_291X326"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/LFBGA256_A_291X326"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-LFBGA256_A_291X326"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

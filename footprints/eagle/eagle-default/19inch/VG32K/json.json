@@ -1,0 +1,45 @@
+{
+    "index": 653,
+    "tags": [
+        {
+            "name": "index",
+            "value": 653
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "19inch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VG32K"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/19inch/VG32K"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-19inch-VG32K"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6292,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6292
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED3MM_H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LED3MM_H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LED3MM_H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

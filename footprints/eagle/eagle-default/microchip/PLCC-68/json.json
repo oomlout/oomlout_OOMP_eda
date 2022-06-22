@@ -1,0 +1,45 @@
+{
+    "index": 7071,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7071
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-68"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/PLCC-68"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-PLCC-68"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 1103,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1103
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SL-150-1/2AA/PT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/SL-150-1/2AA/PT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-SL-150-1/2AA/PT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

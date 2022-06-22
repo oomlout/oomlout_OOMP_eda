@@ -1,0 +1,45 @@
+{
+    "index": 6175,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6175
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon-tricore"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FQFP208-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon-tricore/FQFP208-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-tricore-FQFP208-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

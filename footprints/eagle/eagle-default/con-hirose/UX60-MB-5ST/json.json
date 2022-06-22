@@ -1,0 +1,45 @@
+{
+    "index": 2166,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2166
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirose"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UX60-MB-5ST"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirose/UX60-MB-5ST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirose-UX60-MB-5ST"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

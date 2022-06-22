@@ -1,0 +1,45 @@
+{
+    "index": 6359,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6359
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT23"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/SOT23"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SOT23"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

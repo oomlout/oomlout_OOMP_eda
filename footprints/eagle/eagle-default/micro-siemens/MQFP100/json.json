@@ -1,0 +1,45 @@
+{
+    "index": 7007,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7007
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MQFP100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/MQFP100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-MQFP100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

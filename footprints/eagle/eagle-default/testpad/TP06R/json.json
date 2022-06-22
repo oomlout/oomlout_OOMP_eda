@@ -1,0 +1,45 @@
+{
+    "index": 12929,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12929
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "testpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TP06R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/testpad/TP06R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-testpad-TP06R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

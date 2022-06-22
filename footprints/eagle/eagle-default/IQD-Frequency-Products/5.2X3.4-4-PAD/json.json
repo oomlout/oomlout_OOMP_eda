@@ -1,0 +1,45 @@
+{
+    "index": 6189,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6189
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "IQD-Frequency-Products"
+        },
+        {
+            "name": "oompIndex",
+            "value": "5.2X3.4-4-PAD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/IQD-Frequency-Products/5.2X3.4-4-PAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-5.2X3.4-4-PAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

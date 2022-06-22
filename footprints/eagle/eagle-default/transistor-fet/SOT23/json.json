@@ -1,0 +1,45 @@
+{
+    "index": 13310,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13310
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-fet"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT23"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-fet/SOT23"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-fet-SOT23"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

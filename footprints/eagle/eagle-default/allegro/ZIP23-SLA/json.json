@@ -1,0 +1,45 @@
+{
+    "index": 853,
+    "tags": [
+        {
+            "name": "index",
+            "value": 853
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "allegro"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZIP23-SLA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/allegro/ZIP23-SLA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-allegro-ZIP23-SLA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

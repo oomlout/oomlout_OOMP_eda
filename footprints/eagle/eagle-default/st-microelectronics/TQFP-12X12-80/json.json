@@ -1,0 +1,45 @@
+{
+    "index": 12667,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12667
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-12X12-80"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/TQFP-12X12-80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP-12X12-80"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

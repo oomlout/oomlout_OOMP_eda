@@ -1,0 +1,45 @@
+{
+    "index": 7322,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7322
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "philips-semiconductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP32-7X7MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/philips-semiconductors/LQFP32-7X7MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-philips-semiconductors-LQFP32-7X7MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

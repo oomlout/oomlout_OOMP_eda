@@ -1,0 +1,45 @@
+{
+    "index": 10726,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10726
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PGA68L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/PGA68L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PGA68L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

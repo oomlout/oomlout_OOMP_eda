@@ -1,0 +1,45 @@
+{
+    "index": 6310,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6310
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LZC-00CW40"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/LZC-00CW40"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-LZC-00CW40"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

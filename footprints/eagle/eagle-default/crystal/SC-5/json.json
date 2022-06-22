@@ -1,0 +1,45 @@
+{
+    "index": 5265,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5265
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC-5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/SC-5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-SC-5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

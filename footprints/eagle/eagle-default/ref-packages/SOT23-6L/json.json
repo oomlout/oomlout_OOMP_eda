@@ -1,0 +1,45 @@
+{
+    "index": 9083,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9083
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT23-6L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOT23-6L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT23-6L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

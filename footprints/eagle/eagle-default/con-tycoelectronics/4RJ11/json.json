@@ -1,0 +1,45 @@
+{
+    "index": 4569,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4569
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-tycoelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "4RJ11"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-tycoelectronics/4RJ11"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-tycoelectronics-4RJ11"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

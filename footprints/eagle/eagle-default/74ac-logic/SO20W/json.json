@@ -1,0 +1,45 @@
+{
+    "index": 721,
+    "tags": [
+        {
+            "name": "index",
+            "value": 721
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74ac-logic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO20W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74ac-logic/SO20W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74ac-logic-SO20W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 5434,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5434
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F126-12A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/F126-12A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-F126-12A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6034,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6034
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-nkl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B23"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-nkl/B23"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-nkl-B23"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

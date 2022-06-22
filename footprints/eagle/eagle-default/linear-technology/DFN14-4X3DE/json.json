@@ -1,0 +1,45 @@
+{
+    "index": 6503,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6503
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear-technology"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN14-4X3DE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear-technology/DFN14-4X3DE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-technology-DFN14-4X3DE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

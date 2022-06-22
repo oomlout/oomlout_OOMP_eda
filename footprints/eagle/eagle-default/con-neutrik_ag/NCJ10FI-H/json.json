@@ -1,0 +1,45 @@
+{
+    "index": 3014,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3014
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-neutrik_ag"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NCJ10FI-H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-neutrik_ag/NCJ10FI-H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NCJ10FI-H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

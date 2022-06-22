@@ -1,0 +1,45 @@
+{
+    "index": 14246,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14246
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICROSD-EXTERNALPIN"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MICROSD-EXTERNALPIN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MICROSD-EXTERNALPIN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

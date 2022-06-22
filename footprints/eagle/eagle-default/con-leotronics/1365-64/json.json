@@ -1,0 +1,45 @@
+{
+    "index": 2359,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2359
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-leotronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1365-64"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-leotronics/1365-64"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-leotronics-1365-64"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

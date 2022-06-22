@@ -1,0 +1,45 @@
+{
+    "index": 2248,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2248
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-kyocera-elco"
+        },
+        {
+            "name": "oompIndex",
+            "value": "5036_006_299_862"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-kyocera-elco/5036_006_299_862"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-kyocera-elco-5036_006_299_862"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

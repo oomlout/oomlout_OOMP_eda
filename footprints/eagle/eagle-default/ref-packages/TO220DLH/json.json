@@ -1,0 +1,45 @@
+{
+    "index": 9380,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9380
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220DLH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/TO220DLH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO220DLH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

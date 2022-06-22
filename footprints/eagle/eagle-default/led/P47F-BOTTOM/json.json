@@ -1,0 +1,45 @@
+{
+    "index": 6339,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6339
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P47F-BOTTOM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/P47F-BOTTOM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-P47F-BOTTOM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

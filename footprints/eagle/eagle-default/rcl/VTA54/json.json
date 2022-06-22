@@ -1,0 +1,45 @@
+{
+    "index": 7980,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7980
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VTA54"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/VTA54"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-VTA54"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

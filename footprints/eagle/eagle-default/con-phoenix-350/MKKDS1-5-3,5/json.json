@@ -1,0 +1,45 @@
+{
+    "index": 3211,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3211
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-350"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MKKDS1/5-3,5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-350/MKKDS1/5-3,5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-350-MKKDS1/5-3,5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

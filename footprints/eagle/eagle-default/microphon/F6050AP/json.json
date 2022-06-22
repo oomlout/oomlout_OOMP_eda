@@ -1,0 +1,45 @@
+{
+    "index": 7117,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7117
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microphon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F6050AP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microphon/F6050AP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microphon-F6050AP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12089,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12089
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "semicon-smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOD80"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/semicon-smd-ipc/SOD80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOD80"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

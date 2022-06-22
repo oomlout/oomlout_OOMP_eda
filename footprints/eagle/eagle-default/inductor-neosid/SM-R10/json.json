@@ -1,0 +1,45 @@
+{
+    "index": 5971,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5971
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-neosid"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM-R10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-neosid/SM-R10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-R10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

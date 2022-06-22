@@ -1,0 +1,45 @@
+{
+    "index": 13643,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13643
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-small-signal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO5A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-small-signal/TO5A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO5A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

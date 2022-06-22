@@ -1,0 +1,45 @@
+{
+    "index": 8436,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8436
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EB35D"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/EB35D"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-EB35D"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

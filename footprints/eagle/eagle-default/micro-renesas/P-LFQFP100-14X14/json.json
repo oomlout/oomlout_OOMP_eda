@@ -1,0 +1,45 @@
+{
+    "index": 6988,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6988
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-renesas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-LFQFP100-14X14"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-renesas/P-LFQFP100-14X14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP100-14X14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

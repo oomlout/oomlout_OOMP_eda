@@ -1,0 +1,45 @@
+{
+    "index": 2168,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2168
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirschmann"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KOBU1H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirschmann/KOBU1H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirschmann-KOBU1H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

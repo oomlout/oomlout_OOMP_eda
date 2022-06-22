@@ -1,0 +1,45 @@
+{
+    "index": 6864,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6864
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PSOP44L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-intel/PSOP44L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-intel-PSOP44L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 8026,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8026
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rectifier"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSI32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rectifier/DSI32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rectifier-DSI32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

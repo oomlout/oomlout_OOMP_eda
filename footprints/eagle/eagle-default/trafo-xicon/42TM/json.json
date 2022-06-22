@@ -1,0 +1,45 @@
+{
+    "index": 13238,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13238
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-xicon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "42TM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-xicon/42TM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-xicon-42TM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

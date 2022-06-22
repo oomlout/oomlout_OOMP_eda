@@ -1,0 +1,45 @@
+{
+    "index": 2157,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2157
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirose"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FH21-30S-1DS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirose/FH21-30S-1DS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirose-FH21-30S-1DS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

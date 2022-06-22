@@ -1,0 +1,45 @@
+{
+    "index": 7026,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7026
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-TSSOP28-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/P-TSSOP28-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-P-TSSOP28-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

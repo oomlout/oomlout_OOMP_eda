@@ -1,0 +1,45 @@
+{
+    "index": 10529,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10529
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IW220B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/IW220B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-IW220B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 862,
+    "tags": [
+        {
+            "name": "index",
+            "value": 862
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "altera"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MBGA100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/altera/MBGA100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-altera-MBGA100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

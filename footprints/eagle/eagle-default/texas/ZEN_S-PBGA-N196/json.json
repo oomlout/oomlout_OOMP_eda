@@ -1,0 +1,45 @@
+{
+    "index": 13079,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13079
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 11546,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11546
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP48L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/TSOP48L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOP48L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

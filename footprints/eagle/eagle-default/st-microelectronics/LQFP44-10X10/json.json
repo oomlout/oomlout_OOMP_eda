@@ -1,0 +1,45 @@
+{
+    "index": 12640,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12640
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP44-10X10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/LQFP44-10X10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP44-10X10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

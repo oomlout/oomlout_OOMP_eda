@@ -1,0 +1,45 @@
+{
+    "index": 2089,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2089
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting-v"
+        },
+        {
+            "name": "oompIndex",
+            "value": "16V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting-v/16V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-v-16V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

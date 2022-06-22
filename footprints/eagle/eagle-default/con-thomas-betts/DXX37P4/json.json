@@ -1,0 +1,45 @@
+{
+    "index": 4504,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4504
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-thomas-betts"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DXX37P4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-thomas-betts/DXX37P4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-thomas-betts-DXX37P4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

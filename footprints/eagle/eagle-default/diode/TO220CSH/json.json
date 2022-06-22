@@ -1,0 +1,45 @@
+{
+    "index": 5564,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5564
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220CSH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/TO220CSH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-TO220CSH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

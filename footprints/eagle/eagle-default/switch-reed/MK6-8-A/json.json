@@ -1,0 +1,45 @@
+{
+    "index": 12908,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12908
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-reed"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MK6-8-A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-reed/MK6-8-A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

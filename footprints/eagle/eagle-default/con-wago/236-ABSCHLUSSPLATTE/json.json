@@ -1,0 +1,45 @@
+{
+    "index": 4777,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4777
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-wago"
+        },
+        {
+            "name": "oompIndex",
+            "value": "236-ABSCHLUSSPLATTE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-wago/236-ABSCHLUSSPLATTE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-wago-236-ABSCHLUSSPLATTE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

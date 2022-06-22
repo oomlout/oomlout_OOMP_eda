@@ -1,0 +1,45 @@
+{
+    "index": 9130,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9130
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT82S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOT82S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT82S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

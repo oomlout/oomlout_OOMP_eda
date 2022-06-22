@@ -1,0 +1,45 @@
+{
+    "index": 5274,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5274
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TC46"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/crystal/TC46"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-crystal-TC46"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

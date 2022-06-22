@@ -1,0 +1,45 @@
+{
+    "index": 928,
+    "tags": [
+        {
+            "name": "index",
+            "value": 928
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA_169"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/BGA_169"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-BGA_169"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

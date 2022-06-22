@@ -1,0 +1,45 @@
+{
+    "index": 7284,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7284
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "optocoupler"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AEDR-8300"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/optocoupler/AEDR-8300"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-optocoupler-AEDR-8300"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

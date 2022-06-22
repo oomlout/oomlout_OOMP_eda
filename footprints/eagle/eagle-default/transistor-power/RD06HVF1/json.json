@@ -1,0 +1,45 @@
+{
+    "index": 13504,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13504
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RD06HVF1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/RD06HVF1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-RD06HVF1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

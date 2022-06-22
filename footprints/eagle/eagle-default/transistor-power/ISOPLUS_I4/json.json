@@ -1,0 +1,45 @@
+{
+    "index": 13494,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13494
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ISOPLUS_I4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/ISOPLUS_I4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-ISOPLUS_I4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

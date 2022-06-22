@@ -1,0 +1,45 @@
+{
+    "index": 1113,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1113
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VST3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/VST3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-VST3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

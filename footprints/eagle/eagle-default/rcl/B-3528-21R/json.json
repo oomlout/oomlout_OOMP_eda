@@ -1,0 +1,45 @@
+{
+    "index": 7576,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7576
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B/3528-21R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/B/3528-21R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-B/3528-21R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

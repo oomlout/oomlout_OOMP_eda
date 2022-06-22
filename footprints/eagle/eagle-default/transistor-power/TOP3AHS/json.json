@@ -1,0 +1,45 @@
+{
+    "index": 13567,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13567
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TOP3AHS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TOP3AHS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TOP3AHS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

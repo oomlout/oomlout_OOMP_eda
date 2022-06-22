@@ -1,0 +1,45 @@
+{
+    "index": 12654,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12654
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SDIP-25L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/SDIP-25L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-SDIP-25L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

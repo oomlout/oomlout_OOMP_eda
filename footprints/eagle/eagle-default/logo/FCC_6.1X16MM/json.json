@@ -1,0 +1,45 @@
+{
+    "index": 6569,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6569
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "logo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FCC_6.1X16MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/logo/FCC_6.1X16MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-logo-FCC_6.1X16MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

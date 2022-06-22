@@ -1,0 +1,45 @@
+{
+    "index": 7299,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7299
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "optocoupler"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP4-400"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/optocoupler/DIP4-400"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-optocoupler-DIP4-400"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

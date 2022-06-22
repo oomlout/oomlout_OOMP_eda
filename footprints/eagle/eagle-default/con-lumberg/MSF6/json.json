@@ -1,0 +1,45 @@
+{
+    "index": 2509,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2509
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lumberg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSF6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lumberg/MSF6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lumberg-MSF6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

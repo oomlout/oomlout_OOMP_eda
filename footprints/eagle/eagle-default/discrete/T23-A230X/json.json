@@ -1,0 +1,45 @@
+{
+    "index": 5580,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5580
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "discrete"
+        },
+        {
+            "name": "oompIndex",
+            "value": "T23-A230X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/discrete/T23-A230X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-discrete-T23-A230X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

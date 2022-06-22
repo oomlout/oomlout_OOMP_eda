@@ -1,0 +1,45 @@
+{
+    "index": 1939,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1939
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IC16PL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-dil/IC16PL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-dil-IC16PL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

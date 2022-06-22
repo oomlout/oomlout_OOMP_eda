@@ -1,0 +1,45 @@
+{
+    "index": 4480,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4480
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-sullinselectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "050_610_HF-13/26"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-sullinselectronics/050_610_HF-13/26"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-sullinselectronics-050_610_HF-13/26"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

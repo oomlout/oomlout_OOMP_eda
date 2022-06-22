@@ -1,0 +1,45 @@
+{
+    "index": 5950,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5950
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-neosid"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SD12-680"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-neosid/SD12-680"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12-680"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

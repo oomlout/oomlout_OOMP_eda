@@ -1,0 +1,45 @@
+{
+    "index": 5888,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5888
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ic-package"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-S52-SOCKET"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ic-package/PLCC-S52-SOCKET"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S52-SOCKET"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6343,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6343
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/PLCC2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-PLCC2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

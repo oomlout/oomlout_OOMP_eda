@@ -1,0 +1,45 @@
+{
+    "index": 7861,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7861
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIM3314G"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/RTRIM3314G"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-RTRIM3314G"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

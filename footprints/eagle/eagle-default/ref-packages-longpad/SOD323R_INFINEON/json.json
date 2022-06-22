@@ -1,0 +1,45 @@
+{
+    "index": 11017,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11017
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOD323R_INFINEON"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/SOD323R_INFINEON"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOD323R_INFINEON"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

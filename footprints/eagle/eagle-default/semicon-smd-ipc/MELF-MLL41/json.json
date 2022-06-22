@@ -1,0 +1,45 @@
+{
+    "index": 12086,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12086
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "semicon-smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MELF-MLL41"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/semicon-smd-ipc/MELF-MLL41"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-MELF-MLL41"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

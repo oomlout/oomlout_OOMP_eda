@@ -1,0 +1,45 @@
+{
+    "index": 7053,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7053
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP64"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/TQFP64"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP64"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

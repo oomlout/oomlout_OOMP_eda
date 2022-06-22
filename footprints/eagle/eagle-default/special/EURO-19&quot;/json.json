@@ -1,0 +1,45 @@
+{
+    "index": 12578,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12578
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EURO-19&quot;"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special/EURO-19&quot;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-EURO-19&quot;"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

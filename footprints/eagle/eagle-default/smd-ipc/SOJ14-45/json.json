@@ -1,0 +1,45 @@
+{
+    "index": 12270,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12270
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOJ14-45"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/SOJ14-45"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ14-45"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

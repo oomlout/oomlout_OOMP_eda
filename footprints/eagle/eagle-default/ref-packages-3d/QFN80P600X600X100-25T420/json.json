@@ -1,0 +1,45 @@
+{
+    "index": 9816,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9816
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN80P600X600X100-25T420"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFN80P600X600X100-25T420"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN80P600X600X100-25T420"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

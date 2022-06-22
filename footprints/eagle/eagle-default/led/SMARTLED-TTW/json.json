@@ -1,0 +1,45 @@
+{
+    "index": 6354,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6354
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMARTLED-TTW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/SMARTLED-TTW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SMARTLED-TTW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

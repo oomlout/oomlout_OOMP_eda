@@ -1,0 +1,45 @@
+{
+    "index": 6407,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6407
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HSIP17-P-2.00"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/HSIP17-P-2.00"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-HSIP17-P-2.00"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

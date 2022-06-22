@@ -1,0 +1,45 @@
+{
+    "index": 7143,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7143
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "motorola-sensor-driver"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MPX2050DPH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/motorola-sensor-driver/MPX2050DPH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-MPX2050DPH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

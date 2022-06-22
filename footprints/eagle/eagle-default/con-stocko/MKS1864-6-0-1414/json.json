@@ -1,0 +1,45 @@
+{
+    "index": 4379,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4379
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-stocko"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MKS1864-6-0-1414"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-stocko/MKS1864-6-0-1414"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-stocko-MKS1864-6-0-1414"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

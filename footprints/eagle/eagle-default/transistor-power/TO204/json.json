@@ -1,0 +1,45 @@
+{
+    "index": 13532,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13532
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO204"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO204"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO204"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 1842,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1842
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-conrad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "736880-49"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-conrad/736880-49"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-conrad-736880-49"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

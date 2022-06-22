@@ -1,0 +1,45 @@
+{
+    "index": 6442,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6442
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP9-P-2.54A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/SIP9-P-2.54A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-SIP9-P-2.54A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 14162,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14162
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2X5-SMD-UNSHROUDED"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X5-SMD-UNSHROUDED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-2X5-SMD-UNSHROUDED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

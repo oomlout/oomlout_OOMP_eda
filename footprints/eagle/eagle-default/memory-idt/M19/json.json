@@ -1,0 +1,45 @@
+{
+    "index": 6743,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6743
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-idt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M19"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-idt/M19"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-idt-M19"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

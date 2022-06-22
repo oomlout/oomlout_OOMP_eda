@@ -1,0 +1,45 @@
+{
+    "index": 1110,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1110
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VMS3V6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/VMS3V6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-VMS3V6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

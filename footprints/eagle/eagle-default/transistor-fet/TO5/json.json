@@ -1,0 +1,45 @@
+{
+    "index": 13333,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13333
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-fet"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-fet/TO5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-fet-TO5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

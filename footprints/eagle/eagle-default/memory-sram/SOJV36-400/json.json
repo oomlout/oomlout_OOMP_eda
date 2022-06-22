@@ -1,0 +1,45 @@
+{
+    "index": 6786,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6786
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-sram"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOJV36-400"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-sram/SOJV36-400"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-sram-SOJV36-400"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6100,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6100
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DR1,5A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductors/DR1,5A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductors-DR1,5A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 5182,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5182
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-yamaichi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MD04SP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-yamaichi/MD04SP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-yamaichi-MD04SP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

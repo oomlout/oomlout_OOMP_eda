@@ -1,0 +1,45 @@
+{
+    "index": 7888,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7888
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SANYO-OSCON_9E"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/SANYO-OSCON_9E"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_9E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

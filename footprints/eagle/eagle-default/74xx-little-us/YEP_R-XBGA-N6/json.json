@@ -1,0 +1,45 @@
+{
+    "index": 792,
+    "tags": [
+        {
+            "name": "index",
+            "value": 792
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-little-us"
+        },
+        {
+            "name": "oompIndex",
+            "value": "YEP_R-XBGA-N6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-little-us/YEP_R-XBGA-N6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-little-us-YEP_R-XBGA-N6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

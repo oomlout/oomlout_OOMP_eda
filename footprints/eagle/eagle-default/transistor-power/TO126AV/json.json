@@ -1,0 +1,45 @@
+{
+    "index": 13516,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13516
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO126AV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/TO126AV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-TO126AV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

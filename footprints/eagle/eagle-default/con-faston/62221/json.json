@@ -1,0 +1,45 @@
+{
+    "index": 1968,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1968
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-faston"
+        },
+        {
+            "name": "oompIndex",
+            "value": "62221"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-faston/62221"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-faston-62221"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

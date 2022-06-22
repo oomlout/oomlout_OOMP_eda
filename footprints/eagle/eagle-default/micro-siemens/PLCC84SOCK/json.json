@@ -1,0 +1,45 @@
+{
+    "index": 7037,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7037
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC84SOCK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/PLCC84SOCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC84SOCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

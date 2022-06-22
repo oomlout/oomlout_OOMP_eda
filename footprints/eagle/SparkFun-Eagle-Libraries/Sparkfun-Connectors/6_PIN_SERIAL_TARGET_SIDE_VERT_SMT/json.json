@@ -1,0 +1,45 @@
+{
+    "index": 14173,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14173
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "6_PIN_SERIAL_TARGET_SIDE_VERT_SMT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/6_PIN_SERIAL_TARGET_SIDE_VERT_SMT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-6_PIN_SERIAL_TARGET_SIDE_VERT_SMT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

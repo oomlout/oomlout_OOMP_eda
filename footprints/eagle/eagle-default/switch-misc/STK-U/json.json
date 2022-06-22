@@ -1,0 +1,45 @@
+{
+    "index": 12883,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12883
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-misc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "STK-U"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-misc/STK-U"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-misc-STK-U"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

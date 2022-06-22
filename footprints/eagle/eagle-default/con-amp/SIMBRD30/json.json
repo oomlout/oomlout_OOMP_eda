@@ -1,0 +1,45 @@
+{
+    "index": 1612,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1612
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIMBRD30"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/SIMBRD30"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-SIMBRD30"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

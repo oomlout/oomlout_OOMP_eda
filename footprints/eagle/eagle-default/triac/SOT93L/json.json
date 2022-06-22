@@ -1,0 +1,45 @@
+{
+    "index": 13684,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13684
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "triac"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT93L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/triac/SOT93L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-triac-SOT93L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

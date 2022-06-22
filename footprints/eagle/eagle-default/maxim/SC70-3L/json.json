@@ -1,0 +1,45 @@
+{
+    "index": 6620,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6620
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "maxim"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC70-3L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/maxim/SC70-3L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-maxim-SC70-3L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 8948,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8948
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOCKED-18"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOCKED-18"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOCKED-18"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13875,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13875
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "wafer-scale-psd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP80"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/wafer-scale-psd/TQFP80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP80"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

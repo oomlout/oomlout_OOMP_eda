@@ -1,0 +1,45 @@
+{
+    "index": 5647,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5647
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "exar"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL24-6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/exar/DIL24-6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-exar-DIL24-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 9591,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9591
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA100C65P10X10_800X800X170"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/BGA100C65P10X10_800X800X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA100C65P10X10_800X800X170"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

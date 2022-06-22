@@ -1,0 +1,45 @@
+{
+    "index": 11850,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11850
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RT1-BI"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/RT1-BI"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-RT1-BI"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 9936,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9936
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOJ80P1117X375-50"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/SOJ80P1117X375-50"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOJ80P1117X375-50"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

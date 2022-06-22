@@ -1,0 +1,45 @@
+{
+    "index": 6946,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6946
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-philips"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-S68"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-philips/PLCC-S68"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-PLCC-S68"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7814,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7814
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PT-10S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/PT-10S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-PT-10S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

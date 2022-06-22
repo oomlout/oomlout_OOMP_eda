@@ -1,0 +1,45 @@
+{
+    "index": 8560,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8560
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MINI_MELF-0102W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/MINI_MELF-0102W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0102W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13397,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13397
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-neu-to92"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TOP3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-neu-to92/TOP3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TOP3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

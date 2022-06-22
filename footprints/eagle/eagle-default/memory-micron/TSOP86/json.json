@@ -1,0 +1,45 @@
+{
+    "index": 6762,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6762
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-micron"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP86"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-micron/TSOP86"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-micron-TSOP86"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

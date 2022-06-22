@@ -1,0 +1,45 @@
+{
+    "index": 1064,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1064
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "avago"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL40"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/avago/DIL40"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-avago-DIL40"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

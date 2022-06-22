@@ -1,0 +1,45 @@
+{
+    "index": 12518,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12518
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMS-004"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-special/SMS-004"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-SMS-004"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

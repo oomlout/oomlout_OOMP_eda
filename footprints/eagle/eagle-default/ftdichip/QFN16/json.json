@@ -1,0 +1,45 @@
+{
+    "index": 5732,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5732
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ftdichip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ftdichip/QFN16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ftdichip-QFN16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

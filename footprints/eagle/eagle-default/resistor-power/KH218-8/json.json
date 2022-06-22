@@ -1,0 +1,45 @@
+{
+    "index": 12006,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12006
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KH218-8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/KH218-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-KH218-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7154,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7154
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "murata-filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CSTCR6M"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/murata-filter/CSTCR6M"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-murata-filter-CSTCR6M"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

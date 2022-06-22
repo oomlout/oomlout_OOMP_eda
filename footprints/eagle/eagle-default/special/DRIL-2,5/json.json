@@ -1,0 +1,45 @@
+{
+    "index": 12548,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12548
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DRIL-2,5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special/DRIL-2,5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-DRIL-2,5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

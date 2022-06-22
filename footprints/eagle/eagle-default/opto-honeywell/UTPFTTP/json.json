@@ -1,0 +1,45 @@
+{
+    "index": 7237,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7237
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-honeywell"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UTPFTTP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-honeywell/UTPFTTP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-UTPFTTP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

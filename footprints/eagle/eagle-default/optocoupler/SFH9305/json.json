@@ -1,0 +1,45 @@
+{
+    "index": 7309,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7309
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "optocoupler"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SFH9305"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/optocoupler/SFH9305"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-optocoupler-SFH9305"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

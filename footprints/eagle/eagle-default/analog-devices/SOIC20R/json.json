@@ -1,0 +1,45 @@
+{
+    "index": 991,
+    "tags": [
+        {
+            "name": "index",
+            "value": 991
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC20R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/SOIC20R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-SOIC20R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

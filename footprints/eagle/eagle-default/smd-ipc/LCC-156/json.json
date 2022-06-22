@@ -1,0 +1,45 @@
+{
+    "index": 12168,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12168
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LCC-156"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/LCC-156"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-LCC-156"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

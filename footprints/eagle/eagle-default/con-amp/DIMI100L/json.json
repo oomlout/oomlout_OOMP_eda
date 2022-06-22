@@ -1,0 +1,45 @@
+{
+    "index": 1561,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1561
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIMI100L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/DIMI100L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-DIMI100L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

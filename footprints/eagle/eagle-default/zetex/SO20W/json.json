@@ -1,0 +1,45 @@
+{
+    "index": 13927,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13927
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "zetex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO20W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/zetex/SO20W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-zetex-SO20W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

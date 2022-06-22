@@ -1,0 +1,45 @@
+{
+    "index": 10882,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10882
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIM74W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/RTRIM74W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM74W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

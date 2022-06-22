@@ -1,0 +1,45 @@
+{
+    "index": 5676,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5676
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fairchild-semic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FSBB30CH60"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fairchild-semic/FSBB30CH60"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fairchild-semic-FSBB30CH60"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

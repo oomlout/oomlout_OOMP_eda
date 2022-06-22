@@ -1,0 +1,45 @@
+{
+    "index": 14257,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14257
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MOLEX_1X6_RA_LOCK"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MOLEX_1X6_RA_LOCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MOLEX_1X6_RA_LOCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

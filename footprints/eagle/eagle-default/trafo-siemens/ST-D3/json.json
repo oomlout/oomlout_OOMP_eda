@@ -1,0 +1,45 @@
+{
+    "index": 13234,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13234
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST-D3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-siemens/ST-D3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-ST-D3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

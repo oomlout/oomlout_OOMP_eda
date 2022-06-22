@@ -1,0 +1,45 @@
+{
+    "index": 1206,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1206
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "buzzer"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BPT-24X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/buzzer/BPT-24X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-buzzer-BPT-24X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

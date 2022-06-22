@@ -1,0 +1,45 @@
+{
+    "index": 13202,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13202
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RM12-12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-siemens/RM12-12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-RM12-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

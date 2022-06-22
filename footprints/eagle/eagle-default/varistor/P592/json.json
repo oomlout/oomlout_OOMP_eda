@@ -1,0 +1,45 @@
+{
+    "index": 13787,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13787
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P592"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/varistor/P592"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-varistor-P592"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7505,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7505
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM-42/43B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/SM-42/43B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-SM-42/43B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

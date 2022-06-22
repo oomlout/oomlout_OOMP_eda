@@ -1,0 +1,45 @@
+{
+    "index": 14177,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14177
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AUDIO-JACK-3.5MM-SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/AUDIO-JACK-3.5MM-SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-AUDIO-JACK-3.5MM-SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6993,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6993
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-renesas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLSP0020JB-A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-renesas/PLSP0020JB-A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-renesas-PLSP0020JB-A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

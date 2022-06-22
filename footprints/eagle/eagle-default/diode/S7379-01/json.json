@@ -1,0 +1,45 @@
+{
+    "index": 5467,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5467
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S7379-01"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/S7379-01"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-S7379-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

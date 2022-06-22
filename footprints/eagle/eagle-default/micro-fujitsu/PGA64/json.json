@@ -1,0 +1,45 @@
+{
+    "index": 6811,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6811
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-fujitsu"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PGA64"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-fujitsu/PGA64"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-fujitsu-PGA64"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

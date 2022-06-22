@@ -1,0 +1,45 @@
+{
+    "index": 5785,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5785
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PF750"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/heatsink/PF750"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-PF750"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

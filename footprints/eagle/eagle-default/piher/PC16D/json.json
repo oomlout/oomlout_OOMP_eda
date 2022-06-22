@@ -1,0 +1,45 @@
+{
+    "index": 7346,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7346
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "piher"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PC16D"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/piher/PC16D"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-piher-PC16D"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

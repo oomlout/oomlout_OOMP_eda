@@ -1,0 +1,45 @@
+{
+    "index": 1278,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1278
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "chipcard-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M20-SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/chipcard-siemens/M20-SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-chipcard-siemens-M20-SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

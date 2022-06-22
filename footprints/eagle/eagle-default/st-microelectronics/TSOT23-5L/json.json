@@ -1,0 +1,45 @@
+{
+    "index": 12672,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12672
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOT23-5L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/TSOT23-5L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-TSOT23-5L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

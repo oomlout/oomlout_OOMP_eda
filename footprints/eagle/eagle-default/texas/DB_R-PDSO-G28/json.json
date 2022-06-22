@@ -1,0 +1,45 @@
+{
+    "index": 12965,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12965
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DB_R-PDSO-G28"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/DB_R-PDSO-G28"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-DB_R-PDSO-G28"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

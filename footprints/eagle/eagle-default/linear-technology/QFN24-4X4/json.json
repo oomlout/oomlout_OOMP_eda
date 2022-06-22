@@ -1,0 +1,45 @@
+{
+    "index": 6512,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6512
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear-technology"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN24-4X4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear-technology/QFN24-4X4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-technology-QFN24-4X4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 4630,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4630
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H15ML"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/H15ML"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-H15ML"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

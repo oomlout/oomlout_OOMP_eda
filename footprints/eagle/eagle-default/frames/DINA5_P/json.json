@@ -1,0 +1,45 @@
+{
+    "index": 5705,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5705
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "frames"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DINA5_P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/frames/DINA5_P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-frames-DINA5_P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7235,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7235
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-honeywell"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO46-LX"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-honeywell/TO46-LX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-TO46-LX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

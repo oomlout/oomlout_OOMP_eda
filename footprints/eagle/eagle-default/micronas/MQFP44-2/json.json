@@ -1,0 +1,45 @@
+{
+    "index": 7108,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7108
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micronas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MQFP44-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micronas/MQFP44-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micronas-MQFP44-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

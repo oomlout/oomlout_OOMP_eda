@@ -1,0 +1,45 @@
+{
+    "index": 2188,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2188
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-hirschmann"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPB5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-hirschmann/SPB5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-hirschmann-SPB5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

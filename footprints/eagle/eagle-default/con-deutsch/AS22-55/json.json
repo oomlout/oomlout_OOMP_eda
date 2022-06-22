@@ -1,0 +1,45 @@
+{
+    "index": 1921,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1921
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-deutsch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AS22-55"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-deutsch/AS22-55"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-deutsch-AS22-55"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

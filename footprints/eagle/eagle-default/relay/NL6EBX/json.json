@@ -1,0 +1,45 @@
+{
+    "index": 11791,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11791
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NL6EBX"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/NL6EBX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-NL6EBX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

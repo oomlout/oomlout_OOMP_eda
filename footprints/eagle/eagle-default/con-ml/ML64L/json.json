@@ -1,0 +1,45 @@
+{
+    "index": 2565,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2565
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-ml"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ML64L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-ml/ML64L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-ml-ML64L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

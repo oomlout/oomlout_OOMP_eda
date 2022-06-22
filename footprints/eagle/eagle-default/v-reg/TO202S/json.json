@@ -1,0 +1,45 @@
+{
+    "index": 13762,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13762
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "v-reg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO202S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/v-reg/TO202S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-v-reg-TO202S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

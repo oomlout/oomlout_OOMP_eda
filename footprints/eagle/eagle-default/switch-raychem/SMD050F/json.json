@@ -1,0 +1,45 @@
+{
+    "index": 12898,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12898
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-raychem"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMD050F"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-raychem/SMD050F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-raychem-SMD050F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

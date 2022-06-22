@@ -1,0 +1,45 @@
+{
+    "index": 3636,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3636
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSW-128-02-G-S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/SSW-128-02-G-S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-SSW-128-02-G-S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

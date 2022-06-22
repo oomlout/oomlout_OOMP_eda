@@ -1,0 +1,45 @@
+{
+    "index": 9121,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9121
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT54C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOT54C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT54C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

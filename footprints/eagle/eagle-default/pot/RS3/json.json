@@ -1,0 +1,45 @@
+{
+    "index": 7495,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7495
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/RS3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-RS3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

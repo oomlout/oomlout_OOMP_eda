@@ -1,0 +1,45 @@
+{
+    "index": 8053,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8053
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rectifier"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-269AA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rectifier/TO-269AA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rectifier-TO-269AA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

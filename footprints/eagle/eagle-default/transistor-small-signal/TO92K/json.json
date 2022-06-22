@@ -1,0 +1,45 @@
+{
+    "index": 13674,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13674
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-small-signal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO92K"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-small-signal/TO92K"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-small-signal-TO92K"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

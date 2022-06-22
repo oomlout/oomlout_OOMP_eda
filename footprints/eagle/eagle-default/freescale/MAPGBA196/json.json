@@ -1,0 +1,45 @@
+{
+    "index": 5719,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5719
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "freescale"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAPGBA196"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/freescale/MAPGBA196"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-freescale-MAPGBA196"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

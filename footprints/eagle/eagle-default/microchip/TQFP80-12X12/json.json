@@ -1,0 +1,45 @@
+{
+    "index": 7101,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7101
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microchip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP80-12X12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microchip/TQFP80-12X12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microchip-TQFP80-12X12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

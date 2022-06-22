@@ -1,0 +1,45 @@
+{
+    "index": 12137,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12137
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CT3528"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/CT3528"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-CT3528"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

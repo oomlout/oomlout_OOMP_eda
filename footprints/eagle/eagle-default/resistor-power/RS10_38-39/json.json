@@ -1,0 +1,45 @@
+{
+    "index": 12035,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12035
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS10_38-39"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/RS10_38-39"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-RS10_38-39"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7265,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7265
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-trans-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BPX82"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-trans-siemens/BPX82"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BPX82"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

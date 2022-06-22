@@ -1,0 +1,45 @@
+{
+    "index": 2404,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2404
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lsta"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FE12W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lsta/FE12W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lsta-FE12W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

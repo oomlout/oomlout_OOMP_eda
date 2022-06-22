@@ -1,0 +1,45 @@
+{
+    "index": 9839,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9839
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP40P3060X3060X410-256"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFP40P3060X3060X410-256"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P3060X3060X410-256"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 13161,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13161
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PT22-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/PT22-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-PT22-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

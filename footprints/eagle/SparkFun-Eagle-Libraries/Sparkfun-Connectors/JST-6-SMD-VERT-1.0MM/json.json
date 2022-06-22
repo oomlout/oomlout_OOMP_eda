@@ -1,0 +1,45 @@
+{
+    "index": 14232,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14232
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JST-6-SMD-VERT-1.0MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST-6-SMD-VERT-1.0MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-JST-6-SMD-VERT-1.0MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 4622,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4622
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FACE48E"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/FACE48E"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-FACE48E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

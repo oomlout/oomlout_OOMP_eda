@@ -1,0 +1,45 @@
+{
+    "index": 12955,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12955
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "testpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TP19R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/testpad/TP19R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-testpad-TP19R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7447,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7447
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pld-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP132"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pld-intel/QFP132"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pld-intel-QFP132"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

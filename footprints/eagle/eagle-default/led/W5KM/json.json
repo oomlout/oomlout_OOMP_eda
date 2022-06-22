@@ -1,0 +1,45 @@
+{
+    "index": 6368,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6368
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "W5KM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/W5KM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-W5KM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

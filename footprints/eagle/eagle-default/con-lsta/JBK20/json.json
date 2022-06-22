@@ -1,0 +1,45 @@
+{
+    "index": 2420,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2420
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lsta"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JBK20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lsta/JBK20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lsta-JBK20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

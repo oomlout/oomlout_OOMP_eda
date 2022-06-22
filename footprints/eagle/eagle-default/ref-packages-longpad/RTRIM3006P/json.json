@@ -1,0 +1,45 @@
+{
+    "index": 10853,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10853
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTRIM3006P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/RTRIM3006P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3006P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12147,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12147
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-ipc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP24X"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-ipc/DIP24X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-ipc-DIP24X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

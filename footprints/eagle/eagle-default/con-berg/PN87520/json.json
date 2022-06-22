@@ -1,0 +1,45 @@
+{
+    "index": 1789,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1789
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-berg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PN87520"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-berg/PN87520"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-berg-PN87520"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

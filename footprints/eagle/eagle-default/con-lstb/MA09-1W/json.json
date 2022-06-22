@@ -1,0 +1,45 @@
+{
+    "index": 2440,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2440
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lstb"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MA09-1W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lstb/MA09-1W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lstb-MA09-1W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

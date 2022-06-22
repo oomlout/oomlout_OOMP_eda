@@ -1,0 +1,45 @@
+{
+    "index": 13604,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13604
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-small-signal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT323W_PHILIPS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-small-signal/SOT323W_PHILIPS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_PHILIPS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

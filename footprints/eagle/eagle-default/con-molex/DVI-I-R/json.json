@@ -1,0 +1,45 @@
+{
+    "index": 2917,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2917
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DVI-I-R"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-molex/DVI-I-R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-molex-DVI-I-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

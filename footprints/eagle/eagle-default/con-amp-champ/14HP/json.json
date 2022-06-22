@@ -1,0 +1,45 @@
+{
+    "index": 1642,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1642
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-champ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "14HP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-champ/14HP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-champ-14HP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

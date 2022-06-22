@@ -1,0 +1,45 @@
+{
+    "index": 7662,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7662
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CEP125"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/CEP125"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-CEP125"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

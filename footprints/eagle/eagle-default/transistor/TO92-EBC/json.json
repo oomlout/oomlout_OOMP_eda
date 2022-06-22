@@ -1,0 +1,45 @@
+{
+    "index": 13292,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13292
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO92-EBC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor/TO92-EBC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-TO92-EBC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

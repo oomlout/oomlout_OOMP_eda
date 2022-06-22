@@ -1,0 +1,45 @@
+{
+    "index": 13122,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13122
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EI54-2B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo/EI54-2B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-EI54-2B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

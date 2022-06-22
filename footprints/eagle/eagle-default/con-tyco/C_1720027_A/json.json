@@ -1,0 +1,45 @@
+{
+    "index": 4560,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4560
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-tyco"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_1720027_A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-tyco/C_1720027_A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-tyco-C_1720027_A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 4227,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4227
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSW-138-08-G-Q-RA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-samtec/TSW-138-08-G-Q-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-samtec-TSW-138-08-G-Q-RA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

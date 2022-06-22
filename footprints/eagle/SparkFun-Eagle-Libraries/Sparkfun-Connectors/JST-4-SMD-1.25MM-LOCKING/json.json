@@ -1,0 +1,45 @@
+{
+    "index": 14227,
+    "tags": [
+        {
+            "name": "index",
+            "value": 14227
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sparkfun-Connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JST-4-SMD-1.25MM-LOCKING"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST-4-SMD-1.25MM-LOCKING"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-JST-4-SMD-1.25MM-LOCKING"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

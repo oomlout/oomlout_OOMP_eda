@@ -1,0 +1,45 @@
+{
+    "index": 683,
+    "tags": [
+        {
+            "name": "index",
+            "value": 683
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "40xx"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/40xx/PLCC20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-40xx-PLCC20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

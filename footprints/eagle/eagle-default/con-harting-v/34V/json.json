@@ -1,0 +1,45 @@
+{
+    "index": 2092,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2092
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting-v"
+        },
+        {
+            "name": "oompIndex",
+            "value": "34V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting-v/34V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-v-34V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 4540,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4540
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-thomas-betts"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HFR026RA"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-thomas-betts/HFR026RA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFR026RA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

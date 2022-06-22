@@ -1,0 +1,45 @@
+{
+    "index": 7680,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7680
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CTRIM808-BC7.5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/CTRIM808-BC7.5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-CTRIM808-BC7.5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 7167,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7167
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "national-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP48"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/national-semiconductor/LQFP48"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-national-semiconductor-LQFP48"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

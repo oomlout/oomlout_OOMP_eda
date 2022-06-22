@@ -1,0 +1,45 @@
+{
+    "index": 12074,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12074
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rf-solutions"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL08"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rf-solutions/DIL08"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rf-solutions-DIL08"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

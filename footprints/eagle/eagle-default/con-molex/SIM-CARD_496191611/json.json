@@ -1,0 +1,45 @@
+{
+    "index": 2936,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2936
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIM-CARD_496191611"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-molex/SIM-CARD_496191611"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-molex-SIM-CARD_496191611"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

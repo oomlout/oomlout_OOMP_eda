@@ -1,0 +1,45 @@
+{
+    "index": 12755,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12755
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TL1105"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/TL1105"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-TL1105"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

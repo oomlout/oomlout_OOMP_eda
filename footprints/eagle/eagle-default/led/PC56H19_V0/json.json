@@ -1,0 +1,45 @@
+{
+    "index": 6342,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6342
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PC56H19_V0"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/PC56H19_V0"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-PC56H19_V0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

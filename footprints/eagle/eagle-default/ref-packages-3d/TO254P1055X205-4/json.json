@@ -1,0 +1,45 @@
+{
+    "index": 10102,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10102
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO254P1055X205-4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/TO254P1055X205-4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO254P1055X205-4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

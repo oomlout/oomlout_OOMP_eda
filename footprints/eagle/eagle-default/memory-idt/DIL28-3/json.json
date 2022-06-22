@@ -1,0 +1,45 @@
+{
+    "index": 6715,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6715
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-idt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL28-3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-idt/DIL28-3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-idt-DIL28-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

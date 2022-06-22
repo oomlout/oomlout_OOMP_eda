@@ -1,0 +1,45 @@
+{
+    "index": 915,
+    "tags": [
+        {
+            "name": "index",
+            "value": 915
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "amd-mach"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP144"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/amd-mach/PQFP144"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-amd-mach-PQFP144"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

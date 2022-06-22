@@ -1,0 +1,45 @@
+{
+    "index": 12688,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12688
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "50-3POLE30"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/50-3POLE30"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-50-3POLE30"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

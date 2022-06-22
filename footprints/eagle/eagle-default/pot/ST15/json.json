@@ -1,0 +1,45 @@
+{
+    "index": 7511,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7511
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pot"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST15"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pot/ST15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pot-ST15"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 767,
+    "tags": [
+        {
+            "name": "index",
+            "value": 767
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-little-de"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC70-5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-little-de/SC70-5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-little-de-SC70-5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

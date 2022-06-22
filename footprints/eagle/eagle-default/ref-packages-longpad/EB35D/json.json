@@ -1,0 +1,45 @@
+{
+    "index": 10487,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10487
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EB35D"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/EB35D"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-EB35D"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

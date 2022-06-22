@@ -1,0 +1,45 @@
+{
+    "index": 12598,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12598
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "REL-5PIN"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special/REL-5PIN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-REL-5PIN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

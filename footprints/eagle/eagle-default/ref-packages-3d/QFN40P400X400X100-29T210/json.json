@@ -1,0 +1,45 @@
+{
+    "index": 9678,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9678
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN40P400X400X100-29T210"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/QFN40P400X400X100-29T210"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN40P400X400X100-29T210"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

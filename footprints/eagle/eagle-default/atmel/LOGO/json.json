@@ -1,0 +1,45 @@
+{
+    "index": 1015,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1015
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LOGO"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/LOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-LOGO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

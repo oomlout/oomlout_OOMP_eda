@@ -1,0 +1,45 @@
+{
+    "index": 12608,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12608
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW-C16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special/SW-C16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-SW-C16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

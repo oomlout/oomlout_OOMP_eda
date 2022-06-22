@@ -1,0 +1,45 @@
+{
+    "index": 7665,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7665
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CT6032"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/CT6032"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-CT6032"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

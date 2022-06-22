@@ -1,0 +1,45 @@
+{
+    "index": 942,
+    "tags": [
+        {
+            "name": "index",
+            "value": 942
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LCC8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/LCC8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-LCC8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

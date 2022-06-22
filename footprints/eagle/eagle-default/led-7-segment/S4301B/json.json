@@ -1,0 +1,45 @@
+{
+    "index": 6373,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6373
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led-7-segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S4301B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led-7-segment/S4301B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-7-segment-S4301B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

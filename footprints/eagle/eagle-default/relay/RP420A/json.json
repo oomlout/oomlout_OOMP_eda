@@ -1,0 +1,45 @@
+{
+    "index": 11833,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11833
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "relay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RP420A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/relay/RP420A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-relay-RP420A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

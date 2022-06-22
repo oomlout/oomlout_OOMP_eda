@@ -1,0 +1,45 @@
+{
+    "index": 10287,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10287
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIP-LED0603"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/CHIP-LED0603"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CHIP-LED0603"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 10919,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10919
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC79_INFINEON"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/SC79_INFINEON"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC79_INFINEON"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

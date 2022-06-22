@@ -1,0 +1,45 @@
+{
+    "index": 7035,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7035
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC68SOCK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-siemens/PLCC68SOCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-siemens-PLCC68SOCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

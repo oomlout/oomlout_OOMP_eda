@@ -1,0 +1,45 @@
+{
+    "index": 12475,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12475
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JUMP-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-special/JUMP-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-JUMP-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

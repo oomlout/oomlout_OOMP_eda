@@ -1,0 +1,45 @@
+{
+    "index": 6345,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6345
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Q62902-B152"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/Q62902-B152"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-Q62902-B152"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

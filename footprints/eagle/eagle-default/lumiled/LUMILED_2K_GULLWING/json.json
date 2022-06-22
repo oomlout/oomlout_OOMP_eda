@@ -1,0 +1,45 @@
+{
+    "index": 6599,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6599
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lumiled"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LUMILED_2K_GULLWING"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lumiled/LUMILED_2K_GULLWING"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lumiled-LUMILED_2K_GULLWING"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 12677,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12677
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "255SB"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/255SB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-255SB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

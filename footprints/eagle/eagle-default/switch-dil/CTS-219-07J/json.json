@@ -1,0 +1,45 @@
+{
+    "index": 12785,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12785
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CTS-219-07J"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-dil/CTS-219-07J"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-dil-CTS-219-07J"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

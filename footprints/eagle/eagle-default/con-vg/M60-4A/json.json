@@ -1,0 +1,45 @@
+{
+    "index": 4643,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4643
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-vg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M60-4A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-vg/M60-4A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-vg-M60-4A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

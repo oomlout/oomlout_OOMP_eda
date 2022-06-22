@@ -1,0 +1,45 @@
+{
+    "index": 646,
+    "tags": [
+        {
+            "name": "index",
+            "value": 646
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "19inch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AHG"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/19inch/AHG"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-19inch-AHG"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

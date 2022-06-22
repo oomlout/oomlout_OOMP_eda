@@ -1,0 +1,45 @@
+{
+    "index": 6990,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6990
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-renesas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-LFQFP64-10X10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-renesas/P-LFQFP64-10X10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-renesas-P-LFQFP64-10X10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

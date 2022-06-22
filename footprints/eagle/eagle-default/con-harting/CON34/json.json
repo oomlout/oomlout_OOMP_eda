@@ -1,0 +1,45 @@
+{
+    "index": 2026,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2026
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CON34"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting/CON34"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-CON34"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

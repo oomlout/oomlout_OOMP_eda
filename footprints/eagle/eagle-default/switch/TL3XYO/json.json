@@ -1,0 +1,45 @@
+{
+    "index": 12763,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12763
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TL3XYO"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch/TL3XYO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-TL3XYO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

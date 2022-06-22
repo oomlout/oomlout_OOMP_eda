@@ -1,0 +1,45 @@
+{
+    "index": 13486,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13486
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIPFET-1206A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-power/CHIPFET-1206A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-power-CHIPFET-1206A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

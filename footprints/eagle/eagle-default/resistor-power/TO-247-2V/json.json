@@ -1,0 +1,45 @@
+{
+    "index": 12048,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12048
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-247-2V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-power/TO-247-2V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-power-TO-247-2V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

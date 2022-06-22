@@ -1,0 +1,45 @@
+{
+    "index": 7165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "national-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQA036A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/national-semiconductor/LQA036A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-national-semiconductor-LQA036A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

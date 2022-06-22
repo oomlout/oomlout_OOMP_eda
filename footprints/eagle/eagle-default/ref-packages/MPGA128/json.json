@@ -1,0 +1,45 @@
+{
+    "index": 8595,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8595
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MPGA128"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/MPGA128"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MPGA128"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

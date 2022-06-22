@@ -1,0 +1,45 @@
+{
+    "index": 5978,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5978
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-neosid"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TL21"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-neosid/TL21"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-neosid-TL21"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

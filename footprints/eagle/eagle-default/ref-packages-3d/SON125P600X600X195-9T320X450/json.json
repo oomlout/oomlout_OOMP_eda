@@ -1,0 +1,45 @@
+{
+    "index": 9941,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9941
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SON125P600X600X195-9T320X450"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/SON125P600X600X195-9T320X450"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SON125P600X600X195-9T320X450"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

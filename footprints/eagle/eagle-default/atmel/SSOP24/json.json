@@ -1,0 +1,45 @@
+{
+    "index": 1047,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1047
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "atmel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP24"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/atmel/SSOP24"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-atmel-SSOP24"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

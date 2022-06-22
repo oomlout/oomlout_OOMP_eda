@@ -1,0 +1,45 @@
+{
+    "index": 1622,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1622
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIMM68L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp/SIMM68L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-SIMM68L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

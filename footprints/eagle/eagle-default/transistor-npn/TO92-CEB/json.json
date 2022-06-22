@@ -1,0 +1,45 @@
+{
+    "index": 13441,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13441
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-npn"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO92-CEB"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-npn/TO92-CEB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-CEB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

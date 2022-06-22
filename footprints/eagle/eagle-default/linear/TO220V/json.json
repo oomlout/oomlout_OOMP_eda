@@ -1,0 +1,45 @@
+{
+    "index": 6475,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6475
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/TO220V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-TO220V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

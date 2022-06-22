@@ -1,0 +1,45 @@
+{
+    "index": 5399,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5399
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DO07"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/diode/DO07"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-diode-DO07"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

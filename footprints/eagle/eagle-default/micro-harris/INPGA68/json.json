@@ -1,0 +1,45 @@
+{
+    "index": 6833,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6833
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-harris"
+        },
+        {
+            "name": "oompIndex",
+            "value": "INPGA68"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-harris/INPGA68"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-harris-INPGA68"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

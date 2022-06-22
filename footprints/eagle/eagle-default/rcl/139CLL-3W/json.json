@@ -1,0 +1,45 @@
+{
+    "index": 7552,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7552
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "139CLL-3W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/139CLL-3W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-139CLL-3W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

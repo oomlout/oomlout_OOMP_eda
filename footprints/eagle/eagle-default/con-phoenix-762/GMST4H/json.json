@@ -1,0 +1,45 @@
+{
+    "index": 3319,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3319
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-762"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GMST4H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-762/GMST4H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST4H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

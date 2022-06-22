@@ -1,0 +1,45 @@
+{
+    "index": 795,
+    "tags": [
+        {
+            "name": "index",
+            "value": 795
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-little-us"
+        },
+        {
+            "name": "oompIndex",
+            "value": "YZA_R-XBGA-N8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-little-us/YZA_R-XBGA-N8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-little-us-YZA_R-XBGA-N8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

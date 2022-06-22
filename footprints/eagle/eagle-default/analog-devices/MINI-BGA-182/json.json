@@ -1,0 +1,45 @@
+{
+    "index": 963,
+    "tags": [
+        {
+            "name": "index",
+            "value": 963
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MINI-BGA-182"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/MINI-BGA-182"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-MINI-BGA-182"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 6425,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6425
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MULTIWAT-SIL17"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear/MULTIWAT-SIL17"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-MULTIWAT-SIL17"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

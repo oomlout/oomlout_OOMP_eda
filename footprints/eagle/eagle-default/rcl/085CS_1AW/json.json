@@ -1,0 +1,45 @@
+{
+    "index": 7544,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7544
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "085CS_1AW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/085CS_1AW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-085CS_1AW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

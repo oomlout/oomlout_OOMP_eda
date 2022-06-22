@@ -1,0 +1,45 @@
+{
+    "index": 6165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "infineon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PG-DSO-36PAD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/infineon/PG-DSO-36PAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36PAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

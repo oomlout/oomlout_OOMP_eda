@@ -1,0 +1,45 @@
+{
+    "index": 2999,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2999
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-neutrik_ag"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NC4MAV"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-neutrik_ag/NC4MAV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NC4MAV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 4897,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4897
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-wago255"
+        },
+        {
+            "name": "oompIndex",
+            "value": "233-124"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-wago255/233-124"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-wago255-233-124"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

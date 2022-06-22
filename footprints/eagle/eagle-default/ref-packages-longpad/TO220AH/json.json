@@ -1,0 +1,45 @@
+{
+    "index": 11407,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11407
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-longpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220AH"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-longpad/TO220AH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO220AH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

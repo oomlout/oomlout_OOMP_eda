@@ -1,0 +1,45 @@
+{
+    "index": 6825,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6825
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-harris"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL18"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-harris/DIL18"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-harris-DIL18"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

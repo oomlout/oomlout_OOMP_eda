@@ -1,0 +1,45 @@
+{
+    "index": 5619,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5619
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-lcd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H1332C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-lcd/H1332C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-lcd-H1332C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

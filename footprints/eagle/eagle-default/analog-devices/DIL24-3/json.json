@@ -1,0 +1,45 @@
+{
+    "index": 938,
+    "tags": [
+        {
+            "name": "index",
+            "value": 938
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "analog-devices"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL24-3"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/analog-devices/DIL24-3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-analog-devices-DIL24-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
