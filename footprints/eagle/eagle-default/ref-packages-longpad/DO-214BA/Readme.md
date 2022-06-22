@@ -1,0 +1,21 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages-longpad
+- oompIndex: DO-214BA
+- oompName: eagle-default/ref-packages-longpad/DO-214BA

@@ -1,0 +1,21 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: relay
+- oompIndex: FINDER-43.41
+- oompName: eagle-default/relay/FINDER-43.41

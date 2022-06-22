@@ -1,0 +1,21 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: relay
+- oompIndex: DF2-L2
+- oompName: eagle-default/relay/DF2-L2

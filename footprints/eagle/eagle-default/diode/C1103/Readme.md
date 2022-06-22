@@ -17,5 +17,5 @@ Contents
 - oompSize: eagle
 - oompColor: eagle-default
 - oompDesc: diode
-- oompIndex: C1103/
-- oompName: eagle-default/diode/C1103/
+- oompIndex: C1103
+- oompName: eagle-default/diode/C1103

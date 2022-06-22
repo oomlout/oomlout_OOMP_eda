@@ -1,0 +1,21 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages-3d
+- oompIndex: QFN50P300X300X100-13T95
+- oompName: eagle-default/ref-packages-3d/QFN50P300X300X100-13T95

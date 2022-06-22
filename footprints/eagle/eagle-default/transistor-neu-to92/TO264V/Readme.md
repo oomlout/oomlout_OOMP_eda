@@ -1,0 +1,21 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: transistor-neu-to92
+- oompIndex: TO264V
+- oompName: eagle-default/transistor-neu-to92/TO264V
