@@ -1,0 +1,61 @@
+{
+    "index": 8778,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8778
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-121_12.0x12.0mm_Layout11x11_P1.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-121_12.0x12.0mm_Layout11x11_P1.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-121, http://cds.linear.com/docs/en/packaging/05081891_A_bga121.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-121"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-121_12.0x12.0mm_Layout11x11_P1.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

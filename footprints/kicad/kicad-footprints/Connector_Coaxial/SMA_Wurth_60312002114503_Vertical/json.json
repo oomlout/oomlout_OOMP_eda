@@ -1,0 +1,61 @@
+{
+    "index": 1182,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1182
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA_Wurth_60312002114503_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/SMA_Wurth_60312002114503_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.we-online.de/katalog/datasheet/60312002114503.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMA THT Female Jack Vertical ExtendedLegs"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Wurth_60312002114503_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Wurth_60312002114503_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

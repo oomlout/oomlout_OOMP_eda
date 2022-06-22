@@ -1,0 +1,61 @@
+{
+    "index": 8219,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8219
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Rectangular_W3.9mm_H1.8mm_FlatTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_THT/LED_Rectangular_W3.9mm_H1.8mm_FlatTop"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W3.9mm_H1.8mm_FlatTop.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.8mm_FlatTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

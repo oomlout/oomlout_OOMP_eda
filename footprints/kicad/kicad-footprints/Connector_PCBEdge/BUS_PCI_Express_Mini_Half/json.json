@@ -1,0 +1,61 @@
+{
+    "index": 3307,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3307
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PCBEdge"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUS_PCI_Express_Mini_Half"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mini-PCI Express bus connector half size with clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=25)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mini pcie"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Half.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Half"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

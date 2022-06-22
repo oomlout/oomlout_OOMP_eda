@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 2345
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: connector JST SH side entry
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 6985
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: connector wire 2.5sqmm
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-2.5sqmm_1x05_P7.2mm_D2.4mm_OD3.6mm.wrl
-
-
-
-[im]: image.png

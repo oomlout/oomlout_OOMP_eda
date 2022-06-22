@@ -1,0 +1,61 @@
+{
+    "index": 10331,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10331
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_S-PWSON-N10"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/Texas_S-PWSON-N10"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3x3mm Body, 0.5mm Pitch, S-PWSON-N10, DSC, http://www.ti.com/lit/ds/symlink/tps63060.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "0.5 S-PWSON-N10 DSC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PWSON-N10.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

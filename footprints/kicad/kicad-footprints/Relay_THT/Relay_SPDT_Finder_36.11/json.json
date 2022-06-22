@@ -1,0 +1,61 @@
+{
+    "index": 10921,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10921
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPDT_Finder_36.11"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPDT_Finder_36.11"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "spdt relay"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_36.11"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

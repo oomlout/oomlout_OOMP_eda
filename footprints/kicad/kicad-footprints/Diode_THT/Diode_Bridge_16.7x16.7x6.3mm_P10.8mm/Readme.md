@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7347
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: Diode Bridge
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_16.7x16.7x6.3mm_P10.8mm.wrl
-
-
-
-[im]: image.png

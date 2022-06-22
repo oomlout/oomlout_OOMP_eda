@@ -1,0 +1,61 @@
+{
+    "index": 11221,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11221
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ESP32-WROOM-32"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/ESP32-WROOM-32"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Single 2.4 GHz Wi-Fi and Bluetooth combo  chip"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-WROOM-32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

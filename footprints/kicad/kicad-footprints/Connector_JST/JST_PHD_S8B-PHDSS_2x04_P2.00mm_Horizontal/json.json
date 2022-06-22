@@ -1,0 +1,61 @@
+{
+    "index": 2122,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2122
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JST"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JST/JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "JST PHD series connector, S8B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector JST PHD horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

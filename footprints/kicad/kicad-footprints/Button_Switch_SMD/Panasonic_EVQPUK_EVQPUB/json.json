@@ -1,0 +1,61 @@
+{
+    "index": 79,
+    "tags": [
+        {
+            "name": "index",
+            "value": 79
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Panasonic_EVQPUK_EVQPUB"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/Panasonic_EVQPUK_EVQPUB"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT SPST EVQPUK EVQPUB"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Panasonic_EVQPUK_EVQPUB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

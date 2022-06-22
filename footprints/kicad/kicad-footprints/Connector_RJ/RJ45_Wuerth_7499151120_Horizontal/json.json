@@ -1,0 +1,61 @@
+{
+    "index": 6016,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6016
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Wuerth_7499151120_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Wuerth_7499151120_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Wuerth 7499151120, LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT, Dual Ethernet Jack (http://katalog.we-online.de/pbs/datasheet/7499151120.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ethernet lan connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Wuerth_7499151120_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499151120_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

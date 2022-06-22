@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7285
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: diode handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.wrl
-
-
-
-[im]: image.png

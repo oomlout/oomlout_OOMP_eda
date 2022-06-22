@@ -1,0 +1,61 @@
+{
+    "index": 7040,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7040
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_HC51-U_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_HC51-U_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT HC-51/U, http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT crystalHC-51/U"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC51-U_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51-U_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

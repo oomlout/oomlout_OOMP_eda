@@ -1,0 +1,61 @@
+{
+    "index": 8756,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8756
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal Oscillator Seiko Epson SG-8002CA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 7.0x5.0mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal oscillator"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

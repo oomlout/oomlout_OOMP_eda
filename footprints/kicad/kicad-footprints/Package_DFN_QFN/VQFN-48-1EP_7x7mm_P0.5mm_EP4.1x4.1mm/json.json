@@ -1,0 +1,61 @@
+{
+    "index": 9526,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9526
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc430f5137.pdf#page=128), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VQFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

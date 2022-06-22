@@ -1,0 +1,61 @@
+{
+    "index": 1758,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1758
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Hirose"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Hirose/Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Hirose DF13C SMD, CL535-0405-0-51, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Hirose DF13C vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

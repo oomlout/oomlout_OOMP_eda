@@ -1,0 +1,61 @@
+{
+    "index": 8670,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8670
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Lite-On_LTR-303ALS-01"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Lite-On_LTR-303ALS-01"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ambient light sensor, i2c interface, 6-pin chipled package, http://optoelectronics.liteon.com/upload/download/DS86-2013-0004/LTR-303ALS-01_DS_V1.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ambient light sensor chipled"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

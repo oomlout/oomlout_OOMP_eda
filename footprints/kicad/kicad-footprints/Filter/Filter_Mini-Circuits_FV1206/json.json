@@ -1,0 +1,61 @@
+{
+    "index": 7459,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7459
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Filter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Filter_Mini-Circuits_FV1206"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Filter/Filter_Mini-Circuits_FV1206"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits Filter SMD 1206"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Mini-Circuits_FV1206"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

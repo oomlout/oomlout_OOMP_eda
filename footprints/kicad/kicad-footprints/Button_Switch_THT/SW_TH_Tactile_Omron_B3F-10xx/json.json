@@ -1,0 +1,61 @@
+{
+    "index": 317,
+    "tags": [
+        {
+            "name": "index",
+            "value": 317
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_TH_Tactile_Omron_B3F-10xx"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_TH_Tactile_Omron_B3F-10xx"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Omron B3F-10xx"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

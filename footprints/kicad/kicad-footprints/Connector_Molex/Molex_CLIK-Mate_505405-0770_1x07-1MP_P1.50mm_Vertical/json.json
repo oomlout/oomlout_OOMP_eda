@@ -1,0 +1,61 @@
+{
+    "index": 2588,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2588
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_CLIK-Mate_505405-0770_1x07-1MP_P1.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_CLIK-Mate_505405-0770_1x07-1MP_P1.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex CLIK-Mate series connector, 505405-0770 (http://www.molex.com/pdm_docs/sd/5054050270_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex CLIK-Mate side entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_505405-0770_1x07-1MP_P1.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_505405-0770_1x07-1MP_P1.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

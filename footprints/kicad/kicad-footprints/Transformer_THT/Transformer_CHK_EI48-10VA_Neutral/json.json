@@ -1,0 +1,61 @@
+{
+    "index": 12147,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12147
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_CHK_EI48-10VA_Neutral"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_CHK_EI48-10VA_Neutral"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Trafo, Printtrafo, CHK, EI48, 10VA, neutral, http://www.eratransformers.com/product-detail/18"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Trafo Printtrafo CHK EI48 10VA neutral"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI48-10VA_Neutral.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI48-10VA_Neutral"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11189,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11189
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_HQ1157"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HQ1157"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case HQ1157 (https://www.minicircuits.com/case_style/HQ1157.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits HQ1157"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HQ1157.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HQ1157"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

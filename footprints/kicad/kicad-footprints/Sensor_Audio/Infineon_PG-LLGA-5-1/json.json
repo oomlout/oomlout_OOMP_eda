@@ -1,0 +1,61 @@
+{
+    "index": 11297,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11297
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-LLGA-5-1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Audio/Infineon_PG-LLGA-5-1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/"
+        },
+        {
+            "name": "kicadTags",
+            "value": "infineon mems microphone"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Infineon_PG-LLGA-5-1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Infineon_PG-LLGA-5-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

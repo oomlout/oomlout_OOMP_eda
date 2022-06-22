@@ -1,0 +1,61 @@
+{
+    "index": 7388,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7388
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LM16255"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/LM16255"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LCD 12x2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/LM16255.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-LM16255"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

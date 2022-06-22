@@ -1,0 +1,61 @@
+{
+    "index": 11167,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11167
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GSM"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIMCom_SIM800C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GSM/SIMCom_SIM800C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Quad-Band GSM/GPRS module, 17.6x15.7x2.3mm, http://simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "GSM Module SIM800C"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/SIMCom_SIM800C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM800C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10460,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10460
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_NDY0011A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/Texas_NDY0011A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas TO-PMOD NDY00011A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDY0011A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDY0011A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

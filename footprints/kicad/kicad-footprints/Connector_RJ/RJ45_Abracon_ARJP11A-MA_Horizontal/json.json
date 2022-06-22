@@ -1,0 +1,61 @@
+{
+    "index": 5992,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5992
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Abracon_ARJP11A-MA_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Abracon_ARJP11A-MA_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ethernet 8p8c transformer poe rj45"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Abracon_ARJP11A-MA_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Abracon_ARJP11A-MA_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

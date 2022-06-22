@@ -1,0 +1,61 @@
+{
+    "index": 1619,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1619
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Harwin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Harwin_LTek-Male_03_P2.00mm_Vertical_StrainRelief"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Harwin/Harwin_LTek-Male_03_P2.00mm_Vertical_StrainRelief"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Harwin LTek Connector, 3 pins, single row male, vertical entry, strain relief clip"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector harwin ltek M80"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_03_P2.00mm_Vertical_StrainRelief.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_03_P2.00mm_Vertical_StrainRelief"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

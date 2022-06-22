@@ -1,0 +1,61 @@
+{
+    "index": 10453,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10453
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT-963"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/SOT-963"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SOT 963 6 pins package 1x0.8mm pitch 0.35mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOT 963 6 pins package 1x0.8mm pitch 0.35mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-963.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-963"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

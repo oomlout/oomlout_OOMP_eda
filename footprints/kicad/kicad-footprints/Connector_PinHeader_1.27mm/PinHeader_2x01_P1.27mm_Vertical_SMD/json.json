@@ -1,0 +1,61 @@
+{
+    "index": 4357,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4357
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinHeader_1.27mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinHeader_2x01_P1.27mm_Vertical_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x01_P1.27mm_Vertical_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "surface-mounted straight pin header, 2x01, 1.27mm pitch, double rows"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Surface mounted pin header SMD 2x01 1.27mm double row"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x01_P1.27mm_Vertical_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_2x01_P1.27mm_Vertical_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

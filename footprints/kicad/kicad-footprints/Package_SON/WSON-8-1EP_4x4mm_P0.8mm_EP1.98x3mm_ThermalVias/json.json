@@ -1,0 +1,61 @@
+{
+    "index": 10367,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10367
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lm5017.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

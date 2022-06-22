@@ -1,0 +1,61 @@
+{
+    "index": 7222,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7222
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_QFN_3.3x3.3mm_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/D_QFN_3.3x3.3mm_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "diode qfn 3.3"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_QFN_3.3x3.3mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

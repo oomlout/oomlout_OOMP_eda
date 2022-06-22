@@ -1,0 +1,61 @@
+{
+    "index": 12165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Myrra_EF20_7408x"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_Myrra_EF20_7408x"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "transformer flyback SMPS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Myrra_EF20_no_pin3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

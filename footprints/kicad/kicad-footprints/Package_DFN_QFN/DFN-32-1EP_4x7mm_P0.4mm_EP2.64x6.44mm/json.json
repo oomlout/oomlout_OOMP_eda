@@ -1,0 +1,61 @@
+{
+    "index": 9057,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9057
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DKD Package; 32-Lead Plastic DFN (7mm x 4mm) (see Linear Technology DFN_32_05-08-1734.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

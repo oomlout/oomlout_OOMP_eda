@@ -1,0 +1,61 @@
+{
+    "index": 6927,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6927
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_Recom_RAC20-xxSK_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Recom RAC20-xxSK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Recom RAC20-xxSK"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_ACDC_Recom_RAC20-xxSK_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Recom_RAC20-xxSK_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

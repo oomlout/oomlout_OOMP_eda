@@ -1,0 +1,61 @@
+{
+    "index": 10494,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10494
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOT-23-5"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/TSOT-23-5"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TSOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TSOT TO_SOT_SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-5.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23-5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

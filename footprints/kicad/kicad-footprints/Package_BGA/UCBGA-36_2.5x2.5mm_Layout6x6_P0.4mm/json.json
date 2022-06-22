@@ -1,0 +1,61 @@
+{
+    "index": 8853,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8853
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UCBGA-36_2.5x2.5mm_Layout6x6_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/UCBGA-36_2.5x2.5mm_Layout6x6_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UCBGA-36, 6x6 raster, 2.5x2.5mm package, pitch 0.4mm; https://www.latticesemi.com/view_document?document_id=213"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 36 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UCBGA-36_2.5x2.5mm_Layout6x6_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-36_2.5x2.5mm_Layout6x6_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

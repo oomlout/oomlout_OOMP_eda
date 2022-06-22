@@ -1,0 +1,57 @@
+{
+    "index": 8437,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8437
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_8.4mm_M8_Pad"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_8.4mm_M8_Pad"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 8.4mm, M8"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 8.4mm m8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8_Pad"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

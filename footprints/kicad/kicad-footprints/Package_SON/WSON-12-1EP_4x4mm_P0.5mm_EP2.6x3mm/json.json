@@ -1,0 +1,61 @@
+{
+    "index": 10349,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10349
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON, 12 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_4x4mm_P0.5mm_EP2.6x3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7566
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: SAW filter 8-pin
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_SAW-8_3.8x3.8mm.wrl
-
-
-
-[im]: image.png

@@ -1,0 +1,61 @@
+{
+    "index": 9853,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9853
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Bosch_LGA-14_3x2.5mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/Bosch_LGA-14_3x2.5mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LGA-14 Bosch https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "lga land grid array"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-14_3x2.5mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

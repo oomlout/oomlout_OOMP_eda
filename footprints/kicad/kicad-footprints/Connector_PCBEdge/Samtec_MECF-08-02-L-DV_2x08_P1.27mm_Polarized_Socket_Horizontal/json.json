@@ -1,0 +1,61 @@
+{
+    "index": 3327,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3327
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PCBEdge"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Samtec_MECF-08-02-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-02-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Highspeed card edge connector for 2.4mm PCB's with 08 contacts (polarized)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "conn samtec card-edge high-speed"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-08-02-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-08-02-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

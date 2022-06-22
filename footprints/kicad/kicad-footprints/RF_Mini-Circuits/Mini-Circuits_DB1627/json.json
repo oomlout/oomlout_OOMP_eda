@@ -1,0 +1,61 @@
+{
+    "index": 11182,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11182
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_DB1627"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_DB1627"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits DB1627"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_DB1627.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_DB1627"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

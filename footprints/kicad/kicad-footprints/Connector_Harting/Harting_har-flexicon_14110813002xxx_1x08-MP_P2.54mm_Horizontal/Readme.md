@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 1692
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,7 +22,3 @@ Contents
 - kicadDesc: Harting har-flexicon series connector, 14110813002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
 - kicadTags: connector Harting har-flexicon horizontal
 - kicadAttr: smd
-
-
-
-[im]: image.png

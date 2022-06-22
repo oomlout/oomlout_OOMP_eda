@@ -1,0 +1,61 @@
+{
+    "index": 8650,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8650
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kingbright_KPS-3227"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Kingbright_KPS-3227"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "KPS-3227 Ambient Light Photo Sensor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-3227.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-3227"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

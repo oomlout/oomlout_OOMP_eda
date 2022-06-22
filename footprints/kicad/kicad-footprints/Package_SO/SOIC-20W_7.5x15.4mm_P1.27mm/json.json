@@ -1,0 +1,61 @@
+{
+    "index": 10117,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10117
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC-20W_7.5x15.4mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SOIC-20W_7.5x15.4mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SOIC, 20 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RI_20_1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOIC SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-20W_7.5x15.4mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-20W_7.5x15.4mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

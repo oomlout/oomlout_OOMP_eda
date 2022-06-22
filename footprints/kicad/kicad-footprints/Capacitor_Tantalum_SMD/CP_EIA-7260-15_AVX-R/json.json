@@ -1,0 +1,61 @@
+{
+    "index": 489,
+    "tags": [
+        {
+            "name": "index",
+            "value": 489
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_Tantalum_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_EIA-7260-15_AVX-R"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7260-15_AVX-R"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor tantalum"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7260-15_AVX-R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7260-15_AVX-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

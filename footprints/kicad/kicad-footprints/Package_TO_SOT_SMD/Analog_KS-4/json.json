@@ -1,0 +1,61 @@
+{
+    "index": 10376,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10376
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Analog_KS-4"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/Analog_KS-4"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Analog Devices KS-4 (like EIAJ SC-82)"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Analog_KS-4.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

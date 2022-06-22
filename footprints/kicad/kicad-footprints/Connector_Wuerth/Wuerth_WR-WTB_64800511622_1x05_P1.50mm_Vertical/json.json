@@ -1,0 +1,61 @@
+{
+    "index": 6906,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6906
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Wuerth/Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Wuerth WR-WTB series connector, 64800511622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Wuerth WR-WTB vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800511622_1x05_P1.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

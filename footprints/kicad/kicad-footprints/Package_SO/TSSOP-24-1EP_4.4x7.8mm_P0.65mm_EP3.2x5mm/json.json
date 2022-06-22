@@ -1,0 +1,61 @@
+{
+    "index": 10240,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10240
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TSSOP, 24 Pin (https://www.st.com/resource/en/datasheet/led1642gw.pdf#page=37), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TSSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

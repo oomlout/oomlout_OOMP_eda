@@ -1,0 +1,61 @@
+{
+    "index": 9015,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9015
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CSP 4 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

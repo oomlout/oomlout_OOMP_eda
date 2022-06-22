@@ -1,0 +1,61 @@
+{
+    "index": 11160,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11160
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ublox_NEO"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/ublox_NEO"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ublox NEO 6/7/8, (https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29_0.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "GPS ublox NEO 6/7/8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_NEO.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_NEO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

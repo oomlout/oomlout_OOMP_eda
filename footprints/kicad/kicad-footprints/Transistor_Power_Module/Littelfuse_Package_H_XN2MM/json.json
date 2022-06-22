@@ -1,0 +1,61 @@
+{
+    "index": 12184,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12184
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transistor_Power_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Littelfuse_Package_H_XN2MM"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transistor_Power_Module/Littelfuse_Package_H_XN2MM"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "28-lead TH, Package H, same as Infineon_AG-ECONO2, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1225h_xn2mm_datasheet.pdf.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "igbt diode module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transistor_Power_Module.3dshapes/Littelfuse_Package_H_XN2MM.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Littelfuse_Package_H_XN2MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 2610,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2610
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-15A example for new part number: 22-27-2151, 15 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex KK-254 vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

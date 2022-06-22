@@ -1,0 +1,61 @@
+{
+    "index": 7972,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7972
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Radial series, Radial, pin pitch=27.94mm, , diameter=40.64mm, Vishay, IHB-4, http://www.vishay.com/docs/34015/ihb.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Radial series Radial pin pitch 27.94mm  diameter 40.64mm Vishay IHB-4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

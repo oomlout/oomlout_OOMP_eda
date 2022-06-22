@@ -1,0 +1,61 @@
+{
+    "index": 10031,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10031
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-DSO-12-9_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Infineon_PG-DSO-12-9_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-9/)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PG-DSO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-12-9.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-9_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 2869,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2869
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex MicroClasp Wire-to-Board System, 55935-0210, with PCB locator, 2 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex MicroClasp horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10167,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10167
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP-16_3.9x4.9mm_P0.635mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSOP-16_3.9x4.9mm_P0.635mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SSOP16: plastic shrink small outline package; 16 leads; body width 3.9 mm; lead pitch 0.635; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot519-1_po.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 0.635"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-16_3.9x4.9mm_P0.635mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-16_3.9x4.9mm_P0.635mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

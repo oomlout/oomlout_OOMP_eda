@@ -1,0 +1,61 @@
+{
+    "index": 9144,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9144
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Panasonic_HSON-8_8x8mm_P2.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Panasonic_HSON-8_8x8mm_P2.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Panasonic HSON-8, 8x8x1.25mm (https://industrial.panasonic.com/content/data/SC/ds/ds7/c0/PKG_HSON008-A-0808XXI_EN.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "panasonic hson"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HSON-8_8x8mm_P2.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

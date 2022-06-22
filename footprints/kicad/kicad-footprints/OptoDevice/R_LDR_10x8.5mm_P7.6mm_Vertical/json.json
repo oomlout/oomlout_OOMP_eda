@@ -1,0 +1,61 @@
+{
+    "index": 8687,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8687
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_LDR_10x8.5mm_P7.6mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/R_LDR_10x8.5mm_P7.6mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, LDR 10x8.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor LDR10.8.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_10x8.5mm_P7.6mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_10x8.5mm_P7.6mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

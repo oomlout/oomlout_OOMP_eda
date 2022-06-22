@@ -1,0 +1,57 @@
+{
+    "index": 344,
+    "tags": [
+        {
+            "name": "index",
+            "value": 344
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Calibration_Scale"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Gauge_100mm_Type2_SilkScreenTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Gauge, Massstab, 100mm, SilkScreenTop, Type 2,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Gauge Massstab 100mm SilkScreenTop Type 2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_SilkScreenTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

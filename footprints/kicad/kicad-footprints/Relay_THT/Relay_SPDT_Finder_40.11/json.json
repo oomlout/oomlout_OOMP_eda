@@ -1,0 +1,61 @@
+{
+    "index": 10922,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10922
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPDT_Finder_40.11"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPDT_Finder_40.11"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay SPDT Finder 40.11, https://www.finder-relais.net/de/finder-relais-serie-40.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay SPDT Finder 40.11"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_40.11.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_40.11"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

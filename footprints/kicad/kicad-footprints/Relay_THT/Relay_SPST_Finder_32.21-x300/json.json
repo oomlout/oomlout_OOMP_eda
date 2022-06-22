@@ -1,0 +1,61 @@
+{
+    "index": 10945,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10945
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPST_Finder_32.21-x300"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPST_Finder_32.21-x300"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Finder 32.21-x300 Relay, SPST, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Finder 32.21-x300 Relay SPST"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Finder_32.21-x300.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Finder_32.21-x300"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

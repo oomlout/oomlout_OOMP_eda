@@ -1,0 +1,61 @@
+{
+    "index": 11152,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11152
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Converter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RF_Attenuator_Susumu_PAT1220"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Converter/RF_Attenuator_Susumu_PAT1220"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "2mm 1.2mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/RF_Attenuator_Susumu_PAT1220.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

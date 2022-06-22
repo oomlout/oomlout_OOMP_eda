@@ -1,0 +1,61 @@
+{
+    "index": 13,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_107_1x23mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_107_1x23mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.keyelco.com/product-pdf.cfm?p=746"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Keystone type 107 battery holder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_107_1x23mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_107_1x23mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

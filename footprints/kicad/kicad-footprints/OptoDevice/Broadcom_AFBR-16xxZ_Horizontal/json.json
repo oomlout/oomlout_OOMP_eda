@@ -1,0 +1,61 @@
+{
+    "index": 8637,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8637
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Broadcom_AFBR-16xxZ_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Broadcom_AFBR-16xxZ_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fiber Optic Transmitter and Receiver, https://docs.broadcom.com/docs/AV02-4369EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Fiber Optic Transmitter and Receiver"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8784,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8784
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-152_14x18mm_Layout13x17_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-152_14x18mm_Layout13x17_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-152_14x18mm_Layout13x17_P0.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VBGA-152"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-152_14x18mm_Layout13x17_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-152_14x18mm_Layout13x17_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

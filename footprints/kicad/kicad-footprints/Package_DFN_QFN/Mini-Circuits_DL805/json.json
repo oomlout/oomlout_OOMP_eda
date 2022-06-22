@@ -1,0 +1,61 @@
+{
+    "index": 9127,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9127
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_DL805"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Mini-Circuits_DL805"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://ww2.minicircuits.com/case_style/DL805.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RF Switch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_DL805.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_DL805"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

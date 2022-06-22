@@ -1,0 +1,61 @@
+{
+    "index": 323,
+    "tags": [
+        {
+            "name": "index",
+            "value": 323
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Buzzer_Mallory_AST1240MLQ"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/Buzzer_Mallory_AST1240MLQ"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "piezo buzzer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Mallory_AST1240MLQ.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Mallory_AST1240MLQ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

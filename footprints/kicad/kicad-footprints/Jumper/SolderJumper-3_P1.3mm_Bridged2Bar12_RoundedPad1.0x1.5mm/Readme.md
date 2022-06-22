@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8172
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,7 +22,3 @@ Contents
 - kicadDesc: SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
 - kicadTags: net tie solder jumper bridged
 - kicadAttr: exclude_from_pos_files exclude_from_bom
-
-
-
-[im]: image.png

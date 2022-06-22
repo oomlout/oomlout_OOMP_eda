@@ -1,0 +1,61 @@
+{
+    "index": 11147,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11147
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Converter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Anaren_0805_2012Metric-6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Converter/Anaren_0805_2012Metric-6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "coupler rf"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Anaren_0805_2012Metric-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Converter-Anaren_0805_2012Metric-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

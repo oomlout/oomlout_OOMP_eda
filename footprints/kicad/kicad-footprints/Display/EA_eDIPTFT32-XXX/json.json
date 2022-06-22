@@ -1,0 +1,61 @@
+{
+    "index": 7369,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7369
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA_eDIPTFT32-XXX"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/EA_eDIPTFT32-XXX"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TFT-graphic display 320x240 16 bit colour with led backlight"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIPTFT32-XXX.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT32-XXX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 588,
+    "tags": [
+        {
+            "name": "index",
+            "value": 588
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CP, Radial series, Radial, pin pitch=10.00mm, diameter=22mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

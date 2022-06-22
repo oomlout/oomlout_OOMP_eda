@@ -1,0 +1,61 @@
+{
+    "index": 184,
+    "tags": [
+        {
+            "name": "index",
+            "value": 184
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_SPST_B3SL-1002P"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_SPST_B3SL-1002P"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Middle Stroke Tactile Switch, B3SL"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Middle Stroke Tactile Switch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3SL-1002P.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1002P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

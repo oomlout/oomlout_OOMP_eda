@@ -1,0 +1,61 @@
+{
+    "index": 7640,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7640
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Bourns_SRR1210A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Bourns_SRR1210A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Bourns SRR1210A series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Bourns SRR1210A SMD inductor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRR1210A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1210A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

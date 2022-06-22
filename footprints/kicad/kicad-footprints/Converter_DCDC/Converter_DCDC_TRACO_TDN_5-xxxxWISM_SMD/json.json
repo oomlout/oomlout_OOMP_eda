@@ -1,0 +1,61 @@
+{
+    "index": 6968,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6968
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Traco TDN 5WISM Series, 5W, SMD (https://assets.tracopower.com/20200225170127/TDN5WISM/documents/tdn5wism-datasheet.pdf#page=3)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "dcdc traco 5w smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

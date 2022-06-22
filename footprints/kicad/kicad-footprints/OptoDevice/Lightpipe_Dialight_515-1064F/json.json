@@ -1,0 +1,61 @@
+{
+    "index": 8664,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8664
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Lightpipe_Dialight_515-1064F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Lightpipe_Dialight_515-1064F"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources"
+        },
+        {
+            "name": "kicadTags",
+            "value": "lightpipe triple tower right angle 3mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Dialight_515-1064F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Dialight_515-1064F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

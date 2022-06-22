@@ -1,0 +1,61 @@
+{
+    "index": 66,
+    "tags": [
+        {
+            "name": "index",
+            "value": 66
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_Keyboard"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Matias_1.00u"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_Keyboard/SW_Matias_1.00u"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Matias/ALPS keyswitch, 1.00u, http://matias.ca/switches/"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Matias ALPS keyswitch 1.00u"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Matias_1.00u.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_1.00u"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8641,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8641
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Broadcom_DFN-6_2x2mm_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Broadcom_DFN-6_2x2mm_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Broadcom  DFN, 6 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Broadcom DFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_DFN-6_2x2mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

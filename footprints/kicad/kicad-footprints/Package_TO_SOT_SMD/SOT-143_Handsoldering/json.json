@@ -1,0 +1,61 @@
+{
+    "index": 10412,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10412
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT-143_Handsoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/SOT-143_Handsoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SOT-143 Handsoldering https://www.nxp.com/docs/en/package-information/SOT143B.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOT-143 Handsoldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143_Handsoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

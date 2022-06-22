@@ -1,0 +1,61 @@
+{
+    "index": 1017,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1017
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj9fi-v-0"
+        },
+        {
+            "name": "kicadTags",
+            "value": "neutrik jack combo i"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 36,
+    "tags": [
+        {
+            "name": "index",
+            "value": 36
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Battery_CR1225"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/Battery_CR1225"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CR1225 battery"
+        },
+        {
+            "name": "kicadTags",
+            "value": "battery CR1225 coin cell"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_CR1225.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

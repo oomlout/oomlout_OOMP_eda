@@ -1,0 +1,61 @@
+{
+    "index": 10109,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10109
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC-16W-12_7.5x10.3mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SOIC-16W-12_7.5x10.3mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SOIC-16 With 12 Pin Placed - Wide, 7.50 mm Body [SOIC] (https://docs.broadcom.com/docs/AV02-0169EN)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOIC 1.27 16 12 Wide"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16W-12_7.5x10.3mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W-12_7.5x10.3mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

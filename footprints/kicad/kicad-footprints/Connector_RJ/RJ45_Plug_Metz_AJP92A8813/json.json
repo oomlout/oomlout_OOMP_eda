@@ -1,0 +1,61 @@
+{
+    "index": 6007,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6007
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Plug_Metz_AJP92A8813"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Plug_Metz_AJP92A8813"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "plug, ethernet, 8P8C, RJ45 Plug"
+        },
+        {
+            "name": "kicadTags",
+            "value": "AJP92A8813 8P8C RJ45 ethernet plug"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Plug_Metz_AJP92A8813.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Plug_Metz_AJP92A8813"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

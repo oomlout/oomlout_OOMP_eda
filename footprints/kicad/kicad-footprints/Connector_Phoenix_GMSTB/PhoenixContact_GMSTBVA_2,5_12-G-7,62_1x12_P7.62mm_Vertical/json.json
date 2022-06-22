@@ -1,0 +1,61 @@
+{
+    "index": 3418,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3418
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_GMSTB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_GMSTBVA_2,5_12-G-7,62_1x12_P7.62mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBVA_2,5_12-G-7,62_1x12_P7.62mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: GMSTBVA_2,5/12-G-7,62; number of pins: 12; pin pitch: 7.62mm; Vertical || order number: 1766877 12A 630V"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector GMSTBVA_01x12_G_7.62mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBVA_2,5_12-G-7,62_1x12_P7.62mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBVA_2,5_12-G-7,62_1x12_P7.62mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

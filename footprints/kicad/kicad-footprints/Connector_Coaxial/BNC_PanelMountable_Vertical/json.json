@@ -1,0 +1,61 @@
+{
+    "index": 1158,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1158
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BNC_PanelMountable_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/BNC_PanelMountable_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Panel-mountable BNC connector mounted through PCB, vertical"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BNC connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_PanelMountable_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

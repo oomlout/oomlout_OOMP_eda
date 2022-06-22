@@ -1,0 +1,61 @@
+{
+    "index": 9943,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9943
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-44_10x10mm_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/TQFP-44_10x10mm_P0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFP 0.8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-44_10x10mm_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44_10x10mm_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

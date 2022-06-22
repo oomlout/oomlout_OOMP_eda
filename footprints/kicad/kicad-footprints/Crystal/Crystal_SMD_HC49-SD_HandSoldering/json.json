@@ -1,0 +1,61 @@
+{
+    "index": 7108,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7108
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_HC49-SD_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_HC49-SD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

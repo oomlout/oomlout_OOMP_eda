@@ -1,0 +1,61 @@
+{
+    "index": 12035,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12035
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Bridge_Pitch2.54mm_Drill0.7mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Bridge_Pitch2.54mm_Drill0.7mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "test point wire loop"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch2.54mm_Drill0.7mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Bridge_Pitch2.54mm_Drill0.7mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

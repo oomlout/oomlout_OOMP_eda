@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7982
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: Inductor Axial series Axial Horizontal pin pitch 35mm  length 26.67mm diameter 13.97mm Vishay IHA-104
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L26.7mm_D14.0mm_P35.00mm_Horizontal_Vishay_IHA-104.wrl
-
-
-
-[im]: image.png

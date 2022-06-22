@@ -1,0 +1,61 @@
+{
+    "index": 8799,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8799
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-48_8.0x9.0mm_Layout6x8_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-48 - pitch 0.8 mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-48"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-48_8.0x9.0mm_Layout6x8_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

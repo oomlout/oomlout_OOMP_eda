@@ -1,0 +1,61 @@
+{
+    "index": 75,
+    "tags": [
+        {
+            "name": "index",
+            "value": 75
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Nidec_Copal_SH-7010A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/Nidec_Copal_SH-7010A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "rotary switch bcd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_SH-7010A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Nidec_Copal_SH-7010A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10204,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10204
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP-5_1.65x3.05mm_P0.95mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/TSOP-5_1.65x3.05mm_P0.95mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TSOP-5 package (comparable to TSOT-23), https://www.vishay.com/docs/71200/71200.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Jedec MO-193C TSOP-5L"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-5_1.65x3.05mm_P0.95mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-5_1.65x3.05mm_P0.95mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

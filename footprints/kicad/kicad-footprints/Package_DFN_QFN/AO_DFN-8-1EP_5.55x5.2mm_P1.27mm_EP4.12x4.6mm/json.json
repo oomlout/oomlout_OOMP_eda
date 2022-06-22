@@ -1,0 +1,61 @@
+{
+    "index": 9023,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9023
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DD Package; 8-Lead Plastic DFN (5.55mm x 5.2mm), Pin 5-8 connected to EP (http://www.aosmd.com/res/packaging_information/DFN5x6_8L_EP1_P.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "dfn"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

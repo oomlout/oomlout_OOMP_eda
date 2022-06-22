@@ -1,0 +1,61 @@
+{
+    "index": 1268,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1268
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Dsub"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSUB-15_Female_EdgeMount_P2.77mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Dsub/DSUB-15_Female_EdgeMount_P2.77mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "15-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "15-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 33.3mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15_Female_EdgeMount_P2.77mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_EdgeMount_P2.77mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

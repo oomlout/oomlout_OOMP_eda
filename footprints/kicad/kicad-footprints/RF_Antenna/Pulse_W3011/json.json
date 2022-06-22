@@ -1,0 +1,61 @@
+{
+    "index": 11143,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11143
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Antenna"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Pulse_W3011"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Antenna/Pulse_W3011"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Pulse RF Antenna, 4mm Clearance"
+        },
+        {
+            "name": "kicadTags",
+            "value": "antenna rf"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Pulse_W3011.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Pulse_W3011"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11176,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11176
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_CD542_LandPatternPL-094"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_LandPatternPL-094"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for mini circuit case CD542, Land pattern PL-094, pads 5 and 2 connected via insulated copper area below body, vias included (case drawing: https://ww2.minicircuits.com/case_style/CD542.pdf, land pattern drawing: https://ww2.minicircuits.com/pcb/98-pl094.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mini-circuits CD542 pl-094"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD542.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_LandPatternPL-094"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

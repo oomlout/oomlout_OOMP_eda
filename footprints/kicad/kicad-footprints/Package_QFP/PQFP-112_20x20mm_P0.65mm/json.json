@@ -1,0 +1,61 @@
+{
+    "index": 9921,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9921
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP-112_20x20mm_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/PQFP-112_20x20mm_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PQFP, 112 pins, 20mm sq body, 0.65mm pitch (http://cache.freescale.com/files/shared/doc/package_info/98ASS23330W.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PQFP 112"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-112_20x20mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-112_20x20mm_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

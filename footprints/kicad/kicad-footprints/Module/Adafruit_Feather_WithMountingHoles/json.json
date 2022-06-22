@@ -1,0 +1,61 @@
+{
+    "index": 8251,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8251
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Adafruit_Feather_WithMountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Adafruit_Feather_WithMountingHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Adafruit Feather"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WithMountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

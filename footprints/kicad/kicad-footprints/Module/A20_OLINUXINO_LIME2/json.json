@@ -1,0 +1,61 @@
+{
+    "index": 8239,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8239
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A20_OLINUXINO_LIME2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/A20_OLINUXINO_LIME2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet"
+        },
+        {
+            "name": "kicadTags",
+            "value": "A20 Olimex Olinuxino LIME2 development board"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/A20_OLINUXINO_LIME2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-A20_OLINUXINO_LIME2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

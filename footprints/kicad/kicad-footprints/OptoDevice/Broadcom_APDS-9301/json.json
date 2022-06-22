@@ -1,0 +1,61 @@
+{
+    "index": 8640,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8640
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Broadcom_APDS-9301"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Broadcom_APDS-9301"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ambient light sensor, i2c interface, 6-pin chipled package, https://docs.broadcom.com/docs/AV02-2315EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ambient light sensor chipled"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_APDS-9301.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_APDS-9301"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

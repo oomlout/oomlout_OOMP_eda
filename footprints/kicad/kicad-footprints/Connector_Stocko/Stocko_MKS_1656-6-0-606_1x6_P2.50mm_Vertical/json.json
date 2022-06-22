@@ -1,0 +1,61 @@
+{
+    "index": 6470,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6470
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Stocko"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Stocko/Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Stocko RFK MKS 16xx"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Stocko.3dshapes/Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1656-6-0-606_1x6_P2.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

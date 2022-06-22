@@ -1,0 +1,61 @@
+{
+    "index": 1173,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1173
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA_Amphenol_132289_EdgeMount"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132289_EdgeMount"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.amphenolrf.com/132289.html"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132289_EdgeMount"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

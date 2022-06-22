@@ -1,0 +1,61 @@
+{
+    "index": 8645,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8645
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Everlight_ITR8307F43"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Everlight_ITR8307F43"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Everlight ITR8307/F43, see https://everlighteurope.com/index.php?controller=attachment&id_attachment=5385"
+        },
+        {
+            "name": "kicadTags",
+            "value": "refective opto couple photo coupler"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307F43.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307F43"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

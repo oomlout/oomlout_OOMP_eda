@@ -1,0 +1,61 @@
+{
+    "index": 12193,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12193
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Valve"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Valve_Glimm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Valve/Valve_Glimm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Valve Glimm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Valve Glimm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Glimm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Glimm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

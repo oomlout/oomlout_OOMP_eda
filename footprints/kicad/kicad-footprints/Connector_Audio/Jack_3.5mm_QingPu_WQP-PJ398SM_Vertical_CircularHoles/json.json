@@ -1,0 +1,61 @@
+{
+    "index": 941,
+    "tags": [
+        {
+            "name": "index",
+            "value": 941
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

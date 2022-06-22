@@ -1,0 +1,61 @@
+{
+    "index": 9003,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9003
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_WLCSP-81_Die463"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/ST_WLCSP-81_Die463"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-81, 9x9 raster, 4.039x3.951mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/DM00282249.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 81 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-81_Die463.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die463"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

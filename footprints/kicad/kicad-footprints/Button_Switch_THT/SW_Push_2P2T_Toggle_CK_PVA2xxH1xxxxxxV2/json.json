@@ -1,0 +1,61 @@
+{
+    "index": 293,
+    "tags": [
+        {
+            "name": "index",
+            "value": 293
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "momentary / push-push button, h=17.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tact sw push PVA2 DPDT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

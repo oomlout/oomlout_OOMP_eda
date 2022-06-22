@@ -1,0 +1,61 @@
+{
+    "index": 7394,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7394
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "7SEGMENT-LED__HDSM531_HDSM533_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/7SEGMENT-LED__HDSM531_HDSM533_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "7segment LED HDSM531 HDSM533"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/7SEGMENT-LED__HDSM531_HDSM533_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

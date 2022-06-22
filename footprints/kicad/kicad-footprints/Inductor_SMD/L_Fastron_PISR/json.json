@@ -1,0 +1,61 @@
+{
+    "index": 7657,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7657
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Fastron_PISR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Fastron_PISR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Choke, Drossel, PISR, Fastron, SMD,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Choke Drossel PISR Fastron SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Fastron_PISR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 434,
+    "tags": [
+        {
+            "name": "index",
+            "value": 434
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_3640_9110Metric_Pad2.10x10.45mm_HandSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor handsolder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_3640_9110Metric.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_3640_9110Metric_Pad2.10x10.45mm_HandSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

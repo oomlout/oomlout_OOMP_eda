@@ -1,0 +1,61 @@
+{
+    "index": 920,
+    "tags": [
+        {
+            "name": "index",
+            "value": 920
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_AMASS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RC Connector XT30"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30U-M_1x02_P5.0mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

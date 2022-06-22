@@ -1,0 +1,61 @@
+{
+    "index": 318,
+    "tags": [
+        {
+            "name": "index",
+            "value": 318
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Buzzer_12x9.5RM7.6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/Buzzer_12x9.5RM7.6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Buzzer, D12mm height 9.5mm with RM7.6mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "buzzer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

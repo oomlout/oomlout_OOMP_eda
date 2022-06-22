@@ -1,0 +1,61 @@
+{
+    "index": 6542,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6542
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_A_Wuerth_61400826021_Horizontal_Stacked"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_A_Wuerth_61400826021_Horizontal_Stacked"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Wuerth stacked USB_A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

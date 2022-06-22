@@ -1,0 +1,61 @@
+{
+    "index": 7834,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7834
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Axial_L12.0mm_D5.0mm_P7.62mm_Vertical_Fastron_MISC"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Axial_L12.0mm_D5.0mm_P7.62mm_Vertical_Fastron_MISC"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=12*5mm^2, Fastron, MISC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MISC.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 12mm diameter 5mm Fastron MISC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P7.62mm_Vertical_Fastron_MISC.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L12.0mm_D5.0mm_P7.62mm_Vertical_Fastron_MISC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7360,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7360
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA-eDIP128B-XXX"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/EA-eDIP128B-XXX"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA-eDIP128B-XXX.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-EA-eDIP128B-XXX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

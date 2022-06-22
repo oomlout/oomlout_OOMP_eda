@@ -1,0 +1,61 @@
+{
+    "index": 9428,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9428
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MultiRow QFN"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N100_EP5.5x5.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

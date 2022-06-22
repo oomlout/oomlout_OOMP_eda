@@ -1,0 +1,61 @@
+{
+    "index": 9968,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9968
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP3_11.6x8.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/SIP3_11.6x8.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIP3 Regulator Module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP3_11.6x8.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8139,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8139
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_PLCC-2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_PLCC-2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED PLCC-2 SMD package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED PLCC-2 SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9020,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9020
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-8_1.551x2.284mm_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-8_1.551x2.284mm_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-8, 2.284x1.551mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CSP 8 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-8_1.551x2.284mm_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-8_1.551x2.284mm_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

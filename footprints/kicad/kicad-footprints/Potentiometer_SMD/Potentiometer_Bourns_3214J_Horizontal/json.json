@@ -1,0 +1,61 @@
+{
+    "index": 10747,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10747
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Bourns_3214J_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_SMD/Potentiometer_Bourns_3214J_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, horizontal, Bourns 3214J, https://www.bourns.com/docs/Product-Datasheets/3214.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer horizontal Bourns 3214J"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3214J_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3214J_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

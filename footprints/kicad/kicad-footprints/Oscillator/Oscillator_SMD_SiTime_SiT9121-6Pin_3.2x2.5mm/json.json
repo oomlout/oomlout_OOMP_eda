@@ -1,0 +1,61 @@
+{
+    "index": 8769,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8769
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3.2x2.5mm, 1-220MHz High Performance Differential Oscillator SiTime SiT9121 https://www.sitime.com/datasheet/SiT9121"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal oscillator"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

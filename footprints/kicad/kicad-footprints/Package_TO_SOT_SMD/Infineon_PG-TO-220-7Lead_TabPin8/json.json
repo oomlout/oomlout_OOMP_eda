@@ -1,0 +1,61 @@
+{
+    "index": 10389,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10389
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-TO-220-7Lead_TabPin8"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/Infineon_PG-TO-220-7Lead_TabPin8"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon PG-TO-220-7, Tab as Pin 8, see e.g. https://www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Infineon PG-TO-220-7"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TO-220-7Lead_TabPin8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-TO-220-7Lead_TabPin8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

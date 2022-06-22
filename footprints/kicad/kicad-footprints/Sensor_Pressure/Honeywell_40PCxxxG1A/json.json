@@ -1,0 +1,61 @@
+{
+    "index": 11344,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11344
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Pressure"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Honeywell_40PCxxxG1A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Pressure/Honeywell_40PCxxxG1A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.honeywellscportal.com/index.php?ci_id=138832"
+        },
+        {
+            "name": "kicadTags",
+            "value": "pressure sensor automotive honeywell"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Honeywell_40PCxxxG1A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Honeywell_40PCxxxG1A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

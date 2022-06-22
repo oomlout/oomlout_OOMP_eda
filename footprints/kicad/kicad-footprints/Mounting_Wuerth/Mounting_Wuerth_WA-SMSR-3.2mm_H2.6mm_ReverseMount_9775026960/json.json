@@ -1,0 +1,61 @@
+{
+    "index": 8517,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8517
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Mounting_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hardware, inside through hole 3.2mm, height 2.6, Wuerth electronics 9775026960 (https://katalog.we-online.com/em/datasheet/9775026960R.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mounting 3.2mm 9775026960"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

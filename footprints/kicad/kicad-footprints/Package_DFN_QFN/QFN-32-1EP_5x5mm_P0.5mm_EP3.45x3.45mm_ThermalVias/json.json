@@ -1,0 +1,61 @@
+{
+    "index": 9246,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9246
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 32 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_32_05-08-1693.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

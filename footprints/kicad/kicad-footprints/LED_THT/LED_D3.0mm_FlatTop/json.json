@@ -1,0 +1,61 @@
+{
+    "index": 8176,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8176
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_D3.0mm_FlatTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_THT/LED_D3.0mm_FlatTop"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED Round FlatTop diameter 3.0mm 2 pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_FlatTop.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_FlatTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

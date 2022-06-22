@@ -1,0 +1,61 @@
+{
+    "index": 8808,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8808
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-96"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

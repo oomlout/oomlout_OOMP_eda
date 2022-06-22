@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8134
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: L_Toroid Vertical series Radial pin pitch 7.10mm  length 16.8mm width 9.2mm Vishay TJ3
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3.wrl
-
-
-
-[im]: image.png

@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7955
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 17.5mm diameter 12mm Vishay IM-10-46
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46.wrl
-
-
-
-[im]: image.png

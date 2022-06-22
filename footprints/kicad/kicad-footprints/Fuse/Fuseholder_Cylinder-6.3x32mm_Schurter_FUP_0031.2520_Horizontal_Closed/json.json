@@ -1,0 +1,61 @@
+{
+    "index": 7488,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7488
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuseholder_Cylinder-6.3x32mm_Schurter_FUP_0031.2520_Horizontal_Closed"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuseholder_Cylinder-6.3x32mm_Schurter_FUP_0031.2520_Horizontal_Closed"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Shock-Safe closed Fuseholder, Schurter FUP Series, 6.3 x 32 mm, Slotted Cap, horizontal, 500 VAC 4W/16A (VDE), 600V 30A (UL/CSA), order numbers: 0031.2520 (0031.2500 + 0031.2321), http://www.schurter.ch/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FUP.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Fuseholder 6.3x32mm horizontal closed"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_FUP_0031.2520_Horizontal_Closed"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

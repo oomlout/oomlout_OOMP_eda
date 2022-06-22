@@ -1,0 +1,61 @@
+{
+    "index": 8243,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8243
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Adafruit_Feather_32u4_RFM"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Adafruit_Feather_32u4_RFM"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for the Adafruit Feather 32u4 RFM series of boards, https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Adafruit Feather 32u4 RFM"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_32u4_RFM.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_RFM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

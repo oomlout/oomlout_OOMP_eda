@@ -1,0 +1,61 @@
+{
+    "index": 8264,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8264
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Onion_Omega2S"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Onion_Omega2S"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "onion omega module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2S.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

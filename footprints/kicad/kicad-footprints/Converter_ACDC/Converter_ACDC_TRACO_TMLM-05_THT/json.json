@@ -1,0 +1,61 @@
+{
+    "index": 6930,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6930
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_TRACO_TMLM-05_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_TRACO_TMLM-05_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ACDC-Converter, TRACO TMLM 05,https://www.tracopower.com/products/tmlm.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ACDC-Converter TRACO TMLM 05"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-05_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMLM-05_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

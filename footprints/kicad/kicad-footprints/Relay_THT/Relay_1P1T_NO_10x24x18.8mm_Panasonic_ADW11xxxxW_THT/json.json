@@ -1,0 +1,61 @@
+{
+    "index": 10896,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10896
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Panasonic Relay SPST 10mm 24mm, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Panasonic Relay SPST"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

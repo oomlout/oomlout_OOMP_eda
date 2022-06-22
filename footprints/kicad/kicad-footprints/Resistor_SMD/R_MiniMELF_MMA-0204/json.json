@@ -1,0 +1,61 @@
+{
+    "index": 11022,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11022
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_MiniMELF_MMA-0204"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_SMD/R_MiniMELF_MMA-0204"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MiniMELF Resistor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MiniMELF_MMA-0204.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

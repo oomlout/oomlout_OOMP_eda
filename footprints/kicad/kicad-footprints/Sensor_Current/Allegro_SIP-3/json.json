@@ -1,0 +1,61 @@
+{
+    "index": 11310,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11310
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Allegro_SIP-3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/Allegro_SIP-3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Allegro Microsystems SIP-3, 1.27mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/A1369-Datasheet.ashx)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Allegro SIP-3"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_SIP-3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

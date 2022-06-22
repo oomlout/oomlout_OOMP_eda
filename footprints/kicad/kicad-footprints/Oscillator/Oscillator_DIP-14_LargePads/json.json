@@ -1,0 +1,61 @@
+{
+    "index": 8712,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8712
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_DIP-14_LargePads"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_DIP-14_LargePads"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Oscillator, DIP14, Large Pads, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "oscillator"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-14.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-14_LargePads"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

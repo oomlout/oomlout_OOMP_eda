@@ -1,0 +1,57 @@
+{
+    "index": 12070,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12070
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Pad_D2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Pad_D2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD pad as test Point, diameter 2.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "test point SMD pad"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

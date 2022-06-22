@@ -1,0 +1,61 @@
+{
+    "index": 7248,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7248
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_15.1x15.1x6.3mm_P10.9mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/Diode_Bridge_15.1x15.1x6.3mm_P10.9mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Single phase bridge rectifier case 15.1x15.1mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode Bridge PB10xxS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_15.1x15.1x6.3mm_P10.9mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.1x15.1x6.3mm_P10.9mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

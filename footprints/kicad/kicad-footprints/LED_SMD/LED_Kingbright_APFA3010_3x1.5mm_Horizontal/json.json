@@ -1,0 +1,61 @@
+{
+    "index": 8128,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8128
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Kingbright_APFA3010_3x1.5mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Kingbright_APFA3010_3x1.5mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED RGB APFA3010 KINGBRIGHT 3x1.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APFA3010_3x1.5mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

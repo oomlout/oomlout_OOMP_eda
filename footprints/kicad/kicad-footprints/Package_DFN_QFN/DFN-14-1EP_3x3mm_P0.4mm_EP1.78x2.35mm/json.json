@@ -1,0 +1,61 @@
+{
+    "index": 9042,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9042
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DD Package; 14-Lead Plastic DFN (3mm x 3mm) (http://pdfserv.maximintegrated.com/land_patterns/90-0063.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.40"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

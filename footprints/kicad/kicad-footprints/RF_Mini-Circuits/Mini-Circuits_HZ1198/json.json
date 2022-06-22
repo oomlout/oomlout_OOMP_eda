@@ -1,0 +1,61 @@
+{
+    "index": 11190,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11190
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_HZ1198"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HZ1198"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits HZ1198"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HZ1198.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10076,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10076
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_eSOP-12B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/PowerIntegrations_eSOP-12B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "eSOP-12B SMT Flat Package with Heatsink Tab, see https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Power Integrations K Package"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

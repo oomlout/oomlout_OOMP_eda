@@ -1,0 +1,61 @@
+{
+    "index": 11339,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11339
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Motion"
+        },
+        {
+            "name": "oompIndex",
+            "value": "InvenSense_QFN-24_3x3mm_P0.4mm_NoMask"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm_NoMask"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; Mask removed below exposed pad; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24_3x3mm_P0.4mm_EP1.7x1.54mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm_NoMask"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

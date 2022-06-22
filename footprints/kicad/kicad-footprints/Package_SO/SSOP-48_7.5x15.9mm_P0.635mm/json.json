@@ -1,0 +1,61 @@
+{
+    "index": 10181,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10181
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP-48_7.5x15.9mm_P0.635mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSOP-48_7.5x15.9mm_P0.635mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SSOP48: plastic shrink small outline package; 48 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot370-1_po.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 0.635"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-48_7.5x15.9mm_P0.635mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_7.5x15.9mm_P0.635mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

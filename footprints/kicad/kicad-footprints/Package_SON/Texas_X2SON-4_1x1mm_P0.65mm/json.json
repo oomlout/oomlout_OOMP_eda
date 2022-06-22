@@ -1,0 +1,61 @@
+{
+    "index": 10333,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10333
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_X2SON-4_1x1mm_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/Texas_X2SON-4_1x1mm_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]"
+        },
+        {
+            "name": "kicadTags",
+            "value": "X2SON"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_X2SON-4_1x1mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_X2SON-4_1x1mm_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8562,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8562
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Mounting_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hardware, inside through hole 2.25mm, height 8, Wuerth electronics 9774080943 (https://katalog.we-online.de/em/datasheet/9774080943.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mounting 2.25mm 9774080943"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.25mm_H8mm_9774080943"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

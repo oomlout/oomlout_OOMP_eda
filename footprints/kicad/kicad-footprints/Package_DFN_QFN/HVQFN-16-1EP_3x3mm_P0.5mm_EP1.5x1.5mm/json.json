@@ -1,0 +1,61 @@
+{
+    "index": 9099,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9099
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HVQFN, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT758-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HVQFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11303,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11303
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "AKM CZ-381x current sensor, 6.5x8.1mm body, 0.95mm pitch (http://www.akm.com/akm/en/product/detail/0009/)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "akm cz-381x 10"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8958,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8958
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP-WD NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

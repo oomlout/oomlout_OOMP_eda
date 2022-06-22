@@ -1,0 +1,61 @@
+{
+    "index": 11025,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11025
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Shunt_Ohmite_LVK24"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_SMD/R_Shunt_Ohmite_LVK24"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "4 contacts resistor smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK24.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

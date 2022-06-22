@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8004
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: L_CommonMode_Toroid Vertical series Radial pin pitch 5.08*12.70mm^2  length 21mm width 10mm muRATA 5100
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100.wrl
-
-
-
-[im]: image.png

@@ -1,0 +1,61 @@
+{
+    "index": 10937,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10937
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPDT_SANYOU_SRD_Series_Form_C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPDT_SANYOU_SRD_Series_Form_C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "relay Sanyu SRD form C"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_SANYOU_SRD_Series_Form_C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_SANYOU_SRD_Series_Form_C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

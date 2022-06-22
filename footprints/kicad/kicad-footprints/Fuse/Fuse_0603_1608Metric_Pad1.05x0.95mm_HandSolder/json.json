@@ -1,0 +1,61 @@
+{
+    "index": 7502,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7502
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "fuse handsolder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_0603_1608Metric.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

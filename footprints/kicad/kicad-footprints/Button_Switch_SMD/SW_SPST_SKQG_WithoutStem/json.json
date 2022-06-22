@@ -1,0 +1,61 @@
+{
+    "index": 216,
+    "tags": [
+        {
+            "name": "index",
+            "value": 216
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_SPST_SKQG_WithoutStem"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_SPST_SKQG_WithoutStem"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SPST Button Switch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_SKQG_WithoutStem.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_SKQG_WithoutStem"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

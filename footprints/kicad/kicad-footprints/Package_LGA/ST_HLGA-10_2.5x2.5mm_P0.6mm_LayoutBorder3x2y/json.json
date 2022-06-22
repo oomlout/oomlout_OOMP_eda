@@ -1,0 +1,61 @@
+{
+    "index": 9871,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9871
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ST HLGA NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11738,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11738
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_Phoenix"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_Phoenix_PT-1,5-7-5.0-H_1x07_P5.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PT-1,5-7-5.0-H_1x07_P5.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Terminal Block Phoenix PT-1,5-7-5.0-H, 7 pins, pitch 5mm, size 35x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT Terminal Block Phoenix PT-1,5-7-5.0-H pitch 5mm size 35x9mm^2 drill 1.3mm pad 2.6mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-7-5.0-H_1x07_P5.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PT-1,5-7-5.0-H_1x07_P5.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

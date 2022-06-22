@@ -1,0 +1,57 @@
+{
+    "index": 11464,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11464
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_Barrel_Polarity"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_Barrel_Polarity"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Barrel connector polarity indicator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "barrel polarity"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Barrel_Polarity"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

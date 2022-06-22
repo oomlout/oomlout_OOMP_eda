@@ -1,0 +1,61 @@
+{
+    "index": 6531,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6531
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_TE-Connectivity"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F350211%7FU5%7Fpdf%7FEnglish%7FENG_CD_350211_U5.pdf%7F350211-1"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

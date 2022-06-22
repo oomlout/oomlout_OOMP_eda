@@ -1,0 +1,61 @@
+{
+    "index": 6975,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6975
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_TRACO_TEN20-xxxx_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TEN20-xxxx_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DCDC-Converter TRACO TEN20 Generic, https://assets.tracopower.com/20171102100522/TEN20/documents/ten20-datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DCDC-Converter TRACO TEN20 Generic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEN20-xxxx_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN20-xxxx_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7498,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7498
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuseholder_TR5_Littelfuse_No560_No460"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuseholder_TR5_Littelfuse_No560_No460"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fuse, Fuseholder, TR5, Littelfuse/Wickmann, No. 460, No560, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_holders/littelfuse_fuse_holder_559_560_datasheet.pdf.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_TR5_Littelfuse_No560_No460.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_TR5_Littelfuse_No560_No460"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

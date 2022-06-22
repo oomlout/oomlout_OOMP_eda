@@ -1,0 +1,61 @@
+{
+    "index": 7406,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7406
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D1X8K"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/D1X8K"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Single digit 7 segment ultra bright red"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/D1X8K.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

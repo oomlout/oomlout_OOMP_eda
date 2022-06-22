@@ -1,0 +1,61 @@
+{
+    "index": 976,
+    "tags": [
+        {
+            "name": "index",
+            "value": 976
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Stacking Jacks, Stereo dual jack, full threaded nose, https://www.neutrik.com/en/product/nsj12hf-1"
+        },
+        {
+            "name": "kicadTags",
+            "value": "neutrik jack stacking"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

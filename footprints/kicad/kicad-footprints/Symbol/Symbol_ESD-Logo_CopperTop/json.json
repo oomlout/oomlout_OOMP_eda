@@ -1,0 +1,57 @@
+{
+    "index": 11483,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11483
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_ESD-Logo_CopperTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_ESD-Logo_CopperTop"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo_CopperTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

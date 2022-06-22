@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8148
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: L_Toroid Vertical series Radial pin pitch 11.43mm  length 28.6mm width 14.3mm Bourns 5700
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl
-
-
-
-[im]: image.png

@@ -1,0 +1,61 @@
+{
+    "index": 6997,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6997
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_AT310_D3.0mm_L10.0mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_AT310_D3.0mm_L10.0mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "['AT310']"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_AT310_D3.0mm_L10.0mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

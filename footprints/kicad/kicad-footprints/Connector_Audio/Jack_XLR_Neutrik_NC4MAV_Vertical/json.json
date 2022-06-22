@@ -1,0 +1,61 @@
+{
+    "index": 1110,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1110
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_XLR_Neutrik_NC4MAV_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC4MAV_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mav"
+        },
+        {
+            "name": "kicadTags",
+            "value": "neutrik xlr a"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC4MAV_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC4MAV_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

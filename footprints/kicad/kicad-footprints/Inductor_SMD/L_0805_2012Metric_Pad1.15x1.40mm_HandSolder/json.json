@@ -1,0 +1,61 @@
+{
+    "index": 7596,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7596
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "inductor handsolder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

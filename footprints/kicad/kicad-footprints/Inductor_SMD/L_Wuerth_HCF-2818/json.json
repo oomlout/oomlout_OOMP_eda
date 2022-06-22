@@ -1,0 +1,61 @@
+{
+    "index": 7761,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7761
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Wuerth_HCF-2818"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Wuerth_HCF-2818"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "7443640330, http://katalog.we-online.de/pbs/datasheet/7443640330.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "inductor shielded wuerth hcf"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCF-2818.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

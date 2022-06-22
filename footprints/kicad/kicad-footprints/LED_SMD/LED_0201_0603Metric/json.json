@@ -1,0 +1,61 @@
+{
+    "index": 8086,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8086
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_0201_0603Metric"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_0201_0603Metric"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0201_0603Metric.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0201_0603Metric"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

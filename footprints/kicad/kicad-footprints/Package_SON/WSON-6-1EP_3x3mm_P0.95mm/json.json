@@ -1,0 +1,61 @@
+{
+    "index": 10355,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10355
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-6-1EP_3x3mm_P0.95mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-6-1EP_3x3mm_P0.95mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON6 3*3 MM, 0.95 PITCH; http://www.ti.com/lit/ds/symlink/lmr62421.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON6 0.95"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6-1EP_3x3mm_P0.95mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_3x3mm_P0.95mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

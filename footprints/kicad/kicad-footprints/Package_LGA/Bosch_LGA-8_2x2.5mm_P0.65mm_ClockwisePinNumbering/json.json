@@ -1,0 +1,61 @@
+{
+    "index": 9855,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9855
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LGA-8, https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-18.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "lga land grid array"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

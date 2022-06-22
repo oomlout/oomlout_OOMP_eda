@@ -1,0 +1,61 @@
+{
+    "index": 6928,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6928
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_TRACO_TMG-15_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_TRACO_TMG-15_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ACDC-Converter, TRACO, TMG Series 15 https://www.tracopower.com/products/tmg.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ACDC-Converter TRACO TMG Series 15"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMG-15_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMG-15_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

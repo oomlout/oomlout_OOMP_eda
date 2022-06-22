@@ -1,0 +1,61 @@
+{
+    "index": 9936,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9936
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-120_14x14mm_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/TQFP-120_14x14mm_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TQFP120 14x14 / TQFP120 CASE 932AZ (see ON Semiconductor 932AZ.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFP 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-120_14x14mm_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-120_14x14mm_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

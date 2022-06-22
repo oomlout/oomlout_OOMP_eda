@@ -1,0 +1,61 @@
+{
+    "index": 12187,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12187
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transistor_Power_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_ACEPACK-2-CIB"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transistor_Power_Module/ST_ACEPACK-2-CIB"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "35-lead TH, ACEPACK 2 CIB, same as Infineon_EasyPIM-2B, https://www.st.com/resource/en/datasheet/a2c25s12m3.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "brifge rectifier igbt diode module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transistor_Power_Module.3dshapes/ST_ACEPACK-2-CIB.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_ACEPACK-2-CIB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

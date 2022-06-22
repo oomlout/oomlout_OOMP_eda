@@ -1,0 +1,61 @@
+{
+    "index": 6014,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6014
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Wuerth_7499010121A_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Wuerth_7499010121A_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal with green/orange LEDs https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RJ45 ethernet magnetic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Wuerth_7499010121A_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499010121A_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

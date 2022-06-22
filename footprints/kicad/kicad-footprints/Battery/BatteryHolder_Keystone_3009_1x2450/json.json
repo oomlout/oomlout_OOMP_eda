@@ -1,0 +1,61 @@
+{
+    "index": 25,
+    "tags": [
+        {
+            "name": "index",
+            "value": 25
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_3009_1x2450"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_3009_1x2450"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.keyelco.com/product-pdf.cfm?p=787"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Keystone type 3009 coin cell retainer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3009_1x2450.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3009_1x2450"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

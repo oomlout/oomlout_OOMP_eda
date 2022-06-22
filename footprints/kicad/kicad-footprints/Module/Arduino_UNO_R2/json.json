@@ -1,0 +1,61 @@
+{
+    "index": 8256,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8256
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Arduino_UNO_R2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Arduino_UNO_R2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Arduino UNO R2, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Arduino UNO R2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_UNO_R2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7775,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7775
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Wuerth_HCM-1052"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Wuerth_HCM-1052"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Wuerth Elektronik, Wuerth_HCM-1052, 10.5mmx10.3mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "inductor Wuerth hcm smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCM-1052.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCM-1052"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

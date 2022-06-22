@@ -1,0 +1,57 @@
+{
+    "index": 11491,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11491
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_Highvoltage_Type2_CopperTop_Small"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_Highvoltage_Type2_CopperTop_Small"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Symbol, Highvoltage, Type 2, Copper Top, Small,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Symbol, Highvoltage, Type 2, Copper Top, Small,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type2_CopperTop_Small"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

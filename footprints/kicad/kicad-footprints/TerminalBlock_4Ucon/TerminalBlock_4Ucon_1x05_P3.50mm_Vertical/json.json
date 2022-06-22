@@ -1,0 +1,61 @@
+{
+    "index": 11521,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11521
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_4Ucon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_4Ucon_1x05_P3.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Terminal Block 4Ucon ItemNo. 10696, vertical (cable from top), 5 pins, pitch 3.5mm, size 18.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10696.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT Terminal Block 4Ucon ItemNo. 10696 vertical pitch 3.5mm size 18.5x8.3mm^2 drill 1.3mm pad 2.6mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x05_P3.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

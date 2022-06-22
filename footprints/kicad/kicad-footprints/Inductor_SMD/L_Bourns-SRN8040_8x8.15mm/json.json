@@ -1,0 +1,61 @@
+{
+    "index": 7625,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7625
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Bourns-SRN8040_8x8.15mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Bourns-SRN8040_8x8.15mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Bourns SRN8040 SMD inductor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN8040_8x8.15mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN8040_8x8.15mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

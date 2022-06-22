@@ -1,0 +1,61 @@
+{
+    "index": 9376,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9376
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas instruments QFN"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 937,
+    "tags": [
+        {
+            "name": "index",
+            "value": 937
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_3.5mm_PJ31060-I_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_3.5mm_PJ31060-I_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "headphones jack plug stereo 3.5mm PJ31060-I PJ31060"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_PJ31060-I_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ31060-I_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

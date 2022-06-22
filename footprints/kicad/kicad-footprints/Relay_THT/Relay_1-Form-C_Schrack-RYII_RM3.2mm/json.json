@@ -1,0 +1,61 @@
+{
+    "index": 10895,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10895
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_1-Form-C_Schrack-RYII_RM3.2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_1-Form-C_Schrack-RYII_RM3.2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay, 1-Form-C, Schrack-RYII, RM3.2mm, SPDT"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay 1-Form-C Schrack-RYII RM3.2mm SPDT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_1-Form-C_Schrack-RYII_RM3.2mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-C_Schrack-RYII_RM3.2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

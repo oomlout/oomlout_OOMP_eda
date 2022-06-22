@@ -1,0 +1,53 @@
+{
+    "index": 8618,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8618
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Obsolete\\Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_classic_big_CopperBottom_Type1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Obsolete\\Fiducial/Fiducial_classic_big_CopperBottom_Type1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fiducial, Classic, Big, Copper Bottom, Type 1"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_classic_big_CopperBottom_Type1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

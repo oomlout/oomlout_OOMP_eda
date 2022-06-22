@@ -1,0 +1,61 @@
+{
+    "index": 10353,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10353
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

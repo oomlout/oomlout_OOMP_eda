@@ -1,0 +1,61 @@
+{
+    "index": 382,
+    "tags": [
+        {
+            "name": "index",
+            "value": 382
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Elec_5x4.5"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_SMD/CP_Elec_5x4.5"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x4.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor electrolytic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x4.5.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_5x4.5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

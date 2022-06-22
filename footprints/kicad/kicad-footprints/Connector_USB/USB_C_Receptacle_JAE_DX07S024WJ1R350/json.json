@@ -1,0 +1,61 @@
+{
+    "index": 6557,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6557
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_JAE_DX07S024WJ1R350"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_JAE_DX07S024WJ1R350"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB C Type-C Receptacle SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_JAE_DX07S024WJ1R350.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S024WJ1R350"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

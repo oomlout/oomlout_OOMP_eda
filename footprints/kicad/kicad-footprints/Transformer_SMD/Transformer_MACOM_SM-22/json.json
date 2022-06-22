@@ -1,0 +1,61 @@
+{
+    "index": 12110,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12110
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_MACOM_SM-22"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_MACOM_SM-22"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://cdn.macom.com/datasheets/ETC1-1-13.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RF Transformer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_MACOM_SM-22.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7284,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7284
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_A-405_P2.54mm_Vertical_KathodeUp"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/D_A-405_P2.54mm_Vertical_KathodeUp"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_A-405_P2.54mm_Vertical_KathodeUp.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_A-405_P2.54mm_Vertical_KathodeUp"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

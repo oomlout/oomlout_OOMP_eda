@@ -1,0 +1,61 @@
+{
+    "index": 144,
+    "tags": [
+        {
+            "name": "index",
+            "value": 144
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_DIP_SPSTx08_Slide_KingTek_DSHP08TS_W7.62mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx08_Slide_KingTek_DSHP08TS_W7.62mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD 8x-dip-switch SPST KingTek_DSHP08TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD DIP Switch SPST Slide 7.62mm 300mil"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx08_Slide_KingTek_DSHP08TS_W7.62mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx08_Slide_KingTek_DSHP08TS_W7.62mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

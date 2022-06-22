@@ -1,0 +1,57 @@
+{
+    "index": 3300,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3300
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PCBEdge"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUS_PCIexpress_x1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PCBEdge/BUS_PCIexpress_x1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PCIe"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

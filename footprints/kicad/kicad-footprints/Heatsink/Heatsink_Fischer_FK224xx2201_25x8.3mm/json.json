@@ -1,0 +1,61 @@
+{
+    "index": 7578,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7578
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_Fischer_FK224xx2201_25x8.3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_Fischer_FK224xx2201_25x8.3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "25x8.3mm Heatsink, 18K/W, TO-220, https://www.fischerelektronik.de/web_fischer/en_GB/$catalogue/fischerData/PR/FK224_220_1_/datasheet.xhtml?branch=heatsinks"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink TO-220"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_FK2242201_25x8.3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK224xx2201_25x8.3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10411,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10411
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT-143R_Handsoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/SOT-143R_Handsoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SOT-143R, reverse pinning, Handsoldering, https://www.nxp.com/docs/en/package-information/SOT143R.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SOT-143 Reverse Handsoldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R_Handsoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

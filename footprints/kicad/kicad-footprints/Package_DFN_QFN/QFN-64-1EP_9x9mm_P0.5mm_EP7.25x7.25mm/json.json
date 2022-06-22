@@ -1,0 +1,61 @@
+{
+    "index": 9342,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9342
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "64-Lead Plastic Quad Flat No-Lead Package, 9x9mm Body (see Atmel Appnote 8826)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP7.25x7.25mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

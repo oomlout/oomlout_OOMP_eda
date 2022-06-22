@@ -1,0 +1,61 @@
+{
+    "index": 9992,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9992
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HTSOP, 8 Pin (https://media.digikey.com/pdf/Data%20Sheets/Rohm%20PDFs/BD9G341EFJ.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HTSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

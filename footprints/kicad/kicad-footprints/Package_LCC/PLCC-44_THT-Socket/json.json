@@ -1,0 +1,61 @@
+{
+    "index": 9839,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9839
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LCC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-44_THT-Socket"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LCC/PLCC-44_THT-Socket"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PLCC, 44 pins, through hole"
+        },
+        {
+            "name": "kicadTags",
+            "value": "plcc leaded"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_THT-Socket.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_THT-Socket"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

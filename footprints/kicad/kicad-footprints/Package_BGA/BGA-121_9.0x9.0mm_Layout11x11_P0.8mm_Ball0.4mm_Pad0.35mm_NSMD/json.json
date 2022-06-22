@@ -1,0 +1,61 @@
+{
+    "index": 8779,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8779
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "121-ball, 0.8mm BGA (based on http://www.latticesemi.com/view_document?document_id=213)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 0.8mm 9mm 121"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-121_9.0x9.0mm_Layout11x11_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

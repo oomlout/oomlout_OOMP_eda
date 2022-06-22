@@ -1,0 +1,61 @@
+{
+    "index": 9141,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9141
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OnSemi_VCT-28_3.5x3.5mm_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/OnSemi_VCT-28_3.5x3.5mm_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "OnSemi VCT NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_VCT-28_3.5x3.5mm_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_VCT-28_3.5x3.5mm_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

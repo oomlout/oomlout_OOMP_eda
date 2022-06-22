@@ -1,0 +1,61 @@
+{
+    "index": 8943,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8943
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP, 32 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7280.PDF#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

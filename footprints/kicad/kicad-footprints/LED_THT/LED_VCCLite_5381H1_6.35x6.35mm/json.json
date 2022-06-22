@@ -1,0 +1,61 @@
+{
+    "index": 8235,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8235
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_VCCLite_5381H1_6.35x6.35mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_THT/LED_VCCLite_5381H1_6.35x6.35mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Red 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Red 5381 Series LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H1_6.35x6.35mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H1_6.35x6.35mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8857,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8857
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UFBGA-132_7x7mm_Layout12x12_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/UFBGA-132_7x7mm_Layout12x12_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UFBGA-132, 12x12 raster, 7x7mm package, pitch 0.5mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32l152zc.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 132 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-132_7x7mm_Layout12x12_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-132_7x7mm_Layout12x12_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

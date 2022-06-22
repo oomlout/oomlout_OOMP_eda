@@ -1,0 +1,61 @@
+{
+    "index": 8864,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8864
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "UFBGA-32, 6x6, 4x4mm package, pitch 0.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "UFBGA-32"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

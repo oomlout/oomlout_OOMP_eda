@@ -1,0 +1,61 @@
+{
+    "index": 10932,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10932
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPDT_Omron_G6EK"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPDT_Omron_G6EK"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay SPDT Omron Serie G6EK, see http://www.logosfoundation.org/instrum_gwr/pi/Omron_G6E_134P.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay SPDT Omron Serie G6EK"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Omron_G6EK.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Omron_G6EK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

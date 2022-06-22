@@ -1,0 +1,61 @@
+{
+    "index": 11139,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11139
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Antenna"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Abracon_APAES868R8060C16-T"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Antenna/Abracon_APAES868R8060C16-T"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi"
+        },
+        {
+            "name": "kicadTags",
+            "value": "APAES patch antenna"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Abracon_APAES868R8060C16-T"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

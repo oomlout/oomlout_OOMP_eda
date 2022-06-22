@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 3411
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: 4UCON 10156 Card edge socket with 80 contacts
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/4UCON_10156_2x40_P1.27mm_Socket_Horizontal.wrl
-
-
-
-[im]: image.png

@@ -1,0 +1,61 @@
+{
+    "index": 7085,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7085
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Abracon Miniature Ceramic SMD Crystal ABS25 https://abracon.com/Resonators/abs25.pdf, 8.0x3.8mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

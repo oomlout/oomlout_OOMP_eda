@@ -1,0 +1,61 @@
+{
+    "index": 8262,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8262
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Maple_Mini"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Maple_Mini"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Maple Mini"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Maple_Mini.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

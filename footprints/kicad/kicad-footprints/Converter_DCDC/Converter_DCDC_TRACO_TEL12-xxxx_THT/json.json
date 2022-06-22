@@ -1,0 +1,61 @@
+{
+    "index": 6970,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6970
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_TRACO_TEL12-xxxx_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TEL12-xxxx_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Traco 12W, THT (https://www.tracopower.com/sites/default/files/products/datasheets/tel12_datasheet.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "traco dcdc tht 12w"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEL12-xxxx_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEL12-xxxx_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

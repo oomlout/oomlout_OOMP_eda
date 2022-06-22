@@ -1,0 +1,61 @@
+{
+    "index": 8019,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8019
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "L_Toroid, Horizontal series, Radial, pin pitch=31.00mm, , diameter=35.1mm, Vishay, TJ6, http://www.vishay.com/docs/34079/tj.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "L_Toroid Horizontal series Radial pin pitch 31.00mm  diameter 35.1mm Vishay TJ6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

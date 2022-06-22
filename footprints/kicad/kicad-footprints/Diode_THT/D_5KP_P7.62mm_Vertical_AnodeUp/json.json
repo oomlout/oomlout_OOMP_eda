@@ -1,0 +1,61 @@
+{
+    "index": 7275,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7275
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_5KP_P7.62mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/D_5KP_P7.62mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_5KP_P7.62mm_Vertical_AnodeUp.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KP_P7.62mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

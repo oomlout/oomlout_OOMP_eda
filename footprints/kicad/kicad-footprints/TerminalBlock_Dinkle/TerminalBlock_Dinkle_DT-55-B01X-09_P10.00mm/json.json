@@ -1,0 +1,61 @@
+{
+    "index": 11572,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11572
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_Dinkle"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Dinkle DT-55-B01X Terminal Block  pitch 10.00mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Dinkle.3dshapes/TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

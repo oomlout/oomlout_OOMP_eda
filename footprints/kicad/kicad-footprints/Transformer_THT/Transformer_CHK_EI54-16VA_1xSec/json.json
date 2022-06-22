@@ -1,0 +1,61 @@
+{
+    "index": 12154,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12154
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_CHK_EI54-16VA_1xSec"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_CHK_EI54-16VA_1xSec"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,http://www.eratransformers.com/product-detail/19"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Trafo Printtrafo CHK EI54 16VA 1x Sec"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI54-16VA_1xSec.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-16VA_1xSec"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

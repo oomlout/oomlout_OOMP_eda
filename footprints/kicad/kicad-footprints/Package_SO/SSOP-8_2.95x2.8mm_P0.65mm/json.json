@@ -1,0 +1,61 @@
+{
+    "index": 10183,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10183
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP-8_2.95x2.8mm_P0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSOP-8_2.95x2.8mm_P0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SSOP-8 2.9 x2.8mm Pitch 0.65mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP-8 2.95x2.8mm Pitch 0.65mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_2.95x2.8mm_P0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_2.95x2.8mm_P0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

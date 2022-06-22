@@ -1,0 +1,61 @@
+{
+    "index": 466,
+    "tags": [
+        {
+            "name": "index",
+            "value": 466
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_Tantalum_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor tantalum"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-2012-15_AVX-P.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

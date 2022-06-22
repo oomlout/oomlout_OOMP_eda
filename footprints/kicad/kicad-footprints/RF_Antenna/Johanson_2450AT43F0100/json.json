@@ -1,0 +1,61 @@
+{
+    "index": 11142,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11142
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Antenna"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Johanson_2450AT43F0100"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Antenna/Johanson_2450AT43F0100"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, 1dBi, https://www.johansontechnology.com/datasheets/2450AT43F0100/2450AT43F0100.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "antenna"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT43F0100.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT43F0100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

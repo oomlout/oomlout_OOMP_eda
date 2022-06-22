@@ -1,0 +1,61 @@
+{
+    "index": 6019,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6019
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Samtec_FMC_ASP-134604-01_4x40_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Samtec/Samtec_FMC_ASP-134604-01_4x40_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "FMC LPC VITA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134604-01_4x40_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134604-01_4x40_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11159,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11159
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ublox_MAX"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/ublox_MAX"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ublox MAX 6/7/8, (https://www.u-blox.com/sites/default/files/MAX-8-M8-FW3_HardwareIntegrationManual_%28UBX-15030059%29.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "GPS ublox MAX 6/7/8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_MAX.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_MAX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

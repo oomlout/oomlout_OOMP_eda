@@ -1,0 +1,61 @@
+{
+    "index": 10041,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10041
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-TSDSO-14-22"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Infineon_PG-TSDSO-14-22"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon_PG-TSDSO-14-22"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Infineon TSDSO 14-22"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-TSDSO-14-22.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-TSDSO-14-22"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

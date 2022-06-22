@@ -1,0 +1,61 @@
+{
+    "index": 9150,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9150
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 16 Pin (http://cds.linear.com/docs/en/datasheet/37551fd.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10038,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10038
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon  PG-DSO, 8 Pin (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-27), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Infineon PG-DSO SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

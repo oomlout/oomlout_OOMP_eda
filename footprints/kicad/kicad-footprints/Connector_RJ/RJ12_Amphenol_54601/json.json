@@ -1,0 +1,61 @@
+{
+    "index": 5989,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5989
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ12_Amphenol_54601"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ12_Amphenol_54601"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RJ12 connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

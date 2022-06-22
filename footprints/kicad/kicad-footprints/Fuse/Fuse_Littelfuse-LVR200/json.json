@@ -1,0 +1,61 @@
+{
+    "index": 7563,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7563
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_Littelfuse-LVR200"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_Littelfuse-LVR200"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Littelfuse, resettable fuse, PTC, polyswitch LVR200, Ih 2A, http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lvr_catalog_datasheet.pdf.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LVR200 PTC resettable polyswitch"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-LVR200.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-LVR200"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

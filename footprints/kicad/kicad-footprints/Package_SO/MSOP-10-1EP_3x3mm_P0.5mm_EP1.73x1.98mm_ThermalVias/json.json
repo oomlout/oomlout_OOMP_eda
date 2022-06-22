@@ -1,0 +1,61 @@
+{
+    "index": 10049,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10049
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MSOP, 10 Pin (www.allegromicro.com/~/media/Files/Datasheets/A4952-3-Datasheet.ashx?la=en#page=10), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

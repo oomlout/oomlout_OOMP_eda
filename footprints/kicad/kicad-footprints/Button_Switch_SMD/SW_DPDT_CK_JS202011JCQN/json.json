@@ -1,0 +1,61 @@
+{
+    "index": 168,
+    "tags": [
+        {
+            "name": "index",
+            "value": 168
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_DPDT_CK_JS202011JCQN"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_DPDT_CK_JS202011JCQN"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch DPDT SMT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DPDT_CK_JS202011JCQN.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

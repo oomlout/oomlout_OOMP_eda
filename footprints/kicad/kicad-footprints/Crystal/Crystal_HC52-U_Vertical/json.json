@@ -1,0 +1,61 @@
+{
+    "index": 7056,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7056
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_HC52-U_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_HC52-U_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT crystal HC-52/U"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-U_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-U_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

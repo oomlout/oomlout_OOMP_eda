@@ -1,0 +1,61 @@
+{
+    "index": 7638,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7638
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Bourns_SRP7028A_7.3x6.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Bourns_SRP7028A_7.3x6.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Shielded Inductors Bourns SMD SRP7028A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP7028A_7.3x6.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8665,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8665
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Lightpipe_LPF-C012303S"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Lightpipe_LPF-C012303S"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.lumex.com/spec/LPF-C012303S.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "lightpipe dual tower right angle 3mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_LPF-C012303S.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C012303S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

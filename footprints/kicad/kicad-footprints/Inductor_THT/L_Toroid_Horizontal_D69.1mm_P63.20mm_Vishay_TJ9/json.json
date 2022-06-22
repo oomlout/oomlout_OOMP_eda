@@ -1,0 +1,61 @@
+{
+    "index": 8026,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8026
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "L_Toroid, Horizontal series, Radial, pin pitch=63.20mm, , diameter=69.1mm, Vishay, TJ9, http://www.vishay.com/docs/34079/tj.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "L_Toroid Horizontal series Radial pin pitch 63.20mm  diameter 69.1mm Vishay TJ9"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

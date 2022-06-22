@@ -1,0 +1,61 @@
+{
+    "index": 10347,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10347
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON-12"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

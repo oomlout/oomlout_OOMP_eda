@@ -1,0 +1,61 @@
+{
+    "index": 7660,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7660
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Murata_LQH2MCNxxxx02_2.0x1.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Murata_LQH2MCNxxxx02_2.0x1.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "chip coil inductor Murata LQH2MC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Murata_LQH2MCNxxxx02_2.0x1.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH2MCNxxxx02_2.0x1.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

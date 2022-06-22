@@ -1,0 +1,61 @@
+{
+    "index": 8036,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8036
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "L_Toroid, Vertical series, Radial, pin pitch=6.60mm, , length*width=16.4*7.6mm^2, Vishay, TJ3, http://www.vishay.com/docs/34079/tj.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "L_Toroid Vertical series Radial pin pitch 6.60mm  length 16.4mm width 7.6mm Vishay TJ3"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

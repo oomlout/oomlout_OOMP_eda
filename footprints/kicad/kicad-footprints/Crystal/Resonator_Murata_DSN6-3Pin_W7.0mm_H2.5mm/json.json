@@ -1,0 +1,61 @@
+{
+    "index": 7162,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7162
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Resonator_Murata_DSN6-3Pin_W7.0mm_H2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Resonator_Murata_DSN6-3Pin_W7.0mm_H2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT ceramic resonator filter DSN6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_Murata_DSN6-3Pin_W7.0mm_H2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_Murata_DSN6-3Pin_W7.0mm_H2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

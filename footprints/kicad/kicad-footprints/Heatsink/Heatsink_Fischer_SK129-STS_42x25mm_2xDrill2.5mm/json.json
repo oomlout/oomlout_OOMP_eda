@@ -1,0 +1,61 @@
+{
+    "index": 7583,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7583
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Heatsink, Fischer SK129"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink fischer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

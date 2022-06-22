@@ -1,0 +1,61 @@
+{
+    "index": 678,
+    "tags": [
+        {
+            "name": "index",
+            "value": 678
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Disc_D5.1mm_W3.2mm_P5.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Disc_D5.1mm_W3.2mm_P5.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.1mm_W3.2mm_P5.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D5.1mm_W3.2mm_P5.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

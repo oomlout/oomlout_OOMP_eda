@@ -1,0 +1,61 @@
+{
+    "index": 8702,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8702
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_VL53L0X"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/ST_VL53L0X"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.st.com/resource/en/datasheet/vl53l1x.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "laser-ranging sensor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ST_VL53L0X.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-ST_VL53L0X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 6552,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6552
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB C Type-C Receptacle SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

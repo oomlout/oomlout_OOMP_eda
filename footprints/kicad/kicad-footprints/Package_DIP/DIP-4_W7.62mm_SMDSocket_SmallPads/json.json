@@ -1,0 +1,61 @@
+{
+    "index": 9684,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9684
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP-4_W7.62mm_SMDSocket_SmallPads"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/DIP-4_W7.62mm_SMDSocket_SmallPads"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-4_W7.62mm_SMDSocket.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-4_W7.62mm_SMDSocket_SmallPads"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

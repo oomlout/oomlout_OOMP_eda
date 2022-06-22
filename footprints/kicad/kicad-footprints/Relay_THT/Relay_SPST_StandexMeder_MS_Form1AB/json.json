@@ -1,0 +1,61 @@
+{
+    "index": 10963,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10963
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPST_StandexMeder_MS_Form1AB"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPST_StandexMeder_MS_Form1AB"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Standex-Meder MS SIL-relais, Form 1A/1B, see https://standexelectronics.com/de/produkte/ms-reed-relais/"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Standex Meder MS SIL reed relais"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_StandexMeder_MS_Form1AB.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_StandexMeder_MS_Form1AB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

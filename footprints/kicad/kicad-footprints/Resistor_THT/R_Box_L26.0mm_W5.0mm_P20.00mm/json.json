@@ -1,0 +1,61 @@
+{
+    "index": 11129,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11129
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Box_L26.0mm_W5.0mm_P20.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, Box series, Radial, pin pitch=20.00mm, 10W, length*width=26.0*5.0mm^2, http://www.produktinfo.conrad.com/datenblaetter/425000-449999/443860-da-01-de-METALLBAND_WIDERSTAND_0_1_OHM_5W_5Pr.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor Box series Radial pin pitch 20.00mm 10W length 26.0mm width 5.0mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Box_L26.0mm_W5.0mm_P20.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9996,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9996
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "16-Lead Plastic HTSSOP (4.4x5x1.2mm); Thermal pad; (http://www.ti.com/lit/ds/symlink/drv8833.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 0.65"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm_EP3.4x5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

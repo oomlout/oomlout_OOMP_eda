@@ -1,0 +1,61 @@
+{
+    "index": 10165,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10165
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP-10_3.9x4.9mm_P1.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSOP-10_3.9x4.9mm_P1.00mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP 3.9 4.9 1.00"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-10_3.9x4.9mm_P1.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-10_3.9x4.9mm_P1.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

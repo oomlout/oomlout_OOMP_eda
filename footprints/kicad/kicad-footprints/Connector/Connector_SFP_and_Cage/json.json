@@ -1,0 +1,61 @@
+{
+    "index": 897,
+    "tags": [
+        {
+            "name": "index",
+            "value": 897
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Connector_SFP_and_Cage"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/Connector_SFP_and_Cage"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SFP+ SFP"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Connector_SFP_and_Cage.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

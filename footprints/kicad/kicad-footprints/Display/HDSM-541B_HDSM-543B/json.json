@@ -1,0 +1,61 @@
+{
+    "index": 7378,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7378
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDSM-541B_HDSM-543B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/HDSM-541B_HDSM-543B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "2 digit 7 segement blue LED with right hand decimal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSM-541B_HDSM-543B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-HDSM-541B_HDSM-543B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

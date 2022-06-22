@@ -1,0 +1,61 @@
+{
+    "index": 7576,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7576
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_AAVID_590302B03600G"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_AAVID_590302B03600G"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Heatsink, 25.4x25.4x42.54mm, TO-220, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_590302B03600G.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_590302B03600G"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

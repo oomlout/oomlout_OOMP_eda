@@ -1,0 +1,61 @@
+{
+    "index": 2009,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2009
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JAE"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JAE_MM70-314-310B1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JAE/JAE_MM70-314-310B1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.heilind.com/marketing/documents/jae/JAE_MM70.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector JAE MXM"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_MM70-314-310B1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

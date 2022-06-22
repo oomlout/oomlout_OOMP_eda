@@ -1,0 +1,61 @@
+{
+    "index": 10352,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10352
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-16_3.3x1.35_P0.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-16_3.3x1.35_P0.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON-16 3.3 x 1.35mm  Pitch 0.4mm http://www.chip.tomsk.ru/chip/chipdoc.nsf/Package/C67E729A4D6C883A4725793E004C8739!OpenDocument"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON-16 3.3 x 1.35mm  Pitch 0.4mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-16_3.3x1.35_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-16_3.3x1.35_P0.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7383,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7383
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDSP-4850"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/HDSP-4850"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10-Element Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "10-Element Green Bar Graph Array"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSP-4850.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4850"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

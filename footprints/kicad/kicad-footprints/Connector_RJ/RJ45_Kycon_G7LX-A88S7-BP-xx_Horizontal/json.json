@@ -1,0 +1,61 @@
+{
+    "index": 6003,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6003
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10/100Base-T RJ45 ethernet magnetic transformer connector horizontal with green/yellow LEDs http://www.kycon.com/Pub_Eng_Draw/G7LX-A88S7-BP-GY.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RJ45 ethernet magnetic"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

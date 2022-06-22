@@ -1,0 +1,61 @@
+{
+    "index": 9051,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9051
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DH Package; 16-Lead Plastic DFN (5mm x 5mm) (see Linear Technology DFN_16_05-08-1709.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-16-1EP_5x5mm_P0.5mm_EP3.46x4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

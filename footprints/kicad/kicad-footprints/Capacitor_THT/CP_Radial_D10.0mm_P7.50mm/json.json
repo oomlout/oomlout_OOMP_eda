@@ -1,0 +1,61 @@
+{
+    "index": 576,
+    "tags": [
+        {
+            "name": "index",
+            "value": 576
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Radial_D10.0mm_P7.50mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/CP_Radial_D10.0mm_P7.50mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CP, Radial series, Radial, pin pitch=7.50mm, , diameter=10mm, Electrolytic Capacitor"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CP Radial series Radial pin pitch 7.50mm  diameter 10mm Electrolytic Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D10.0mm_P7.50mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D10.0mm_P7.50mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8112,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8112
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Cree-PLCC6_4.7x1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Cree-PLCC6_4.7x1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED Cree PLCC-6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC6_4.7x1.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC6_4.7x1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

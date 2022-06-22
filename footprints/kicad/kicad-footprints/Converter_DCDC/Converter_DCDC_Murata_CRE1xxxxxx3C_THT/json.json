@@ -1,0 +1,61 @@
+{
+    "index": 6946,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6946
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_Murata_CRE1xxxxxx3C_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_CRE1xxxxxx3C_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Isolated 1W single output DC/DC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_CRE1xxxxxx3C_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_CRE1xxxxxx3C_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

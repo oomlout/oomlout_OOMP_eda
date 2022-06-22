@@ -1,0 +1,61 @@
+{
+    "index": 8833,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8833
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas Instruments, DSBGA, 1.36x1.86mm, 10 bump 3x4 (perimeter) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/txs0104e.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Texas Instruments DSBGA BGA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

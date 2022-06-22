@@ -1,0 +1,61 @@
+{
+    "index": 9091,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9091
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8-Lead Plastic Dual Flat, No Lead Package (MD) - 4x4x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

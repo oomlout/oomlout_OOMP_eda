@@ -1,0 +1,61 @@
+{
+    "index": 8270,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8270
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_EUK_R-PDSS-T7_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Texas_EUK_R-PDSS-T7_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas Instruments EUK 7 Pin Double Sided Module"
+        },
+        {
+            "name": "kicadTags",
+            "value": "module pcb"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Texas_EUK_R-PDSS-T7_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUK_R-PDSS-T7_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

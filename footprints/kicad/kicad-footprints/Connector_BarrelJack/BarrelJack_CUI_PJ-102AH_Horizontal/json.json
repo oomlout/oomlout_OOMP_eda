@@ -1,0 +1,61 @@
+{
+    "index": 1137,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1137
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_BarrelJack"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BarrelJack_CUI_PJ-102AH_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_BarrelJack/BarrelJack_CUI_PJ-102AH_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Power Jack"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-102AH_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

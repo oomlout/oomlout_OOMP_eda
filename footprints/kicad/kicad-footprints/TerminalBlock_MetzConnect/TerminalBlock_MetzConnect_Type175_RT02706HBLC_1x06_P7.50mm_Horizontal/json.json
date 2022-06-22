@@ -1,0 +1,61 @@
+{
+    "index": 11645,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11645
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_MetzConnect"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_MetzConnect_Type175_RT02706HBLC_1x06_P7.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type175_RT02706HBLC_1x06_P7.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "terminal block Metz Connect Type175_RT02706HBLC, 6 pins, pitch 7.5mm, size 45x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT terminal block Metz Connect Type175_RT02706HBLC pitch 7.5mm size 45x11mm^2 drill 1.4mm pad 2.6mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02706HBLC_1x06_P7.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02706HBLC_1x06_P7.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

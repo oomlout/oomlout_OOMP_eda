@@ -1,0 +1,61 @@
+{
+    "index": 7811,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7811
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Choke_EPCOS_B82722A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/Choke_EPCOS_B82722A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "chokes epcos tht"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

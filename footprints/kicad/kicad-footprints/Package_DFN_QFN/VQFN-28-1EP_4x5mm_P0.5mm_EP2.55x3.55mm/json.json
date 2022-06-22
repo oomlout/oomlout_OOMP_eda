@@ -1,0 +1,61 @@
+{
+    "index": 9514,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9514
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/lm5175.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VQFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

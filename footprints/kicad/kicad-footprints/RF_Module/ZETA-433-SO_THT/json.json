@@ -1,0 +1,61 @@
+{
+    "index": 11248,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11248
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZETA-433-SO_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/ZETA-433-SO_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "RF transceiver THT style https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RF transceiver SMD style"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ZETA-433-SO_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

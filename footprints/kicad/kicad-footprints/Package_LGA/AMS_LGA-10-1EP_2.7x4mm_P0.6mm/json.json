@@ -1,0 +1,61 @@
+{
+    "index": 9851,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9851
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AMS_LGA-10-1EP_2.7x4mm_P0.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/AMS_LGA-10-1EP_2.7x4mm_P0.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LGA-10, http://ams.com/eng/content/download/951091/2269479/471718"
+        },
+        {
+            "name": "kicadTags",
+            "value": "lga land grid array"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_P0.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-10-1EP_2.7x4mm_P0.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

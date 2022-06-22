@@ -1,0 +1,61 @@
+{
+    "index": 19,
+    "tags": [
+        {
+            "name": "index",
+            "value": 19
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_2993"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_2993"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.keyelco.com/product-pdf.cfm?p=776"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Keystone type 2993 negative battery contact"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2993.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

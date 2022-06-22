@@ -1,0 +1,61 @@
+{
+    "index": 9990,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9990
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l5973d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 307,
+    "tags": [
+        {
+            "name": "index",
+            "value": 307
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_PUSH_LCD_E3_SAxxxx"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_PUSH_LCD_E3_SAxxxx"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Switch with LCD screen E3 SAxxxx"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch normally-open pushbutton push-button LCD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

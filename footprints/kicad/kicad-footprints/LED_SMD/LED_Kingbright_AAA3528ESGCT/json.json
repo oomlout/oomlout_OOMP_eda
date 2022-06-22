@@ -1,0 +1,61 @@
+{
+    "index": 8127,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8127
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Kingbright_AAA3528ESGCT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Kingbright_AAA3528ESGCT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Kingbright, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp (http://www.kingbrightusa.com/images/catalog/SPEC/AAA3528ESGCT.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "dual led smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_AAA3528ESGCT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_AAA3528ESGCT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8164,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8164
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_THT/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

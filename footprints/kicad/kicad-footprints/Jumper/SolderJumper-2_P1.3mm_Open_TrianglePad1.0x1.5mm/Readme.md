@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 8165
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,7 +22,3 @@ Contents
 - kicadDesc: SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
 - kicadTags: solder jumper open
 - kicadAttr: exclude_from_pos_files exclude_from_bom
-
-
-
-[im]: image.png

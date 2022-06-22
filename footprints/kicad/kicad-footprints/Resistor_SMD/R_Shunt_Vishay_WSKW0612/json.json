@@ -1,0 +1,61 @@
+{
+    "index": 11030,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11030
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Shunt_Vishay_WSKW0612"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSKW0612"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.vishay.com/docs/30332/wskw0612.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "4-Terminal SMD Shunt"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSKW0612.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSKW0612"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

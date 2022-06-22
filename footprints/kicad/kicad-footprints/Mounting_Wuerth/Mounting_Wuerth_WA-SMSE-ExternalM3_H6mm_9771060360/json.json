@@ -1,0 +1,61 @@
+{
+    "index": 8448,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8448
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Mounting_Wuerth"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mounting_Wuerth_WA-SMSE-ExternalM3_H6mm_9771060360"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSE-ExternalM3_H6mm_9771060360"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hardware, external M3, height 6, Wuerth electronics 9771060360 (https://katalog.we-online.com/em/datasheet/9771060360.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mounting M3 9771060360"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSE-ExternalM3_H6mm_9771060360.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H6mm_9771060360"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

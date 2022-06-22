@@ -1,0 +1,61 @@
+{
+    "index": 11163,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11163
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ublox_ZED"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/ublox_ZED"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ublox ZED-F9, https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "GPS GNSS ublox ZED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_ZED.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_ZED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

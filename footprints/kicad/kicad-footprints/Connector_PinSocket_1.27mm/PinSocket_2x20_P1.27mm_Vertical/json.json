@@ -1,0 +1,61 @@
+{
+    "index": 5361,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5361
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinSocket_1.27mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinSocket_2x20_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x20_P1.27mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Through hole straight socket strip, 2x20, 1.27mm pitch, double cols (from Kicad 4.0.7), script generated"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Through hole socket strip THT 2x20 1.27mm double row"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_2x20_P1.27mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x20_P1.27mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

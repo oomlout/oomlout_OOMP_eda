@@ -1,0 +1,61 @@
+{
+    "index": 898,
+    "tags": [
+        {
+            "name": "index",
+            "value": 898
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CUI_PD-30"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/CUI_PD-30"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3 pin connector, PD-30, http://www.cui.com/product/resource/pd-30.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector 3-pin PD-30 power DIN"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

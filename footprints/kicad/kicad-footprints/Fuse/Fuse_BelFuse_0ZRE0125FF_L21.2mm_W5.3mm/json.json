@@ -1,0 +1,61 @@
+{
+    "index": 7527,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7527
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_BelFuse_0ZRE0125FF_L21.2mm_W5.3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0125FF_L21.2mm_W5.3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fuse 0ZRE0125FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "0ZRE BelFuse radial PTC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0125FF_L21.2mm_W5.3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0125FF_L21.2mm_W5.3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

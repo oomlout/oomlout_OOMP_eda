@@ -1,0 +1,61 @@
+{
+    "index": 11172,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11172
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_BK377_LandPatternPL-005"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_BK377_LandPatternPL-005"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf) according to land-pattern PL-005, including GND vias (https://ww2.minicircuits.com/pcb/98-pl005.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-circuits VCXO JTOS PL-005"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_BK377.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377_LandPatternPL-005"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

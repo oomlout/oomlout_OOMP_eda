@@ -1,0 +1,61 @@
+{
+    "index": 10716,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10716
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-92L_HandSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-92L_HandSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm, hand-soldering variant with enlarged pads (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "to-92 sc-43 sc-43a sot54 PA33 transistor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92L.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92L_HandSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

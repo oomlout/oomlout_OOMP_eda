@@ -1,0 +1,61 @@
+{
+    "index": 6022,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6022
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Samtec_LSHM-110-xx.x-x-DV-N_2x10_P0.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Samtec/Samtec_LSHM-110-xx.x-x-DV-N_2x10_P0.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex LSHM 0.50 mm Razor Beam High-Speed Hermaphroditic Terminal/Socket Strip, LSHM-110-xx.x-x-DV-N, 10 Pins per row (http://suddendocs.samtec.com/prints/lshm-1xx-xx.x-x-dv-a-x-x-tr-footprint.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Samtec  side entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_LSHM-110-xx.x-x-DV-N_2x10_P0.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-110-xx.x-x-DV-N_2x10_P0.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

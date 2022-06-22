@@ -1,0 +1,61 @@
+{
+    "index": 10309,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10309
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf (page 57)), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HVSON NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

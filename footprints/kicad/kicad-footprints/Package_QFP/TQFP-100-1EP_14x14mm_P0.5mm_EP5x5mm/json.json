@@ -1,0 +1,61 @@
+{
+    "index": 9932,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9932
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TQFP, 100 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tqfp_edsv/sv_100_4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TQFP QFP"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

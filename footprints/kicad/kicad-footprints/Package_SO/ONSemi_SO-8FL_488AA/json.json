@@ -1,0 +1,61 @@
+{
+    "index": 10075,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10075
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ONSemi_SO-8FL_488AA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/ONSemi_SO-8FL_488AA"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https://www.onsemi.com/pub/Collateral/488AA.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ONSemi_SO-8FL_488AA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

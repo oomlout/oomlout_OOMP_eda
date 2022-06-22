@@ -1,0 +1,61 @@
+{
+    "index": 11633,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11633
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_MetzConnect"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "terminal block Metz Connect Type101_RT01604HBWC, 4 pins, pitch 5.08mm, size 20.3x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT terminal block Metz Connect Type101_RT01604HBWC pitch 5.08mm size 20.3x8mm^2 drill 1.3mm pad 2.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

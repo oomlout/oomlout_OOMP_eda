@@ -1,0 +1,57 @@
+{
+    "index": 8607,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8607
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NetTie"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NetTie-2_THT_Pad1.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/NetTie/NetTie-2_THT_Pad1.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Net tie, 2 pin, 1.0mm round THT pads"
+        },
+        {
+            "name": "kicadTags",
+            "value": "net tie"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-2_THT_Pad1.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

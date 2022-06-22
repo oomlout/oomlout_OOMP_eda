@@ -1,0 +1,61 @@
+{
+    "index": 1176,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1176
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA_Amphenol_901-143_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/SMA_Amphenol_901-143_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Amphenol RF 901-143 https://www.amphenolrf.com/library/download/link/link_id/585682"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMA THT Female Jack Horizontal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_901-143_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_901-143_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

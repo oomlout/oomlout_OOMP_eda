@@ -1,0 +1,61 @@
+{
+    "index": 9736,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9736
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_eDIP-12B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/PowerIntegrations_eDIP-12B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power Integrations eDIP-12B, see https://www.power.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL PDIP 2.54mm 7.62mm 300mil"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_eDIP-12B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_eDIP-12B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

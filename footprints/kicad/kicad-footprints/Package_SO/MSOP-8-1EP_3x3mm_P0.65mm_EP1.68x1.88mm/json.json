@@ -1,0 +1,61 @@
+{
+    "index": 10065,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10065
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MSOP, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

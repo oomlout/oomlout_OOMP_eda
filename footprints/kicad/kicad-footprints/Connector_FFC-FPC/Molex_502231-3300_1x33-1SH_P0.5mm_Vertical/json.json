@@ -1,0 +1,61 @@
+{
+    "index": 1442,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1442
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_FFC-FPC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_502231-3300_1x33-1SH_P0.5mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_FFC-FPC/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex 0.50mm Pitch Easy-On Type FFC/FPC Connector, For LVDS, 6.05mm Height, Vertical, Surface Mount, ZIF, 33 Circuits (https://www.molex.com/pdm_docs/sd/5022313300_sd.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "molex FFC/FPC connector Pitch 0.5mm vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502231-3300_1x33-1SH_P0.5mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502231-3300_1x33-1SH_P0.5mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

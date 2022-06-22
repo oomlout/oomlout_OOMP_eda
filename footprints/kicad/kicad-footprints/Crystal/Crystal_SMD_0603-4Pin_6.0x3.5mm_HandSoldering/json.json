@@ -1,0 +1,61 @@
+{
+    "index": 7064,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7064
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, hand-soldering, 6.0x3.5mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

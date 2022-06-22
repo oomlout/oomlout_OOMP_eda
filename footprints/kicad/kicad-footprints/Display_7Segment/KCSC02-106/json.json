@@ -1,0 +1,61 @@
+{
+    "index": 7428,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7428
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KCSC02-106"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/KCSC02-106"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-106(Ver.10A).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Single digit 7 segement super bright orange LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/KCSC02-106.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-106"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

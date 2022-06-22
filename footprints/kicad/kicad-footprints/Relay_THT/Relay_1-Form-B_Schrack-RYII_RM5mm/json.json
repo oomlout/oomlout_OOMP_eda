@@ -1,0 +1,61 @@
+{
+    "index": 10894,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10894
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_1-Form-B_Schrack-RYII_RM5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_1-Form-B_Schrack-RYII_RM5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay, 1-Form-B, Schrack-RYII, RM5mm, SPST-NC"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay 1-Form-B Schrack-RYII RM5mm SPST-NC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_1-Form-B_Schrack-RYII_RM5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-B_Schrack-RYII_RM5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

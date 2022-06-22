@@ -1,0 +1,61 @@
+{
+    "index": 415,
+    "tags": [
+        {
+            "name": "index",
+            "value": 415
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_0504_1310Metric"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_SMD/C_0504_1310Metric"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0504_1310Metric.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0504_1310Metric"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

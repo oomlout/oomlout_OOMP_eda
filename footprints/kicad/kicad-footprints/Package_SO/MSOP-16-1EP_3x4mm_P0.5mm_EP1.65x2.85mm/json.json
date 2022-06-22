@@ -1,0 +1,61 @@
+{
+    "index": 10061,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10061
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MSOP, 16 Pin (http://cds.linear.com/docs/en/datasheet/37551fd.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

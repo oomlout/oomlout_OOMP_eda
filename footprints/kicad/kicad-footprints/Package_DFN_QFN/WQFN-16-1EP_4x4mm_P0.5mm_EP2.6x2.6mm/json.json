@@ -1,0 +1,61 @@
+{
+    "index": 9551,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9551
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WQFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

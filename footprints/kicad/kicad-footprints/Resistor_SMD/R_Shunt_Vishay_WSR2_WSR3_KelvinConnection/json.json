@@ -1,0 +1,61 @@
+{
+    "index": 11032,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11032
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD Shunt Resistor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSR2_WSR3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

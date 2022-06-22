@@ -1,0 +1,61 @@
+{
+    "index": 10401,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10401
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SC-70-8_Handsoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/SC-70-8_Handsoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SC70-8, Handsoldering"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SC70-8 Handsoldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-70-8.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-70-8_Handsoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

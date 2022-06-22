@@ -1,0 +1,57 @@
+{
+    "index": 8074,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8074
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Jumper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip"
+        },
+        {
+            "name": "kicadTags",
+            "value": "net tie solder jumper bridged"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

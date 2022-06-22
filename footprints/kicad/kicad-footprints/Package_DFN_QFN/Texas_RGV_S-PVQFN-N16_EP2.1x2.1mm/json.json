@@ -1,0 +1,61 @@
+{
+    "index": 9387,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9387
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ina3221.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

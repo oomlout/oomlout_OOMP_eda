@@ -1,0 +1,61 @@
+{
+    "index": 10910,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10910
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_Omron_G6S-2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_DPDT_Omron_G6S-2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay Omron G6S-2, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay Omron G6S-2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Omron_G6S-2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G6S-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

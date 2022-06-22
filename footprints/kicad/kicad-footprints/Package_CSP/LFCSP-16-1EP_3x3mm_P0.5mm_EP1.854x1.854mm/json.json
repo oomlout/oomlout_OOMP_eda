@@ -1,0 +1,61 @@
+{
+    "index": 8924,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8924
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "16-Lead Lead Frame Chip Scale Package, 3x3mm, 0.5mm pitch, 1.854mm thermal pad (CP-16-22, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_22.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP 16 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

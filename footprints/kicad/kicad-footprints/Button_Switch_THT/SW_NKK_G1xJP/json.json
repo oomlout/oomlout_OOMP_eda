@@ -1,0 +1,61 @@
+{
+    "index": 282,
+    "tags": [
+        {
+            "name": "index",
+            "value": 282
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_NKK_G1xJP"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_NKK_G1xJP"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Switch NKK G1xJP http://www.nkkswitches.com/pdf/gwillum.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SWITCH TOGGLE ILLUM SPDT NKK"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_G1xJP.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_G1xJP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

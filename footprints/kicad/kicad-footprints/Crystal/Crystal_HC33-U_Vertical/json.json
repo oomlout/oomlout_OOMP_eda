@@ -1,0 +1,61 @@
+{
+    "index": 7028,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7028
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_HC33-U_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_HC33-U_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Crystal THT HC-33/U, http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT crystalHC-33/U"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC33-U_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC33-U_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

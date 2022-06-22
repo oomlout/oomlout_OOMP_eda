@@ -1,0 +1,61 @@
+{
+    "index": 11319,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11319
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LEM_HTFS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/LEM_HTFS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LEM HTFS x00-P current transducer (https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HTFS current transducer"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HTFS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

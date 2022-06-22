@@ -1,0 +1,61 @@
+{
+    "index": 11155,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11155
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Sierra_XA11X0"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GPS/Sierra_XA11X0"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN-24, Pitch 1.20 no EP, https://source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN-24 P1.20"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Sierra_XA11X0.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GPS-Sierra_XA11X0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 899,
+    "tags": [
+        {
+            "name": "index",
+            "value": 899
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CUI_PD-30S"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/CUI_PD-30S"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3-pin nonstandard DIN connector, shielded, PD-30S, http://www.cui.com/product/resource/pd-30s.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector 3-pin PD-30S power DIN shielded"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30S.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

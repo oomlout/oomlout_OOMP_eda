@@ -1,0 +1,61 @@
+{
+    "index": 8886,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8886
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Xilinx_CSGA324"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/Xilinx_CSGA324"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Spartan-7 BGA, 18x18 grid, 15x15mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=263, NSMD pad definition Appendix A"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 324 0.8 CSGA324"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSGA324.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSGA324"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10463,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10463
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-252-2_TabPin1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/TO-252-2_TabPin1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-252-2, tab to pin 1 https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TO-252-2 diode"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2_TabPin1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

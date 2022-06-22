@@ -1,0 +1,61 @@
+{
+    "index": 7243,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7243
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_SOD-523"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/D_SOD-523"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.diodes.com/datasheets/ap02001.pdf p.144"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode SOD523"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-523"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7549
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -24,7 +22,3 @@ Contents
 - kicadDesc: Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
 - kicadTags: fiducial
 - kicadAttr: smd
-
-
-
-[im]: image.png

@@ -1,0 +1,61 @@
+{
+    "index": 8704,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8704
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Toshiba_TORX170_TORX173_TORX193_TORX194"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Toshiba_TORX170_TORX173_TORX193_TORX194"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Fiberoptic Reciver, RX, Toshiba, Toslink, TORX170, TORX173, TORX193, TORX194"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Fiberoptic Reciver RX Toshiba Toslink TORX170 TORX173 TORX193 TORX194"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Toshiba_TORX170_TORX173_TORX193_TORX194.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TORX170_TORX173_TORX193_TORX194"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

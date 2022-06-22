@@ -1,0 +1,61 @@
+{
+    "index": 12181,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12181
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transistor_Power_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_EasyPIM-1B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transistor_Power_Module/Infineon_EasyPIM-1B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63"
+        },
+        {
+            "name": "kicadTags",
+            "value": "brifge rectifier igbt diode module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transistor_Power_Module.3dshapes/Infineon_EasyPIM-1B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-1B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

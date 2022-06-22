@@ -1,0 +1,61 @@
+{
+    "index": 7580,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7580
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_Fischer_FK24413DPAK_23x13mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_Fischer_FK24413DPAK_23x13mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "23x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d_pak.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink TO-252 TO-263 TO-268"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_FK24413DPAK_23x13mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413DPAK_23x13mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

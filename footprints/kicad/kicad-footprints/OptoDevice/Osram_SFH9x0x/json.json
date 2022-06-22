@@ -1,0 +1,61 @@
+{
+    "index": 8681,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8681
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Osram_SFH9x0x"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Osram_SFH9x0x"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Osram SFH9x0x series of reflective photo interrupters/couplers, see http://www.osram-os.com/Graphics/XPic6/00200860_0.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "reflective photo interrupter SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

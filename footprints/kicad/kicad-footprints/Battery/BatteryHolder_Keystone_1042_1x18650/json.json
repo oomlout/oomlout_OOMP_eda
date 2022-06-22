@@ -1,0 +1,61 @@
+{
+    "index": 7,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_1042_1x18650"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_1042_1x18650"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918"
+        },
+        {
+            "name": "kicadTags",
+            "value": "18650 Keystone 1042 Li-ion"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_1042_1x18650.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1042_1x18650"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

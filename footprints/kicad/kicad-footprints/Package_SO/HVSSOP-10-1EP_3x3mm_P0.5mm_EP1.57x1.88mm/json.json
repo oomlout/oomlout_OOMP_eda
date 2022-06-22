@@ -1,0 +1,61 @@
+{
+    "index": 10026,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10026
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HVSSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

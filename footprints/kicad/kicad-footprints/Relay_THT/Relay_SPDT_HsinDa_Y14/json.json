@@ -1,0 +1,61 @@
+{
+    "index": 10927,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10927
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPDT_HsinDa_Y14"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPDT_HsinDa_Y14"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.hsinda.com.cn/en/ProductShow.asp?ID=208"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay Y14"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HsinDa_Y14.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HsinDa_Y14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8752,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8752
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_OCXO_ConnorWinfield_OH300"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_OCXO_ConnorWinfield_OH300"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.conwin.com/datasheets/cx/cx282.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "OCXO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_OCXO_ConnorWinfield_OH300.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_OCXO_ConnorWinfield_OH300"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

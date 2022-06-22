@@ -1,0 +1,61 @@
+{
+    "index": 6536,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6536
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_A_CONNFLY_DS1095-WNR0"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_A_CONNFLY_DS1095-WNR0"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://www.connfly.com/userfiles/image/UpLoadFile/File/2013/5/6/DS1095.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "USB-A receptacle horizontal through-hole"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_CONNFLY_DS1095-WNR0.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CONNFLY_DS1095-WNR0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

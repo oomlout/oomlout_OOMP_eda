@@ -1,0 +1,61 @@
+{
+    "index": 10952,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10952
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPST_RAYEX-L90BS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay RAYEX L90BS SPST NC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_RAYEX-L90BS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_RAYEX-L90BS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

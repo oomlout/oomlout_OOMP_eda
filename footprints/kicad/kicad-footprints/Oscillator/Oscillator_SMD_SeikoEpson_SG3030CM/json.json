@@ -1,0 +1,61 @@
+{
+    "index": 8755,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8755
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_SeikoEpson_SG3030CM"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG3030CM"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal Oscillator Seiko Epson SG-3030CM package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal oscillator"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG3030CM.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG3030CM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10523,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10523
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-126-2_Horizontal_TabUp"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-126-2_Horizontal_TabUp"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-126-2, Horizontal, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TO-126-2 Horizontal RM 5.08mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-126-2_Horizontal_TabUp.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-126-2_Horizontal_TabUp"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

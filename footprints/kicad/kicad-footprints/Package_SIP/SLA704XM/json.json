@@ -1,0 +1,61 @@
+{
+    "index": 9974,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9974
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SLA704XM"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/SLA704XM"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIP SLA704XM (http://www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIP"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SLA704XM.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

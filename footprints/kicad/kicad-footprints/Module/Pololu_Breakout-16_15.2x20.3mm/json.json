@@ -1,0 +1,61 @@
+{
+    "index": 8265,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8265
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Pololu_Breakout-16_15.2x20.3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Pololu_Breakout-16_15.2x20.3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\\"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Pololu Breakout"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Pololu_Breakout-16_15.2x20.3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

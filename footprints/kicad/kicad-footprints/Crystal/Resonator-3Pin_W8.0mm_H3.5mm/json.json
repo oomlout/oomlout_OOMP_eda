@@ -1,0 +1,61 @@
+{
+    "index": 7159,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7159
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Resonator-3Pin_W8.0mm_H3.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Resonator-3Pin_W8.0mm_H3.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 3 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT ceramic resonator filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W8.0mm_H3.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-3Pin_W8.0mm_H3.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

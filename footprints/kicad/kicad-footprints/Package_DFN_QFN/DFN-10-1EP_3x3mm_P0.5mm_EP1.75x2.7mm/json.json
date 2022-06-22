@@ -1,0 +1,61 @@
+{
+    "index": 9031,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9031
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "10-Lead Plastic Dual Flat No-Lead Package, 3x3mm Body (see Atmel Appnote 8826)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

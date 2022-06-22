@@ -1,0 +1,61 @@
+{
+    "index": 893,
+    "tags": [
+        {
+            "name": "index",
+            "value": 893
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Banana_Jack_1Pin"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/Banana_Jack_1Pin"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Single banana socket, footprint - 6mm drill"
+        },
+        {
+            "name": "kicadTags",
+            "value": "banana socket"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_1Pin.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_1Pin"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

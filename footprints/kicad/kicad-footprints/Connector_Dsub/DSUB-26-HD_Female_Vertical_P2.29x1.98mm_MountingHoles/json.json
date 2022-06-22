@@ -1,0 +1,61 @@
+{
+    "index": 1312,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1312
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Dsub"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Dsub/DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "26-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "26-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 33.3mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

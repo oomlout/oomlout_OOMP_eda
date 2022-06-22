@@ -1,0 +1,61 @@
+{
+    "index": 7111,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7111
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, 5.0x1.9mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

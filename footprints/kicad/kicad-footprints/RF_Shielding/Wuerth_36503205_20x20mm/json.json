@@ -1,0 +1,61 @@
+{
+    "index": 11274,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11274
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Shielding"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Wuerth_36503205_20x20mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Shielding/Wuerth_36503205_20x20mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WE-SHC Shielding Cabinet THT 21x21mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Shielding Cabinet"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503205_20x20mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503205_20x20mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

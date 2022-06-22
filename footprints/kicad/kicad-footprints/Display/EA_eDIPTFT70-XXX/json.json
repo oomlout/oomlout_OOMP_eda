@@ -1,0 +1,61 @@
+{
+    "index": 7374,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7374
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA_eDIPTFT70-XXX"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/EA_eDIPTFT70-XXX"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TFT-graphical display 800x480 16-bit colours and touch display"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIPTFT70-XXX.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT70-XXX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7805,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7805
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Wuerth_WE-PD2-Typ-MS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Wuerth_WE-PD2-Typ-MS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Choke Power Inductor WE-PD2 TypMS Wuerth"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-MS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

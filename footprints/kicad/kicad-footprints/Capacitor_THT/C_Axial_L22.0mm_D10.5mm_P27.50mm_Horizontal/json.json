@@ -1,0 +1,61 @@
+{
+    "index": 646,
+    "tags": [
+        {
+            "name": "index",
+            "value": 646
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Axial_L22.0mm_D10.5mm_P27.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Axial_L22.0mm_D10.5mm_P27.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Axial series, Axial, Horizontal, pin pitch=27.5mm, , length*diameter=22*10.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Axial series Axial Horizontal pin pitch 27.5mm  length 22mm diameter 10.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L22.0mm_D10.5mm_P27.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L22.0mm_D10.5mm_P27.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

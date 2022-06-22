@@ -1,0 +1,61 @@
+{
+    "index": 8964,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8964
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "psemi csp 16"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/pSemi_CSP-16_1.64x2.04mm_P0.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

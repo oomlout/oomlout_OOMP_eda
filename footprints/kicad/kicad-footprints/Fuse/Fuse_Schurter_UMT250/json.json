@@ -1,0 +1,61 @@
+{
+    "index": 7567,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7567
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_Schurter_UMT250"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_Schurter_UMT250"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Schurter fuse smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMT250.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMT250"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

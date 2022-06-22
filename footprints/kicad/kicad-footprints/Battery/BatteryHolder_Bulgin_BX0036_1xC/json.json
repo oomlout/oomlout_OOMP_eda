@@ -1,0 +1,61 @@
+{
+    "index": 3,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Bulgin_BX0036_1xC"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Bulgin_BX0036_1xC"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Bulgin BX0036"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Bulgin_BX0036_1xC.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Bulgin_BX0036_1xC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

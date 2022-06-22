@@ -1,0 +1,61 @@
+{
+    "index": 8249,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8249
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Adafruit_Feather_WICED"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Adafruit_Feather_WICED"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Adafruit Feather WICED Wifi"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

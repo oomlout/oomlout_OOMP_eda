@@ -1,0 +1,57 @@
+{
+    "index": 8396,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8396
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_5.3mm_M5_Pad_TopBottom"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_5.3mm_M5_Pad_TopBottom"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 5.3mm, M5"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 5.3mm m5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_Pad_TopBottom"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

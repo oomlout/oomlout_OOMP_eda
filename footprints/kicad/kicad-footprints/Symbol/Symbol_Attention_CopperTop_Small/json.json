@@ -1,0 +1,57 @@
+{
+    "index": 11463,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11463
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_Attention_CopperTop_Small"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_Attention_CopperTop_Small"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Symbol, Attention, Copper Top, Small,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Symbol, Attention, Copper Top, Small,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Attention_CopperTop_Small"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

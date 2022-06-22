@@ -1,0 +1,61 @@
+{
+    "index": 649,
+    "tags": [
+        {
+            "name": "index",
+            "value": 649
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Axial series, Axial, Horizontal, pin pitch=12.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Axial series Axial Horizontal pin pitch 12.5mm  length 3.8mm diameter 2.6mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

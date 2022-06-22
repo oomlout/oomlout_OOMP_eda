@@ -1,0 +1,61 @@
+{
+    "index": 7585,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7585
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Heatsink, StoneCold HS"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

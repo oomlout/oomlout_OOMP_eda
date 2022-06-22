@@ -1,0 +1,61 @@
+{
+    "index": 277,
+    "tags": [
+        {
+            "name": "index",
+            "value": 277
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_E-Switch_EG1271_DPDT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_E-Switch_EG1271_DPDT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "E-Switch sub miniature slide switch, EG series, DPDT, http://spec_sheets.e-switch.com/specs/P040047.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch DPDT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1271_DPDT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1271_DPDT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

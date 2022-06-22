@@ -1,0 +1,61 @@
+{
+    "index": 8261,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8261
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Carambola2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Carambola2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "carambola2 8devices"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Carambola2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Carambola2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

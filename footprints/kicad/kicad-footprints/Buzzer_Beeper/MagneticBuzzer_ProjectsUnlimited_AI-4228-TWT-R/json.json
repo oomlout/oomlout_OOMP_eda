@@ -1,0 +1,61 @@
+{
+    "index": 332,
+    "tags": [
+        {
+            "name": "index",
+            "value": 332
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Buzzer, Elektromagnetic Beeper, Summer, 3-28V-DC, https://www.kynix.com/uploadfiles/pdf/AI-4228-TWT-R.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Projects Unlimited AI-4228-TWT-R"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 7376,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7376
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ERM19264"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/ERM19264"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ERM19264 Graphics Display 192x64"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-ERM19264"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

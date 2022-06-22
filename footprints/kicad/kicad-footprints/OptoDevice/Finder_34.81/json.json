@@ -1,0 +1,61 @@
+{
+    "index": 8647,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8647
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Finder_34.81"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Finder_34.81"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay SPST Finder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Finder_34.81.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

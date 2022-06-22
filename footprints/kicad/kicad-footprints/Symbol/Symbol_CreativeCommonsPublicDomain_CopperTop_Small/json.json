@@ -1,0 +1,57 @@
+{
+    "index": 11474,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11474
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_CreativeCommonsPublicDomain_CopperTop_Small"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_CreativeCommonsPublicDomain_CopperTop_Small"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Symbol, Creative Commons Public Domain, CopperTop, Small,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Symbol, Creative Commons Public Domain, CopperTop, Small,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_CopperTop_Small"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10040,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10040
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Infineon_PG-DSO-8-43"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Infineon_PG-DSO-8-43"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Infineon_PG-DSO-8-43"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DSO DSO-8 SOIC SOIC-8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-8-43.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-43"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

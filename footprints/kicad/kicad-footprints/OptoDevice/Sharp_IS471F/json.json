@@ -1,0 +1,61 @@
+{
+    "index": 8699,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8699
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Sharp_IS471F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Sharp_IS471F"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Sharp OPIC IS471F"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS471F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8685,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8685
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PerkinElmer_VTL5C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/PerkinElmer_VTL5C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "vactrol"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/PerkinElmer_VTL5C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-PerkinElmer_VTL5C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9674,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9674
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP-48_W15.24mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/DIP-48_W15.24mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL PDIP 2.54mm 15.24mm 600mil"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-48_W15.24mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

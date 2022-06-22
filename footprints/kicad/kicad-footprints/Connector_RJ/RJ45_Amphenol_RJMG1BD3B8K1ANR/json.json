@@ -1,0 +1,61 @@
+{
+    "index": 5998,
+    "tags": [
+        {
+            "name": "index",
+            "value": 5998
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_RJ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RJ45_Amphenol_RJMG1BD3B8K1ANR"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "RJ45 Magjack"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJMG1BD3B8K1ANR.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJMG1BD3B8K1ANR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

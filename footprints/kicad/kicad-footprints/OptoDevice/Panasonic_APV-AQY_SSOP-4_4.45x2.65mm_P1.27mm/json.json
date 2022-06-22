@@ -1,0 +1,61 @@
+{
+    "index": 8684,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8684
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.panasonic-electric-works.com/cps/rde/xbcr/pew_eu_en/technical_information_photomos_en.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP4 APV21 AQY22"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

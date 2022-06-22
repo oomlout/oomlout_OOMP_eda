@@ -1,0 +1,61 @@
+{
+    "index": 8788,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8788
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-200, 14.5x10.0mm, 200 Ball, 12x22 Layout, 0.8x0.65mm Pitch, http://www.issi.com/WW/pdf/43-46LQ32256A-AL.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 200 0.8x0.65"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

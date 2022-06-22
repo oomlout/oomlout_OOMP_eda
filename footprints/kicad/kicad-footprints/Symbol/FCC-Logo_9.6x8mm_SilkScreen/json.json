@@ -1,0 +1,57 @@
+{
+    "index": 11379,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11379
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FCC-Logo_9.6x8mm_SilkScreen"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/FCC-Logo_9.6x8mm_SilkScreen"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "FCC marking"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Logo FCC certification"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_9.6x8mm_SilkScreen"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10185,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10185
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP-8_3.9x5.05mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSOP-8_3.9x5.05mm_P1.27mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SSOP, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSOP SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.9x5.05mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

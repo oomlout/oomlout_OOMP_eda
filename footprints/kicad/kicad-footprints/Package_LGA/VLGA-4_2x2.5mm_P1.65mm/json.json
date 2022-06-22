@@ -1,0 +1,61 @@
+{
+    "index": 9876,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9876
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VLGA-4_2x2.5mm_P1.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/VLGA-4_2x2.5mm_P1.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "VLGA, 4 Pin (https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20005625C.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "VLGA NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/VLGA-4_2x2.5mm_P1.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

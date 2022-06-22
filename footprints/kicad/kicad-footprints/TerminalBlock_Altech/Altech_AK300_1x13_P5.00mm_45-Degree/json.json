@@ -1,0 +1,61 @@
+{
+    "index": 11553,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11553
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_Altech"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Altech_AK300_1x13_P5.00mm_45-Degree"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x13_P5.00mm_45-Degree"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Altech AK300 serie terminal block (Script generated with StandardBox.py) (http://www.altechcorp.com/PDFS/PCBMETRC.PDF)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Altech AK300 serie connector"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x13_P5.00mm_45-Degree.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x13_P5.00mm_45-Degree"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

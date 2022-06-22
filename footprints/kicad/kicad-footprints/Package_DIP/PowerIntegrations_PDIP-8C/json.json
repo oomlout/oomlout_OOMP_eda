@@ -1,0 +1,61 @@
+{
+    "index": 9738,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9738
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_PDIP-8C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/PowerIntegrations_PDIP-8C"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_PDIP-8C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_PDIP-8C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

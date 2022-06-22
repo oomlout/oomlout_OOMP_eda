@@ -1,0 +1,61 @@
+{
+    "index": 851,
+    "tags": [
+        {
+            "name": "index",
+            "value": 851
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Rect_L41.5mm_W35.0mm_P37.50mm_MKS4"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Rect_L41.5mm_W35.0mm_P37.50mm_MKS4"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Rect series, Radial, pin pitch=37.50mm, , length*width=41.5*35mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Rect series Radial pin pitch 37.50mm  length 41.5mm width 35mm Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L41.5mm_W35.0mm_P37.50mm_MKS4.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L41.5mm_W35.0mm_P37.50mm_MKS4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

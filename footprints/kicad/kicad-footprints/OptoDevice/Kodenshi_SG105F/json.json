@@ -1,0 +1,61 @@
+{
+    "index": 8657,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8657
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Kodenshi_SG105F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Kodenshi_SG105F"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "package for Kodenshi SG-105F, see http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105F.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "refective opto couple photo coupler"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_SG105F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

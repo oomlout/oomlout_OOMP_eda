@@ -1,0 +1,61 @@
+{
+    "index": 9357,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9357
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ROHM_DFN0604-3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/ROHM_DFN0604-3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DFN package size 0604 3 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DFN package size 0604 3 pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ROHM_DFN0604-3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ROHM_DFN0604-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

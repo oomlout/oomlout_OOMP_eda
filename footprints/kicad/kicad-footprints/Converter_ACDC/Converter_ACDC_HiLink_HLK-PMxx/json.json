@@ -1,0 +1,61 @@
+{
+    "index": 6914,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6914
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_HiLink_HLK-PMxx"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_HiLink_HLK-PMxx"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ACDC-Converter 3W THT HiLink board mount module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_HiLink_HLK-PMxx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_HiLink_HLK-PMxx"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

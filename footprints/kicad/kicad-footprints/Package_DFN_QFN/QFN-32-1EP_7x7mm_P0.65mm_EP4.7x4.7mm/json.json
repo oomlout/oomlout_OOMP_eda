@@ -1,0 +1,61 @@
+{
+    "index": 9255,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9255
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "QFN, 32 Pin (https://www.nxp.com/docs/en/data-sheet/LPC111X.pdf#page=108), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QFN NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_7x7mm_P0.65mm_EP4.7x4.7mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

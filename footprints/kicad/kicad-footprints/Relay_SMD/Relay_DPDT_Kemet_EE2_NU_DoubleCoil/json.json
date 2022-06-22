@@ -1,0 +1,61 @@
+{
+    "index": 10880,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10880
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_Kemet_EE2_NU_DoubleCoil"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_SMD/Relay_DPDT_Kemet_EE2_NU_DoubleCoil"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Kemet_EE2_NU_DoubleCoil.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NU_DoubleCoil"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

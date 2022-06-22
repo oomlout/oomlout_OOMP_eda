@@ -1,0 +1,61 @@
+{
+    "index": 3502,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3502
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_MC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_MCV_1,5_13-GF-3.81_1x13_P3.81mm_Vertical_ThreadedFlange"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_13-GF-3.81_1x13_P3.81mm_Vertical_ThreadedFlange"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Generic Phoenix Contact connector footprint for: MCV_1,5/13-GF-3.81; number of pins: 13; pin pitch: 3.81mm; Vertical; threaded flange || order number: 1830703 8A 160V"
+        },
+        {
+            "name": "kicadTags",
+            "value": "phoenix_contact connector MCV_01x13_GF_3.81mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_13-GF-3.81_1x13_P3.81mm_Vertical_ThreadedFlange.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_13-GF-3.81_1x13_P3.81mm_Vertical_ThreadedFlange"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

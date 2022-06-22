@@ -1,0 +1,25 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Potentiometer_THT
+- oompIndex: Potentiometer_Vishay_148E-149E_Dual_Horizontal
+- oompName: kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148E-149E_Dual_Horizontal
+- kicadDesc: Potentiometer, horizontal, Vishay 148E-149E Dual, http://www.vishay.com/docs/57040/148149.pdf
+- kicadTags: Potentiometer horizontal Vishay 148E-149E Dual
+- kicadAttr: through_hole
+- kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_148E-149E_Dual_Horizontal.wrl

@@ -1,0 +1,61 @@
+{
+    "index": 8797,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8797
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-400_21.0x21.0mm_Layout20x20_P1.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-400_21.0x21.0mm_Layout20x20_P1.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-400, https://www.xilinx.com/support/documentation/package_specs/fg400.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-400"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-400_21.0x21.0mm_Layout20x20_P1.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-400_21.0x21.0mm_Layout20x20_P1.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

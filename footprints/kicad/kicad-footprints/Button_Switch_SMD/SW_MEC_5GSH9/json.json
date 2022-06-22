@@ -1,0 +1,61 @@
+{
+    "index": 169,
+    "tags": [
+        {
+            "name": "index",
+            "value": 169
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_MEC_5GSH9"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_MEC_5GSH9"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MEC 5G single pole normally-open tactile switch"
+        },
+        {
+            "name": "kicadTags",
+            "value": "switch normally-open pushbutton push-button"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_MEC_5GSH9.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_MEC_5GSH9"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

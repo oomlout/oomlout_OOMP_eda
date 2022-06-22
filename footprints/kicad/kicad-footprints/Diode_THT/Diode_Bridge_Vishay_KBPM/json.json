@@ -1,0 +1,61 @@
+{
+    "index": 7268,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7268
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_Vishay_KBPM"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBPM"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Vishay KBM rectifier diode bridge"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPM.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

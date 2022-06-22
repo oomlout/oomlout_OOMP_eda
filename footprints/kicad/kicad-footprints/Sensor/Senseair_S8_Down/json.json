@@ -1,0 +1,61 @@
+{
+    "index": 11292,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11292
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Senseair_S8_Down"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor/Senseair_S8_Down"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT"
+        },
+        {
+            "name": "kicadTags",
+            "value": "co2 gas sensor pwm modbus"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Down.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-Senseair_S8_Down"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

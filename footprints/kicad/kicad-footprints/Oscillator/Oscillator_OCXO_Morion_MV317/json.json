@@ -1,0 +1,61 @@
+{
+    "index": 8716,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8716
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_OCXO_Morion_MV317"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_OCXO_Morion_MV317"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.morion-us.com/catalog_pdf/mv317.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "OCXO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV317.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV317"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

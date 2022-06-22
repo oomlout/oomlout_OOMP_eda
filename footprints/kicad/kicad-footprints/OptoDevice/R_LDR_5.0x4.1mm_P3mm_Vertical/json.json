@@ -1,0 +1,61 @@
+{
+    "index": 8691,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8691
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_LDR_5.0x4.1mm_P3mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/R_LDR_5.0x4.1mm_P3mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, LDR 5x4.1mm, see http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor LDR5x4.1mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.0x4.1mm_P3mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.0x4.1mm_P3mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

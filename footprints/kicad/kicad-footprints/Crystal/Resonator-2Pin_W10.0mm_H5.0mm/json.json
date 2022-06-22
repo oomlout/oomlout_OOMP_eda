@@ -1,0 +1,61 @@
+{
+    "index": 7152,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7152
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Resonator-2Pin_W10.0mm_H5.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Resonator-2Pin_W10.0mm_H5.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Ceramic Resomator/Filter 10.0x5.0 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 2 pins"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT ceramic resonator filter"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-2Pin_W10.0mm_H5.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-2Pin_W10.0mm_H5.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

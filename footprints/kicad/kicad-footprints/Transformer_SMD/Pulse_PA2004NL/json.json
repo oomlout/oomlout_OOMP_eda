@@ -1,0 +1,61 @@
+{
+    "index": 12093,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12093
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Pulse_PA2004NL"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Pulse_PA2004NL"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMT Gate Drive Transformer, 1:1:1, 8.6x6.7x3.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "pulse pa2004nl pa0264nl"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA2004NL.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2004NL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

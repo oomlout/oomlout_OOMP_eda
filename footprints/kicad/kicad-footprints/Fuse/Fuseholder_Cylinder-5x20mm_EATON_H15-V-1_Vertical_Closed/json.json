@@ -1,0 +1,61 @@
+{
+    "index": 7477,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7477
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PCB fuse holders for 5 mm x 20 mm fuses; 250V; 10A (http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/bus-elx-ds-4426-h15.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "fuse holder vertical 5x20mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_EATON_H15-V-1_Vertical_Closed"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

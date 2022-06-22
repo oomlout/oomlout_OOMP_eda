@@ -1,0 +1,61 @@
+{
+    "index": 9021,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9021
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP/XFBGA 8-pin package, staggered pins, http://www.adestotech.com/wp-content/uploads/DS-AT25DF041B_040.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WLCSP WLCSP-8 XFBGA XFBGA-8  CSP BGA Chip-Scale Glass-Top"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

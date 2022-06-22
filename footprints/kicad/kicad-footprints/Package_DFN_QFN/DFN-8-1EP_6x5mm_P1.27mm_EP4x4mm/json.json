@@ -1,0 +1,61 @@
+{
+    "index": 9093,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9093
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "dfn"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_6x5mm_Pitch1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_6x5mm_P1.27mm_EP4x4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

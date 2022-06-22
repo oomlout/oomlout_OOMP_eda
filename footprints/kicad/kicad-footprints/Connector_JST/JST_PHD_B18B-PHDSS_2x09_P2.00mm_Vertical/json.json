@@ -1,0 +1,61 @@
+{
+    "index": 2099,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2099
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JST"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JST_PHD_B18B-PHDSS_2x09_P2.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JST/JST_PHD_B18B-PHDSS_2x09_P2.00mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "JST PHD series connector, B18B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector JST PHD vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PHD_B18B-PHDSS_2x09_P2.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B18B-PHDSS_2x09_P2.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

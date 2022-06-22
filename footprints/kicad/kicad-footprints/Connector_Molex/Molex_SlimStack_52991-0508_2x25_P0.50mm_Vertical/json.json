@@ -1,0 +1,61 @@
+{
+    "index": 3215,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3215
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_SlimStack_52991-0508_2x25_P0.50mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_SlimStack_52991-0508_2x25_P0.50mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0508, 50 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex SlimStack vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SlimStack_52991-0508_2x25_P0.50mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_52991-0508_2x25_P0.50mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

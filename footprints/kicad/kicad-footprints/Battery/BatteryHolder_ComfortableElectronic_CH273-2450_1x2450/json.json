@@ -1,0 +1,61 @@
+{
+    "index": 4,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_ComfortableElectronic_CH273-2450_1x2450"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Comfortable Electronic CR2450"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_ComfortableElectronic_CH273-2450_1x2450"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

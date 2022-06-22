@@ -1,0 +1,61 @@
+{
+    "index": 6951,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6951
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Murata MGJ2DxxxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 2W, SIP package style, https://power.murata.com/data/power/ncl/kdc_mgj2.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Murata MGJ2DxxxxxxSC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

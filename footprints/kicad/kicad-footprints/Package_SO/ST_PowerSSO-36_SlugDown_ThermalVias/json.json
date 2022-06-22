@@ -1,0 +1,61 @@
+{
+    "index": 10193,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10193
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_PowerSSO-36_SlugDown_ThermalVias"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/ST_PowerSSO-36_SlugDown_ThermalVias"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "ST PowerSSO-36 1EP 7.5x10.3mm Pitch 0.8mm [JEDEC MO-271] (http://www.st.com/resource/en/datasheet/tda7492p.pdf, http://freedatasheets.com/downloads/Technical%20Note%20Powersso24%20TN0054.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "ST PowerSSO-36 1EP 7.5x10.3mm Pitch 0.8mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugDown.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugDown_ThermalVias"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8990,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8990
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_WLCSP-63_Die427"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/ST_WLCSP-63_Die427"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLCSP-63, 7x9 raster, 3.228x4.164mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l151cc.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 63 0.4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-63_Die427.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-63_Die427"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

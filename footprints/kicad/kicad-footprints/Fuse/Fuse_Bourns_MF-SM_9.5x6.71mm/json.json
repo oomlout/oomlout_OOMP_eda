@@ -1,0 +1,61 @@
+{
+    "index": 7560,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7560
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fuse_Bourns_MF-SM_9.5x6.71mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fuse/Fuse_Bourns_MF-SM_9.5x6.71mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "bourns ptc resettable fuse polyfuse MF-SM MF-SMHT"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_9.5x6.71mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

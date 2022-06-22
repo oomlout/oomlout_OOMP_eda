@@ -1,0 +1,61 @@
+{
+    "index": 11191,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11191
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Mini-Circuits"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_HZ1198_LandPatternPL-247"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Mini-Circuits/Mini-Circuits_HZ1198_LandPatternPL-247"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Footprint for Mini-Circuits cas HZ1198 (https://ww2.minicircuits.com/case_style/HZ1198.pdf) following land pattern PL-247, including GND-vias (https://www.minicircuits.com/pcb/98-pl247.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Mini-Circuits PL-247 HZ1198"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HZ1198.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198_LandPatternPL-247"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

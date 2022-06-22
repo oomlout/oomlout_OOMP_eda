@@ -1,0 +1,61 @@
+{
+    "index": 1,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Audio_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Reverb_BTDR-1H"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Audio_Module/Reverb_BTDR-1H"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "audio belton reverb"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Audio_Module.3dshapes/Reverb_BTDR-1H.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Audio_Module-Reverb_BTDR-1H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

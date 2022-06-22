@@ -1,0 +1,61 @@
+{
+    "index": 9128,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9128
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Mini-Circuits_FG873-4_3x3mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/Mini-Circuits_FG873-4_3x3mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mini Circuits Case style FG (https://ww2.minicircuits.com/case_style/FG873.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "FG873"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_FG873-4_3x3mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

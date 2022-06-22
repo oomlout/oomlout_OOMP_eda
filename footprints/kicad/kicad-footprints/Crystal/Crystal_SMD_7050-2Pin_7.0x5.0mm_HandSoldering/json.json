@@ -1,0 +1,61 @@
+{
+    "index": 7076,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7076
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

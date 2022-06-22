@@ -1,0 +1,61 @@
+{
+    "index": 121,
+    "tags": [
+        {
+            "name": "index",
+            "value": 121
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_DIP_SPSTx05_Slide_Omron_A6S-510x_W8.9mm_P2.54mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx05_Slide_Omron_A6S-510x_W8.9mm_P2.54mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD 5x-dip-switch SPST Omron_A6S-510x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD DIP Switch SPST Slide 8.9mm 350mil"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx05_Slide_Omron_A6S-510x_W8.9mm_P2.54mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx05_Slide_Omron_A6S-510x_W8.9mm_P2.54mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

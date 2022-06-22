@@ -1,0 +1,57 @@
+{
+    "index": 8289,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8289
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_2.2mm_M2_Pad"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_2.2mm_M2_Pad"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 2.2mm, M2"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 2.2mm m2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_Pad"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

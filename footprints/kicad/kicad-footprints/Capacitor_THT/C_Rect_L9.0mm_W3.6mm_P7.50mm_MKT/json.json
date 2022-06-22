@@ -1,0 +1,61 @@
+{
+    "index": 876,
+    "tags": [
+        {
+            "name": "index",
+            "value": 876
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Rect series, Radial, pin pitch=7.50mm, , length*width=9*3.6mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Rect series Radial pin pitch 7.50mm  length 9mm width 3.6mm Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10883,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10883
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_Omron_G6K-2F-Y"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6K-2F-Y"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Omron G6K-2F-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Omron G6K-2F-Y relay"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6K-2F-Y.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6K-2F-Y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 942,
+    "tags": [
+        {
+            "name": "index",
+            "value": 942
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Jack_3.5mm_Switronic_ST-005-G_horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Connector Audio Switronic ST-005-G"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Switronic_ST-005-G_horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

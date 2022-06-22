@@ -1,0 +1,61 @@
+{
+    "index": 9870,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9870
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NXP_LGA-8_3x5mm_P1.25mm_H1.2mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "NXP  LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NXP LGA NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.2mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

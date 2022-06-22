@@ -1,0 +1,61 @@
+{
+    "index": 7947,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7947
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Radial series, Radial, pin pitch=12.07mm, , diameter=16.8mm, Vishay, IHB-1, http://www.vishay.com/docs/34015/ihb.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Radial series Radial pin pitch 12.07mm  diameter 16.8mm Vishay IHB-1"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

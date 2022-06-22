@@ -1,0 +1,61 @@
+{
+    "index": 12158,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12158
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_CHK_UI39-10VA_Flat"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_CHK_UI39-10VA_Flat"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Trafo, Flattrafo, CHK, UI39, 10VA,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Trafo Flattrafo CHK UI39 10VA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_UI39-10VA_Flat.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI39-10VA_Flat"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

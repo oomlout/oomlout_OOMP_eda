@@ -1,0 +1,61 @@
+{
+    "index": 9673,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9673
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIP-42_W16.51mm_SMDSocket_LongPads"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/DIP-42_W16.51mm_SMDSocket_LongPads"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "42-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-42_W16.51mm_SMDSocket.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-42_W16.51mm_SMDSocket_LongPads"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

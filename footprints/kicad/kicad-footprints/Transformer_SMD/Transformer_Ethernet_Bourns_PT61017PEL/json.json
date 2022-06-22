@@ -1,0 +1,61 @@
+{
+    "index": 12104,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12104
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Ethernet_Bourns_PT61017PEL"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61017PEL"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Transformer Ethernet Single Center-Tap"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Bourns_PT61017PEL.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61017PEL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 11231,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11231
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MOD-nRF8001"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/MOD-nRF8001"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BLE module, https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BLE module"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/MOD-nRF8001.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-MOD-nRF8001"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

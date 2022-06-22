@@ -1,0 +1,61 @@
+{
+    "index": 10683,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10683
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-5-6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-5-6"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-5-6"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TO-5-6"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-5-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-5-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

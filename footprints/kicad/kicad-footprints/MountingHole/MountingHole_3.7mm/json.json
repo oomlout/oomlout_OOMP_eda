@@ -1,0 +1,57 @@
+{
+    "index": 8343,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8343
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_3.7mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_3.7mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 3.7mm, no annular"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 3.7mm no annular"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.7mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

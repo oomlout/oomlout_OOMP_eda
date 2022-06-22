@@ -1,0 +1,61 @@
+{
+    "index": 10159,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10159
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSO-7-8_6.4x9.78mm_P2.54mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SSO-7-8_6.4x9.78mm_P2.54mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SSO, 7 Pin (https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787), generated with kicad-footprint-generator ipc_gullwing_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SSO SO"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSO-7-8_6.4x9.78mm_P2.54mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-7-8_6.4x9.78mm_P2.54mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

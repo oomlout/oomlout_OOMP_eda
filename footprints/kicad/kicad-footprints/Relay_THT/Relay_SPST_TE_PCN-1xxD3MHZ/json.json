@@ -1,0 +1,61 @@
+{
+    "index": 10967,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10967
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPST_TE_PCN-1xxD3MHZ"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPST_TE_PCN-1xxD3MHZ"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1461491%7FG2%7Fpdf%7FEnglish%7FENG_CD_1461491_G2.pdf%7F3-1461491-0"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SPST relay slim"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_TE_PCN-1xxD3MHZ.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCN-1xxD3MHZ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

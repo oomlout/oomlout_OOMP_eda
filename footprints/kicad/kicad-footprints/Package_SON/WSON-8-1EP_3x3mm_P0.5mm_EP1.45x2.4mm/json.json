@@ -1,0 +1,61 @@
+{
+    "index": 10363,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10363
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "WSON NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

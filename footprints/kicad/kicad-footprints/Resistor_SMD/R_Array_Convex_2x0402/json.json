@@ -1,0 +1,61 @@
+{
+    "index": 11006,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11006
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Array_Convex_2x0402"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_SMD/R_Array_Convex_2x0402"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Chip Resistor Network, ROHM MNR02 (see mnr_g.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "resistor array"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_2x0402.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0402"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

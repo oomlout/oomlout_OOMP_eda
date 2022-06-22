@@ -1,0 +1,61 @@
+{
+    "index": 6464,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6464
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_SATA_SAS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SATA_Amphenol_10029364-001LF_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_SATA_SAS/SATA_Amphenol_10029364-001LF_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029364.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SATA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_SATA_SAS.3dshapes/SATA_Amphenol_10029364-001LF_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

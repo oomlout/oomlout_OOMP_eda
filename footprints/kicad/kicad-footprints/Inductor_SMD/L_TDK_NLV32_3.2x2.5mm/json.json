@@ -1,0 +1,61 @@
+{
+    "index": 7731,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7731
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_TDK_NLV32_3.2x2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_TDK_NLV32_3.2x2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TDK NLV32, 3.2x2.5x2.2mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "tdk nlv32 nlcv32 nlfv32"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV32_3.2x2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV32_3.2x2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10874,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10874
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_FRT5_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_SMD/Relay_DPDT_FRT5_SMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "IM Signal Relay DPDT FRT5 narrow footprint, SMD version of package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay DPDT IM-relay FRT5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_FRT5_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_FRT5_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

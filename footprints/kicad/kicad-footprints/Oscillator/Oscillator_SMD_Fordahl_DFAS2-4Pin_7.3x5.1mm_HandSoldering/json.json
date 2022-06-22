@@ -1,0 +1,61 @@
+{
+    "index": 8740,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8740
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mminiature Crystal Clock Oscillator TXCO Fordahl DFA S2-KS/LS/US, http://www.iqdfrequencyproducts.com/products/details/iqxo-70-11-30.pdf, hand-soldering, 7.3x5.1mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal oscillator hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

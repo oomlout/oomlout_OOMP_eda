@@ -1,0 +1,61 @@
+{
+    "index": 10544,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10544
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-218-3_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-218-3_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-218-3, Vertical, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TO-218-3 Vertical RM 5.475mm SOT-93"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-218-3_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-218-3_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

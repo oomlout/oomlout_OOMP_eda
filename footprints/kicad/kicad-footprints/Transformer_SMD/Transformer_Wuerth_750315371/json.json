@@ -1,0 +1,61 @@
+{
+    "index": 12123,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12123
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Wuerth_750315371"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_Wuerth_750315371"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "transformer flyback"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Wuerth_750315371.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

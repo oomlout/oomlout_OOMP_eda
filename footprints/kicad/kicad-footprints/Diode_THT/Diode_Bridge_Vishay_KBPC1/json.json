@@ -1,0 +1,61 @@
+{
+    "index": 7266,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7266
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_Vishay_KBPC1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/Diode_Bridge_Vishay_KBPC1"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Single phase bridge rectifier case KBPC1, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode Bridge"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPC1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPC1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

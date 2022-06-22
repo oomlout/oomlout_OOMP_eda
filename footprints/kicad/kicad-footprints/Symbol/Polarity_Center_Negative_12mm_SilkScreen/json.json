@@ -1,0 +1,57 @@
+{
+    "index": 11444,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11444
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Polarity_Center_Negative_12mm_SilkScreen"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Polarity_Center_Negative_12mm_SilkScreen"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Polarity Logo, Center Negative"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Logo Polarity Center Negative"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_12mm_SilkScreen"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

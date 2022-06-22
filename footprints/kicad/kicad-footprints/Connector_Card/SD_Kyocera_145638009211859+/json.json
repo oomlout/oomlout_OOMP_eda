@@ -1,0 +1,61 @@
+{
+    "index": 1151,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1151
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Card"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SD_Kyocera_145638009211859+"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Card/SD_Kyocera_145638009211859+"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "sd card smt"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_Kyocera_145638009211859+.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638009211859+"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

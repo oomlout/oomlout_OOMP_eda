@@ -1,0 +1,24 @@
+
+
+
+
+Contents
+========
+
+* [](#)
+	* [Tags](#tags)
+
+# 
+
+## Tags
+
+- hexID: 
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_Wire
+- oompIndex: SolderWirePad_1x01_SMD_1x2mm
+- oompName: kicad-footprints/Connector_Wire/SolderWirePad_1x01_SMD_1x2mm
+- kicadDesc: Wire Pad, Square, SMD Pad,  5mm x 10mm,
+- kicadTags: MesurementPoint Square SMDPad 5mmx10mm
+- kicadAttr: exclude_from_pos_files exclude_from_bom

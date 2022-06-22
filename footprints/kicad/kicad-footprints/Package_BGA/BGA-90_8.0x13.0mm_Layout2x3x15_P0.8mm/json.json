@@ -1,0 +1,61 @@
+{
+    "index": 8807,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8807
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "BGA-90, http://www.issi.com/WW/pdf/42-45S32800J.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA-90"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

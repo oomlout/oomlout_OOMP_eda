@@ -1,0 +1,61 @@
+{
+    "index": 10743,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10743
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_ACP_CA6-VSMD_Vertical_Hole"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical_Hole"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Potentiometer, vertical, shaft hole, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Potentiometer vertical hole ACP CA6-VSMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA6-VSMD_Vertical_Hole.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_ACP_CA6-VSMD_Vertical_Hole"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

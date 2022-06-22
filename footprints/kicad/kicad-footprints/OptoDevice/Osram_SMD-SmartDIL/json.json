@@ -1,0 +1,61 @@
+{
+    "index": 8683,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8683
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Osram_SMD-SmartDIL"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Osram_SMD-SmartDIL"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PhotoDiode, plastic SMD SmatDIL"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PhotoDiode plastic SMD SmatDIL"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SMD-SmartDIL.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

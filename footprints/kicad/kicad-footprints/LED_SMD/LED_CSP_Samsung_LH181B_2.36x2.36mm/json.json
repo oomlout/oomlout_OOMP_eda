@@ -1,0 +1,61 @@
+{
+    "index": 8124,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8124
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_CSP_Samsung_LH181B_2.36x2.36mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_CSP_Samsung_LH181B_2.36x2.36mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "High Power CSP LED, 2.36mm x 2.36mm, 1.4A max, https://cdn.samsung.com/led/file/resource/2021/01/Data_Sheet_LH181B_Rev.4.0.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED Samsung LH181B"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_CSP_Samsung_LH181B_2.36x2.36mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 4485,
+    "tags": [
+        {
+            "name": "index",
+            "value": 4485
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinHeader_2.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinHeader_1x04_P2.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x04_P2.00mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Through hole angled pin header, 1x04, 2.00mm pitch, 4.2mm pin length, single row"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Through hole angled pin header THT 1x04 2.00mm single row"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x04_P2.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_1x04_P2.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

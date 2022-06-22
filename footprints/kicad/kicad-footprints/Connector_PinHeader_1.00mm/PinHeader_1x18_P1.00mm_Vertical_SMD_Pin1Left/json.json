@@ -1,0 +1,61 @@
+{
+    "index": 3987,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3987
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinHeader_1.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinHeader_1x18_P1.00mm_Vertical_SMD_Pin1Left"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_1x18_P1.00mm_Vertical_SMD_Pin1Left"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "surface-mounted straight pin header, 1x18, 1.00mm pitch, single row, style 1 (pin 1 left)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Surface mounted pin header SMD 1x18 1.00mm single row style1 pin1 left"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x18_P1.00mm_Vertical_SMD_Pin1Left.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x18_P1.00mm_Vertical_SMD_Pin1Left"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

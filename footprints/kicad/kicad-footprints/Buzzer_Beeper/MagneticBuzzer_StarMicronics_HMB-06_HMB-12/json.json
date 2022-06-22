@@ -1,0 +1,61 @@
+{
+    "index": 337,
+    "tags": [
+        {
+            "name": "index",
+            "value": 337
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Buzzer_Beeper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MagneticBuzzer_StarMicronics_HMB-06_HMB-12"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Buzzer, Elektromagnetic Beeper, Summer,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Star Micronics HMB-06 HMB-12"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_StarMicronics_HMB-06_HMB-12.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_StarMicronics_HMB-06_HMB-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

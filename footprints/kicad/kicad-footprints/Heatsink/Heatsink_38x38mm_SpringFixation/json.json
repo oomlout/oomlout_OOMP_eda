@@ -1,0 +1,61 @@
+{
+    "index": 7572,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7572
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_38x38mm_SpringFixation"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_38x38mm_SpringFixation"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Heatsink, 38x38mm, Spring Fixation, diagonal,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "heatsink"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_38x38mm_SpringFixation.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_38x38mm_SpringFixation"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

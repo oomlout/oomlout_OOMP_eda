@@ -1,0 +1,61 @@
+{
+    "index": 10551,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10551
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-220-15, Horizontal, RM 1.27mm, staggered type-2, see http://www.st.com/resource/en/datasheet/l298.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "TO-220-15 Horizontal RM 1.27mm staggered type-2"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

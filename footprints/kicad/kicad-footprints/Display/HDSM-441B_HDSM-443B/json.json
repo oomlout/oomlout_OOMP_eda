@@ -1,0 +1,61 @@
+{
+    "index": 7377,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7377
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDSM-441B_HDSM-443B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/HDSM-441B_HDSM-443B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN"
+        },
+        {
+            "name": "kicadTags",
+            "value": "2 Digit 7 segment blue LED"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSM-441B_HDSM-443B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-HDSM-441B_HDSM-443B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

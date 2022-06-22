@@ -1,0 +1,61 @@
+{
+    "index": 10084,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10084
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QSOP-20_3.9x8.7mm_P0.635mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/QSOP-20_3.9x8.7mm_P0.635mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "20-Lead Plastic Shrink Small Outline Narrow Body (http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM7640_7641_7642_7643.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "QSOP 0.635"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/QSOP-20_3.9x8.7mm_P0.635mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-QSOP-20_3.9x8.7mm_P0.635mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

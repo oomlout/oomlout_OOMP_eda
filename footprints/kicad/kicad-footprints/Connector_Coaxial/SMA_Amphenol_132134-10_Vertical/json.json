@@ -1,0 +1,61 @@
+{
+    "index": 1167,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1167
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Coaxial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA_Amphenol_132134-10_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Coaxial/SMA_Amphenol_132134-10_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMA SMD Female Jack Vertical"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-10_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-10_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

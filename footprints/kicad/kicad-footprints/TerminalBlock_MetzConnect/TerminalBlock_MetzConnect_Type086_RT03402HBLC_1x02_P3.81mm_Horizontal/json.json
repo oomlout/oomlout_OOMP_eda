@@ -1,0 +1,61 @@
+{
+    "index": 11621,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11621
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_MetzConnect"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_MetzConnect_Type086_RT03402HBLC_1x02_P3.81mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type086_RT03402HBLC_1x02_P3.81mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "terminal block Metz Connect Type086_RT03402HBLC, 2 pins, pitch 3.81mm, size 7.51x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT terminal block Metz Connect Type086_RT03402HBLC pitch 3.81mm size 7.51x7.3mm^2 drill 0.7mm pad 1.4mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type086_RT03402HBLC_1x02_P3.81mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type086_RT03402HBLC_1x02_P3.81mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 147,
+    "tags": [
+        {
+            "name": "index",
+            "value": 147
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD 9x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x24.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

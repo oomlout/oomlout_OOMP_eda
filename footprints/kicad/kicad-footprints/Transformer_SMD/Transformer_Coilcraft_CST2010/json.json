@@ -1,0 +1,61 @@
+{
+    "index": 12101,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12101
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Coilcraft_CST2010"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST2010"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Current sense transformer, SMD, 14.55x19.91x10.50mm (https://www.coilcraft.com/pdfs/cst2010.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Transformer current sense SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Coilcraft_CST2010.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Coilcraft_CST2010"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

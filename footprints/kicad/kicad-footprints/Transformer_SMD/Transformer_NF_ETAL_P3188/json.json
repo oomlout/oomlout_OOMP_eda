@@ -1,0 +1,61 @@
+{
+    "index": 12118,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12118
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_NF_ETAL_P3188"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3188"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "NF-Transformer, ETAL, P3188, SMD,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "NF-Transformer ETAL P3188 SMD"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3188.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3188"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

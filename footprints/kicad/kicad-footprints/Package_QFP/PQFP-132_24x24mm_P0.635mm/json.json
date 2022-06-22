@@ -1,0 +1,61 @@
+{
+    "index": 9922,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9922
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_QFP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP-132_24x24mm_P0.635mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_QFP/PQFP-132_24x24mm_P0.635mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PQFP, 132 pins, 24mm sq body, 0.635mm pitch (https://www.intel.com/content/dam/www/public/us/en/documents/packaging-databooks/packaging-chapter-02-databook.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "PQFP 132"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-132_24x24mm_P0.635mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

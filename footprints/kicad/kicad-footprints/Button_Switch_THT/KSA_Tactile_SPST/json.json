@@ -1,0 +1,61 @@
+{
+    "index": 222,
+    "tags": [
+        {
+            "name": "index",
+            "value": 222
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KSA_Tactile_SPST"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/KSA_Tactile_SPST"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SWITCH SMD KSA SW"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/KSA_Tactile_SPST.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

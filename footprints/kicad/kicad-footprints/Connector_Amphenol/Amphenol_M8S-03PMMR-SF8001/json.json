@@ -1,0 +1,61 @@
+{
+    "index": 925,
+    "tags": [
+        {
+            "name": "index",
+            "value": 925
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Amphenol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Amphenol_M8S-03PMMR-SF8001"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "M8 Male connector for panel, 90\u00b0 PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "three-pin M8"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Amphenol.3dshapes/Amphenol_M8S-03PMMR-SF8001.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

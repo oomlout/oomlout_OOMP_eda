@@ -1,0 +1,61 @@
+{
+    "index": 2745,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2745
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_Micro-Fit_3.0_43045-2418_2x12-1MP_P3.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43045-2418_2x12-1MP_P3.00mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex Micro-Fit 3.0 Connector System, 43045-2418 (compatible alternatives: 43045-2419, 43045-2420), 12 Pins per row (http://www.molex.com/pdm_docs/sd/430450218_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex Micro-Fit_3.0 side entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-2418_2x12-1MP_P3.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43045-2418_2x12-1MP_P3.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

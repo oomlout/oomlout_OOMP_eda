@@ -1,0 +1,61 @@
+{
+    "index": 7246,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7246
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Littelfuse_PolyZen-LS"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/Littelfuse_PolyZen-LS"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode Polymer Protected Zener Diode Littelfuse LS"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Littelfuse_PolyZen-LS.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Littelfuse_PolyZen-LS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

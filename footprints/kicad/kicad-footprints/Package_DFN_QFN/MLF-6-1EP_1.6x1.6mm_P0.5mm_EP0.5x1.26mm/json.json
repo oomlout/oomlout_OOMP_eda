@@ -1,0 +1,61 @@
+{
+    "index": 9131,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9131
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DFN_QFN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "MLF, 6 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MLF NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

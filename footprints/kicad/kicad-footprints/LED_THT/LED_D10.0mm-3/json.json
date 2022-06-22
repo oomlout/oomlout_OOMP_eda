@@ -1,0 +1,61 @@
+{
+    "index": 8169,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8169
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_D10.0mm-3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_THT/LED_D10.0mm-3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LED, diameter 10.0mm, 2 pins, diameter 10.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-819EGW(Ver.14A).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED diameter 10.0mm 2 pins diameter 10.0mm 3 pins"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm-3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D10.0mm-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

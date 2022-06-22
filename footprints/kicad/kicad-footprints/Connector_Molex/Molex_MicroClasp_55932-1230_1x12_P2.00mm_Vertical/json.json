@@ -1,0 +1,61 @@
+{
+    "index": 2862,
+    "tags": [
+        {
+            "name": "index",
+            "value": 2862
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_MicroClasp_55932-1230_1x12_P2.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_MicroClasp_55932-1230_1x12_P2.00mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Molex MicroClasp Wire-to-Board System, 55932-1230, 12 Pins (http://www.molex.com/pdm_docs/sd/559320530_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector Molex MicroClasp side entry"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_MicroClasp_55932-1230_1x12_P2.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55932-1230_1x12_P2.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

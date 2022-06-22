@@ -1,0 +1,61 @@
+{
+    "index": 7843,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7843
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=14*4.5mm^2, Fastron, LACC, http://www.fastrongroup.com/image-show/20/LACC.pdf?type=Complete-DataSheet&productType=series"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 14mm diameter 4.5mm Fastron LACC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

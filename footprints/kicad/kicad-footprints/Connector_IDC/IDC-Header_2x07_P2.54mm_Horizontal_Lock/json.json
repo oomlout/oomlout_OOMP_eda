@@ -1,0 +1,61 @@
+{
+    "index": 1840,
+    "tags": [
+        {
+            "name": "index",
+            "value": 1840
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_IDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IDC-Header_2x07_P2.54mm_Horizontal_Lock"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Horizontal_Lock"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "connector idc locked"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Horizontal_Lock.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Horizontal_Lock"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

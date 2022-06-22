@@ -1,0 +1,61 @@
+{
+    "index": 8946,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8946
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LFCSP NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

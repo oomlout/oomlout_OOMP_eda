@@ -1,0 +1,61 @@
+{
+    "index": 8869,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8869
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "WLP-4, 2x2 raster, 0.73x0.73mm package, pitch 0.35mm; https://datasheets.maximintegrated.com/en/ds/MAX40200.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "BGA 4 0.35"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

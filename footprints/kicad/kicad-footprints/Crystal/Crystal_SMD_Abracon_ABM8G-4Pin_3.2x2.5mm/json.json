@@ -1,0 +1,61 @@
+{
+    "index": 7084,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7084
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

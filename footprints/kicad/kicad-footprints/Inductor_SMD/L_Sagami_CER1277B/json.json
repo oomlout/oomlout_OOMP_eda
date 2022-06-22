@@ -1,0 +1,61 @@
+{
+    "index": 7701,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7701
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Sagami_CER1277B"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Sagami_CER1277B"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Inductor, Sagami, h=8.0mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "inductor sagami cer12xxb smd"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CER1277B.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

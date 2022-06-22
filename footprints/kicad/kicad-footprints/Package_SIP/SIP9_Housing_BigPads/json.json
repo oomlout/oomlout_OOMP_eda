@@ -1,0 +1,61 @@
+{
+    "index": 9973,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9973
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP9_Housing_BigPads"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/SIP9_Housing_BigPads"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIP9, large pads"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIP9"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing_BigPads"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 12192,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12192
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Valve"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Valve_EURO"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Valve/Valve_EURO"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Valve Euro"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Valve Euro"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_EURO.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

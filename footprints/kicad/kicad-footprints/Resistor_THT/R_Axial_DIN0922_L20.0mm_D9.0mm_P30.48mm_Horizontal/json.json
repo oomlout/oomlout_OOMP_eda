@@ -1,0 +1,61 @@
+{
+    "index": 11091,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11091
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Resistor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Resistor_THT/R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Resistor, Axial_DIN0922 series, Axial, Horizontal, pin pitch=30.48mm, 5W, length*diameter=20*9mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Resistor Axial_DIN0922 series Axial Horizontal pin pitch 30.48mm 5W length 20mm diameter 9mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

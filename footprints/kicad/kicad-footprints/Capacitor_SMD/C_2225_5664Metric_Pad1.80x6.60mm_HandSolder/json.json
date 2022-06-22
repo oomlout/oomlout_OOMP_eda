@@ -1,0 +1,61 @@
+{
+    "index": 432,
+    "tags": [
+        {
+            "name": "index",
+            "value": 432
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_2225_5664Metric_Pad1.80x6.60mm_HandSolder"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_SMD/C_2225_5664Metric_Pad1.80x6.60mm_HandSolder"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "kicadTags",
+            "value": "capacitor handsolder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_2225_5664Metric.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2225_5664Metric_Pad1.80x6.60mm_HandSolder"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

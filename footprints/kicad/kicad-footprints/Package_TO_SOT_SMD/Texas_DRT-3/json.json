@@ -1,0 +1,61 @@
+{
+    "index": 10458,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10458
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_DRT-3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/Texas_DRT-3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DRT-3 1x0.8mm Pitch 0.7mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_DRT-3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_DRT-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

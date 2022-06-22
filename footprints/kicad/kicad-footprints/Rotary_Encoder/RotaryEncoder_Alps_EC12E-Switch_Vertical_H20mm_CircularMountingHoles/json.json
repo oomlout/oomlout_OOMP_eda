@@ -1,0 +1,61 @@
+{
+    "index": 11285,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11285
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Rotary_Encoder"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF"
+        },
+        {
+            "name": "kicadTags",
+            "value": "rotary encoder"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

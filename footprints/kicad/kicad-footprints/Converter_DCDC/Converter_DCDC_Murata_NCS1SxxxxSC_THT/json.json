@@ -1,0 +1,61 @@
+{
+    "index": 6953,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6953
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_Murata_NCS1SxxxxSC_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_Murata_NCS1SxxxxSC_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf (Script generated with StandardBox.py) (Murata NCS1SxxxxSC https://power.murata.com/data/power/ncl/kdc_ncs1.pdf)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Murata NCS1SxxxxSC"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NCS1SxxxxSC_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NCS1SxxxxSC_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

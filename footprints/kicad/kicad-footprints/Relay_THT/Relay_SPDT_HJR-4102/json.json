@@ -1,0 +1,61 @@
+{
+    "index": 10926,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10926
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPDT_HJR-4102"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPDT_HJR-4102"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "IM Signal Relay SPDT HJR-4102"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relay SPDT IM-relay HJR-4102"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HJR-4102.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_HJR-4102"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "index": 11469,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11469
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_CC-PublicDomain_CopperTop_Big"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_CC-PublicDomain_CopperTop_Big"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Symbol, CC-PublicDomain, Copper Top, Big,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Symbol, CC-PublicDomain, Copper Top, Big,"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Big"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

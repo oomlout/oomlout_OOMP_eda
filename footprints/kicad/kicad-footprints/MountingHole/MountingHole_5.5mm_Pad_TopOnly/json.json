@@ -1,0 +1,57 @@
+{
+    "index": 8402,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8402
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_5.5mm_Pad_TopOnly"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_5.5mm_Pad_TopOnly"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 5.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 5.5mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.5mm_Pad_TopOnly"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

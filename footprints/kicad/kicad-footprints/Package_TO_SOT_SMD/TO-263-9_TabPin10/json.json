@@ -1,0 +1,61 @@
+{
+    "index": 10479,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10479
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-263-9_TabPin10"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_SMD/TO-263-9_TabPin10"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "D2PAK DDPAK TO-263 D2PAK-9 TO-263-9"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-9_TabPin10.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-9_TabPin10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

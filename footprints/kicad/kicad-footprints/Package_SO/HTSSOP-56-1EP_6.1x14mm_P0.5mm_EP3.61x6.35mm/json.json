@@ -1,0 +1,61 @@
+{
+    "index": 10025,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10025
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "HTSSOP56: plastic thin shrink small outline package http://www.ti.com/lit/ds/symlink/drv8301.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "HTSSOP 0.5"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

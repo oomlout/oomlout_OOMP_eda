@@ -1,0 +1,61 @@
+{
+    "index": 7067,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7067
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_2016-4Pin_2.0x1.6mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_2016-4Pin_2.0x1.6mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2016-4Pin_2.0x1.6mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2016-4Pin_2.0x1.6mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

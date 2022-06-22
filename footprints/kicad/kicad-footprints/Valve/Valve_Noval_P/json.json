@@ -1,0 +1,61 @@
+{
+    "index": 12198,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12198
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Valve"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Valve_Noval_P"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Valve/Valve_Noval_P"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Valve NOVAL P"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Valve NOVAL P"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Noval_P.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Noval_P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

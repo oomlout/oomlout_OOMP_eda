@@ -1,0 +1,61 @@
+{
+    "index": 907,
+    "tags": [
+        {
+            "name": "index",
+            "value": 907
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NS-Tech_Grove_1x04_P2mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/NS-Tech_Grove_1x04_P2mm_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Grove-1x04"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/NS-Tech_Grove_1x04_P2mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

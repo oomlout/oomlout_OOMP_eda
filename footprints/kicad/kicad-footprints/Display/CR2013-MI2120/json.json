@@ -1,0 +1,61 @@
+{
+    "index": 7359,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7359
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CR2013-MI2120"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display/CR2013-MI2120"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990"
+        },
+        {
+            "name": "kicadTags",
+            "value": "CR2013-MI2120 ILI9341 LCD Breakout"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/CR2013-MI2120.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 8110,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8110
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_Cree-PLCC4_3.2x2.8mm_CCW"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_Cree-PLCC4_3.2x2.8mm_CCW"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LED Cree PLCC-4"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_3.2x2.8mm_CCW.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_3.2x2.8mm_CCW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

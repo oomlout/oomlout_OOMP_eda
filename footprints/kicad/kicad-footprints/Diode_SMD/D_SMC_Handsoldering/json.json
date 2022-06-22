@@ -1,0 +1,61 @@
+{
+    "index": 7234,
+    "tags": [
+        {
+            "name": "index",
+            "value": 7234
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_SMC_Handsoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/D_SMC_Handsoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Diode SMC (DO-214AB) Handsoldering"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Diode SMC (DO-214AB) Handsoldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC_Handsoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

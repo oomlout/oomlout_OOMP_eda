@@ -1,0 +1,61 @@
+{
+    "index": 9838,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9838
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LCC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-44_SMD-Socket"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LCC/PLCC-44_SMD-Socket"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "PLCC, 44 pins, surface mount"
+        },
+        {
+            "name": "kicadTags",
+            "value": "plcc smt"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_SMD-Socket.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_SMD-Socket"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

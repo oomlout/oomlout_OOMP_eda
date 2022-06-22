@@ -7,13 +7,11 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-  
-![][im]
+
 # 
 
 ## Tags
 
-- index: 7318
 - hexID: 
 - oompType: FOOTPRINT
 - oompSize: kicad
@@ -25,7 +23,3 @@ Contents
 - kicadTags: diode qfn 3.3
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_QFN_3.3x3.3mm_P0.65mm.wrl
-
-
-
-[im]: image.png

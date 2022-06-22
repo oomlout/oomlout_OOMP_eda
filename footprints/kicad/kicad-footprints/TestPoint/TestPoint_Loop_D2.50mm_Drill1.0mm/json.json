@@ -1,0 +1,61 @@
+{
+    "index": 12049,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12049
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Loop_D2.50mm_Drill1.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "test point wire loop bead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.50mm_Drill1.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.50mm_Drill1.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 3915,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3915
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Pin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Pin_D1.3mm_L11.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "solder Pin_ diameter 1.3mm, hole diameter 1.3mm, length 11.0mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "solder Pin_ pressfit"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

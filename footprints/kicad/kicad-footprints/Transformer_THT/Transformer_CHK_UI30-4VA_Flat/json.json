@@ -1,0 +1,61 @@
+{
+    "index": 12157,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12157
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_CHK_UI30-4VA_Flat"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_CHK_UI30-4VA_Flat"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Trafo, Flattrafo, CHK, UI30, 4VA,"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Trafo Flattrafo CHK UI30 4VA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_UI30-4VA_Flat.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI30-4VA_Flat"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

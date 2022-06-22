@@ -1,0 +1,57 @@
+{
+    "index": 8279,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8279
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingHole"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MountingHole_2.2mm_M2_DIN965_Pad_TopBottom"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingHole/MountingHole_2.2mm_M2_DIN965_Pad_TopBottom"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Mounting Hole 2.2mm, M2, DIN965"
+        },
+        {
+            "name": "kicadTags",
+            "value": "mounting hole 2.2mm m2 din965"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad_TopBottom"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

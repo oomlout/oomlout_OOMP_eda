@@ -1,0 +1,61 @@
+{
+    "index": 10948,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10948
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_SPST_PotterBrumfield_T9AP1D52_12V30A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Relay SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Only Dummy for Space NO Pads"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Relau SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Flachsteckeranschluss Only Dummy for Space NO Pads"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_PotterBrumfield_T9AP1D52_12V30A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 6995,
+    "tags": [
+        {
+            "name": "index",
+            "value": 6995
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_XP_POWER_JTDxxxxxxx_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER_JTDxxxxxxx_THT"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "XP Power JTD Series DC-DC Converter"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DCDC Isolated"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_JTDxxxxxxx_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER_JTDxxxxxxx_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 9826,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9826
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DirectFET"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DirectFET_SQ"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DirectFET/DirectFET_SQ"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "DirectFET SQ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=17"
+        },
+        {
+            "name": "kicadTags",
+            "value": "DirectFET SQ MOSFET Infineon"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_SQ.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SQ"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "index": 10828,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10828
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Potentiometer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Potentiometer_Bourns_PTA6043_Single_Slide"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Potentiometer_THT/Potentiometer_Bourns_PTA6043_Single_Slide"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Bourns single-gang slide potentiometer, 60.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Bourns single-gang slide potentiometer 60.0mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA6043_Single_Slide.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA6043_Single_Slide"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

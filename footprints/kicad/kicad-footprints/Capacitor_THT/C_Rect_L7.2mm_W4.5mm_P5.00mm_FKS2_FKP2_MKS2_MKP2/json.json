@@ -1,0 +1,61 @@
+{
+    "index": 865,
+    "tags": [
+        {
+            "name": "index",
+            "value": 865
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*4.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 4.5mm Capacitor"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

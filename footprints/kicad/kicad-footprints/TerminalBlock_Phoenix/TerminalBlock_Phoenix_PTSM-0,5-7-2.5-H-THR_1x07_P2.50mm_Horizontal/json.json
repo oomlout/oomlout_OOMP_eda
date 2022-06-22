@@ -1,0 +1,61 @@
+{
+    "index": 11764,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11764
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock_Phoenix"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Terminal Block Phoenix PTSM-0,5-7-2.5-H-THR, 7 pins, pitch 2.5mm, size 19.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix"
+        },
+        {
+            "name": "kicadTags",
+            "value": "THT Terminal Block Phoenix PTSM-0,5-7-2.5-H-THR pitch 2.5mm size 19.7x10mm^2 drill 1.2mm pad 3mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

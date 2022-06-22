@@ -1,0 +1,61 @@
+{
+    "index": 11298,
+    "tags": [
+        {
+            "name": "index",
+            "value": 11298
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Audio"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Knowles_LGA-5_3.5x2.65mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Audio/Knowles_LGA-5_3.5x2.65mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "MEMS Microphone LGA"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Knowles_LGA-5_3.5x2.65mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

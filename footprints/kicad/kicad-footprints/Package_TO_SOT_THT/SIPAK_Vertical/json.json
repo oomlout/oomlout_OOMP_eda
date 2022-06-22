@@ -1,0 +1,61 @@
+{
+    "index": 10510,
+    "tags": [
+        {
+            "name": "index",
+            "value": 10510
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIPAK_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/SIPAK_Vertical"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SIPAK, Vertical, RM 2.286mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SIPAK Vertical RM 2.286mm"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

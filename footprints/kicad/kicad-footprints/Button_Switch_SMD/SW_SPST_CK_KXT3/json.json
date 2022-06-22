@@ -1,0 +1,61 @@
+{
+    "index": 194,
+    "tags": [
+        {
+            "name": "index",
+            "value": 194
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_SPST_CK_KXT3"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_SMD/SW_SPST_CK_KXT3"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "https://www.ckswitches.com/media/1465/kxt3.pdf"
+        },
+        {
+            "name": "kicadTags",
+            "value": "Switch SPST KXT3"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_CK_KXT3.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_CK_KXT3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

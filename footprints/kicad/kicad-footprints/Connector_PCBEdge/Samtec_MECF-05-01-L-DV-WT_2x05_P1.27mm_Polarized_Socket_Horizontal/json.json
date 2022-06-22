@@ -1,0 +1,61 @@
+{
+    "index": 3312,
+    "tags": [
+        {
+            "name": "index",
+            "value": 3312
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PCBEdge"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Samtec_MECF-05-01-L-DV-WT_2x05_P1.27mm_Polarized_Socket_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PCBEdge/Samtec_MECF-05-01-L-DV-WT_2x05_P1.27mm_Polarized_Socket_Horizontal"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Highspeed card edge connector for 1.6mm PCB's with 05 contacts (polarized)"
+        },
+        {
+            "name": "kicadTags",
+            "value": "conn samtec card-edge high-speed"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-05-01-L-DV-WT_2x05_P1.27mm_Polarized_Socket_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-05-01-L-DV-WT_2x05_P1.27mm_Polarized_Socket_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

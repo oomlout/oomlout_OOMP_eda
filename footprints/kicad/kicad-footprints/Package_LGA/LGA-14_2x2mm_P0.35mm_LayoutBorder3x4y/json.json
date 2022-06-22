@@ -1,0 +1,61 @@
+{
+    "index": 9859,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9859
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lis2dh.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "kicadTags",
+            "value": "LGA NoLead"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

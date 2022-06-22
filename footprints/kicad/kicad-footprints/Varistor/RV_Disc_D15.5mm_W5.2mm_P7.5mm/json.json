@@ -1,0 +1,61 @@
+{
+    "index": 12231,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12231
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Varistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RV_Disc_D15.5mm_W5.2mm_P7.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Varistor/RV_Disc_D15.5mm_W5.2mm_P7.5mm"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "Varistor, diameter 15.5mm, width 5.2mm, pitch 7.5mm"
+        },
+        {
+            "name": "kicadTags",
+            "value": "varistor SIOV"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "through_hole"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D15.5mm_W5.2mm_P7.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D15.5mm_W5.2mm_P7.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

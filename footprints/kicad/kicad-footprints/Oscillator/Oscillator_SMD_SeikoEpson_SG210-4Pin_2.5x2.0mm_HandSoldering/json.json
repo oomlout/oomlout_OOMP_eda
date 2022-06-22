@@ -1,0 +1,61 @@
+{
+    "index": 8754,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8754
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering"
+        },
+        {
+            "name": "kicadDesc",
+            "value": "SMD Crystal Oscillator Seiko Epson SG-210 https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210SED, hand-soldering, 2.5x2.0mm^2 package"
+        },
+        {
+            "name": "kicadTags",
+            "value": "SMD SMT crystal oscillator hand-soldering"
+        },
+        {
+            "name": "kicadAttr",
+            "value": "smd"
+        },
+        {
+            "name": "kicad3DModel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
