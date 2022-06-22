@@ -1,0 +1,169 @@
+
+<package name="TSW-139-08-G-D">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf</description>
+<wire x1="-49.659" y1="2.425" x2="49.659" y2="2.425" width="0.2032" layer="21"/>
+<wire x1="49.659" y1="2.425" x2="49.659" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="49.659" y1="-2.425" x2="-49.659" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="-49.659" y1="-2.425" x2="-49.659" y2="2.425" width="0.2032" layer="21"/>
+<pad name="1" x="48.26" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="2" x="48.26" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="3" x="45.72" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="4" x="45.72" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="5" x="43.18" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="6" x="43.18" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="7" x="40.64" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="8" x="40.64" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="9" x="38.1" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="10" x="38.1" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="11" x="35.56" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="12" x="35.56" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="13" x="33.02" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="14" x="33.02" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="15" x="30.48" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="16" x="30.48" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="17" x="27.94" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="18" x="27.94" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="19" x="25.4" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="20" x="25.4" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="21" x="22.86" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="22" x="22.86" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="23" x="20.32" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="24" x="20.32" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="25" x="17.78" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="26" x="17.78" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="27" x="15.24" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="28" x="15.24" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="29" x="12.7" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="30" x="12.7" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="31" x="10.16" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="32" x="10.16" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="33" x="7.62" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="34" x="7.62" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="35" x="5.08" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="36" x="5.08" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="37" x="2.54" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="38" x="2.54" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="39" x="0" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="40" x="0" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="41" x="-2.54" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="42" x="-2.54" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="43" x="-5.08" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="44" x="-5.08" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="45" x="-7.62" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="46" x="-7.62" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="47" x="-10.16" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="48" x="-10.16" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="49" x="-12.7" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="50" x="-12.7" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="51" x="-15.24" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="52" x="-15.24" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="53" x="-17.78" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="54" x="-17.78" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="55" x="-20.32" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="56" x="-20.32" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="57" x="-22.86" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="58" x="-22.86" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="59" x="-25.4" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="60" x="-25.4" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="61" x="-27.94" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="62" x="-27.94" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="63" x="-30.48" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="64" x="-30.48" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="65" x="-33.02" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="66" x="-33.02" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="67" x="-35.56" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="68" x="-35.56" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="69" x="-38.1" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="70" x="-38.1" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="71" x="-40.64" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="72" x="-40.64" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="73" x="-43.18" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="74" x="-43.18" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="75" x="-45.72" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="76" x="-45.72" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="77" x="-48.26" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="78" x="-48.26" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<text x="48.052" y="-3.818" size="1.1" layer="21" font="vector" rot="SR0">1</text>
+<text x="47.877" y="2.744" size="1.1" layer="21" font="vector" rot="SR0">2</text>
+<text x="-50.165" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="51.435" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-48.61" y1="-1.62" x2="-47.91" y2="-0.92" layer="51"/>
+<rectangle x1="-48.61" y1="0.92" x2="-47.91" y2="1.62" layer="51"/>
+<rectangle x1="-46.07" y1="-1.62" x2="-45.37" y2="-0.92" layer="51"/>
+<rectangle x1="-46.07" y1="0.92" x2="-45.37" y2="1.62" layer="51"/>
+<rectangle x1="-43.53" y1="-1.62" x2="-42.83" y2="-0.92" layer="51"/>
+<rectangle x1="-43.53" y1="0.92" x2="-42.83" y2="1.62" layer="51"/>
+<rectangle x1="-40.99" y1="-1.62" x2="-40.29" y2="-0.92" layer="51"/>
+<rectangle x1="-40.99" y1="0.92" x2="-40.29" y2="1.62" layer="51"/>
+<rectangle x1="-38.45" y1="-1.62" x2="-37.75" y2="-0.92" layer="51"/>
+<rectangle x1="-38.45" y1="0.92" x2="-37.75" y2="1.62" layer="51"/>
+<rectangle x1="-35.91" y1="-1.62" x2="-35.21" y2="-0.92" layer="51"/>
+<rectangle x1="-35.91" y1="0.92" x2="-35.21" y2="1.62" layer="51"/>
+<rectangle x1="-33.37" y1="-1.62" x2="-32.67" y2="-0.92" layer="51"/>
+<rectangle x1="-33.37" y1="0.92" x2="-32.67" y2="1.62" layer="51"/>
+<rectangle x1="-30.83" y1="-1.62" x2="-30.13" y2="-0.92" layer="51"/>
+<rectangle x1="-30.83" y1="0.92" x2="-30.13" y2="1.62" layer="51"/>
+<rectangle x1="-28.29" y1="-1.62" x2="-27.59" y2="-0.92" layer="51"/>
+<rectangle x1="-28.29" y1="0.92" x2="-27.59" y2="1.62" layer="51"/>
+<rectangle x1="-25.75" y1="-1.62" x2="-25.05" y2="-0.92" layer="51"/>
+<rectangle x1="-25.75" y1="0.92" x2="-25.05" y2="1.62" layer="51"/>
+<rectangle x1="-23.21" y1="-1.62" x2="-22.51" y2="-0.92" layer="51"/>
+<rectangle x1="-23.21" y1="0.92" x2="-22.51" y2="1.62" layer="51"/>
+<rectangle x1="-20.67" y1="-1.62" x2="-19.97" y2="-0.92" layer="51"/>
+<rectangle x1="-20.67" y1="0.92" x2="-19.97" y2="1.62" layer="51"/>
+<rectangle x1="-18.13" y1="-1.62" x2="-17.43" y2="-0.92" layer="51"/>
+<rectangle x1="-18.13" y1="0.92" x2="-17.43" y2="1.62" layer="51"/>
+<rectangle x1="-15.59" y1="-1.62" x2="-14.89" y2="-0.92" layer="51"/>
+<rectangle x1="-15.59" y1="0.92" x2="-14.89" y2="1.62" layer="51"/>
+<rectangle x1="-13.05" y1="-1.62" x2="-12.35" y2="-0.92" layer="51"/>
+<rectangle x1="-13.05" y1="0.92" x2="-12.35" y2="1.62" layer="51"/>
+<rectangle x1="-10.51" y1="-1.62" x2="-9.81" y2="-0.92" layer="51"/>
+<rectangle x1="-10.51" y1="0.92" x2="-9.81" y2="1.62" layer="51"/>
+<rectangle x1="-7.97" y1="-1.62" x2="-7.27" y2="-0.92" layer="51"/>
+<rectangle x1="-7.97" y1="0.92" x2="-7.27" y2="1.62" layer="51"/>
+<rectangle x1="-5.43" y1="-1.62" x2="-4.73" y2="-0.92" layer="51"/>
+<rectangle x1="-5.43" y1="0.92" x2="-4.73" y2="1.62" layer="51"/>
+<rectangle x1="-2.89" y1="-1.62" x2="-2.19" y2="-0.92" layer="51"/>
+<rectangle x1="-2.89" y1="0.92" x2="-2.19" y2="1.62" layer="51"/>
+<rectangle x1="-0.35" y1="-1.62" x2="0.35" y2="-0.92" layer="51"/>
+<rectangle x1="-0.35" y1="0.92" x2="0.35" y2="1.62" layer="51"/>
+<rectangle x1="2.19" y1="-1.62" x2="2.89" y2="-0.92" layer="51"/>
+<rectangle x1="2.19" y1="0.92" x2="2.89" y2="1.62" layer="51"/>
+<rectangle x1="4.73" y1="-1.62" x2="5.43" y2="-0.92" layer="51"/>
+<rectangle x1="4.73" y1="0.92" x2="5.43" y2="1.62" layer="51"/>
+<rectangle x1="7.27" y1="-1.62" x2="7.97" y2="-0.92" layer="51"/>
+<rectangle x1="7.27" y1="0.92" x2="7.97" y2="1.62" layer="51"/>
+<rectangle x1="9.81" y1="-1.62" x2="10.51" y2="-0.92" layer="51"/>
+<rectangle x1="9.81" y1="0.92" x2="10.51" y2="1.62" layer="51"/>
+<rectangle x1="12.35" y1="-1.62" x2="13.05" y2="-0.92" layer="51"/>
+<rectangle x1="12.35" y1="0.92" x2="13.05" y2="1.62" layer="51"/>
+<rectangle x1="14.89" y1="-1.62" x2="15.59" y2="-0.92" layer="51"/>
+<rectangle x1="14.89" y1="0.92" x2="15.59" y2="1.62" layer="51"/>
+<rectangle x1="17.43" y1="-1.62" x2="18.13" y2="-0.92" layer="51"/>
+<rectangle x1="17.43" y1="0.92" x2="18.13" y2="1.62" layer="51"/>
+<rectangle x1="19.97" y1="-1.62" x2="20.67" y2="-0.92" layer="51"/>
+<rectangle x1="19.97" y1="0.92" x2="20.67" y2="1.62" layer="51"/>
+<rectangle x1="22.51" y1="-1.62" x2="23.21" y2="-0.92" layer="51"/>
+<rectangle x1="22.51" y1="0.92" x2="23.21" y2="1.62" layer="51"/>
+<rectangle x1="25.05" y1="-1.62" x2="25.75" y2="-0.92" layer="51"/>
+<rectangle x1="25.05" y1="0.92" x2="25.75" y2="1.62" layer="51"/>
+<rectangle x1="27.59" y1="-1.62" x2="28.29" y2="-0.92" layer="51"/>
+<rectangle x1="27.59" y1="0.92" x2="28.29" y2="1.62" layer="51"/>
+<rectangle x1="30.13" y1="-1.62" x2="30.83" y2="-0.92" layer="51"/>
+<rectangle x1="30.13" y1="0.92" x2="30.83" y2="1.62" layer="51"/>
+<rectangle x1="32.67" y1="-1.62" x2="33.37" y2="-0.92" layer="51"/>
+<rectangle x1="32.67" y1="0.92" x2="33.37" y2="1.62" layer="51"/>
+<rectangle x1="35.21" y1="-1.62" x2="35.91" y2="-0.92" layer="51"/>
+<rectangle x1="35.21" y1="0.92" x2="35.91" y2="1.62" layer="51"/>
+<rectangle x1="37.75" y1="-1.62" x2="38.45" y2="-0.92" layer="51"/>
+<rectangle x1="37.75" y1="0.92" x2="38.45" y2="1.62" layer="51"/>
+<rectangle x1="40.29" y1="-1.62" x2="40.99" y2="-0.92" layer="51"/>
+<rectangle x1="40.29" y1="0.92" x2="40.99" y2="1.62" layer="51"/>
+<rectangle x1="42.83" y1="-1.62" x2="43.53" y2="-0.92" layer="51"/>
+<rectangle x1="42.83" y1="0.92" x2="43.53" y2="1.62" layer="51"/>
+<rectangle x1="45.37" y1="-1.62" x2="46.07" y2="-0.92" layer="51"/>
+<rectangle x1="45.37" y1="0.92" x2="46.07" y2="1.62" layer="51"/>
+<rectangle x1="47.91" y1="-1.62" x2="48.61" y2="-0.92" layer="51"/>
+<rectangle x1="47.91" y1="0.92" x2="48.61" y2="1.62" layer="51"/>
+</package>

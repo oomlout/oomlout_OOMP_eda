@@ -1,0 +1,22 @@
+
+<package name="DS_TOUCH_CONNECTOR">
+<description>&lt;h3&gt;4-pin DS touch screen connector&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”https://www.sparkfun.com/datasheets/LCD/PSPTouchConnector.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;DS_TOUCH_CONNECTOR&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-4.25" y1="-2.23" x2="-4.25" y2="-2.8" width="0.127" layer="21"/>
+<wire x1="-4.25" y1="-2.8" x2="4.25" y2="-2.8" width="0.127" layer="21"/>
+<wire x1="4.25" y1="-2.23" x2="4.25" y2="-2.8" width="0.127" layer="21"/>
+<smd name="3" x="-0.25" y="2.45" dx="1.5" dy="0.3" layer="1" rot="R90"/>
+<smd name="2" x="0.25" y="2.45" dx="1.5" dy="0.3" layer="1" rot="R90"/>
+<smd name="1" x="0.75" y="2.45" dx="1.5" dy="0.3" layer="1" rot="R90"/>
+<smd name="4" x="-0.75" y="2.45" dx="1.5" dy="0.3" layer="1" rot="R90"/>
+<smd name="P$5" x="-2.525" y="0.7" dx="1.85" dy="2.6" layer="1"/>
+<smd name="P$6" x="2.525" y="0.7" dx="1.85" dy="2.6" layer="1"/>
+<text x="-1.397" y="-1.524" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.651" y="-2.413" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

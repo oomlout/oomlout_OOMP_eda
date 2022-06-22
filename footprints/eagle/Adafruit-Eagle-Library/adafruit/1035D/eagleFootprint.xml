@@ -1,0 +1,26 @@
+
+<package name="1035D">
+<smd name="PPS" x="13.15" y="6.39" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="TX0" x="13.15" y="5.12" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="RX0" x="13.15" y="3.85" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="VCC" x="13.15" y="2.58" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="GND" x="13.15" y="1.31" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="VBAK" x="13.15" y="0.04" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="RX1" x="13.15" y="-1.23" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="TX1" x="13.15" y="-2.5" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="BOOT" x="13.15" y="-3.77" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="P$10" x="13.15" y="-5.04" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="ON_OFF" x="13.15" y="-6.31" dx="0.76" dy="2.4" layer="1" rot="R90"/>
+<smd name="P$12" x="16.96" y="-6.31" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$13" x="16.96" y="-5.04" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$14" x="16.96" y="-3.77" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$15" x="16.96" y="-2.5" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$16" x="16.96" y="-1.23" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="VBAK2" x="16.96" y="0.04" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$18" x="16.96" y="1.31" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$19" x="16.96" y="2.58" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="RFPWUP" x="16.96" y="3.85" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="P$21" x="16.96" y="5.12" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<smd name="#RST" x="16.96" y="6.39" dx="0.76" dy="2.4" layer="1" rot="R270"/>
+<text x="11" y="-3.5" size="1.27" layer="21" font="vector" rot="R90">A1035-D</text>
+</package>

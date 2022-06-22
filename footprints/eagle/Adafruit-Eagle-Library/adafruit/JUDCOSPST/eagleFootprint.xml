@@ -1,0 +1,11 @@
+
+<package name="JUDCOSPST">
+<wire x1="-6.096" y1="6.096" x2="6.096" y2="6.096" width="0.127" layer="21"/>
+<wire x1="6.096" y1="6.096" x2="6.096" y2="-6.096" width="0.127" layer="21"/>
+<wire x1="6.096" y1="-6.096" x2="-6.096" y2="-6.096" width="0.127" layer="21"/>
+<wire x1="-6.096" y1="-6.096" x2="-6.096" y2="6.096" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="2.794" width="0.127" layer="21"/>
+<pad name="T" x="-3.556" y="-8.128" drill="2"/>
+<pad name="P" x="3.556" y="-8.128" drill="2"/>
+<text x="-5.842" y="6.604" size="1.27" layer="25" font="vector">&gt;NAME</text>
+</package>

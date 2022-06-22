@@ -1,0 +1,57 @@
+
+<package name="ILI9325_28INCH_TS">
+<description>1.0mm-Pitch 37 Pin LCD Connector</description>
+<wire x1="-20.4" y1="0" x2="-20.4" y2="27.686" width="0.127" layer="21"/>
+<wire x1="20.4" y1="27.686" x2="20.3" y2="0" width="0.127" layer="21"/>
+<wire x1="-25" y1="70" x2="25" y2="70" width="0.127" layer="21"/>
+<wire x1="25" y1="70" x2="25" y2="0" width="0.127" layer="21"/>
+<wire x1="25" y1="0" x2="20.3" y2="0" width="0.127" layer="21"/>
+<wire x1="20.3" y1="0" x2="-20.4" y2="0" width="0.127" layer="21"/>
+<wire x1="-20.4" y1="0" x2="-25" y2="0" width="0.127" layer="21"/>
+<wire x1="-25" y1="0" x2="-25" y2="70" width="0.127" layer="21"/>
+<wire x1="-20.4" y1="27.686" x2="20.4" y2="27.686" width="0.127" layer="21"/>
+<circle x="-19.534" y="30.054" radius="0.254" width="0.6096" layer="21"/>
+<smd name="19" x="0" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="18" x="-1" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="17" x="-2" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="16" x="-3" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="15" x="-4" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="14" x="-5" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="13" x="-6" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="12" x="-7" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="11" x="-8" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="10" x="-9" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="9" x="-10" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="8" x="-11" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="7" x="-12" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="6" x="-13" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="5" x="-14" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="4" x="-15" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="3" x="-16" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="2" x="-17" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="1" x="-18" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="20" x="1" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="21" x="2" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="22" x="3" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="23" x="4" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="24" x="5" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="25" x="6" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="26" x="7" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="27" x="8" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="28" x="9" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="29" x="10" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="30" x="11" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="31" x="12" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="32" x="13" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="33" x="14" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="34" x="15" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="35" x="16" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="36" x="17" y="27.77" dx="0.5" dy="3" layer="1"/>
+<smd name="37" x="18" y="27.77" dx="0.5" dy="3" layer="1"/>
+<rectangle x1="-21.59" y1="24.13" x2="-19.05" y2="29.21" layer="1"/>
+<rectangle x1="-21.59" y1="24.13" x2="-19.05" y2="29.21" layer="29"/>
+<rectangle x1="19.05" y1="24.13" x2="21.59" y2="29.21" layer="29"/>
+<rectangle x1="19.05" y1="24.13" x2="21.59" y2="29.21" layer="1"/>
+<hole x="-19.5" y="27" drill="1"/>
+<hole x="19.5" y="27" drill="1"/>
+</package>

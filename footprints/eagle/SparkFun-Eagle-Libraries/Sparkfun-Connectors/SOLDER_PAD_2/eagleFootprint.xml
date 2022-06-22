@@ -1,0 +1,11 @@
+
+<package name="SOLDER_PAD_2">
+<description>&lt;h3&gt;LuMini Ring Solder Pads&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;
+&lt;li&gt;Pin pitch: .8 in&lt;/li&gt;
+&lt;li&gt;Area: .4 x 1 in.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="P$1" x="-1.016" y="0" dx="1.016" dy="2.54" layer="1" roundness="100" cream="no"/>
+<smd name="P$2" x="1.016" y="0" dx="1.016" dy="2.54" layer="1" roundness="100" cream="no"/>
+</package>

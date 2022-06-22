@@ -1,0 +1,52 @@
+
+<package name="5-STRIP">
+<wire x1="-6.096" y1="0.254" x2="-5.334" y2="1.016" width="0.127" layer="21" curve="-90"/>
+<wire x1="-5.334" y1="1.016" x2="5.334" y2="1.016" width="0.127" layer="21"/>
+<wire x1="5.334" y1="1.016" x2="6.096" y2="0.254" width="0.127" layer="21" curve="-90"/>
+<wire x1="6.096" y1="0.254" x2="6.096" y2="-0.254" width="0.127" layer="21"/>
+<wire x1="6.096" y1="-0.254" x2="5.334" y2="-1.016" width="0.127" layer="21" curve="-90"/>
+<wire x1="5.334" y1="-1.016" x2="-5.334" y2="-1.016" width="0.127" layer="21"/>
+<wire x1="-5.334" y1="-1.016" x2="-6.096" y2="-0.254" width="0.127" layer="21" curve="-90"/>
+<wire x1="-6.096" y1="-0.254" x2="-6.096" y2="0.254" width="0.127" layer="21"/>
+<hole x="-5.08" y="0" drill="1.1"/>
+<hole x="0" y="0" drill="1.1"/>
+<hole x="5.08" y="0" drill="1.1"/>
+<hole x="-2.54" y="0" drill="1.1"/>
+<hole x="2.54" y="0" drill="1.1"/>
+<polygon width="0.3048" layer="16">
+<vertex x="5.842" y="0" curve="90"/>
+<vertex x="5.08" y="0.762"/>
+<vertex x="-5.08" y="0.762" curve="90"/>
+<vertex x="-5.842" y="0" curve="90"/>
+<vertex x="-5.08" y="-0.762"/>
+<vertex x="5.08" y="-0.762" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="30">
+<vertex x="5.969" y="-0.127" curve="-90"/>
+<vertex x="5.207" y="-0.889"/>
+<vertex x="-5.207" y="-0.889" curve="-90"/>
+<vertex x="-5.969" y="-0.127"/>
+<vertex x="-5.969" y="0.127" curve="-90"/>
+<vertex x="-5.207" y="0.889"/>
+<vertex x="5.207" y="0.889" curve="-90"/>
+<vertex x="5.969" y="0.127"/>
+</polygon>
+<polygon width="0.3048" layer="1">
+<vertex x="-5.842" y="0" curve="-90"/>
+<vertex x="-5.08" y="0.762"/>
+<vertex x="5.08" y="0.762" curve="-90"/>
+<vertex x="5.842" y="0" curve="-90"/>
+<vertex x="5.08" y="-0.762"/>
+<vertex x="-5.08" y="-0.762" curve="-90"/>
+</polygon>
+<polygon width="0.127" layer="29">
+<vertex x="-5.969" y="-0.127" curve="90"/>
+<vertex x="-5.207" y="-0.889"/>
+<vertex x="5.207" y="-0.889" curve="90"/>
+<vertex x="5.969" y="-0.127"/>
+<vertex x="5.969" y="0.127" curve="90"/>
+<vertex x="5.207" y="0.889"/>
+<vertex x="-5.207" y="0.889" curve="90"/>
+<vertex x="-5.969" y="0.127"/>
+</polygon>
+</package>

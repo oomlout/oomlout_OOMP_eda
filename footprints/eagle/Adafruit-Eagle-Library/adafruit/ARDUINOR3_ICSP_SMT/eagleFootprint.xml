@@ -1,0 +1,56 @@
+
+<package name="ARDUINOR3_ICSP_SMT">
+<wire x1="0" y1="-0.381" x2="66.04" y2="-0.381" width="0" layer="51"/>
+<wire x1="66.04" y1="-0.381" x2="66.04" y2="2.54" width="0" layer="51"/>
+<wire x1="66.04" y1="2.54" x2="68.834" y2="5.207" width="0" layer="51"/>
+<wire x1="68.834" y1="5.207" x2="68.834" y2="37.973" width="0" layer="51"/>
+<wire x1="68.834" y1="37.973" x2="66.04" y2="40.386" width="0" layer="51"/>
+<wire x1="66.04" y1="40.386" x2="66.04" y2="51.816" width="0" layer="51"/>
+<wire x1="66.04" y1="51.816" x2="64.135" y2="53.721" width="0" layer="51"/>
+<wire x1="64.135" y1="53.721" x2="0" y2="53.721" width="0" layer="51"/>
+<wire x1="0" y1="53.721" x2="0" y2="-0.381" width="0" layer="51"/>
+<circle x="15.24" y="50.8" radius="1.796" width="0.127" layer="51"/>
+<circle x="13.97" y="2.54" radius="1.796" width="0.127" layer="51"/>
+<circle x="66.04" y="35.56" radius="1.796" width="0.127" layer="51"/>
+<circle x="66.04" y="7.62" radius="1.796" width="0.127" layer="51"/>
+<smd name="D0" x="63.5" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D1" x="60.96" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D2" x="58.42" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D3" x="55.88" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D4" x="53.34" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D5" x="50.8" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D6" x="48.26" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D7" x="45.72" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R270"/>
+<smd name="D8" x="41.656" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="D9" x="39.116" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="D10" x="36.576" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="D11" x="34.036" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="D12" x="31.496" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="D13" x="28.956" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="GND" x="26.416" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="AREF" x="23.876" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="SDA" x="21.336" y="49.403" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="SCL" x="18.796" y="52.197" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="VIN" x="45.72" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="GND@1" x="43.18" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="GND@2" x="40.64" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="5V" x="38.1" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="3V" x="35.56" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="RESET" x="33.02" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="IOREF" x="30.48" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="RESERVED" x="27.94" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="A5" x="63.5" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="A4" x="60.96" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="A3" x="58.42" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="A2" x="55.88" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="A1" x="53.34" y="1.143" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="A0" x="50.8" y="3.937" dx="2.794" dy="1.016" layer="16" rot="R90"/>
+<smd name="MISO" x="62.484" y="30.48" dx="2.794" dy="1.016" layer="16" rot="R180"/>
+<smd name="SCK" x="62.484" y="27.94" dx="2.794" dy="1.016" layer="16" rot="R180"/>
+<smd name="RESET_ICSP" x="62.484" y="25.4" dx="2.794" dy="1.016" layer="16" rot="R180"/>
+<smd name="GND@3" x="67.31" y="25.4" dx="2.794" dy="1.016" layer="16" rot="R180"/>
+<smd name="MOSI" x="67.31" y="27.94" dx="2.794" dy="1.016" layer="16" rot="R180"/>
+<smd name="5V_ICSP" x="67.31" y="30.48" dx="2.794" dy="1.016" layer="16" rot="R180"/>
+<hole x="64.897" y="29.21" drill="2"/>
+<hole x="64.897" y="26.67" drill="2"/>
+</package>

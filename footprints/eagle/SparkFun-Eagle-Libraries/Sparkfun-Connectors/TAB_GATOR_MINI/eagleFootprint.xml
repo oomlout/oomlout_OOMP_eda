@@ -1,0 +1,32 @@
+
+<package name="TAB_GATOR_MINI">
+<pad name="P1" x="0" y="4.826" drill="4.0005" diameter="5.08"/>
+<polygon width="0.254" layer="1">
+<vertex x="0" y="7.874" curve="90"/>
+<vertex x="-3.048" y="4.826"/>
+<vertex x="-3.048" y="0"/>
+<vertex x="3.048" y="0"/>
+<vertex x="3.048" y="4.826" curve="90"/>
+</polygon>
+<polygon width="0.254" layer="16">
+<vertex x="0" y="7.874" curve="90"/>
+<vertex x="-3.048" y="4.826"/>
+<vertex x="-3.048" y="0"/>
+<vertex x="3.048" y="0"/>
+<vertex x="3.048" y="4.826" curve="90"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="3.1496" y="-0.1016"/>
+<vertex x="-3.1496" y="-0.1016"/>
+<vertex x="-3.1496" y="4.9784" curve="-97.62815"/>
+<vertex x="0" y="7.9248" curve="-90"/>
+<vertex x="3.1496" y="5.08"/>
+</polygon>
+<polygon width="0.254" layer="30">
+<vertex x="3.175" y="-0.0508"/>
+<vertex x="-3.1242" y="-0.0508"/>
+<vertex x="-3.1242" y="5.0292" curve="-97.62815"/>
+<vertex x="0.0254" y="7.9756" curve="-90"/>
+<vertex x="3.175" y="5.1308"/>
+</polygon>
+</package>

@@ -1,0 +1,16 @@
+###### OOMP FILE  ######
+
+import OOMP
+
+newPart = OOMP.oompItem()
+
+newPart.addTag("hexID", "")
+newPart.addTag("oompType", "FOOTPRINT")
+newPart.addTag("oompSize", "eagle")
+newPart.addTag("oompColor", "eagle-default")
+newPart.addTag("oompDesc", "ref-packages-longpad")
+newPart.addTag("oompIndex", "B45181A")
+newPart.addTag("oompName", "eagle-default/ref-packages-longpad/B45181A")
+
+
+OOMP.parts.append(newPart)

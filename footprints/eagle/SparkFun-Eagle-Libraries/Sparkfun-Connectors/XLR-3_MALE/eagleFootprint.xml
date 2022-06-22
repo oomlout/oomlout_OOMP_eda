@@ -1,0 +1,26 @@
+
+<package name="XLR-3_MALE">
+<description>&lt;h3&gt;XLR-3 Connector - Package for the NC3MAAH-1 XLR-3 Connector&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 5&lt;/li&gt;
+&lt;li&gt;Area: 1 x .7 in&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://www.neutrik.us/zoolu-website/media/download/1429/Drawing+NC3MAAH-1&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;</description>
+<rectangle x1="-12.5" y1="8.89" x2="12.8" y2="11.59" layer="51"/>
+<pad name="3" x="0" y="-8.89" drill="1.2"/>
+<pad name="1" x="3.81" y="-8.89" drill="1.6002"/>
+<pad name="2" x="-3.81" y="-8.89" drill="1.6002"/>
+<text x="-5.08" y="12.7" size="1.27" layer="51" font="vector">Front Edge</text>
+<text x="-5.08" y="15.24" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="-5.08" y="-12.7" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<rectangle x1="-11" y1="8.8" x2="11" y2="11.7" layer="51"/>
+<wire x1="-10.922" y1="8.763" x2="-10.922" y2="-5.08" width="0.2032" layer="51"/>
+<wire x1="-10.922" y1="-5.08" x2="-6.35" y2="-5.08" width="0.2032" layer="51"/>
+<wire x1="-6.35" y1="-5.08" x2="-6.35" y2="-10.16" width="0.2032" layer="51"/>
+<wire x1="-6.35" y1="-10.16" x2="6.35" y2="-10.16" width="0.2032" layer="51"/>
+<wire x1="6.35" y1="-10.16" x2="6.35" y2="-5.08" width="0.2032" layer="51"/>
+<wire x1="6.35" y1="-5.08" x2="10.922" y2="-5.08" width="0.2032" layer="51"/>
+<wire x1="10.922" y1="-5.08" x2="10.922" y2="8.89" width="0.2032" layer="51"/>
+<hole x="-3.81" y="5.08" drill="1.6002"/>
+<hole x="3.81" y="0" drill="1.6002"/>
+</package>

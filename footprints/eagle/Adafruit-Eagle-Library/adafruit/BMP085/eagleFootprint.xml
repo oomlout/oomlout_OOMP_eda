@@ -1,0 +1,26 @@
+
+<package name="BMP085">
+<wire x1="-2.5" y1="2.5" x2="2.5" y2="2.5" width="0.127" layer="51"/>
+<wire x1="2.5" y1="2.5" x2="2.5" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="2.5" y1="-2.5" x2="-2.5" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="-2.5" y1="-2.5" x2="-2.5" y2="2.5" width="0.127" layer="51"/>
+<wire x1="-0.75" y1="2.5" x2="-2.5" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="2.5" x2="-2.5" y2="2" width="0.127" layer="21"/>
+<wire x1="0.75" y1="2.5" x2="2.5" y2="2.5" width="0.127" layer="21"/>
+<wire x1="2.5" y1="2.5" x2="2.5" y2="2" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="-2" x2="-2.5" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="-2.5" x2="-0.75" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="0.75" y1="-2.5" x2="2.5" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="2.5" y1="-2.5" x2="2.5" y2="-2" width="0.127" layer="21"/>
+<circle x="-3.25" y="2.5" radius="0.2" width="0.35" layer="21"/>
+<smd name="P$1" x="-2.065" y="1.27" dx="1.67" dy="0.8" layer="1"/>
+<smd name="P$2" x="-2.065" y="0" dx="1.67" dy="0.8" layer="1"/>
+<smd name="P$3" x="-2.065" y="-1.27" dx="1.67" dy="0.8" layer="1"/>
+<smd name="P$4" x="0" y="-2.065" dx="1.67" dy="0.8" layer="1" rot="R90"/>
+<smd name="P$5" x="2.065" y="-1.27" dx="1.67" dy="0.8" layer="1" rot="R180"/>
+<smd name="P$6" x="2.065" y="0" dx="1.67" dy="0.8" layer="1" rot="R180"/>
+<smd name="P$7" x="2.065" y="1.27" dx="1.67" dy="0.8" layer="1" rot="R180"/>
+<smd name="P$8" x="0" y="1.65" dx="2.5" dy="0.8" layer="1" rot="R270"/>
+<text x="-2.54" y="2.794" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-2.54" y="-3.302" size="0.4064" layer="27">&gt;VALUE</text>
+</package>

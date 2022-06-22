@@ -1,0 +1,33 @@
+
+<package name="AUDIO-JACK-3.5MM-SMD">
+<description>&lt;h3&gt;3.5mm Stereo Audio Jack - Surface Mount&lt;/h3&gt;
+2.5mm Height. 
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:5&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”http://www.4uconnector.com/online/object/4udrawing/19269.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;Audio_Jack&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="3.9" y1="-3" x2="10.2" y2="-3" width="0.254" layer="21"/>
+<wire x1="14.5" y1="-0.635" x2="14.5" y2="-3" width="0.254" layer="21"/>
+<wire x1="14.5" y1="-3" x2="13.2" y2="-3" width="0.254" layer="21"/>
+<wire x1="14.5" y1="2.2098" x2="14.5" y2="3" width="0.254" layer="21"/>
+<wire x1="14.5" y1="3" x2="5.7" y2="3" width="0.254" layer="21"/>
+<wire x1="0.5" y1="3" x2="0" y2="3" width="0.254" layer="51"/>
+<wire x1="0" y1="3" x2="0" y2="-2.5" width="0.254" layer="51"/>
+<wire x1="0" y1="-2.5" x2="0" y2="-3" width="0.254" layer="51"/>
+<wire x1="0" y1="-3" x2="1" y2="-3" width="0.254" layer="51"/>
+<wire x1="-0.1524" y1="2.5" x2="-2.5" y2="2.5" width="0.254" layer="51"/>
+<wire x1="-2.5" y1="2.5" x2="-2.5" y2="-2.5" width="0.254" layer="51"/>
+<wire x1="-2.5" y1="-2.5" x2="0" y2="-2.5" width="0.254" layer="51"/>
+<smd name="SLEEVE" x="2.4" y="-3.45" dx="2" dy="2.5" layer="1"/>
+<smd name="TIP" x="11.7" y="-3.45" dx="2" dy="2.5" layer="1"/>
+<smd name="RING" x="4.3" y="3.45" dx="2" dy="2.5" layer="1"/>
+<smd name="TSH" x="15.75" y="0.75" dx="2" dy="2.5" layer="1" rot="R90"/>
+<smd name="RSH" x="1.5" y="3.45" dx="1.2" dy="2.5" layer="1" rot="R180"/>
+<hole x="3.5" y="0" drill="2"/>
+<hole x="10.5" y="0" drill="2"/>
+<text x="5.715" y="0.762" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="5.715" y="-1.397" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

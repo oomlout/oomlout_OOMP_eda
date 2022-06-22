@@ -1,0 +1,25 @@
+
+<package name="SCREWTERMINAL-3.5MM-7">
+<wire x1="-1.75" y1="3.4" x2="22.75" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="22.75" y1="3.4" x2="22.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="22.75" y1="-2.8" x2="22.75" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="22.75" y1="-3.6" x2="-1.75" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-3.6" x2="-1.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-2.8" x2="-1.75" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="22.75" y1="-2.8" x2="-1.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-1.35" x2="-2.25" y2="-1.35" width="0.2032" layer="51"/>
+<wire x1="-2.25" y1="-1.35" x2="-2.25" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="-2.25" y1="-2.35" x2="-1.75" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="22.75" y1="3.15" x2="23.25" y2="3.15" width="0.2032" layer="51"/>
+<wire x1="23.25" y1="3.15" x2="23.25" y2="2.15" width="0.2032" layer="51"/>
+<wire x1="23.25" y1="2.15" x2="22.75" y2="2.15" width="0.2032" layer="51"/>
+<pad name="1" x="0" y="0" drill="1.2" diameter="2.032"/>
+<pad name="2" x="3.5" y="0" drill="1.2" diameter="2.032"/>
+<pad name="3" x="7" y="0" drill="1.2" diameter="2.032"/>
+<pad name="4" x="10.5" y="0" drill="1.2" diameter="2.032"/>
+<pad name="5" x="14" y="0" drill="1.2" diameter="2.032"/>
+<pad name="6" x="17.5" y="0" drill="1.2" diameter="2.032"/>
+<pad name="7" x="21" y="0" drill="1.2" diameter="2.032"/>
+<wire x1="1.016" y1="-1.524" x2="-0.889" y2="-1.524" width="0.2032" layer="21"/>
+<wire x1="-0.889" y1="-1.524" x2="1.016" y2="-1.524" width="0.2032" layer="22"/>
+</package>

@@ -1,0 +1,41 @@
+
+<package name="SDCARD">
+<wire x1="-14.2" y1="-28.81" x2="-14.2" y2="-0.01" width="0.127" layer="21"/>
+<wire x1="-14.2" y1="-0.01" x2="14.3" y2="-0.01" width="0.127" layer="21"/>
+<wire x1="14.3" y1="-0.01" x2="14.3" y2="-28.81" width="0.127" layer="21"/>
+<wire x1="14.3" y1="-28.81" x2="11.8" y2="-28.81" width="0.127" layer="21"/>
+<wire x1="11.8" y1="-28.81" x2="-12.6" y2="-28.81" width="0.127" layer="21"/>
+<wire x1="-12.6" y1="-28.81" x2="-14.2" y2="-28.81" width="0.127" layer="21"/>
+<wire x1="-12.6" y1="-28.01" x2="11.8" y2="-28.21" width="0.127" layer="21" curve="-27.095878"/>
+<wire x1="-12.6" y1="-28.01" x2="-12.6" y2="-28.81" width="0.127" layer="21"/>
+<wire x1="11.8" y1="-28.21" x2="11.8" y2="-28.81" width="0.127" layer="21"/>
+<smd name="MT3" x="14.6" y="-19.01" dx="1.9" dy="1.9" layer="1"/>
+<smd name="MT1" x="-14.5" y="-3.91" dx="1.7" dy="1.8" layer="1"/>
+<smd name="CD" x="-12.5" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="8" x="-9.8" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="7" x="-8.1" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="6" x="-5.7" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="5" x="-3.1" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="2" x="4.3" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="4" x="-0.7" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="1" x="6.8" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="3" x="1.8" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="9" x="9.3" y="0.89" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="MT2" x="14.7" y="-3.91" dx="1.9" dy="1.9" layer="1"/>
+<smd name="WP" x="-14.2" y="-19" dx="2.032" dy="2.032" layer="1"/>
+<smd name="COM" x="-14.2" y="-9.3" dx="2.032" dy="2.032" layer="1"/>
+<rectangle x1="-14" y1="-17.41" x2="-11.7" y2="-11.31" layer="39"/>
+<rectangle x1="11.3" y1="-17.41" x2="14.1" y2="-11.91" layer="39"/>
+<hole x="-12" y="-23.31" drill="1.5"/>
+<hole x="12" y="-23.31" drill="1"/>
+<polygon width="0.127" layer="39">
+<vertex x="14.1" y="6.09"/>
+<vertex x="11.3" y="6.09"/>
+<vertex x="11.3" y="8.39"/>
+<vertex x="-11.8" y="8.49"/>
+<vertex x="-11.8" y="5.69"/>
+<vertex x="-14" y="5.69"/>
+<vertex x="-14" y="13.59"/>
+<vertex x="14.1" y="13.59"/>
+</polygon>
+</package>

@@ -1,0 +1,17 @@
+
+<package name="SSW-101-02-G-T-RA">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST SOCKET&lt;/b&gt;&lt;p&gt;
+Source: Samtec SSW.pdf</description>
+<wire x1="-1.399" y1="-8.396" x2="1.399" y2="-8.396" width="0.2032" layer="21"/>
+<wire x1="1.399" y1="-8.396" x2="1.399" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="1.399" y1="-0.106" x2="-1.399" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="-1.399" y1="-0.106" x2="-1.399" y2="-8.396" width="0.2032" layer="21"/>
+<pad name="1" x="0" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="2" x="0" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="3" x="0" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<text x="-0.595" y="-7.65" size="1.6764" layer="21" font="vector">1</text>
+<text x="-0.67" y="-2.2" size="1.6764" layer="21" font="vector">3</text>
+<text x="-1.79" y="-7.62" size="1.27" layer="25" ratio="5" rot="R90">&gt;NAME</text>
+<text x="2.9" y="-7.625" size="1.27" layer="27" ratio="5" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.254" y1="0" x2="0.254" y2="6.858" layer="51"/>
+</package>

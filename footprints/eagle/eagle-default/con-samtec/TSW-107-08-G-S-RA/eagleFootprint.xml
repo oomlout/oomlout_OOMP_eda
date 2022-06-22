@@ -1,0 +1,33 @@
+
+<package name="TSW-107-08-G-S-RA">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf</description>
+<wire x1="-9.019" y1="-2.046" x2="9.019" y2="-2.046" width="0.2032" layer="21"/>
+<wire x1="9.019" y1="-2.046" x2="9.019" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="9.019" y1="-0.106" x2="-9.019" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="-9.019" y1="-0.106" x2="-9.019" y2="-2.046" width="0.2032" layer="21"/>
+<pad name="1" x="7.62" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="2" x="5.08" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="3" x="2.54" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="4" x="0" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="5" x="-2.54" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="6" x="-5.08" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="7" x="-7.62" y="1.524" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<text x="-9.525" y="-7.62" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="10.795" y="-7.62" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<text x="8.902" y="1.152" size="1.1" layer="21" font="vector" rot="SR0">1</text>
+<rectangle x1="-7.874" y1="0" x2="-7.366" y2="1.778" layer="51"/>
+<rectangle x1="-5.334" y1="0" x2="-4.826" y2="1.778" layer="51"/>
+<rectangle x1="-2.794" y1="0" x2="-2.286" y2="1.778" layer="51"/>
+<rectangle x1="-0.254" y1="0" x2="0.254" y2="1.778" layer="51"/>
+<rectangle x1="2.286" y1="0" x2="2.794" y2="1.778" layer="51"/>
+<rectangle x1="4.826" y1="0" x2="5.334" y2="1.778" layer="51"/>
+<rectangle x1="7.366" y1="0" x2="7.874" y2="1.778" layer="51"/>
+<rectangle x1="-7.874" y1="-7.89" x2="-7.366" y2="-2.04" layer="21"/>
+<rectangle x1="-5.334" y1="-7.89" x2="-4.826" y2="-2.04" layer="21"/>
+<rectangle x1="-2.794" y1="-7.89" x2="-2.286" y2="-2.04" layer="21"/>
+<rectangle x1="-0.254" y1="-7.89" x2="0.254" y2="-2.04" layer="21"/>
+<rectangle x1="2.286" y1="-7.89" x2="2.794" y2="-2.04" layer="21"/>
+<rectangle x1="4.826" y1="-7.89" x2="5.334" y2="-2.04" layer="21"/>
+<rectangle x1="7.366" y1="-7.89" x2="7.874" y2="-2.04" layer="21"/>
+</package>

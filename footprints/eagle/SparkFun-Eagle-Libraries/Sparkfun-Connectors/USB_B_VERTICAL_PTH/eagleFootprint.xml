@@ -1,0 +1,13 @@
+
+<package name="USB_B_VERTICAL_PTH">
+<pad name="4" x="1.25" y="-1.6" drill="0.92"/>
+<pad name="1" x="1.25" y="1.6" drill="0.92"/>
+<pad name="2" x="-1.25" y="1.6" drill="0.92"/>
+<pad name="5" x="-6.02" y="-1.11" drill="2.3"/>
+<pad name="6" x="6.02" y="-1.11" drill="2.3"/>
+<pad name="3" x="-1.25" y="-1.6" drill="0.92"/>
+<wire x1="6" y1="-5.66" x2="-6" y2="-5.66" width="0.2032" layer="21"/>
+<wire x1="6" y1="5.49" x2="-6" y2="5.49" width="0.2032" layer="21"/>
+<wire x1="6" y1="5.49" x2="6" y2="-5.66" width="0.2032" layer="21"/>
+<wire x1="-6" y1="5.49" x2="-6" y2="-5.66" width="0.2032" layer="21"/>
+</package>

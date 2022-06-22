@@ -1,0 +1,12 @@
+
+<package name="414-VA5R">
+<wire x1="-0.4" y1="1.4" x2="4.1" y2="1.4" width="0.127" layer="27"/>
+<wire x1="4.1" y1="1.4" x2="4.1" y2="-1.4" width="0.127" layer="27"/>
+<wire x1="4.1" y1="-1.4" x2="-0.4" y2="-1.4" width="0.127" layer="27"/>
+<wire x1="-0.4" y1="-1.4" x2="-0.4" y2="1.4" width="0.127" layer="27"/>
+<circle x="0" y="0" radius="2.4" width="0.127" layer="21"/>
+<smd name="+" x="-2.9" y="0" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="-" x="3.8" y="0" dx="3" dy="1.1" layer="1" rot="R90"/>
+<text x="-2.2" y="2.6" size="1.016" layer="25" font="vector">&gt;NAME</text>
+<text x="-2.6" y="-3.7" size="1.016" layer="27" font="vector">&gt;VALUE</text>
+</package>

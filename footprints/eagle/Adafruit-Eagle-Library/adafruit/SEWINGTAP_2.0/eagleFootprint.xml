@@ -1,0 +1,32 @@
+
+<package name="SEWINGTAP_2.0">
+<pad name="P$1" x="0" y="0" drill="1.5" diameter="2.54"/>
+<polygon width="0.127" layer="1">
+<vertex x="2.54" y="2.413" curve="19.99994"/>
+<vertex x="-2.54" y="2.413"/>
+<vertex x="-2.54" y="0.889" curve="90"/>
+<vertex x="0" y="-1.651" curve="90"/>
+<vertex x="2.54" y="0.889"/>
+</polygon>
+<polygon width="0.127" layer="29">
+<vertex x="2.54" y="2.413" curve="19.99994"/>
+<vertex x="-2.54" y="2.413"/>
+<vertex x="-2.54" y="0.889" curve="90"/>
+<vertex x="0" y="-1.651" curve="90"/>
+<vertex x="2.54" y="0.889"/>
+</polygon>
+<polygon width="0.127" layer="30">
+<vertex x="2.54" y="2.413" curve="19.99994"/>
+<vertex x="-2.54" y="2.413"/>
+<vertex x="-2.54" y="0.889" curve="90"/>
+<vertex x="0" y="-1.651" curve="90"/>
+<vertex x="2.54" y="0.889"/>
+</polygon>
+<polygon width="0.127" layer="16">
+<vertex x="2.54" y="2.413" curve="19.99994"/>
+<vertex x="-2.54" y="2.413"/>
+<vertex x="-2.54" y="0.889" curve="90"/>
+<vertex x="0" y="-1.651" curve="90"/>
+<vertex x="2.54" y="0.889"/>
+</polygon>
+</package>

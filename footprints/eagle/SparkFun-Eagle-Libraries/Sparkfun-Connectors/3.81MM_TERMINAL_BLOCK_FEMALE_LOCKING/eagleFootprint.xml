@@ -1,0 +1,101 @@
+
+<package name="3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING">
+<description>&lt;h3&gt;MyDAQ Female Right Angle Terminal Block w/ Locking Footprint&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 40&lt;/li&gt;
+&lt;li&gt;Pin pitch:3.18mm&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”http://www.4uconnector.com/online/object/4udrawing/10458.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;MyDAQ&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-7.9756" y1="38.4949" x2="-7.9756" y2="-38.4949" width="0.2032" layer="51"/>
+<wire x1="-1.27" y1="38.4949" x2="-1.27" y2="-38.4949" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="38.4949" x2="-7.9756" y2="38.4949" width="0.2032" layer="51"/>
+<wire x1="-1.27" y1="-38.4949" x2="-7.9756" y2="-38.4949" width="0.2032" layer="51"/>
+<wire x1="-1.27" y1="38.4949" x2="6.5278" y2="38.4949" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="-38.4949" x2="6.5278" y2="-38.4949" width="0.2032" layer="21"/>
+<wire x1="6.5278" y1="-38.4949" x2="6.5278" y2="38.4949" width="0.2032" layer="21"/>
+<pad name="19" x="4.5212" y="32.3863" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@19" x="1.9812" y="32.3863" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="20" x="4.7244" y="36.1963" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@20" x="2.1844" y="36.1963" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="17" x="4.5212" y="24.7663" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@17" x="1.9812" y="24.7663" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="18" x="4.7244" y="28.5763" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@18" x="2.1844" y="28.5763" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="15" x="4.5212" y="17.1463" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@15" x="1.9812" y="17.1463" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="16" x="4.7244" y="20.9563" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@16" x="2.1844" y="20.9563" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="13" x="4.5212" y="9.5263" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@13" x="1.9812" y="9.5263" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="14" x="4.7244" y="13.3363" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@14" x="2.1844" y="13.3363" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="11" x="4.5212" y="1.9063" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@11" x="1.9812" y="1.9063" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="12" x="4.7244" y="5.7163" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@12" x="2.1844" y="5.7163" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="9" x="4.5212" y="-5.7137" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@9" x="1.9812" y="-5.7137" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="10" x="4.7244" y="-1.9037" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@10" x="2.1844" y="-1.9037" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="7" x="4.5212" y="-13.3337" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@7" x="1.9812" y="-13.3337" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="8" x="4.7244" y="-9.5237" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@8" x="2.1844" y="-9.5237" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="5" x="4.5212" y="-20.9537" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@5" x="1.9812" y="-20.9537" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="6" x="4.7244" y="-17.1437" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@6" x="2.1844" y="-17.1437" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="3" x="4.5212" y="-28.5737" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@3" x="1.9812" y="-28.5737" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="4" x="4.7244" y="-24.7637" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@4" x="2.1844" y="-24.7637" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="1" x="4.5212" y="-36.1937" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@1" x="1.9812" y="-36.1937" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="2" x="4.7244" y="-32.3837" drill="1.2" diameter="2.1844" rot="R270"/>
+<pad name="@2" x="2.1844" y="-32.3837" drill="1.2" diameter="2.1844" rot="R270"/>
+<rectangle x1="4.1529" y1="32.1704" x2="5.0927" y2="32.6022" layer="51"/>
+<rectangle x1="4.1529" y1="35.9804" x2="5.0927" y2="36.4122" layer="51"/>
+<rectangle x1="1.6129" y1="32.1704" x2="2.5527" y2="32.6022" layer="51"/>
+<rectangle x1="1.6129" y1="35.9804" x2="2.5527" y2="36.4122" layer="51"/>
+<rectangle x1="4.1529" y1="24.5504" x2="5.0927" y2="24.9822" layer="51"/>
+<rectangle x1="4.1529" y1="28.3604" x2="5.0927" y2="28.7922" layer="51"/>
+<rectangle x1="1.6129" y1="24.5504" x2="2.5527" y2="24.9822" layer="51"/>
+<rectangle x1="1.6129" y1="28.3604" x2="2.5527" y2="28.7922" layer="51"/>
+<rectangle x1="4.1529" y1="16.9304" x2="5.0927" y2="17.3622" layer="51"/>
+<rectangle x1="4.1529" y1="20.7404" x2="5.0927" y2="21.1722" layer="51"/>
+<rectangle x1="1.6129" y1="16.9304" x2="2.5527" y2="17.3622" layer="51"/>
+<rectangle x1="1.6129" y1="20.7404" x2="2.5527" y2="21.1722" layer="51"/>
+<rectangle x1="4.1529" y1="9.3104" x2="5.0927" y2="9.7422" layer="51"/>
+<rectangle x1="4.1529" y1="13.1204" x2="5.0927" y2="13.5522" layer="51"/>
+<rectangle x1="1.6129" y1="9.3104" x2="2.5527" y2="9.7422" layer="51"/>
+<rectangle x1="1.6129" y1="13.1204" x2="2.5527" y2="13.5522" layer="51"/>
+<rectangle x1="4.1529" y1="1.6904" x2="5.0927" y2="2.1222" layer="51"/>
+<rectangle x1="4.1529" y1="5.5004" x2="5.0927" y2="5.9322" layer="51"/>
+<rectangle x1="1.6129" y1="1.6904" x2="2.5527" y2="2.1222" layer="51"/>
+<rectangle x1="1.6129" y1="5.5004" x2="2.5527" y2="5.9322" layer="51"/>
+<rectangle x1="4.1529" y1="-5.9296" x2="5.0927" y2="-5.4978" layer="51"/>
+<rectangle x1="4.1529" y1="-2.1196" x2="5.0927" y2="-1.6878" layer="51"/>
+<rectangle x1="1.6129" y1="-5.9296" x2="2.5527" y2="-5.4978" layer="51"/>
+<rectangle x1="1.6129" y1="-2.1196" x2="2.5527" y2="-1.6878" layer="51"/>
+<rectangle x1="4.1529" y1="-13.5496" x2="5.0927" y2="-13.1178" layer="51"/>
+<rectangle x1="4.1529" y1="-9.7396" x2="5.0927" y2="-9.3078" layer="51"/>
+<rectangle x1="1.6129" y1="-13.5496" x2="2.5527" y2="-13.1178" layer="51"/>
+<rectangle x1="1.6129" y1="-9.7396" x2="2.5527" y2="-9.3078" layer="51"/>
+<rectangle x1="4.1529" y1="-21.1696" x2="5.0927" y2="-20.7378" layer="51"/>
+<rectangle x1="4.1529" y1="-17.3596" x2="5.0927" y2="-16.9278" layer="51"/>
+<rectangle x1="1.6129" y1="-21.1696" x2="2.5527" y2="-20.7378" layer="51"/>
+<rectangle x1="1.6129" y1="-17.3596" x2="2.5527" y2="-16.9278" layer="51"/>
+<rectangle x1="4.1529" y1="-28.7896" x2="5.0927" y2="-28.3578" layer="51"/>
+<rectangle x1="4.1529" y1="-24.9796" x2="5.0927" y2="-24.5478" layer="51"/>
+<rectangle x1="1.6129" y1="-28.7896" x2="2.5527" y2="-28.3578" layer="51"/>
+<rectangle x1="1.6129" y1="-24.9796" x2="2.5527" y2="-24.5478" layer="51"/>
+<rectangle x1="4.1529" y1="-36.4096" x2="5.0927" y2="-35.9778" layer="51"/>
+<rectangle x1="4.1529" y1="-32.5996" x2="5.0927" y2="-32.1678" layer="51"/>
+<rectangle x1="1.6129" y1="-36.4096" x2="2.5527" y2="-35.9778" layer="51"/>
+<rectangle x1="1.6129" y1="-32.5996" x2="2.5527" y2="-32.1678" layer="51"/>
+<text x="-6.35" y="0.254" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-6.35" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

@@ -1,0 +1,48 @@
+
+<package name="1X40-0.8MM">
+<smd name="1" x="-15.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="2" x="-14.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="3" x="-14" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="4" x="-13.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="5" x="-12.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="6" x="-11.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="7" x="-10.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="8" x="-10" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="9" x="-9.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="10" x="-8.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="11" x="-7.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="12" x="-6.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="13" x="-6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="14" x="-5.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="15" x="-4.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="16" x="-3.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="17" x="-2.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="18" x="-2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="19" x="-1.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="20" x="-0.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="21" x="0.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="22" x="1.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="23" x="2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="24" x="2.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="25" x="3.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="26" x="4.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="27" x="5.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="28" x="6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="29" x="6.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="30" x="7.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="31" x="8.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="32" x="9.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="33" x="10" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="34" x="10.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="35" x="11.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="36" x="12.4" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="37" x="13.2" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="38" x="14" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="39" x="14.8" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<smd name="40" x="15.6" y="0" dx="2" dy="0.4" layer="1" rot="R90"/>
+<text x="-16" y="-1.2" size="0.8128" layer="21" font="vector" rot="R270">1</text>
+<text x="-8.8" y="-1.2" size="0.8128" layer="21" font="vector" rot="R270">10</text>
+<text x="-0.8" y="-1.2" size="0.8128" layer="21" font="vector" rot="R270">20</text>
+<text x="15.2" y="-1.2" size="0.8128" layer="21" font="vector" rot="R270">40</text>
+<text x="7.2" y="-1.2" size="0.8128" layer="21" font="vector" rot="R270">30</text>
+</package>

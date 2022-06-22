@@ -1,0 +1,11 @@
+
+<package name="1X01_SMALL">
+<description>&lt;h3&gt;Small PTH Hole&lt;/h3&gt;
+
+&lt;p&gt;Characteristics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single through hole&lt;/li&gt;
+&lt;li&gt;Diameter: .02"&lt;/li&gt;
+&lt;/ul&gt;</description>
+<pad name="P$1" x="0" y="0" drill="0.508"/>
+</package>

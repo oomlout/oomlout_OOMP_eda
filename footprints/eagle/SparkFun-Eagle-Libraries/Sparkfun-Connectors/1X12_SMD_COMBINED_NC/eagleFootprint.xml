@@ -1,0 +1,66 @@
+
+<package name="1X12_SMD_COMBINED_NC">
+<description>&lt;h3&gt;SMD - 12 Pin Vertical Female SMD Combined No Connect&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 12&lt;/li&gt;
+&lt;li&gt;Pin pitch: 0.1"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”http://cdn.sparkfun.com/datasheets/Prototyping/maleSMDheader.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_12&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-0.1" y1="-1.25" x2="-0.1" y2="1.25" width="0.127" layer="21"/>
+<wire x1="0.42" y1="-1.25" x2="-0.1" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="20.42" y1="-1.25" x2="19.773" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="19.9" y1="1.25" x2="20.42" y2="1.25" width="0.127" layer="21"/>
+<wire x1="-0.1" y1="1.25" x2="0.547" y2="1.25" width="0.127" layer="21"/>
+<wire x1="15.807" y1="-1.25" x2="14.673" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="2.059" y1="1.25" x2="3.021" y2="1.25" width="0.127" layer="21"/>
+<wire x1="4.599" y1="1.25" x2="5.561" y2="1.25" width="0.127" layer="21"/>
+<wire x1="7.139" y1="1.25" x2="8.101" y2="1.25" width="0.127" layer="21"/>
+<wire x1="9.679" y1="1.25" x2="10.641" y2="1.25" width="0.127" layer="21"/>
+<wire x1="12.219" y1="1.25" x2="13.181" y2="1.25" width="0.127" layer="21"/>
+<wire x1="14.759" y1="1.25" x2="15.721" y2="1.25" width="0.127" layer="21"/>
+<wire x1="17.299" y1="1.25" x2="18.261" y2="1.25" width="0.127" layer="21"/>
+<wire x1="18.347" y1="-1.25" x2="17.213" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="13.267" y1="-1.25" x2="12.133" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="10.727" y1="-1.25" x2="9.593" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="8.187" y1="-1.25" x2="7.053" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="5.647" y1="-1.25" x2="4.513" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="3.107" y1="-1.25" x2="1.973" y2="-1.25" width="0.127" layer="21"/>
+<smd name="7@2" x="16.51" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="5@2" x="11.43" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="3@2" x="6.35" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="8@2" x="19.05" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="6@2" x="13.97" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="4@2" x="8.89" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="2@2" x="3.81" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="1" x="1.27" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="2" x="3.81" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="3" x="6.35" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="4" x="8.89" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="5" x="11.43" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="6" x="13.97" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="7" x="16.51" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="8" x="19.05" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="1@2" x="1.27" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<wire x1="30.58" y1="1.25" x2="30.58" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="30.58" y1="-1.25" x2="29.933" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="30.06" y1="1.25" x2="30.58" y2="1.25" width="0.127" layer="21"/>
+<wire x1="25.967" y1="-1.25" x2="24.833" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="19.839" y1="1.25" x2="20.801" y2="1.25" width="0.127" layer="21"/>
+<wire x1="22.379" y1="1.25" x2="23.341" y2="1.25" width="0.127" layer="21"/>
+<wire x1="24.919" y1="1.25" x2="25.881" y2="1.25" width="0.127" layer="21"/>
+<wire x1="27.459" y1="1.25" x2="28.421" y2="1.25" width="0.127" layer="21"/>
+<wire x1="28.507" y1="-1.25" x2="27.373" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="23.427" y1="-1.25" x2="22.293" y2="-1.25" width="0.127" layer="21"/>
+<wire x1="20.887" y1="-1.25" x2="19.753" y2="-1.25" width="0.127" layer="21"/>
+<smd name="11@2" x="26.67" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="9@2" x="21.59" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="12@2" x="29.21" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="10@2" x="24.13" y="1.65" dx="2" dy="1" layer="1" rot="R270"/>
+<smd name="9" x="21.59" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="10" x="24.13" y="-1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="11" x="26.67" y="1.65" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="12" x="29.21" y="-1.65" dx="2" dy="1" layer="1" rot="R270"/>
+</package>

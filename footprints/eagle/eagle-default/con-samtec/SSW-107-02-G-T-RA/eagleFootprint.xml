@@ -1,0 +1,41 @@
+
+<package name="SSW-107-02-G-T-RA">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST SOCKET&lt;/b&gt;&lt;p&gt;
+Source: Samtec SSW.pdf</description>
+<wire x1="-9.019" y1="-8.396" x2="9.019" y2="-8.396" width="0.2032" layer="21"/>
+<wire x1="9.019" y1="-8.396" x2="9.019" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="9.019" y1="-0.106" x2="-9.019" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="-9.019" y1="-0.106" x2="-9.019" y2="-8.396" width="0.2032" layer="21"/>
+<pad name="1" x="-7.62" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="2" x="-7.62" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="3" x="-7.62" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="4" x="-5.08" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="5" x="-5.08" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="6" x="-5.08" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="7" x="-2.54" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="8" x="-2.54" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="9" x="-2.54" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="10" x="0" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="11" x="0" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="12" x="0" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="13" x="2.54" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="14" x="2.54" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="15" x="2.54" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="16" x="5.08" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="17" x="5.08" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="18" x="5.08" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="19" x="7.62" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="20" x="7.62" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="21" x="7.62" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<text x="-8.215" y="-7.65" size="1.6764" layer="21" font="vector">1</text>
+<text x="-8.29" y="-2.2" size="1.6764" layer="21" font="vector">3</text>
+<text x="-9.525" y="-7.62" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="10.795" y="-7.62" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-7.874" y1="0" x2="-7.366" y2="6.858" layer="51"/>
+<rectangle x1="-5.334" y1="0" x2="-4.826" y2="6.858" layer="51"/>
+<rectangle x1="-2.794" y1="0" x2="-2.286" y2="6.858" layer="51"/>
+<rectangle x1="-0.254" y1="0" x2="0.254" y2="6.858" layer="51"/>
+<rectangle x1="2.286" y1="0" x2="2.794" y2="6.858" layer="51"/>
+<rectangle x1="4.826" y1="0" x2="5.334" y2="6.858" layer="51"/>
+<rectangle x1="7.366" y1="0" x2="7.874" y2="6.858" layer="51"/>
+</package>

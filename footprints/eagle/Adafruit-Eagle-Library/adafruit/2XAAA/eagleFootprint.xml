@@ -1,0 +1,8 @@
+
+<package name="2XAAA">
+<wire x1="26.62" y1="12.95" x2="-26.67" y2="12.95" width="0.127" layer="21"/>
+<wire x1="-26.67" y1="12.95" x2="-26.67" y2="-12.7" width="0.127" layer="21"/>
+<wire x1="-26.67" y1="-12.7" x2="26.62" y2="-12.7" width="0.127" layer="21"/>
+<wire x1="26.62" y1="-12.7" x2="26.62" y2="12.95" width="0.127" layer="21"/>
+<text x="-2.77" y="-1.38" size="1.778" layer="21" font="vector">2xAAA</text>
+</package>

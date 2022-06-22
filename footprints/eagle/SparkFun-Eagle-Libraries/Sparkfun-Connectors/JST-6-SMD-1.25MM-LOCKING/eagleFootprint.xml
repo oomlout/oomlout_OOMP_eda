@@ -1,0 +1,30 @@
+
+<package name="JST-6-SMD-1.25MM-LOCKING">
+<wire x1="-4.25" y1="-0.93" x2="4.25" y2="-0.93" width="0.2032" layer="21"/>
+<smd name="1" x="-3.125" y="3.3" dx="0.6" dy="1.7" layer="1" rot="R180"/>
+<smd name="NC1" x="4.975" y="0.1" dx="2.7" dy="1" layer="1" rot="R270"/>
+<smd name="NC2" x="-4.975" y="0.1" dx="2.7" dy="1" layer="1" rot="R270"/>
+<wire x1="-5.375" y1="3.05" x2="5.375" y2="3.05" width="0.01" layer="51"/>
+<wire x1="5.375" y1="3.05" x2="5.375" y2="-1" width="0.01" layer="51"/>
+<wire x1="5.375" y1="-1" x2="-5.375" y2="-1" width="0.01" layer="51"/>
+<wire x1="-5.375" y1="-1" x2="-5.375" y2="3.05" width="0.01" layer="51"/>
+<text x="0" y="1" size="0.5" layer="25" align="center">&gt;Name</text>
+<text x="0" y="0" size="0.5" layer="27" align="center">&gt;Value</text>
+<smd name="2" x="-1.875" y="3.3" dx="0.6" dy="1.7" layer="1" rot="R180"/>
+<smd name="3" x="-0.625" y="3.3" dx="0.6" dy="1.7" layer="1" rot="R180"/>
+<smd name="4" x="0.625" y="3.3" dx="0.6" dy="1.7" layer="1" rot="R180"/>
+<rectangle x1="-3.225" y1="3.05" x2="-3.025" y2="3.85" layer="51"/>
+<rectangle x1="-1.975" y1="3.05" x2="-1.775" y2="3.85" layer="51"/>
+<rectangle x1="-0.725" y1="3.05" x2="-0.525" y2="3.85" layer="51"/>
+<rectangle x1="0.525" y1="3.05" x2="0.725" y2="3.85" layer="51"/>
+<rectangle x1="4.875" y1="-1" x2="5.075" y2="1.2" layer="51"/>
+<rectangle x1="-5.075" y1="-1" x2="-4.875" y2="1.2" layer="51"/>
+<wire x1="-5.3" y1="2" x2="-5.3" y2="2.95" width="0.2032" layer="21"/>
+<wire x1="-5.3" y1="2.95" x2="-4.25" y2="2.95" width="0.2032" layer="21"/>
+<wire x1="4.25" y1="2.95" x2="5.3" y2="2.95" width="0.2032" layer="21"/>
+<wire x1="5.3" y1="2" x2="5.3" y2="2.95" width="0.2032" layer="21"/>
+<smd name="5" x="1.875" y="3.3" dx="0.6" dy="1.7" layer="1" rot="R180"/>
+<smd name="6" x="3.125" y="3.3" dx="0.6" dy="1.7" layer="1" rot="R180"/>
+<rectangle x1="1.775" y1="3.05" x2="1.975" y2="3.85" layer="51"/>
+<rectangle x1="3.025" y1="3.05" x2="3.225" y2="3.85" layer="51"/>
+</package>

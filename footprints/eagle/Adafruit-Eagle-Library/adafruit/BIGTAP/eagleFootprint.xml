@@ -1,0 +1,32 @@
+
+<package name="BIGTAP">
+<pad name="P$1" x="0" y="0" drill="3.2" diameter="5.08"/>
+<polygon width="0.127" layer="1">
+<vertex x="3.556" y="3.556" curve="19.99994"/>
+<vertex x="-3.556" y="3.556"/>
+<vertex x="-3.175" y="0" curve="75"/>
+<vertex x="-0.127" y="-2.54" curve="75"/>
+<vertex x="3.175" y="0"/>
+</polygon>
+<polygon width="0.127" layer="16">
+<vertex x="3.556" y="3.556" curve="19.99994"/>
+<vertex x="-3.556" y="3.556"/>
+<vertex x="-3.175" y="0" curve="75"/>
+<vertex x="-0.127" y="-2.54" curve="75"/>
+<vertex x="3.175" y="0"/>
+</polygon>
+<polygon width="0.127" layer="30">
+<vertex x="3.556" y="3.556" curve="19.99994"/>
+<vertex x="-3.556" y="3.556"/>
+<vertex x="-3.175" y="0" curve="75"/>
+<vertex x="-0.127" y="-2.54" curve="75"/>
+<vertex x="3.175" y="0"/>
+</polygon>
+<polygon width="0.127" layer="29">
+<vertex x="3.556" y="3.556" curve="19.99994"/>
+<vertex x="-3.556" y="3.556"/>
+<vertex x="-3.175" y="0" curve="75"/>
+<vertex x="-0.127" y="-2.54" curve="75"/>
+<vertex x="3.175" y="0"/>
+</polygon>
+</package>

@@ -1,0 +1,68 @@
+
+<package name="QSE-020-02">
+<description>&lt;b&gt;0,80mm HI-SPEED SOCKET&lt;/b&gt; QSE Serie&lt;p&gt;
+Source: http://www.samtec.com/ftppub/cpdf/QSE-XXX-01-X-D-XX-FOOTPRINT.pdf&lt;br&gt;
+http://www.samtec.com/ftppub/pdf/QSE.PDF</description>
+<wire x1="8.3" y1="2.075" x2="8.3" y2="-2.075" width="0.2032" layer="21"/>
+<wire x1="-8.3" y1="2.075" x2="8.3" y2="2.075" width="0.2032" layer="51"/>
+<wire x1="8.3" y1="-2.075" x2="-8.3" y2="-2.075" width="0.2032" layer="51"/>
+<wire x1="10.635" y1="-3.275" x2="-10.635" y2="-3.275" width="0.2032" layer="51"/>
+<wire x1="10.735" y1="-3.275" x2="10.735" y2="1.275" width="0.2032" layer="21"/>
+<wire x1="10.735" y1="1.275" x2="10.735" y2="3.275" width="0.2032" layer="21"/>
+<wire x1="10.735" y1="3.275" x2="8.735" y2="3.275" width="0.2032" layer="21"/>
+<wire x1="8.735" y1="3.275" x2="-8.735" y2="3.275" width="0.2032" layer="51"/>
+<wire x1="-8.735" y1="3.275" x2="-10.735" y2="3.275" width="0.2032" layer="21"/>
+<wire x1="-10.735" y1="3.275" x2="-10.735" y2="1.275" width="0.2032" layer="21"/>
+<wire x1="-10.735" y1="1.275" x2="-10.735" y2="-3.275" width="0.2032" layer="21"/>
+<wire x1="-8.3" y1="-2.075" x2="-8.3" y2="2.075" width="0.2032" layer="21"/>
+<wire x1="-8.735" y1="3.275" x2="-10.735" y2="1.275" width="0.2032" layer="21"/>
+<wire x1="10.735" y1="1.275" x2="8.735" y2="3.275" width="0.2032" layer="21"/>
+<smd name="M1" x="-8.065" y="0" dx="2.54" dy="0.43" layer="1"/>
+<smd name="M2" x="8.065" y="0" dx="2.54" dy="0.43" layer="1"/>
+<smd name="M3" x="-3.175" y="0" dx="4.7" dy="0.43" layer="1"/>
+<smd name="M4" x="3.175" y="0" dx="4.7" dy="0.43" layer="1"/>
+<smd name="1" x="-7.595" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="2" x="-7.595" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="3" x="-6.795" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="4" x="-6.795" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="5" x="-5.995" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="6" x="-5.995" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="7" x="-5.195" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="8" x="-5.195" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="9" x="-4.395" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="10" x="-4.395" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="11" x="-3.595" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="12" x="-3.595" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="13" x="-2.795" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="14" x="-2.795" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="15" x="-1.995" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="16" x="-1.995" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="17" x="-1.195" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="18" x="-1.195" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="19" x="-0.395" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="20" x="-0.395" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="21" x="0.405" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="22" x="0.405" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="23" x="1.205" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="24" x="1.205" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="25" x="2.005" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="26" x="2.005" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="27" x="2.805" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="28" x="2.805" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="29" x="3.605" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="30" x="3.605" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="31" x="4.405" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="32" x="4.405" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="33" x="5.205" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="34" x="5.205" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="35" x="6.005" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="36" x="6.005" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="37" x="6.805" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="38" x="6.805" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<smd name="39" x="7.605" y="-2.86" dx="0.41" dy="2.27" layer="1"/>
+<smd name="40" x="7.605" y="2.87" dx="0.41" dy="2.27" layer="1"/>
+<text x="-10.16" y="-5.715" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.54" y="-5.715" size="1.27" layer="27">&gt;VALUE</text>
+<hole x="-10.13" y="2.67" drill="1.02"/>
+<hole x="10.065" y="2.67" drill="1.02"/>
+</package>

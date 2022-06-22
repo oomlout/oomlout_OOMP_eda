@@ -1,0 +1,57 @@
+
+<package name="PSP_CONNECTOR">
+<description>&lt;h3&gt;ZIF PSP Connector&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 42 &lt;/li&gt;
+&lt;li&gt;Pin pitch:0.5mm&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”https://www.sparkfun.com/datasheets/LCD/PSP-Connector.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;PSP_CONNECTOR&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<smd name="DISP" x="1" y="8" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="CK" x="1" y="8.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="HSYNC" x="1" y="7.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="GND3" x="1" y="9" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="B6" x="1" y="10" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="B5" x="1" y="10.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="B7" x="1" y="9.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="B4" x="1" y="11" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="TEST2" x="1" y="4" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="TEST1" x="1" y="4.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="TEST3" x="1" y="3.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="NC2" x="1" y="5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="AVDD" x="1" y="6" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="NC" x="1" y="6.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="AVDD2" x="1" y="5.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="VSYNC" x="1" y="7" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="B2" x="1" y="12" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="B1" x="1" y="12.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="B3" x="1" y="11.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="B0" x="1" y="13" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="R6" x="1" y="18" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="R5" x="1" y="18.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="R7" x="1" y="17.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="R4" x="1" y="19" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="R2" x="1" y="20" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="R1" x="1" y="20.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="R3" x="1" y="19.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="R0" x="1" y="21" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="G6" x="1" y="14" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="G5" x="1" y="14.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="G7" x="1" y="13.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="G4" x="1" y="15" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="G2" x="1" y="16" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="G1" x="1" y="16.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="G3" x="1" y="15.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="G0" x="1" y="17" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="VCC" x="1" y="22" dx="0.254" dy="1.27" layer="1" rot="R90"/>
+<smd name="GND2" x="1" y="22.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="VCC2" x="1" y="21.5" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="GND" x="1" y="23" dx="0.254" dy="1.27" layer="1" rot="R270"/>
+<smd name="." x="4.4" y="25.3" dx="0.001" dy="0.001" layer="16" rot="R180"/>
+<smd name="GND4" x="4.2" y="25.3" dx="2.2" dy="1.8" layer="1"/>
+<smd name="GND5" x="4.2" y="1.3" dx="2.2" dy="1.8" layer="1"/>
+<text x="3.0734" y="13.2588" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="2.6924" y="12.2428" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

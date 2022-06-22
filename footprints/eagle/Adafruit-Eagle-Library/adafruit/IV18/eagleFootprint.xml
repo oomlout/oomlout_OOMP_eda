@@ -1,0 +1,37 @@
+
+<package name="IV18">
+<wire x1="5.588" y1="2.54" x2="4.572" y2="2.54" width="0.127" layer="21"/>
+<wire x1="4.572" y1="2.54" x2="4.572" y2="-2.286" width="0.127" layer="21"/>
+<wire x1="4.572" y1="-2.286" x2="5.588" y2="-2.286" width="0.127" layer="21"/>
+<wire x1="0" y1="1.27" x2="0" y2="4.826" width="0.127" layer="21"/>
+<wire x1="0" y1="4.826" x2="0.508" y2="4.318" width="0.127" layer="21"/>
+<wire x1="0" y1="4.826" x2="-0.508" y2="4.318" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="6.0973" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="6.858" width="0.127" layer="21"/>
+<pad name="17" x="-6.858" y="1.905" drill="0.6" diameter="1.27"/>
+<pad name="6" x="6.858" y="-1.905" drill="0.6" diameter="1.27"/>
+<pad name="1" x="-0.635" y="-7.112" drill="0.6" diameter="1.27"/>
+<pad name="12" x="0.762" y="7.112" drill="0.6" diameter="1.27"/>
+<pad name="18" x="-6.985" y="-0.254" drill="0.6" diameter="1.27"/>
+<pad name="20" x="-5.715" y="-4.191" drill="0.6" diameter="1.27"/>
+<pad name="21" x="-4.445" y="-5.588" drill="0.6" diameter="1.27"/>
+<pad name="22" x="-2.667" y="-6.477" drill="0.6" diameter="1.27"/>
+<pad name="2" x="1.524" y="-6.858" drill="0.6" diameter="1.27"/>
+<pad name="3" x="3.175" y="-6.223" drill="0.6" diameter="1.27"/>
+<pad name="4" x="4.699" y="-5.08" drill="0.6" diameter="1.27"/>
+<pad name="5" x="6.096" y="-3.556" drill="0.6" diameter="1.27"/>
+<pad name="7" x="6.985" y="0.127" drill="0.6" diameter="1.27"/>
+<pad name="10" x="4.318" y="5.588" drill="0.6" diameter="1.27"/>
+<pad name="16" x="-6.223" y="3.81" drill="0.6" diameter="1.27"/>
+<pad name="14" x="-3.302" y="6.477" drill="0.6" diameter="1.27"/>
+<pad name="13" x="-1.27" y="7.112" drill="0.6" diameter="1.27"/>
+<pad name="15" x="-4.826" y="5.461" drill="0.6" diameter="1.27"/>
+<pad name="11" x="2.54" y="6.604" drill="0.6" diameter="1.27"/>
+<pad name="9" x="5.715" y="4.191" drill="0.6" diameter="1.27"/>
+<pad name="8" x="6.731" y="2.413" drill="0.6" diameter="1.27"/>
+<pad name="19" x="-6.858" y="-2.413" drill="0.6" diameter="1.27"/>
+<text x="4.064" y="-2.032" size="0.8128" layer="21" font="vector" rot="R90">display</text>
+<text x="5.334" y="-0.508" size="0.8128" layer="21" font="vector" rot="R90">nc</text>
+<text x="-1.27" y="1.524" size="0.8128" layer="21" font="vector" rot="R90">u</text>
+<text x="-1.27" y="3.048" size="0.8128" layer="21" font="vector" rot="R90">p</text>
+</package>

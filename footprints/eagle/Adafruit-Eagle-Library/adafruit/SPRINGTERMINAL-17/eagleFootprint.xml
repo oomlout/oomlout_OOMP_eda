@@ -1,0 +1,42 @@
+
+<package name="SPRINGTERMINAL-17">
+<wire x1="-21.22" y1="8.1" x2="24.5" y2="8.1" width="0.127" layer="21"/>
+<wire x1="24.5" y1="8.1" x2="24.5" y2="-5.6" width="0.127" layer="21"/>
+<wire x1="24.5" y1="-5.6" x2="-21.22" y2="-5.6" width="0.127" layer="21"/>
+<wire x1="-21.22" y1="-5.6" x2="-21.22" y2="8.1" width="0.127" layer="21"/>
+<pad name="1" x="-20.32" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="1'" x="-20.32" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="2" x="-17.78" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="2'" x="-17.78" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="3" x="-15.24" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="3'" x="-15.24" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="4" x="-12.7" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="4'" x="-12.7" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="5" x="-10.16" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="5'" x="-10.16" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="6" x="-7.62" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="6'" x="-7.62" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="7" x="-5.08" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="7'" x="-5.08" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="8" x="-2.54" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="8'" x="-2.54" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="9" x="0" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="9'" x="0" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="10" x="2.54" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="10'" x="2.54" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="11" x="5.08" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="11'" x="5.08" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="12" x="7.62" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="12'" x="7.62" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="13" x="10.16" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="13'" x="10.16" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="14" x="12.7" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="14'" x="12.7" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="15" x="15.24" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="15'" x="15.24" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="16" x="17.78" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="16'" x="17.78" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="17" x="20.32" y="5.08" drill="1.1" diameter="1.9304"/>
+<pad name="17'" x="20.32" y="0" drill="1.1" diameter="1.9304"/>
+<rectangle x1="-21.22" y1="-4.6" x2="21.96" y2="-2.06" layer="21"/>
+</package>

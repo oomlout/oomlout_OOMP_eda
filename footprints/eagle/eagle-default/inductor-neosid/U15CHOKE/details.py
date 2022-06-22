@@ -1,0 +1,16 @@
+###### OOMP FILE  ######
+
+import OOMP
+
+newPart = OOMP.oompItem()
+
+newPart.addTag("hexID", "")
+newPart.addTag("oompType", "FOOTPRINT")
+newPart.addTag("oompSize", "eagle")
+newPart.addTag("oompColor", "eagle-default")
+newPart.addTag("oompDesc", "inductor-neosid")
+newPart.addTag("oompIndex", "U15CHOKE")
+newPart.addTag("oompName", "eagle-default/inductor-neosid/U15CHOKE")
+
+
+OOMP.parts.append(newPart)

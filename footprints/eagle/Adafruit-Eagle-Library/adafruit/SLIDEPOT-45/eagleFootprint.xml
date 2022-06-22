@@ -1,0 +1,23 @@
+
+<package name="SLIDEPOT-45">
+<wire x1="-22.5" y1="4.5" x2="22.5" y2="4.5" width="0.127" layer="21"/>
+<wire x1="22.5" y1="4.5" x2="22.5" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="22.5" y1="-4.5" x2="-22.5" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="-22.5" y1="-4.5" x2="-22.5" y2="4.5" width="0.127" layer="21"/>
+<circle x="-20.5" y="0" radius="1" width="0.127" layer="21"/>
+<circle x="20.5" y="0" radius="1" width="0.127" layer="21"/>
+<wire x1="-18.5" y1="1.5" x2="18.5" y2="1.5" width="0.127" layer="21"/>
+<wire x1="18.5" y1="1.5" x2="18.5" y2="-1.5" width="0.127" layer="21"/>
+<wire x1="18.5" y1="-1.5" x2="-18.5" y2="-1.5" width="0.127" layer="21"/>
+<wire x1="-18.5" y1="-1.5" x2="-18.5" y2="1.5" width="0.127" layer="21"/>
+<pad name="P$1" x="-16.4" y="4.2" drill="1.7" diameter="2.54"/>
+<pad name="P$2" x="16.4" y="4.2" drill="1.7" diameter="2.54"/>
+<pad name="P$3" x="-17.6" y="-4.2" drill="1.7" diameter="2.54"/>
+<pad name="P$4" x="17.6" y="-4.2" drill="1.7" diameter="2.54"/>
+<pad name="C" x="21.75" y="1.75" drill="1.2" diameter="2.1844"/>
+<pad name="A" x="-21.75" y="1.75" drill="1.2" diameter="2.1844"/>
+<pad name="B" x="-21.75" y="-1.75" drill="1.2" diameter="2.1844"/>
+<text x="-2.5" y="5" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="-3" y="-6.5" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<text x="-2" y="-0.5" size="1.27" layer="21" font="vector">45MM</text>
+</package>

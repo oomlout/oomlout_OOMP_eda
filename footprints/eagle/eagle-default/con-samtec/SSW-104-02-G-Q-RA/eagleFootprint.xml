@@ -1,0 +1,25 @@
+
+<package name="SSW-104-02-G-Q-RA">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST SOCKET&lt;/b&gt;&lt;p&gt;
+Source: Samtec SSW.pdf</description>
+<wire x1="-5.209" y1="-8.396" x2="5.209" y2="-8.396" width="0.2032" layer="21"/>
+<wire x1="5.209" y1="-8.396" x2="5.209" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="5.209" y1="-0.106" x2="-5.209" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="-5.209" y1="-0.106" x2="-5.209" y2="-8.396" width="0.2032" layer="21"/>
+<pad name="1" x="-3.81" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="2" x="-3.81" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="3" x="-1.27" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="4" x="-1.27" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="5" x="1.27" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="6" x="1.27" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="7" x="3.81" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="8" x="3.81" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<text x="-4.405" y="-7.65" size="1.6764" layer="21" font="vector">1</text>
+<text x="-4.48" y="-2.2" size="1.6764" layer="21" font="vector">2</text>
+<text x="-5.715" y="-7.62" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="6.985" y="-7.62" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-4.064" y1="0" x2="-3.556" y2="6.858" layer="51"/>
+<rectangle x1="-1.524" y1="0" x2="-1.016" y2="6.858" layer="51"/>
+<rectangle x1="1.016" y1="0" x2="1.524" y2="6.858" layer="51"/>
+<rectangle x1="3.556" y1="0" x2="4.064" y2="6.858" layer="51"/>
+</package>

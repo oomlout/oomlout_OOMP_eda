@@ -1,0 +1,28 @@
+
+<package name="RJ11-6">
+<description>&lt;h3&gt;RJ11 6-Pin Socket with PCB Mounting Post&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”https://www.sparkfun.com/datasheets/Prototyping/Connectors/RJ11-Datasheet.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;RJ11-6&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="6.858" y1="-5.207" x2="6.858" y2="10.414" width="0.2032" layer="21"/>
+<wire x1="6.858" y1="10.414" x2="-6.858" y2="10.414" width="0.2032" layer="21"/>
+<wire x1="-6.858" y1="10.414" x2="-6.858" y2="-5.207" width="0.2032" layer="21"/>
+<wire x1="6.858" y1="-5.207" x2="-6.858" y2="-5.207" width="0.2032" layer="21"/>
+<wire x1="-6.858" y1="-5.207" x2="-6.858" y2="-8.128" width="0.2032" layer="51"/>
+<wire x1="-6.858" y1="-8.128" x2="6.858" y2="-8.128" width="0.2032" layer="51"/>
+<wire x1="6.858" y1="-8.128" x2="6.858" y2="-5.207" width="0.2032" layer="51"/>
+<pad name="1" x="-3.175" y="8.89" drill="1.016" diameter="1.8796"/>
+<pad name="2" x="-1.905" y="6.35" drill="1.016" diameter="1.8796"/>
+<pad name="3" x="-0.635" y="8.89" drill="1.016" diameter="1.8796"/>
+<pad name="4" x="0.635" y="6.35" drill="1.016" diameter="1.8796"/>
+<pad name="5" x="1.905" y="8.89" drill="1.016" diameter="1.8796"/>
+<pad name="6" x="3.175" y="6.35" drill="1.016" diameter="1.8796"/>
+<hole x="-5.08" y="0" drill="3.2512"/>
+<hole x="5.08" y="0" drill="3.2512"/>
+<text x="-1.3208" y="2.413" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.651" y="-2.794" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

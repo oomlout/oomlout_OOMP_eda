@@ -1,0 +1,25 @@
+
+<package name="BC9VPC">
+<description>&lt;h3&gt;9V Battery Holder (Open) - PTH&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:2&lt;/li&gt;
+&lt;li&gt;Area: 2.15"x1.20"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;BC9VPC&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="0" y1="0" x2="0" y2="29.972" width="0.127" layer="21"/>
+<wire x1="0" y1="29.972" x2="54.864" y2="29.972" width="0.127" layer="21"/>
+<wire x1="54.864" y1="29.972" x2="54.864" y2="0" width="0.127" layer="21"/>
+<wire x1="54.864" y1="0" x2="0" y2="0" width="0.127" layer="21"/>
+<pad name="V+" x="53.086" y="21.336" drill="2.032"/>
+<pad name="V-" x="53.086" y="8.382" drill="2.032"/>
+<text x="49.276" y="20.828" size="1.27" layer="21" font="vector" ratio="15">V+</text>
+<text x="49.276" y="7.874" size="1.27" layer="21" font="vector" ratio="15">V-</text>
+<hole x="27.178" y="3.81" drill="2.286"/>
+<hole x="13.716" y="26.162" drill="2.286"/>
+<hole x="40.64" y="26.162" drill="2.286"/>
+<text x="25.4" y="16.637" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="25.4" y="13.208" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

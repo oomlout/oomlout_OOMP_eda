@@ -1,0 +1,41 @@
+
+<package name="TSW-107-08-G-D">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf</description>
+<wire x1="-9.019" y1="2.425" x2="9.019" y2="2.425" width="0.2032" layer="21"/>
+<wire x1="9.019" y1="2.425" x2="9.019" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="9.019" y1="-2.425" x2="-9.019" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="-9.019" y1="-2.425" x2="-9.019" y2="2.425" width="0.2032" layer="21"/>
+<pad name="1" x="7.62" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="2" x="7.62" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="3" x="5.08" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="4" x="5.08" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="5" x="2.54" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="6" x="2.54" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="7" x="0" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="8" x="0" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="9" x="-2.54" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="10" x="-2.54" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="11" x="-5.08" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="12" x="-5.08" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="13" x="-7.62" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="14" x="-7.62" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<text x="7.412" y="-3.818" size="1.1" layer="21" font="vector" rot="SR0">1</text>
+<text x="7.237" y="2.744" size="1.1" layer="21" font="vector" rot="SR0">2</text>
+<text x="-9.525" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="10.795" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-7.97" y1="-1.62" x2="-7.27" y2="-0.92" layer="51"/>
+<rectangle x1="-7.97" y1="0.92" x2="-7.27" y2="1.62" layer="51"/>
+<rectangle x1="-5.43" y1="-1.62" x2="-4.73" y2="-0.92" layer="51"/>
+<rectangle x1="-5.43" y1="0.92" x2="-4.73" y2="1.62" layer="51"/>
+<rectangle x1="-2.89" y1="-1.62" x2="-2.19" y2="-0.92" layer="51"/>
+<rectangle x1="-2.89" y1="0.92" x2="-2.19" y2="1.62" layer="51"/>
+<rectangle x1="-0.35" y1="-1.62" x2="0.35" y2="-0.92" layer="51"/>
+<rectangle x1="-0.35" y1="0.92" x2="0.35" y2="1.62" layer="51"/>
+<rectangle x1="2.19" y1="-1.62" x2="2.89" y2="-0.92" layer="51"/>
+<rectangle x1="2.19" y1="0.92" x2="2.89" y2="1.62" layer="51"/>
+<rectangle x1="4.73" y1="-1.62" x2="5.43" y2="-0.92" layer="51"/>
+<rectangle x1="4.73" y1="0.92" x2="5.43" y2="1.62" layer="51"/>
+<rectangle x1="7.27" y1="-1.62" x2="7.97" y2="-0.92" layer="51"/>
+<rectangle x1="7.27" y1="0.92" x2="7.97" y2="1.62" layer="51"/>
+</package>

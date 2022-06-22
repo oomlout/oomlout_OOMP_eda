@@ -1,0 +1,49 @@
+
+<package name="TS12864">
+<wire x1="-14" y1="-2.5" x2="79" y2="-2.5" width="0.4064" layer="51"/>
+<wire x1="79" y1="-2.5" x2="79" y2="67.5" width="0.4064" layer="51"/>
+<wire x1="79" y1="67.5" x2="-14" y2="67.5" width="0.4064" layer="51"/>
+<wire x1="-14" y1="67.5" x2="-14" y2="-2.5" width="0.4064" layer="51"/>
+<wire x1="-11.5" y1="58.5" x2="76.5" y2="58.5" width="0.4064" layer="51"/>
+<wire x1="76.5" y1="58.5" x2="76.5" y2="6.5" width="0.4064" layer="51"/>
+<wire x1="76.5" y1="6.5" x2="-11.5" y2="6.5" width="0.4064" layer="51"/>
+<wire x1="-11.5" y1="6.5" x2="-11.5" y2="58.5" width="0.4064" layer="51"/>
+<wire x1="-7.5" y1="56" x2="72.5" y2="56" width="0.4064" layer="51"/>
+<wire x1="-7.5" y1="9" x2="72.5" y2="9" width="0.4064" layer="51"/>
+<wire x1="0.7015" y1="13.5" x2="-2.5" y2="16.7015" width="0.4064" layer="51" curve="-90"/>
+<wire x1="-2.5" y1="16.7015" x2="-2.5" y2="48.2985" width="0.4064" layer="51"/>
+<wire x1="-2.5" y1="48.2985" x2="0.7015" y2="51.5" width="0.4064" layer="51" curve="-90"/>
+<wire x1="0.7015" y1="51.5" x2="63.9645" y2="51.5" width="0.4064" layer="51"/>
+<wire x1="63.9645" y1="51.5" x2="67.5" y2="47.9645" width="0.4064" layer="51" curve="-90"/>
+<wire x1="67.5" y1="47.9645" x2="67.5" y2="16.7015" width="0.4064" layer="51"/>
+<wire x1="67.5" y1="16.7015" x2="64.2985" y2="13.5" width="0.4064" layer="51" curve="-90"/>
+<wire x1="64.2985" y1="13.5" x2="0.7015" y2="13.5" width="0.4064" layer="51"/>
+<pad name="20" x="0" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="19" x="2.54" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="18" x="5.08" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="17" x="7.62" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="16" x="10.16" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="15" x="12.7" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="14" x="15.24" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="13" x="17.78" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="12" x="20.32" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="11" x="22.86" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="10" x="25.4" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="9" x="27.94" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="8" x="30.48" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="7" x="33.02" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="6" x="35.56" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="5" x="38.1" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="4" x="40.64" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="3" x="43.18" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="2" x="45.72" y="0" drill="0.9" shape="long" rot="R90"/>
+<pad name="1" x="48.26" y="0" drill="0.9" shape="long" rot="R90"/>
+<text x="0" y="2.54" size="1.27" layer="21" font="vector" rot="R180">20</text>
+<text x="50.8" y="2.54" size="1.27" layer="21" font="vector" rot="R180">1</text>
+<rectangle x1="-11.5" y1="55.5" x2="76.5" y2="60.5" layer="39"/>
+<rectangle x1="-11.5" y1="4.5" x2="76.5" y2="9.5" layer="39"/>
+<hole x="-11.5" y="65" drill="3.2"/>
+<hole x="76.5" y="65" drill="3.2"/>
+<hole x="-11.5" y="0" drill="3.2"/>
+<hole x="76.5" y="0" drill="3.2"/>
+</package>

@@ -1,0 +1,18 @@
+
+<package name="TSW-103-XX-G-S">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf</description>
+<wire x1="-3.939" y1="1.155" x2="3.939" y2="1.155" width="0.2032" layer="21"/>
+<wire x1="3.939" y1="1.155" x2="3.939" y2="-1.155" width="0.2032" layer="21"/>
+<wire x1="3.939" y1="-1.155" x2="-3.939" y2="-1.155" width="0.2032" layer="21"/>
+<wire x1="-3.939" y1="-1.155" x2="-3.939" y2="1.155" width="0.2032" layer="21"/>
+<pad name="1" x="2.54" y="0" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="2" x="0" y="0" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="3" x="-2.54" y="0" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<text x="2.282" y="-2.498" size="1.1" layer="21" font="vector" rot="SR0">1</text>
+<text x="-4.445" y="-1.27" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="5.715" y="-1.27" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.89" y1="-0.35" x2="-2.19" y2="0.35" layer="51"/>
+<rectangle x1="-0.35" y1="-0.35" x2="0.35" y2="0.35" layer="51"/>
+<rectangle x1="2.19" y1="-0.35" x2="2.89" y2="0.35" layer="51"/>
+</package>

@@ -1,0 +1,16 @@
+###### OOMP FILE  ######
+
+import OOMP
+
+newPart = OOMP.oompItem()
+
+newPart.addTag("hexID", "")
+newPart.addTag("oompType", "FOOTPRINT")
+newPart.addTag("oompSize", "eagle")
+newPart.addTag("oompColor", "eagle-default")
+newPart.addTag("oompDesc", "con-lstb")
+newPart.addTag("oompIndex", "MA06-1")
+newPart.addTag("oompName", "eagle-default/con-lstb/MA06-1")
+
+
+OOMP.parts.append(newPart)

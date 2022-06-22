@@ -1,0 +1,9 @@
+
+<package name="STRIP-5PINSS">
+<wire x1="-5.08" y1="0" x2="5.08" y2="0" width="0.4064" layer="1"/>
+<pad name="P$1" x="0" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="P$2" x="-2.54" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="P$3" x="-5.08" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="P$5" x="2.54" y="0" drill="1.1" diameter="1.9304"/>
+<pad name="P$4" x="5.08" y="0" drill="1.1" diameter="1.9304"/>
+</package>

@@ -1,0 +1,5 @@
+
+<package name="USB-SOLDER-PADS-DATA_ONLY">
+<smd name="D-" x="0" y="0.635" dx="3" dy="0.9" layer="1" cream="no"/>
+<smd name="D+" x="0" y="-0.635" dx="3" dy="0.9" layer="1" cream="no"/>
+</package>

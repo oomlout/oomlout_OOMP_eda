@@ -1,0 +1,80 @@
+
+<package name="PROTRINKET">
+<hole x="-6.985" y="25.781" drill="2.2"/>
+<hole x="6.985" y="25.781" drill="2.2"/>
+<hole x="0" y="0" drill="2.2"/>
+<wire x1="8.89" y1="-8.0645" x2="8.89" y2="25.654" width="0" layer="21"/>
+<wire x1="8.89" y1="25.654" x2="6.985" y2="27.559" width="0" layer="21" curve="90"/>
+<wire x1="6.985" y1="27.559" x2="-6.985" y2="27.559" width="0" layer="21"/>
+<wire x1="-6.985" y1="27.559" x2="-8.89" y2="25.654" width="0" layer="21" curve="90"/>
+<wire x1="-8.89" y1="25.654" x2="-8.89" y2="-8.509" width="0" layer="21"/>
+<wire x1="-8.89" y1="-8.509" x2="-7.747" y2="-8.509" width="0" layer="21"/>
+<wire x1="-7.747" y1="-8.509" x2="-6.477" y2="-9.779" width="0" layer="21"/>
+<wire x1="-6.477" y1="-9.779" x2="2.7305" y2="-9.779" width="0" layer="21"/>
+<wire x1="2.7305" y1="-9.779" x2="4.0005" y2="-8.509" width="0" layer="21"/>
+<wire x1="4.0005" y1="-8.509" x2="8.509" y2="-8.509" width="0" layer="21"/>
+<wire x1="8.509" y1="-8.509" x2="8.89" y2="-8.0645" width="0" layer="21"/>
+<text x="6.9215" y="23.1775" size="1.016" layer="21" font="vector" ratio="10" align="center-right">BAT</text>
+<text x="3.9751" y="20.7264" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">GND</text>
+<text x="6.6675" y="18.1102" size="0.9652" layer="21" font="vector" ratio="10" align="center-right">BUS</text>
+<text x="6.477" y="15.5575" size="1.016" layer="21" font="vector" ratio="10" align="center-right">VCC</text>
+<text x="6.477" y="12.954" size="1.016" layer="21" font="vector" ratio="10" align="center-right">8</text>
+<text x="6.477" y="10.541" size="1.016" layer="21" font="vector" ratio="10" align="center-right">6</text>
+<text x="6.731" y="8.001" size="1.016" layer="21" font="vector" ratio="10" align="center-right">5</text>
+<text x="6.731" y="5.461" size="1.016" layer="21" font="vector" ratio="10" align="center-right">4</text>
+<text x="6.731" y="2.921" size="1.016" layer="21" font="vector" ratio="10" align="center-right">3</text>
+<text x="6.6675" y="0.381" size="1.016" layer="21" font="vector" ratio="10" align="center-right">TX</text>
+<text x="6.731" y="-2.159" size="1.016" layer="21" font="vector" ratio="10" align="center-right">RX</text>
+<text x="6.731" y="-4.826" size="1.016" layer="21" font="vector" ratio="10" align="center-right">RST</text>
+<text x="-6.477" y="-4.572" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A5</text>
+<text x="-6.477" y="-2.159" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A4</text>
+<text x="-6.477" y="0.381" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A3</text>
+<text x="-6.477" y="2.159" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A2</text>
+<text x="-3.81" y="5.334" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A7</text>
+<text x="-6.985" y="4.191" size="0.9652" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A1</text>
+<text x="-7.112" y="6.858" size="0.889" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A0</text>
+<text x="-3.937" y="8.001" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">A6</text>
+<text x="-6.35" y="10.414" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">Aref</text>
+<text x="-6.35" y="13.081" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">13</text>
+<text x="-6.35" y="15.621" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">12</text>
+<text x="-6.35" y="18.161" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">11</text>
+<text x="6.731" y="8.382" size="1.016" layer="21" font="vector" ratio="10" align="center-right">~</text>
+<text x="6.604" y="10.922" size="1.016" layer="21" font="vector" ratio="10" align="center-right">~</text>
+<text x="-6.35" y="20.701" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">10</text>
+<text x="-5.08" y="21.209" size="1.016" layer="21" font="vector" ratio="10" align="center-right">~</text>
+<text x="6.731" y="3.302" size="1.016" layer="21" font="vector" ratio="10" align="center-right">~</text>
+<text x="-5.842" y="18.415" size="1.016" layer="21" font="vector" ratio="10" rot="R180" align="center-right">~</text>
+<text x="0.508" y="24.257" size="1.143" layer="21" font="vector" ratio="12" rot="R180" align="center">Trinket!</text>
+<text x="-5.588" y="23.241" size="1.016" layer="21" font="vector" ratio="10" align="center-right">9</text>
+<text x="-5.588" y="23.749" size="1.016" layer="21" font="vector" ratio="10" align="center-right">~</text>
+<text x="0.127" y="25.527" size="1.27" layer="21" font="vector" ratio="12" rot="R180" align="center">Pro</text>
+<pad name="A5" x="-7.62" y="-4.699" drill="1.1"/>
+<pad name="A4" x="-7.62" y="-2.159" drill="1.1"/>
+<pad name="A3" x="-7.62" y="0.381" drill="1.1"/>
+<pad name="A2" x="-7.62" y="2.921" drill="1.1"/>
+<pad name="A1" x="-7.62" y="5.461" drill="1.1"/>
+<pad name="A0" x="-7.62" y="8.001" drill="1.1"/>
+<pad name="AREF" x="-7.62" y="10.541" drill="1.1"/>
+<pad name="A6" x="-5.08" y="8.001" drill="1.1"/>
+<pad name="A7" x="-5.08" y="5.461" drill="1.1"/>
+<pad name="13" x="-7.62" y="13.081" drill="1.1"/>
+<pad name="12" x="-7.62" y="15.621" drill="1.1"/>
+<pad name="11" x="-7.62" y="18.161" drill="1.1"/>
+<pad name="10" x="-7.62" y="20.701" drill="1.1"/>
+<pad name="9" x="-7.62" y="23.241" drill="1.1"/>
+<pad name="BAT+" x="7.62" y="23.241" drill="1.1"/>
+<pad name="GND" x="7.62" y="20.701" drill="1.1"/>
+<pad name="USB" x="7.62" y="18.161" drill="1.1"/>
+<pad name="VCC" x="7.62" y="15.621" drill="1.1"/>
+<pad name="8" x="7.62" y="13.081" drill="1.1"/>
+<pad name="6" x="7.62" y="10.541" drill="1.1"/>
+<pad name="5" x="7.62" y="8.001" drill="1.1"/>
+<pad name="4" x="7.62" y="5.461" drill="1.1"/>
+<pad name="3" x="7.62" y="2.921" drill="1.1"/>
+<pad name="TX" x="7.62" y="0.381" drill="1.1"/>
+<pad name="RX" x="7.62" y="-2.159" drill="1.1"/>
+<pad name="RST" x="7.62" y="-4.699" drill="1.1"/>
+<circle x="6.985" y="25.781" radius="1.27633125" width="0.127" layer="51"/>
+<circle x="-6.985" y="25.781" radius="1.27" width="0.127" layer="51"/>
+<circle x="0" y="0" radius="1.27" width="0.127" layer="51"/>
+</package>

@@ -1,0 +1,26 @@
+
+<package name="PSP_TOUCH_CONNECTOR">
+<description>&lt;h3&gt;SMD PSP Touch Screen Connector&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 4&lt;/li&gt;
+&lt;li&gt;Pin pitch: 1mm&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”https://www.sparkfun.com/datasheets/LCD/PSPTouchConnector.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;PSP_TOUCH_CONNECTOR&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-3.5" y1="-4" x2="3.5" y2="-4" width="0.127" layer="51"/>
+<wire x1="-3.5" y1="-4" x2="-3.5" y2="1.5" width="0.127" layer="51"/>
+<wire x1="3.5" y1="-4" x2="3.5" y2="1.5" width="0.127" layer="51"/>
+<wire x1="-3.5" y1="1.5" x2="3.5" y2="1.5" width="0.127" layer="51"/>
+<wire x1="-3" y1="-4.25" x2="-3.7" y2="-4.25" width="0.127" layer="21"/>
+<wire x1="-3.7" y1="-3.55" x2="-3.7" y2="-4.25" width="0.127" layer="21"/>
+<wire x1="3.7" y1="-3.55" x2="3.7" y2="-4.25" width="0.127" layer="21"/>
+<wire x1="3" y1="-4.25" x2="3.7" y2="-4.25" width="0.127" layer="21"/>
+<smd name="X2" x="-0.5" y="2.85" dx="2.3" dy="0.6" layer="1" rot="R90"/>
+<smd name="Y2" x="0.5" y="2.85" dx="2.3" dy="0.6" layer="1" rot="R90"/>
+<smd name="X1" x="1.5" y="2.85" dx="2.3" dy="0.6" layer="1" rot="R90"/>
+<smd name="Y1" x="-1.5" y="2.85" dx="2.3" dy="0.6" layer="1" rot="R90"/>
+<text x="-3.048" y="1.016" size="0.6096" layer="25" font="vector" ratio="20" align="top-left">&gt;NAME</text>
+<text x="-3.048" y="-3.85" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

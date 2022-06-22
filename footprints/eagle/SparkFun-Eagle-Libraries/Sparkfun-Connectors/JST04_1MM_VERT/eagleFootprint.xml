@@ -1,0 +1,37 @@
+
+<package name="JST04_1MM_VERT">
+<description>&lt;h3&gt;Vertical Qwiic Connector&lt;/h3&gt;
+
+&lt;p&gt;Physical and Electrical Charactersistics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Voltage Rating: 50V&lt;/li&gt;
+&lt;li&gt;Current Rating 1.0A&lt;/li&gt;
+&lt;li&gt;Contact Resistance: 20 milliohms&lt;/li&gt;
+&lt;li&gt;ROHS Compliant&lt;/li&gt;
+&lt;li&gt;SMD Pitch: 1mm&lt;/li&gt;
+&lt;li&gt;Small pad size: .6mm x 1.55mm&lt;/li&gt;
+&lt;li&gt;Large pad size: 1.2mm x 2.0mm&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+<text x="0.016" y="4.56633125" size="0.6096" layer="25">&gt;NAME</text>
+<text x="0.016" y="-1.29633125" size="0.6096" layer="27">&gt;VALUE</text>
+<smd name="1" x="-1.478" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="2" x="-0.478" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="3" x="0.522" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="4" x="1.522" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="NC1" x="-2.778" y="3.2" dx="1.2" dy="2" layer="1"/>
+<smd name="NC2" x="2.822" y="3.2" dx="1.2" dy="2" layer="1"/>
+<wire x1="1.912" y1="3.87" x2="-1.878" y2="3.87" width="0.2032" layer="21"/>
+<wire x1="-3.218" y1="1.33" x2="-3.218" y2="0.68" width="0.2032" layer="21"/>
+<wire x1="-3.218" y1="0.68" x2="-2.458" y2="0.68" width="0.2032" layer="21"/>
+<wire x1="3.272" y1="1.35" x2="3.272" y2="0.66" width="0.2032" layer="21"/>
+<wire x1="3.272" y1="0.66" x2="2.542" y2="0.66" width="0.2032" layer="21"/>
+<circle x="-1.948" y="-0.43" radius="0.2032" width="0" layer="21"/>
+<wire x1="-2.921" y1="3.556" x2="-3.302" y2="3.556" width="0.1" layer="51"/>
+<wire x1="-3.302" y1="3.556" x2="-3.302" y2="3.175" width="0.1" layer="51"/>
+<wire x1="-3.302" y1="3.175" x2="-2.921" y2="3.175" width="0.1" layer="51"/>
+<wire x1="2.945" y1="3.154" x2="3.326" y2="3.154" width="0.1" layer="51"/>
+<wire x1="3.326" y1="3.154" x2="3.326" y2="3.535" width="0.1" layer="51"/>
+<wire x1="3.326" y1="3.535" x2="2.945" y2="3.535" width="0.1" layer="51"/>
+</package>

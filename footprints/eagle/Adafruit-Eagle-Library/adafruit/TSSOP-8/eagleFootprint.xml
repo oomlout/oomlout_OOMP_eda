@@ -1,0 +1,20 @@
+
+<package name="TSSOP-8">
+<wire x1="-1.4" y1="2.2" x2="-1" y2="2.2" width="0.2032" layer="21"/>
+<wire x1="-1" y1="2.2" x2="1.4" y2="2.2" width="0.2032" layer="21"/>
+<wire x1="1.4" y1="2.2" x2="1.4" y2="-2.2" width="0.2032" layer="21"/>
+<wire x1="1.4" y1="-2.2" x2="-1.4" y2="-2.2" width="0.2032" layer="21"/>
+<wire x1="-1.4" y1="-2.2" x2="-1.4" y2="2.2" width="0.2032" layer="21"/>
+<wire x1="-0.8" y1="-1.1" x2="-0.8" y2="-0.5" width="0.2032" layer="21" curve="-180"/>
+<wire x1="-0.8" y1="-0.5" x2="-0.8" y2="-1.1" width="0.2032" layer="21"/>
+<wire x1="-1" y1="2.2" x2="-1.1" y2="2.2" width="0.127" layer="21"/>
+<smd name="1" x="-0.975" y="-2.8131" dx="0.25" dy="1" layer="1"/>
+<smd name="2" x="-0.325" y="-2.8131" dx="0.25" dy="1" layer="1"/>
+<smd name="3" x="0.325" y="-2.8131" dx="0.25" dy="1" layer="1"/>
+<smd name="4" x="0.975" y="-2.8131" dx="0.25" dy="1" layer="1"/>
+<smd name="5" x="0.975" y="2.8131" dx="0.25" dy="1" layer="1" rot="R180"/>
+<smd name="6" x="0.325" y="2.8131" dx="0.25" dy="1" layer="1" rot="R180"/>
+<smd name="7" x="-0.325" y="2.8131" dx="0.25" dy="1" layer="1" rot="R180"/>
+<smd name="8" x="-0.975" y="2.8131" dx="0.25" dy="1" layer="1" rot="R180"/>
+<text x="-1.8" y="-2.9" size="1.016" layer="21" font="vector" rot="R90">&gt;NAME</text>
+</package>

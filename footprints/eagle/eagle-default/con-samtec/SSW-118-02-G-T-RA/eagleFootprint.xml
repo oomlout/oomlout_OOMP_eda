@@ -1,0 +1,85 @@
+
+<package name="SSW-118-02-G-T-RA">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST SOCKET&lt;/b&gt;&lt;p&gt;
+Source: Samtec SSW.pdf</description>
+<wire x1="-22.989" y1="-8.396" x2="22.989" y2="-8.396" width="0.2032" layer="21"/>
+<wire x1="22.989" y1="-8.396" x2="22.989" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="22.989" y1="-0.106" x2="-22.989" y2="-0.106" width="0.2032" layer="21"/>
+<wire x1="-22.989" y1="-0.106" x2="-22.989" y2="-8.396" width="0.2032" layer="21"/>
+<pad name="1" x="-21.59" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="2" x="-21.59" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="3" x="-21.59" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="4" x="-19.05" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="5" x="-19.05" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="6" x="-19.05" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="7" x="-16.51" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="8" x="-16.51" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="9" x="-16.51" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="10" x="-13.97" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="11" x="-13.97" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="12" x="-13.97" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="13" x="-11.43" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="14" x="-11.43" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="15" x="-11.43" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="16" x="-8.89" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="17" x="-8.89" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="18" x="-8.89" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="19" x="-6.35" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="20" x="-6.35" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="21" x="-6.35" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="22" x="-3.81" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="23" x="-3.81" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="24" x="-3.81" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="25" x="-1.27" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="26" x="-1.27" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="27" x="-1.27" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="28" x="1.27" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="29" x="1.27" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="30" x="1.27" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="31" x="3.81" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="32" x="3.81" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="33" x="3.81" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="34" x="6.35" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="35" x="6.35" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="36" x="6.35" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="37" x="8.89" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="38" x="8.89" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="39" x="8.89" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="40" x="11.43" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="41" x="11.43" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="42" x="11.43" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="43" x="13.97" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="44" x="13.97" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="45" x="13.97" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="46" x="16.51" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="47" x="16.51" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="48" x="16.51" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="49" x="19.05" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="50" x="19.05" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="51" x="19.05" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="52" x="21.59" y="1.524" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="53" x="21.59" y="4.064" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="54" x="21.59" y="6.604" drill="1" diameter="1.5" shape="octagon"/>
+<text x="-22.185" y="-7.65" size="1.6764" layer="21" font="vector">1</text>
+<text x="-22.26" y="-2.2" size="1.6764" layer="21" font="vector">3</text>
+<text x="-23.495" y="-7.62" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="24.765" y="-7.62" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-21.844" y1="0" x2="-21.336" y2="6.858" layer="51"/>
+<rectangle x1="-19.304" y1="0" x2="-18.796" y2="6.858" layer="51"/>
+<rectangle x1="-16.764" y1="0" x2="-16.256" y2="6.858" layer="51"/>
+<rectangle x1="-14.224" y1="0" x2="-13.716" y2="6.858" layer="51"/>
+<rectangle x1="-11.684" y1="0" x2="-11.176" y2="6.858" layer="51"/>
+<rectangle x1="-9.144" y1="0" x2="-8.636" y2="6.858" layer="51"/>
+<rectangle x1="-6.604" y1="0" x2="-6.096" y2="6.858" layer="51"/>
+<rectangle x1="-4.064" y1="0" x2="-3.556" y2="6.858" layer="51"/>
+<rectangle x1="-1.524" y1="0" x2="-1.016" y2="6.858" layer="51"/>
+<rectangle x1="1.016" y1="0" x2="1.524" y2="6.858" layer="51"/>
+<rectangle x1="3.556" y1="0" x2="4.064" y2="6.858" layer="51"/>
+<rectangle x1="6.096" y1="0" x2="6.604" y2="6.858" layer="51"/>
+<rectangle x1="8.636" y1="0" x2="9.144" y2="6.858" layer="51"/>
+<rectangle x1="11.176" y1="0" x2="11.684" y2="6.858" layer="51"/>
+<rectangle x1="13.716" y1="0" x2="14.224" y2="6.858" layer="51"/>
+<rectangle x1="16.256" y1="0" x2="16.764" y2="6.858" layer="51"/>
+<rectangle x1="18.796" y1="0" x2="19.304" y2="6.858" layer="51"/>
+<rectangle x1="21.336" y1="0" x2="21.844" y2="6.858" layer="51"/>
+</package>

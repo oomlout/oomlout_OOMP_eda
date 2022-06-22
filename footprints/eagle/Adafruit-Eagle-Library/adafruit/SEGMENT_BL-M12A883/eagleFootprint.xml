@@ -1,0 +1,95 @@
+
+<package name="SEGMENT_BL-M12A883">
+<description>&lt;b&gt;Source:&lt;/b&gt; http://www.betlux.com/product/LED_dot_matrix/BL-M12A883.PDF</description>
+<wire x1="-16.35" y1="16.35" x2="16.35" y2="16.35" width="0.127" layer="21"/>
+<wire x1="16.35" y1="16.35" x2="16.35" y2="-16.35" width="0.127" layer="21"/>
+<wire x1="16.35" y1="-16.35" x2="-16.35" y2="-16.35" width="0.127" layer="21"/>
+<wire x1="-16.35" y1="-16.35" x2="-16.35" y2="16.35" width="0.127" layer="21"/>
+<wire x1="-16.35" y1="16.35" x2="16.35" y2="16.35" width="0.127" layer="51"/>
+<wire x1="16.35" y1="16.35" x2="16.35" y2="-16.35" width="0.127" layer="51"/>
+<wire x1="16.35" y1="-16.35" x2="-16.35" y2="-16.35" width="0.127" layer="51"/>
+<wire x1="-16.35" y1="-16.35" x2="-16.35" y2="16.35" width="0.127" layer="51"/>
+<circle x="-18.43" y="-12" radius="0.635" width="1.27" layer="21"/>
+<pad name="1" x="-8.89" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="2" x="-6.35" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="3" x="-3.81" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="4" x="-1.27" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="5" x="1.27" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="6" x="3.81" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="7" x="6.35" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="8" x="8.89" y="-12" drill="0.8" diameter="1.6764"/>
+<pad name="9" x="8.89" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="10" x="6.35" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="11" x="3.81" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="12" x="1.27" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="13" x="-1.27" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="14" x="-3.81" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="15" x="-6.35" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<pad name="16" x="-8.89" y="12" drill="0.8" diameter="1.6764" rot="R180"/>
+<text x="-16" y="17" size="1.27" layer="25">&gt;NAME</text>
+<text x="-16" y="-18" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-15.5" y1="12.5" x2="-12.5" y2="15.5" layer="51"/>
+<rectangle x1="-11.5" y1="12.5" x2="-8.5" y2="15.5" layer="51"/>
+<rectangle x1="-7.5" y1="12.5" x2="-4.5" y2="15.5" layer="51"/>
+<rectangle x1="-3.5" y1="12.5" x2="-0.5" y2="15.5" layer="51"/>
+<rectangle x1="0.5" y1="12.5" x2="3.5" y2="15.5" layer="51"/>
+<rectangle x1="4.5" y1="12.5" x2="7.5" y2="15.5" layer="51"/>
+<rectangle x1="8.5" y1="12.5" x2="11.5" y2="15.5" layer="51"/>
+<rectangle x1="12.5" y1="12.5" x2="15.5" y2="15.5" layer="51"/>
+<rectangle x1="12.5" y1="8.5" x2="15.5" y2="11.5" layer="51"/>
+<rectangle x1="8.5" y1="8.5" x2="11.5" y2="11.5" layer="51"/>
+<rectangle x1="4.5" y1="8.5" x2="7.5" y2="11.5" layer="51"/>
+<rectangle x1="0.5" y1="8.5" x2="3.5" y2="11.5" layer="51"/>
+<rectangle x1="-3.5" y1="8.5" x2="-0.5" y2="11.5" layer="51"/>
+<rectangle x1="-7.5" y1="8.5" x2="-4.5" y2="11.5" layer="51"/>
+<rectangle x1="-15.5" y1="8.5" x2="-12.5" y2="11.5" layer="51"/>
+<rectangle x1="-11.5" y1="8.5" x2="-8.5" y2="11.5" layer="51"/>
+<rectangle x1="-15.5" y1="4.5" x2="-12.5" y2="7.5" layer="51"/>
+<rectangle x1="-11.5" y1="4.5" x2="-8.5" y2="7.5" layer="51"/>
+<rectangle x1="-7.5" y1="4.5" x2="-4.5" y2="7.5" layer="51"/>
+<rectangle x1="-3.5" y1="4.5" x2="-0.5" y2="7.5" layer="51"/>
+<rectangle x1="0.5" y1="4.5" x2="3.5" y2="7.5" layer="51"/>
+<rectangle x1="4.5" y1="4.5" x2="7.5" y2="7.5" layer="51"/>
+<rectangle x1="8.5" y1="4.5" x2="11.5" y2="7.5" layer="51"/>
+<rectangle x1="12.5" y1="4.5" x2="15.5" y2="7.5" layer="51"/>
+<rectangle x1="12.5" y1="0.5" x2="15.5" y2="3.5" layer="51"/>
+<rectangle x1="12.5" y1="-3.5" x2="15.5" y2="-0.5" layer="51"/>
+<rectangle x1="8.5" y1="-3.5" x2="11.5" y2="-0.5" layer="51"/>
+<rectangle x1="8.5" y1="0.5" x2="11.5" y2="3.5" layer="51"/>
+<rectangle x1="4.5" y1="0.5" x2="7.5" y2="3.5" layer="51"/>
+<rectangle x1="0.5" y1="0.5" x2="3.5" y2="3.5" layer="51"/>
+<rectangle x1="-3.5" y1="0.5" x2="-0.5" y2="3.5" layer="51"/>
+<rectangle x1="-7.5" y1="0.5" x2="-4.5" y2="3.5" layer="51"/>
+<rectangle x1="-11.5" y1="0.5" x2="-8.5" y2="3.5" layer="51"/>
+<rectangle x1="-15.5" y1="0.5" x2="-12.5" y2="3.5" layer="51"/>
+<rectangle x1="-15.5" y1="-3.5" x2="-12.5" y2="-0.5" layer="51"/>
+<rectangle x1="-11.5" y1="-3.5" x2="-8.5" y2="-0.5" layer="51"/>
+<rectangle x1="-7.5" y1="-3.5" x2="-4.5" y2="-0.5" layer="51"/>
+<rectangle x1="-3.5" y1="-3.5" x2="-0.5" y2="-0.5" layer="51"/>
+<rectangle x1="0.5" y1="-3.5" x2="3.5" y2="-0.5" layer="51"/>
+<rectangle x1="4.5" y1="-3.5" x2="7.5" y2="-0.5" layer="51"/>
+<rectangle x1="12.5" y1="-7.5" x2="15.5" y2="-4.5" layer="51"/>
+<rectangle x1="8.5" y1="-7.5" x2="11.5" y2="-4.5" layer="51"/>
+<rectangle x1="-15.5" y1="-7.5" x2="-12.5" y2="-4.5" layer="51"/>
+<rectangle x1="-11.5" y1="-7.5" x2="-8.5" y2="-4.5" layer="51"/>
+<rectangle x1="-7.5" y1="-7.5" x2="-4.5" y2="-4.5" layer="51"/>
+<rectangle x1="-3.5" y1="-7.5" x2="-0.5" y2="-4.5" layer="51"/>
+<rectangle x1="0.5" y1="-7.5" x2="3.5" y2="-4.5" layer="51"/>
+<rectangle x1="4.5" y1="-7.5" x2="7.5" y2="-4.5" layer="51"/>
+<rectangle x1="12.5" y1="-11.5" x2="15.5" y2="-8.5" layer="51"/>
+<rectangle x1="8.5" y1="-11.5" x2="11.5" y2="-8.5" layer="51"/>
+<rectangle x1="-15.5" y1="-11.5" x2="-12.5" y2="-8.5" layer="51"/>
+<rectangle x1="-11.5" y1="-11.5" x2="-8.5" y2="-8.5" layer="51"/>
+<rectangle x1="-7.5" y1="-11.5" x2="-4.5" y2="-8.5" layer="51"/>
+<rectangle x1="-3.5" y1="-11.5" x2="-0.5" y2="-8.5" layer="51"/>
+<rectangle x1="0.5" y1="-11.5" x2="3.5" y2="-8.5" layer="51"/>
+<rectangle x1="4.5" y1="-11.5" x2="7.5" y2="-8.5" layer="51"/>
+<rectangle x1="12.5" y1="-15.5" x2="15.5" y2="-12.5" layer="51"/>
+<rectangle x1="8.5" y1="-15.5" x2="11.5" y2="-12.5" layer="51"/>
+<rectangle x1="-15.5" y1="-15.5" x2="-12.5" y2="-12.5" layer="51"/>
+<rectangle x1="-11.5" y1="-15.5" x2="-8.5" y2="-12.5" layer="51"/>
+<rectangle x1="-7.5" y1="-15.5" x2="-4.5" y2="-12.5" layer="51"/>
+<rectangle x1="-3.5" y1="-15.5" x2="-0.5" y2="-12.5" layer="51"/>
+<rectangle x1="0.5" y1="-15.5" x2="3.5" y2="-12.5" layer="51"/>
+<rectangle x1="4.5" y1="-15.5" x2="7.5" y2="-12.5" layer="51"/>
+</package>

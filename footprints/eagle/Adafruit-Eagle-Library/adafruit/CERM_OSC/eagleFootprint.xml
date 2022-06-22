@@ -1,0 +1,12 @@
+
+<package name="CERM_OSC">
+<wire x1="-2.4" y1="2" x2="-2.4" y2="-2" width="0.127" layer="21" curve="180"/>
+<wire x1="2.6" y1="-2" x2="2.6" y2="2" width="0.127" layer="21" curve="180"/>
+<wire x1="-2.4" y1="2" x2="2.6" y2="2" width="0.127" layer="21"/>
+<wire x1="2.6" y1="-2" x2="-2.4" y2="-2" width="0.127" layer="21"/>
+<pad name="P$1" x="-2.54" y="0" drill="0.8128" diameter="1.6764"/>
+<pad name="P$2" x="0" y="0" drill="0.8128" diameter="1.6764"/>
+<pad name="P$3" x="2.54" y="0" drill="0.8128" diameter="1.6764"/>
+<text x="-3" y="3" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.5" y="-4.5" size="1.27" layer="27">&gt;VALUE</text>
+</package>

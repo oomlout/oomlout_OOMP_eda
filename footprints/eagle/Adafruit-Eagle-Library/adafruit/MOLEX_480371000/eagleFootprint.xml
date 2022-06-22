@@ -1,0 +1,16 @@
+
+<package name="MOLEX_480371000">
+<wire x1="5.8" y1="0" x2="5.8" y2="-17.5" width="0.127" layer="21"/>
+<wire x1="5.8" y1="-17.5" x2="-5.8" y2="-17.5" width="0.127" layer="21"/>
+<wire x1="-5.8" y1="-17.5" x2="-5.8" y2="0" width="0.127" layer="21"/>
+<pad name="M1" x="-5.7" y="0" drill="2.5" rot="R90"/>
+<pad name="M2" x="5.7" y="0" drill="2.5" rot="R90"/>
+<smd name="1" x="3.5" y="2.6" dx="1.2" dy="2" layer="1"/>
+<smd name="2" x="1" y="2.6" dx="1.2" dy="2" layer="1"/>
+<smd name="3" x="-1" y="2.6" dx="1.2" dy="2" layer="1"/>
+<smd name="4" x="-3.5" y="2.6" dx="1.2" dy="2" layer="1"/>
+<text x="-2.54" y="-3.81" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="-2.54" y="-6.35" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<hole x="-2.25" y="0" drill="1.1"/>
+<hole x="2.25" y="0" drill="1.1"/>
+</package>

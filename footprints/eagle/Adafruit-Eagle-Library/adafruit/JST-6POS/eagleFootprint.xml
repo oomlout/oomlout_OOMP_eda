@@ -1,0 +1,29 @@
+
+<package name="JST-6POS">
+<wire x1="4" y1="0" x2="-3.2" y2="0" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="0" x2="-4" y2="0" width="0.127" layer="21"/>
+<wire x1="-4" y1="0" x2="-4" y2="1.5" width="0.127" layer="21"/>
+<wire x1="-4" y1="1.5" x2="-4" y2="4.7" width="0.127" layer="21"/>
+<wire x1="-4" y1="4.7" x2="4" y2="4.7" width="0.127" layer="21"/>
+<wire x1="4" y1="4.7" x2="4" y2="1.5" width="0.127" layer="21"/>
+<wire x1="4" y1="1.5" x2="4" y2="0" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="0" x2="-3.2" y2="1.5" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="1.5" x2="-4" y2="1.5" width="0.127" layer="21"/>
+<wire x1="3.2" y1="0.1" x2="3.2" y2="1.5" width="0.127" layer="21"/>
+<wire x1="3.2" y1="1.5" x2="4" y2="1.5" width="0.127" layer="21"/>
+<wire x1="-4" y1="4.7" x2="-4" y2="8.1" width="0.127" layer="21" style="shortdash"/>
+<wire x1="-4" y1="8.1" x2="4" y2="8.1" width="0.127" layer="21" style="shortdash"/>
+<wire x1="4" y1="8.1" x2="4" y2="4.7" width="0.127" layer="21" style="shortdash"/>
+<smd name="3" x="-0.5" y="4.7" dx="0.6" dy="1.5" layer="1"/>
+<smd name="2" x="-1.5" y="4.7" dx="0.6" dy="1.5" layer="1"/>
+<smd name="1" x="-2.5" y="4.7" dx="0.6" dy="1.5" layer="1"/>
+<smd name="4" x="0.5" y="4.7" dx="0.6" dy="1.5" layer="1"/>
+<smd name="5" x="1.5" y="4.7" dx="0.6" dy="1.5" layer="1"/>
+<smd name="6" x="2.5" y="4.7" dx="0.6" dy="1.5" layer="1"/>
+<smd name="MT2" x="4.2" y="1" dx="1.4" dy="2.2" layer="1"/>
+<smd name="MT1" x="-4.2" y="1" dx="1.4" dy="2.2" layer="1"/>
+<smd name="MT3" x="-4.2" y="7.1" dx="1.4" dy="2.2" layer="1"/>
+<smd name="MT4" x="4.2" y="7.1" dx="1.4" dy="2.2" layer="1"/>
+<text x="-0.4" y="1.5" size="1.27" layer="21" font="vector">H</text>
+<text x="-0.5" y="6.3" size="1.27" layer="21" font="vector">V</text>
+</package>

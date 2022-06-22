@@ -1,0 +1,53 @@
+
+<package name="SSW-104-02-G-D">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST SOCKET&lt;/b&gt;&lt;p&gt;
+Source: Samtec SSW.pdf</description>
+<wire x1="-5.209" y1="2.425" x2="5.209" y2="2.425" width="0.2032" layer="21"/>
+<wire x1="5.209" y1="2.425" x2="5.209" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="5.209" y1="-2.425" x2="-5.209" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="-5.209" y1="-2.425" x2="-5.209" y2="2.425" width="0.2032" layer="21"/>
+<wire x1="-4.555" y1="-0.515" x2="-3.055" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="-3.055" y1="-0.515" x2="-3.055" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="-3.055" y1="-2.015" x2="-4.555" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="-4.555" y1="-2.015" x2="-4.555" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="-4.555" y1="2.025" x2="-3.055" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="-3.055" y1="2.025" x2="-3.055" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="-3.055" y1="0.525" x2="-4.555" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="-4.555" y1="0.525" x2="-4.555" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="-2.015" y1="-0.515" x2="-0.515" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="-0.515" y1="-0.515" x2="-0.515" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="-0.515" y1="-2.015" x2="-2.015" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="-2.015" y1="-2.015" x2="-2.015" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="-2.015" y1="2.025" x2="-0.515" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="-0.515" y1="2.025" x2="-0.515" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="-0.515" y1="0.525" x2="-2.015" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="-2.015" y1="0.525" x2="-2.015" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="0.525" y1="-0.515" x2="2.025" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="2.025" y1="-0.515" x2="2.025" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="2.025" y1="-2.015" x2="0.525" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="0.525" y1="-2.015" x2="0.525" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="0.525" y1="2.025" x2="2.025" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="2.025" y1="2.025" x2="2.025" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="2.025" y1="0.525" x2="0.525" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="0.525" y1="0.525" x2="0.525" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="3.065" y1="-0.515" x2="4.565" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="4.565" y1="-0.515" x2="4.565" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="4.565" y1="-2.015" x2="3.065" y2="-2.015" width="0.2032" layer="51"/>
+<wire x1="3.065" y1="-2.015" x2="3.065" y2="-0.515" width="0.2032" layer="51"/>
+<wire x1="3.065" y1="2.025" x2="4.565" y2="2.025" width="0.2032" layer="51"/>
+<wire x1="4.565" y1="2.025" x2="4.565" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="4.565" y1="0.525" x2="3.065" y2="0.525" width="0.2032" layer="51"/>
+<wire x1="3.065" y1="0.525" x2="3.065" y2="2.025" width="0.2032" layer="51"/>
+<pad name="1" x="-3.81" y="-1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="2" x="-3.81" y="1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="3" x="-1.27" y="-1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="4" x="-1.27" y="1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="5" x="1.27" y="-1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="6" x="1.27" y="1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="7" x="3.81" y="-1.27" drill="1" diameter="1.5" shape="octagon"/>
+<pad name="8" x="3.81" y="1.27" drill="1" diameter="1.5" shape="octagon"/>
+<text x="-4.318" y="-4.318" size="1.6764" layer="21" font="vector">1</text>
+<text x="-4.318" y="2.794" size="1.6764" layer="21" font="vector">2</text>
+<text x="-5.715" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="6.985" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+</package>

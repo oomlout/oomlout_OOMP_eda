@@ -1,0 +1,7 @@
+
+<package name="1X4-SMT">
+<smd name="2" x="-1.27" y="0" dx="1.27" dy="2.54" layer="1"/>
+<smd name="3" x="1.27" y="0" dx="1.27" dy="2.54" layer="1"/>
+<smd name="4" x="3.81" y="0" dx="1.27" dy="2.54" layer="1"/>
+<smd name="1" x="-3.81" y="0" dx="1.27" dy="2.54" layer="1"/>
+</package>

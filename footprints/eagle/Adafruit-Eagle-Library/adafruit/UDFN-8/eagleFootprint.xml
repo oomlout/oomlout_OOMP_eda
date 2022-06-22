@@ -1,0 +1,49 @@
+
+<package name="UDFN-8">
+<wire x1="-1" y1="1" x2="1" y2="1" width="0.127" layer="21"/>
+<wire x1="1" y1="1" x2="1" y2="-1" width="0.127" layer="21"/>
+<wire x1="1" y1="-1" x2="-1" y2="-1" width="0.127" layer="21"/>
+<wire x1="-1" y1="-1" x2="-1" y2="1" width="0.127" layer="21"/>
+<circle x="-1.4" y="-1" radius="0.2" width="0.127" layer="21"/>
+<smd name="1" x="-0.75" y="-1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="2" x="-0.25" y="-1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="3" x="0.25" y="-1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="4" x="0.75" y="-1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="5" x="0.75" y="1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="6" x="0.25" y="1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="7" x="-0.25" y="1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="8" x="-0.75" y="1.1" dx="0.75" dy="0.25" layer="1" rot="R90"/>
+<smd name="THERM" x="0" y="0" dx="1.524" dy="1.016" layer="1" stop="no" cream="no"/>
+<text x="-2.4" y="1.8" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="-2.4" y="3.3" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<polygon width="0.127" layer="29">
+<vertex x="-0.6858" y="0.4318"/>
+<vertex x="0.6858" y="0.4318"/>
+<vertex x="0.6858" y="-0.4318"/>
+<vertex x="-0.6858" y="-0.4318"/>
+</polygon>
+<polygon width="0.127" layer="31">
+<vertex x="-0.6858" y="0.4318"/>
+<vertex x="-0.2794" y="0.4318"/>
+<vertex x="-0.2794" y="0.2032"/>
+<vertex x="-0.6858" y="0.2032"/>
+</polygon>
+<polygon width="0.127" layer="31">
+<vertex x="0.2794" y="0.4318"/>
+<vertex x="0.6858" y="0.4318"/>
+<vertex x="0.6858" y="0.2032"/>
+<vertex x="0.2794" y="0.2032"/>
+</polygon>
+<polygon width="0.127" layer="31">
+<vertex x="-0.6858" y="-0.2032"/>
+<vertex x="-0.2794" y="-0.2032"/>
+<vertex x="-0.2794" y="-0.4318"/>
+<vertex x="-0.6858" y="-0.4318"/>
+</polygon>
+<polygon width="0.127" layer="31">
+<vertex x="0.2794" y="-0.2286"/>
+<vertex x="0.6858" y="-0.2286"/>
+<vertex x="0.6858" y="-0.4318"/>
+<vertex x="0.2794" y="-0.4318"/>
+</polygon>
+</package>

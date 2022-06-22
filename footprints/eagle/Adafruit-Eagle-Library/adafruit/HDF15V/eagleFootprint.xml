@@ -1,0 +1,53 @@
+
+<package name="HDF15V">
+<description>&lt;b&gt;SUB-D&lt;/b&gt;</description>
+<wire x1="-7.409" y1="-3.146" x2="-8.197" y2="2.537" width="0.1524" layer="21"/>
+<wire x1="6.876" y1="4.137" x2="8.1915" y2="2.5038" width="0.1524" layer="21" curve="-102.298925"/>
+<wire x1="8.197" y1="2.511" x2="7.409" y2="-3.121" width="0.1524" layer="21"/>
+<wire x1="-6.876" y1="4.137" x2="6.876" y2="4.137" width="0.1524" layer="21"/>
+<wire x1="-8.1961" y1="2.5268" x2="-6.876" y2="4.137" width="0.1524" layer="21" curve="-101.30773"/>
+<wire x1="-7.4169" y1="-3.1295" x2="-6.114" y2="-4.137" width="0.1524" layer="21" curve="75.428151"/>
+<wire x1="-6.114" y1="-4.137" x2="6.114" y2="-4.137" width="0.1524" layer="21"/>
+<wire x1="-15.556" y1="-6.288" x2="-14.921" y2="-6.923" width="0.1524" layer="21" curve="90"/>
+<wire x1="14.921" y1="-6.923" x2="15.556" y2="-6.288" width="0.1524" layer="21" curve="90"/>
+<wire x1="15.556" y1="6.288" x2="15.556" y2="-6.288" width="0.1524" layer="21"/>
+<wire x1="14.921" y1="6.923" x2="15.556" y2="6.288" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-15.556" y1="6.288" x2="-15.556" y2="-6.288" width="0.1524" layer="21"/>
+<wire x1="-15.556" y1="6.288" x2="-14.921" y2="6.923" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-14.913" y1="-6.923" x2="14.921" y2="-6.923" width="0.1524" layer="21"/>
+<wire x1="14.913" y1="6.923" x2="-14.921" y2="6.923" width="0.1524" layer="21"/>
+<wire x1="6.114" y1="-4.137" x2="7.4169" y2="-3.1295" width="0.1524" layer="21" curve="75.428151"/>
+<circle x="12.5" y="0" radius="1.651" width="0.1524" layer="21"/>
+<circle x="12.5" y="0" radius="2.667" width="0" layer="42"/>
+<circle x="12.5" y="0" radius="2.667" width="0" layer="43"/>
+<circle x="-12.5" y="0" radius="2.667" width="0" layer="42"/>
+<circle x="-12.5" y="0" radius="2.667" width="0" layer="43"/>
+<circle x="-12.5" y="0" radius="1.651" width="0.1524" layer="21"/>
+<pad name="10" x="-3.672" y="0" drill="0.9"/>
+<pad name="9" x="-1.386" y="0" drill="0.9"/>
+<pad name="8" x="0.9" y="0" drill="0.9"/>
+<pad name="7" x="3.186" y="0" drill="0.9"/>
+<pad name="6" x="5.472" y="0" drill="0.9"/>
+<pad name="5" x="-4.815" y="1.98" drill="0.9"/>
+<pad name="4" x="-2.529" y="1.98" drill="0.9"/>
+<pad name="3" x="-0.243" y="1.98" drill="0.9"/>
+<pad name="2" x="2.043" y="1.98" drill="0.9"/>
+<pad name="1" x="4.329" y="1.98" drill="0.9" shape="octagon"/>
+<pad name="15" x="-4.815" y="-1.98" drill="0.9"/>
+<pad name="14" x="-2.529" y="-1.98" drill="0.9"/>
+<pad name="13" x="-0.243" y="-1.98" drill="0.9"/>
+<pad name="12" x="2.043" y="-1.98" drill="0.9"/>
+<pad name="11" x="4.329" y="-1.98" drill="0.9"/>
+<text x="-11.43" y="7.62" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-10.16" y="-6.35" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<text x="5.48" y="1.535" size="1.27" layer="21" ratio="10">1</text>
+<text x="-6.915" y="1.435" size="1.016" layer="21" ratio="10">5</text>
+<text x="6.58" y="-0.565" size="1.016" layer="21" ratio="10">6</text>
+<text x="-7.115" y="-0.665" size="1.016" layer="21" ratio="10">10</text>
+<text x="-7.22" y="-3.165" size="1.016" layer="21" ratio="10">15</text>
+<text x="5.38" y="-2.705" size="1.016" layer="21" ratio="10">11</text>
+<text x="-12.033" y="5.349" size="1.27" layer="51" ratio="10">HDF15 CONEC</text>
+<text x="2.413" y="4.826" size="1.27" layer="21">Female</text>
+<hole x="-12.5" y="0" drill="3"/>
+<hole x="12.5" y="0" drill="3"/>
+</package>

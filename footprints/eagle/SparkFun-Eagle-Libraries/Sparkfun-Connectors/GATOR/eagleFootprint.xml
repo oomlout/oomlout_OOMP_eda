@@ -1,0 +1,33 @@
+
+<package name="GATOR">
+<pad name="P$1" x="0" y="-6.096" drill="4.0005" diameter="5.08"/>
+<pad name="P$2" x="0" y="-0.254" drill="4.0005" diameter="5.08"/>
+<polygon width="0.254" layer="1">
+<vertex x="0" y="2.794" curve="90"/>
+<vertex x="-3.048" y="-0.254"/>
+<vertex x="-3.048" y="-10.16"/>
+<vertex x="3.048" y="-10.16"/>
+<vertex x="3.048" y="-0.254" curve="90"/>
+</polygon>
+<polygon width="0.254" layer="16">
+<vertex x="0" y="2.794" curve="90"/>
+<vertex x="-3.048" y="-0.254"/>
+<vertex x="-3.048" y="-10.16"/>
+<vertex x="3.048" y="-10.16"/>
+<vertex x="3.048" y="-0.254" curve="90"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="3.1496" y="-10.2616"/>
+<vertex x="-3.1496" y="-10.2616"/>
+<vertex x="-3.1496" y="-0.1016" curve="-97.62815"/>
+<vertex x="0" y="2.8448" curve="-90"/>
+<vertex x="3.1496" y="0"/>
+</polygon>
+<polygon width="0.254" layer="30">
+<vertex x="3.175" y="-10.2108"/>
+<vertex x="-3.1242" y="-10.2108"/>
+<vertex x="-3.1242" y="-0.0508" curve="-97.62815"/>
+<vertex x="0.0254" y="2.8956" curve="-90"/>
+<vertex x="3.175" y="0.0508"/>
+</polygon>
+</package>

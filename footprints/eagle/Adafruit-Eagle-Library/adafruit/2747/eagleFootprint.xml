@@ -1,0 +1,13 @@
+
+<package name="2747">
+<wire x1="-9.398" y1="3.048" x2="9.398" y2="3.048" width="0.127" layer="21"/>
+<wire x1="9.398" y1="3.048" x2="9.398" y2="-3.048" width="0.127" layer="21"/>
+<wire x1="9.398" y1="-3.048" x2="-9.398" y2="-3.048" width="0.127" layer="21"/>
+<wire x1="-9.398" y1="-3.048" x2="-9.398" y2="3.048" width="0.127" layer="21"/>
+<wire x1="-12.446" y1="0" x2="-9.652" y2="0" width="0.8128" layer="21"/>
+<wire x1="12.446" y1="0" x2="9.652" y2="0" width="0.8128" layer="21"/>
+<pad name="P$1" x="-12.7" y="0" drill="0.9" diameter="1.6764"/>
+<pad name="P$2" x="12.7" y="0" drill="0.9" diameter="1.6764"/>
+<text x="-8.382" y="-0.762" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="1.524" y="-0.762" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+</package>

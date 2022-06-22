@@ -1,0 +1,33 @@
+
+<package name="OBDII">
+<description>&lt;h3&gt;OBD-II Automotive Connector&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count: 16&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.15"&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;OBD-II&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<pad name="8" x="-13.97" y="-3.81" drill="2.2"/>
+<pad name="7" x="-10.02" y="-3.81" drill="2.2"/>
+<pad name="6" x="-6.07" y="-3.81" drill="2.2"/>
+<pad name="5" x="-2.12" y="-3.81" drill="2.2"/>
+<pad name="4" x="1.83" y="-3.81" drill="2.2"/>
+<pad name="3" x="5.78" y="-3.81" drill="2.2"/>
+<pad name="2" x="9.73" y="-3.81" drill="2.2"/>
+<pad name="1" x="13.68" y="-3.81" drill="2.2"/>
+<pad name="16" x="-13.97" y="4.59" drill="2.2"/>
+<pad name="15" x="-10.02" y="4.59" drill="2.2"/>
+<pad name="14" x="-6.07" y="4.59" drill="2.2"/>
+<pad name="13" x="-2.12" y="4.59" drill="2.2"/>
+<pad name="12" x="1.83" y="4.59" drill="2.2"/>
+<pad name="11" x="5.78" y="4.59" drill="2.2"/>
+<pad name="10" x="9.73" y="4.59" drill="2.2"/>
+<pad name="9" x="13.68" y="4.59" drill="2.2"/>
+<text x="13.335" y="-1.905" size="1.27" layer="21" font="vector" ratio="15">1</text>
+<text x="-15.24" y="1.27" size="1.27" layer="21" font="vector" ratio="15">16</text>
+<text x="-1.651" y="7.112" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.651" y="-6.858" size="0.6096" layer="25" font="vector" ratio="20">&gt;VALUE</text>
+<text x="-12.7" y="1.27" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">16</text>
+<text x="14.605" y="-1.905" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">1</text>
+</package>

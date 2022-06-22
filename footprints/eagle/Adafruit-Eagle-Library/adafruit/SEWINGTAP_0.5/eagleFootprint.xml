@@ -1,0 +1,32 @@
+
+<package name="SEWINGTAP_0.5">
+<pad name="TAP" x="0" y="0" drill="1.2" diameter="2.1844"/>
+<polygon width="0.127" layer="1">
+<vertex x="1.5" y="1" curve="29.999878"/>
+<vertex x="-1.5" y="1" curve="44.999635"/>
+<vertex x="-0.8" y="-0.7" curve="30.00039"/>
+<vertex x="0" y="-1.1" curve="30.00039"/>
+<vertex x="0.8" y="-0.7" curve="44.999635"/>
+</polygon>
+<polygon width="0.127" layer="29">
+<vertex x="1.5" y="1" curve="29.999878"/>
+<vertex x="-1.5" y="1" curve="44.999635"/>
+<vertex x="-0.8" y="-0.7" curve="30.00039"/>
+<vertex x="0" y="-1.1" curve="30.00039"/>
+<vertex x="0.8" y="-0.7" curve="44.999635"/>
+</polygon>
+<polygon width="0.127" layer="30">
+<vertex x="1.5" y="1" curve="29.999878"/>
+<vertex x="-1.5" y="1" curve="44.999635"/>
+<vertex x="-0.8" y="-0.7" curve="30.00039"/>
+<vertex x="0" y="-1.1" curve="30.00039"/>
+<vertex x="0.8" y="-0.7" curve="44.999635"/>
+</polygon>
+<polygon width="0.127" layer="16">
+<vertex x="1.5" y="1" curve="29.999878"/>
+<vertex x="-1.5" y="1" curve="44.999635"/>
+<vertex x="-0.8" y="-0.7" curve="30.00039"/>
+<vertex x="0" y="-1.1" curve="30.00039"/>
+<vertex x="0.8" y="-0.7" curve="44.999635"/>
+</polygon>
+</package>

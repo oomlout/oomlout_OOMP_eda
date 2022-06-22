@@ -1,0 +1,30 @@
+
+<package name="VFSOP-8">
+<description>&lt;b&gt;VFSOP8&lt;/b&gt; - 0.5mm pitch, 2.0x2.3mm
+&lt;p&gt;Source: http://focus.ti.com/lit/ds/symlink/txs0102.pdf&lt;/p&gt;</description>
+<wire x1="1" y1="1.15" x2="1" y2="-1.15" width="0.127" layer="51"/>
+<wire x1="1" y1="-1.15" x2="-1" y2="-1.15" width="0.127" layer="51"/>
+<wire x1="-1" y1="-1.15" x2="-1" y2="1.15" width="0.127" layer="51"/>
+<wire x1="-1" y1="1.15" x2="1" y2="1.15" width="0.127" layer="51"/>
+<wire x1="-1" y1="-1.15" x2="-1" y2="1.15" width="0.127" layer="21"/>
+<wire x1="1" y1="-1.15" x2="1" y2="1.15" width="0.127" layer="21"/>
+<circle x="-1.55" y="-0.8" radius="0.15" width="0.3048" layer="21"/>
+<smd name="P$1" x="-0.75" y="-1.45" dx="0.65" dy="0.25" layer="1" rot="R90"/>
+<smd name="P$2" x="-0.25" y="-1.45" dx="0.65" dy="0.25" layer="1" rot="R90"/>
+<smd name="P$3" x="0.25" y="-1.45" dx="0.65" dy="0.25" layer="1" rot="R90"/>
+<smd name="P$4" x="0.75" y="-1.45" dx="0.65" dy="0.25" layer="1" rot="R90"/>
+<smd name="P$5" x="0.75" y="1.45" dx="0.65" dy="0.25" layer="1" rot="R270"/>
+<smd name="P$6" x="0.25" y="1.45" dx="0.65" dy="0.25" layer="1" rot="R270"/>
+<smd name="P$7" x="-0.25" y="1.45" dx="0.65" dy="0.25" layer="1" rot="R270"/>
+<smd name="P$8" x="-0.75" y="1.45" dx="0.65" dy="0.25" layer="1" rot="R270"/>
+<text x="-0.6" y="-0.9" size="0.254" layer="25" rot="R90">&gt;NAME</text>
+<text x="-0.25" y="-0.9" size="0.254" layer="25" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.35" y1="-1.55" x2="-0.15" y2="-1.15" layer="51"/>
+<rectangle x1="-0.85" y1="-1.55" x2="-0.65" y2="-1.15" layer="51"/>
+<rectangle x1="0.15" y1="-1.55" x2="0.35" y2="-1.15" layer="51"/>
+<rectangle x1="0.65" y1="-1.55" x2="0.85" y2="-1.15" layer="51"/>
+<rectangle x1="0.65" y1="1.15" x2="0.85" y2="1.55" layer="51"/>
+<rectangle x1="0.15" y1="1.15" x2="0.35" y2="1.55" layer="51"/>
+<rectangle x1="-0.35" y1="1.15" x2="-0.15" y2="1.55" layer="51"/>
+<rectangle x1="-0.85" y1="1.15" x2="-0.65" y2="1.55" layer="51"/>
+</package>

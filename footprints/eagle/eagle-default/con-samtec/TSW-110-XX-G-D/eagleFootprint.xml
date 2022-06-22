@@ -1,0 +1,53 @@
+
+<package name="TSW-110-XX-G-D">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf</description>
+<wire x1="-12.829" y1="2.425" x2="12.829" y2="2.425" width="0.2032" layer="21"/>
+<wire x1="12.829" y1="2.425" x2="12.829" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="12.829" y1="-2.425" x2="-12.829" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="-12.829" y1="-2.425" x2="-12.829" y2="2.425" width="0.2032" layer="21"/>
+<pad name="1" x="11.43" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="2" x="11.43" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="3" x="8.89" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="4" x="8.89" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="5" x="6.35" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="6" x="6.35" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="7" x="3.81" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="8" x="3.81" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="9" x="1.27" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="10" x="1.27" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="11" x="-1.27" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="12" x="-1.27" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="13" x="-3.81" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="14" x="-3.81" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="15" x="-6.35" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="16" x="-6.35" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="17" x="-8.89" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="18" x="-8.89" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="19" x="-11.43" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="20" x="-11.43" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<text x="11.222" y="-3.818" size="1.1" layer="21" font="vector" rot="SR0">1</text>
+<text x="11.047" y="2.744" size="1.1" layer="21" font="vector" rot="SR0">2</text>
+<text x="-13.335" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="14.605" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-11.78" y1="-1.62" x2="-11.08" y2="-0.92" layer="51"/>
+<rectangle x1="-11.78" y1="0.92" x2="-11.08" y2="1.62" layer="51"/>
+<rectangle x1="-9.24" y1="-1.62" x2="-8.54" y2="-0.92" layer="51"/>
+<rectangle x1="-9.24" y1="0.92" x2="-8.54" y2="1.62" layer="51"/>
+<rectangle x1="-6.7" y1="-1.62" x2="-6" y2="-0.92" layer="51"/>
+<rectangle x1="-6.7" y1="0.92" x2="-6" y2="1.62" layer="51"/>
+<rectangle x1="-4.16" y1="-1.62" x2="-3.46" y2="-0.92" layer="51"/>
+<rectangle x1="-4.16" y1="0.92" x2="-3.46" y2="1.62" layer="51"/>
+<rectangle x1="-1.62" y1="-1.62" x2="-0.92" y2="-0.92" layer="51"/>
+<rectangle x1="-1.62" y1="0.92" x2="-0.92" y2="1.62" layer="51"/>
+<rectangle x1="0.92" y1="-1.62" x2="1.62" y2="-0.92" layer="51"/>
+<rectangle x1="0.92" y1="0.92" x2="1.62" y2="1.62" layer="51"/>
+<rectangle x1="3.46" y1="-1.62" x2="4.16" y2="-0.92" layer="51"/>
+<rectangle x1="3.46" y1="0.92" x2="4.16" y2="1.62" layer="51"/>
+<rectangle x1="6" y1="-1.62" x2="6.7" y2="-0.92" layer="51"/>
+<rectangle x1="6" y1="0.92" x2="6.7" y2="1.62" layer="51"/>
+<rectangle x1="8.54" y1="-1.62" x2="9.24" y2="-0.92" layer="51"/>
+<rectangle x1="8.54" y1="0.92" x2="9.24" y2="1.62" layer="51"/>
+<rectangle x1="11.08" y1="-1.62" x2="11.78" y2="-0.92" layer="51"/>
+<rectangle x1="11.08" y1="0.92" x2="11.78" y2="1.62" layer="51"/>
+</package>

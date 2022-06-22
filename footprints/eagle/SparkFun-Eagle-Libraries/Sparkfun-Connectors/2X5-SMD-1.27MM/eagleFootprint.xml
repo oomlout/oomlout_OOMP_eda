@@ -1,0 +1,38 @@
+
+<package name="2X5-SMD-1.27MM">
+<description>Shrouded SMD connector for JTAG and SWD applications.</description>
+<smd name="6" x="0" y="-1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="8" x="-1.27" y="-1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="10" x="-2.54" y="-1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="4" x="1.27" y="-1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="2" x="2.54" y="-1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="1" x="2.54" y="1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="3" x="1.27" y="1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="5" x="0" y="1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="7" x="-1.27" y="1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<smd name="9" x="-2.54" y="1.95" dx="0.76" dy="2.4" layer="1" rot="R180"/>
+<rectangle x1="-1.0575" y1="-1.9625" x2="1.0575" y2="-1.5525" layer="51" rot="R270"/>
+<wire x1="5.55" y1="-1.7" x2="-5.55" y2="-1.7" width="0.1524" layer="51"/>
+<wire x1="-5.55" y1="-1.7" x2="-5.55" y2="1.7" width="0.1524" layer="51"/>
+<wire x1="-5.55" y1="1.7" x2="5.55" y2="1.7" width="0.1524" layer="51"/>
+<wire x1="5.55" y1="1.7" x2="5.55" y2="-1.7" width="0.1524" layer="51"/>
+<rectangle x1="-2.3275" y1="-1.9625" x2="-0.2125" y2="-1.5525" layer="51" rot="R270"/>
+<rectangle x1="-3.5975" y1="-1.9625" x2="-1.4825" y2="-1.5525" layer="51" rot="R270"/>
+<rectangle x1="0.2125" y1="-1.9625" x2="2.3275" y2="-1.5525" layer="51" rot="R270"/>
+<rectangle x1="1.4825" y1="-1.9625" x2="3.5975" y2="-1.5525" layer="51" rot="R270"/>
+<rectangle x1="1.4825" y1="1.5525" x2="3.5975" y2="1.9625" layer="51" rot="R90"/>
+<rectangle x1="0.2125" y1="1.5525" x2="2.3275" y2="1.9625" layer="51" rot="R90"/>
+<rectangle x1="-1.0575" y1="1.5525" x2="1.0575" y2="1.9625" layer="51" rot="R90"/>
+<rectangle x1="-2.3275" y1="1.5525" x2="-0.2125" y2="1.9625" layer="51" rot="R90"/>
+<rectangle x1="-3.5975" y1="1.5525" x2="-1.4825" y2="1.9625" layer="51" rot="R90"/>
+<wire x1="-3.2" y1="2.5" x2="-6.3" y2="2.5" width="0.2032" layer="21"/>
+<wire x1="-6.3" y1="2.5" x2="-6.3" y2="-2.5" width="0.2032" layer="21"/>
+<wire x1="-6.3" y1="-2.5" x2="-3.2" y2="-2.5" width="0.2032" layer="21"/>
+<wire x1="3.2" y1="-2.5" x2="6.3" y2="-2.5" width="0.2032" layer="21"/>
+<wire x1="6.3" y1="-2.5" x2="6.3" y2="2.5" width="0.2032" layer="21"/>
+<wire x1="6.3" y1="2.5" x2="3.2" y2="2.5" width="0.2032" layer="21"/>
+<wire x1="0.6" y1="2.9" x2="0.6" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="0.6" y1="3.4" x2="-0.6" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="-0.6" y1="3.4" x2="-0.6" y2="2.9" width="0.2032" layer="21"/>
+<circle x="3.6" y="3.1" radius="0.1" width="0.2032" layer="21"/>
+</package>

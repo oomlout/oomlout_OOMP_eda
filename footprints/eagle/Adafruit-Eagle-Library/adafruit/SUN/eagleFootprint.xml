@@ -1,0 +1,12 @@
+
+<package name="SUN">
+<smd name="P$1" x="0" y="0" dx="2.54" dy="2.54" layer="1" roundness="100"/>
+<smd name="P$2" x="0" y="2.54" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R90"/>
+<smd name="P$3" x="0" y="-2.54" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R90"/>
+<smd name="P$4" x="2.54" y="0" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R180"/>
+<smd name="P$5" x="-2.54" y="0" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R180"/>
+<smd name="P$6" x="2.032" y="1.778" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R45"/>
+<smd name="P$7" x="2.032" y="-1.778" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R135"/>
+<smd name="P$8" x="-2.032" y="-1.778" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R225"/>
+<smd name="P$9" x="-2.032" y="1.778" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R315"/>
+</package>

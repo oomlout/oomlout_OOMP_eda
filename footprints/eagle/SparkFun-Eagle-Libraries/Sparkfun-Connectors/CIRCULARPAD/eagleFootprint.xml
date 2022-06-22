@@ -1,0 +1,6 @@
+
+<package name="CIRCULARPAD">
+<description>LuMini Pad</description>
+<smd name="P$1" x="0" y="0" dx="2" dy="2" layer="1" roundness="100"/>
+<smd name="P$2" x="0" y="-0.508" dx="2.0066" dy="1.016" layer="1"/>
+</package>

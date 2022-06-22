@@ -1,0 +1,28 @@
+
+<package name="TRIMBLE">
+<wire x1="-2.921" y1="1.524" x2="-2.921" y2="-1.524" width="0.127" layer="21"/>
+<wire x1="-2.921" y1="-1.524" x2="2.921" y2="-1.524" width="0.127" layer="21"/>
+<wire x1="2.921" y1="-1.524" x2="2.921" y2="1.524" width="0.127" layer="21"/>
+<wire x1="2.921" y1="1.524" x2="-2.921" y2="1.524" width="0.127" layer="21"/>
+<smd name="5" x="0.635" y="1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="3" x="-0.635" y="1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="1" x="-1.905" y="1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="7" x="1.905" y="1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="2" x="-1.905" y="-1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="4" x="-0.635" y="-1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="6" x="0.635" y="-1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<smd name="8" x="1.778" y="-1.905" dx="2.1082" dy="0.762" layer="1" rot="R90"/>
+<text x="7.8" y="-1.7" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<hole x="-1.27" y="0" drill="0.7"/>
+<hole x="1.27" y="0" drill="0.7"/>
+<polygon width="0.127" layer="43">
+<vertex x="-5.08" y="21.59"/>
+<vertex x="21.59" y="21.59"/>
+<vertex x="21.59" y="-5.08"/>
+<vertex x="2.54" y="-5.08"/>
+<vertex x="2.54" y="3.81"/>
+<vertex x="-2.54" y="3.81"/>
+<vertex x="-2.54" y="-5.08"/>
+<vertex x="-5.08" y="-5.08"/>
+</polygon>
+</package>

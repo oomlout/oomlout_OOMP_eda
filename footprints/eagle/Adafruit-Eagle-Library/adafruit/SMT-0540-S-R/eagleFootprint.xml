@@ -1,0 +1,19 @@
+
+<package name="SMT-0540-S-R">
+<wire x1="2.5" y1="-2.5" x2="-2.5" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="-2.5" x2="-2.5" y2="1" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="1" x2="-2.5" y2="1.5" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="1.5" x2="-1.5" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-1.5" y1="2.5" x2="2.5" y2="2.5" width="0.127" layer="21"/>
+<wire x1="2.5" y1="2.5" x2="2.5" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="0.8" x2="-3.2" y2="-0.7" width="0.127" layer="21" curve="93.949868"/>
+<wire x1="-2.9" y1="-0.4" x2="-2.9" y2="0.5" width="0.127" layer="21" curve="-104.250033"/>
+<wire x1="-2.7" y1="-0.1" x2="-2.7" y2="0.2" width="0.127" layer="21" curve="-106.260205"/>
+<wire x1="-2.5" y1="1" x2="-2.1" y2="0.7" width="0.127" layer="21" curve="-90"/>
+<wire x1="-2.1" y1="0.7" x2="-2.1" y2="-0.7" width="0.127" layer="21"/>
+<wire x1="-2.1" y1="-0.7" x2="-2.4" y2="-1" width="0.127" layer="21" curve="-90"/>
+<circle x="1.6" y="-1.3" radius="0.3162" width="0.127" layer="21"/>
+<smd name="-" x="1.7" y="2.7" dx="1" dy="1" layer="1"/>
+<smd name="M" x="-1.7" y="-2.7" dx="1" dy="1" layer="1"/>
+<smd name="+" x="1.7" y="-2.7" dx="1" dy="1" layer="1"/>
+</package>

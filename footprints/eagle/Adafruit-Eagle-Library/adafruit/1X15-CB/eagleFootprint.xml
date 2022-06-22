@@ -1,0 +1,18 @@
+
+<package name="1X15-CB">
+<pad name="1" x="-17.78" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="2" x="-15.24" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="3" x="-12.7" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="4" x="-10.16" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="5" x="-7.62" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="6" x="-5.08" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="7" x="-2.54" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="8" x="0" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="9" x="2.54" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="10" x="5.08" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="11" x="7.62" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="12" x="10.16" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="13" x="12.7" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="14" x="15.24" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+<pad name="15" x="17.78" y="0" drill="1.016" diameter="1.778" rot="R90"/>
+</package>

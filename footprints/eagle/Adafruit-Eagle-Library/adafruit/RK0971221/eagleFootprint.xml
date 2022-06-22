@@ -1,0 +1,33 @@
+
+<package name="RK0971221">
+<wire x1="-4.7" y1="-15.8" x2="4.8" y2="-15.8" width="0.127" layer="21"/>
+<wire x1="4.8" y1="-15.8" x2="4.8" y2="0" width="0.127" layer="21"/>
+<wire x1="4.8" y1="0" x2="2.5" y2="0" width="0.127" layer="21"/>
+<wire x1="2.5" y1="0" x2="-2.5" y2="0" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="0" x2="-4.7" y2="0" width="0.127" layer="21"/>
+<wire x1="-4.7" y1="0" x2="-4.7" y2="-15.8" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="0" x2="-2.5" y2="5" width="0.127" layer="21"/>
+<wire x1="-2.5" y1="5" x2="-2.2" y2="5" width="0.127" layer="21"/>
+<wire x1="-2.2" y1="5" x2="-2.2" y2="14.219" width="0.127" layer="21"/>
+<wire x1="-2.2" y1="14.219" x2="-1.419" y2="15" width="0.127" layer="21" curve="-90"/>
+<wire x1="-1.419" y1="15" x2="1.2781" y2="15" width="0.127" layer="21"/>
+<wire x1="1.2781" y1="15" x2="2.2" y2="14.0781" width="0.127" layer="21" curve="-90"/>
+<wire x1="2.2" y1="14.0781" x2="2.2" y2="5.1" width="0.127" layer="21"/>
+<wire x1="2.2" y1="5.1" x2="2.5" y2="5.1" width="0.127" layer="21"/>
+<wire x1="2.5" y1="5.1" x2="2.5" y2="0" width="0.127" layer="21"/>
+<wire x1="-2" y1="4.6" x2="2" y2="3.9" width="0.127" layer="21"/>
+<wire x1="-2" y1="3.9" x2="2" y2="3.2" width="0.127" layer="21"/>
+<wire x1="-2" y1="3.2" x2="2" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-2" y1="2.4" x2="2" y2="1.7" width="0.127" layer="21"/>
+<wire x1="-2" y1="1.6" x2="2" y2="0.9" width="0.127" layer="21"/>
+<pad name="SW1" x="-2.5" y="-13.75" drill="1"/>
+<pad name="SW2" x="2.5" y="-13.75" drill="1"/>
+<pad name="B2" x="2.5" y="-7.5" drill="1"/>
+<pad name="B1" x="2.5" y="-5" drill="1"/>
+<pad name="W1" x="0" y="-5" drill="1"/>
+<pad name="A1" x="-2.5" y="-5" drill="1"/>
+<pad name="A2" x="-2.5" y="-7.5" drill="1"/>
+<pad name="W2" x="0" y="-7.5" drill="1"/>
+<text x="6.6" y="-12.4" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="-5.3" y="-12.9" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+</package>

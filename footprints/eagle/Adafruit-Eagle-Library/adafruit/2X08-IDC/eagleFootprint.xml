@@ -1,0 +1,39 @@
+
+<package name="2X08-IDC">
+<wire x1="-4.445" y1="13.97" x2="4.445" y2="13.97" width="0.127" layer="21"/>
+<wire x1="4.445" y1="13.97" x2="4.445" y2="-13.97" width="0.127" layer="21"/>
+<wire x1="4.445" y1="-13.97" x2="-4.445" y2="-13.97" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="-13.97" x2="-4.445" y2="-2.2225" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="2.2225" x2="-4.445" y2="7.747" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="7.747" x2="-4.445" y2="10.033" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="10.033" x2="-4.445" y2="13.97" width="0.127" layer="21"/>
+<wire x1="-3.302" y1="12.7" x2="3.302" y2="12.7" width="0.127" layer="21"/>
+<wire x1="3.302" y1="12.7" x2="3.302" y2="-12.7" width="0.127" layer="21"/>
+<wire x1="3.302" y1="-12.7" x2="-3.302" y2="-12.7" width="0.127" layer="21"/>
+<wire x1="-3.302" y1="-12.7" x2="-3.302" y2="-2.2225" width="0.127" layer="21"/>
+<wire x1="-3.302" y1="-2.2225" x2="-4.445" y2="-2.2225" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="-2.2225" x2="-4.445" y2="2.2225" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="2.2225" x2="-3.302" y2="2.2225" width="0.127" layer="21"/>
+<wire x1="-3.302" y1="2.2225" x2="-3.302" y2="8.89" width="0.127" layer="21"/>
+<wire x1="-3.302" y1="8.89" x2="-3.302" y2="12.7" width="0.127" layer="21"/>
+<wire x1="-4.445" y1="10.033" x2="-3.302" y2="8.89" width="0.127" layer="21"/>
+<wire x1="-3.302" y1="8.89" x2="-4.445" y2="7.747" width="0.127" layer="21"/>
+<pad name="1" x="-1.27" y="8.89" drill="1" diameter="1.778"/>
+<pad name="2" x="1.27" y="8.89" drill="1" diameter="1.778"/>
+<pad name="3" x="-1.27" y="6.35" drill="1" diameter="1.778"/>
+<pad name="4" x="1.27" y="6.35" drill="1" diameter="1.778"/>
+<pad name="5" x="-1.27" y="3.81" drill="1" diameter="1.778"/>
+<pad name="6" x="1.27" y="3.81" drill="1" diameter="1.778"/>
+<pad name="7" x="-1.27" y="1.27" drill="1" diameter="1.778"/>
+<pad name="8" x="1.27" y="1.27" drill="1" diameter="1.778"/>
+<pad name="9" x="-1.27" y="-1.27" drill="1" diameter="1.778"/>
+<pad name="10" x="1.27" y="-1.27" drill="1" diameter="1.778"/>
+<pad name="11" x="-1.27" y="-3.81" drill="1" diameter="1.778"/>
+<pad name="12" x="1.27" y="-3.81" drill="1" diameter="1.778"/>
+<pad name="13" x="-1.27" y="-6.35" drill="1" diameter="1.778"/>
+<pad name="14" x="1.27" y="-6.35" drill="1" diameter="1.778"/>
+<pad name="15" x="-1.27" y="-8.89" drill="1" diameter="1.778"/>
+<pad name="16" x="1.27" y="-8.89" drill="1" diameter="1.778"/>
+<text x="-4.191" y="-16.129" size="1.6764" layer="25" font="vector">&gt;NAME</text>
+<text x="-4.445" y="14.478" size="1.6764" layer="27" font="vector">&gt;VALUE</text>
+</package>

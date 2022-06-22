@@ -1,0 +1,17 @@
+
+<package name="EG1390">
+<wire x1="-3.6" y1="1.75" x2="3.6" y2="1.75" width="0.127" layer="21"/>
+<wire x1="3.6" y1="1.75" x2="3.6" y2="-1.75" width="0.127" layer="21"/>
+<wire x1="3.6" y1="-1.75" x2="-3.6" y2="-1.75" width="0.127" layer="21"/>
+<wire x1="-3.6" y1="-1.75" x2="-3.6" y2="1.75" width="0.127" layer="21"/>
+<smd name="O1" x="-2.5" y="2.8" dx="1" dy="1.5" layer="1"/>
+<smd name="P1" x="0" y="2.8" dx="1" dy="1.5" layer="1"/>
+<smd name="S1" x="2.5" y="2.8" dx="1" dy="1.5" layer="1"/>
+<smd name="S2" x="2.5" y="-2.8" dx="1" dy="1.5" layer="1"/>
+<smd name="P2" x="0" y="-2.8" dx="1" dy="1.5" layer="1"/>
+<smd name="O2" x="-2.5" y="-2.8" dx="1" dy="1.5" layer="1"/>
+<text x="-4" y="-2.1" size="1.016" layer="25" font="vector" rot="R90">&gt;NAME</text>
+<text x="5" y="-2.7" size="1.016" layer="27" font="vector" rot="R90">&gt;VALUE</text>
+<hole x="1.5" y="0" drill="1"/>
+<hole x="-1.5" y="0" drill="1"/>
+</package>

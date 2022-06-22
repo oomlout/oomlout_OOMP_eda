@@ -1,0 +1,18 @@
+
+<package name="OSHWLOGO_0.3">
+<wire x1="0.762" y1="0.508" x2="0.762" y2="1.524" width="0.4064" layer="51"/>
+<wire x1="0.762" y1="1.524" x2="0" y2="2.286" width="0.4064" layer="51" curve="90"/>
+<wire x1="0" y1="2.286" x2="-0.762" y2="1.524" width="0.4064" layer="51" curve="90"/>
+<wire x1="-0.762" y1="1.524" x2="-0.762" y2="1.27" width="0.4064" layer="51"/>
+<circle x="0" y="0" radius="3.302" width="0.6096" layer="51"/>
+<polygon width="0.127" layer="51">
+<vertex x="1.27" y="-1.7272" curve="-90"/>
+<vertex x="0.9652" y="-2.032"/>
+<vertex x="-1.016" y="-2.032" curve="-90"/>
+<vertex x="-1.27" y="-1.778"/>
+<vertex x="-1.27" y="0.254" curve="-90"/>
+<vertex x="-1.016" y="0.508"/>
+<vertex x="0.9652" y="0.508" curve="-90"/>
+<vertex x="1.27" y="0.2032"/>
+</polygon>
+</package>

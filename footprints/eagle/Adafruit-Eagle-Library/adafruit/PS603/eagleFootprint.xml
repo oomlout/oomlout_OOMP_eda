@@ -1,0 +1,8 @@
+
+<package name="PS603">
+<circle x="0" y="0" radius="10" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="9.3021" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="5.5" width="0.127" layer="21"/>
+<smd name="2" x="4.184" y="-6.738" dx="3" dy="5" layer="1" rot="R90"/>
+<smd name="1" x="-4.184" y="-6.738" dx="3" dy="5" layer="1" rot="R90"/>
+</package>

@@ -1,0 +1,26 @@
+
+<package name="LATCHTERMINAL-5MM-3">
+<description>Manufacturer: How Der Electronic Co. 
+Part Number: HA-522</description>
+<pad name="1" x="-5" y="0" drill="1.5"/>
+<pad name="2" x="0" y="0" drill="1.5"/>
+<pad name="3" x="5" y="0" drill="1.5"/>
+<wire x1="-7.6" y1="-6.3" x2="7.6" y2="-6.3" width="0.1524" layer="21"/>
+<wire x1="-7.6" y1="6.3" x2="-7.6" y2="-6.3" width="0.1524" layer="21"/>
+<wire x1="-7.6" y1="6.3" x2="7.6" y2="6.3" width="0.1524" layer="21"/>
+<wire x1="7.6" y1="6.3" x2="7.6" y2="-6.3" width="0.1524" layer="21"/>
+<text x="0" y="5.588" size="0.6096" layer="25" font="vector" ratio="20" align="center">&gt;Name</text>
+<text x="0" y="-5.08" size="0.6096" layer="27" font="vector" ratio="20" align="center">&gt;Value</text>
+<wire x1="-6.5" y1="5" x2="-3.5" y2="5" width="0.1524" layer="51"/>
+<wire x1="-3.5" y1="5" x2="-3.5" y2="-7" width="0.1524" layer="51"/>
+<wire x1="-3.5" y1="-7" x2="-6.5" y2="-7" width="0.1524" layer="51"/>
+<wire x1="-6.5" y1="-7" x2="-6.5" y2="5" width="0.1524" layer="51"/>
+<wire x1="-1.5" y1="5" x2="-1.5" y2="-7" width="0.1524" layer="51"/>
+<wire x1="-1.5" y1="-7" x2="1.5" y2="-7" width="0.1524" layer="51"/>
+<wire x1="1.5" y1="-7" x2="1.5" y2="5" width="0.1524" layer="51"/>
+<wire x1="1.5" y1="5" x2="-1.5" y2="5" width="0.1524" layer="51"/>
+<wire x1="3.5" y1="5" x2="3.5" y2="-7" width="0.1524" layer="51"/>
+<wire x1="3.5" y1="-7" x2="6.5" y2="-7" width="0.1524" layer="51"/>
+<wire x1="6.5" y1="-7" x2="6.5" y2="5" width="0.1524" layer="51"/>
+<wire x1="3.5" y1="5" x2="6.5" y2="5" width="0.1524" layer="51"/>
+</package>

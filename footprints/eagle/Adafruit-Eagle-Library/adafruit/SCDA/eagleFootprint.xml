@@ -1,0 +1,39 @@
+
+<package name="SCDA">
+<wire x1="-14" y1="-26.3" x2="-14" y2="2.8" width="0.127" layer="21"/>
+<wire x1="-14" y1="2.8" x2="14.1" y2="2.8" width="0.127" layer="21"/>
+<wire x1="14.1" y1="2.8" x2="14.1" y2="-26.3" width="0.127" layer="21"/>
+<wire x1="14.1" y1="-26.3" x2="12" y2="-26.3" width="0.127" layer="21"/>
+<wire x1="12" y1="-26.3" x2="-12.4" y2="-26.3" width="0.127" layer="21"/>
+<wire x1="-12.4" y1="-26.3" x2="-14" y2="-26.3" width="0.127" layer="21"/>
+<wire x1="-12.4" y1="-25.5" x2="12" y2="-25.7" width="0.127" layer="21" curve="-27.095878"/>
+<wire x1="-12.4" y1="-25.5" x2="-12.4" y2="-26.3" width="0.127" layer="21"/>
+<wire x1="12" y1="-25.7" x2="12" y2="-26.3" width="0.127" layer="21"/>
+<smd name="12" x="-14.2" y="-23.5" dx="1.7" dy="3.1" layer="1"/>
+<smd name="13" x="14.2" y="-24.1" dx="1.9" dy="1.9" layer="1"/>
+<smd name="11" x="-14.1" y="-1.7" dx="1.7" dy="1.8" layer="1"/>
+<smd name="10" x="-12.8" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="8" x="-10.4" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="7" x="-8.4" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="6" x="-6.1" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="5" x="-3.6" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="2" x="3.9" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="4" x="-1.1" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="1" x="6.4" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="3" x="1.4" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<smd name="9" x="8.9" y="3.7" dx="4" dy="1.2" layer="1" rot="R90"/>
+<rectangle x1="-14" y1="-26.3" x2="-11.7" y2="-20.2" layer="39"/>
+<rectangle x1="11.3" y1="-26.3" x2="14.1" y2="-20.8" layer="39"/>
+<hole x="-13" y="0" drill="1"/>
+<hole x="13" y="0" drill="1"/>
+<polygon width="0.127" layer="39">
+<vertex x="14.1" y="-2.8"/>
+<vertex x="11.3" y="-2.8"/>
+<vertex x="11.3" y="-0.5"/>
+<vertex x="-11.8" y="-0.4"/>
+<vertex x="-11.8" y="-3.2"/>
+<vertex x="-14" y="-3.2"/>
+<vertex x="-14" y="4.7"/>
+<vertex x="14.1" y="4.7"/>
+</polygon>
+</package>

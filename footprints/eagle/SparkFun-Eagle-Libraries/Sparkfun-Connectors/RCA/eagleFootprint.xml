@@ -1,0 +1,29 @@
+
+<package name="RCA">
+<description>&lt;h3&gt;RCA Jack - Plated Through-Hole&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:3&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”https://www.sparkfun.com/datasheets/Prototyping/Connectors/RCA-Jack.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;RCA&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-4" y1="5" x2="-4" y2="-5" width="0.2032" layer="51"/>
+<wire x1="-4" y1="-5" x2="5.8" y2="-5" width="0.2032" layer="51"/>
+<wire x1="5.8" y1="-5" x2="5.8" y2="5" width="0.2032" layer="51"/>
+<wire x1="5.8" y1="5" x2="-4" y2="5" width="0.2032" layer="51"/>
+<wire x1="-4" y1="4" x2="-13.4" y2="4" width="0.2032" layer="51"/>
+<wire x1="-13.4" y1="4" x2="-13.4" y2="-4" width="0.2032" layer="51"/>
+<wire x1="-13.4" y1="-4" x2="-4" y2="-4" width="0.2032" layer="51"/>
+<wire x1="-2" y1="5" x2="2" y2="5" width="0.2032" layer="21"/>
+<wire x1="5.8" y1="5" x2="5.8" y2="-5" width="0.2032" layer="21"/>
+<wire x1="-2" y1="-5" x2="2" y2="-5" width="0.2032" layer="21"/>
+<wire x1="-4" y1="3" x2="-4" y2="-3" width="0.2032" layer="21"/>
+<pad name="SHELL" x="0" y="0" drill="2.3"/>
+<pad name="PIN" x="3.7" y="3.7" drill="2.3"/>
+<pad name="SWITCH" x="3.7" y="-3.7" drill="2.3"/>
+<hole x="-3.1" y="4.25" drill="2.1"/>
+<hole x="-3.1" y="-4.25" drill="2.1"/>
+<text x="-1.5748" y="5.969" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.905" y="-6.477" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>

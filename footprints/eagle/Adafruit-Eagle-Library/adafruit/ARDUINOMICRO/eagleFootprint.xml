@@ -1,0 +1,41 @@
+
+<package name="ARDUINOMICRO">
+<wire x1="-24.13" y1="-9.144" x2="24.13" y2="-9.144" width="0.127" layer="21"/>
+<wire x1="24.13" y1="-9.144" x2="24.13" y2="9.144" width="0.127" layer="21"/>
+<wire x1="24.13" y1="9.144" x2="-24.13" y2="9.144" width="0.127" layer="21"/>
+<wire x1="-24.13" y1="9.144" x2="-24.13" y2="-9.144" width="0.127" layer="21"/>
+<pad name="P$1" x="-20.32" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$2" x="-17.78" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$3" x="-15.24" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$4" x="-12.7" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$5" x="-10.16" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$6" x="-7.62" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$7" x="-5.08" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$8" x="-2.54" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$9" x="0" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$10" x="2.54" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$11" x="5.08" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$12" x="12.7" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$13" x="10.16" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$14" x="12.7" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$15" x="15.24" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$16" x="17.78" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$17" x="20.32" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$18" x="20.32" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$19" x="17.78" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$20" x="15.24" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$21" x="7.62" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$22" x="10.16" y="7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$23" x="7.62" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$24" x="5.08" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$25" x="2.54" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$26" x="0" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$27" x="-2.54" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$28" x="-5.08" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$29" x="-7.62" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$30" x="-10.16" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$31" x="-12.7" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$32" x="-15.24" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$33" x="-17.78" y="-7.62" drill="1.1" diameter="1.9304"/>
+<pad name="P$34" x="-20.32" y="-7.62" drill="1.1" diameter="1.9304"/>
+</package>

@@ -1,0 +1,19 @@
+
+<package name="1X08-3.5MM">
+<wire x1="-14" y1="3.4" x2="-14" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-14" y1="-2.5" x2="-14" y2="-3.6" width="0.127" layer="21"/>
+<wire x1="-14" y1="-3.6" x2="14" y2="-3.6" width="0.127" layer="21"/>
+<wire x1="14" y1="-3.6" x2="14" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="14" y1="-2.5" x2="14" y2="3.4" width="0.127" layer="21"/>
+<wire x1="14" y1="3.4" x2="-14" y2="3.4" width="0.127" layer="21"/>
+<wire x1="-14" y1="-2.5" x2="14" y2="-2.5" width="0.127" layer="21"/>
+<pad name="5" x="1.75" y="0" drill="1" diameter="2.1844"/>
+<pad name="4" x="-1.75" y="0" drill="1" diameter="2.1844"/>
+<pad name="3" x="-5.25" y="0" drill="1" diameter="2.1844"/>
+<pad name="2" x="-8.75" y="0" drill="1" diameter="2.1844"/>
+<pad name="1" x="-12.25" y="0" drill="1" diameter="2.1844"/>
+<pad name="6" x="5.25" y="0" drill="1" diameter="2.1844"/>
+<pad name="7" x="8.75" y="0" drill="1" diameter="2.1844"/>
+<pad name="8" x="12.25" y="0" drill="1" diameter="2.1844"/>
+<text x="13.12" y="-5.81" size="1.27" layer="25" rot="R180">&gt;NAME</text>
+</package>

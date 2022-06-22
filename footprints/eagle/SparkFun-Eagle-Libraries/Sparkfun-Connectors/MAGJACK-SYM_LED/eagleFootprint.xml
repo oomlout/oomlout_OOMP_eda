@@ -1,0 +1,33 @@
+
+<package name="MAGJACK-SYM_LED">
+<description>LPJ0284GDNL, HR861153C</description>
+<wire x1="-7.875" y1="10.595" x2="7.875" y2="10.595" width="0.05" layer="51"/>
+<wire x1="7.875" y1="10.595" x2="7.875" y2="-10.655" width="0.05" layer="51"/>
+<wire x1="7.875" y1="-10.655" x2="-7.875" y2="-10.655" width="0.05" layer="51"/>
+<wire x1="-7.875" y1="-10.655" x2="-7.875" y2="10.595" width="0.05" layer="51"/>
+<hole x="-5.715" y="0" drill="3.25"/>
+<hole x="5.715" y="0" drill="3.25"/>
+<pad name="S1" x="-7.875" y="3.05" drill="1.7" diameter="2.4"/>
+<pad name="S2" x="7.875" y="3.05" drill="1.7" diameter="2.4"/>
+<pad name="2" x="-4.445" y="6.35" drill="0.9" diameter="1.5"/>
+<pad name="3" x="-3.175" y="8.89" drill="0.9" diameter="1.5"/>
+<pad name="4" x="-1.905" y="6.35" drill="0.9" diameter="1.5"/>
+<pad name="5" x="-0.635" y="8.89" drill="0.9" diameter="1.5"/>
+<pad name="6" x="0.635" y="6.35" drill="0.9" diameter="1.5"/>
+<pad name="7" x="1.905" y="8.89" drill="0.9" diameter="1.5"/>
+<pad name="8" x="3.175" y="6.35" drill="0.9" diameter="1.5"/>
+<pad name="9" x="4.445" y="8.89" drill="0.9" diameter="1.5"/>
+<wire x1="-7.8" y1="5.11" x2="-7.8" y2="10.51" width="0.1524" layer="21"/>
+<wire x1="-7.8" y1="10.51" x2="7.8" y2="10.51" width="0.1524" layer="21"/>
+<wire x1="7.8" y1="10.51" x2="7.8" y2="5.11" width="0.1524" layer="21"/>
+<wire x1="7.8" y1="1.11" x2="7.8" y2="-5.89" width="0.1524" layer="21"/>
+<wire x1="-7.8" y1="1.11" x2="-7.8" y2="-5.89" width="0.1524" layer="21"/>
+<text x="0" y="2.14" size="0.5" layer="25" align="center">&gt;Name</text>
+<text x="0" y="1.14" size="0.5" layer="27" align="center">&gt;Value</text>
+<pad name="1" x="-5.715" y="8.89" drill="0.9" diameter="1.5"/>
+<pad name="10" x="5.715" y="6.35" drill="0.9" diameter="1.5"/>
+<pad name="12" x="-4.09" y="-4.06" drill="0.9" diameter="1.5"/>
+<pad name="13" x="4.09" y="-4.06" drill="0.9" diameter="1.5"/>
+<pad name="11" x="-6.63" y="-4.06" drill="0.9" diameter="1.5"/>
+<pad name="14" x="6.63" y="-4.06" drill="0.9" diameter="1.5"/>
+</package>

@@ -1,0 +1,16 @@
+###### OOMP FILE  ######
+
+import OOMP
+
+newPart = OOMP.oompItem()
+
+newPart.addTag("hexID", "")
+newPart.addTag("oompType", "FOOTPRINT")
+newPart.addTag("oompSize", "eagle")
+newPart.addTag("oompColor", "eagle-default")
+newPart.addTag("oompDesc", "ref-packages-3d")
+newPart.addTag("oompIndex", "QFN80P600X500X100-19T370X270")
+newPart.addTag("oompName", "eagle-default/ref-packages-3d/QFN80P600X500X100-19T370X270")
+
+
+OOMP.parts.append(newPart)

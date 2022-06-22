@@ -1,0 +1,29 @@
+
+<package name="TSW-104-XX-G-D">
+<description>&lt;b&gt;THROUGH-HOLE .025" SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf</description>
+<wire x1="-5.209" y1="2.425" x2="5.209" y2="2.425" width="0.2032" layer="21"/>
+<wire x1="5.209" y1="2.425" x2="5.209" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="5.209" y1="-2.425" x2="-5.209" y2="-2.425" width="0.2032" layer="21"/>
+<wire x1="-5.209" y1="-2.425" x2="-5.209" y2="2.425" width="0.2032" layer="21"/>
+<pad name="1" x="3.81" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="2" x="3.81" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="3" x="1.27" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="4" x="1.27" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="5" x="-1.27" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="6" x="-1.27" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="7" x="-3.81" y="-1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<pad name="8" x="-3.81" y="1.27" drill="1" diameter="1.5" shape="octagon" rot="R180"/>
+<text x="3.602" y="-3.818" size="1.1" layer="21" font="vector" rot="SR0">1</text>
+<text x="3.427" y="2.744" size="1.1" layer="21" font="vector" rot="SR0">2</text>
+<text x="-5.715" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="6.985" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-4.16" y1="-1.62" x2="-3.46" y2="-0.92" layer="51"/>
+<rectangle x1="-4.16" y1="0.92" x2="-3.46" y2="1.62" layer="51"/>
+<rectangle x1="-1.62" y1="-1.62" x2="-0.92" y2="-0.92" layer="51"/>
+<rectangle x1="-1.62" y1="0.92" x2="-0.92" y2="1.62" layer="51"/>
+<rectangle x1="0.92" y1="-1.62" x2="1.62" y2="-0.92" layer="51"/>
+<rectangle x1="0.92" y1="0.92" x2="1.62" y2="1.62" layer="51"/>
+<rectangle x1="3.46" y1="-1.62" x2="4.16" y2="-0.92" layer="51"/>
+<rectangle x1="3.46" y1="0.92" x2="4.16" y2="1.62" layer="51"/>
+</package>

@@ -1,0 +1,9 @@
+
+<package name="6000">
+<circle x="0.0254" y="0.0508" radius="4.3942" width="0.127" layer="21"/>
+<circle x="0.0508" y="0.0254" radius="4.064" width="0.127" layer="21"/>
+<pad name="1" x="-2.5" y="0" drill="1.2" diameter="2.1844"/>
+<pad name="2" x="2.5" y="0" drill="1.2" diameter="2.1844"/>
+<text x="-2.7" y="1.8" size="1.27" layer="21" font="vector">&gt;NAME</text>
+<text x="-3.3" y="-3" size="1.27" layer="21" font="vector">&gt;VALUE</text>
+</package>

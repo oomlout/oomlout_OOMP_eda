@@ -1,0 +1,11 @@
+
+<package name="THUMBWHEEL">
+<circle x="0" y="0" radius="6" width="0.127" layer="21"/>
+<pad name="SW1" x="-7.5" y="0" drill="2.2"/>
+<pad name="SW2" x="7.5" y="0" drill="2.2"/>
+<pad name="2" x="0" y="-6.9" drill="1.2" diameter="2.1844"/>
+<pad name="3" x="3.7" y="-5.8" drill="1.2" diameter="2.1844"/>
+<pad name="1" x="-3.7" y="-5.8" drill="1.2" diameter="2.1844"/>
+<text x="-2.8" y="6.6" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="-3.1" y="-2.6" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+</package>

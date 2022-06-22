@@ -1,0 +1,26 @@
+
+<package name="PIRANHA5MM">
+<wire x1="-2.794" y1="3.81" x2="3.81" y2="3.81" width="0.127" layer="21"/>
+<wire x1="3.81" y1="3.81" x2="3.81" y2="-3.81" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-3.81" x2="-3.81" y2="-3.81" width="0.127" layer="21"/>
+<wire x1="-3.81" y1="-3.81" x2="-3.81" y2="2.794" width="0.127" layer="21"/>
+<wire x1="-3.81" y1="2.794" x2="-2.794" y2="3.81" width="0.127" layer="21"/>
+<wire x1="-3.556" y1="-3.556" x2="3.556" y2="-3.556" width="0.127" layer="27"/>
+<wire x1="3.556" y1="-3.556" x2="3.556" y2="3.556" width="0.127" layer="27"/>
+<wire x1="3.556" y1="3.556" x2="-2.794" y2="3.556" width="0.127" layer="27"/>
+<wire x1="-2.794" y1="3.556" x2="-3.556" y2="2.794" width="0.127" layer="27"/>
+<wire x1="-3.556" y1="2.794" x2="-3.556" y2="-3.556" width="0.127" layer="27"/>
+<wire x1="-3.81" y1="3.81" x2="3.81" y2="3.81" width="0.127" layer="22"/>
+<wire x1="3.81" y1="3.81" x2="3.81" y2="-2.54" width="0.127" layer="22"/>
+<wire x1="3.81" y1="-2.54" x2="2.54" y2="-3.81" width="0.127" layer="22"/>
+<wire x1="2.54" y1="-3.81" x2="-3.81" y2="-3.81" width="0.127" layer="22"/>
+<wire x1="-3.81" y1="3.81" x2="-3.81" y2="-3.81" width="0.127" layer="22"/>
+<circle x="0" y="0" radius="2.54" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="1.796" width="0.127" layer="22"/>
+<pad name="1" x="-2.54" y="2.54" drill="0.9" diameter="1.778"/>
+<pad name="4" x="2.54" y="2.54" drill="0.9" diameter="1.778"/>
+<pad name="3" x="2.54" y="-2.54" drill="0.9" diameter="1.778"/>
+<pad name="2" x="-2.54" y="-2.54" drill="0.9" diameter="1.778"/>
+<text x="-2.54" y="4.318" size="1.27" layer="21" font="vector">&gt;NAME</text>
+<text x="-3.302" y="-5.588" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+</package>

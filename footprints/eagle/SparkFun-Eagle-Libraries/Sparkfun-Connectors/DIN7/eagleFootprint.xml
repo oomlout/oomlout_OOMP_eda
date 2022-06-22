@@ -1,0 +1,29 @@
+
+<package name="DIN7">
+<description>&lt;h3&gt;miniDIN Right Angle&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:7&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=”https://www.sparkfun.com/datasheets/Prototyping/mdn-s-07-x-mkt.pdf”&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;DIN7&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="-7.5" y1="1.8" x2="7.5" y2="1.8" width="0.127" layer="21"/>
+<wire x1="7.5" y1="1.8" x2="7.5" y2="0.85" width="0.127" layer="21"/>
+<wire x1="-7.5" y1="1.8" x2="-7.5" y2="0.85" width="0.127" layer="21"/>
+<wire x1="-7.5" y1="-8.3" x2="7.5" y2="-8.3" width="0.127" layer="21"/>
+<wire x1="7.5" y1="-8.3" x2="7.5" y2="-2.45" width="0.127" layer="21"/>
+<wire x1="-7.5" y1="-8.3" x2="-7.5" y2="-2.45" width="0.127" layer="21"/>
+<pad name="P$1" x="0" y="0" drill="2.2"/>
+<pad name="P$2" x="-6.75" y="-0.8" drill="2.2"/>
+<pad name="P$3" x="6.75" y="-0.8" drill="2.2"/>
+<pad name="2" x="-1.3" y="-3.8" drill="0.9"/>
+<pad name="1" x="1.3" y="-3.8" drill="0.9"/>
+<pad name="3" x="-3.4" y="-3.8" drill="0.9"/>
+<pad name="4" x="3.4" y="-3.8" drill="0.9"/>
+<pad name="5" x="-3.4" y="-6.3" drill="0.9"/>
+<pad name="6" x="0.9" y="-6.3" drill="0.9"/>
+<pad name="7" x="3.4" y="-6.3" drill="0.9"/>
+<text x="-1.27" y="2.54" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.905" y="-9.525" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
+</package>
