@@ -1,0 +1,45 @@
+{
+    "index": 230,
+    "tags": [
+        {
+            "name": "index",
+            "value": 230
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C275-134X316"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/C275-134X316"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C275-134X316"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

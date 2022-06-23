@@ -1,0 +1,45 @@
+{
+    "index": 309,
+    "tags": [
+        {
+            "name": "index",
+            "value": 309
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "E3,5-8"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/E3,5-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E3,5-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

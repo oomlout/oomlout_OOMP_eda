@@ -1,0 +1,45 @@
+{
+    "index": 643,
+    "tags": [
+        {
+            "name": "index",
+            "value": 643
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XTAL3215"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/XTAL3215"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XTAL3215"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "index": 114,
+    "tags": [
+        {
+            "name": "index",
+            "value": 114
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2X22-SMT"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/2X22-SMT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X22-SMT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

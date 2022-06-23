@@ -1,0 +1,45 @@
+{
+    "index": 145,
+    "tags": [
+        {
+            "name": "index",
+            "value": 145
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ARDUINOR3_ICSP"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/ARDUINOR3_ICSP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

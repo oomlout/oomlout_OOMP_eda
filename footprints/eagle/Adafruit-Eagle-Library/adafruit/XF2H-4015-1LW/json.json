@@ -1,0 +1,45 @@
+{
+    "index": 639,
+    "tags": [
+        {
+            "name": "index",
+            "value": 639
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XF2H-4015-1LW"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/XF2H-4015-1LW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XF2H-4015-1LW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

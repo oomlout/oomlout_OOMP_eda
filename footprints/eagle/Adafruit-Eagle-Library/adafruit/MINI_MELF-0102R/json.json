@@ -1,0 +1,45 @@
+{
+    "index": 423,
+    "tags": [
+        {
+            "name": "index",
+            "value": 423
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MINI_MELF-0102R"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/MINI_MELF-0102R"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0102R"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

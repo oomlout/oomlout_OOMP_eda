@@ -1,0 +1,45 @@
+{
+    "index": 383,
+    "tags": [
+        {
+            "name": "index",
+            "value": 383
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ILI9325_28INCH_TS"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/ILI9325_28INCH_TS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ILI9325_28INCH_TS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}
