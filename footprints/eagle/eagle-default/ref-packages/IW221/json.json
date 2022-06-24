@@ -1,9 +1,9 @@
 {
-    "index": 8482,
+    "index": 35982,
     "tags": [
         {
             "name": "index",
-            "value": 8482
+            "value": 35982
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/IW221"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 5.08 - 2.54 mm"
         },
         {
             "name": "oompID",

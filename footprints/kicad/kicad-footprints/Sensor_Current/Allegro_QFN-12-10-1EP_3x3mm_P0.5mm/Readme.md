@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

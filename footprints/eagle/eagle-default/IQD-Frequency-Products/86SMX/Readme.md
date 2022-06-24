@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-86SMX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

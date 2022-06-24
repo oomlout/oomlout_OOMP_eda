@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

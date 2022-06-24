@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_502426-3410_2x17_P0.40mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638009211859+
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

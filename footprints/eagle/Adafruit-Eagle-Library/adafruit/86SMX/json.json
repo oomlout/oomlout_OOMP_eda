@@ -1,9 +1,9 @@
 {
-    "index": 125,
+    "index": 27625,
     "tags": [
         {
             "name": "index",
-            "value": 125
+            "value": 27625
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/86SMX"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CRYSTAL RESONATOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

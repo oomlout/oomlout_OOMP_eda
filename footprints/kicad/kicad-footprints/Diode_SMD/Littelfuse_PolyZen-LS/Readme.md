@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Littelfuse_PolyZen-LS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

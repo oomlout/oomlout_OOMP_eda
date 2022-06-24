@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pinhead-2X30
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

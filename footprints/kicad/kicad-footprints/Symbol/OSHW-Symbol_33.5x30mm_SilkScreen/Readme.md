@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_33.5x30mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

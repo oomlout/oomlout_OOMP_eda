@@ -1,9 +1,9 @@
 {
-    "index": 8698,
+    "index": 36198,
     "tags": [
         {
             "name": "index",
-            "value": 8698
+            "value": 36198
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PLCC4-TOPLED-RG"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Multi TOPLED RG&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de ... LSG T770.pdf"
         },
         {
             "name": "oompID",

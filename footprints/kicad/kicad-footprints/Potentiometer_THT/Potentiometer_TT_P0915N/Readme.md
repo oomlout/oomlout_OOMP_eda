@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

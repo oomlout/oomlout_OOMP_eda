@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC35-U
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

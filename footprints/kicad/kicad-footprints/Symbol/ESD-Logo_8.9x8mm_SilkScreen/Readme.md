@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-ESD-Logo_8.9x8mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-CR32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

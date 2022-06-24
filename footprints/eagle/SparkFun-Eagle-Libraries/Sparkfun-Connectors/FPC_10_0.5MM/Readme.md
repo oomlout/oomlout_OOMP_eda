@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-FPC_10_0.5MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_46007-1102_1x02_P7.49mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

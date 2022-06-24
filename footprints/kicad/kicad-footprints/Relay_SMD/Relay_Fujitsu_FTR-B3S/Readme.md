@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

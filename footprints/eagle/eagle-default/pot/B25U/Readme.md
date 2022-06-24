@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pot-B25U
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

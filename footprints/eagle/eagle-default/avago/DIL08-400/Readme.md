@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-avago-DIL08-400
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

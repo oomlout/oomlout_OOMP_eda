@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-samtec-QTE-020
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

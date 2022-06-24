@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM9XW_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

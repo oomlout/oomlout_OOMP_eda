@@ -1,2 +1,25 @@
-
-<package name="SOD323W_INFINEON"></package>
+<package name="SOD323W_INFINEON" urn="urn:adsk.eagle:footprint:8083502/1">
+<description>&lt;b&gt;Diode Package&lt;/b&gt; Wave soldering&lt;p&gt;&#xD;
+INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf</description>
+<wire x1="0" y1="-0.7" x2="0" y2="0.6" width="0.127" layer="48"/>
+<wire x1="0" y1="0.6" x2="-0.2" y2="0.2" width="0.127" layer="48"/>
+<wire x1="-0.2" y1="0.2" x2="0.2" y2="0.2" width="0.127" layer="48"/>
+<wire x1="0.2" y1="0.2" x2="0" y2="0.6" width="0.127" layer="48"/>
+<wire x1="0" y1="-0.7" x2="0.2" y2="-0.3" width="0.127" layer="48"/>
+<wire x1="0.2" y1="-0.3" x2="-0.2" y2="-0.3" width="0.127" layer="48"/>
+<wire x1="-0.2" y1="-0.3" x2="0" y2="-0.7" width="0.127" layer="48"/>
+<wire x1="-0.8" y1="0.55" x2="0.8" y2="0.55" width="0.1016" layer="21"/>
+<wire x1="0.8" y1="0.55" x2="0.8" y2="-0.55" width="0.1016" layer="21"/>
+<wire x1="0.8" y1="-0.55" x2="-0.8" y2="-0.55" width="0.1016" layer="21"/>
+<wire x1="-0.8" y1="-0.55" x2="-0.8" y2="0.55" width="0.1016" layer="51"/>
+<smd name="C" x="-1.35" y="0" dx="1" dy="0.6" layer="1"/>
+<smd name="A" x="1.35" y="0" dx="1" dy="0.6" layer="1"/>
+<text x="0.4" y="0.4" size="0.254" layer="48">direction of pcb</text>
+<text x="0.4" y="-0.05" size="0.254" layer="48">transportation for</text>
+<text x="0.4" y="-0.5" size="0.254" layer="48">wavesoldering</text>
+<text x="-1.65" y="0.75" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.65" y="-2" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.8" y1="-0.55" x2="0" y2="0.55" layer="21"/>
+<rectangle x1="-1.25" y1="-0.15" x2="-0.8" y2="0.15" layer="51"/>
+<rectangle x1="0.8" y1="-0.15" x2="1.25" y2="0.15" layer="51"/>
+</package>

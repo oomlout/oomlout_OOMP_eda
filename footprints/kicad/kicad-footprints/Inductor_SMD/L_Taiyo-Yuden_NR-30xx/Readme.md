@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-30xx
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

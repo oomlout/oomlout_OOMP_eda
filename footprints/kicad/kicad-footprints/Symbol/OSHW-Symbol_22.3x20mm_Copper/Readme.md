@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_22.3x20mm_Copper
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

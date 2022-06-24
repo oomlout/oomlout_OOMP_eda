@@ -1,9 +1,9 @@
 {
-    "index": 8712,
+    "index": 36212,
     "tags": [
         {
             "name": "index",
-            "value": 8712
+            "value": 36212
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PLCCR18L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;&#xD;\nrectangle"
         },
         {
             "name": "oompID",

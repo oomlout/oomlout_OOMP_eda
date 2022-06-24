@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SON125P1050X1050X195-17T600X900
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

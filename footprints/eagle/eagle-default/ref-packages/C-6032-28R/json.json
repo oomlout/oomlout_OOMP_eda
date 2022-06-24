@@ -1,9 +1,9 @@
 {
-    "index": 8129,
+    "index": 35629,
     "tags": [
         {
             "name": "index",
-            "value": 8129
+            "value": 35629
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C/6032-28R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET C / EIA 6032-28 Reflow solder&lt;/b&gt;&lt;p&gt;&#xD;\nKEMET U / EIA 6032-15"
         },
         {
             "name": "oompID",

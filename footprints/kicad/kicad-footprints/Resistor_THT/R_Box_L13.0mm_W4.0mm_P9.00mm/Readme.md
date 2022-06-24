@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L13.0mm_W4.0mm_P9.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

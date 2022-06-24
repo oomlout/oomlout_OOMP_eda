@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1890
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

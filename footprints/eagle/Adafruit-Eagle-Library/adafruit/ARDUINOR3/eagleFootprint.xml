@@ -1,4 +1,3 @@
-
 <package name="ARDUINOR3">
 <description>The new Arduino R3 'classic' adds duplicate I2C pins and an IORef pin (and an unused pin</description>
 <wire x1="0" y1="0" x2="66.04" y2="0" width="0" layer="20"/>

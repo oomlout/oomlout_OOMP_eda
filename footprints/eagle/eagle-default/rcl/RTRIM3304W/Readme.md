@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM3304W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

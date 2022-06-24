@@ -1,9 +1,9 @@
 {
-    "index": 9318,
+    "index": 36818,
     "tags": [
         {
             "name": "index",
-            "value": 9318
+            "value": 36818
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO18D"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n2-lead metall, vertical"
         },
         {
             "name": "oompID",

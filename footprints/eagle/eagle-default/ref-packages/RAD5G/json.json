@@ -1,9 +1,9 @@
 {
-    "index": 8802,
+    "index": 36302,
     "tags": [
         {
             "name": "index",
-            "value": 8802
+            "value": 36302
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RAD5G"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 5.08 mm, vertical, grid 5.08 mm"
         },
         {
             "name": "oompID",

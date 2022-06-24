@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-v-reg-79MXXS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

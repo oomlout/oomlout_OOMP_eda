@@ -1,9 +1,9 @@
 {
-    "index": 9495,
+    "index": 36995,
     "tags": [
         {
             "name": "index",
-            "value": 9495
+            "value": 36995
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TSOP28"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Thin Small Outline Package Gull Wing&lt;/b&gt;&lt;p&gt;&#xD;\ntype I, package type TS"
         },
         {
             "name": "oompID",

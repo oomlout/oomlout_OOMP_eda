@@ -1,9 +1,9 @@
 {
-    "index": 553,
+    "index": 28053,
     "tags": [
         {
             "name": "index",
-            "value": 553
+            "value": 28053
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SOT23-R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT23&lt;/b&gt; - Reflow soldering"
         },
         {
             "name": "oompID",

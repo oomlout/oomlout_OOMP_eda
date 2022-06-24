@@ -1,2 +1,50 @@
-
-<package name="2QSP20"></package>
+<package name="2QSP20" urn="urn:adsk.eagle:footprint:8084695/1">
+<description>&lt;b&gt;BOURNS RESISTOR NETWORK&lt;/b&gt;</description>
+<wire x1="3.963" y1="1.86" x2="3.963" y2="-1.86" width="0.2032" layer="21"/>
+<wire x1="3.963" y1="-1.86" x2="-2.683" y2="-1.86" width="0.2032" layer="51"/>
+<wire x1="-2.683" y1="-1.86" x2="-2.683" y2="1.86" width="0.2032" layer="21"/>
+<wire x1="-2.683" y1="1.86" x2="3.963" y2="1.86" width="0.2032" layer="51"/>
+<wire x1="-2.568" y1="-1.4" x2="3.888" y2="-1.4" width="0.2032" layer="21"/>
+<smd name="1" x="-2.223" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="2" x="-1.588" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="3" x="-0.953" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="4" x="-0.318" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="5" x="0.318" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="6" x="0.953" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="7" x="1.588" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="8" x="2.223" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="9" x="2.858" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="10" x="3.493" y="-2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="11" x="3.493" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="12" x="2.858" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="13" x="2.223" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="14" x="1.588" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="15" x="0.953" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="16" x="0.318" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="17" x="-0.318" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="18" x="-0.953" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="19" x="-1.588" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<smd name="20" x="-2.223" y="2.6" dx="0.4" dy="1.5" layer="1"/>
+<text x="-3.2575" y="-2.975" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="5.6975" y="-3.375" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.3725" y1="-3.1" x2="-2.0725" y2="-1.9" layer="51"/>
+<rectangle x1="-1.7375" y1="-3.1" x2="-1.4375" y2="-1.9" layer="51"/>
+<rectangle x1="-1.1025" y1="-3.1" x2="-0.8025" y2="-1.9" layer="51"/>
+<rectangle x1="-0.4675" y1="-3.1" x2="-0.1675" y2="-1.9" layer="51"/>
+<rectangle x1="0.1675" y1="-3.1" x2="0.4675" y2="-1.9" layer="51"/>
+<rectangle x1="0.8025" y1="-3.1" x2="1.1025" y2="-1.9" layer="51"/>
+<rectangle x1="1.4375" y1="-3.1" x2="1.7375" y2="-1.9" layer="51"/>
+<rectangle x1="2.0725" y1="-3.1" x2="2.3725" y2="-1.9" layer="51"/>
+<rectangle x1="2.7075" y1="-3.1" x2="3.0075" y2="-1.9" layer="51"/>
+<rectangle x1="3.3425" y1="-3.1" x2="3.6425" y2="-1.9" layer="51"/>
+<rectangle x1="3.3425" y1="1.9" x2="3.6425" y2="3.1" layer="51"/>
+<rectangle x1="2.7075" y1="1.9" x2="3.0075" y2="3.1" layer="51"/>
+<rectangle x1="2.0725" y1="1.9" x2="2.3725" y2="3.1" layer="51"/>
+<rectangle x1="1.4375" y1="1.9" x2="1.7375" y2="3.1" layer="51"/>
+<rectangle x1="0.8025" y1="1.9" x2="1.1025" y2="3.1" layer="51"/>
+<rectangle x1="0.1675" y1="1.9" x2="0.4675" y2="3.1" layer="51"/>
+<rectangle x1="-0.4675" y1="1.9" x2="-0.1675" y2="3.1" layer="51"/>
+<rectangle x1="-1.1025" y1="1.9" x2="-0.8025" y2="3.1" layer="51"/>
+<rectangle x1="-1.7375" y1="1.9" x2="-1.4375" y2="3.1" layer="51"/>
+<rectangle x1="-2.3725" y1="1.9" x2="-2.0725" y2="3.1" layer="51"/>
+</package>

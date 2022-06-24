@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO-247AD-H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

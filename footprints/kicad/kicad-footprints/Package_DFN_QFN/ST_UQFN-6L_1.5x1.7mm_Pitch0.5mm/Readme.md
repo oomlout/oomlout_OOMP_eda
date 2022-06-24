@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

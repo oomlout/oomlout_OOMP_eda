@@ -1,9 +1,9 @@
 {
-    "index": 8472,
+    "index": 35972,
     "tags": [
         {
             "name": "index",
-            "value": 8472
+            "value": 35972
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/H03B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metal Can Package&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor H03B"
         },
         {
             "name": "oompID",

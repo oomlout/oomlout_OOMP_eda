@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3-NOTEXT-NOIOREF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

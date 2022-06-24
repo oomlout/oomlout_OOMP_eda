@@ -1,9 +1,9 @@
 {
-    "index": 8742,
+    "index": 36242,
     "tags": [
         {
             "name": "index",
-            "value": 8742
+            "value": 36242
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFP-32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Quad Flat Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

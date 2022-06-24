@@ -1,9 +1,9 @@
 {
-    "index": 8513,
+    "index": 36013,
     "tags": [
         {
             "name": "index",
-            "value": 8513
+            "value": 36013
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/L52-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLASTIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;&#xD;\nsquare"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-samtec-MMCX-J-P-X-ST-EM1-MKT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

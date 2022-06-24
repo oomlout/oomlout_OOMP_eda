@@ -1,9 +1,9 @@
 {
-    "index": 9112,
+    "index": 36612,
     "tags": [
         {
             "name": "index",
-            "value": 9112
+            "value": 36612
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT457R_PHILIPS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 6 leads&lt;/b&gt;&lt;p&gt;&#xD;\nSOT457 (SC-74) FOOTPRINT (REFLOW SOLDERING)&lt;p&gt;&#xD;\nPhilips Semiconductors,  sot457-(sc-74)-reflow-wave.pdf"
         },
         {
             "name": "oompID",

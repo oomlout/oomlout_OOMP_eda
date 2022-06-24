@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

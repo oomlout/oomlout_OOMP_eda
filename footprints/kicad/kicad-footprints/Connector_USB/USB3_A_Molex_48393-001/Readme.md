@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Molex_48393-001
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

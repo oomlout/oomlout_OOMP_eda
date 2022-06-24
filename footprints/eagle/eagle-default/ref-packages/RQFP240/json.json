@@ -1,9 +1,9 @@
 {
-    "index": 8805,
+    "index": 36305,
     "tags": [
         {
             "name": "index",
-            "value": 8805
+            "value": 36305
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RQFP240"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Power Quad Flat Pack&lt;/b&gt;"
         },
         {
             "name": "oompID",

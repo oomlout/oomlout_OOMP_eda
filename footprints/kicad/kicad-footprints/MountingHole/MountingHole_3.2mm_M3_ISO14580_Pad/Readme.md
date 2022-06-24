@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_ISO14580_Pad
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

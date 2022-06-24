@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-wago-236-6XX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

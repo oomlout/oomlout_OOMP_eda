@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-SFT830S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

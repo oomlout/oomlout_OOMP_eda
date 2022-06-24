@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-kyocera-elco-5036_008_210_862
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

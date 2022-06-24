@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-tyco-C_1720027_A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

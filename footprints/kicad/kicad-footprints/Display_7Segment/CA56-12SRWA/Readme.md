@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12SRWA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

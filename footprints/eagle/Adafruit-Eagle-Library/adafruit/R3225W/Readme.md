@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R3225W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: R3225W
 - oompName: Adafruit-Eagle-Library/adafruit/R3225W
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
+chip, wave soldering
 
 
 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_DRB0008A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

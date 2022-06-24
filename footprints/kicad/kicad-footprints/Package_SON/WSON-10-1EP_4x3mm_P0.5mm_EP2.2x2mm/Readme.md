@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

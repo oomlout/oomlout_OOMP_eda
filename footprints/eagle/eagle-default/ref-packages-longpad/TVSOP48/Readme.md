@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TVSOP48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

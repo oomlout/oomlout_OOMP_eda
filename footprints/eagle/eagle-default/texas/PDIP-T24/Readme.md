@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-PDIP-T24
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

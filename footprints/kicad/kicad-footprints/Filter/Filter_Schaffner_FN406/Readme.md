@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

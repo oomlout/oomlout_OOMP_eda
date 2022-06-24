@@ -1,9 +1,9 @@
 {
-    "index": 14178,
+    "index": 41678,
     "tags": [
         {
             "name": "index",
-            "value": 14178
+            "value": 41678
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/AUDIO-JACK-KIT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;3.5mm Stereo Audio Jack -Kit Version&lt;/h3&gt;\nReduced openings in tStop, pins spread a tiny bit out to hold part on PCB during assembly\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:5&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Audio-3.5mm.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;Audio_Jack&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

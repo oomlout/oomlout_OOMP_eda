@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Push_E-Switch_KS01Q01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

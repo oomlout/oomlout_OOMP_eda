@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S44
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: PLCC-S44
 - oompName: eagle-default/ref-packages/PLCC-S44
+- description: &lt;b&gt;Plastic Leaded Chip Carrier&lt;/b&gt; Socked
+
+
+
+[im]: image.png

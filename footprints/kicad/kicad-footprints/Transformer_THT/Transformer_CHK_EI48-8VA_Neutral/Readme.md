@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI48-8VA_Neutral
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

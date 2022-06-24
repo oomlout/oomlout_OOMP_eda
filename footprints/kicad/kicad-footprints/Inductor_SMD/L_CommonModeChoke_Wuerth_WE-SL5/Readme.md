@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Wuerth_WE-SL5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

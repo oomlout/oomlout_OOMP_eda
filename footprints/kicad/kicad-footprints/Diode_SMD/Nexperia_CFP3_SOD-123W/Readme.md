@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

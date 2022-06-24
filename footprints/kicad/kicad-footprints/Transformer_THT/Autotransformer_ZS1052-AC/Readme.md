@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

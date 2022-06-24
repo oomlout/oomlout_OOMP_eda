@@ -1,9 +1,9 @@
 {
-    "index": 8127,
+    "index": 35627,
     "tags": [
         {
             "name": "index",
-            "value": 8127
+            "value": 35627
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/BR210S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n2-lead molded, vertical"
         },
         {
             "name": "oompID",

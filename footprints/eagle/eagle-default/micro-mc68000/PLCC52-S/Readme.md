@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-PLCC52-S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

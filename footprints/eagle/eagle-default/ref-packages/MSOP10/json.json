@@ -1,9 +1,9 @@
 {
-    "index": 8610,
+    "index": 36110,
     "tags": [
         {
             "name": "index",
-            "value": 8610
+            "value": 36110
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MSOP10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;10-Lead Mini Small Outline Package [MSOP]&lt;/b&gt; (RM-10)&lt;p&gt;&#xD;\nSource: http://www.analog.com/UploadedFiles/Data_Sheets/35641221898805SSM2167_b.pdf&lt;br&gt;&#xD;\nCOMPLIANT TO JEDEC STANDARDS MO-187BA"
         },
         {
             "name": "oompID",

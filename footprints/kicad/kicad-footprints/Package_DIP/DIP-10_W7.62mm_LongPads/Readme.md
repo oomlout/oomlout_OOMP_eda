@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-10_W7.62mm_LongPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

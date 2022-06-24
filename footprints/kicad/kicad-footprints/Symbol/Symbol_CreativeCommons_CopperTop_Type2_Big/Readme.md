@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_CopperTop_Type2_Big
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-PSSO20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

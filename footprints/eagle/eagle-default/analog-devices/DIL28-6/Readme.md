@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-DIL28-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

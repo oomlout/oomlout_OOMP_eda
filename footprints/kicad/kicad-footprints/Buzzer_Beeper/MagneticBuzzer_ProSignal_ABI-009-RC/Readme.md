@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABI-009-RC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

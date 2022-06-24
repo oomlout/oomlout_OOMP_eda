@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-176_20x20mm_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

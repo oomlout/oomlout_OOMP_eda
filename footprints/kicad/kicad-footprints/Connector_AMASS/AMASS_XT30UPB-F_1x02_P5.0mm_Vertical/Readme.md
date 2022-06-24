@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-F_1x02_P5.0mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

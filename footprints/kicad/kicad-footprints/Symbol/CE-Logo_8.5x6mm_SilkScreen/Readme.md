@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_8.5x6mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

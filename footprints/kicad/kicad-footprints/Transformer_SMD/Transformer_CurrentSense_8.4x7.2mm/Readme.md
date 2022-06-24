@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_CurrentSense_8.4x7.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

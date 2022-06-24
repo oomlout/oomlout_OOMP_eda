@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-PA-STD-SOCKET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

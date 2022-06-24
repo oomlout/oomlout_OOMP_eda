@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-DF40C-70DP-0.4(51)
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

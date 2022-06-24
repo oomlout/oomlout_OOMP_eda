@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

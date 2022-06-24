@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-TO-220-7Lead_TabPin8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

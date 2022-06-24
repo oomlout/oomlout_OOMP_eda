@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-LY40SO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

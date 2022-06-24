@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2.5sqmm_1x03_P8.8mm_D2.4mm_OD4.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

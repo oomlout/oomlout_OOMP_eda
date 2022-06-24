@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

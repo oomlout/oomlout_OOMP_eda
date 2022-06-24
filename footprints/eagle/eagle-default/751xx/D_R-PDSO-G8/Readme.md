@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-751xx-D_R-PDSO-G8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

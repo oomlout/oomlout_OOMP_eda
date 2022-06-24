@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pot-ECP10P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

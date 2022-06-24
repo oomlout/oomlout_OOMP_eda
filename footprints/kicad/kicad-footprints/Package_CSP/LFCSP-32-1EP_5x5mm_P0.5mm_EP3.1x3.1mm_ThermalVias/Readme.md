@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

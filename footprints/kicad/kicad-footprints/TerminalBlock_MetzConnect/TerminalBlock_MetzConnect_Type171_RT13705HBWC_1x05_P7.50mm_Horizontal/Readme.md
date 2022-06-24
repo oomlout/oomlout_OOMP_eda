@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type171_RT13705HBWC_1x05_P7.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

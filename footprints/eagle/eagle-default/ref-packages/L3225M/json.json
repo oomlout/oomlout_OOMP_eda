@@ -1,9 +1,9 @@
 {
-    "index": 8503,
+    "index": 36003,
     "tags": [
         {
             "name": "index",
-            "value": 8503
+            "value": 36003
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/L3225M"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;INDUCTOR&lt;/b&gt;&lt;p&gt;&#xD;\nmolded"
         },
         {
             "name": "oompID",

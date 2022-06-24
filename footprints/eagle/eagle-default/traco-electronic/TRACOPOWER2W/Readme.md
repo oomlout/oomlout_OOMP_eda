@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TRACOPOWER2W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

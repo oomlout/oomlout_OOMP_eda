@@ -1,9 +1,9 @@
 {
-    "index": 8542,
+    "index": 36042,
     "tags": [
         {
             "name": "index",
-            "value": 8542
+            "value": 36042
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/M2012"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;\nMELF 0.10 W"
         },
         {
             "name": "oompID",

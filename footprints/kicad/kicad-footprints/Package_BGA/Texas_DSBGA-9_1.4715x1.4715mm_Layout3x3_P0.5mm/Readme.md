@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-9_1.4715x1.4715mm_Layout3x3_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

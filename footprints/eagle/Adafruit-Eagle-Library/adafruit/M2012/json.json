@@ -1,9 +1,9 @@
 {
-    "index": 413,
+    "index": 27913,
     "tags": [
         {
             "name": "index",
-            "value": 413
+            "value": 27913
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/M2012"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nMELF 0.10 W"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-LOGO_20MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

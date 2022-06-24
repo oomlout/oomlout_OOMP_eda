@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-MINI-BGA-182
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

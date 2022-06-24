@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-LCC22
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: LCC22
 - oompName: eagle-default/ref-packages/LCC22
+- description: &lt;b&gt;LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;&#xD;
+rectangle
+
+
+
+[im]: image.png

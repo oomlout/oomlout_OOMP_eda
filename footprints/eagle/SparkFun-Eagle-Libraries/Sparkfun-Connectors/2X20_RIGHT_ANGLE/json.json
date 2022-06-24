@@ -1,9 +1,9 @@
 {
-    "index": 14136,
+    "index": 41636,
     "tags": [
         {
             "name": "index",
-            "value": 14136
+            "value": 41636
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X20_RIGHT_ANGLE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole - 2x20 Right Angle Header&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:40&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/p&gt;\n&lt;p&gt;Shroud Specifications\n&lt;ul&gt;\n&lt;li&gt;56.08mm x 8.5mm x 6.0mm\n&lt;li&gt;\n&lt;li&gt;\n&lt;/ul&gt;\n&lt;/p&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

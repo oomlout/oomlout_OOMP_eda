@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-DO15-12
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: DO15-12
 - oompName: eagle-default/ref-packages/DO15-12
+- description: &lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 3.5 mm, horizontal, grid 12.7 mm
+
+
+
+[im]: image.png

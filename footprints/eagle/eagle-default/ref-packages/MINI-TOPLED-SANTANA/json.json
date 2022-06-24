@@ -1,9 +1,9 @@
 {
-    "index": 8556,
+    "index": 36056,
     "tags": [
         {
             "name": "index",
-            "value": 8556
+            "value": 36056
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MINI-TOPLED-SANTANA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Mini TOPLED Santana&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LG M470.pdf"
         },
         {
             "name": "oompID",

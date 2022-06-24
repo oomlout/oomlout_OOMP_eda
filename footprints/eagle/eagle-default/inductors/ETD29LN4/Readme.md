@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-ETD29LN4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

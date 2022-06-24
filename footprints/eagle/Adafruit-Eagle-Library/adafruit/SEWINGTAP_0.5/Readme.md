@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEWINGTAP_0.5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

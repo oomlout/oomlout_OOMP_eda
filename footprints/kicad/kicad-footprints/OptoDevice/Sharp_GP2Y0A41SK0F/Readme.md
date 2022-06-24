@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

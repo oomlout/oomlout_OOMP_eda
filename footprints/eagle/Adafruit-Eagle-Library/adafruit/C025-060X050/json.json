@@ -1,9 +1,9 @@
 {
-    "index": 174,
+    "index": 27674,
     "tags": [
         {
             "name": "index",
-            "value": 174
+            "value": 27674
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C025-060X050"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 2.5 mm, outline 6 x 5 mm"
         },
         {
             "name": "oompID",

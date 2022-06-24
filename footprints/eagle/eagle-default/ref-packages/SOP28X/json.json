@@ -1,9 +1,9 @@
 {
-    "index": 9052,
+    "index": 36552,
     "tags": [
         {
             "name": "index",
-            "value": 9052
+            "value": 36552
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOP28X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Package&lt;/b&gt; X large"
         },
         {
             "name": "oompID",

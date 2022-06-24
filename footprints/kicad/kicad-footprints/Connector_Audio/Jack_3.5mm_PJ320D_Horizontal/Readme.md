@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320D_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

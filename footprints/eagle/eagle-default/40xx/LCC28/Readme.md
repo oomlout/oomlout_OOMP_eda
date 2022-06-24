@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-40xx-LCC28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

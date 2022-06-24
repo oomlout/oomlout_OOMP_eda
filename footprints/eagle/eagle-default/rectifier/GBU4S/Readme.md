@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-GBU4S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

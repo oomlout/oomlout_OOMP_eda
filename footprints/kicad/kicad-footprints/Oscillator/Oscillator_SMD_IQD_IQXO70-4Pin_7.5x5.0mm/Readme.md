@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

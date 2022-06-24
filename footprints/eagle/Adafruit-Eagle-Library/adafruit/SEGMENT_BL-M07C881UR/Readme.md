@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M07C881UR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 491,
+    "index": 27991,
     "tags": [
         {
             "name": "index",
-            "value": 491
+            "value": 27991
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R2010W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

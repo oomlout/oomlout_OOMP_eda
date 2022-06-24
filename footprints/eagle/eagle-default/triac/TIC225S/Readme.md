@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-triac-TIC225S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

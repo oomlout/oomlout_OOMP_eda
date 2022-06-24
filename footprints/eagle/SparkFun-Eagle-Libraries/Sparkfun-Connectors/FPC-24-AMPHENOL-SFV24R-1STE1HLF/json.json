@@ -1,9 +1,9 @@
 {
-    "index": 14204,
+    "index": 41704,
     "tags": [
         {
             "name": "index",
-            "value": 14204
+            "value": 41704
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/FPC-24-AMPHENOL-SFV24R-1STE1HLF"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;24-Pin FPC/FFC Connector - 0.5mm pitch&lt;/h3&gt;\n&lt;p&gt;Digikey: 609-4320-2-ND&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10112793.pdf&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-omron-B3F/40L3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

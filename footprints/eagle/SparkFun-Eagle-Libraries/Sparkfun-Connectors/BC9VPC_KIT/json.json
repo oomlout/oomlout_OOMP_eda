@@ -1,9 +1,9 @@
 {
-    "index": 14183,
+    "index": 41683,
     "tags": [
         {
             "name": "index",
-            "value": 14183
+            "value": 41683
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/BC9VPC_KIT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;9V Battery Holder (Open) - PTH KIT&lt;/h3&gt;\nMask on one side for Kit soldering\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:2&lt;/li&gt;\n&lt;li&gt;Area: 2.15&quot;x1.20&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;BC9VPC&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

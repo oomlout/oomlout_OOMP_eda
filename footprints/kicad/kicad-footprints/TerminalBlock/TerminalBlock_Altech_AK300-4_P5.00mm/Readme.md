@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-4_P5.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

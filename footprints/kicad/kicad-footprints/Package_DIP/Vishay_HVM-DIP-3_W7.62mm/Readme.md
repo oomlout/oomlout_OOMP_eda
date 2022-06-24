@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-Vishay_HVM-DIP-3_W7.62mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

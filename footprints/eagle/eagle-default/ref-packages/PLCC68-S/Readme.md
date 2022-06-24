@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC68-S
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: PLCC68-S
 - oompName: eagle-default/ref-packages/PLCC68-S
+- description: &lt;b&gt;PLCC Socked&lt;/b&gt;
+
+
+
+[im]: image.png

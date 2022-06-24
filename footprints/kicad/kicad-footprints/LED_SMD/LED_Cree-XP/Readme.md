@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

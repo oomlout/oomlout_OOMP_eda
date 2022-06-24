@@ -1,9 +1,9 @@
 {
-    "index": 460,
+    "index": 27960,
     "tags": [
         {
             "name": "index",
-            "value": 460
+            "value": 27960
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/PANASONIC_E"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E&lt;/b&gt;"
         },
         {
             "name": "oompID",

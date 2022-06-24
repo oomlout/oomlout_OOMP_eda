@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-heatsink-D03S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

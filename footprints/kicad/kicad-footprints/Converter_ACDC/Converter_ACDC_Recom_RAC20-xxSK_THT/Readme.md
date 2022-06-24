@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Recom_RAC20-xxSK_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

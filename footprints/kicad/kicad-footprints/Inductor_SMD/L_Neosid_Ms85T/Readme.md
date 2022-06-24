@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms85T
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

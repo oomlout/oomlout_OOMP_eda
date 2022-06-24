@@ -1,9 +1,9 @@
 {
-    "index": 8660,
+    "index": 36160,
     "tags": [
         {
             "name": "index",
-            "value": 8660
+            "value": 36160
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PBGA-N64"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;GXG (S-PBGA-N64&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://focus.ti.com/lit/ds/symlink/ddc232.pdf"
         },
         {
             "name": "oompID",

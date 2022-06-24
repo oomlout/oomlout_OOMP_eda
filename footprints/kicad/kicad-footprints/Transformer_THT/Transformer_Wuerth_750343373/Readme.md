@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Wuerth_750343373
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

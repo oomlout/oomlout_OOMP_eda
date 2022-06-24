@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_Nano2_157x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

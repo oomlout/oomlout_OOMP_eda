@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

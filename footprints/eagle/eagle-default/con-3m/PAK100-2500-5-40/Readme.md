@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-3m-PAK100/2500-5-40
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

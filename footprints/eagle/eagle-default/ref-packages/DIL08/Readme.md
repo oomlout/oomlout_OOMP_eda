@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-DIL08
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: DIL08
 - oompName: eagle-default/ref-packages/DIL08
+- description: &lt;b&gt;Dual In Line Package&lt;/b&gt;
+
+
+
+[im]: image.png

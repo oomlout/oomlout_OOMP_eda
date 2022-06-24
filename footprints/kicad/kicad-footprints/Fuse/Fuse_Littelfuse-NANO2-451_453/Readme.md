@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-NANO2-451_453
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

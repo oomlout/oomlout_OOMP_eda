@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-KH206-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

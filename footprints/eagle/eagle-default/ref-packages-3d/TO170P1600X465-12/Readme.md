@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO170P1600X465-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

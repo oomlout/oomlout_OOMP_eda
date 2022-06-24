@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78HB-0.5L_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

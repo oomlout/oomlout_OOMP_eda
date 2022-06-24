@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ftdichip-LQFP32-7X7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

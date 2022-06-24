@@ -1,9 +1,9 @@
 {
-    "index": 14312,
+    "index": 41812,
     "tags": [
         {
             "name": "index",
-            "value": 14312
+            "value": 41812
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SOLDER_PAD_2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LuMini Ring Solder Pads&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;\n&lt;li&gt;Pin pitch: .8 in&lt;/li&gt;\n&lt;li&gt;Area: .4 x 1 in.&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

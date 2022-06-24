@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ25_Wayconn_MJEA-660X1_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

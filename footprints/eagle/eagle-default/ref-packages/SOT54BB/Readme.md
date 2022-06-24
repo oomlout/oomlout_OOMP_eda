@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT54BB
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOT54BB
 - oompName: eagle-default/ref-packages/SOT54BB
+- description: &lt;b&gt;SOT-54&lt;/b&gt;&lt;p&gt;&#xD;
+grid 4 mm
+
+
+
+[im]: image.png

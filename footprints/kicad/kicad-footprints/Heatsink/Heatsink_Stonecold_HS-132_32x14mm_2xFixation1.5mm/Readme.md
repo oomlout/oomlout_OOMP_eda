@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

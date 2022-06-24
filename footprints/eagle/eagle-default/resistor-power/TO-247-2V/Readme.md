@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-TO-247-2V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

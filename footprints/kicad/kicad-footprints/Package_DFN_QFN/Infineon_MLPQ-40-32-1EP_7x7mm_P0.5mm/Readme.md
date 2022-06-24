@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

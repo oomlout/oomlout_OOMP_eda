@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C0603
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: C0603
 - oompName: Adafruit-Eagle-Library/adafruit/C0603
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+chip
 
 
 

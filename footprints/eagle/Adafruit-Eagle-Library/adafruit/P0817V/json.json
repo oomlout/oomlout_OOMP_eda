@@ -1,9 +1,9 @@
 {
-    "index": 450,
+    "index": 27950,
     "tags": [
         {
             "name": "index",
-            "value": 450
+            "value": 27950
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/P0817V"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\ntype 0817, grid 6.35 mm"
         },
         {
             "name": "oompID",

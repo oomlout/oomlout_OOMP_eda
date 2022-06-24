@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHSM-7832
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

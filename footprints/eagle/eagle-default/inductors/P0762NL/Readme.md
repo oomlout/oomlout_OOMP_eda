@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-P0762NL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CLDCC44
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

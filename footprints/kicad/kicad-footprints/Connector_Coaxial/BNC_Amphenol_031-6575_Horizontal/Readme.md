@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_031-6575_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

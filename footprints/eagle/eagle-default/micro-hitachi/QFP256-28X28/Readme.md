@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-hitachi-QFP256-28X28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-32_7x7mm_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-6L_10x3.84mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

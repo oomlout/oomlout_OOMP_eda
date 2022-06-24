@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-SOP28X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

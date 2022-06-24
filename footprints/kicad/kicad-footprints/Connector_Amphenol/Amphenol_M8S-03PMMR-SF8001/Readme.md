@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Amphenol-Amphenol_M8S-03PMMR-SF8001
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

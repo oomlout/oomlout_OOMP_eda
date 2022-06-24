@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-POWER_JACK_COMBO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-2KBB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

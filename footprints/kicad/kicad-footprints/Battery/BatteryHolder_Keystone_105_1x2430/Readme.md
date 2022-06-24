@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_105_1x2430
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

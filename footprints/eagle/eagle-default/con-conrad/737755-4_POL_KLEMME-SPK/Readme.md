@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-conrad-737755-4_POL_KLEMME-SPK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

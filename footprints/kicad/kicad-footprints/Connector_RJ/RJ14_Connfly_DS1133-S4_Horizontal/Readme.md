@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ14_Connfly_DS1133-S4_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

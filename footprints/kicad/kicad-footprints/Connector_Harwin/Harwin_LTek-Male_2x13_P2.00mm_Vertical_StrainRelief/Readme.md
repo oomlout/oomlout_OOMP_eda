@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x13_P2.00mm_Vertical_StrainRelief
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

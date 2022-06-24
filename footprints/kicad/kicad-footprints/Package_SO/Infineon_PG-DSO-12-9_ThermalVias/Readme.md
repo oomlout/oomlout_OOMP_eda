@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-9_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

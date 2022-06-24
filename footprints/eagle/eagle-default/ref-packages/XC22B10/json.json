@@ -1,9 +1,9 @@
 {
-    "index": 9558,
+    "index": 37058,
     "tags": [
         {
             "name": "index",
-            "value": 9558
+            "value": 37058
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/XC22B10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;X CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nbody 26.6 x 10 mm, grid 22.86 mm"
         },
         {
             "name": "oompID",

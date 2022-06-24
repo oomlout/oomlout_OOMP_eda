@@ -1,9 +1,9 @@
 {
-    "index": 8557,
+    "index": 36057,
     "tags": [
         {
             "name": "index",
-            "value": 8557
+            "value": 36057
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MINIMELF"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Mini Melf Diode&lt;/b&gt;"
         },
         {
             "name": "oompID",

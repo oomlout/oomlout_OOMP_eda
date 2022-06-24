@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MELF_MMB-0207
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

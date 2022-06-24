@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8341,
+    "index": 35841,
     "tags": [
         {
             "name": "index",
-            "value": 8341
+            "value": 35841
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DIP40X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMD DIL40X&lt;/b&gt;&lt;p&gt;&#xD;\ndual in line package, body 13.52 mm"
         },
         {
             "name": "oompID",

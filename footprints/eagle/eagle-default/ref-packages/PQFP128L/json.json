@@ -1,9 +1,9 @@
 {
-    "index": 8723,
+    "index": 36223,
     "tags": [
         {
             "name": "index",
-            "value": 8723
+            "value": 36223
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PQFP128L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PQFP-128L&lt;/b&gt;&lt;p&gt;&#xD;\nADVANCED DEMICONDUCTOR ENGENEERING. INC&lt;br&gt;&#xD;\nPackage Outline 14x20x2.72 mm / 3.9mm Footprint&lt;br&gt;&#xD;\nSource PQFP-128.pdf"
         },
         {
             "name": "oompID",

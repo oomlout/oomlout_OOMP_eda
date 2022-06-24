@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MINIMELF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

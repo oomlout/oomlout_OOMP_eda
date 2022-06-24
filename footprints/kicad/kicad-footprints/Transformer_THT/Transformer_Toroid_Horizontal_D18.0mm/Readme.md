@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D18.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

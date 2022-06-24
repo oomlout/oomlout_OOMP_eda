@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-v-reg-SOT23
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

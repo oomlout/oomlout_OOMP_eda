@@ -1,9 +1,9 @@
 {
-    "index": 14234,
+    "index": 41734,
     "tags": [
         {
             "name": "index",
-            "value": 14234
+            "value": 41734
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST04_1MM_RA_STRESSRELIEF"
+        },
+        {
+            "name": "description",
+            "value": "Qwiic connector with milled cutout. Sliding the cable into this slot prevents the cable from coming unplugged."
         },
         {
             "name": "oompID",

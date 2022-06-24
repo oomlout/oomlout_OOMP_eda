@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_SMD_A5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

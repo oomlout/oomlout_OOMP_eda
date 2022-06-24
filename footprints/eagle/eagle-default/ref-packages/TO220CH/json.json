@@ -1,9 +1,9 @@
 {
-    "index": 9373,
+    "index": 36873,
     "tags": [
         {
             "name": "index",
-            "value": 9373
+            "value": 36873
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220CH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n3-lead molded, horizontal"
         },
         {
             "name": "oompID",

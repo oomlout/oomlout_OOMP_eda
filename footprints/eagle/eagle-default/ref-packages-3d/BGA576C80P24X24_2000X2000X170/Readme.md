@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA576C80P24X24_2000X2000X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

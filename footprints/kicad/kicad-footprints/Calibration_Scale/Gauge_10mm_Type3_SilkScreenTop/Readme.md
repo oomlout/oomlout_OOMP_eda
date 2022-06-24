@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type3_SilkScreenTop
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,4 +1,3 @@
-
 <package name="MICRO-SD-SOCKET-SDIO">
 <wire x1="-0.03" y1="0" x2="-0.03" y2="13.2" width="0.2032" layer="21"/>
 <wire x1="13.97" y1="12.1" x2="13.97" y2="0" width="0.2032" layer="21"/>

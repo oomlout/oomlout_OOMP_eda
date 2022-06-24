@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-B2430UNI
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9385,
+    "index": 36885,
     "tags": [
         {
             "name": "index",
-            "value": 9385
+            "value": 36885
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220V"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO 200 vertical&lt;/b&gt;"
         },
         {
             "name": "oompID",

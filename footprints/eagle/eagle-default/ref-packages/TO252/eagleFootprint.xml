@@ -1,2 +1,40 @@
-
-<package name="TO252"></package>
+<package name="TO252-51" urn="urn:adsk.eagle:footprint:8084589/1">
+<description>&lt;b&gt;Transistor Outline Package&lt;/b&gt;&lt;p&gt;&#xD;
+P-TO252-5-1 SIEMENS TLE4270</description>
+<wire x1="3.177" y1="3.735" x2="3.177" y2="-2.259" width="0.2032" layer="51"/>
+<wire x1="3.177" y1="-2.259" x2="-3.1776" y2="-2.259" width="0.2032" layer="51"/>
+<wire x1="-3.177" y1="-2.26" x2="-3.177" y2="3.735" width="0.2032" layer="51"/>
+<wire x1="-3.177" y1="3.735" x2="3.177" y2="3.735" width="0.2032" layer="51"/>
+<wire x1="-3.973" y1="5.983" x2="3.973" y2="5.983" width="0.0508" layer="39"/>
+<wire x1="3.973" y1="-5.983" x2="-3.973" y2="-5.983" width="0.0508" layer="39"/>
+<wire x1="-3.973" y1="-5.983" x2="-3.973" y2="5.983" width="0.0508" layer="39"/>
+<wire x1="3.973" y1="5.983" x2="3.973" y2="-5.983" width="0.0508" layer="39"/>
+<circle x="0" y="-0.5" radius="0.7071" width="0.1524" layer="21"/>
+<smd name="5" x="0" y="2.5" dx="5.4" dy="6.2" layer="1"/>
+<smd name="1" x="-2.28" y="-4.8" dx="1" dy="1.6" layer="1"/>
+<smd name="4" x="2.28" y="-4.8" dx="1" dy="1.6" layer="1"/>
+<smd name="2" x="-1.14" y="-4.8" dx="1" dy="1.6" layer="1"/>
+<smd name="3" x="1.14" y="-4.8" dx="1" dy="1.6" layer="1"/>
+<text x="-3.556" y="-4.572" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="4.826" y="-4.572" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.3" y1="-3.2" x2="0.3" y2="-2.2" layer="21"/>
+<rectangle x1="-2.58" y1="-5.05" x2="-1.98" y2="-2.2" layer="21"/>
+<rectangle x1="-1.44" y1="-5.05" x2="-0.84" y2="-2.2" layer="21"/>
+<rectangle x1="0.84" y1="-5.05" x2="1.44" y2="-2.2" layer="21"/>
+<rectangle x1="1.98" y1="-5.05" x2="2.58" y2="-2.2" layer="21"/>
+<rectangle x1="-2.73" y1="-3.6" x2="-1.83" y2="-2.8" layer="21"/>
+<rectangle x1="-1.59" y1="-3.6" x2="-0.69" y2="-2.8" layer="21"/>
+<rectangle x1="0.69" y1="-3.6" x2="1.59" y2="-2.8" layer="21"/>
+<rectangle x1="1.83" y1="-3.6" x2="2.73" y2="-2.8" layer="21"/>
+<rectangle x1="-0.45" y1="-3.2" x2="0.45" y2="-2.8" layer="21"/>
+<polygon width="0.2" layer="21">
+<vertex x="-2.5654" y="3.887"/>
+<vertex x="-2.5654" y="4.7562"/>
+<vertex x="-2.032" y="4.7562"/>
+<vertex x="-2.032" y="4.572"/>
+<vertex x="2.032" y="4.572"/>
+<vertex x="2.032" y="4.7562"/>
+<vertex x="2.5654" y="4.7562"/>
+<vertex x="2.5654" y="3.887"/>
+</polygon>
+</package>

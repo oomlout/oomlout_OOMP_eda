@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "PBGA256")
 newPart.addTag("oompName", "eagle-default/ref-packages/PBGA256")
 
+newPart.addTag("description", """&lt;b&gt;Ball Grid Array&lt;/b&gt; PBGA 256""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-PBGA256",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='PBGA256')
 
 OOMP.parts.append(newPart)

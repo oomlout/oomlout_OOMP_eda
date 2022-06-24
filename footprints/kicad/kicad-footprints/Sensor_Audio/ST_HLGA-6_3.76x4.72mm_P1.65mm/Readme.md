@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-ST_HLGA-6_3.76x4.72mm_P1.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

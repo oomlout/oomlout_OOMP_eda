@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM06B-SURS-TF_1x06-1MP_P0.80mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

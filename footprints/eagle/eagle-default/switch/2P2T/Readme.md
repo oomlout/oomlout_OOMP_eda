@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-2P2T
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

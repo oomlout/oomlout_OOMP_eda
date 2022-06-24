@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Hahn_HS-400xx_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

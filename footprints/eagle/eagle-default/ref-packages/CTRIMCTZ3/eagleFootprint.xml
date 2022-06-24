@@ -1,2 +1,22 @@
-
-<package name="CTRIMCTZ3"></package>
+<package name="CTRIMCTZ3" urn="urn:adsk.eagle:footprint:8082616/1">
+<description>&lt;b&gt;Trimm capacitor&lt;/b&gt; AVX</description>
+<wire x1="-1.45" y1="-2.15" x2="-1.45" y2="0.75" width="0.254" layer="51"/>
+<wire x1="-1.45" y1="0.75" x2="-0.45" y2="2.1" width="0.254" layer="51"/>
+<wire x1="-0.45" y1="2.1" x2="0.45" y2="2.1" width="0.254" layer="51"/>
+<wire x1="0.45" y1="2.1" x2="1.45" y2="0.75" width="0.254" layer="51"/>
+<wire x1="1.45" y1="0.75" x2="1.45" y2="-2.15" width="0.254" layer="51"/>
+<wire x1="1.45" y1="-2.15" x2="-1.45" y2="-2.15" width="0.254" layer="51"/>
+<wire x1="-0.6" y1="-2.15" x2="-1.45" y2="-2.15" width="0.254" layer="21"/>
+<wire x1="-1.45" y1="-2.15" x2="-1.45" y2="0.75" width="0.254" layer="21"/>
+<wire x1="-1.45" y1="0.75" x2="-0.45" y2="2.1" width="0.254" layer="21"/>
+<wire x1="0.6" y1="-2.15" x2="1.45" y2="-2.15" width="0.254" layer="21"/>
+<wire x1="1.45" y1="-2.15" x2="1.45" y2="0.75" width="0.254" layer="21"/>
+<wire x1="1.45" y1="0.75" x2="0.45" y2="2.1" width="0.254" layer="21"/>
+<circle x="0" y="0" radius="1.1" width="0.1524" layer="21"/>
+<smd name="1" x="0" y="1.95" dx="0.6" dy="0.6" layer="1"/>
+<smd name="2" x="0" y="-1.95" dx="0.78" dy="0.6" layer="1"/>
+<text x="-1.85" y="-2.3" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="3.1" y="-2.3" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.25" y1="-0.85" x2="0.25" y2="0.85" layer="21"/>
+<rectangle x1="-0.85" y1="-0.25" x2="0.85" y2="0.25" layer="21"/>
+</package>

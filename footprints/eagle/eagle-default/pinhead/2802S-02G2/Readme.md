@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pinhead-2802S-02G2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

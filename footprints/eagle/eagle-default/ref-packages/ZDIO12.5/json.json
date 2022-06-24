@@ -1,9 +1,9 @@
 {
-    "index": 9581,
+    "index": 37081,
     "tags": [
         {
             "name": "index",
-            "value": 9581
+            "value": 37081
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/ZDIO12.5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Z DIODE&lt;/b&gt;"
         },
         {
             "name": "oompID",

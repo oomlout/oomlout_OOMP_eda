@@ -1,4 +1,3 @@
-
 <package name="JD-T1800">
 <wire x1="-17" y1="23" x2="17" y2="23" width="0.127" layer="21"/>
 <wire x1="17" y1="23" x2="17" y2="-23" width="0.127" layer="21"/>

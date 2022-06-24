@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SOICW32")
 newPart.addTag("oompName", "eagle-default/ref-packages/SOICW32")
 
+newPart.addTag("description", """&lt;b&gt;Small Outline Package wide&lt;/b&gt;&lt;p&gt;&#xD;
+source www.motorola.com; BR1568.pdf""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SOICW32",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SOICW32')
 
 OOMP.parts.append(newPart)

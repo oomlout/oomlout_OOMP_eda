@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DRC0010J
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

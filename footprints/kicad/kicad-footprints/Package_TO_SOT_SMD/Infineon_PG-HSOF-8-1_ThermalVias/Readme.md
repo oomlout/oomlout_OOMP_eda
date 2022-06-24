@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-1_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

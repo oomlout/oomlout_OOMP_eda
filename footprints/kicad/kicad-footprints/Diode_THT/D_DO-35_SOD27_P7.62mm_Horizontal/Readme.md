@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-35_SOD27_P7.62mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

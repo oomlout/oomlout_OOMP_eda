@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-vg-STV-D32F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,2 +1,17 @@
-
-<package name="P1-12E"></package>
+<package name="P1-12E" urn="urn:adsk.eagle:footprint:8083389/1">
+<description>&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 3 mm, horizontal, grid 12.7 mm</description>
+<wire x1="-3.175" y1="-1.524" x2="3.175" y2="-1.524" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="1.524" x2="-3.175" y2="1.524" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="-1.524" x2="3.175" y2="1.524" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="1.524" x2="-3.175" y2="-1.524" width="0.1524" layer="21"/>
+<wire x1="6.35" y1="0" x2="5.08" y2="0" width="0.762" layer="51"/>
+<wire x1="-6.35" y1="0" x2="-5.08" y2="0" width="0.762" layer="51"/>
+<pad name="C" x="-6.35" y="0" drill="1.1176" shape="long"/>
+<pad name="A" x="6.35" y="0" drill="1.1176" shape="long"/>
+<text x="-3.175" y="1.905" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-3.175" y="-3.048" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-2.794" y1="-1.524" x2="-2.032" y2="1.524" layer="21"/>
+<rectangle x1="3.175" y1="-0.381" x2="4.953" y2="0.381" layer="21"/>
+<rectangle x1="-4.953" y1="-0.381" x2="-3.175" y2="0.381" layer="21"/>
+</package>

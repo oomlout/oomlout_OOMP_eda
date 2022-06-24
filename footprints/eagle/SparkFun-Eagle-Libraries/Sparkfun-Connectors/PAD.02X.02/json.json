@@ -1,9 +1,9 @@
 {
-    "index": 14263,
+    "index": 41763,
     "tags": [
         {
             "name": "index",
-            "value": 14263
+            "value": 41763
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/PAD.02X.02"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Electrically Conductive Pad 0.02&quot; Square&lt;/h3&gt;\nUsed as a test point connection for pogo pins or other debugging tools. \n&lt;p&gt;Specifications:\n&lt;li&gt;Area: 0.02&quot; x 0.02&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

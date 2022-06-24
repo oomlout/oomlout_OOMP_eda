@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-H82
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

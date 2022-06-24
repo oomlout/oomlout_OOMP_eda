@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TI_SO-PowerPAD-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

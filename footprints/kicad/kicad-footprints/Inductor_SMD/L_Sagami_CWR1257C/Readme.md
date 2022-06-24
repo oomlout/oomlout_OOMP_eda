@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1257C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

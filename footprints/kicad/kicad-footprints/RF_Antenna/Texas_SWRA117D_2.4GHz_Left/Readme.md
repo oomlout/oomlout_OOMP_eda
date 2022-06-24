@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA117D_2.4GHz_Left
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

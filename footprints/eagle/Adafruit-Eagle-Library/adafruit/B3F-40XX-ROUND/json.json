@@ -1,9 +1,9 @@
 {
-    "index": 156,
+    "index": 27656,
     "tags": [
         {
             "name": "index",
-            "value": 156
+            "value": 27656
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/B3F-40XX-ROUND"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;OMRON SWITCH&lt;/b&gt;"
         },
         {
             "name": "oompID",

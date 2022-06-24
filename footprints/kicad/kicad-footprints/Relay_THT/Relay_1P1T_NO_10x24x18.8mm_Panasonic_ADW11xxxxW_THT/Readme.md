@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

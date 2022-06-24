@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-ZDIO12.5
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: ZDIO12.5
 - oompName: eagle-default/ref-packages/ZDIO12.5
+- description: &lt;b&gt;Z DIODE&lt;/b&gt;
+
+
+
+[im]: image.png

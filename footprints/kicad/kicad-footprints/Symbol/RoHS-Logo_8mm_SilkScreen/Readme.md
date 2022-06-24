@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_8mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

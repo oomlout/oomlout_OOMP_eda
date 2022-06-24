@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-SC70-3L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

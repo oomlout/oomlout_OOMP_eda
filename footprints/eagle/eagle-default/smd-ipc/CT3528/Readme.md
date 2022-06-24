@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-CT3528
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

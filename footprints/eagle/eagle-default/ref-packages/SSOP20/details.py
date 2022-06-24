@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SSOP20")
 newPart.addTag("oompName", "eagle-default/ref-packages/SSOP20")
 
+newPart.addTag("description", """&lt;B&gt;Plastic Shrink Small Outline Package&lt;/B&gt;""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SSOP20",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SSOP20')
 
 OOMP.parts.append(newPart)

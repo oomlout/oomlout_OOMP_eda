@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

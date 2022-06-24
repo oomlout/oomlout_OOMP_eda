@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: 1X20
 - oompName: Adafruit-Eagle-Library/adafruit/1X20
+- description: &lt;b&gt;PIN HEADER&lt;/b&gt;
 
 
 

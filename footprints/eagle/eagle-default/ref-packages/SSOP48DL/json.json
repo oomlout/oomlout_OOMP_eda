@@ -1,9 +1,9 @@
 {
-    "index": 9279,
+    "index": 36779,
     "tags": [
         {
             "name": "index",
-            "value": 9279
+            "value": 36779
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SSOP48DL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Shrink Small Outline Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

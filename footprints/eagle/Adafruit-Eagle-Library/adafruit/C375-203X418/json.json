@@ -1,9 +1,9 @@
 {
-    "index": 241,
+    "index": 27741,
     "tags": [
         {
             "name": "index",
-            "value": 241
+            "value": 27741
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C375-203X418"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 37.5 mm, outline 20.3 x 41.8 mm"
         },
         {
             "name": "oompID",

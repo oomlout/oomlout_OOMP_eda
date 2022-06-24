@@ -1,2 +1,44 @@
-
-<package name="MW-16_INFINEON"></package>
+<package name="MW-16_INFINEON" urn="urn:adsk.eagle:footprint:8085949/1">
+<description>&lt;b&gt;MW; 16 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;
+INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf</description>
+<wire x1="-3.4" y1="3.4" x2="-3.4" y2="-3.1" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-3.4" x2="3.4" y2="-3.4" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="-3.4" x2="3.4" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="3.4" x2="-3.4" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-3.4" x2="-3.4" y2="-3.1" width="0.2032" layer="21"/>
+<circle x="-2.75" y="-2.7" radius="0.2" width="0.2032" layer="21"/>
+<smd name="1" x="-2.8" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="2" x="-2" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="3" x="-1.2" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="4" x="-0.4" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="5" x="0.4" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="6" x="1.2" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="7" x="2" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="8" x="2.8" y="-4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="9" x="2.8" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="10" x="2" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="11" x="1.2" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="12" x="0.4" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="13" x="-0.4" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="14" x="-1.2" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="15" x="-2" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<smd name="16" x="-2.8" y="4.35" dx="0.5" dy="1.6" layer="1"/>
+<text x="-2.75" y="1.15" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.75" y="-1.7" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-2.175" y1="-4.5" x2="-1.825" y2="-3.475" layer="51"/>
+<rectangle x1="-1.375" y1="-4.5" x2="-1.025" y2="-3.475" layer="51"/>
+<rectangle x1="-0.575" y1="-4.5" x2="-0.225" y2="-3.475" layer="51"/>
+<rectangle x1="0.225" y1="-4.5" x2="0.575" y2="-3.475" layer="51"/>
+<rectangle x1="1.025" y1="-4.5" x2="1.375" y2="-3.475" layer="51"/>
+<rectangle x1="1.825" y1="-4.5" x2="2.175" y2="-3.475" layer="51"/>
+<rectangle x1="2.625" y1="-4.5" x2="2.975" y2="-3.475" layer="51"/>
+<rectangle x1="2.625" y1="3.475" x2="2.975" y2="4.5" layer="51"/>
+<rectangle x1="1.825" y1="3.475" x2="2.175" y2="4.5" layer="51"/>
+<rectangle x1="1.025" y1="3.475" x2="1.375" y2="4.5" layer="51"/>
+<rectangle x1="0.225" y1="3.475" x2="0.575" y2="4.5" layer="51"/>
+<rectangle x1="-0.575" y1="3.475" x2="-0.225" y2="4.5" layer="51"/>
+<rectangle x1="-1.375" y1="3.475" x2="-1.025" y2="4.5" layer="51"/>
+<rectangle x1="-2.175" y1="3.475" x2="-1.825" y2="4.5" layer="51"/>
+<rectangle x1="-2.975" y1="3.475" x2="-2.625" y2="4.5" layer="51"/>
+<rectangle x1="-2.975" y1="-4.5" x2="-2.625" y2="-3.475" layer="51"/>
+</package>

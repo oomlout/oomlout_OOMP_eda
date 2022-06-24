@@ -1,4 +1,3 @@
-
 <package name="2XAA">
 <wire x1="57.1" y1="32" x2="0" y2="32" width="0.127" layer="21"/>
 <wire x1="0" y1="32" x2="0" y2="0" width="0.127" layer="21"/>

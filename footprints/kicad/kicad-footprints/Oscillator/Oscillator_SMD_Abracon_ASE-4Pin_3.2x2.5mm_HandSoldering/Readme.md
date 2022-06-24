@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8611,
+    "index": 36111,
     "tags": [
         {
             "name": "index",
-            "value": 8611
+            "value": 36111
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MSOP8"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Micro Small Outline Package&lt;/b&gt; Grid .65mm&lt;p&gt;"
         },
         {
             "name": "oompID",

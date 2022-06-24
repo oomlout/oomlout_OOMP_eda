@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPST_Schrack-RT2-FormA_RM5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

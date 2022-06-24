@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-USB-MICROB-PTH
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

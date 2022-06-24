@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

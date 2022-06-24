@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTRIMTS63X
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: RTRIMTS63X
 - oompName: eagle-default/ref-packages/RTRIMTS63X
+- description: &lt;b&gt;Trimm resistror&lt;/b&gt; VISHAY&lt;p&gt;&#xD;
+seales container, solder immerson IP67
+
+
+
+[im]: image.png

@@ -1,9 +1,9 @@
 {
-    "index": 8344,
+    "index": 35844,
     "tags": [
         {
             "name": "index",
-            "value": 8344
+            "value": 35844
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO-214BA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;GF1&lt;/b&gt;&lt;p&gt;&#xD;\nGeneral Semiconductor"
         },
         {
             "name": "oompID",

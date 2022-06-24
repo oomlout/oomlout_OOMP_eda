@@ -1,9 +1,9 @@
 {
-    "index": 8487,
+    "index": 35987,
     "tags": [
         {
             "name": "index",
-            "value": 8487
+            "value": 35987
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/K02B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-3&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor K02B"
         },
         {
             "name": "oompID",

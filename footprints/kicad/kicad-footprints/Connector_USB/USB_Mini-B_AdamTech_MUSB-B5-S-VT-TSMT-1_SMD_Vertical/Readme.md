@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

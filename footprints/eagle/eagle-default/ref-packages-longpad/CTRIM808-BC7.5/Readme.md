@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CTRIM808-BC7.5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

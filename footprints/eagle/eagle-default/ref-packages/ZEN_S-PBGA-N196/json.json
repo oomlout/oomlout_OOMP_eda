@@ -1,9 +1,9 @@
 {
-    "index": 9582,
+    "index": 37082,
     "tags": [
         {
             "name": "index",
-            "value": 9582
+            "value": 37082
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/ZEN_S-PBGA-N196"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ZEN (S-PBGA-N196)&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://focus.ti.com/lit/ml/mpbg838/mpbg838.pdf"
         },
         {
             "name": "oompID",

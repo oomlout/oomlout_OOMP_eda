@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-EB2209A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

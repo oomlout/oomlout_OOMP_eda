@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

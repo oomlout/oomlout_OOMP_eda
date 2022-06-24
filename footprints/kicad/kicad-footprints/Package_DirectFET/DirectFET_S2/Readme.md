@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

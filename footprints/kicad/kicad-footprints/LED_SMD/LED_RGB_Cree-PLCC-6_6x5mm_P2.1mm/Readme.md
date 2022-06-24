@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CHIPLED_1206
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

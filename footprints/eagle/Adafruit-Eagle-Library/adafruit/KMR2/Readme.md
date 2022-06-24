@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-KMR2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

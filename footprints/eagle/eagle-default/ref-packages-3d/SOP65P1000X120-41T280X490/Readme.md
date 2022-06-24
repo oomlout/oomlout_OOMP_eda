@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOP65P1000X120-41T280X490
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

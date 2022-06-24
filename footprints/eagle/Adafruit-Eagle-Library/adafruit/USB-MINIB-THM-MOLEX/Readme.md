@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB-THM-MOLEX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

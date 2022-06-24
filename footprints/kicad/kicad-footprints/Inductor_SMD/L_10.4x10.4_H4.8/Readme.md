@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_10.4x10.4_H4.8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8891,
+    "index": 36391,
     "tags": [
         {
             "name": "index",
-            "value": 8891
+            "value": 36391
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SMART-LED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SmartLEDTM Hyper-Bright LED&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LA_LO_LS_LY L896.pdf"
         },
         {
             "name": "oompID",

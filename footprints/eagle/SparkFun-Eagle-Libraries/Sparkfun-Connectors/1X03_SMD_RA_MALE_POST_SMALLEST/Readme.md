@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X03_SMD_RA_MALE_POST_SMALLEST
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

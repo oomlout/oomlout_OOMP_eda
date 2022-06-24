@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-vg-F6-10M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

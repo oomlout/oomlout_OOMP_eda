@@ -1,9 +1,9 @@
 {
-    "index": 9292,
+    "index": 36792,
     "tags": [
         {
             "name": "index",
-            "value": 9292
+            "value": 36792
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TAP5-80"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ndiameter 8.0 mm, grid 5.08 mm"
         },
         {
             "name": "oompID",

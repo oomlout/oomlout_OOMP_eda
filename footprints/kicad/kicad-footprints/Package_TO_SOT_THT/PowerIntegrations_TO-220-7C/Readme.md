@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

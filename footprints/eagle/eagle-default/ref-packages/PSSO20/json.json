@@ -1,9 +1,9 @@
 {
-    "index": 8738,
+    "index": 36238,
     "tags": [
         {
             "name": "index",
-            "value": 8738
+            "value": 36238
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PSSO20"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PSSO20&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 316,
+    "index": 27816,
     "tags": [
         {
             "name": "index",
-            "value": 316
+            "value": 27816
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/E35-18"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 30.48 mm, diameter 18 mm"
         },
         {
             "name": "oompID",

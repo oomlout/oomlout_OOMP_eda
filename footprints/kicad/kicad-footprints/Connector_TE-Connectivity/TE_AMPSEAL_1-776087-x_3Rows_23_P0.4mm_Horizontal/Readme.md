@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

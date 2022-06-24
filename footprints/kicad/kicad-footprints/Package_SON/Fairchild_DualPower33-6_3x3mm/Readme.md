@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

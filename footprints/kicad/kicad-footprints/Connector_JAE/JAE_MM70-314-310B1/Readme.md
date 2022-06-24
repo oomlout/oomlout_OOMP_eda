@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

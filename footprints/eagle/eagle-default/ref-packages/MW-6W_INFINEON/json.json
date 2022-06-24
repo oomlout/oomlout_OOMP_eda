@@ -1,9 +1,9 @@
 {
-    "index": 8621,
+    "index": 36121,
     "tags": [
         {
             "name": "index",
-            "value": 8621
+            "value": 36121
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MW-6W_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MW; 6 leads&lt;/b&gt; Wafe soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com"
         },
         {
             "name": "oompID",

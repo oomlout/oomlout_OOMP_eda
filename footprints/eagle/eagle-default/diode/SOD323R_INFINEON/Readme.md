@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOD323R_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

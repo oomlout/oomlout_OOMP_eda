@@ -1,9 +1,9 @@
 {
-    "index": 277,
+    "index": 27777,
     "tags": [
         {
             "name": "index",
-            "value": 277
+            "value": 27777
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/DIL18"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Dual In Line&lt;/B&gt;&lt;p&gt;\npackage type P"
         },
         {
             "name": "oompID",

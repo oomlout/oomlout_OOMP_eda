@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

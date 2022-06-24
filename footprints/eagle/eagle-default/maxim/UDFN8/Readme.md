@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-UDFN8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

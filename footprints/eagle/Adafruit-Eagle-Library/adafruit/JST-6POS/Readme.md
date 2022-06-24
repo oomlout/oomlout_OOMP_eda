@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-6POS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

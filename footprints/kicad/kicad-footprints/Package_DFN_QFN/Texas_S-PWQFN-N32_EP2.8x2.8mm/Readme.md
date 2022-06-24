@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N32_EP2.8x2.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

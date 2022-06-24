@@ -1,9 +1,9 @@
 {
-    "index": 9275,
+    "index": 36775,
     "tags": [
         {
             "name": "index",
-            "value": 9275
+            "value": 36775
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SSOP24"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Shrink Outline Package&lt;/b&gt;&lt;p&gt;&#xD;\nSOT340-1 / JEDEC MO-150AG"
         },
         {
             "name": "oompID",

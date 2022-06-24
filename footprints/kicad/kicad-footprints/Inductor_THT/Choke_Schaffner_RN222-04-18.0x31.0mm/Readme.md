@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN222-04-18.0x31.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

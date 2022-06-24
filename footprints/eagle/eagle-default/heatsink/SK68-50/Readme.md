@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-heatsink-SK68/50
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

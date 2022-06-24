@@ -1,9 +1,9 @@
 {
-    "index": 8248,
+    "index": 35748,
     "tags": [
         {
             "name": "index",
-            "value": 8248
+            "value": 35748
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CQFP-144"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CERAMIC QUAD FLAT PACK&lt;/b&gt;&lt;p&gt;&#xD;\nmistake in IPC book&lt;p&gt;&#xD;\ndesigned according to MQFP-144/Siemens"
         },
         {
             "name": "oompID",

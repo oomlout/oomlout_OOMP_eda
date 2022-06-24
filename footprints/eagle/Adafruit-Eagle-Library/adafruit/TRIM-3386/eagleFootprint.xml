@@ -1,4 +1,3 @@
-
 <package name="TRIM-3386">
 <pad name="2" x="0" y="-2.8575" drill="0.9" diameter="1.778"/>
 <pad name="1" x="-2.54" y="-2.8575" drill="0.9" diameter="1.778"/>

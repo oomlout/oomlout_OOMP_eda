@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-tyco-D1200D-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

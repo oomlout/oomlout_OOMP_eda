@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-CK102X06
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

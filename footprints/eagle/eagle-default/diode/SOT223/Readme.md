@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOT223
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

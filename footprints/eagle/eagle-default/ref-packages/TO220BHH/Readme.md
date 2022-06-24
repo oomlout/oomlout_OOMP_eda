@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO220BHH
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO220BHH
 - oompName: eagle-default/ref-packages/TO220BHH
+- description: &lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;&#xD;
+grid 2.54 - 5.08 mm
+
+
+
+[im]: image.png

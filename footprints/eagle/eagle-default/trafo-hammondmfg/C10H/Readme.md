@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-hammondmfg-C10H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

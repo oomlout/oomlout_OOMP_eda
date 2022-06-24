@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

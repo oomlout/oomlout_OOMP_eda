@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-pc-AGP-SLOT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

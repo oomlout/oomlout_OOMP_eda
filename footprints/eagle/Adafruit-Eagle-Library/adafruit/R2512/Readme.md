@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R2512
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: R2512
 - oompName: Adafruit-Eagle-Library/adafruit/R2512
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
+chip
 
 
 

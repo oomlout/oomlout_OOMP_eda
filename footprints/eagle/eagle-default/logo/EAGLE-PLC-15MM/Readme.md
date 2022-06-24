@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-logo-EAGLE-PLC-15MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

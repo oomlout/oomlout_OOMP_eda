@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD637_H5.23mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

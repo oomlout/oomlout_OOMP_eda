@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fox_FT5H_5.0x3.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0970_1x09-1MP_P1.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

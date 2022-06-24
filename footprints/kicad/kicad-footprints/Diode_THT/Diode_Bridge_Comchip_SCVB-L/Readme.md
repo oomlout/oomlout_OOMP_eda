@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

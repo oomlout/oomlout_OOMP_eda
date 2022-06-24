@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-am29-memory-PLCC32R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

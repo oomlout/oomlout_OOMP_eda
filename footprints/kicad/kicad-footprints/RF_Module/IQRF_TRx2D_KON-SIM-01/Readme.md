@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-IQRF_TRx2D_KON-SIM-01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

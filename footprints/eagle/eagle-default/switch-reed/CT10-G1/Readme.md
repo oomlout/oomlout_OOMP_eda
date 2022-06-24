@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-reed-CT10-G1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

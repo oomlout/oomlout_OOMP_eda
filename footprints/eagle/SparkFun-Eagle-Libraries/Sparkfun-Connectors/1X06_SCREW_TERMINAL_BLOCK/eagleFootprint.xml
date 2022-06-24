@@ -1,4 +1,3 @@
-
 <package name="1X06_SCREW_TERMINAL_BLOCK">
 <wire x1="-10.4" y1="-4.85" x2="10.4" y2="-4.85" width="0.2032" layer="51"/>
 <wire x1="10.4" y1="-4.85" x2="10.4" y2="6.05" width="0.2032" layer="51"/>

@@ -1,9 +1,9 @@
 {
-    "index": 14275,
+    "index": 41775,
     "tags": [
         {
             "name": "index",
-            "value": 14275
+            "value": 41775
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/PSP_CONNECTOR"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ZIF PSP Connector&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 42 &lt;/li&gt;\n&lt;li&gt;Pin pitch:0.5mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/LCD/PSP-Connector.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;PSP_CONNECTOR&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-UQFN28_4X4MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

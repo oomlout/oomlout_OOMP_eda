@@ -1,9 +1,9 @@
 {
-    "index": 8709,
+    "index": 36209,
     "tags": [
         {
             "name": "index",
-            "value": 8709
+            "value": 36209
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PLCC84S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLCC 84 socked&lt;/b&gt;"
         },
         {
             "name": "oompID",

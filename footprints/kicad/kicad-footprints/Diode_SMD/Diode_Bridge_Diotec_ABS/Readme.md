@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_ABS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

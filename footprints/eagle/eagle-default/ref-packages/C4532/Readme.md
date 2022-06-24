@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-C4532
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: C4532
 - oompName: eagle-default/ref-packages/C4532
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;
+
+
+
+[im]: image.png

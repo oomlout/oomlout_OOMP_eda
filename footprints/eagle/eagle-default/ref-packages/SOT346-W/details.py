@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SOT346-W")
 newPart.addTag("oompName", "eagle-default/ref-packages/SOT346-W")
 
+newPart.addTag("description", """&lt;b&gt;SOT346 Wave soldering&lt;/b&gt; (SC59) Philips SC01_Mounting_1996.pdf""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SOT346-W",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SOT346-W')
 
 OOMP.parts.append(newPart)

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

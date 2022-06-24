@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-19inch-VG64KB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

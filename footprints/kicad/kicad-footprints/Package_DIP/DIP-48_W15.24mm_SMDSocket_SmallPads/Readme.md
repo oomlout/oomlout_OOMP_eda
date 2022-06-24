@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm_SMDSocket_SmallPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

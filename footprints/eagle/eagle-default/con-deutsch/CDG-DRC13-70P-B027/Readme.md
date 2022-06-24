@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-deutsch-CDG-DRC13-70P-B027
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

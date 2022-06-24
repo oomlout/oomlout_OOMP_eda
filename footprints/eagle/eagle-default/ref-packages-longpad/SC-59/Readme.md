@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SC-59
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

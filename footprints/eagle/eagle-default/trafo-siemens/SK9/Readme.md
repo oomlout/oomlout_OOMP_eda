@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-SK9
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

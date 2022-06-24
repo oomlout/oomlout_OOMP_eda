@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

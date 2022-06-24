@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-TQFP52
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

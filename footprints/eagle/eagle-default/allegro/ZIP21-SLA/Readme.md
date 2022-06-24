@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-ZIP21-SLA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA-SMB_Universal_Handsoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

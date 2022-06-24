@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-triac-TO220AB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Female_Vertical_P2.77x2.84mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_573300D00010G_TO-263
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

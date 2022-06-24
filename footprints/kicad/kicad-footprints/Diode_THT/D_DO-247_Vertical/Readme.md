@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

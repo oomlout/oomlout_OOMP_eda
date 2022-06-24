@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_DIP-4_W7.62mm_P5.08mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

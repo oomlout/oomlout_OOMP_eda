@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_CopperTop
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

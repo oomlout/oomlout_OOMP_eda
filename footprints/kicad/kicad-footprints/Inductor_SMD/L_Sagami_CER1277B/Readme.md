@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

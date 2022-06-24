@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

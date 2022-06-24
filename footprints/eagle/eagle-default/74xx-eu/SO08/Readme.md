@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74xx-eu-SO08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

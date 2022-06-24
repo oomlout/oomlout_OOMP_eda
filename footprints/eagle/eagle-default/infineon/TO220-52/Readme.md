@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-TO220-52
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

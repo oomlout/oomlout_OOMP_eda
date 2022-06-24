@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-SC74_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

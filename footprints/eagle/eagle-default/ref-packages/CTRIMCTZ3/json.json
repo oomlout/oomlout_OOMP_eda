@@ -1,9 +1,9 @@
 {
-    "index": 8278,
+    "index": 35778,
     "tags": [
         {
             "name": "index",
-            "value": 8278
+            "value": 35778
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CTRIMCTZ3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor&lt;/b&gt; AVX"
         },
         {
             "name": "oompID",

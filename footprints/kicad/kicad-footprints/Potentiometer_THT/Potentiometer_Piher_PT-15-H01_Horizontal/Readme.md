@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-15-H01_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

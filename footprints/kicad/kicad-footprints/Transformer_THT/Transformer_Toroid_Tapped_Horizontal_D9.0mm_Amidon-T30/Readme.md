@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

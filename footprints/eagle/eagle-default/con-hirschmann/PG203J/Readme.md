@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-PG203J
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

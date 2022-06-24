@@ -1,9 +1,9 @@
 {
-    "index": 8191,
+    "index": 35691,
     "tags": [
         {
             "name": "index",
-            "value": 8191
+            "value": 35691
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C221B1A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n2-lead molded, vertical"
         },
         {
             "name": "oompID",

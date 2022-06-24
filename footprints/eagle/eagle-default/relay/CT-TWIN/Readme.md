@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-CT-TWIN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 563,
+    "index": 28063,
     "tags": [
         {
             "name": "index",
-            "value": 563
+            "value": 28063
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/STX3100"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MIC/HEADPHONE JACK&lt;/b&gt;&lt;p&gt;\nKS-S stereo microphone/headphone jack&lt;p&gt;\n PG203JN (Schukat)"
         },
         {
             "name": "oompID",

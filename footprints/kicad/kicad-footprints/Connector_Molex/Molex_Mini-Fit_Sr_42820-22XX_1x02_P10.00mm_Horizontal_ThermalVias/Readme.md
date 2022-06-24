@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_42820-22XX_1x02_P10.00mm_Horizontal_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

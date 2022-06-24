@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SC79_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

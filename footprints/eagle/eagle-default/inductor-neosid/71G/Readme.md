@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-71G
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

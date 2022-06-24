@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

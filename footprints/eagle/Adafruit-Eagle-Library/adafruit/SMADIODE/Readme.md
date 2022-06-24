@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMADIODE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: SMADIODE
 - oompName: Adafruit-Eagle-Library/adafruit/SMADIODE
+- description: &lt;b&gt;SMA Surface Mount Diode&lt;/b&gt;
 
 
 

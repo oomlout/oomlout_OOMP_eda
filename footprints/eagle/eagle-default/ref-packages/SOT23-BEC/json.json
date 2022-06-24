@@ -1,9 +1,9 @@
 {
-    "index": 9085,
+    "index": 36585,
     "tags": [
         {
             "name": "index",
-            "value": 9085
+            "value": 36585
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT23-BEC"
+        },
+        {
+            "name": "description",
+            "value": "TO-236 ITT Intermetall"
         },
         {
             "name": "oompID",

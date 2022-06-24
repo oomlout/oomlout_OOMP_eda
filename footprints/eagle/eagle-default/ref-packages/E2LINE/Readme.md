@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-E2LINE
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: E2LINE
 - oompName: eagle-default/ref-packages/E2LINE
+- description: &lt;b&gt;2 lead Package&lt;/b&gt;
+
+
+
+[im]: image.png

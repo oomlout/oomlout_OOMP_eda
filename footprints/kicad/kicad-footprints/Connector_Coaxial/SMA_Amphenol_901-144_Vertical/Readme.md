@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_901-144_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

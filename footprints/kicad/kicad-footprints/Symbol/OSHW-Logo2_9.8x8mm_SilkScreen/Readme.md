@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_9.8x8mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

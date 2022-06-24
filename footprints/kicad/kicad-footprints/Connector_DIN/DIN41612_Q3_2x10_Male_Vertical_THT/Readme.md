@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_Q3_2x10_Male_Vertical_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

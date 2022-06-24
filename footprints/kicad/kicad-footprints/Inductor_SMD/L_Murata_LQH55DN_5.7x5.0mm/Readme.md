@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

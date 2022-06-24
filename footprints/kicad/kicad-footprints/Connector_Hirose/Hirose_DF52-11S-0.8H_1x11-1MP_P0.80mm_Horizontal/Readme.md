@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-11S-0.8H_1x11-1MP_P0.80mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

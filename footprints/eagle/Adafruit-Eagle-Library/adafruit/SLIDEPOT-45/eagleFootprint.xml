@@ -1,4 +1,3 @@
-
 <package name="SLIDEPOT-45">
 <wire x1="-22.5" y1="4.5" x2="22.5" y2="4.5" width="0.127" layer="21"/>
 <wire x1="22.5" y1="4.5" x2="22.5" y2="-4.5" width="0.127" layer="21"/>

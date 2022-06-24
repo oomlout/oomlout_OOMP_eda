@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-BL02RN2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

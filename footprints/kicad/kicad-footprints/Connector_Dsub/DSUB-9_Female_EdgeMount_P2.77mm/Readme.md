@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-9_Female_EdgeMount_P2.77mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

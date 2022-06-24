@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-49_3x3mm_Layout7x7_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

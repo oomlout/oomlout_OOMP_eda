@@ -1,9 +1,9 @@
 {
-    "index": 454,
+    "index": 27954,
     "tags": [
         {
             "name": "index",
-            "value": 454
+            "value": 27954
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/P128-60"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;"
         },
         {
             "name": "oompID",

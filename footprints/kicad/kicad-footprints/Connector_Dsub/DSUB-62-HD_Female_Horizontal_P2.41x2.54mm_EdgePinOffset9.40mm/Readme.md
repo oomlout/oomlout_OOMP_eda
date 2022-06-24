@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

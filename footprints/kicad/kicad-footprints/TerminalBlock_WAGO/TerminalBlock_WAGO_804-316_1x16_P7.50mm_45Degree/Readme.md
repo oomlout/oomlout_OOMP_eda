@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

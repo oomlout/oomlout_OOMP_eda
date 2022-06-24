@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-coax-LTI-SASF54GT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

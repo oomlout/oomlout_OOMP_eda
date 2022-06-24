@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TT2D4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

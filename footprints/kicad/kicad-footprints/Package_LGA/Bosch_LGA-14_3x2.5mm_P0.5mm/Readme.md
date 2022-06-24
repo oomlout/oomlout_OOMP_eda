@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-14_3x2.5mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

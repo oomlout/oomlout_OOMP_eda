@@ -1,9 +1,9 @@
 {
-    "index": 9082,
+    "index": 36582,
     "tags": [
         {
             "name": "index",
-            "value": 9082
+            "value": 36582
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT23-6"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor&lt;/b&gt;"
         },
         {
             "name": "oompID",

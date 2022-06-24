@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-SOD70
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

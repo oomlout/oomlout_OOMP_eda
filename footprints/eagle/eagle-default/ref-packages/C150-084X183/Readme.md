@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-C150-084X183
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: C150-084X183
 - oompName: eagle-default/ref-packages/C150-084X183
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;
+grid 15 mm, outline 8.4 x 18.3 mm
+
+
+
+[im]: image.png

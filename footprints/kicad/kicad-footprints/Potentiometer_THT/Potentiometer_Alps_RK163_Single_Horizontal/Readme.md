@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK163_Single_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

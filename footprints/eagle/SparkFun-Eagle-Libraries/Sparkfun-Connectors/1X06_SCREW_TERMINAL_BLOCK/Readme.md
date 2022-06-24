@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_SCREW_TERMINAL_BLOCK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

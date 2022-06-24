@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-TO18D
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

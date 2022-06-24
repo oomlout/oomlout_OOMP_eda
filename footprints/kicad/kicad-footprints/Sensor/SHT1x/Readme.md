@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

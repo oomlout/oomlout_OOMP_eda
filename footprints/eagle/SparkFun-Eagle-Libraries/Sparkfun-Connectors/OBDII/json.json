@@ -1,9 +1,9 @@
 {
-    "index": 14262,
+    "index": 41762,
     "tags": [
         {
             "name": "index",
-            "value": 14262
+            "value": 41762
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/OBDII"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;OBD-II Automotive Connector&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 16&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.15&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;OBD-II&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

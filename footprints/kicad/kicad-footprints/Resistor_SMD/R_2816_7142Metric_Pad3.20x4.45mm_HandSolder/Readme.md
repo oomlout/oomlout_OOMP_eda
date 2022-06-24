@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

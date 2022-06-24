@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Senseair_S8_Down
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

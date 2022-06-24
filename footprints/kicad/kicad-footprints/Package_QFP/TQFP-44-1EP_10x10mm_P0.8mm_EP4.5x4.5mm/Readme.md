@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

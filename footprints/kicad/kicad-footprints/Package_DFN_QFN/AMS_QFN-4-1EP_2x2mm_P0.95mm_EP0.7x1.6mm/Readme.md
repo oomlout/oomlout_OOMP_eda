@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

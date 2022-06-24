@@ -1,9 +1,9 @@
 {
-    "index": 398,
+    "index": 27898,
     "tags": [
         {
             "name": "index",
-            "value": 398
+            "value": 27898
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/LCC20"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Leadless Chip Carrier&lt;/b&gt;&lt;p&gt; Ceramic Package"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-discrete-PAD-01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

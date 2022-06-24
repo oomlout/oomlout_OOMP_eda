@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-pc104-PC104-PLUS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

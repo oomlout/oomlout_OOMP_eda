@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-BP103
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

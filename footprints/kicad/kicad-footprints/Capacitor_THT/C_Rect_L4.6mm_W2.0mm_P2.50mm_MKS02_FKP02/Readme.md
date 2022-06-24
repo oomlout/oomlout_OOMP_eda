@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

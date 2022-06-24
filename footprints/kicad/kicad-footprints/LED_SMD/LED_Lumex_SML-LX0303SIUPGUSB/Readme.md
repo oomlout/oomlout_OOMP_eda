@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0303SIUPGUSB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

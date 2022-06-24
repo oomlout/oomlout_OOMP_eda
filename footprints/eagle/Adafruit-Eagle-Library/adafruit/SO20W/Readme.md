@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO20W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: SO20W
 - oompName: Adafruit-Eagle-Library/adafruit/SO20W
+- description: &lt;b&gt;Wide Small Outline package&lt;/b&gt; 300 mil
 
 
 

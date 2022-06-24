@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

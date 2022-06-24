@@ -1,9 +1,9 @@
 {
-    "index": 574,
+    "index": 28074,
     "tags": [
         {
             "name": "index",
-            "value": 574
+            "value": 28074
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TC38H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CRYSTAL&lt;/b&gt;"
         },
         {
             "name": "oompID",

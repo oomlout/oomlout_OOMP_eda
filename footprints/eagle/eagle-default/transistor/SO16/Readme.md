@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-SO16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

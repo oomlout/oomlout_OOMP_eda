@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-SO-28W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

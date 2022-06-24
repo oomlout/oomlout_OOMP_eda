@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_CSP_Samsung_LH181B_2.36x2.36mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

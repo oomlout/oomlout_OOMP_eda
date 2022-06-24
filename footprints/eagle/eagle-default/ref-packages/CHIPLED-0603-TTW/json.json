@@ -1,9 +1,9 @@
 {
-    "index": 8237,
+    "index": 35737,
     "tags": [
         {
             "name": "index",
-            "value": 8237
+            "value": 35737
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CHIPLED-0603-TTW"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CHIPLED-0603&lt;/b&gt;&lt;p&gt;&#xD;\nRecommended Solder Pad useable for SmartLEDTM and Chipled - Package 0603&lt;br&gt;&#xD;\nPackage able to withstand TTW-soldering heat&lt;br&gt;&#xD;\nPackage suitable for TTW-soldering&lt;br&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LO_LS_LY L89K.pdf"
         },
         {
             "name": "oompID",

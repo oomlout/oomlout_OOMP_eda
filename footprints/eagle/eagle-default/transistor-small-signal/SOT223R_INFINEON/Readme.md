@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT223R_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

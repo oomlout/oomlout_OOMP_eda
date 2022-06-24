@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-SL-340/B3.6V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

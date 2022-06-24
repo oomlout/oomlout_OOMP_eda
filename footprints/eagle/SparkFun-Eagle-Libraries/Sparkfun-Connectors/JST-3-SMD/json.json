@@ -1,9 +1,9 @@
 {
-    "index": 14223,
+    "index": 41723,
     "tags": [
         {
             "name": "index",
-            "value": 14223
+            "value": 41723
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST-3-SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;JST 3 Pin Right Angle SMT&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:3&lt;/li&gt;\n&lt;li&gt;Pin pitch:2mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_03&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

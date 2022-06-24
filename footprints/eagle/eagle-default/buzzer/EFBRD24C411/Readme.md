@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-EFBRD24C411
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

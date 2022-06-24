@@ -1,9 +1,9 @@
 {
-    "index": 8739,
+    "index": 36239,
     "tags": [
         {
             "name": "index",
-            "value": 8739
+            "value": 36239
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/Q5-DD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Q5-DD&lt;/b&gt;"
         },
         {
             "name": "oompID",

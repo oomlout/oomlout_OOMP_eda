@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R6332
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

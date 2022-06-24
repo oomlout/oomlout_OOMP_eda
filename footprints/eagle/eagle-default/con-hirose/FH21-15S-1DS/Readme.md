@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirose-FH21-15S-1DS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

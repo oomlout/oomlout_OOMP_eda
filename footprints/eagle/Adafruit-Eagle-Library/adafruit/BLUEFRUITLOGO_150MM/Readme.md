@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BLUEFRUITLOGO_150MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

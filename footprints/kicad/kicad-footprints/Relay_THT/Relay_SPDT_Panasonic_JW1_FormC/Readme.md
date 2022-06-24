@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Panasonic_JW1_FormC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

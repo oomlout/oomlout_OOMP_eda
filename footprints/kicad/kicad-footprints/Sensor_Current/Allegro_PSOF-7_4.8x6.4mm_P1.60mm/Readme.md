@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

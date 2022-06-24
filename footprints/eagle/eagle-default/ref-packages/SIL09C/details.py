@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SIL09C")
 newPart.addTag("oompName", "eagle-default/ref-packages/SIL09C")
 
+newPart.addTag("description", """8 &lt;B&gt;DIODES&lt;/B&gt;&lt;p&gt;&#xD;
+single in line 8 diodes with common cathode""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SIL09C",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SIL09C')
 
 OOMP.parts.append(newPart)

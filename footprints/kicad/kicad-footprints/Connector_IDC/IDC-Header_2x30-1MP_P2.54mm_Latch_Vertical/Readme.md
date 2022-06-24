@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x30-1MP_P2.54mm_Latch_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

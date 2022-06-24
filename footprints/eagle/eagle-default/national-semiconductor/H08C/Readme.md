@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-H08C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

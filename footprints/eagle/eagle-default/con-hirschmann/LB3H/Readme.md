@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-LB3H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

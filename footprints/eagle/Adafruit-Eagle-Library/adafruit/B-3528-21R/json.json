@@ -1,9 +1,9 @@
 {
-    "index": 151,
+    "index": 27651,
     "tags": [
         {
             "name": "index",
-            "value": 151
+            "value": 27651
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/B/3528-21R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET B / EIA 3528-21 Reflow solder&lt;/b&gt;&lt;p&gt;\nKEMET T / EIA 3528-12"
         },
         {
             "name": "oompID",

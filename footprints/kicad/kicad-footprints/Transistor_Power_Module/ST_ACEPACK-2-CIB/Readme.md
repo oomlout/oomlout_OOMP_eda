@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_ACEPACK-2-CIB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

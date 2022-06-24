@@ -1,9 +1,9 @@
 {
-    "index": 8608,
+    "index": 36108,
     "tags": [
         {
             "name": "index",
-            "value": 8608
+            "value": 36108
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MQUAD160"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metal Quad Flat Pack&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-201-F_13.66x12.70mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

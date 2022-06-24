@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1mm_Mask3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

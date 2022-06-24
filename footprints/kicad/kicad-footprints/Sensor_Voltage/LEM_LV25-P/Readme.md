@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Voltage-LEM_LV25-P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

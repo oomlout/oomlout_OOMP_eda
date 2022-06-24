@@ -1,9 +1,9 @@
 {
-    "index": 14087,
+    "index": 41587,
     "tags": [
         {
             "name": "index",
-            "value": 14087
+            "value": 41587
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole -16 Pin Locking Footprint w/ Long Pads&lt;/h3&gt;\nHoles are offset 0.005&quot; to hold pins in place while soldering.\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:16&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_16&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

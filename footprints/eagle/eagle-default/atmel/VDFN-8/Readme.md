@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-VDFN-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

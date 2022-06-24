@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

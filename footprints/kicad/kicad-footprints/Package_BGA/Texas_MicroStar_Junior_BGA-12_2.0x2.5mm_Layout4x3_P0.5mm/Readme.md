@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

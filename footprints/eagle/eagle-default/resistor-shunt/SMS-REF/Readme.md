@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMS-REF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

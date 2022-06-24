@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D3.0mm_W1.6mm_P2.50mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

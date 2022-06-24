@@ -1,9 +1,9 @@
 {
-    "index": 8186,
+    "index": 35686,
     "tags": [
         {
             "name": "index",
-            "value": 8186
+            "value": 35686
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C1825K"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 1825 Reflow solder&lt;/b&gt;&lt;p&gt;&#xD;\nMetric Code Size 4564"
         },
         {
             "name": "oompID",

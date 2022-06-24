@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_Inline_W4.0mm_Horizontal_FlatSideDown
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

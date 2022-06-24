@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Hirose_U.FL-R-SMT-1_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

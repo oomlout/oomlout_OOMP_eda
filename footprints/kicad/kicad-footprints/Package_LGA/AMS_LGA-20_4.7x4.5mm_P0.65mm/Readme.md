@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

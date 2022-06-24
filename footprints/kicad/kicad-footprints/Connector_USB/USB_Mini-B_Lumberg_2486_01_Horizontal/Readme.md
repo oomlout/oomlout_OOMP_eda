@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

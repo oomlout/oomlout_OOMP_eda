@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-30VA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

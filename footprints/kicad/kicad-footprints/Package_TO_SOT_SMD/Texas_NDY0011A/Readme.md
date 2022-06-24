@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_NDY0011A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

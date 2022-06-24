@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_Slim_202656-0021_1x02-1MP_P1.20mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

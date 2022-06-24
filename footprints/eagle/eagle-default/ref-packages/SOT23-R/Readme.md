@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT23-R
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOT23-R
 - oompName: eagle-default/ref-packages/SOT23-R
+- description: &lt;b&gt;SOT323 Reflow soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf
+
+
+
+[im]: image.png

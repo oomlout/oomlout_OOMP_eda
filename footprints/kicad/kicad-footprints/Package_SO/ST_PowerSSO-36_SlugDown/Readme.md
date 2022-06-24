@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugDown
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

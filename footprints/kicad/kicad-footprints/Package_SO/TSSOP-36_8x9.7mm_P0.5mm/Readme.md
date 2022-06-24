@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-36_8x9.7mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

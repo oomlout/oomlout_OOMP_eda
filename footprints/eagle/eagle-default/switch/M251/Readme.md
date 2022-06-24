@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-M251
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

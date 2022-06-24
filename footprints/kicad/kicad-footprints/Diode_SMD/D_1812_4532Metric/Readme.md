@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1812_4532Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

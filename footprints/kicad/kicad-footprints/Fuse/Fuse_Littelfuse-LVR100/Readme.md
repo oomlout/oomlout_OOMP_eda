@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-LVR100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

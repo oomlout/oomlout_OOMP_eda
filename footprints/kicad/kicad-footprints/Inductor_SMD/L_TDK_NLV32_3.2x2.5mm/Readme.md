@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV32_3.2x2.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

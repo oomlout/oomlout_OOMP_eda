@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-LCC-24
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: LCC-24
 - oompName: eagle-default/ref-packages/LCC-24
+- description: &lt;b&gt;LEADLESS CERAMIC CHIP CARRIER&lt;/b&gt;
+
+
+
+[im]: image.png

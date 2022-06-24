@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-TQFN24-EP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

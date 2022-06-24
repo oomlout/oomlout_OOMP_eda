@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_LA25-P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

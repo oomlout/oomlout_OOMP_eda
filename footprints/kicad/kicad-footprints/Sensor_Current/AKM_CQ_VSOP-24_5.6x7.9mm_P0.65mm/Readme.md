@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

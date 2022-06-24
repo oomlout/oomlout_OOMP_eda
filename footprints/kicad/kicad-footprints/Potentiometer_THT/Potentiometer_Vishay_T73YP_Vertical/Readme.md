@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T73YP_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

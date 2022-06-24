@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X40-0.5MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

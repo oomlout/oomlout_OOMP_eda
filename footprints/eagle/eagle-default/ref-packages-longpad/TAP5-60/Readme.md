@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TAP5-60
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

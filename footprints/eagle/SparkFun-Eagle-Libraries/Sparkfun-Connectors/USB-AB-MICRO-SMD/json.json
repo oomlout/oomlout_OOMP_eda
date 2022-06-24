@@ -1,9 +1,9 @@
 {
-    "index": 14328,
+    "index": 41828,
     "tags": [
         {
             "name": "index",
-            "value": 14328
+            "value": 41828
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB-AB-MICRO-SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Type AB - SMT&lt;/h3&gt;\n&lt;br&gt; Basic silk outline&lt;/br&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:5 main, 3 shield&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint: http://www.morethanall.com//upload/products_pdf/87340574052ba5151280ca.pdf&lt;/b&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;USB AB&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

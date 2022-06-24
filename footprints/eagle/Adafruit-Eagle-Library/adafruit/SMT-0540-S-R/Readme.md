@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMT-0540-S-R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

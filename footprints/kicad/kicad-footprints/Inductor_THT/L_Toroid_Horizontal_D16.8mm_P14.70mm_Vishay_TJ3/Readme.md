@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Wuerth_7499151120_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

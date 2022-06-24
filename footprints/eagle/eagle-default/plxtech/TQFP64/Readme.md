@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-plxtech-TQFP64
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

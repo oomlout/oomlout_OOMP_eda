@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pot-SM-42/43A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

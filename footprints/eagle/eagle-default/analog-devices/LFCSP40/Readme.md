@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-LFCSP40
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

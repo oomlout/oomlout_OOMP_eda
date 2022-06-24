@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-363_SC-70-6_Handsoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

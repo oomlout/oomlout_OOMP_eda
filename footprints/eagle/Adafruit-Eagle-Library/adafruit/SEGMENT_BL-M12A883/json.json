@@ -1,9 +1,9 @@
 {
-    "index": 515,
+    "index": 28015,
     "tags": [
         {
             "name": "index",
-            "value": 515
+            "value": 28015
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SEGMENT_BL-M12A883"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Source:&lt;/b&gt; http://www.betlux.com/product/LED_dot_matrix/BL-M12A883.PDF"
         },
         {
             "name": "oompID",

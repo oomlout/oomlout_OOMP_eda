@@ -1,9 +1,9 @@
 {
-    "index": 499,
+    "index": 27999,
     "tags": [
         {
             "name": "index",
-            "value": 499
+            "value": 27999
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R3225W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

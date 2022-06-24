@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ALTOIDSTIN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

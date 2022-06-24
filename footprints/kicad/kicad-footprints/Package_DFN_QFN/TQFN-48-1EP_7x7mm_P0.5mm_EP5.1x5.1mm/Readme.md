@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

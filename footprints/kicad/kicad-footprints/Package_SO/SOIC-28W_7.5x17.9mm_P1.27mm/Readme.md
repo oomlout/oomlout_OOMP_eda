@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-28W_7.5x17.9mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

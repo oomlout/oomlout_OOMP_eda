@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-DBT_R-PDSO-G38
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

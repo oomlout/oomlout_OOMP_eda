@@ -1,9 +1,9 @@
 {
-    "index": 8103,
+    "index": 35603,
     "tags": [
         {
             "name": "index",
-            "value": 8103
+            "value": 35603
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/2QSP14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;BOURNS RESISTOR NETWORK&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-VR04,5-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

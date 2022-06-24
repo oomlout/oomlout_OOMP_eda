@@ -1,9 +1,9 @@
 {
-    "index": 9547,
+    "index": 37047,
     "tags": [
         {
             "name": "index",
-            "value": 9547
+            "value": 37047
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/V234/12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;\ntype V234, grid 12.5 mm"
         },
         {
             "name": "oompID",

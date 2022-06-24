@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL8-SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

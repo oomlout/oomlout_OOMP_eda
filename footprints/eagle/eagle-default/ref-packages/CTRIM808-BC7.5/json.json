@@ -1,9 +1,9 @@
 {
-    "index": 8276,
+    "index": 35776,
     "tags": [
         {
             "name": "index",
-            "value": 8276
+            "value": 35776
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CTRIM808-BC7.5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor &lt;/b&gt; BC-Components"
         },
         {
             "name": "oompID",

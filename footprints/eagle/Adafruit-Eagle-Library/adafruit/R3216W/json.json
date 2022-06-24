@@ -1,9 +1,9 @@
 {
-    "index": 497,
+    "index": 27997,
     "tags": [
         {
             "name": "index",
-            "value": 497
+            "value": 27997
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R3216W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

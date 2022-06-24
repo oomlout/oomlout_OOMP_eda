@@ -1,9 +1,9 @@
 {
-    "index": 8740,
+    "index": 36240,
     "tags": [
         {
             "name": "index",
-            "value": 8740
+            "value": 36240
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFN40-7X7"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFN40 7*7*0.9 0.5 P&lt;/b&gt; CASE 488AG?01 ISSUE O&lt;p&gt;&#xD;\nSource: http://www.onsemi.com/pub_link/Collateral/488AG.PDF"
         },
         {
             "name": "oompID",

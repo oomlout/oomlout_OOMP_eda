@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-panduit-057-010-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

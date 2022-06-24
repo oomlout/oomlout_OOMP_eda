@@ -1,4 +1,3 @@
-
 <package name="B3F-31XX-SKINNIER">
 <wire x1="3.683" y1="2.667" x2="3.683" y2="0" width="0.1524" layer="51"/>
 <wire x1="3.683" y1="0" x2="3.683" y2="-3.556" width="0.1524" layer="21"/>

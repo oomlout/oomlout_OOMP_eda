@@ -1,9 +1,9 @@
 {
-    "index": 8763,
+    "index": 36263,
     "tags": [
         {
             "name": "index",
-            "value": 8763
+            "value": 36263
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFP80R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Quad Flat Pack Package&lt;/b&gt; 80 Pin Rectangle"
         },
         {
             "name": "oompID",

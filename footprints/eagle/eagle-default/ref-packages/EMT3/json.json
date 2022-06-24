@@ -1,9 +1,9 @@
 {
-    "index": 8437,
+    "index": 35937,
     "tags": [
         {
             "name": "index",
-            "value": 8437
+            "value": 35937
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/EMT3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ROHM : EMT3 ; EIAJ : SC-75A&lt;p&gt;&#xD;\n2SC4726.pdf"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

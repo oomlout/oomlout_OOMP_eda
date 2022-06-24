@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P1400X1400X120-101T200
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

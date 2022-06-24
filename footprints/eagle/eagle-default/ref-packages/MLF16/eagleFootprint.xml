@@ -1,2 +1,46 @@
-
-<package name="MLF16"></package>
+<package name="MLF16" urn="urn:adsk.eagle:footprint:8083204/1">
+<description>&lt;b&gt;HP-VFQFP-N16&lt;/b&gt; Micro Lead Frame package (MLF)</description>
+<wire x1="-1.875" y1="1.55" x2="-1.55" y2="1.875" width="0.254" layer="21"/>
+<wire x1="-1.55" y1="1.875" x2="1.55" y2="1.875" width="0.254" layer="51"/>
+<wire x1="1.55" y1="-1.875" x2="-1.55" y2="-1.875" width="0.254" layer="51"/>
+<wire x1="-1.55" y1="-1.875" x2="-1.875" y2="-1.55" width="0.254" layer="21"/>
+<wire x1="-1.875" y1="-1.55" x2="-1.875" y2="1.55" width="0.254" layer="51"/>
+<wire x1="1.875" y1="1.55" x2="1.875" y2="-1.55" width="0.254" layer="51"/>
+<wire x1="1.55" y1="1.875" x2="1.875" y2="1.55" width="0.254" layer="21"/>
+<wire x1="1.875" y1="-1.55" x2="1.55" y2="-1.875" width="0.254" layer="21"/>
+<circle x="-0.9" y="0.9" radius="0.2236" width="0.254" layer="21"/>
+<smd name="1" x="-1.75" y="0.975" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="2" x="-1.75" y="0.325" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="3" x="-1.75" y="-0.325" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="4" x="-1.75" y="-0.975" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="5" x="-0.975" y="-1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="6" x="-0.325" y="-1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="7" x="0.325" y="-1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="8" x="0.975" y="-1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="9" x="1.75" y="-0.975" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="10" x="1.75" y="-0.325" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="11" x="1.75" y="0.325" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="12" x="1.75" y="0.975" dx="0.9" dy="0.35" layer="1" roundness="50"/>
+<smd name="13" x="0.975" y="1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="14" x="0.325" y="1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="15" x="-0.325" y="1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<smd name="16" x="-0.975" y="1.75" dx="0.35" dy="0.9" layer="1" roundness="50"/>
+<text x="-2.29" y="2.175" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.29" y="-3.445" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.85" y1="0.825" x2="-1.4" y2="1.125" layer="51"/>
+<rectangle x1="-1.85" y1="0.175" x2="-1.4" y2="0.475" layer="51"/>
+<rectangle x1="-1.85" y1="-0.475" x2="-1.4" y2="-0.175" layer="51"/>
+<rectangle x1="-1.85" y1="-1.125" x2="-1.4" y2="-0.825" layer="51"/>
+<rectangle x1="-1.125" y1="-1.85" x2="-0.825" y2="-1.4" layer="51"/>
+<rectangle x1="-0.475" y1="-1.85" x2="-0.175" y2="-1.4" layer="51"/>
+<rectangle x1="0.175" y1="-1.85" x2="0.475" y2="-1.4" layer="51"/>
+<rectangle x1="0.825" y1="-1.85" x2="1.125" y2="-1.4" layer="51"/>
+<rectangle x1="1.4" y1="-1.125" x2="1.85" y2="-0.825" layer="51"/>
+<rectangle x1="1.4" y1="-0.475" x2="1.85" y2="-0.175" layer="51"/>
+<rectangle x1="1.4" y1="0.175" x2="1.85" y2="0.475" layer="51"/>
+<rectangle x1="1.4" y1="0.825" x2="1.85" y2="1.125" layer="51"/>
+<rectangle x1="0.825" y1="1.4" x2="1.125" y2="1.85" layer="51"/>
+<rectangle x1="0.175" y1="1.4" x2="0.475" y2="1.85" layer="51"/>
+<rectangle x1="-0.475" y1="1.4" x2="-0.175" y2="1.85" layer="51"/>
+<rectangle x1="-1.125" y1="1.4" x2="-0.825" y2="1.85" layer="51"/>
+</package>

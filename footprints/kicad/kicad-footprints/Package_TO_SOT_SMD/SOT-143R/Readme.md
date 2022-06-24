@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

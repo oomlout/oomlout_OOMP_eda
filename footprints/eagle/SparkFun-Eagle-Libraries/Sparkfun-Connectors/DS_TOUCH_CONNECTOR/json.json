@@ -1,9 +1,9 @@
 {
-    "index": 14201,
+    "index": 41701,
     "tags": [
         {
             "name": "index",
-            "value": 14201
+            "value": 41701
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/DS_TOUCH_CONNECTOR"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;4-pin DS touch screen connector&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/LCD/PSPTouchConnector.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;DS_TOUCH_CONNECTOR&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

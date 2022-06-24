@@ -1,9 +1,9 @@
 {
-    "index": 8808,
+    "index": 36308,
     "tags": [
         {
             "name": "index",
-            "value": 8808
+            "value": 36308
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM3059Y"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;&#xD;\nwaschfest MIL-R-22097"
         },
         {
             "name": "oompID",

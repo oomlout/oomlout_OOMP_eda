@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC51_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

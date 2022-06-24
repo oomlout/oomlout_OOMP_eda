@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM02B-SURS-TF_1x02-1MP_P0.80mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8841,
+    "index": 36341,
     "tags": [
         {
             "name": "index",
-            "value": 8841
+            "value": 36341
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIMT93XB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; VISHAY&lt;p&gt;&#xD;\nCermet, abgedichtet nach IP67"
         },
         {
             "name": "oompID",

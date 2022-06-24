@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_CUI_CPT-9019S-SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

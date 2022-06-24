@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_34.51_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

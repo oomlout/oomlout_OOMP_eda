@@ -1,9 +1,9 @@
 {
-    "index": 14205,
+    "index": 41705,
     "tags": [
         {
             "name": "index",
-            "value": 14205
+            "value": 41705
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/FPC05024-42201"
+        },
+        {
+            "name": "description",
+            "value": "24 Pin FPC 0.5mm with contacts both sides."
         },
         {
             "name": "oompID",

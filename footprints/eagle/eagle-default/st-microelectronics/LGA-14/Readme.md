@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LGA-14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

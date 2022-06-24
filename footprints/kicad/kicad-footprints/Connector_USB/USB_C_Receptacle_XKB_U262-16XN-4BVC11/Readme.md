@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_XKB_U262-16XN-4BVC11
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

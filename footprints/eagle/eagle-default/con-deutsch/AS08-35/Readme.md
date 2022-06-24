@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-deutsch-AS08-35
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

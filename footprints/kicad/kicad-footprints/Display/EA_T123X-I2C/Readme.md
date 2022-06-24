@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

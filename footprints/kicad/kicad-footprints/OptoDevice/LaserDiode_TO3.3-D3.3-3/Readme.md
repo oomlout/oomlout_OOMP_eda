@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO3.3-D3.3-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-2_Horizontal_TabDown
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

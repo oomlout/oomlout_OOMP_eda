@@ -1,9 +1,9 @@
 {
-    "index": 14177,
+    "index": 41677,
     "tags": [
         {
             "name": "index",
-            "value": 14177
+            "value": 41677
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/AUDIO-JACK-3.5MM-SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;3.5mm Stereo Audio Jack - Surface Mount&lt;/h3&gt;\n2.5mm Height. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:5&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.4uconnector.com/online/object/4udrawing/19269.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;Audio_Jack&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

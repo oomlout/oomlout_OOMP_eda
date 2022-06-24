@@ -1,9 +1,9 @@
 {
-    "index": 8183,
+    "index": 35683,
     "tags": [
         {
             "name": "index",
-            "value": 8183
+            "value": 35683
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C1812"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 1812 Reflow solder&lt;/b&gt;&lt;p&gt;&#xD;\nMetric Code Size 4532"
         },
         {
             "name": "oompID",

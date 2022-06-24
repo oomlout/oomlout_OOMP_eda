@@ -1,9 +1,9 @@
 {
-    "index": 8555,
+    "index": 36055,
     "tags": [
         {
             "name": "index",
-            "value": 8555
+            "value": 36055
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MICROSOIC10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;10-Lead microSOIC&lt;/b&gt;&lt;p&gt;&#xD;\n(RM-10) 10-SOIC"
         },
         {
             "name": "oompID",

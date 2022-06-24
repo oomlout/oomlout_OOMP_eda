@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-Toshiba_11-7A9
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

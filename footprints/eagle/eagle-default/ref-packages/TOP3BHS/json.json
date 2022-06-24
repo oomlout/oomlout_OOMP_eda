@@ -1,9 +1,9 @@
 {
-    "index": 9462,
+    "index": 36962,
     "tags": [
         {
             "name": "index",
-            "value": 9462
+            "value": 36962
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TOP3BHS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 5.45 mm"
         },
         {
             "name": "oompID",

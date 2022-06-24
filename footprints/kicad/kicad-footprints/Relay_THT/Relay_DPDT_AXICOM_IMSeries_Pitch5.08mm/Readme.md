@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

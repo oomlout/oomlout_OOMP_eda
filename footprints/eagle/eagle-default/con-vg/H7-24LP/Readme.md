@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-vg-H7/24LP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

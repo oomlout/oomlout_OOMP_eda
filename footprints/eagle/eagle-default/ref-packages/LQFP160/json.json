@@ -1,9 +1,9 @@
 {
-    "index": 8536,
+    "index": 36036,
     "tags": [
         {
             "name": "index",
-            "value": 8536
+            "value": 36036
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/LQFP160"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Low-Profile Quad Flat Pack&lt;/b&gt; LQFP 160&lt;p&gt;&#xD;\nCASE 1259-01"
         },
         {
             "name": "oompID",

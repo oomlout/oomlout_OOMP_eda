@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN50P700X700X100-49T565
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

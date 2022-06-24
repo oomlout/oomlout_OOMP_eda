@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-F/KMB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

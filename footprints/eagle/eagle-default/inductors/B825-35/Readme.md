@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-B825-35
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

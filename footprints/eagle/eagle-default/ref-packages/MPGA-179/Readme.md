@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-MPGA-179
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: MPGA-179
 - oompName: eagle-default/ref-packages/MPGA-179
+- description: &lt;b&gt;Micro Pin Grid Array&lt;/b&gt;
+
+
+
+[im]: image.png

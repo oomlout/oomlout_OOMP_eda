@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_100_series_5x25mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

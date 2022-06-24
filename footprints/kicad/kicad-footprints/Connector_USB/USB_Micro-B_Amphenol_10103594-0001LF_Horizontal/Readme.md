@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

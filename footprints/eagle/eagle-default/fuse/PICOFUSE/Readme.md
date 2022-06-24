@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-fuse-PICOFUSE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

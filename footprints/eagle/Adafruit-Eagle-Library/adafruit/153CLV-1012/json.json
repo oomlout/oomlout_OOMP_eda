@@ -1,9 +1,9 @@
 {
-    "index": 51,
+    "index": 27551,
     "tags": [
         {
             "name": "index",
-            "value": 51
+            "value": 27551
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/153CLV-1012"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt;&lt;p&gt;\nSMD (Chip) Long Life Vertical 153 CLV&lt;p&gt;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

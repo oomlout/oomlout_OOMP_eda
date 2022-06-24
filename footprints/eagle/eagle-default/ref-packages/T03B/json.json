@@ -1,9 +1,9 @@
 {
-    "index": 9283,
+    "index": 36783,
     "tags": [
         {
             "name": "index",
-            "value": 9283
+            "value": 36783
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/T03B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt; 3 lead&lt;p&gt;&#xD;\nNational Semiconductor T03A / T03B&lt;br&gt;&#xD;\nMotorola 221A-04"
         },
         {
             "name": "oompID",

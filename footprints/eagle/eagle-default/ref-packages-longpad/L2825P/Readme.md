@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-L2825P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_A-405_P12.70mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

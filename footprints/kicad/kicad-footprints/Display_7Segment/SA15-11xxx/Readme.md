@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

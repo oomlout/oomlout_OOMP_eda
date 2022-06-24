@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-SMS-006
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

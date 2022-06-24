@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-P-QFP48-7X7MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

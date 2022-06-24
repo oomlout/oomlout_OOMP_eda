@@ -1,2 +1,32 @@
-
-<package name="SOT223W_INFINEON"></package>
+<package name="SOT223W_INFINEON" urn="urn:adsk.eagle:footprint:8086012/1">
+<description>&lt;b&gt;Small Outline Transistor&lt;/b&gt; Wafe soldering&lt;p&gt;&#xD;
+INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf</description>
+<wire x1="-1.778" y1="3.277" x2="1.778" y2="3.277" width="0.2032" layer="21"/>
+<wire x1="1.778" y1="3.277" x2="1.778" y2="-3.277" width="0.2032" layer="21"/>
+<wire x1="1.778" y1="-3.277" x2="-1.778" y2="-3.277" width="0.2032" layer="21"/>
+<wire x1="-1.778" y1="-3.277" x2="-1.778" y2="3.277" width="0.2032" layer="21"/>
+<wire x1="0" y1="-0.7" x2="0" y2="0.6" width="0.127" layer="48"/>
+<wire x1="0" y1="0.6" x2="-0.2" y2="0.2" width="0.127" layer="48"/>
+<wire x1="-0.2" y1="0.2" x2="0.2" y2="0.2" width="0.127" layer="48"/>
+<wire x1="0.2" y1="0.2" x2="0" y2="0.6" width="0.127" layer="48"/>
+<wire x1="0" y1="-0.7" x2="0.2" y2="-0.3" width="0.127" layer="48"/>
+<wire x1="0.2" y1="-0.3" x2="-0.2" y2="-0.3" width="0.127" layer="48"/>
+<wire x1="-0.2" y1="-0.3" x2="0" y2="-0.7" width="0.127" layer="48"/>
+<smd name="1" x="3.099" y="-2.311" dx="1.4" dy="1.2" layer="1"/>
+<smd name="2" x="3.099" y="0" dx="1.4" dy="1.2" layer="1"/>
+<smd name="3" x="3.099" y="2.311" dx="1.4" dy="1.2" layer="1"/>
+<smd name="4" x="-3.099" y="0" dx="1.4" dy="3.5" layer="1"/>
+<text x="-0.0508" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="1.3208" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<text x="0.4" y="0.4" size="0.254" layer="48">direction of pcb</text>
+<text x="0.4" y="-0.05" size="0.254" layer="48">transportation for</text>
+<text x="0.4" y="-0.5" size="0.254" layer="48">wavesoldering</text>
+<rectangle x1="-3.6576" y1="-1.6002" x2="-1.8034" y2="1.6002" layer="51"/>
+<rectangle x1="1.8034" y1="-0.4318" x2="3.6576" y2="0.4318" layer="51"/>
+<rectangle x1="1.8034" y1="-2.7432" x2="3.6576" y2="-1.8796" layer="51"/>
+<rectangle x1="1.8034" y1="1.8796" x2="3.6576" y2="2.7432" layer="51"/>
+<rectangle x1="-3.6576" y1="-1.6002" x2="-1.8034" y2="1.6002" layer="51"/>
+<rectangle x1="1.8034" y1="-0.4318" x2="3.6576" y2="0.4318" layer="51"/>
+<rectangle x1="1.8034" y1="-2.7432" x2="3.6576" y2="-1.8796" layer="51"/>
+<rectangle x1="1.8034" y1="1.8796" x2="3.6576" y2="2.7432" layer="51"/>
+</package>

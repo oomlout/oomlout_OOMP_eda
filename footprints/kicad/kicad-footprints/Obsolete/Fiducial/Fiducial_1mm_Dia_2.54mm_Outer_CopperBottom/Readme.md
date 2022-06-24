@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

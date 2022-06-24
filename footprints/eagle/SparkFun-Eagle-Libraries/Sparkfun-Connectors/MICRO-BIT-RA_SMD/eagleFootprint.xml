@@ -1,4 +1,3 @@
-
 <package name="MICRO:BIT-RA_SMD">
 <circle x="-20.245" y="19.925" radius="1.725" width="0.127" layer="51"/>
 <circle x="20.245" y="19.925" radius="1.725" width="0.127" layer="51"/>

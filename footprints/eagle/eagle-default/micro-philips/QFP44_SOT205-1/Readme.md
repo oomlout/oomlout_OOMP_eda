@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP44_SOT205-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

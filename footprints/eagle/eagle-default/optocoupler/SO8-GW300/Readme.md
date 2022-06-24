@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-SO8-GW300
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

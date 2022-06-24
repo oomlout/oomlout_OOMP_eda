@@ -1,9 +1,9 @@
 {
-    "index": 9110,
+    "index": 36610,
     "tags": [
         {
             "name": "index",
-            "value": 9110
+            "value": 36610
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT363_PHILIPS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 6 leads&lt;/b&gt;&lt;p&gt;&#xD;\nPhilips Semiconductors, SOT363.pdf"
         },
         {
             "name": "oompID",

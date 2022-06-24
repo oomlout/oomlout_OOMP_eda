@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-BD679H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

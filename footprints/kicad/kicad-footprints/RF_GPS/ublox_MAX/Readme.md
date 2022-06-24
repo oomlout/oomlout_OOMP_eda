@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_MAX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

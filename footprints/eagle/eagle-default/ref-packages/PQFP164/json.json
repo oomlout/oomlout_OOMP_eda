@@ -1,9 +1,9 @@
 {
-    "index": 8728,
+    "index": 36228,
     "tags": [
         {
             "name": "index",
-            "value": 8728
+            "value": 36228
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PQFP164"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLASTIC QUAD FLAT PACK&lt;/b&gt;"
         },
         {
             "name": "oompID",

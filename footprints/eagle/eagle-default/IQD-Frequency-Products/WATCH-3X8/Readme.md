@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-WATCH-3X8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

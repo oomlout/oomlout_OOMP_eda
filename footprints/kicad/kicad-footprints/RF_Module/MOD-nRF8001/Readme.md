@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-MOD-nRF8001
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

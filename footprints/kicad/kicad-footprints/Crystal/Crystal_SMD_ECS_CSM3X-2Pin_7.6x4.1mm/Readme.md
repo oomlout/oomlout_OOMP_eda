@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

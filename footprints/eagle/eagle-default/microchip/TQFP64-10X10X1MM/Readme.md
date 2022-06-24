@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-TQFP64-10X10X1MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

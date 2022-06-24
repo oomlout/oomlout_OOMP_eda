@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Fujitsu_FTR-F1C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

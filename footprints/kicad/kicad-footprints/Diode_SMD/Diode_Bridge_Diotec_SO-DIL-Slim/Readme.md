@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

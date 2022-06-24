@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-subd-182-025-MALE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

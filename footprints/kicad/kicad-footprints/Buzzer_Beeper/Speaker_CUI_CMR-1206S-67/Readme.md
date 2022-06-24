@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Speaker_CUI_CMR-1206S-67
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

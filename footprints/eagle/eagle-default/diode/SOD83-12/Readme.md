@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOD83-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.75sqmm_1x04_P4.8mm_D1.25mm_OD2.3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

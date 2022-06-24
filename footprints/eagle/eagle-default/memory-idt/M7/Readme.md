@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-idt-M7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

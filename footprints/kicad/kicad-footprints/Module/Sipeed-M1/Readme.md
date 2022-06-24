@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Sipeed-M1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

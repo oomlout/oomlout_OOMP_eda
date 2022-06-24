@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_4x4mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

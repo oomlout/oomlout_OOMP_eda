@@ -1,9 +1,9 @@
 {
-    "index": 286,
+    "index": 27786,
     "tags": [
         {
             "name": "index",
-            "value": 286
+            "value": 27786
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/DO35-7"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;\ndiameter 2 mm, horizontal, grid 7.62 mm"
         },
         {
             "name": "oompID",

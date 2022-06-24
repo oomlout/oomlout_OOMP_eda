@@ -1,9 +1,9 @@
 {
-    "index": 8459,
+    "index": 35959,
     "tags": [
         {
             "name": "index",
-            "value": 8459
+            "value": 35959
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/FBGA484"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Fine Ball Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

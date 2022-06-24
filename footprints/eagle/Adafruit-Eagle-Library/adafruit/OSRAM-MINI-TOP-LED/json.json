@@ -1,9 +1,9 @@
 {
-    "index": 442,
+    "index": 27942,
     "tags": [
         {
             "name": "index",
-            "value": 442
+            "value": 27942
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/OSRAM-MINI-TOP-LED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;BLUE LINETM Hyper Mini TOPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... LB M676.pdf"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

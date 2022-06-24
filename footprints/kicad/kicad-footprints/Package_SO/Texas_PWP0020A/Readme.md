@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_PWP0020A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

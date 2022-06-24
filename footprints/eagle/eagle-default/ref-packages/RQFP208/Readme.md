@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-RQFP208
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: RQFP208
 - oompName: eagle-default/ref-packages/RQFP208
+- description: &lt;b&gt;Power Quad Flat Pack&lt;/b&gt;
+
+
+
+[im]: image.png

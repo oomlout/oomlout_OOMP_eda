@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-GBPC8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

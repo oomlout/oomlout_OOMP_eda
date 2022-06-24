@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SON80P720X1360X95-28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

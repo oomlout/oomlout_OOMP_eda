@@ -1,9 +1,9 @@
 {
-    "index": 8533,
+    "index": 36033,
     "tags": [
         {
             "name": "index",
-            "value": 8533
+            "value": 36033
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/LQFP-32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Quad FLat Pack&lt;/b&gt;&lt;p&gt;&#xD;\nRFMicro Device TQFP / LQFP-32 see IPC-SQR.LBR SQFP 5x5-32"
         },
         {
             "name": "oompID",

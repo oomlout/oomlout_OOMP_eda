@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_1206_3216Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

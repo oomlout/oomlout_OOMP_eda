@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-UMAX8-THERMAL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

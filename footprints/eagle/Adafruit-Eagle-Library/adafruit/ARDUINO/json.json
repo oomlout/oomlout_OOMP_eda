@@ -1,9 +1,9 @@
 {
-    "index": 137,
+    "index": 27637,
     "tags": [
         {
             "name": "index",
-            "value": 137
+            "value": 27637
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/ARDUINO"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Arduino Uno&lt;/b&gt;\n&lt;p&gt;\nMake a shield with ease, this package has all the named pins as well as the two mounting drill holes and an outline of the USB and DC power connector. The outline is on the DIMENSION layer, so if your board house uses it they will cut the outline to match."
         },
         {
             "name": "oompID",

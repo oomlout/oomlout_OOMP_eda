@@ -1,9 +1,9 @@
 {
-    "index": 14320,
+    "index": 41820,
     "tags": [
         {
             "name": "index",
-            "value": 14320
+            "value": 41820
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/TP_15TH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Electrically Conductive Via 0.015&quot; Drill&lt;/h3&gt;\nUsed as a test point connection for pogo pins or other debugging tools. \n&lt;p&gt;Specifications:\n&lt;li&gt;Area:0.015&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;TEST_POINT&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 9287,
+    "index": 36787,
     "tags": [
         {
             "name": "index",
-            "value": 9287
+            "value": 36787
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TA15A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt; 15 lead&lt;p&gt;&#xD;\nNational Semiconductor TA15A"
         },
         {
             "name": "oompID",

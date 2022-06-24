@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-C/6032-28R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

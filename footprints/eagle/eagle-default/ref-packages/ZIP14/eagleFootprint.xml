@@ -1,2 +1,61 @@
-
-<package name="ZIP14"></package>
+<package name="ZIP14" urn="urn:adsk.eagle:footprint:8083853/1">
+<description>&lt;b&gt;Single In Line Socked&lt;/b&gt;</description>
+<wire x1="-9.144" y1="1.397" x2="-9.906" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-9.906" y1="0.635" x2="-9.906" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="-9.906" y1="-0.635" x2="-9.144" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="8.636" y1="-0.635" x2="8.636" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="8.636" y1="0.635" x2="7.874" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="8.636" y1="0.635" x2="-8.255" y2="0.635" width="0.1524" layer="51"/>
+<wire x1="8.636" y1="-0.635" x2="-8.255" y2="-0.635" width="0.1524" layer="51"/>
+<wire x1="-8.255" y1="-1.397" x2="-8.255" y2="-0.635" width="0.1524" layer="51"/>
+<wire x1="-8.255" y1="0.635" x2="-8.255" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="-8.255" y1="-0.635" x2="-8.255" y2="0.635" width="0.1524" layer="51"/>
+<wire x1="7.874" y1="-1.397" x2="8.636" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="7.874" y1="-1.397" x2="7.239" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="7.874" y1="1.397" x2="6.731" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="6.731" y1="1.397" x2="5.969" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="7.239" y1="-1.397" x2="5.461" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="5.461" y1="-1.397" x2="4.699" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="5.969" y1="1.397" x2="4.191" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="4.191" y1="1.397" x2="3.429" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="1.651" y1="1.397" x2="0.889" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="4.699" y1="-1.397" x2="2.921" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="3.429" y1="1.397" x2="1.651" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="2.921" y1="-1.397" x2="2.159" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="2.159" y1="-1.397" x2="0.381" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="0.889" y1="1.397" x2="-0.889" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="-0.889" y1="1.397" x2="-1.651" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="-3.429" y1="1.397" x2="-4.191" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="-1.651" y1="1.397" x2="-3.429" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="-0.381" y1="-1.397" x2="-2.159" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="-2.921" y1="-1.397" x2="-4.699" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="0.381" y1="-1.397" x2="-0.381" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="-2.159" y1="-1.397" x2="-2.921" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="-4.699" y1="-1.397" x2="-5.461" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="-7.239" y1="-1.397" x2="-8.001" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="-5.969" y1="1.397" x2="-6.731" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="-4.191" y1="1.397" x2="-5.969" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="-5.461" y1="-1.397" x2="-7.239" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="-6.731" y1="1.397" x2="-8.255" y2="1.397" width="0.1524" layer="51"/>
+<wire x1="-8.509" y1="1.397" x2="-9.144" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="-8.001" y1="-1.397" x2="-8.255" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="-8.255" y1="-1.397" x2="-9.144" y2="-1.397" width="0.1524" layer="51"/>
+<wire x1="-8.255" y1="1.397" x2="-8.509" y2="1.397" width="0.1524" layer="51"/>
+<circle x="-8.89" y="-0.762" radius="0.254" width="0.1524" layer="51"/>
+<pad name="1" x="-8.89" y="-1.27" drill="0.8128"/>
+<pad name="2" x="-7.62" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="3" x="-6.35" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="4" x="-5.08" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="5" x="-3.81" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="6" x="-2.54" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="7" x="-1.27" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="8" x="0" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="9" x="1.27" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="10" x="2.54" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="11" x="3.81" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="12" x="5.08" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="13" x="6.35" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="14" x="7.62" y="1.27" drill="0.8128" shape="octagon"/>
+<text x="-9.017" y="-3.429" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-7.62" y="2.1844" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+</package>

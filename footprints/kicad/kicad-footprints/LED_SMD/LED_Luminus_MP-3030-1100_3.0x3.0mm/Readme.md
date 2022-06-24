@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

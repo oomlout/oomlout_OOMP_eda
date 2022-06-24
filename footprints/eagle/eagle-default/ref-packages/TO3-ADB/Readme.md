@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO3-ADB
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO3-ADB
 - oompName: eagle-default/ref-packages/TO3-ADB
+- description: &lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;
+
+
+
+[im]: image.png

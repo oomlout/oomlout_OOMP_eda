@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-PUIAudio_SMT_0825_S_4_R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

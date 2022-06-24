@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

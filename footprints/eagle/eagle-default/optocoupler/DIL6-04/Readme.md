@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-DIL6-04
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

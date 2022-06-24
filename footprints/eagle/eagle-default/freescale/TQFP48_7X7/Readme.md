@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-freescale-TQFP48_7X7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

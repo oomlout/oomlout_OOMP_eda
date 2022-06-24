@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-motorola-TQFP80-917
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

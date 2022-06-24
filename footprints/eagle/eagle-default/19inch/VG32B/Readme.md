@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-19inch-VG32B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

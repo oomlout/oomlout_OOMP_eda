@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_EVQP7C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

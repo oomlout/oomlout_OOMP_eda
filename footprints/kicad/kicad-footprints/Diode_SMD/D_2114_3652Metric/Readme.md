@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_Molex_105444
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

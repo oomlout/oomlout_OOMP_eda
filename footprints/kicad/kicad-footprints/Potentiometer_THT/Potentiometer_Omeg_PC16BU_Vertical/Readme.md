@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

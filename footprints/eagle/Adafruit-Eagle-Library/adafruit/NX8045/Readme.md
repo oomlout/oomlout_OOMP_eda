@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX8045
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-10_W9.53mm_Clearance8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

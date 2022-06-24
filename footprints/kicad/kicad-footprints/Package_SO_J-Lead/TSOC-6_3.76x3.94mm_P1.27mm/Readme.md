@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

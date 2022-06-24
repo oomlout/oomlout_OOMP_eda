@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VSON-HR-8_1.5x2mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

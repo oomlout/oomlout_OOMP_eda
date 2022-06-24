@@ -1,9 +1,9 @@
 {
-    "index": 86,
+    "index": 27586,
     "tags": [
         {
             "name": "index",
-            "value": 86
+            "value": 27586
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/1X15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PIN HEADER&lt;/b&gt;"
         },
         {
             "name": "oompID",

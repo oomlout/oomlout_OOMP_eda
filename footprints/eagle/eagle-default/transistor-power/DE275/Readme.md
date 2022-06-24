@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-DE275
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

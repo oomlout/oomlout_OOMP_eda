@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-L4532M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

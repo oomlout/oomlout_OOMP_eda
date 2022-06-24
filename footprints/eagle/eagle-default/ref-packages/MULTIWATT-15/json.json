@@ -1,9 +1,9 @@
 {
-    "index": 8615,
+    "index": 36115,
     "tags": [
         {
             "name": "index",
-            "value": 8615
+            "value": 36115
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MULTIWATT-15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Multiwatt 15 lead&lt;/b&gt;"
         },
         {
             "name": "oompID",

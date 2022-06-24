@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-DecaWave_DWM1001
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

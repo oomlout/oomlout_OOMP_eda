@@ -1,4 +1,3 @@
-
 <package name="SCREWTERMINAL-3.5MM-10">
 <wire x1="-1.75" y1="3.4" x2="33.25" y2="3.4" width="0.2032" layer="21"/>
 <wire x1="33.25" y1="3.4" x2="33.25" y2="-2.8" width="0.2032" layer="21"/>

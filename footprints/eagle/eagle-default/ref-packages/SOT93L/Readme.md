@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT93L
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOT93L
 - oompName: eagle-default/ref-packages/SOT93L
+- description: &lt;b&gt;SOT 93&lt;/b&gt; horizontal (Cathode; Anode; Gate)
+
+
+
+[im]: image.png

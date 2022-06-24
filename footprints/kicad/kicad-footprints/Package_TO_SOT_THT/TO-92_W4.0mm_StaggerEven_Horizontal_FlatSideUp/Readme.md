@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_W4.0mm_StaggerEven_Horizontal_FlatSideUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

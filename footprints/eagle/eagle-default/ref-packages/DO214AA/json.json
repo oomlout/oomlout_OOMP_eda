@@ -1,9 +1,9 @@
 {
-    "index": 8351,
+    "index": 35851,
     "tags": [
         {
             "name": "index",
-            "value": 8351
+            "value": 35851
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO214AA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DIODE&lt;/b&gt;"
         },
         {
             "name": "oompID",

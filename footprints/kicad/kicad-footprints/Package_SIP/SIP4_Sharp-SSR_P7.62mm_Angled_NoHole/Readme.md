@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

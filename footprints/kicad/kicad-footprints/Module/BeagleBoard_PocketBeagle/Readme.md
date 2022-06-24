@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

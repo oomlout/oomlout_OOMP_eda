@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.5mm_Pad
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

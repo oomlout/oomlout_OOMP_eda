@@ -1,9 +1,9 @@
 {
-    "index": 14200,
+    "index": 41700,
     "tags": [
         {
             "name": "index",
-            "value": 14200
+            "value": 41700
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/DS9094FS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SMT version of DS9094F iButton clip holder&lt;h3&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C012303S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

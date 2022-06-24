@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-137-08-G-Q-RA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

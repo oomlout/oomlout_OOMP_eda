@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_3001_1x12mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

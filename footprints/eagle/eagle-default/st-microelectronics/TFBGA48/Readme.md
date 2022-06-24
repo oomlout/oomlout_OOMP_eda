@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TFBGA48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

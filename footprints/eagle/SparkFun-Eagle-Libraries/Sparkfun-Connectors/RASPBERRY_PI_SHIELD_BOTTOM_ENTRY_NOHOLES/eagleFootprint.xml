@@ -1,4 +1,3 @@
-
 <package name="RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES">
 <text x="6.562" y="3.3752" size="0.6096" layer="25" font="vector" ratio="20" rot="R90">&gt;NAME</text>
 <text x="59.062" y="3.1252" size="0.6096" layer="27" font="vector" ratio="20" rot="R90">&gt;VALUE</text>

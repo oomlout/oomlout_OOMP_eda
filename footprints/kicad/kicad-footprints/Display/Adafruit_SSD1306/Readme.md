@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

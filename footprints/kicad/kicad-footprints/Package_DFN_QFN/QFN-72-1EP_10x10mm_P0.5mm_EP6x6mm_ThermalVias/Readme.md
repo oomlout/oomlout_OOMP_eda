@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-72-1EP_10x10mm_P0.5mm_EP6x6mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

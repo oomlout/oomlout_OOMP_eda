@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-E30/7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

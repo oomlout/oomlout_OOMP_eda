@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirose-UX60-MB-5ST
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

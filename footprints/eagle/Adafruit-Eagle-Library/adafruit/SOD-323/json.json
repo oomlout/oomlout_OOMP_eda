@@ -1,9 +1,9 @@
 {
-    "index": 545,
+    "index": 28045,
     "tags": [
         {
             "name": "index",
-            "value": 545
+            "value": 28045
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SOD-323"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOD323&lt;/b&gt; (2.5x1.2mm)"
         },
         {
             "name": "oompID",

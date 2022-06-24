@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-YC15B6
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: YC15B6
 - oompName: eagle-default/ref-packages/YC15B6
+- description: &lt;b&gt;Y CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;
+body 17.7 x 6 mm, grid 15 mm
+
+
+
+[im]: image.png

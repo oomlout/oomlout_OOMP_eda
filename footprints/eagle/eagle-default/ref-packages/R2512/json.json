@@ -1,9 +1,9 @@
 {
-    "index": 8790,
+    "index": 36290,
     "tags": [
         {
             "name": "index",
-            "value": 8790
+            "value": 36290
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/R2512"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;\nwave soldering"
         },
         {
             "name": "oompID",

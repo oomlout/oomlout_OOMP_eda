@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-B/C11L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

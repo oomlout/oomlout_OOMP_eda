@@ -1,9 +1,9 @@
 {
-    "index": 8965,
+    "index": 36465,
     "tags": [
         {
             "name": "index",
-            "value": 8965
+            "value": 36465
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOD106A-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOD106A Wave soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

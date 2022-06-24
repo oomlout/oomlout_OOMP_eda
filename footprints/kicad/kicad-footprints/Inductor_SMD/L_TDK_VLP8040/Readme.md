@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_VLP8040
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -22,3 +27,7 @@ Contents
 - kicadDesc: PCI bus Edge Connector
 - kicadTags: PCI bus Edge Connector
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

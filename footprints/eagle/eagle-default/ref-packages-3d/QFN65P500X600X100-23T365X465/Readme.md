@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN65P500X600X100-23T365X465
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

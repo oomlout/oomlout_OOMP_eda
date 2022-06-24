@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA729C80P27X27_2200X2200X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

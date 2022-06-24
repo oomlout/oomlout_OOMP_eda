@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

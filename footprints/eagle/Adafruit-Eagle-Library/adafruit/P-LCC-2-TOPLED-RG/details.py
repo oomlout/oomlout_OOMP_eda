@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "adafruit")
 newPart.addTag("oompIndex", "P-LCC-2-TOPLED-RG")
 newPart.addTag("oompName", "Adafruit-Eagle-Library/adafruit/P-LCC-2-TOPLED-RG")
 
+newPart.addTag("description", """&lt;b&gt;Hyper TOPLED RG Hyper-Bright LED&lt;/b&gt;&lt;p&gt;
+Source: http://www.osram.convergy.de/ ... LA_LO_LS_LY T776.pdf""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-P-LCC-2-TOPLED-RG",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='Adafruit-Eagle-Library',oompDesc='adafruit',oompIndex='P-LCC-2-TOPLED-RG')
 
 OOMP.parts.append(newPart)

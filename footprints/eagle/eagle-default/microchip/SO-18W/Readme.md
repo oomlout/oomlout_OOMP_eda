@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-SO-18W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

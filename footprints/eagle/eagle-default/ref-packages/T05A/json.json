@@ -1,9 +1,9 @@
 {
-    "index": 9284,
+    "index": 36784,
     "tags": [
         {
             "name": "index",
-            "value": 9284
+            "value": 36784
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/T05A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt; 5 lead&lt;p&gt;&#xD;\nNational Semiconductor T05A&lt;br&gt;&#xD;\nMotorola 314D-01"
         },
         {
             "name": "oompID",

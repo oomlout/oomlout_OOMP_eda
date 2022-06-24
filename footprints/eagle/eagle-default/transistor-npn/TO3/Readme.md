@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-npn-TO3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

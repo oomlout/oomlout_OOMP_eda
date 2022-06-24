@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-SSOP28DB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

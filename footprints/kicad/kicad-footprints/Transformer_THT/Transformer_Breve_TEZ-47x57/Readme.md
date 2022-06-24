@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-47x57
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-F/HGP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

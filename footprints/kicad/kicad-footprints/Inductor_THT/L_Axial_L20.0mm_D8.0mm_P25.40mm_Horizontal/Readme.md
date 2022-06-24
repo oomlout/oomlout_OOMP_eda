@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

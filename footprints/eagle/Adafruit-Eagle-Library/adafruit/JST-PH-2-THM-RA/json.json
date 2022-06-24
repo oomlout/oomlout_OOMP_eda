@@ -1,9 +1,9 @@
 {
-    "index": 394,
+    "index": 27894,
     "tags": [
         {
             "name": "index",
-            "value": 394
+            "value": 27894
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/JST-PH-2-THM-RA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;S2B-PH-K-S&lt;/b&gt; \n&lt;p&gt;\nJST PH 2-pin thru-home side entry"
         },
         {
             "name": "oompID",

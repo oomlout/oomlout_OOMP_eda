@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SMD-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

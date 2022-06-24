@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-PBGA_B260
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

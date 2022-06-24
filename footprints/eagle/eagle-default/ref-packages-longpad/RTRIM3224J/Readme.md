@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3224J
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

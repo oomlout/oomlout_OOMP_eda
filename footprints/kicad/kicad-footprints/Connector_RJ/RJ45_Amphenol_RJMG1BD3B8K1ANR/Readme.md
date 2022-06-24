@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJMG1BD3B8K1ANR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

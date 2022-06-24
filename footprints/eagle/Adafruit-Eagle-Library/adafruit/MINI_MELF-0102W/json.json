@@ -1,9 +1,9 @@
 {
-    "index": 424,
+    "index": 27924,
     "tags": [
         {
             "name": "index",
-            "value": 424
+            "value": 27924
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MINI_MELF-0102W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CECC Size RC2211&lt;/b&gt; Wave Soldering&lt;p&gt;\nsource Beyschlag"
         },
         {
             "name": "oompID",

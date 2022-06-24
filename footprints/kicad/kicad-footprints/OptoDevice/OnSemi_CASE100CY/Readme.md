@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100CY
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

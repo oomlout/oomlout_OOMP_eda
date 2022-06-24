@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPA60-xxxxSFW
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

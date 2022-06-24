@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

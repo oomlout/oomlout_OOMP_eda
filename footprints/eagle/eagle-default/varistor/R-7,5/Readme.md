@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-varistor-R-7,5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

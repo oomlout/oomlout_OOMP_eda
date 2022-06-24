@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8385,
+    "index": 35885,
     "tags": [
         {
             "name": "index",
-            "value": 8385
+            "value": 35885
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E/7260-38W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET E / EIA 7260-38 Wafe solder&lt;/b&gt;"
         },
         {
             "name": "oompID",

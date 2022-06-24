@@ -1,9 +1,9 @@
 {
-    "index": 8762,
+    "index": 36262,
     "tags": [
         {
             "name": "index",
-            "value": 8762
+            "value": 36262
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFP80-841"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;80-Pin QFP&lt;/b&gt; (Case no. 841B)&lt;p&gt;&#xD;\n9S12A256DGV1.pdf"
         },
         {
             "name": "oompID",

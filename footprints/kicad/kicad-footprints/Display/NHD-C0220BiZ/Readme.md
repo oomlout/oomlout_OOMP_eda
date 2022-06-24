@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-NHD-C0220BiZ
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

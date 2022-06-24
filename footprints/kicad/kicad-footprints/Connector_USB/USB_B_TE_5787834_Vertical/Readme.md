@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_TE_5787834_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

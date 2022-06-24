@@ -1,9 +1,9 @@
 {
-    "index": 9301,
+    "index": 36801,
     "tags": [
         {
             "name": "index",
-            "value": 9301
+            "value": 36801
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TJ7-U1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Inductor&lt;/b&gt;&lt;p&gt;&#xD;\nSource: TJ-Serie Vishay.pdf"
         },
         {
             "name": "oompID",

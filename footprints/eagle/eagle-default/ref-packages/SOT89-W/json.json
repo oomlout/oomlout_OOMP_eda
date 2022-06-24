@@ -1,9 +1,9 @@
 {
-    "index": 9135,
+    "index": 36635,
     "tags": [
         {
             "name": "index",
-            "value": 9135
+            "value": 36635
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT89-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT89 Wave soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

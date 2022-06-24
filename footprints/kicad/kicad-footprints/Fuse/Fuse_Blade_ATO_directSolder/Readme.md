@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_ATO_directSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

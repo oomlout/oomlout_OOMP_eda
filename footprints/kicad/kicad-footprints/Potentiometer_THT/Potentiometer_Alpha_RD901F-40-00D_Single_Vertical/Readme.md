@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

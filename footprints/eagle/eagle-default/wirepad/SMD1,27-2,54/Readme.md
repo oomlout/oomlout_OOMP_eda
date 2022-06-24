@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-wirepad-SMD1,27-2,54
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

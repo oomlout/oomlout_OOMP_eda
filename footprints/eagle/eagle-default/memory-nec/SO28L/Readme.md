@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-nec-SO28L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1271_DPDT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM4X22
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

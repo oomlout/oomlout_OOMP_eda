@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ABLNO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

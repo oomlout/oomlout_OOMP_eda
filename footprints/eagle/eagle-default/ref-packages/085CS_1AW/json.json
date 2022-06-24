@@ -1,9 +1,9 @@
 {
-    "index": 8077,
+    "index": 35577,
     "tags": [
         {
             "name": "index",
-            "value": 8077
+            "value": 35577
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/085CS_1AW"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; wave soldering&lt;p&gt;&#xD;\nSMD (Chip) Standard 085 CS&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

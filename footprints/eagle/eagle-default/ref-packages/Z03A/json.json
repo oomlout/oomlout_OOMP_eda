@@ -1,9 +1,9 @@
 {
-    "index": 9573,
+    "index": 37073,
     "tags": [
         {
             "name": "index",
-            "value": 9573
+            "value": 37073
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/Z03A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor Z03A"
         },
         {
             "name": "oompID",

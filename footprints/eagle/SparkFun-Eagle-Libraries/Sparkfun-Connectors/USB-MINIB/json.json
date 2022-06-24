@@ -1,9 +1,9 @@
 {
-    "index": 14341,
+    "index": 41841,
     "tags": [
         {
             "name": "index",
-            "value": 14341
+            "value": 41841
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB-MINIB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Type Mini-B Surface Mounted&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 5 main, 4 shield pins&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/miniUSB-Dimensional.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;USB_Mini-B&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

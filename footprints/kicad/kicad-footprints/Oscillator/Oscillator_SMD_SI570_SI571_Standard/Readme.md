@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SI570_SI571_Standard
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-etx-board-ETX-BOARD-HOLE-POS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

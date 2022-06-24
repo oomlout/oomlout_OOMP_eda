@@ -1,9 +1,9 @@
 {
-    "index": 9527,
+    "index": 37027,
     "tags": [
         {
             "name": "index",
-            "value": 9527
+            "value": 37027
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TT5D10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ndiameter 10 mm, grid 5.08 mm"
         },
         {
             "name": "oompID",

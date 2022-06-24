@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_KPBD-3224
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

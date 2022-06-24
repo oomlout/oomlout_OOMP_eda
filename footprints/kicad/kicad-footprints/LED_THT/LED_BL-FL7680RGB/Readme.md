@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_BL-FL7680RGB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

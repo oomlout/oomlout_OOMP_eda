@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SIL08C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8572,
+    "index": 36072,
     "tags": [
         {
             "name": "index",
-            "value": 8572
+            "value": 36072
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MLP832"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MLP832 Package&lt;/b&gt;&lt;p&gt;&#xD;\nSource: www.zetex.com/ .. zxtd1m832.pdf"
         },
         {
             "name": "oompID",

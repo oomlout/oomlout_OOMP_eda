@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

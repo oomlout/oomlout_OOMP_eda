@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

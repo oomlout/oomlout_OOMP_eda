@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-1B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

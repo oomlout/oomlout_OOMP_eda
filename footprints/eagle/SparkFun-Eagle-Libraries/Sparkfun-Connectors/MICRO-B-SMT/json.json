@@ -1,9 +1,9 @@
 {
-    "index": 14241,
+    "index": 41741,
     "tags": [
         {
             "name": "index",
-            "value": 14241
+            "value": 41741
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MICRO-B-SMT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Micro-B Plug Connector&lt;/h3&gt;\nManufacturer part #: ZX80-B-5SA&lt;br&gt;\nManufacturer: Hirose&lt;br&gt;&lt;br&gt;\n&lt;b&gt;***Unproven***&lt;/b&gt; (Passed 1:1 printout test though!)"
         },
         {
             "name": "oompID",

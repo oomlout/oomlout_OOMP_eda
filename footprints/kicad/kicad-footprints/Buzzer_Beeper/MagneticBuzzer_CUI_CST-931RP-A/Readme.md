@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

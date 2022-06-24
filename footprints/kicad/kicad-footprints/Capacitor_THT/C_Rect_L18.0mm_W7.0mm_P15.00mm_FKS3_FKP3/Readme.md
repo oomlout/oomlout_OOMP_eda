@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

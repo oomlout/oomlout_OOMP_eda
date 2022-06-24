@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-4_4.4x2.6mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

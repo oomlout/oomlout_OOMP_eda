@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-MSO28W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

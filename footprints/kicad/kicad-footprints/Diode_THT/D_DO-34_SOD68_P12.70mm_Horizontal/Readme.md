@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-34_SOD68_P12.70mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

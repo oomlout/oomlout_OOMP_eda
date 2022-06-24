@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-TQFP100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

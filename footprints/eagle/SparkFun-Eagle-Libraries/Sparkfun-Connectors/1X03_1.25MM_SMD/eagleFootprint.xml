@@ -1,4 +1,3 @@
-
 <package name="1X03_1.25MM_SMD">
 <description>Molex 0533980367</description>
 <smd name="1" x="-1.25" y="0" dx="1.3" dy="0.8" layer="1" rot="R90"/>

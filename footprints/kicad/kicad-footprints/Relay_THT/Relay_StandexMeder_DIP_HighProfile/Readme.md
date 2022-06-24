@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_HighProfile
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

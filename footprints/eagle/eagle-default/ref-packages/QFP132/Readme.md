@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-QFP132
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: QFP132
 - oompName: eagle-default/ref-packages/QFP132
+- description: &lt;b&gt;Quad Flat Pack&lt;/b&gt;
+
+
+
+[im]: image.png

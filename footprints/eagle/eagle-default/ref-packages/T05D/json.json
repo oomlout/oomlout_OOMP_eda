@@ -1,9 +1,9 @@
 {
-    "index": 9285,
+    "index": 36785,
     "tags": [
         {
             "name": "index",
-            "value": 9285
+            "value": 36785
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/T05D"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt; 5 lead&lt;p&gt;&#xD;\nNational Semiconductor T05D"
         },
         {
             "name": "oompID",

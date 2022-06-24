@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Wuerth_749013011A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

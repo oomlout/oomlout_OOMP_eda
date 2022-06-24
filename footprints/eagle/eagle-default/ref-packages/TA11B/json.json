@@ -1,9 +1,9 @@
 {
-    "index": 9286,
+    "index": 36786,
     "tags": [
         {
             "name": "index",
-            "value": 9286
+            "value": 36786
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TA11B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt; 11 lead&lt;p&gt;&#xD;\nNational Semiconductor TA11B"
         },
         {
             "name": "oompID",

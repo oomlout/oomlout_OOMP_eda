@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S2-MINI-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

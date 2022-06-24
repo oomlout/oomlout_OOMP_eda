@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

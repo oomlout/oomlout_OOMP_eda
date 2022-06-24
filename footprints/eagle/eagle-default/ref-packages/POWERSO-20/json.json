@@ -1,9 +1,9 @@
 {
-    "index": 8719,
+    "index": 36219,
     "tags": [
         {
             "name": "index",
-            "value": 8719
+            "value": 36219
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/POWERSO-20"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Power Small Outline&lt;/b&gt;"
         },
         {
             "name": "oompID",

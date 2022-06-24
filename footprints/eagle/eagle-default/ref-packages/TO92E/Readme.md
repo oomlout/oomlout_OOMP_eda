@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO92E
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO92E
 - oompName: eagle-default/ref-packages/TO92E
+- description: &lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;&#xD;
+grid 3.54 mm
+
+
+
+[im]: image.png

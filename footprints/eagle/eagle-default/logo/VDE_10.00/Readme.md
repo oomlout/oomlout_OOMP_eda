@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-logo-VDE_10.00
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

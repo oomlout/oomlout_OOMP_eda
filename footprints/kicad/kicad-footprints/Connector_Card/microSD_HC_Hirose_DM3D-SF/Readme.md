@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3D-SF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

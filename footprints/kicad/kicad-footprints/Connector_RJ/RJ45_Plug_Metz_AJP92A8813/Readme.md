@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Plug_Metz_AJP92A8813
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

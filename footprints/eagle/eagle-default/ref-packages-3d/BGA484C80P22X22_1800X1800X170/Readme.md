@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA484C80P22X22_1800X1800X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

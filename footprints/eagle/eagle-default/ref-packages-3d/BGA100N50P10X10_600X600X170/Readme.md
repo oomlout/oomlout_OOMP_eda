@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA100N50P10X10_600X600X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

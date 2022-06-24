@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOJ-36_10.16x23.49mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

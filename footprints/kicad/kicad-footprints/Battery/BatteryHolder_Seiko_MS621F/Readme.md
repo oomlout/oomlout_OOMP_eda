@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Seiko_MS621F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

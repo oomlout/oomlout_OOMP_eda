@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359A1013T_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

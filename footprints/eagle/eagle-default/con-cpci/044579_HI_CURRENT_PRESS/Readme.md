@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-cpci-044579_HI_CURRENT_PRESS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

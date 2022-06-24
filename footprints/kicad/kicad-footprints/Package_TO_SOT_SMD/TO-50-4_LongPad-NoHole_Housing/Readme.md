@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-4_LongPad-NoHole_Housing
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

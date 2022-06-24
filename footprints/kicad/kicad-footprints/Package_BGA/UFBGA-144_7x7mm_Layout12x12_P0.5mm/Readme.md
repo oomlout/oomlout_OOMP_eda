@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-144_7x7mm_Layout12x12_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

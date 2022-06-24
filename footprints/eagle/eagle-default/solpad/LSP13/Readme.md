@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-solpad-LSP13
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRN8040_8x8.15mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

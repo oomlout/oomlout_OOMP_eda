@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC84-SMD-AMP-SOCKED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,2 +1,14 @@
-
-<package name="TO5E"></package>
+<package name="TO5E" urn="urn:adsk.eagle:footprint:8086043/1">
+<description>&lt;b&gt;TO-5&lt;/b&gt;&lt;p&gt;&#xD;
+grid 5.08 mm</description>
+<wire x1="-4.0386" y1="-3.5306" x2="-3.4798" y2="-2.9718" width="0.1524" layer="21"/>
+<wire x1="-2.9718" y1="-3.5052" x2="-3.5052" y2="-4.064" width="0.1524" layer="21"/>
+<wire x1="-3.5052" y1="-4.064" x2="-4.0386" y2="-3.5306" width="0.1524" layer="21"/>
+<circle x="0" y="0" radius="4.572" width="0.1524" layer="21"/>
+<circle x="0" y="0" radius="4.191" width="0.0508" layer="21"/>
+<pad name="C" x="0" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="G" x="2.54" y="0" drill="0.8128" shape="octagon"/>
+<pad name="A" x="0" y="2.54" drill="0.8128" shape="octagon"/>
+<text x="-2.54" y="5.08" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-3.81" y="-6.35" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+</package>

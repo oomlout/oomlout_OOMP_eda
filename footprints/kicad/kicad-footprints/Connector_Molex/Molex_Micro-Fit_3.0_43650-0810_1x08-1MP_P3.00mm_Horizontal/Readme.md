@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0810_1x08-1MP_P3.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

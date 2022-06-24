@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linx-RXD-XXX-KH2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

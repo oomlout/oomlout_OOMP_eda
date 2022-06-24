@@ -1,9 +1,9 @@
 {
-    "index": 8537,
+    "index": 36037,
     "tags": [
         {
             "name": "index",
-            "value": 8537
+            "value": 36037
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/LQFP48"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;48-pin plastic LQFP (FPT-48P-M26)&lt;/b&gt;&lt;p&gt;&#xD;\nwww.fma.fujitsu.com/pdf/e713717.pdf"
         },
         {
             "name": "oompID",

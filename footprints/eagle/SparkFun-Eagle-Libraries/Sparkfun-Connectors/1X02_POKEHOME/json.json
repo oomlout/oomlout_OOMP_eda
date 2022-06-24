@@ -1,9 +1,9 @@
 {
-    "index": 13957,
+    "index": 41457,
     "tags": [
         {
             "name": "index",
-            "value": 13957
+            "value": 41457
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X02_POKEHOME"
+        },
+        {
+            "name": "description",
+            "value": "2 pin poke-home connector\n\npart number 2062-2P from STA"
         },
         {
             "name": "oompID",

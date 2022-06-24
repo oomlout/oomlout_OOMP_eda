@@ -1,9 +1,9 @@
 {
-    "index": 585,
+    "index": 28085,
     "tags": [
         {
             "name": "index",
-            "value": 585
+            "value": 28085
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TO220H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt;"
         },
         {
             "name": "oompID",

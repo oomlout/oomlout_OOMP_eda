@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

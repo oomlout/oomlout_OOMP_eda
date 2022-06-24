@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON-6.35mm_Neutrik_NLJ2MD-H_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

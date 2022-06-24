@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Bulgin_BX0036_1xC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

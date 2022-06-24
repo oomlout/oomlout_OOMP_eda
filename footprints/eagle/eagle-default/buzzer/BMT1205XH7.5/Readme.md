@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-BMT1205XH7.5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

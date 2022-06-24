@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-19inch-VME/VXI_C_SIZE_6U
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

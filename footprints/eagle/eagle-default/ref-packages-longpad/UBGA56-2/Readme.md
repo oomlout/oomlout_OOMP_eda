@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-UBGA56-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

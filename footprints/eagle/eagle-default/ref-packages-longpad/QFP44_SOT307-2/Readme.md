@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP44_SOT307-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

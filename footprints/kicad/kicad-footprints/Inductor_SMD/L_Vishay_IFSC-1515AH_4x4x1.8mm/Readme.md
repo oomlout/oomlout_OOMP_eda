@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

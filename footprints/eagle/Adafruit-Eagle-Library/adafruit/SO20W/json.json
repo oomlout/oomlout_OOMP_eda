@@ -1,9 +1,9 @@
 {
-    "index": 541,
+    "index": 28041,
     "tags": [
         {
             "name": "index",
-            "value": 541
+            "value": 28041
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SO20W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Wide Small Outline package&lt;/b&gt; 300 mil"
         },
         {
             "name": "oompID",

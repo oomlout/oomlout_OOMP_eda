@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

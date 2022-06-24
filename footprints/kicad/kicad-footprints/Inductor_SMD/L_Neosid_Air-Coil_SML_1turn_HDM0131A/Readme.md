@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_1turn_HDM0131A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

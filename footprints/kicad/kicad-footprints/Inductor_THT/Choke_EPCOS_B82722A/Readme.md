@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

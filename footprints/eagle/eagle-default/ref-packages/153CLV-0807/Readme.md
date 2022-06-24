@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-153CLV-0807
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,10 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: 153CLV-0807
 - oompName: eagle-default/ref-packages/153CLV-0807
+- description: &lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt;&lt;p&gt;&#xD;
+SMD (Chip) Long Life Vertical 153 CLV&lt;p&gt;&#xD;
+http://www.bccomponents.com/
+
+
+
+[im]: image.png

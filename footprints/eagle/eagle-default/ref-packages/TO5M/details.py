@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "TO5M")
 newPart.addTag("oompName", "eagle-default/ref-packages/TO5M")
 
+newPart.addTag("description", """&lt;b&gt;TO-5&lt;/b&gt;&lt;p&gt;&#xD;
+grid 5.08 mm""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-TO5M",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='TO5M')
 
 OOMP.parts.append(newPart)

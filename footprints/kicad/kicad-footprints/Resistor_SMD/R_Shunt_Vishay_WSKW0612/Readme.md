@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSKW0612
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

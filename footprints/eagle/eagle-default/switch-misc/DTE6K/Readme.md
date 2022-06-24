@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-misc-DTE6K
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

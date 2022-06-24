@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74xx-little-us-MAC06A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

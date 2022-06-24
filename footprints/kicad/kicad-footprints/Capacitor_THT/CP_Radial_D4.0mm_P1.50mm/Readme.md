@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D4.0mm_P1.50mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

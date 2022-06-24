@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-chipcard-siemens-SIM_CARD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

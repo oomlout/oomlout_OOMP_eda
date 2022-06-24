@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

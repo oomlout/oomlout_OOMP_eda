@@ -1,9 +1,9 @@
 {
-    "index": 205,
+    "index": 27705,
     "tags": [
         {
             "name": "index",
-            "value": 205
+            "value": 27705
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C1206"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\nchip"
         },
         {
             "name": "oompID",

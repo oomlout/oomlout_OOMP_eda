@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P5.08mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

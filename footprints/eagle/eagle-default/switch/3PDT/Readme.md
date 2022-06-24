@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-3PDT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

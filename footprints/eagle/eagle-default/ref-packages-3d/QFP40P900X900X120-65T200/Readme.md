@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP40P900X900X120-65T200
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

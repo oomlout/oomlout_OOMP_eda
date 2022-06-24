@@ -1,9 +1,9 @@
 {
-    "index": 640,
+    "index": 28140,
     "tags": [
         {
             "name": "index",
-            "value": 640
+            "value": 28140
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/XF2L-0535-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ZIF Slide-locking Type (0.5 mm-pitch)&lt;/b&gt; Lower-contact Type&lt;p&gt;\nSource : http://www.omron.com/ecb/products/pdf/fpc.pdf"
         },
         {
             "name": "oompID",

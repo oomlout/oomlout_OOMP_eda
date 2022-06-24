@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CT3528
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,9 @@ Contents
 - oompDesc: adafruit
 - oompIndex: CT3528
 - oompName: Adafruit-Eagle-Library/adafruit/CT3528
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+chip
+tantalum
 
 
 

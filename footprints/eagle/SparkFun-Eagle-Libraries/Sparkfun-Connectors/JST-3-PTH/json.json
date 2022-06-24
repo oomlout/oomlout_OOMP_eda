@@ -1,9 +1,9 @@
 {
-    "index": 14220,
+    "index": 41720,
     "tags": [
         {
             "name": "index",
-            "value": 14220
+            "value": 41720
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST-3-PTH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;JST 3 Pin Right Angle Plated Through Hole&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:3&lt;/li&gt;\n&lt;li&gt;Pin pitch:2mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/ePH.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_03&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

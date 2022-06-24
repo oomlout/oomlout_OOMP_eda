@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-HS50
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

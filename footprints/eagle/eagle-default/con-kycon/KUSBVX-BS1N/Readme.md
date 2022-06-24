@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-kycon-KUSBVX-BS1N
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

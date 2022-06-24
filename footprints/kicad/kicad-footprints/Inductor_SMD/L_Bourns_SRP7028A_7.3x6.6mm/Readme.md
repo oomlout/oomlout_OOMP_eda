@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP7028A_7.3x6.6mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

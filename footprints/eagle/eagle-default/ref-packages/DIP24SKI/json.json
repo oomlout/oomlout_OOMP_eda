@@ -1,9 +1,9 @@
 {
-    "index": 8337,
+    "index": 35837,
     "tags": [
         {
             "name": "index",
-            "value": 8337
+            "value": 35837
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DIP24SKI"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Dual In Line&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8601,
+    "index": 36101,
     "tags": [
         {
             "name": "index",
-            "value": 8601
+            "value": 36101
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MQFP144"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metric Quad Flat Pack&lt;/b&gt;"
         },
         {
             "name": "oompID",

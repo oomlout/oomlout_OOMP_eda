@@ -1,9 +1,9 @@
 {
-    "index": 8936,
+    "index": 36436,
     "tags": [
         {
             "name": "index",
-            "value": 8936
+            "value": 36436
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO32X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;&lt;p&gt;&#xD;\nextra wide body 8.9 mm/JEDEC MO-120AC"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 57,
+    "index": 27557,
     "tags": [
         {
             "name": "index",
-            "value": 57
+            "value": 27557
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/1812"
+        },
+        {
+            "name": "description",
+            "value": "Multilayer SMD"
         },
         {
             "name": "oompID",

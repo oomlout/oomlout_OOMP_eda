@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-intel-DIL24-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MICRO:BIT-RA_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

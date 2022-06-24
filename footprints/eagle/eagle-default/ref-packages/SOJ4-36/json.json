@@ -1,9 +1,9 @@
 {
-    "index": 9037,
+    "index": 36537,
     "tags": [
         {
             "name": "index",
-            "value": 9037
+            "value": 36537
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOJ4-36"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Special Small Outline Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

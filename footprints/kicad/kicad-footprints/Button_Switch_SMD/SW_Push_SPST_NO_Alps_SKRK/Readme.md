@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_SPST_NO_Alps_SKRK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

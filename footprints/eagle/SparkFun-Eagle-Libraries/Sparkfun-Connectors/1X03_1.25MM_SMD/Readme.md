@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X03_1.25MM_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: Sparkfun-Connectors
 - oompIndex: 1X03_1.25MM_SMD
 - oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_1.25MM_SMD
+- description: Molex 0533980367
 
 
 

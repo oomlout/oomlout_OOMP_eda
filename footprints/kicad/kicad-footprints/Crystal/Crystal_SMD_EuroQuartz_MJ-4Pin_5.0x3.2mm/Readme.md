@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-DO34-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

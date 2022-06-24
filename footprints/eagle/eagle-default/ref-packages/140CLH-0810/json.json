@@ -1,9 +1,9 @@
 {
-    "index": 8087,
+    "index": 35587,
     "tags": [
         {
             "name": "index",
-            "value": 8087
+            "value": 35587
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/140CLH-0810"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors SMD (Chip)&lt;/b&gt;&lt;p&gt;&#xD;\nLong life base plate, High temperature 140 CLH&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

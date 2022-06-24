@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G2RL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

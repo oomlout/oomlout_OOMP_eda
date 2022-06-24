@@ -1,4 +1,3 @@
-
 <package name="SEGMENT_BICOL_BL-M12A883XX">
 <description>&lt;b&gt;Source: &lt;/b&gt;http://www.betlux.com/product/led_dot_matrix/BL-M12A883xx.PDF</description>
 <wire x1="-16.35" y1="16.35" x2="16.35" y2="16.35" width="0.127" layer="21"/>

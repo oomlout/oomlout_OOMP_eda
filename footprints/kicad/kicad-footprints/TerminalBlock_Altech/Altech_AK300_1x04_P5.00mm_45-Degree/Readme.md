@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x04_P5.00mm_45-Degree
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

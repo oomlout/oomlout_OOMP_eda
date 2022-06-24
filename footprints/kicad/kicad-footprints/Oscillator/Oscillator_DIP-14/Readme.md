@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

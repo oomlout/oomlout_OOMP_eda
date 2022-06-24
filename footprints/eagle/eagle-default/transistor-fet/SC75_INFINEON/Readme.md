@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SC75_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

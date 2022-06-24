@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

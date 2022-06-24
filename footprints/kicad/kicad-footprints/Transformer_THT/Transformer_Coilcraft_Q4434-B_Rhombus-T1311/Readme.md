@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

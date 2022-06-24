@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

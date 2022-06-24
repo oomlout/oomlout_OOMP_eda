@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MW-12_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

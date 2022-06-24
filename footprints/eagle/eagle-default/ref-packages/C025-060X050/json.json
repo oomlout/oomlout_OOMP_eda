@@ -1,9 +1,9 @@
 {
-    "index": 8137,
+    "index": 35637,
     "tags": [
         {
             "name": "index",
-            "value": 8137
+            "value": 35637
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C025-060X050"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.5 mm, outline 6 x 5 mm"
         },
         {
             "name": "oompID",

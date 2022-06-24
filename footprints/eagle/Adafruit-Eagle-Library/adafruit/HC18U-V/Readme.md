@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC18U-V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: HC18U-V
 - oompName: Adafruit-Eagle-Library/adafruit/HC18U-V
+- description: &lt;b&gt;CRYSTAL&lt;/b&gt;
 
 
 

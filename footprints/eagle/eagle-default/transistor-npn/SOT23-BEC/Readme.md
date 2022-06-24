@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SOT23-BEC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

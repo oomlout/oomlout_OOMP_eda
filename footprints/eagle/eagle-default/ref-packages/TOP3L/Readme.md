@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TOP3L
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TOP3L
 - oompName: eagle-default/ref-packages/TOP3L
+- description: &lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+3-lead molded, horizontal
+
+
+
+[im]: image.png

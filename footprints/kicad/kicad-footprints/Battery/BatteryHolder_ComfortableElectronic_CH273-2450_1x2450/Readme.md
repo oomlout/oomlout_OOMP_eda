@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_ComfortableElectronic_CH273-2450_1x2450
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

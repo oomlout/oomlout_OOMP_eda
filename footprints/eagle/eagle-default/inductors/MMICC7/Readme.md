@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-MMICC7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

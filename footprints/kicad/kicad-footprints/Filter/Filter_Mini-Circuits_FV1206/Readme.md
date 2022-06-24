@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Mini-Circuits_FV1206
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8535,
+    "index": 36035,
     "tags": [
         {
             "name": "index",
-            "value": 8535
+            "value": 36035
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/LQFP120"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;120-pin Plastic LQFP (FPT-120P-M21)&lt;/b&gt;&lt;p&gt;&#xD;\nds90390-ds07-13722-1e.pdf&lt;br&gt;&#xD;\nhttp://www.fme.gsdc.de"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-S6058
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

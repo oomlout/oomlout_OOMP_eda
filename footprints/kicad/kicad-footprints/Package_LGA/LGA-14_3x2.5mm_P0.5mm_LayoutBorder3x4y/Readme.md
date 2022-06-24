@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

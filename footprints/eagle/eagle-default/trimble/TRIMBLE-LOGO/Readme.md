@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trimble-TRIMBLE-LOGO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

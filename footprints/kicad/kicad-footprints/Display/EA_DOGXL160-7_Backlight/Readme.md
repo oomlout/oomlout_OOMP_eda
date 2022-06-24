@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGXL160-7_Backlight
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

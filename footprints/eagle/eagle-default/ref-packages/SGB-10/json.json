@@ -1,9 +1,9 @@
 {
-    "index": 8880,
+    "index": 36380,
     "tags": [
         {
             "name": "index",
-            "value": 8880
+            "value": 36380
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SGB-10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 4.6 mm, vertical, grid 10.16 mm"
         },
         {
             "name": "oompID",

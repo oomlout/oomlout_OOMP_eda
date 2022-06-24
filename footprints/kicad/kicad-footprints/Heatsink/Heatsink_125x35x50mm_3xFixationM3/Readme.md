@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

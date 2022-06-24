@@ -1,9 +1,9 @@
 {
-    "index": 384,
+    "index": 27884,
     "tags": [
         {
             "name": "index",
-            "value": 384
+            "value": 27884
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/INDUCTOR_5X5MM_TDK_VLC5045"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Source: http://www.tdk.co.jp/tefe02/e531_vlc5045.pdf&lt;/b&gt;"
         },
         {
             "name": "oompID",

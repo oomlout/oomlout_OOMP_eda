@@ -1,9 +1,9 @@
 {
-    "index": 9406,
+    "index": 36906,
     "tags": [
         {
             "name": "index",
-            "value": 9406
+            "value": 36906
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO3-4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

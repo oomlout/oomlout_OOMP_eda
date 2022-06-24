@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-plxtech-QFP18-176
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

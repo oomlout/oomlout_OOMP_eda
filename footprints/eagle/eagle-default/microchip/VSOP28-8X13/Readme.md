@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-VSOP28-8X13
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

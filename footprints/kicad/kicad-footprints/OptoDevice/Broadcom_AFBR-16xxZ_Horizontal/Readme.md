@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

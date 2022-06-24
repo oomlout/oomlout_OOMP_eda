@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-burr-brown-D24-3/16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-DIODFN60X30X32-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

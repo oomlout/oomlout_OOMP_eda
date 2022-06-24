@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W5.0mm_H5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

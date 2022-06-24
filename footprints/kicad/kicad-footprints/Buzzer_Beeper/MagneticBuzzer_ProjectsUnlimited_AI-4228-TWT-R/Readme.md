@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

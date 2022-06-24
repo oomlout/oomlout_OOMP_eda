@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

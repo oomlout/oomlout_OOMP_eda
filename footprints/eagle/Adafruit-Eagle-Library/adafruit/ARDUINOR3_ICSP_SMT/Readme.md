@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ARDUINOR3_ICSP_SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

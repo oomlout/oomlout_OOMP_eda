@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-MS35A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

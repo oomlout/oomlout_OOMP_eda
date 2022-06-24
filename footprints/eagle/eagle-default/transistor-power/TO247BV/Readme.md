@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-TO247BV
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

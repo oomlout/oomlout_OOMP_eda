@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Positive_30mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

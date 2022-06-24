@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-H08C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

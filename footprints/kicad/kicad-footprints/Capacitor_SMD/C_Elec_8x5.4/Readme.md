@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_8x5.4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

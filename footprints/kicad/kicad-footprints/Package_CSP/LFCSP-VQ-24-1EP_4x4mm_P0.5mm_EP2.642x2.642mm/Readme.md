@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

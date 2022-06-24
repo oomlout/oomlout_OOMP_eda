@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-special-drill-PAD_0.1250
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

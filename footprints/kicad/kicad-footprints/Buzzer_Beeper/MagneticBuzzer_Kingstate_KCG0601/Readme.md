@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

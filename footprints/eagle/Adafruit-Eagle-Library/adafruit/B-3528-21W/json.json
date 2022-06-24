@@ -1,9 +1,9 @@
 {
-    "index": 152,
+    "index": 27652,
     "tags": [
         {
             "name": "index",
-            "value": 152
+            "value": 27652
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/B/3528-21W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET B / EIA 3528-21 Wave solder&lt;/b&gt;&lt;p&gt;\nKEMET T / EIA 3528-12"
         },
         {
             "name": "oompID",

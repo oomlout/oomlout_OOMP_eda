@@ -1,9 +1,9 @@
 {
-    "index": 13939,
+    "index": 41439,
     "tags": [
         {
             "name": "index",
-            "value": 13939
+            "value": 41439
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X01NS_KIT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole - No Silk Outline Kit Version&lt;/h3&gt;\n&lt;p&gt; Mask on only one side to make soldering in kits easier.\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:1&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_01&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

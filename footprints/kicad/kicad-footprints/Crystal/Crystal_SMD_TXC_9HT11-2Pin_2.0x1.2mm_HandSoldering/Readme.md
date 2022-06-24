@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

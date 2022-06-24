@@ -1,9 +1,9 @@
 {
-    "index": 9441,
+    "index": 36941,
     "tags": [
         {
             "name": "index",
-            "value": 9441
+            "value": 36941
         },
         {
             "name": "hexID",
@@ -27,15 +27,19 @@
         },
         {
             "name": "oompIndex",
-            "value": "TO92-"
+            "value": "TO92/"
         },
         {
             "name": "oompName",
-            "value": "eagle-default/ref-packages/TO92-"
+            "value": "eagle-default/ref-packages/TO92/"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.54 mm&lt;p&gt;&#xD;\nrotated 45 deg."
         },
         {
             "name": "oompID",
-            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO92-"
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO92/"
         },
         {
             "name": "name",

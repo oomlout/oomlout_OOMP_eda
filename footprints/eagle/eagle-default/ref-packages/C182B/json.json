@@ -1,9 +1,9 @@
 {
-    "index": 8188,
+    "index": 35688,
     "tags": [
         {
             "name": "index",
-            "value": 8188
+            "value": 35688
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C182B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n2-lead plasic, vertical"
         },
         {
             "name": "oompID",

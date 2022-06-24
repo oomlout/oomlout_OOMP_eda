@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-xicon-42TM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

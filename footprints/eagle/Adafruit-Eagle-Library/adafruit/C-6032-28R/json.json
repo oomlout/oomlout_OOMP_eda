@@ -1,9 +1,9 @@
 {
-    "index": 167,
+    "index": 27667,
     "tags": [
         {
             "name": "index",
-            "value": 167
+            "value": 27667
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C/6032-28R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET C / EIA 6032-28 Reflow solder&lt;/b&gt;&lt;p&gt;\nKEMET U / EIA 6032-15"
         },
         {
             "name": "oompID",

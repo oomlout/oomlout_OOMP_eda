@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-triac-SOT54
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

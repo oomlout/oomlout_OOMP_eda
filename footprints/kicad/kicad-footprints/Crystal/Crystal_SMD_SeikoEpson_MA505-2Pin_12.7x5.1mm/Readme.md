@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

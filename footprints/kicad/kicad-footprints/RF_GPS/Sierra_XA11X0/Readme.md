@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-Sierra_XA11X0
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

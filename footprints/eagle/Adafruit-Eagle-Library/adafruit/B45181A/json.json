@@ -1,9 +1,9 @@
 {
-    "index": 157,
+    "index": 27657,
     "tags": [
         {
             "name": "index",
-            "value": 157
+            "value": 27657
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/B45181A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\nbody 5 x 5 mm, rectangle, grid 2.54 mm"
         },
         {
             "name": "oompID",

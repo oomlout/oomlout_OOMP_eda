@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC-SM44
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

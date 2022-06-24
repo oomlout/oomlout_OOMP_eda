@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-renesas-PP_SSOP20_7.62MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

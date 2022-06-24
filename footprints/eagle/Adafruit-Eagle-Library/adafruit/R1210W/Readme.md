@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R1210W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: R1210W
 - oompName: Adafruit-Eagle-Library/adafruit/R1210W
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
+chip, wave soldering
 
 
 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP52_SOT379-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

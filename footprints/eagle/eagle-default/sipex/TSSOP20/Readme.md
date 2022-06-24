@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-sipex-TSSOP20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

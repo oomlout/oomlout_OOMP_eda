@@ -1,9 +1,9 @@
 {
-    "index": 132,
+    "index": 27632,
     "tags": [
         {
             "name": "index",
-            "value": 132
+            "value": 27632
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/AL11P"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SPEAKER&lt;/b&gt;"
         },
         {
             "name": "oompID",

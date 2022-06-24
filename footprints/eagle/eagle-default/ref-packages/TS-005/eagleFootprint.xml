@@ -1,2 +1,38 @@
-
-<package name="TS-005"></package>
+<package name="TS-005" urn="urn:adsk.eagle:footprint:8086346/1">
+<description>&lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;&#xD;
+TO263</description>
+<wire x1="-5.973" y1="8.983" x2="5.973" y2="8.983" width="0.0508" layer="39"/>
+<wire x1="5.973" y1="-8.983" x2="-5.973" y2="-8.983" width="0.0508" layer="39"/>
+<wire x1="-5.973" y1="-8.983" x2="-5.973" y2="8.983" width="0.0508" layer="39"/>
+<wire x1="5.973" y1="8.983" x2="5.973" y2="-8.983" width="0.0508" layer="39"/>
+<wire x1="4.917" y1="7.165" x2="4.917" y2="-1.839" width="0.2032" layer="21"/>
+<wire x1="4.917" y1="-1.839" x2="-4.917" y2="-1.839" width="0.2032" layer="21"/>
+<wire x1="-4.917" y1="-1.839" x2="-4.917" y2="7.165" width="0.2032" layer="21"/>
+<wire x1="-4.917" y1="7.165" x2="4.917" y2="7.165" width="0.1524" layer="51"/>
+<wire x1="2.6" y1="7.3" x2="2.6" y2="7.7" width="0.1524" layer="51"/>
+<wire x1="2.6" y1="7.7" x2="2.2" y2="8.1" width="0.1524" layer="51"/>
+<wire x1="2.2" y1="8.1" x2="-2.2" y2="8.1" width="0.1524" layer="51"/>
+<wire x1="-2.2" y1="8.1" x2="-2.6" y2="7.7" width="0.1524" layer="51"/>
+<wire x1="-2.6" y1="7.7" x2="-2.6" y2="7.3" width="0.1524" layer="51"/>
+<wire x1="-2.6" y1="7.3" x2="2.6" y2="7.3" width="0.1524" layer="51"/>
+<wire x1="2.6" y1="7.3" x2="2.6" y2="7.2" width="0.1524" layer="51"/>
+<smd name="1" x="-2.54" y="-6.6" dx="1" dy="3.4" layer="1"/>
+<smd name="2" x="2.54" y="-6.6" dx="1" dy="3.4" layer="1"/>
+<smd name="3" x="0" y="3.5" dx="6.8" dy="9.6" layer="1"/>
+<text x="-3.81" y="-7.62" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="5.08" y="-7.62" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.4318" y1="-2.6426" x2="0.4318" y2="-1.8806" layer="21"/>
+<rectangle x1="-2.9901" y1="-4.7399" x2="-2.0899" y2="-1.9401" layer="21"/>
+<rectangle x1="2.0899" y1="-4.7399" x2="2.9901" y2="-1.9401" layer="21"/>
+<rectangle x1="-3" y1="-7.5001" x2="-2.1001" y2="-4.7" layer="51"/>
+<rectangle x1="2.1001" y1="-7.5001" x2="3" y2="-4.7" layer="51"/>
+<polygon width="0.127" layer="51">
+<vertex x="2.5999" y="7.1999"/>
+<vertex x="2.5999" y="7.7"/>
+<vertex x="2.1999" y="8.1001"/>
+<vertex x="-2.1999" y="8.1001"/>
+<vertex x="-2.5999" y="7.7"/>
+<vertex x="-2.5999" y="7.3"/>
+<vertex x="2.5999" y="7.3"/>
+</polygon>
+</package>

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-discrete-EPCOS_N81
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

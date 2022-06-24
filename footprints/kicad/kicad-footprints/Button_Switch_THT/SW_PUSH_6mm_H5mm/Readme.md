@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

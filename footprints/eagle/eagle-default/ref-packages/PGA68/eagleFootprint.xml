@@ -1,2 +1,82 @@
-
-<package name="PGA68"></package>
+<package name="PGA68L" urn="urn:adsk.eagle:footprint:8083694/1">
+<description>&lt;b&gt;Pin Grid Array&lt;/b&gt;</description>
+<wire x1="-12.065" y1="14.605" x2="14.605" y2="14.605" width="0.1524" layer="21"/>
+<wire x1="14.605" y1="14.605" x2="14.605" y2="-14.605" width="0.1524" layer="21"/>
+<wire x1="14.605" y1="-14.605" x2="-14.605" y2="-14.605" width="0.1524" layer="21"/>
+<wire x1="-14.605" y1="-14.605" x2="-14.605" y2="12.065" width="0.1524" layer="21"/>
+<wire x1="-14.605" y1="12.065" x2="-12.065" y2="14.605" width="0.1524" layer="21"/>
+<wire x1="-8.89" y1="8.89" x2="8.89" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="8.89" y1="-8.89" x2="8.89" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="8.89" y1="-8.89" x2="-8.89" y2="-8.89" width="0.1524" layer="21"/>
+<wire x1="-8.89" y1="8.89" x2="-8.89" y2="-8.89" width="0.1524" layer="21"/>
+<pad name="A02" x="-10.16" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A04" x="-5.08" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A05" x="-2.54" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A06" x="0" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A07" x="2.54" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A08" x="5.08" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A09" x="7.62" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A10" x="10.16" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B11" x="12.7" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="C11" x="12.7" y="7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="D11" x="12.7" y="5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="E11" x="12.7" y="2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="F11" x="12.7" y="0" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="G11" x="12.7" y="-2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="H11" x="12.7" y="-5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="J11" x="12.7" y="-7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K11" x="12.7" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L10" x="10.16" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L09" x="7.62" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L08" x="5.08" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L07" x="2.54" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L06" x="0" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L05" x="-2.54" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L04" x="-5.08" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L03" x="-7.62" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="L02" x="-10.16" y="-12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K01" x="-12.7" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="J01" x="-12.7" y="-7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="H01" x="-12.7" y="-5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="G01" x="-12.7" y="-2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="F01" x="-12.7" y="0" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="E01" x="-12.7" y="2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="D01" x="-12.7" y="5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="C01" x="-12.7" y="7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B01" x="-12.7" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B03" x="-7.62" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B04" x="-5.08" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B05" x="-2.54" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B06" x="0" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B07" x="2.54" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B08" x="5.08" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B09" x="7.62" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B10" x="10.16" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="C10" x="10.16" y="7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="D10" x="10.16" y="5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="E10" x="10.16" y="2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="F10" x="10.16" y="0" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="G10" x="10.16" y="-2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="H10" x="10.16" y="-5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="J10" x="10.16" y="-7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K10" x="10.16" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K09" x="7.62" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K08" x="5.08" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K07" x="2.54" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K06" x="0" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K05" x="-2.54" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K04" x="-5.08" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K03" x="-7.62" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="K02" x="-10.16" y="-10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="J02" x="-10.16" y="-7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="H02" x="-10.16" y="-5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="G02" x="-10.16" y="-2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="F02" x="-10.16" y="0" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="E02" x="-10.16" y="2.54" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="D02" x="-10.16" y="5.08" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="C02" x="-10.16" y="7.62" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="B02" x="-10.16" y="10.16" drill="0.8128" shape="octagon" rot="R90"/>
+<pad name="A03" x="-7.62" y="12.7" drill="0.8128" shape="octagon" rot="R90"/>
+<text x="-3.81" y="2.54" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-6.35" y="-1.905" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+</package>

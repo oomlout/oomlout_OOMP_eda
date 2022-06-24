@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_SIM_Card_SF72S006
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

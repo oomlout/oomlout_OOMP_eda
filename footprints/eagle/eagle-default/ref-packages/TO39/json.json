@@ -1,9 +1,9 @@
 {
-    "index": 9412,
+    "index": 36912,
     "tags": [
         {
             "name": "index",
-            "value": 9412
+            "value": 36912
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO39"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metal Can Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

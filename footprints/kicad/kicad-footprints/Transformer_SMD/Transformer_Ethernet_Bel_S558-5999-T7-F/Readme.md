@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bel_S558-5999-T7-F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

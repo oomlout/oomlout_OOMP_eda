@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X22-SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

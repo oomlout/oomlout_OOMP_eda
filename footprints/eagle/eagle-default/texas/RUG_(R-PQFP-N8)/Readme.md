@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-RUG_(R-PQFP-N8)
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

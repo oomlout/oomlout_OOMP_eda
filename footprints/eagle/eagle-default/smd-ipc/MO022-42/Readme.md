@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-MO022-42
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

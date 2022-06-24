@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-D-PAK_TO252AA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

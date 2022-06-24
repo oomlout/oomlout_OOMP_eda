@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

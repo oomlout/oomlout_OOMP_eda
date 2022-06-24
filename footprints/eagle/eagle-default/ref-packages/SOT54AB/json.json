@@ -1,9 +1,9 @@
 {
-    "index": 9117,
+    "index": 36617,
     "tags": [
         {
             "name": "index",
-            "value": 9117
+            "value": 36617
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT54AB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT-54&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 4 mm"
         },
         {
             "name": "oompID",

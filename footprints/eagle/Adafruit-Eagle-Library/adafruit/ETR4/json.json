@@ -1,9 +1,9 @@
 {
-    "index": 347,
+    "index": 27847,
     "tags": [
         {
             "name": "index",
-            "value": 347
+            "value": 27847
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/ETR4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\nrectangle, grid 10.16 mm"
         },
         {
             "name": "oompID",

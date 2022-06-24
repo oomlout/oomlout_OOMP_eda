@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

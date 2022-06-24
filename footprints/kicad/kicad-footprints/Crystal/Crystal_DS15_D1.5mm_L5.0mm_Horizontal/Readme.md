@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS15_D1.5mm_L5.0mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-mc68000-MPGA68
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

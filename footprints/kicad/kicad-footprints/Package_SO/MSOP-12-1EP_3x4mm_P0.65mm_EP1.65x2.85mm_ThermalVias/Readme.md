@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

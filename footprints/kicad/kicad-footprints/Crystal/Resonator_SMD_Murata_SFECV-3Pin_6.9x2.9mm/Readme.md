@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

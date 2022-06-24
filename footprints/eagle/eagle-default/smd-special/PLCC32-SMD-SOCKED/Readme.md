@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC32-SMD-SOCKED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-HVQFN32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

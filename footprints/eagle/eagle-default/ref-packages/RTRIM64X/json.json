@@ -1,9 +1,9 @@
 {
-    "index": 8832,
+    "index": 36332,
     "tags": [
         {
             "name": "index",
-            "value": 8832
+            "value": 36332
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM64X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; Spectrol&lt;p&gt;&#xD;\nCermet MIL-R-22097"
         },
         {
             "name": "oompID",

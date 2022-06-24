@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L8530M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

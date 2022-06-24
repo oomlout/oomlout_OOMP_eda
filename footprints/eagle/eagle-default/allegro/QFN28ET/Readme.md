@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-QFN28ET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

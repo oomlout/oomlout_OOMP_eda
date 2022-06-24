@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_12mm_Copper
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

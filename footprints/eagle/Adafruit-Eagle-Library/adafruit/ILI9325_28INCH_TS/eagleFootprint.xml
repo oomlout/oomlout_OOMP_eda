@@ -1,4 +1,3 @@
-
 <package name="ILI9325_28INCH_TS">
 <description>1.0mm-Pitch 37 Pin LCD Connector</description>
 <wire x1="-20.4" y1="0" x2="-20.4" y2="27.686" width="0.127" layer="21"/>

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_2.75u
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOIC20S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

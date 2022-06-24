@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-SMT-REF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

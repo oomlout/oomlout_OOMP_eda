@@ -1,9 +1,9 @@
 {
-    "index": 9469,
+    "index": 36969,
     "tags": [
         {
             "name": "index",
-            "value": 9469
+            "value": 36969
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TOP3V"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TOP 3 vertical&lt;/b&gt;"
         },
         {
             "name": "oompID",

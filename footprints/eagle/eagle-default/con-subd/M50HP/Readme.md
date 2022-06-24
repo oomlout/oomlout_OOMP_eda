@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-subd-M50HP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

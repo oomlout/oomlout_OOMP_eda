@@ -1,9 +1,9 @@
 {
-    "index": 14212,
+    "index": 41712,
     "tags": [
         {
             "name": "index",
-            "value": 14212
+            "value": 41712
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/FTDI_BASIC"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;FTDI Basic &lt;/h3&gt;\nIncludes tDocu labels for end pins that match the FTDI Basic connection.\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;6_Pin_Serial_Cable&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

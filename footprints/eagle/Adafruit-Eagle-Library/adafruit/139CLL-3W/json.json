@@ -1,9 +1,9 @@
 {
-    "index": 38,
+    "index": 27538,
     "tags": [
         {
             "name": "index",
-            "value": 38
+            "value": 27538
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/139CLL-3W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; wave soldering&lt;p&gt;\nSMD (Chip) Long Life 139 CLL&lt;p&gt;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 14184,
+    "index": 41684,
     "tags": [
         {
             "name": "index",
-            "value": 14184
+            "value": 41684
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/BINDING_POST"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Insulated Binding Post&lt;/h3&gt;\nBanana-jack compatible post\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;BINDING_POST&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-C19HE1WT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

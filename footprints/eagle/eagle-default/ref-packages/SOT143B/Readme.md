@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT143B
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOT143B
 - oompName: eagle-default/ref-packages/SOT143B
+- description: &lt;b&gt;Small Outline Transistor&lt;/b&gt;
+
+
+
+[im]: image.png

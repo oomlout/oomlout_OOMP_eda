@@ -1,9 +1,9 @@
 {
-    "index": 14229,
+    "index": 41729,
     "tags": [
         {
             "name": "index",
-            "value": 14229
+            "value": 41729
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST-5-PTH-VERT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;JST 5 Pin Vertical Plated Through Hole&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 5&lt;/li&gt;\n&lt;li&gt;Pin pitch: 2mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_05&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

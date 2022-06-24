@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-F15VP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -19,3 +23,4 @@ Contents
 - oompDesc: adafruit
 - oompIndex: F15VP
 - oompName: Adafruit-Eagle-Library/adafruit/F15VP
+- description: &lt;b&gt;SUB-D&lt;/b&gt;

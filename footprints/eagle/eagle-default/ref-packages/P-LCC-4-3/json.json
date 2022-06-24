@@ -1,9 +1,9 @@
 {
-    "index": 8629,
+    "index": 36129,
     "tags": [
         {
             "name": "index",
-            "value": 8629
+            "value": 36129
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P-LCC-4-3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper TOPLED &lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/"
         },
         {
             "name": "oompID",

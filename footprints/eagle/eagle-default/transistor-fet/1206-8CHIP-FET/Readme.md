@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-fet-1206-8CHIP-FET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

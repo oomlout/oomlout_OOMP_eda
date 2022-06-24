@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8086,
+    "index": 35586,
     "tags": [
         {
             "name": "index",
-            "value": 8086
+            "value": 35586
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/139CLL-3W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; wave soldering&lt;p&gt;&#xD;\nSMD (Chip) Long Life 139 CLL&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

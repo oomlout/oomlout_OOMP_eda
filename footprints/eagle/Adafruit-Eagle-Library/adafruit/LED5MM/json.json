@@ -1,9 +1,9 @@
 {
-    "index": 405,
+    "index": 27905,
     "tags": [
         {
             "name": "index",
-            "value": 405
+            "value": 27905
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/LED5MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;LED&lt;/B&gt;&lt;p&gt;\n5 mm, round"
         },
         {
             "name": "oompID",

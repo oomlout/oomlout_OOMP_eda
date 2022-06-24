@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

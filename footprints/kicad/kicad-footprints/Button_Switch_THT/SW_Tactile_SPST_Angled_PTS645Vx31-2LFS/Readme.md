@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx31-2LFS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

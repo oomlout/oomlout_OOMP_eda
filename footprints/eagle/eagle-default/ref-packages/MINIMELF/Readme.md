@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-MINIMELF
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: MINIMELF
 - oompName: eagle-default/ref-packages/MINIMELF
+- description: &lt;b&gt;Mini Melf Diode&lt;/b&gt;
+
+
+
+[im]: image.png

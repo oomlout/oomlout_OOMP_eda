@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_62x40mm_2xFixation3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

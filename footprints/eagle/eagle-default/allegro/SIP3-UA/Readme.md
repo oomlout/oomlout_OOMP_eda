@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-SIP3-UA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

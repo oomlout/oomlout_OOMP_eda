@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-telefunken-DIL08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

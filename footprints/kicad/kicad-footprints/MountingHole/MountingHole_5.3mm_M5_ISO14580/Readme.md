@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Atmel_ATSAMR21G18-MR210UA_NoRFPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

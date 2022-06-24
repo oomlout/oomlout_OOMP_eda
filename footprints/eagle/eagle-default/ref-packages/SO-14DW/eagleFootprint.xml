@@ -1,2 +1,44 @@
-
-<package name="SO-14DW"></package>
+<package name="SO-14DW" urn="urn:adsk.eagle:footprint:8085756/1">
+<description>&lt;b&gt;Small Outline Integrated Circuit&lt;/b&gt; wide</description>
+<wire x1="4.305" y1="-3.7" x2="-4.305" y2="-3.7" width="0.2032" layer="51"/>
+<wire x1="-4.305" y1="-3.7" x2="-4.305" y2="-3.2" width="0.2032" layer="51"/>
+<wire x1="-4.305" y1="-3.2" x2="-4.305" y2="3.7" width="0.2032" layer="51"/>
+<wire x1="-4.305" y1="3.7" x2="4.305" y2="3.7" width="0.2032" layer="51"/>
+<wire x1="4.305" y1="-3.2" x2="-4.305" y2="-3.2" width="0.2032" layer="51"/>
+<wire x1="4.305" y1="3.7" x2="4.305" y2="-3.2" width="0.2032" layer="51"/>
+<wire x1="4.305" y1="-3.2" x2="4.305" y2="-3.7" width="0.2032" layer="51"/>
+<wire x1="-4.7625" y1="5.715" x2="-4.7625" y2="-5.715" width="0.2" layer="39"/>
+<wire x1="-4.7625" y1="-5.715" x2="4.7625" y2="-5.715" width="0.2" layer="39"/>
+<wire x1="4.7625" y1="-5.715" x2="4.7625" y2="5.715" width="0.2" layer="39"/>
+<wire x1="4.7625" y1="5.715" x2="-4.7625" y2="5.715" width="0.2" layer="39"/>
+<smd name="2" x="-2.54" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="13" x="-2.54" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="1" x="-3.81" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="3" x="-1.27" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="4" x="0" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="14" x="-3.81" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="12" x="-1.27" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="11" x="0" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="6" x="2.54" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="9" x="2.54" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="5" x="1.27" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="7" x="3.81" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="10" x="1.27" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="8" x="3.81" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<text x="-3.81" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.81" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-4.055" y1="-5.32" x2="-3.565" y2="-3.8" layer="51"/>
+<rectangle x1="-2.785" y1="-5.32" x2="-2.295" y2="-3.8" layer="51"/>
+<rectangle x1="-1.515" y1="-5.32" x2="-1.025" y2="-3.8" layer="51"/>
+<rectangle x1="-0.245" y1="-5.32" x2="0.245" y2="-3.8" layer="51"/>
+<rectangle x1="1.025" y1="-5.32" x2="1.515" y2="-3.8" layer="51"/>
+<rectangle x1="2.295" y1="-5.32" x2="2.785" y2="-3.8" layer="51"/>
+<rectangle x1="3.565" y1="-5.32" x2="4.055" y2="-3.8" layer="51"/>
+<rectangle x1="3.565" y1="3.8" x2="4.055" y2="5.32" layer="51"/>
+<rectangle x1="2.295" y1="3.8" x2="2.785" y2="5.32" layer="51"/>
+<rectangle x1="1.025" y1="3.8" x2="1.515" y2="5.32" layer="51"/>
+<rectangle x1="-0.245" y1="3.8" x2="0.245" y2="5.32" layer="51"/>
+<rectangle x1="-1.515" y1="3.8" x2="-1.025" y2="5.32" layer="51"/>
+<rectangle x1="-2.785" y1="3.8" x2="-2.295" y2="5.32" layer="51"/>
+<rectangle x1="-4.055" y1="3.8" x2="-3.565" y2="5.32" layer="51"/>
+</package>

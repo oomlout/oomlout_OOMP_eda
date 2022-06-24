@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

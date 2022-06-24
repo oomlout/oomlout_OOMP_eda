@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_MD-5050
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

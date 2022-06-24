@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-WSC4527
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

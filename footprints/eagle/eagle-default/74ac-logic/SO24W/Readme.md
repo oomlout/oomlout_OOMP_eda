@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SO24W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

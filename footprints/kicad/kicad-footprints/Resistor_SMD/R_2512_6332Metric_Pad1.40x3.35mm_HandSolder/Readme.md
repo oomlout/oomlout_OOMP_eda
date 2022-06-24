@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2512_6332Metric_Pad1.40x3.35mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

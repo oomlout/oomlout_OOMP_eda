@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2J-1824-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

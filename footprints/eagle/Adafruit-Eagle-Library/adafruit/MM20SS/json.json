@@ -1,9 +1,9 @@
 {
-    "index": 430,
+    "index": 27930,
     "tags": [
         {
             "name": "index",
-            "value": 430
+            "value": 27930
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MM20SS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CRYSTAL&lt;/b&gt;"
         },
         {
             "name": "oompID",

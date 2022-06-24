@@ -1,9 +1,9 @@
 {
-    "index": 521,
+    "index": 28021,
     "tags": [
         {
             "name": "index",
-            "value": 521
+            "value": 28021
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SFH482"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;IR LED&lt;/B&gt;&lt;p&gt;\ninfrared emitting diode, Infineon\nTO-18, lead spacing 2.54 mm, cathode marking&lt;p&gt;\nInifineon"
         },
         {
             "name": "oompID",

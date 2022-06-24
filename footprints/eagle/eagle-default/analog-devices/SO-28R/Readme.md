@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-SO-28R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

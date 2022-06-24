@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-XTAL3215
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

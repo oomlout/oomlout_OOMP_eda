@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S3-WROOM-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

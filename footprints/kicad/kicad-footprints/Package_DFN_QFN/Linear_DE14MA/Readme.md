@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

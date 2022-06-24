@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-40XX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: B3F-40XX
 - oompName: Adafruit-Eagle-Library/adafruit/B3F-40XX
+- description: &lt;b&gt;OMRON SWITCH&lt;/b&gt;
 
 
 

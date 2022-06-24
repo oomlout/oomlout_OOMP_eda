@@ -1,9 +1,9 @@
 {
-    "index": 8238,
+    "index": 35738,
     "tags": [
         {
             "name": "index",
-            "value": 8238
+            "value": 35738
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CHIPLED_0603"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CHIPLED&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LG_LY Q971.pdf"
         },
         {
             "name": "oompID",

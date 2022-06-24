@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

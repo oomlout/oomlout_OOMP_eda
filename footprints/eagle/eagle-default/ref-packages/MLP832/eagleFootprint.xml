@@ -1,2 +1,41 @@
-
-<package name="MLP832"></package>
+<package name="MLP832" urn="urn:adsk.eagle:footprint:8086235/1">
+<description>&lt;b&gt;MLP832 Package&lt;/b&gt;&lt;p&gt;&#xD;
+Source: www.zetex.com/ .. zxtd1m832.pdf</description>
+<wire x1="-1.45" y1="0.95" x2="-1.3" y2="0.95" width="0.1016" layer="21"/>
+<wire x1="-1.3" y1="0.95" x2="1.3" y2="0.95" width="0.1016" layer="51"/>
+<wire x1="1.3" y1="0.95" x2="1.45" y2="0.95" width="0.1016" layer="21"/>
+<wire x1="1.45" y1="0.95" x2="1.45" y2="0.3625" width="0.1016" layer="21"/>
+<wire x1="1.45" y1="0.3625" x2="1.45" y2="-0.375" width="0.1016" layer="51"/>
+<wire x1="1.45" y1="-0.3625" x2="1.45" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="1.45" y1="-0.95" x2="1.3" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="1.3" y1="-0.95" x2="-1.3" y2="-0.95" width="0.1016" layer="51"/>
+<wire x1="-1.3" y1="-0.95" x2="-1.45" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="-1.45" y1="-0.95" x2="-1.45" y2="-0.3625" width="0.1016" layer="21"/>
+<wire x1="-1.45" y1="-0.3625" x2="-1.45" y2="0.3625" width="0.1016" layer="51"/>
+<wire x1="-1.45" y1="0.3625" x2="-1.45" y2="0.95" width="0.1016" layer="21"/>
+<circle x="-1.2" y="-0.475" radius="0.125" width="0" layer="21"/>
+<smd name="1" x="-0.975" y="-0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="2" x="-0.325" y="-0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="3" x="0.325" y="-0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="4" x="0.975" y="-0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="5" x="0.975" y="0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="6" x="0.325" y="0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="7" x="-0.325" y="0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="8" x="-0.975" y="0.9" dx="0.44" dy="0.55" layer="1"/>
+<smd name="F1" x="-0.7" y="0" dx="1.02" dy="0.63" layer="1"/>
+<smd name="F2" x="0.7" y="0" dx="1.02" dy="0.63" layer="1"/>
+<smd name="F1@1" x="-1.375" y="0" dx="0.61" dy="0.4" layer="1"/>
+<smd name="F2@2" x="1.375" y="0" dx="0.61" dy="0.4" layer="1"/>
+<text x="-1.27" y="1.27" size="0.6096" layer="25">&gt;NAME</text>
+<text x="-1.27" y="-1.905" size="0.6096" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.1375" y1="0.675" x2="-0.8125" y2="1.125" layer="51"/>
+<rectangle x1="-0.4875" y1="0.675" x2="-0.1625" y2="1.125" layer="51"/>
+<rectangle x1="0.1625" y1="0.675" x2="0.4875" y2="1.125" layer="51"/>
+<rectangle x1="0.8125" y1="0.675" x2="1.1375" y2="1.125" layer="51"/>
+<rectangle x1="0.8125" y1="-1.125" x2="1.1375" y2="-0.675" layer="51"/>
+<rectangle x1="0.1625" y1="-1.125" x2="0.4875" y2="-0.675" layer="51"/>
+<rectangle x1="-0.4875" y1="-1.125" x2="-0.1625" y2="-0.675" layer="51"/>
+<rectangle x1="-1.1375" y1="-1.125" x2="-0.8125" y2="-0.675" layer="51"/>
+<rectangle x1="-1.625" y1="-0.15" x2="-1.4875" y2="0.15" layer="51"/>
+<rectangle x1="1.4875" y1="-0.15" x2="1.625" y2="0.15" layer="51"/>
+</package>

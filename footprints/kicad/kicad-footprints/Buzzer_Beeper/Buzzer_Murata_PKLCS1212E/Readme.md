@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

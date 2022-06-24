@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOJ28-4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

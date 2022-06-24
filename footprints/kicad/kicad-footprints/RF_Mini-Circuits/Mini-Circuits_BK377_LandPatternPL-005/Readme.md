@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_BK377_LandPatternPL-005
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

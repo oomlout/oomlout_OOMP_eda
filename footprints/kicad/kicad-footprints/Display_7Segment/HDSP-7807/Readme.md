@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7807
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

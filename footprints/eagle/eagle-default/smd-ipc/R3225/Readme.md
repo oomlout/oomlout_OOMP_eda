@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-R3225
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

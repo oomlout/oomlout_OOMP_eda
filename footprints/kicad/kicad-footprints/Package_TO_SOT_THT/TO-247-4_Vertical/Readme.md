@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-4_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

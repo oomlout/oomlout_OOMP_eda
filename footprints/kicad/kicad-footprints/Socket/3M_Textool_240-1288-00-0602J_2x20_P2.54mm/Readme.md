@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Socket-3M_Textool_240-1288-00-0602J_2x20_P2.54mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

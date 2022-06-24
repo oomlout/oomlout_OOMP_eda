@@ -1,9 +1,9 @@
 {
-    "index": 14203,
+    "index": 41703,
     "tags": [
         {
             "name": "index",
-            "value": 14203
+            "value": 41703
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/EDISON_DAUGHTER"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Hirose DF30C-70DP-0.4V(51) Receiver Footprint w/ Edison Outline&lt;/h3&gt;\nPackage can be used as basic guideline for creating Edison-mating daughter boards.\n&lt;br&gt;Includes keepout area for antenna. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:70&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.4mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/DF40C-70DP-0.4V(51).pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;EDISON_FULL_CONNECTOR&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

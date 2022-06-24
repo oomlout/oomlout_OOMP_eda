@@ -1,9 +1,9 @@
 {
-    "index": 560,
+    "index": 28060,
     "tags": [
         {
             "name": "index",
-            "value": 560
+            "value": 28060
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SSOP28"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Shrink Small Outline Package&lt;/b&gt;&lt;p&gt;\npackage type SS"
         },
         {
             "name": "oompID",

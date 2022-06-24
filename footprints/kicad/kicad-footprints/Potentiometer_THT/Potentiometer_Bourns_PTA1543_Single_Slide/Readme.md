@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA1543_Single_Slide
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

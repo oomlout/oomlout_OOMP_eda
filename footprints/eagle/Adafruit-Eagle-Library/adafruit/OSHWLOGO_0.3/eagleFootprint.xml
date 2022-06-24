@@ -1,4 +1,3 @@
-
 <package name="OSHWLOGO_0.3">
 <wire x1="0.762" y1="0.508" x2="0.762" y2="1.524" width="0.4064" layer="51"/>
 <wire x1="0.762" y1="1.524" x2="0" y2="2.286" width="0.4064" layer="51" curve="90"/>

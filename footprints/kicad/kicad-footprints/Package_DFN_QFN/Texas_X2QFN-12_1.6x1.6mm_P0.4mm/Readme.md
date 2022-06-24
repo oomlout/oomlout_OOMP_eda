@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_X2QFN-12_1.6x1.6mm_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

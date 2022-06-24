@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-triac-TOP3S-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

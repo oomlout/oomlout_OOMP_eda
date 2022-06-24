@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-amp-DIMSG144
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

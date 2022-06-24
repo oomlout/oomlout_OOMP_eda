@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_DEM35xxC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

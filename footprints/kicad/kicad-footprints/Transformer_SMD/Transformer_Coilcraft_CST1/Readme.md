@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Coilcraft_CST1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

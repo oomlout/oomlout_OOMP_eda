@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Nexperia_CFP15_SOT-1289
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

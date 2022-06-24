@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-VMT3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9068,
+    "index": 36568,
     "tags": [
         {
             "name": "index",
-            "value": 9068
+            "value": 36568
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT143B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor&lt;/b&gt;"
         },
         {
             "name": "oompID",

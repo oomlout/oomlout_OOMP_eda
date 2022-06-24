@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

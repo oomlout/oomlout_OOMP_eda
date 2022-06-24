@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-CA5070
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

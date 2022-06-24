@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_SheetType_50x7mm_2Fixations
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-pc-SC242CON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

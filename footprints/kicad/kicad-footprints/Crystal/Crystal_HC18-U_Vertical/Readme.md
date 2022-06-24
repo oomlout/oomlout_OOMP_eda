@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC18-U_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

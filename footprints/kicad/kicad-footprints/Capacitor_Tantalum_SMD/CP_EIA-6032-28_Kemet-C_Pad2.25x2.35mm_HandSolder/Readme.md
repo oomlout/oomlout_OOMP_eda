@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

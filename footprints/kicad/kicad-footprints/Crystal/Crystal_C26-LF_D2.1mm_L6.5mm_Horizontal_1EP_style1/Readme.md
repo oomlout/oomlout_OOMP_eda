@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

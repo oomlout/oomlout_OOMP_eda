@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-46-2_Pin2Center
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

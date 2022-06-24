@@ -1,9 +1,9 @@
 {
-    "index": 9338,
+    "index": 36838,
     "tags": [
         {
             "name": "index",
-            "value": 9338
+            "value": 36838
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO202GH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-202&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.54 mm"
         },
         {
             "name": "oompID",

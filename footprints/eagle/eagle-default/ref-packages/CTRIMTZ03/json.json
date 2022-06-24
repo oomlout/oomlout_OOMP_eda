@@ -1,9 +1,9 @@
 {
-    "index": 8280,
+    "index": 35780,
     "tags": [
         {
             "name": "index",
-            "value": 8280
+            "value": 35780
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CTRIMTZ03"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor&lt;/b&gt; muRata"
         },
         {
             "name": "oompID",

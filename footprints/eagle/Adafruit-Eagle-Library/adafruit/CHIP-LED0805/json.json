@@ -1,9 +1,9 @@
 {
-    "index": 250,
+    "index": 27750,
     "tags": [
         {
             "name": "index",
-            "value": 250
+            "value": 27750
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/CHIP-LED0805"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper CHIPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;\nLB R99A&lt;br&gt;\nSource: http://www.osram.convergy.de/ ... lb_r99a.pdf"
         },
         {
             "name": "oompID",

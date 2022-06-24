@@ -1,9 +1,9 @@
 {
-    "index": 9267,
+    "index": 36767,
     "tags": [
         {
             "name": "index",
-            "value": 9267
+            "value": 36767
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SSIP-32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt; 32-pin SSIP&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.tripath.com/audio.htm"
         },
         {
             "name": "oompID",

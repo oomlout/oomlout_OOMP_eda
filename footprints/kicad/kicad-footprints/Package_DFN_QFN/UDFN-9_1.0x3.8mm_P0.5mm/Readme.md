@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UDFN-9_1.0x3.8mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

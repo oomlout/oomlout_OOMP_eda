@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-amp-SIMBRD30
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

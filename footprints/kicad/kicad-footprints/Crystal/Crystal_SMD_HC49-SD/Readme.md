@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

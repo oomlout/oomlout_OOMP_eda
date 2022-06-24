@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-DS10S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D30.0mm_P10.00mm_SnapIn
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

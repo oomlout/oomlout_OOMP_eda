@@ -1,9 +1,9 @@
 {
-    "index": 9517,
+    "index": 37017,
     "tags": [
         {
             "name": "index",
-            "value": 9517
+            "value": 37017
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TSSOP28"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Thin Shrink Small Outline Plastic 28&lt;/b&gt;&lt;p&gt;&#xD;\nMAX3223-MAX3243.pdf"
         },
         {
             "name": "oompID",

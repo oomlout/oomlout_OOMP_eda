@@ -1,9 +1,9 @@
 {
-    "index": 9270,
+    "index": 36770,
     "tags": [
         {
             "name": "index",
-            "value": 9270
+            "value": 36770
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SSO64"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SSO64&lt;/b&gt;&lt;p&gt;&#xD;\nsmall outline integrated circuit/JEDEC M-0117"
         },
         {
             "name": "oompID",

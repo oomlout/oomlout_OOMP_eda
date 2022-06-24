@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D14.2mm_P10.00mm_Neosid_SD14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

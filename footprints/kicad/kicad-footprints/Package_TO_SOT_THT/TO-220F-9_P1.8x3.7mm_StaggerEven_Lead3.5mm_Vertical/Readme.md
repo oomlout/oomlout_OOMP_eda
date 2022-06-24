@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-9_P1.8x3.7mm_StaggerEven_Lead3.5mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

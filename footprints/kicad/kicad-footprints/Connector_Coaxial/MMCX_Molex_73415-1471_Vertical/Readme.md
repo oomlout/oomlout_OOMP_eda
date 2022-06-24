@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-1471_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MINI_MELF-0207R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-B/3528-21R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

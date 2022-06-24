@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-MW-16_INFINEON
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: MW-16_INFINEON
 - oompName: eagle-default/ref-packages/MW-16_INFINEON
+- description: &lt;b&gt;MW; 16 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;
+INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf
+
+
+
+[im]: image.png

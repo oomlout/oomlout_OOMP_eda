@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pot-PT-SPIN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

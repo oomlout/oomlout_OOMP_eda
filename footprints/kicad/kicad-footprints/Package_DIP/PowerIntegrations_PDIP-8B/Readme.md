@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_PDIP-8B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STRIP-5PINSS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

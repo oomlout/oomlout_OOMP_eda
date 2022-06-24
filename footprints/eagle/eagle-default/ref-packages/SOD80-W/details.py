@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SOD80-W")
 newPart.addTag("oompName", "eagle-default/ref-packages/SOD80-W")
 
+newPart.addTag("description", """&lt;b&gt;SOD80 Wave soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SOD80-W",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SOD80-W')
 
 OOMP.parts.append(newPart)

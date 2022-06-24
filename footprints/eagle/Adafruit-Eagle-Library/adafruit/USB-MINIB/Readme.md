@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-USB-MINIB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: USB-MINIB
 - oompName: Adafruit-Eagle-Library/adafruit/USB-MINIB
+- description: Surface Mount USB Mini-B Connector
 
 
 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

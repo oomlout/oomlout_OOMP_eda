@@ -1,9 +1,9 @@
 {
-    "index": 8718,
+    "index": 36218,
     "tags": [
         {
             "name": "index",
-            "value": 8718
+            "value": 36218
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/POWER-SO10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Power SO-10&lt;/b&gt;&lt;p&gt;&#xD;\nhttp://eu.st.com/stonline/ 3732.pdf and 5691.pdf"
         },
         {
             "name": "oompID",

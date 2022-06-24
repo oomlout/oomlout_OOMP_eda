@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

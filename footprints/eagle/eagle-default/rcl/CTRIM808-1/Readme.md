@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-CTRIM808-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

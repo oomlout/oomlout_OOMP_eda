@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-R-PDSO-G16
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: R-PDSO-G16
 - oompName: eagle-default/ref-packages/R-PDSO-G16
+- description: &lt;b&gt;PLASTIC SMALL-OUTLINE PACKAGE SO 16&lt;/b&gt; JEDEC MO-153&lt;p&gt;&#xD;
+Source: www.ti.com/.. slvs087l.pdf
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-F/DB18
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

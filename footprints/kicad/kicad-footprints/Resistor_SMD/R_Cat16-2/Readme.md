@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

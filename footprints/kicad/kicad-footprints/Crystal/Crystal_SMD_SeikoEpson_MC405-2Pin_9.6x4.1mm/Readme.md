@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

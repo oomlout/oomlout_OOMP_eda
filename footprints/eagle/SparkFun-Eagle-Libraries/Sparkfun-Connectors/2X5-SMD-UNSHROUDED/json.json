@@ -1,9 +1,9 @@
 {
-    "index": 14162,
+    "index": 41662,
     "tags": [
         {
             "name": "index",
-            "value": 14162
+            "value": 41662
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X5-SMD-UNSHROUDED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SMD - 2x5 Unshrouded ARM Cortex Debug Connector (10-pin)&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:10&lt;/li&gt;\n&lt;li&gt;Pin pitch:1.27mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;a href=http://www.4uconnector.com/online/object/4udrawing/21200.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;"
         },
         {
             "name": "oompID",

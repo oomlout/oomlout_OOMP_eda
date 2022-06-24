@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Omron-G5Q-1A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

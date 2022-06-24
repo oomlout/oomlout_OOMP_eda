@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_6x6mm_H9.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

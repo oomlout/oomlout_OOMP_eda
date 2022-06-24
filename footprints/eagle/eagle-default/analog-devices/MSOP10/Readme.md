@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-MSOP10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

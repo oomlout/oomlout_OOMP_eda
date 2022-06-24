@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S52-SOCKET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

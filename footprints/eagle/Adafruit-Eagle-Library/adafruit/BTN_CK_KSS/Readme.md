@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BTN_CK_KSS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

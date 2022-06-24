@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-stratix-iv-FBGA1517
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

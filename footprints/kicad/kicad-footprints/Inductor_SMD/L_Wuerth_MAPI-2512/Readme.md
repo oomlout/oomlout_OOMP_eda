@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-2512
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-vg-MAC64R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

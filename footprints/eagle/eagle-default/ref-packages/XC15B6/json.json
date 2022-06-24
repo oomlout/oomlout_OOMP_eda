@@ -1,9 +1,9 @@
 {
-    "index": 9556,
+    "index": 37056,
     "tags": [
         {
             "name": "index",
-            "value": 9556
+            "value": 37056
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/XC15B6"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;X CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nbody 17.5 x 6 mm, grid 15.24 mm"
         },
         {
             "name": "oompID",

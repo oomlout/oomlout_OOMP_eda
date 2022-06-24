@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

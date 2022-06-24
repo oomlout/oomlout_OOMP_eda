@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-R3216W
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: R3216W
 - oompName: eagle-default/ref-packages/R3216W
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;
+wave soldering
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

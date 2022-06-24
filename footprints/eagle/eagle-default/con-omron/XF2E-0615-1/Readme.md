@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2E-0615-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

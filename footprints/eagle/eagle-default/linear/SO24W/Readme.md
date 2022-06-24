@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-SO24W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

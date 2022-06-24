@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-INPGA68
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

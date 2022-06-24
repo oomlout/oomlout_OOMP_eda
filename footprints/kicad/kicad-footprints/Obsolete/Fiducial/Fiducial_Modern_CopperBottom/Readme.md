@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_Modern_CopperBottom
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-SOIC20S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

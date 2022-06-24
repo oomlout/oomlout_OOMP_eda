@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_OST_PJ012-8P8CX_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

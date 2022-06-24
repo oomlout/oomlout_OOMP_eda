@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-EF-12,6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

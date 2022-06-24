@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-24-1POLE36
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

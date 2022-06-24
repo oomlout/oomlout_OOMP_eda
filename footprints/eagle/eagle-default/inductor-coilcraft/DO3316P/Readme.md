@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-coilcraft-DO3316P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

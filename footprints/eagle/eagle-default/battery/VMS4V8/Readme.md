@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-VMS4V8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MINI_MELF-0102AX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: MINI_MELF-0102AX
 - oompName: Adafruit-Eagle-Library/adafruit/MINI_MELF-0102AX
+- description: &lt;b&gt;Mini MELF 0102 Axial&lt;/b&gt;
 
 
 

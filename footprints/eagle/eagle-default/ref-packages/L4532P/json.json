@@ -1,9 +1,9 @@
 {
-    "index": 8510,
+    "index": 36010,
     "tags": [
         {
             "name": "index",
-            "value": 8510
+            "value": 36010
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/L4532P"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;INDUCTOR&lt;/b&gt;&lt;p&gt;&#xD;\nprecision wire wound"
         },
         {
             "name": "oompID",

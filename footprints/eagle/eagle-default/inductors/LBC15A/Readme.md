@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-LBC15A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

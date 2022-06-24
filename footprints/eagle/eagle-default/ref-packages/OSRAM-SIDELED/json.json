@@ -1,9 +1,9 @@
 {
-    "index": 8624,
+    "index": 36124,
     "tags": [
         {
             "name": "index",
-            "value": 8624
+            "value": 36124
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/OSRAM-SIDELED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Super SIDELED High-Current LED&lt;/b&gt;&lt;p&gt;&#xD;\nLG A672, LP A672 &lt;br&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... l_a672.pdf"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 14185,
+    "index": 41685,
     "tags": [
         {
             "name": "index",
-            "value": 14185
+            "value": 41685
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/BM08B-SRSS-TB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;JST Vertical Crimp Connect&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 8&lt;/li&gt;\n&lt;li&gt;Pin pitch:1mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.jst-mfg.com/product/pdf/eng/eSR.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_08&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

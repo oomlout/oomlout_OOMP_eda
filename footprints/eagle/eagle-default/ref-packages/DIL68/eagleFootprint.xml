@@ -1,2 +1,79 @@
-
-<package name="DIL68"></package>
+<package name="DIL68" urn="urn:adsk.eagle:footprint:8083701/1">
+<description>&lt;b&gt;Dual In Line&lt;/b&gt;</description>
+<wire x1="-43.815" y1="-1.27" x2="-43.815" y2="-10.414" width="0.1524" layer="21"/>
+<wire x1="-43.815" y1="1.27" x2="-43.815" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
+<wire x1="43.815" y1="-10.414" x2="43.815" y2="10.414" width="0.1524" layer="21"/>
+<wire x1="-43.815" y1="-10.414" x2="43.815" y2="-10.414" width="0.1524" layer="21"/>
+<wire x1="-43.815" y1="10.414" x2="-43.815" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-43.815" y1="10.414" x2="43.815" y2="10.414" width="0.1524" layer="21"/>
+<pad name="1" x="-41.91" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="2" x="-39.37" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="3" x="-36.83" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="4" x="-34.29" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="5" x="-31.75" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="6" x="-29.21" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="7" x="-26.67" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="8" x="-24.13" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="9" x="-21.59" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="10" x="-19.05" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="11" x="-16.51" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="12" x="-13.97" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="13" x="-11.43" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="14" x="-8.89" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="15" x="-6.35" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="16" x="-3.81" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="17" x="-1.27" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="18" x="1.27" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="19" x="3.81" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="32" x="36.83" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="33" x="39.37" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="46" x="13.97" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="47" x="11.43" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="48" x="8.89" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="49" x="6.35" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="50" x="3.81" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="51" x="1.27" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="52" x="-1.27" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="53" x="-3.81" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="54" x="-6.35" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="55" x="-8.89" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="56" x="-11.43" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="57" x="-13.97" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="58" x="-16.51" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="59" x="-19.05" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="60" x="-21.59" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="61" x="-24.13" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="62" x="-26.67" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="63" x="-29.21" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="64" x="-31.75" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="20" x="6.35" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="21" x="8.89" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="22" x="11.43" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="23" x="13.97" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="24" x="16.51" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="25" x="19.05" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="26" x="21.59" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="27" x="24.13" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="28" x="26.67" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="29" x="29.21" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="30" x="31.75" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="31" x="34.29" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="45" x="16.51" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="44" x="19.05" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="43" x="21.59" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="42" x="24.13" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="41" x="26.67" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="40" x="29.21" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="39" x="31.75" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="38" x="34.29" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="37" x="36.83" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="36" x="39.37" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="35" x="41.91" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="34" x="41.91" y="-11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="65" x="-34.29" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="66" x="-36.83" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="67" x="-39.37" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<pad name="68" x="-41.91" y="11.43" drill="0.8128" shape="long" rot="R90"/>
+<text x="-44.323" y="-10.033" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="-39.37" y="-0.9652" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+</package>

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-DIL20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

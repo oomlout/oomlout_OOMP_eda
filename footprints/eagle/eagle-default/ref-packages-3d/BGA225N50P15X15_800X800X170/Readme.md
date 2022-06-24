@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA225N50P15X15_800X800X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH2MCNxxxx02_2.0x1.6mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

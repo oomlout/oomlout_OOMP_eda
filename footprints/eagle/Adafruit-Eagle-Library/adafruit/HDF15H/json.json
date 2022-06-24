@@ -1,9 +1,9 @@
 {
-    "index": 379,
+    "index": 27879,
     "tags": [
         {
             "name": "index",
-            "value": 379
+            "value": 27879
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/HDF15H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SUB-D&lt;/b&gt;"
         },
         {
             "name": "oompID",

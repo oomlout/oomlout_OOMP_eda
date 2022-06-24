@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P2781_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

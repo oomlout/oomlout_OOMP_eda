@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-KS2610
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

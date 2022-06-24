@@ -1,9 +1,9 @@
 {
-    "index": 601,
+    "index": 28101,
     "tags": [
         {
             "name": "index",
-            "value": 601
+            "value": 28101
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TSSOP14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Thin Shrink Small Outline Plastic 14&lt;/b&gt;&lt;p&gt;"
         },
         {
             "name": "oompID",

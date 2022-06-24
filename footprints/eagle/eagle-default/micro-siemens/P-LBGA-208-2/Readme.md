@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-LBGA-208-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

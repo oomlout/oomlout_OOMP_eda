@@ -1,9 +1,9 @@
 {
-    "index": 8894,
+    "index": 36394,
     "tags": [
         {
             "name": "index",
-            "value": 8894
+            "value": 36394
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SMC"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DIODE&lt;/b&gt;"
         },
         {
             "name": "oompID",

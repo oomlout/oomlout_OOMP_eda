@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.2mm_P3.00mm_Murata_1700
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

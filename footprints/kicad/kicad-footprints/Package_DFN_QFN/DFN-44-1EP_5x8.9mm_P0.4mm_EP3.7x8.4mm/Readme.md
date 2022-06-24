@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 568,
+    "index": 28068,
     "tags": [
         {
             "name": "index",
-            "value": 568
+            "value": 28068
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TAP5-60"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ndiameter 6.0 mm, grid 5.08 mm"
         },
         {
             "name": "oompID",

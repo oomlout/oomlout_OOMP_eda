@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-PQFP44
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: PQFP44
 - oompName: eagle-default/ref-packages/PQFP44
+- description: &lt;B&gt;Plastic Quad Flat Package&lt;/B&gt;
+
+
+
+[im]: image.png

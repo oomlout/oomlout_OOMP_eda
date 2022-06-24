@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

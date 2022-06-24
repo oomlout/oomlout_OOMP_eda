@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_MeanWell_NID60_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

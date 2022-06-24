@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-USB_B_VERTICAL_PTH
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

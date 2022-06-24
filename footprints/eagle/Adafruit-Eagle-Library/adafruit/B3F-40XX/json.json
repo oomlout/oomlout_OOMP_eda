@@ -1,9 +1,9 @@
 {
-    "index": 155,
+    "index": 27655,
     "tags": [
         {
             "name": "index",
-            "value": 155
+            "value": 27655
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/B3F-40XX"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;OMRON SWITCH&lt;/b&gt;"
         },
         {
             "name": "oompID",

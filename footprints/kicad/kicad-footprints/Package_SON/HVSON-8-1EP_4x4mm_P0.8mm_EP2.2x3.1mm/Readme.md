@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

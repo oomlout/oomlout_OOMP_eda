@@ -1,9 +1,9 @@
 {
-    "index": 8626,
+    "index": 36126,
     "tags": [
         {
             "name": "index",
-            "value": 8626
+            "value": 36126
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P-LCC-2-TOPLED-RG"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper TOPLED RG Hyper-Bright LED&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LA_LO_LS_LY T776.pdf"
         },
         {
             "name": "oompID",

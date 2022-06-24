@@ -1,9 +1,9 @@
 {
-    "index": 8174,
+    "index": 35674,
     "tags": [
         {
             "name": "index",
-            "value": 8174
+            "value": 35674
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C150-054X183"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 15 mm, outline 5.4 x 18.3 mm"
         },
         {
             "name": "oompID",

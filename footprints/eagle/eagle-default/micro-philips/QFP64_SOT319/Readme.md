@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP64_SOT319
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

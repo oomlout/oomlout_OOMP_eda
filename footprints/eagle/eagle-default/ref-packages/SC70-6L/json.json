@@ -1,9 +1,9 @@
 {
-    "index": 8871,
+    "index": 36371,
     "tags": [
         {
             "name": "index",
-            "value": 8871
+            "value": 36371
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SC70-6L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SC-70 Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

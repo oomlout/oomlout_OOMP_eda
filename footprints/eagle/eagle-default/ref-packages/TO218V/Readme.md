@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO218V
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO218V
 - oompName: eagle-default/ref-packages/TO218V
+- description: &lt;b&gt;TO 218 vertical&lt;/b&gt;
+
+
+
+[im]: image.png

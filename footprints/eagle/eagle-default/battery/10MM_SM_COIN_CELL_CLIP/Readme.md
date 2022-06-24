@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

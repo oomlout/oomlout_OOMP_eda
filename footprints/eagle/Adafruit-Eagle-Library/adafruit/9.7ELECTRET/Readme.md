@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-9.7ELECTRET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

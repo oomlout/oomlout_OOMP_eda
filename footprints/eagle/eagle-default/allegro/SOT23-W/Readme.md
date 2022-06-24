@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-SOT23-W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

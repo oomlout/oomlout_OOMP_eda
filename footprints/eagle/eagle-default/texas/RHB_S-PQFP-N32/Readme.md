@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-RHB_S-PQFP-N32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

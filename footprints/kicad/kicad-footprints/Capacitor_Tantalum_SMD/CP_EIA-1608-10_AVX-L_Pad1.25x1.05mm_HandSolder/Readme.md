@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-10_AVX-L_Pad1.25x1.05mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

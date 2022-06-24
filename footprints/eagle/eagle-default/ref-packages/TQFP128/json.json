@@ -1,9 +1,9 @@
 {
-    "index": 9472,
+    "index": 36972,
     "tags": [
         {
             "name": "index",
-            "value": 9472
+            "value": 36972
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TQFP128"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Thin Quad Flat Pack&lt;/b&gt;"
         },
         {
             "name": "oompID",

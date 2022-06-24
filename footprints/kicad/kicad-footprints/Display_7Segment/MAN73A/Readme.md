@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN73A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

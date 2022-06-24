@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-JST-6-SMD-1.25MM-LOCKING
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

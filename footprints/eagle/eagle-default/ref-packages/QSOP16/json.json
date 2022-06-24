@@ -1,9 +1,9 @@
 {
-    "index": 8767,
+    "index": 36267,
     "tags": [
         {
             "name": "index",
-            "value": 8767
+            "value": 36267
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QSOP16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

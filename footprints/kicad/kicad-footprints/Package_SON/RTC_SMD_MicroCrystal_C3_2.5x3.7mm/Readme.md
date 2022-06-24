@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

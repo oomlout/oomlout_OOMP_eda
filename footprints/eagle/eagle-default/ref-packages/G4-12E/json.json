@@ -1,9 +1,9 @@
 {
-    "index": 8463,
+    "index": 35963,
     "tags": [
         {
             "name": "index",
-            "value": 8463
+            "value": 35963
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/G4-12E"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 7.62 mm, horizontal, grid 12.7 mm"
         },
         {
             "name": "oompID",

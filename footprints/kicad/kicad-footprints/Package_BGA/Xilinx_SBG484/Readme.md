@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_SBG484
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D24.1mm_P21.80mm_Bourns_2200
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

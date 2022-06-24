@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-SC70-5L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

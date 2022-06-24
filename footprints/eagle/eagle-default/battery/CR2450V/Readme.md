@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-CR2450V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

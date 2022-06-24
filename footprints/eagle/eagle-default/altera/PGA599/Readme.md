@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-PGA599
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

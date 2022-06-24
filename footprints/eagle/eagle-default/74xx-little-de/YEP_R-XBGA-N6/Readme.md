@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-YEP_R-XBGA-N6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

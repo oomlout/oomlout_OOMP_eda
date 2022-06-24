@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339W_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

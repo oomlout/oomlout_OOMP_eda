@@ -1,9 +1,9 @@
 {
-    "index": 8755,
+    "index": 36255,
     "tags": [
         {
             "name": "index",
-            "value": 8755
+            "value": 36255
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFP44_SOT205-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Quad Flat Package SOT205-1&lt;/b&gt; 44 leads &lt;p&gt;&#xD;\nsource: http://www.semiconductors.philips.com/&lt;p&gt;&#xD;\nLQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf"
         },
         {
             "name": "oompID",

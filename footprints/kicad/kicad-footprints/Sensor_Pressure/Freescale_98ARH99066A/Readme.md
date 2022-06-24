@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Freescale_98ARH99066A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

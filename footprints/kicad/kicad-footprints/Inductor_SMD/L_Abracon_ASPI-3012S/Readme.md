@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-3012S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ftdichip-QFN16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP100_SOT317-SOT382-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

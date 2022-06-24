@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L25.0mm_W9.0mm_P7.62mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

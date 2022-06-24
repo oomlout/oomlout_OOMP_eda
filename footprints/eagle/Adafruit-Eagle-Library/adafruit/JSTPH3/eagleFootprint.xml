@@ -1,4 +1,3 @@
-
 <package name="JSTPH3">
 <wire x1="-5" y1="4" x2="5" y2="4" width="0.2032" layer="51"/>
 <wire x1="5" y1="4" x2="5" y2="-3.5" width="0.2032" layer="51"/>

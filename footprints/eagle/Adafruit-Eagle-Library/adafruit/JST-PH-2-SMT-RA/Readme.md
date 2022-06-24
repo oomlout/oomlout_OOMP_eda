@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JST-PH-2-SMT-RA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: JST-PH-2-SMT-RA
 - oompName: Adafruit-Eagle-Library/adafruit/JST-PH-2-SMT-RA
+- description: 2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
 
 
 

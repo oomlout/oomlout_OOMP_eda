@@ -1,2 +1,22 @@
-
-<package name="VMT3"></package>
+<package name="VMT3" urn="urn:adsk.eagle:footprint:8086120/1">
+<description>&lt;b&gt;ROHM : VMT3&lt;/b&gt;&lt;p&gt;&#xD;
+2SC4726.pdf</description>
+<wire x1="0.55" y1="0.35" x2="0.55" y2="-0.1" width="0.1016" layer="21"/>
+<wire x1="0.55" y1="-0.35" x2="0.1" y2="-0.35" width="0.1016" layer="51"/>
+<wire x1="0.1" y1="-0.35" x2="-0.1" y2="-0.35" width="0.1016" layer="21"/>
+<wire x1="-0.1" y1="-0.35" x2="-0.55" y2="-0.35" width="0.1016" layer="51"/>
+<wire x1="-0.55" y1="-0.1" x2="-0.55" y2="0.35" width="0.1016" layer="21"/>
+<wire x1="-0.55" y1="0.35" x2="-0.4" y2="0.35" width="0.1016" layer="21"/>
+<wire x1="-0.4" y1="0.35" x2="0.4" y2="0.35" width="0.1016" layer="51"/>
+<wire x1="0.4" y1="0.35" x2="0.55" y2="0.35" width="0.1016" layer="21"/>
+<wire x1="0.55" y1="-0.1" x2="0.55" y2="-0.35" width="0.1016" layer="51"/>
+<wire x1="-0.55" y1="-0.1" x2="-0.55" y2="-0.35" width="0.1016" layer="51"/>
+<smd name="B" x="-0.4" y="-0.5" dx="0.4" dy="0.6" layer="1"/>
+<smd name="E" x="0.4" y="-0.5" dx="0.4" dy="0.6" layer="1"/>
+<smd name="C" x="0" y="0.5" dx="0.4" dy="0.6" layer="1"/>
+<text x="-0.6" y="0.9" size="1.27" layer="25">&gt;NAME</text>
+<text x="-0.6" y="-2.2" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="0.29" y1="-0.6" x2="0.51" y2="-0.39" layer="51"/>
+<rectangle x1="-0.51" y1="-0.6" x2="-0.29" y2="-0.39" layer="51"/>
+<rectangle x1="-0.16" y1="0.39" x2="0.16" y2="0.6" layer="51"/>
+</package>

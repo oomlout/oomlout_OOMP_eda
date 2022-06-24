@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

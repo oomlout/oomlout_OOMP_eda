@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-WROOM-02
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

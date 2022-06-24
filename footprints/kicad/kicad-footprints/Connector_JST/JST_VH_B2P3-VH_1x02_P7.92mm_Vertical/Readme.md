@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B2P3-VH_1x02_P7.92mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

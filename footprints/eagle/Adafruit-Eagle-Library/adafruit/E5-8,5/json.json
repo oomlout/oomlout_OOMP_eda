@@ -1,9 +1,9 @@
 {
-    "index": 327,
+    "index": 27827,
     "tags": [
         {
             "name": "index",
-            "value": 327
+            "value": 27827
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/E5-8,5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 5.08 mm, diameter 8.5 mm"
         },
         {
             "name": "oompID",

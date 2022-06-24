@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_LandPatternPL-094
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

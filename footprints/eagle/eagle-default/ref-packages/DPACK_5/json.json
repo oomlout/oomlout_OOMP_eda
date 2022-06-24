@@ -1,9 +1,9 @@
 {
-    "index": 8379,
+    "index": 35879,
     "tags": [
         {
             "name": "index",
-            "value": 8379
+            "value": 35879
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DPACK_5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DPAK&lt;/b&gt;&lt;p&gt;Style 5 (Motorola)"
         },
         {
             "name": "oompID",

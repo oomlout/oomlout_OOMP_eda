@@ -1,4 +1,3 @@
-
 <package name="RASPBERRY_PI_SHIELD_NOHOLES">
 <smd name="1" x="8.382" y="7.6865" dx="1.87" dy="1.02" layer="1" rot="R90"/>
 <smd name="2" x="8.382" y="1.9289" dx="1.87" dy="1.02" layer="1" rot="R90"/>

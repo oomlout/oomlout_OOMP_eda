@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

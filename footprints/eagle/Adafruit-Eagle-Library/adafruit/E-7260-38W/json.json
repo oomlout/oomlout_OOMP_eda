@@ -1,9 +1,9 @@
 {
-    "index": 290,
+    "index": 27790,
     "tags": [
         {
             "name": "index",
-            "value": 290
+            "value": 27790
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/E/7260-38W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET E / EIA 7260-38 Wafe solder&lt;/b&gt;"
         },
         {
             "name": "oompID",

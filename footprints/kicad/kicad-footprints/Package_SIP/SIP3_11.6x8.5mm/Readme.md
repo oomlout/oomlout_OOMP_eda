@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

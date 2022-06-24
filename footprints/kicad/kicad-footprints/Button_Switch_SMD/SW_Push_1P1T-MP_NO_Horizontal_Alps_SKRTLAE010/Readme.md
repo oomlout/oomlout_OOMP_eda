@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

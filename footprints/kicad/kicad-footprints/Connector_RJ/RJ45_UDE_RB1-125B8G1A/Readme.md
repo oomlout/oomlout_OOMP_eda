@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_UDE_RB1-125B8G1A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

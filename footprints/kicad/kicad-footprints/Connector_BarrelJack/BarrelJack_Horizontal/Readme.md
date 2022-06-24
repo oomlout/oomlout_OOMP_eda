@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

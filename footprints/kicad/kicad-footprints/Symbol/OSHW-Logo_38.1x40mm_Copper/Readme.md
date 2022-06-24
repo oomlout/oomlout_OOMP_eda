@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_38.1x40mm_Copper
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

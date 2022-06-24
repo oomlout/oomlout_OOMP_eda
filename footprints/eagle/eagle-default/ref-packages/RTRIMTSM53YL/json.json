@@ -1,9 +1,9 @@
 {
-    "index": 8848,
+    "index": 36348,
     "tags": [
         {
             "name": "index",
-            "value": 8848
+            "value": 36348
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIMTSM53YL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; VISHAY&lt;p&gt;&#xD;\nabgedichtet nach &lt;b&gt;IP67&lt;/b&gt;"
         },
         {
             "name": "oompID",

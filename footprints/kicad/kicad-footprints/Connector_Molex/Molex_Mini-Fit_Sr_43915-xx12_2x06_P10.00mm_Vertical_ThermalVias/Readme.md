@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

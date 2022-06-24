@@ -1,2 +1,22 @@
-
-<package name="TO72A"></package>
+<package name="TO72A" urn="urn:adsk.eagle:footprint:8086066/1">
+<description>&lt;b&gt;TO-72&lt;/b&gt;&lt;p&gt;&#xD;
+grid 2.54 mm</description>
+<wire x1="-0.9289" y1="2.227" x2="0.9289" y2="2.227" width="0.0508" layer="21" curve="-45.282836"/>
+<wire x1="-0.9289" y1="-2.227" x2="0.9289" y2="-2.227" width="0.0508" layer="21" curve="45.282836"/>
+<wire x1="-2.227" y1="0.9289" x2="-2.227" y2="-0.9289" width="0.0508" layer="21" curve="45.282836"/>
+<wire x1="-2.227" y1="-0.9289" x2="-0.9289" y2="-2.227" width="0.0508" layer="51" curve="44.717164"/>
+<wire x1="-2.227" y1="0.9289" x2="-0.9289" y2="2.227" width="0.0508" layer="51" curve="-44.717164"/>
+<wire x1="2.227" y1="-0.9289" x2="2.227" y2="0.9289" width="0.0508" layer="21" curve="45.282836"/>
+<wire x1="0.9289" y1="-2.227" x2="2.227" y2="-0.9289" width="0.0508" layer="51" curve="44.717164"/>
+<wire x1="0.9289" y1="2.227" x2="2.227" y2="0.9289" width="0.0508" layer="51" curve="-44.717164"/>
+<wire x1="-2.8956" y1="-0.508" x2="-3.937" y2="-0.508" width="0.1524" layer="21"/>
+<wire x1="-3.937" y1="-0.508" x2="-3.937" y2="0.508" width="0.1524" layer="21"/>
+<wire x1="-3.937" y1="0.508" x2="-2.8956" y2="0.508" width="0.1524" layer="21"/>
+<circle x="0" y="0" radius="2.921" width="0.1524" layer="21"/>
+<pad name="B" x="-1.27" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="E" x="1.27" y="-1.27" drill="0.8128" shape="octagon"/>
+<pad name="C" x="1.27" y="1.27" drill="0.8128" shape="octagon"/>
+<pad name="GEH" x="-1.27" y="1.27" drill="0.8128" shape="octagon"/>
+<text x="3.175" y="0" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="3.175" y="-1.905" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+</package>

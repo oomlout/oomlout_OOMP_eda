@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-82725A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MicroMELF_MMU-0102
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

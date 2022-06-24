@@ -1,9 +1,9 @@
 {
-    "index": 8888,
+    "index": 36388,
     "tags": [
         {
             "name": "index",
-            "value": 8888
+            "value": 36388
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SIP11"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 1.7 mm"
         },
         {
             "name": "oompID",

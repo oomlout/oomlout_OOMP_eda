@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-exar-DIL28-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

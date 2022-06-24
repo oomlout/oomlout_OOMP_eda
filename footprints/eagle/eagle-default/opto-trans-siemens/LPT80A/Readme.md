@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-opto-trans-siemens-LPT80A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

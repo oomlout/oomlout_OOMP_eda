@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-frames-A4L-LOC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

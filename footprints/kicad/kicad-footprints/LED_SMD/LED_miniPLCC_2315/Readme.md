@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

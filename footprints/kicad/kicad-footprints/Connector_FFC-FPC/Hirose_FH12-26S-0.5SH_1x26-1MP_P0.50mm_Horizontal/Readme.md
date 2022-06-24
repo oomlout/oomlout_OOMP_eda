@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

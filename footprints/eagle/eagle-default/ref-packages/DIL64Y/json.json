@@ -1,9 +1,9 @@
 {
-    "index": 8328,
+    "index": 35828,
     "tags": [
         {
             "name": "index",
-            "value": 8328
+            "value": 35828
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DIL64Y"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Dual In Line, elongated pads&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-19S-0.5SH_1x19-1MP_P0.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

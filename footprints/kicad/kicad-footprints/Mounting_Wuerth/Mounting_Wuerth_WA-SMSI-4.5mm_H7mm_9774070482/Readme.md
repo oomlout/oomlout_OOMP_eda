@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H7mm_9774070482
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

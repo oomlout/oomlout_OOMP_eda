@@ -1,9 +1,9 @@
 {
-    "index": 9130,
+    "index": 36630,
     "tags": [
         {
             "name": "index",
-            "value": 9130
+            "value": 36630
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT82S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT 82&lt;/b&gt; vertical (Cathode; Anode; Gate)"
         },
         {
             "name": "oompID",

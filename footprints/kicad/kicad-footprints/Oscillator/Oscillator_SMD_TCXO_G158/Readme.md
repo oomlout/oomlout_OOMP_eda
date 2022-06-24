@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TCXO_G158
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

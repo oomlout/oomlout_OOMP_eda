@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI30-2VA_2xSec
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

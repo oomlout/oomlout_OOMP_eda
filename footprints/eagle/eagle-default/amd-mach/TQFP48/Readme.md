@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-amd-mach-TQFP48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

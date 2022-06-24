@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-intel-PSOP44L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

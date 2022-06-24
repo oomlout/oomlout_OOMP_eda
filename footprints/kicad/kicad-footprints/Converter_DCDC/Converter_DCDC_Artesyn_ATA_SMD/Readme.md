@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Artesyn_ATA_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

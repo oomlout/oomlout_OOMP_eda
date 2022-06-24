@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

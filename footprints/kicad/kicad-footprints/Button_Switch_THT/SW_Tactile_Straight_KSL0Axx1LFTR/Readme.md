@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSL0Axx1LFTR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

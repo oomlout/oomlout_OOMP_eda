@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6S-2G
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

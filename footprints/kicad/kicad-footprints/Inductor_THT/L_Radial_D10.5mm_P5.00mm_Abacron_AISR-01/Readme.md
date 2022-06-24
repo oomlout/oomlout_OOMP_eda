@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8475,
+    "index": 35975,
     "tags": [
         {
             "name": "index",
-            "value": 8475
+            "value": 35975
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/HA04E"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metal Can Package&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor HA04E"
         },
         {
             "name": "oompID",

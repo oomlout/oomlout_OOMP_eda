@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

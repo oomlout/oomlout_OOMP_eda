@@ -1,9 +1,9 @@
 {
-    "index": 14259,
+    "index": 41759,
     "tags": [
         {
             "name": "index",
-            "value": 14259
+            "value": 41759
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/NANO_SIM_PP"
+        },
+        {
+            "name": "description",
+            "value": "Part#: ATOM-A03621 or MUP-C7801"
         },
         {
             "name": "oompID",

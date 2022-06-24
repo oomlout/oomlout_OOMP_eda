@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-100_14x20mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

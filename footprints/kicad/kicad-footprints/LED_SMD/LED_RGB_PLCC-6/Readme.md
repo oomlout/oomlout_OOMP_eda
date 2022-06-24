@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_PLCC-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

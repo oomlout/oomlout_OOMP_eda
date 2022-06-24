@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT43-XXX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

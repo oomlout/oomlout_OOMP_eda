@@ -1,9 +1,9 @@
 {
-    "index": 9097,
+    "index": 36597,
     "tags": [
         {
             "name": "index",
-            "value": 9097
+            "value": 36597
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT323-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT323 Wave soldering&lt;/b&gt;&lt;p&gt;&#xD;\nPhilips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

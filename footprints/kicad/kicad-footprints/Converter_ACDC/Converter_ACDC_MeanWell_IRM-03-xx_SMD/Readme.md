@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-03-xx_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9103,
+    "index": 36603,
     "tags": [
         {
             "name": "index",
-            "value": 9103
+            "value": 36603
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT343N"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 4 leads&lt;/b&gt;&lt;p&gt;&#xD;\nPhilips Semiconductors, SOT343N.pdf"
         },
         {
             "name": "oompID",

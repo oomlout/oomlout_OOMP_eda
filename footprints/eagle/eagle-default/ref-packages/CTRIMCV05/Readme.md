@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMCV05
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: CTRIMCV05
 - oompName: eagle-default/ref-packages/CTRIMCV05
+- description: &lt;b&gt;Trimm capacitor&lt;/b&gt; BC-Components
+
+
+
+[im]: image.png

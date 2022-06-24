@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-BP-104BS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

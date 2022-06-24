@@ -1,9 +1,9 @@
 {
-    "index": 547,
+    "index": 28047,
     "tags": [
         {
             "name": "index",
-            "value": 547
+            "value": 28047
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SOD-523"
+        },
+        {
+            "name": "description",
+            "value": "SOD-523 (0.8x1.2mm)\n\n&lt;p&gt;Source: http://www.rohm.com/products/databook/di/pdf/rb751s-40.pdf&lt;/p&gt;"
         },
         {
             "name": "oompID",

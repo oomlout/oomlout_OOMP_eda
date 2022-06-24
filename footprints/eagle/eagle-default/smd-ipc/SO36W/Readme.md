@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SO36W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

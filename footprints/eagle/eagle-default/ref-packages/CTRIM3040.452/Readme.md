@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3040.452
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,10 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: CTRIM3040.452
 - oompName: eagle-default/ref-packages/CTRIM3040.452
+- description: &lt;b&gt;Trimm capacitor&lt;/b&gt; STELCO GmbH&lt;p&gt;&#xD;
+ 7 S-Triko 160 V DC for PCB mounting &lt;p&gt;&#xD;
+ Adjustable from one side for automatic adjustment, vertical to PCB
+
+
+
+[im]: image.png

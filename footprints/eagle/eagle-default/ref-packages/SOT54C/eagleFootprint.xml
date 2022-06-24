@@ -1,2 +1,17 @@
-
-<package name="SOT54C"></package>
+<package name="SOT54CA" urn="urn:adsk.eagle:footprint:8085984/1">
+<description>&lt;b&gt;SOT-54&lt;/b&gt;&lt;p&gt;&#xD;
+grid 5.08 mm</description>
+<wire x1="-1.631" y1="-1.778" x2="1.631" y2="-1.778" width="0.1524" layer="21"/>
+<wire x1="-1.1105" y1="2.1423" x2="1.1105" y2="2.1423" width="0.1524" layer="51" curve="-54.801566"/>
+<wire x1="-2.1254" y1="1.1425" x2="-2.1254" y2="-1.1425" width="0.1524" layer="51" curve="56.520138"/>
+<wire x1="-2.1251" y1="-1.1425" x2="-1.631" y2="-1.778" width="0.1524" layer="21" curve="19.203018"/>
+<wire x1="-2.1254" y1="1.1425" x2="-1.1105" y2="2.1423" width="0.1524" layer="21" curve="-34.339012"/>
+<wire x1="2.1254" y1="-1.1425" x2="2.1254" y2="1.1425" width="0.1524" layer="51" curve="56.520138"/>
+<wire x1="1.631" y1="-1.778" x2="2.1251" y2="-1.1425" width="0.1524" layer="21" curve="19.203018"/>
+<wire x1="1.1105" y1="2.1423" x2="2.1254" y2="1.1425" width="0.1524" layer="21" curve="-34.339012"/>
+<pad name="G" x="-2.54" y="0" drill="0.8128" shape="octagon"/>
+<pad name="S" x="0" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="D" x="2.54" y="0" drill="0.8128" shape="octagon"/>
+<text x="-2.54" y="-5.207" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-2.54" y="-3.556" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+</package>

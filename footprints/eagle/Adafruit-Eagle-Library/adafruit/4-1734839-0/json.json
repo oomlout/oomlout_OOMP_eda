@@ -1,9 +1,9 @@
 {
-    "index": 119,
+    "index": 27619,
     "tags": [
         {
             "name": "index",
-            "value": 119
+            "value": 27619
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/4-1734839-0"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Reduced-area Rotary Backlock Type (0.5 mm-pitch)&lt;/b&gt;&lt;p&gt;\nSource : http://www.omron.com/ecb/products/pdf/fpc.pdf"
         },
         {
             "name": "oompID",

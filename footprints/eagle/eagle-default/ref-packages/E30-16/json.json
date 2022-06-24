@@ -1,9 +1,9 @@
 {
-    "index": 8408,
+    "index": 35908,
     "tags": [
         {
             "name": "index",
-            "value": 8408
+            "value": 35908
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E30-16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 30.48 mm, diameter 16 mm"
         },
         {
             "name": "oompID",

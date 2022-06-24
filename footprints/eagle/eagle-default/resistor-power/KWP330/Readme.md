@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-KWP330
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

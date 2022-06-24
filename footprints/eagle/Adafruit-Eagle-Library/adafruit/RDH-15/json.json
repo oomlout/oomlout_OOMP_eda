@@ -1,9 +1,9 @@
 {
-    "index": 504,
+    "index": 28004,
     "tags": [
         {
             "name": "index",
-            "value": 504
+            "value": 28004
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/RDH/15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\ntype RDH, grid 15 mm"
         },
         {
             "name": "oompID",

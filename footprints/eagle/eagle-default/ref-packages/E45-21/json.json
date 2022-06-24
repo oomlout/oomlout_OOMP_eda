@@ -1,9 +1,9 @@
 {
-    "index": 8416,
+    "index": 35916,
     "tags": [
         {
             "name": "index",
-            "value": 8416
+            "value": 35916
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E45-21"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 45.72 mm, diameter 21 mm"
         },
         {
             "name": "oompID",

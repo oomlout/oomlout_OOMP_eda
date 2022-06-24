@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-4816P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-dil-4X0402ARV341
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

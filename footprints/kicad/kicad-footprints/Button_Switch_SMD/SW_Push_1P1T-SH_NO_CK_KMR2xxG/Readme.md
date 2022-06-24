@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-SH_NO_CK_KMR2xxG
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

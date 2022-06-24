@@ -1,9 +1,9 @@
 {
-    "index": 42,
+    "index": 27542,
     "tags": [
         {
             "name": "index",
-            "value": 42
+            "value": 27542
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/150CLZ-0810"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors SMD (Chip)&lt;/b&gt;&lt;p&gt;\nLong life base plate, very low impedance 150 CLZ&lt;p&gt;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

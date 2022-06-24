@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

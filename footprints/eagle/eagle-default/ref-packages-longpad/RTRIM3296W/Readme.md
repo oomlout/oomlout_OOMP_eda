@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIM3296W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

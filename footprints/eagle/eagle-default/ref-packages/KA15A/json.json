@@ -1,9 +1,9 @@
 {
-    "index": 8490,
+    "index": 35990,
     "tags": [
         {
             "name": "index",
-            "value": 8490
+            "value": 35990
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/KA15A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-3&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor KA15A"
         },
         {
             "name": "oompID",

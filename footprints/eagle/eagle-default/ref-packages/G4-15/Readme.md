@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-G4-15
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: G4-15
 - oompName: eagle-default/ref-packages/G4-15
+- description: &lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 7.62 mm, horizontal, grid 15.24 mm
+
+
+
+[im]: image.png

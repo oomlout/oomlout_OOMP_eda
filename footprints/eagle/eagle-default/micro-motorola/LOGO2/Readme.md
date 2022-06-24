@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-motorola-LOGO2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

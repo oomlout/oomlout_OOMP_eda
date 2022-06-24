@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN50P400X400X100-17T235
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

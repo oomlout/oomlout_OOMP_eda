@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_614004134726_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

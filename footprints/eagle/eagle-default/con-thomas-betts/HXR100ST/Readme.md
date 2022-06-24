@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR100ST
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

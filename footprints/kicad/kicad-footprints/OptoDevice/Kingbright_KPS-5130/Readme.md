@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-5130
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

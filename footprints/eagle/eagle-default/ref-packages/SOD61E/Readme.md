@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOD61E
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOD61E
 - oompName: eagle-default/ref-packages/SOD61E
+- description: &lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 3.5 mm, vertical, grid 20.32 mm
+
+
+
+[im]: image.png

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO237
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: TO237
 - oompName: Adafruit-Eagle-Library/adafruit/TO237
+- description: &lt;b&gt;TO 273&lt;/b&gt;
 
 
 

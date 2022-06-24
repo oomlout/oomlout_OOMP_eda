@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W8.89mm_SMDSocket_LongPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

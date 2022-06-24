@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12YWA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

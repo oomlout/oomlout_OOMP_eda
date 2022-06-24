@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_LPT80A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

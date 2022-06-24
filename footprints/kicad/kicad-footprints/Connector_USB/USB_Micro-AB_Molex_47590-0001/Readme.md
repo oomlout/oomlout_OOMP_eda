@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-AB_Molex_47590-0001
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

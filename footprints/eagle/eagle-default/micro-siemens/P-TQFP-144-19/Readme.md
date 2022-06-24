@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-siemens-P-TQFP-144-19
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

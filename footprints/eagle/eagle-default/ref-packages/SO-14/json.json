@@ -1,9 +1,9 @@
 {
-    "index": 8899,
+    "index": 36399,
     "tags": [
         {
             "name": "index",
-            "value": 8899
+            "value": 36399
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO-14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Small Outline Narrow Plastic Gull Wing&lt;/B&gt;&lt;p&gt;&#xD;\n150-mil body, package type SL"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-SOT363-INFINION
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

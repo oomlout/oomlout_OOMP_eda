@@ -1,9 +1,9 @@
 {
-    "index": 9203,
+    "index": 36703,
     "tags": [
         {
             "name": "index",
-            "value": 9203
+            "value": 36703
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SQFP-S-14X14-80"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFP80&lt;/b&gt;&lt;p&gt;&#xD;\nshrink quad flat pack, square"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AE_P3.81mm_Vertical_KathodeUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

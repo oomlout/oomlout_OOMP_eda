@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-LATCHTERMINAL-5MM-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

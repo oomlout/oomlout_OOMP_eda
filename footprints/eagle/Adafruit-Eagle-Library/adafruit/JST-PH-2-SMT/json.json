@@ -1,9 +1,9 @@
 {
-    "index": 391,
+    "index": 27891,
     "tags": [
         {
             "name": "index",
-            "value": 391
+            "value": 27891
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/JST-PH-2-SMT"
+        },
+        {
+            "name": "description",
+            "value": "2-Pin JST PH Series Right-Angle Connector (+/- for batteries)"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-07
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

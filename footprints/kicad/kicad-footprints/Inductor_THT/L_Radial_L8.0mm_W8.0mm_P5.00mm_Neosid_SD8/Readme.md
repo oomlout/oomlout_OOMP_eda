@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

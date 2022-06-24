@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SM49
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: SM49
 - oompName: Adafruit-Eagle-Library/adafruit/SM49
+- description: &lt;b&gt;CRYSTAL&lt;/b&gt;
 
 
 

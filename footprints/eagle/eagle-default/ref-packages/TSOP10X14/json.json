@@ -1,9 +1,9 @@
 {
-    "index": 9487,
+    "index": 36987,
     "tags": [
         {
             "name": "index",
-            "value": 9487
+            "value": 36987
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TSOP10X14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TSOP28&lt;/b&gt;&lt;p&gt;&#xD;\nthin small outline package"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-CIRCULARPAD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: Sparkfun-Connectors
 - oompIndex: CIRCULARPAD
 - oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/CIRCULARPAD
+- description: LuMini Pad
 
 
 

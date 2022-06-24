@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-Z4/22
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

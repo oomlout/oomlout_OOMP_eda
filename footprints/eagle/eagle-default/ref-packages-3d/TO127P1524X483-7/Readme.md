@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-TO127P1524X483-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

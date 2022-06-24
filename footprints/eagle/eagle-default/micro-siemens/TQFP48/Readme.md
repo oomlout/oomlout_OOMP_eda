@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-siemens-TQFP48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

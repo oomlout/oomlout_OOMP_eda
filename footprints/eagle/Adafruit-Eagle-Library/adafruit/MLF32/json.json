@@ -1,9 +1,9 @@
 {
-    "index": 429,
+    "index": 27929,
     "tags": [
         {
             "name": "index",
-            "value": 429
+            "value": 27929
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MLF32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;32M1-A&lt;/b&gt; Micro Lead Frame package (MLF)&lt;p&gt;\nSource: http://www.atmel.com .. doc1477.pdf"
         },
         {
             "name": "oompID",

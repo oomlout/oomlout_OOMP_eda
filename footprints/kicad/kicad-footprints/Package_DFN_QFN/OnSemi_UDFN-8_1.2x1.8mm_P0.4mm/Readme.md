@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

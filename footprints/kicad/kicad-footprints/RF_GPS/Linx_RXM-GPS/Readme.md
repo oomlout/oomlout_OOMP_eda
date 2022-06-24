@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-Linx_RXM-GPS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

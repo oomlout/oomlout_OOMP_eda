@@ -1,2 +1,63 @@
-
-<package name="SOJ16-3"></package>
+<package name="SOJ16-35" urn="urn:adsk.eagle:footprint:8085014/1">
+<description>&lt;b&gt;SMALL OUTLINE J LEADS&lt;/b&gt;&lt;p&gt;&#xD;
+body 8.88 mm</description>
+<wire x1="-5.9" y1="5.9" x2="5.9" y2="5.9" width="0.1998" layer="39"/>
+<wire x1="5.9" y1="5.9" x2="5.9" y2="-5.9" width="0.1998" layer="39"/>
+<wire x1="-5.9" y1="-5.9" x2="-5.9" y2="5.9" width="0.1998" layer="39"/>
+<wire x1="5.5" y1="4.37" x2="5.5" y2="-4.37" width="0.2032" layer="51"/>
+<wire x1="5.5" y1="-4.37" x2="-5.51" y2="-4.37" width="0.2032" layer="51"/>
+<wire x1="-5.51" y1="-4.37" x2="-5.51" y2="4.37" width="0.2032" layer="51"/>
+<wire x1="-5.51" y1="4.37" x2="5.5" y2="4.37" width="0.2032" layer="51"/>
+<wire x1="5.9" y1="-5.9" x2="-5.9" y2="-5.9" width="0.1998" layer="39"/>
+<smd name="1" x="-4.445" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="2" x="-3.175" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="3" x="-1.905" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="4" x="-0.635" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="5" x="0.635" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="6" x="1.905" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="7" x="3.175" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="8" x="4.445" y="-4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="9" x="4.445" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="10" x="3.175" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="11" x="1.905" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="12" x="0.635" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="13" x="-0.635" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="14" x="-1.905" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="15" x="-3.175" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<smd name="16" x="-4.445" y="4.2" dx="0.6" dy="2.2" layer="1"/>
+<text x="-3.175" y="-1.905" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4.445" y="0.635" size="1.27" layer="27">&gt;VALUE</text>
+<text x="-3.8999" y="-2.7701" size="1.27" layer="21" rot="R90">1</text>
+<rectangle x1="-4.6949" y1="-4.27" x2="-4.1951" y2="-3.13" layer="51"/>
+<rectangle x1="-4.8451" y1="-4.9799" x2="-4.045" y2="-4.4699" layer="51"/>
+<rectangle x1="-3.4249" y1="-4.27" x2="-2.9251" y2="-3.13" layer="51"/>
+<rectangle x1="-3.5751" y1="-4.9799" x2="-2.775" y2="-4.4699" layer="51"/>
+<rectangle x1="-2.1549" y1="-4.27" x2="-1.6551" y2="-3.13" layer="51"/>
+<rectangle x1="-2.3051" y1="-4.9799" x2="-1.505" y2="-4.4699" layer="51"/>
+<rectangle x1="-0.8849" y1="-4.27" x2="-0.3851" y2="-3.13" layer="51"/>
+<rectangle x1="-1.0351" y1="-4.9799" x2="-0.235" y2="-4.4699" layer="51"/>
+<rectangle x1="0.3851" y1="-4.27" x2="0.8849" y2="-3.13" layer="51"/>
+<rectangle x1="0.235" y1="-4.9799" x2="1.0351" y2="-4.4699" layer="51"/>
+<rectangle x1="1.6551" y1="-4.27" x2="2.1549" y2="-3.13" layer="51"/>
+<rectangle x1="1.505" y1="-4.9799" x2="2.3051" y2="-4.4699" layer="51"/>
+<rectangle x1="2.9251" y1="-4.27" x2="3.4249" y2="-3.13" layer="51"/>
+<rectangle x1="2.775" y1="-4.9799" x2="3.5751" y2="-4.4699" layer="51"/>
+<rectangle x1="4.1951" y1="-4.27" x2="4.6949" y2="-3.13" layer="51"/>
+<rectangle x1="4.045" y1="-4.9799" x2="4.8451" y2="-4.4699" layer="51"/>
+<rectangle x1="4.1951" y1="3.13" x2="4.6949" y2="4.27" layer="51"/>
+<rectangle x1="4.045" y1="4.4699" x2="4.8451" y2="4.9799" layer="51"/>
+<rectangle x1="2.9251" y1="3.13" x2="3.4249" y2="4.27" layer="51"/>
+<rectangle x1="2.775" y1="4.4699" x2="3.5751" y2="4.9799" layer="51"/>
+<rectangle x1="1.6551" y1="3.13" x2="2.1549" y2="4.27" layer="51"/>
+<rectangle x1="1.505" y1="4.4699" x2="2.3051" y2="4.9799" layer="51"/>
+<rectangle x1="0.3851" y1="3.13" x2="0.8849" y2="4.27" layer="51"/>
+<rectangle x1="0.235" y1="4.4699" x2="1.0351" y2="4.9799" layer="51"/>
+<rectangle x1="-0.8849" y1="3.13" x2="-0.3851" y2="4.27" layer="51"/>
+<rectangle x1="-1.0351" y1="4.4699" x2="-0.235" y2="4.9799" layer="51"/>
+<rectangle x1="-2.1549" y1="3.13" x2="-1.6551" y2="4.27" layer="51"/>
+<rectangle x1="-2.3051" y1="4.4699" x2="-1.505" y2="4.9799" layer="51"/>
+<rectangle x1="-3.4249" y1="3.13" x2="-2.9251" y2="4.27" layer="51"/>
+<rectangle x1="-3.5751" y1="4.4699" x2="-2.775" y2="4.9799" layer="51"/>
+<rectangle x1="-4.6949" y1="3.13" x2="-4.1951" y2="4.27" layer="51"/>
+<rectangle x1="-4.8451" y1="4.4699" x2="-4.045" y2="4.9799" layer="51"/>
+</package>

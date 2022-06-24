@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Getian_GT-P6PRGB4303
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

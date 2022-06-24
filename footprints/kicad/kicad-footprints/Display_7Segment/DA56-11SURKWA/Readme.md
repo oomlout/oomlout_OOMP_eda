@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA56-11SURKWA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

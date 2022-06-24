@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HSON-8_8x8mm_P2.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

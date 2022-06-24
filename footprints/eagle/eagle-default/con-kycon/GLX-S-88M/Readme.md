@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-kycon-GLX-S-88M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

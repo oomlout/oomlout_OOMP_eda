@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-SPM23AA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

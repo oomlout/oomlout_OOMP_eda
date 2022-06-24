@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220-NOHOLE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

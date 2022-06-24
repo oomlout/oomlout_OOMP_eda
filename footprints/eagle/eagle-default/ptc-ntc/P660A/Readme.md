@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-P660A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

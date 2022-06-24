@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

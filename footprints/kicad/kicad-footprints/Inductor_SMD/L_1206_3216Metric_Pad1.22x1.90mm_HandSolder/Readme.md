@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1206_3216Metric_Pad1.22x1.90mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

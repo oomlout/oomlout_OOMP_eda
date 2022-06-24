@@ -1,9 +1,9 @@
 {
-    "index": 642,
+    "index": 28142,
     "tags": [
         {
             "name": "index",
-            "value": 642
+            "value": 28142
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/XF2R-4015-4A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Low-profile Rotary Backlock Type (0.5 mm-pitch)&lt;/b&gt;&lt;p&gt;Source : http://www.omron.com/ecb/products/pdf/fpc.pdf"
         },
         {
             "name": "oompID",

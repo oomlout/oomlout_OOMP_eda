@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-TSSOP28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

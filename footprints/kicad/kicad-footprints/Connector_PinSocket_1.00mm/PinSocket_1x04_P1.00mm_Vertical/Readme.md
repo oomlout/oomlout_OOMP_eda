@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x04_P1.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

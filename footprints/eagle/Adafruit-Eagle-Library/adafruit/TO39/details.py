@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "adafruit")
 newPart.addTag("oompIndex", "TO39")
 newPart.addTag("oompName", "Adafruit-Eagle-Library/adafruit/TO39")
 
+newPart.addTag("description", """&lt;b&gt;Metal Can Package&lt;/b&gt;""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO39",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='Adafruit-Eagle-Library',oompDesc='adafruit',oompIndex='TO39')
 
 OOMP.parts.append(newPart)

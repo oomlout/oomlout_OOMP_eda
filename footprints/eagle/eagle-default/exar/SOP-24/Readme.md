@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-exar-SOP-24
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

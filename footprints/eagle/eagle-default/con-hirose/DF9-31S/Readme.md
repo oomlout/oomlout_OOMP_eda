@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirose-DF9-31S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

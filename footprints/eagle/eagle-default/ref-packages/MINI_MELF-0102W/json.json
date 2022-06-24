@@ -1,9 +1,9 @@
 {
-    "index": 8560,
+    "index": 36060,
     "tags": [
         {
             "name": "index",
-            "value": 8560
+            "value": 36060
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MINI_MELF-0102W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CECC Size RC2211&lt;/b&gt; Wave Soldering&lt;p&gt;&#xD;\nsource Beyschlag"
         },
         {
             "name": "oompID",

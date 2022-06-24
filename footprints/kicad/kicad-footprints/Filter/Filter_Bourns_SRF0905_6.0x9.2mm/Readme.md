@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

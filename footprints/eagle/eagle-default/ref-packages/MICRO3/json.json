@@ -1,9 +1,9 @@
 {
-    "index": 8552,
+    "index": 36052,
     "tags": [
         {
             "name": "index",
-            "value": 8552
+            "value": 36052
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MICRO3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Micro3 TM Package Outline&lt;/b&gt;&lt;p&gt;&#xD;\nwww.irf.com / irlml5203.pdf"
         },
         {
             "name": "oompID",

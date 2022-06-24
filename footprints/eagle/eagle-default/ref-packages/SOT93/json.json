@@ -1,9 +1,9 @@
 {
-    "index": 9138,
+    "index": 36638,
     "tags": [
         {
             "name": "index",
-            "value": 9138
+            "value": 36638
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT93"
+        },
+        {
+            "name": "description",
+            "value": "SOT-93&lt;p&gt;&#xD;\ngrid 5.45 mm"
         },
         {
             "name": "oompID",

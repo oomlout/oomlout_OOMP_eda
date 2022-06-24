@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-7.0X5.0-10-PAD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

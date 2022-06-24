@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-B25A-
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

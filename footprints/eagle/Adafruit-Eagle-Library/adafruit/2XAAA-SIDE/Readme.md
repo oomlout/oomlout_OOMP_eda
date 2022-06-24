@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2XAAA-SIDE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

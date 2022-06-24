@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602-RGB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

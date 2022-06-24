@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PLDCC68
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

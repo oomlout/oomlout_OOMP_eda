@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-zetex-E3LINE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

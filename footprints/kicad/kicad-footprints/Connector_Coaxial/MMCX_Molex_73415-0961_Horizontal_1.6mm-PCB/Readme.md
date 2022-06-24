@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

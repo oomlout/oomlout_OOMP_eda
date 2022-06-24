@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL40
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1208_12.7x12.7mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

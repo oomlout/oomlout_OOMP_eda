@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139_LandPatternPL-230
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

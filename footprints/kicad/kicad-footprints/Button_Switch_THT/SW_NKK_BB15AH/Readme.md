@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_BB15AH
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

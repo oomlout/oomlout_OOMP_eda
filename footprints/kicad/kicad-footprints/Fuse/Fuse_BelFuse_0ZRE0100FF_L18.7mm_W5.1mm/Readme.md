@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

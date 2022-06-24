@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-MO018-20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

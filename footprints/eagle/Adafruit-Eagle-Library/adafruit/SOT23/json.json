@@ -1,9 +1,9 @@
 {
-    "index": 550,
+    "index": 28050,
     "tags": [
         {
             "name": "index",
-            "value": 550
+            "value": 28050
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SOT23"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor&lt;/b&gt;&lt;p&gt;\npackage type OT"
         },
         {
             "name": "oompID",

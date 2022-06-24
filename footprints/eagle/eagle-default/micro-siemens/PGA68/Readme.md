@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-siemens-PGA68
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

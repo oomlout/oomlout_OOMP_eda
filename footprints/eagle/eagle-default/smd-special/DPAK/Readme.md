@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-DPAK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

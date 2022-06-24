@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Sabre_43160-2103_1x03_P7.49mm_Vertical_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

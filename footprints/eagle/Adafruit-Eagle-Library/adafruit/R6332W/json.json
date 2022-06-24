@@ -1,9 +1,9 @@
 {
-    "index": 503,
+    "index": 28003,
     "tags": [
         {
             "name": "index",
-            "value": 503
+            "value": 28003
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R6332W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

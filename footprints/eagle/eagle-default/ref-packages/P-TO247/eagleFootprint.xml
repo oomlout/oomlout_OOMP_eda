@@ -1,2 +1,30 @@
-
-<package name="P-TO247"></package>
+<package name="P-TO247" urn="urn:adsk.eagle:footprint:8085775/1">
+<description>&lt;b&gt;TO 247, Plastic Transistor Single Outline&lt;/b&gt;</description>
+<wire x1="-7.9" y1="6.1" x2="7.9" y2="6.1" width="0.254" layer="21"/>
+<wire x1="7.9" y1="6.1" x2="7.9" y2="2" width="0.254" layer="21"/>
+<wire x1="7.9" y1="2" x2="6.9" y2="2" width="0.254" layer="21"/>
+<wire x1="6.9" y1="2" x2="6.9" y2="-2.1" width="0.254" layer="21"/>
+<wire x1="6.9" y1="-2.1" x2="7.9" y2="-2.1" width="0.254" layer="21"/>
+<wire x1="7.9" y1="-2.1" x2="7.9" y2="-14.6" width="0.254" layer="21"/>
+<wire x1="7.9" y1="-14.6" x2="-7.9" y2="-14.6" width="0.254" layer="21"/>
+<wire x1="-7.9" y1="-14.6" x2="-7.9" y2="-2.1" width="0.254" layer="21"/>
+<wire x1="-7.9" y1="-2.1" x2="-6.9" y2="-2.1" width="0.254" layer="21"/>
+<wire x1="-6.9" y1="-2.1" x2="-6.9" y2="2.1" width="0.254" layer="21"/>
+<wire x1="-6.9" y1="2.1" x2="-7.9" y2="2.1" width="0.254" layer="21"/>
+<wire x1="-7.9" y1="2.1" x2="-7.9" y2="6.1" width="0.254" layer="21"/>
+<pad name="1" x="-5.5" y="-27.5" drill="1.3" shape="long" rot="R90"/>
+<pad name="2" x="0" y="-27.5" drill="1.3" shape="long" rot="R90"/>
+<pad name="3" x="5.5" y="-27.5" drill="1.3" shape="long" rot="R90"/>
+<text x="-5.81" y="-9.293" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-5.937" y="-12.96" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-1.6" y1="-19" x2="1.6" y2="-14.7" layer="21"/>
+<rectangle x1="-6.5" y1="-19" x2="-4.5" y2="-14.7" layer="21"/>
+<rectangle x1="4.5" y1="-19" x2="6.5" y2="-14.7" layer="21"/>
+<rectangle x1="-0.6" y1="-27.5" x2="0.6" y2="-23.9" layer="51"/>
+<rectangle x1="4.9" y1="-27.5" x2="6.1" y2="-23.9" layer="51"/>
+<rectangle x1="-6.1" y1="-27.5" x2="-4.9" y2="-23.9" layer="51"/>
+<rectangle x1="-6.1" y1="-23.9" x2="-4.9" y2="-19" layer="21"/>
+<rectangle x1="-0.6" y1="-23.9" x2="0.6" y2="-19" layer="21"/>
+<rectangle x1="4.9" y1="-23.9" x2="6.1" y2="-19" layer="21"/>
+<hole x="0" y="0" drill="3.6"/>
+</package>

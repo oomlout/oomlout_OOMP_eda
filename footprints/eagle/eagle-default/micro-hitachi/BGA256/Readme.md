@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-hitachi-BGA256
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

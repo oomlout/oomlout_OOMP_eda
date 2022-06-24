@@ -1,9 +1,9 @@
 {
-    "index": 14235,
+    "index": 41735,
     "tags": [
         {
             "name": "index",
-            "value": 14235
+            "value": 41735
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST04_1MM_VERT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Vertical Qwiic Connector&lt;/h3&gt;\n\n&lt;p&gt;Physical and Electrical Charactersistics&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Voltage Rating: 50V&lt;/li&gt;\n&lt;li&gt;Current Rating 1.0A&lt;/li&gt;\n&lt;li&gt;Contact Resistance: 20 milliohms&lt;/li&gt;\n&lt;li&gt;ROHS Compliant&lt;/li&gt;\n&lt;li&gt;SMD Pitch: 1mm&lt;/li&gt;\n&lt;li&gt;Small pad size: .6mm x 1.55mm&lt;/li&gt;\n&lt;li&gt;Large pad size: 1.2mm x 2.0mm&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;"
         },
         {
             "name": "oompID",

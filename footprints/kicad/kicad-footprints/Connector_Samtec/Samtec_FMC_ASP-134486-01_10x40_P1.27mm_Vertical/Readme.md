@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

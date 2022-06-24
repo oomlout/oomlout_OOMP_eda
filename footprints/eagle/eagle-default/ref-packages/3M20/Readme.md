@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3M20
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: 3M20
 - oompName: eagle-default/ref-packages/3M20
+- description: &lt;b&gt;PLCC SOCKET&lt;/b&gt;
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_FRT5_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

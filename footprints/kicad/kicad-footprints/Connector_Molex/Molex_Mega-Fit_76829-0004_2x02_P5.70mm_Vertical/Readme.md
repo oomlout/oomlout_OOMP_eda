@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76829-0004_2x02_P5.70mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

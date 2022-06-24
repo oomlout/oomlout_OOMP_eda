@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-vg-F24-8M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

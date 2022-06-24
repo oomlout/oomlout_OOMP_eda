@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-intel-PGA88
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

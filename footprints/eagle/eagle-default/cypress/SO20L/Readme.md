@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-cypress-SO20L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

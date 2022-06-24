@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_Socket_DPDT_Finder_96.12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

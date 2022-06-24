@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-LFBGA96
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_248BH-249BH_Single_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

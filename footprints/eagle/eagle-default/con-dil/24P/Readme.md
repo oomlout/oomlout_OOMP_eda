@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-dil-24P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

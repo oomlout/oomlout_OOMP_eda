@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-AQ-HS-5A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

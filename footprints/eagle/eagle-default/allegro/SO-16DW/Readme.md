@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-SO-16DW
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_DIN965_Pad_TopBottom
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

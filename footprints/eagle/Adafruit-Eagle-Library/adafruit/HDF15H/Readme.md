@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HDF15H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: HDF15H
 - oompName: Adafruit-Eagle-Library/adafruit/HDF15H
+- description: &lt;b&gt;SUB-D&lt;/b&gt;
 
 
 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

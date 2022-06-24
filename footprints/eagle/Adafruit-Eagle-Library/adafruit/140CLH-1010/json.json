@@ -1,9 +1,9 @@
 {
-    "index": 40,
+    "index": 27540,
     "tags": [
         {
             "name": "index",
-            "value": 40
+            "value": 27540
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/140CLH-1010"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors SMD (Chip)&lt;/b&gt;&lt;p&gt;\nLong life base plate, High temperature 140 CLH&lt;p&gt;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-VQFP32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

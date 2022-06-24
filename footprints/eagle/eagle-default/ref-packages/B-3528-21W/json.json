@@ -1,9 +1,9 @@
 {
-    "index": 8115,
+    "index": 35615,
     "tags": [
         {
             "name": "index",
-            "value": 8115
+            "value": 35615
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/B/3528-21W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET B / EIA 3528-21 Wave solder&lt;/b&gt;&lt;p&gt;&#xD;\nKEMET T / EIA 3528-12"
         },
         {
             "name": "oompID",

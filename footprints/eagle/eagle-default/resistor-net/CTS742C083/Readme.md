@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-net-CTS742C083
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

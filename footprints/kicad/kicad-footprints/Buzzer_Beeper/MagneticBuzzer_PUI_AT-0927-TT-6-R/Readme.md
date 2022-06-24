@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

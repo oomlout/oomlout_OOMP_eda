@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

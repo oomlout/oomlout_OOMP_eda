@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Molex_73251-1153_EdgeMount_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

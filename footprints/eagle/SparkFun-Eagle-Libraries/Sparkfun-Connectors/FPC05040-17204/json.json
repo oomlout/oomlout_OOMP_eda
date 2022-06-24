@@ -1,9 +1,9 @@
 {
-    "index": 14206,
+    "index": 41706,
     "tags": [
         {
             "name": "index",
-            "value": 14206
+            "value": 41706
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/FPC05040-17204"
+        },
+        {
+            "name": "description",
+            "value": "This is a 40-pin FPC connector supplied by Atom. SparkFun SKU is \nCONN-14082"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-19inch-6HE_160-VG64AC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

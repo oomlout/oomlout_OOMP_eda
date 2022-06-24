@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SUN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

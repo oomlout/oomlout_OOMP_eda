@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-RWM5X26
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

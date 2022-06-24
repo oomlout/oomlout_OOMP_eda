@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOD87-W
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOD87-W
 - oompName: eagle-default/ref-packages/SOD87-W
+- description: &lt;b&gt;SOD87 Wave soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-harting-v-34V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

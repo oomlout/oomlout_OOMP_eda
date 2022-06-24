@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

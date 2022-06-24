@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-FLIP-CHIP-5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

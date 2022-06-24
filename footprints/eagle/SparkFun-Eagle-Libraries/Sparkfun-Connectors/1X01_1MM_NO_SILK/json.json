@@ -1,9 +1,9 @@
 {
-    "index": 13940,
+    "index": 41440,
     "tags": [
         {
             "name": "index",
-            "value": 13940
+            "value": 41440
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X01_1MM_NO_SILK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole - No Silk Outline&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:1&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1mm&lt;/li&gt;\n&lt;li&gt;Hole Size: .7mm&lt;/li&gt;\n&lt;li&gt;Annular Ring: 1.2mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/p&gt;\nMade for the small  &lt;a href=&quot;https://www.sparkfun.com/products/18221&quot;&gt; 1mm Pitch Headers&lt;/a&gt;.\n&lt;p&gt;\n&lt;/p&gt;"
         },
         {
             "name": "oompID",

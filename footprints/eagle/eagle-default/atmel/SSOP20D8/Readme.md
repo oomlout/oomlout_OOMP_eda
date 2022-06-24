@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-SSOP20D8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

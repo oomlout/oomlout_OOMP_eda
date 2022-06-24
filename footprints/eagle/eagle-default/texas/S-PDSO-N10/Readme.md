@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-S-PDSO-N10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

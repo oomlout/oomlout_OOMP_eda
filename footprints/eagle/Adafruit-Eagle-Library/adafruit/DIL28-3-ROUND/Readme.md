@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DIL28-3-ROUND
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

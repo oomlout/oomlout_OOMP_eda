@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-TSSOP16E
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

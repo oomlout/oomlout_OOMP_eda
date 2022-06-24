@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

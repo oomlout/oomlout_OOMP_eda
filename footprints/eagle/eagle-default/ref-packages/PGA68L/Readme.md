@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-PGA68L
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: PGA68L
 - oompName: eagle-default/ref-packages/PGA68L
+- description: &lt;b&gt;Pin Grid Array&lt;/b&gt;
+
+
+
+[im]: image.png

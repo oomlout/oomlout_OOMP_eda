@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-capacitor-wima-C5B2.5L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

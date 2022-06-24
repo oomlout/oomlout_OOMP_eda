@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

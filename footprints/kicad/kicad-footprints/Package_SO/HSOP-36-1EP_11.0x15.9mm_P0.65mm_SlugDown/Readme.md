@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

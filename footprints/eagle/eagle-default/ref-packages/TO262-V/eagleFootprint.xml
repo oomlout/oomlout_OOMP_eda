@@ -1,2 +1,25 @@
-
-<package name="TO262-V"></package>
+<package name="TO262-V" urn="urn:adsk.eagle:footprint:8085915/1">
+<description>&lt;b&gt;Molded Package&lt;/b&gt;</description>
+<wire x1="-5.1308" y1="-4.9784" x2="5.1308" y2="-4.9784" width="0.254" layer="21"/>
+<wire x1="5.1308" y1="-4.9784" x2="5.1308" y2="3.937" width="0.254" layer="21"/>
+<wire x1="5.1308" y1="3.937" x2="3.1242" y2="5.3086" width="0.254" layer="21"/>
+<wire x1="3.1242" y1="5.3086" x2="-3.3782" y2="5.3086" width="0.254" layer="21"/>
+<wire x1="-3.3782" y1="5.3086" x2="-5.1308" y2="4.191" width="0.254" layer="21"/>
+<wire x1="-5.1308" y1="4.191" x2="-5.1308" y2="3.937" width="0.254" layer="21"/>
+<wire x1="-5.1308" y1="3.937" x2="-5.1308" y2="-4.9784" width="0.254" layer="21"/>
+<wire x1="-5.1308" y1="3.937" x2="5.1308" y2="3.937" width="0.254" layer="21"/>
+<pad name="1" x="-2.54" y="-12.7" drill="1.016" shape="long" rot="R90"/>
+<pad name="2" x="0" y="-12.7" drill="1.016" shape="long" rot="R90"/>
+<pad name="3" x="2.54" y="-12.7" drill="1.016" shape="long" rot="R90"/>
+<text x="-5.588" y="6.35" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.81" y="-4.318" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-3.2512" y1="-9.0424" x2="-1.8288" y2="-7.62" layer="21"/>
+<rectangle x1="-3.2512" y1="-7.62" x2="-1.8288" y2="-5.1308" layer="21"/>
+<rectangle x1="1.8288" y1="-7.62" x2="3.2512" y2="-5.1308" layer="21"/>
+<rectangle x1="-0.7112" y1="-7.62" x2="0.7112" y2="-5.1308" layer="21"/>
+<rectangle x1="-0.7112" y1="-9.0424" x2="0.7112" y2="-7.62" layer="21"/>
+<rectangle x1="1.8288" y1="-9.0424" x2="3.2512" y2="-7.62" layer="21"/>
+<rectangle x1="-2.921" y1="-12.954" x2="-2.159" y2="-9.017" layer="51"/>
+<rectangle x1="-0.381" y1="-12.954" x2="0.381" y2="-9.017" layer="51"/>
+<rectangle x1="2.159" y1="-12.954" x2="2.921" y2="-9.017" layer="51"/>
+</package>

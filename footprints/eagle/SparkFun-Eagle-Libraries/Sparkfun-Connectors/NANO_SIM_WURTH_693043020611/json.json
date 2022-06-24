@@ -1,9 +1,9 @@
 {
-    "index": 14261,
+    "index": 41761,
     "tags": [
         {
             "name": "index",
-            "value": 14261
+            "value": 41761
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/NANO_SIM_WURTH_693043020611"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Wurth Nano-SIM Holder &amp;ndash; 693043020611&lt;/h3&gt;\n&lt;a href=http://katalog.we-online.de/em/datasheet/693043020611.pdf&gt;Datasheet&lt;/a&gt;"
         },
         {
             "name": "oompID",

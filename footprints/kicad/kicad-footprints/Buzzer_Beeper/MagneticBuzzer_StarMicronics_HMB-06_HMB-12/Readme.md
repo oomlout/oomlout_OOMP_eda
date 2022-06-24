@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_StarMicronics_HMB-06_HMB-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 76,
+    "index": 27576,
     "tags": [
         {
             "name": "index",
-            "value": 76
+            "value": 27576
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/1X08_SMT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;p&gt;4UCON: 06678&lt;/p&gt;"
         },
         {
             "name": "oompID",

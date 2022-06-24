@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO5A
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO5A
 - oompName: eagle-default/ref-packages/TO5A
+- description: &lt;b&gt;TO-5&lt;/b&gt;&lt;p&gt;&#xD;
+grid 5.08 mm
+
+
+
+[im]: image.png

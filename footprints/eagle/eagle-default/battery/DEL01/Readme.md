@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-DEL01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

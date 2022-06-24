@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-am29-memory-LOGO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-SCART-F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

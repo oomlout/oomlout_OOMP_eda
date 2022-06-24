@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

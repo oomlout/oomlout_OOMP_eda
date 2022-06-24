@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

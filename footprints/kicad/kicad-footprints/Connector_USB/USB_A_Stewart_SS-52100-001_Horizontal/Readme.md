@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Stewart_SS-52100-001_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8236,
+    "index": 35736,
     "tags": [
         {
             "name": "index",
-            "value": 8236
+            "value": 35736
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CHIP-LED0805"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper CHIPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;&#xD;\nLB R99A&lt;br&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... lb_r99a.pdf"
         },
         {
             "name": "oompID",

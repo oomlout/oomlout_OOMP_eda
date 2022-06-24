@@ -1,9 +1,9 @@
 {
-    "index": 8485,
+    "index": 35985,
     "tags": [
         {
             "name": "index",
-            "value": 8485
+            "value": 35985
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/JSOP-18"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;JEDEC Small Outline Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

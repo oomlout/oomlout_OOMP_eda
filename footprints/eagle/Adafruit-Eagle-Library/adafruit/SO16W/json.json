@@ -1,9 +1,9 @@
 {
-    "index": 539,
+    "index": 28039,
     "tags": [
         {
             "name": "index",
-            "value": 539
+            "value": 28039
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SO16W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;&lt;p&gt;\nwide body 7.5 mm/JEDEC MS-013AA"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

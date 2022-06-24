@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-S-8-1EP_6x5mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

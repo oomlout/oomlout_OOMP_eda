@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Clear
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

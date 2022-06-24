@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-PAP_S-PQFP-G64
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

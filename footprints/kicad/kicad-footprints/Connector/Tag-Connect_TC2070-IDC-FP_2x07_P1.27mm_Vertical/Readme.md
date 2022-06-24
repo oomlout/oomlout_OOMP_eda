@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2070-IDC-FP_2x07_P1.27mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

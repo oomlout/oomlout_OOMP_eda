@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-FBGA484
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-160_24x24mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

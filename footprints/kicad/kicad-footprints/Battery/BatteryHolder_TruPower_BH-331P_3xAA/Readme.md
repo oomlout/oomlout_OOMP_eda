@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_TruPower_BH-331P_3xAA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

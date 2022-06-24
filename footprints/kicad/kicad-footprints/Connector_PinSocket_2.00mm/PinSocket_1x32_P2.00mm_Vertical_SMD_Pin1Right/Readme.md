@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_1x32_P2.00mm_Vertical_SMD_Pin1Right
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

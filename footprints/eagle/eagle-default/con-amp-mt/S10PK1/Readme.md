@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-amp-mt-S10PK1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

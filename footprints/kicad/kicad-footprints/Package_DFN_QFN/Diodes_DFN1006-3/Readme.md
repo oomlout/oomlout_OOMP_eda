@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_DFN1006-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

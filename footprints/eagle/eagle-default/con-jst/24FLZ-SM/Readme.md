@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-jst-24FLZ-SM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

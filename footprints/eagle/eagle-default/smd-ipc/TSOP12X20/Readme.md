@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-TSOP12X20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

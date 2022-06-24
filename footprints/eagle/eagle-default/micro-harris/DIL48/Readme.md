@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-harris-DIL48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

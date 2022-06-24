@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

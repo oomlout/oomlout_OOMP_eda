@@ -1,9 +1,9 @@
 {
-    "index": 8909,
+    "index": 36409,
     "tags": [
         {
             "name": "index",
-            "value": 8909
+            "value": 36409
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO-28W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Small Outline Wide Plastic Gull Wing&lt;/B&gt;&lt;p&gt;&#xD;\n300-mil body, package type SO"
         },
         {
             "name": "oompID",

@@ -1,2 +1,51 @@
-
-<package name="TO220-58"></package>
+<package name="TO220-58" urn="urn:adsk.eagle:footprint:8084588/1">
+<description>&lt;b&gt;Transistor Outline Package&lt;/b&gt;&lt;p&gt;&#xD;
+P-TO220-5-8 SIEMENS TLE4270</description>
+<wire x1="4.917" y1="7.165" x2="4.917" y2="-1.839" width="0.2032" layer="51"/>
+<wire x1="4.917" y1="-1.839" x2="-4.917" y2="-1.839" width="0.1016" layer="51"/>
+<wire x1="-4.917" y1="-1.839" x2="-4.917" y2="7.165" width="0.2032" layer="51"/>
+<wire x1="-4.917" y1="7.165" x2="4.917" y2="7.165" width="0.2032" layer="51"/>
+<wire x1="-5.973" y1="8.983" x2="5.973" y2="8.983" width="0.0508" layer="39"/>
+<wire x1="5.973" y1="-8.983" x2="-5.973" y2="-8.983" width="0.0508" layer="39"/>
+<wire x1="-5.973" y1="-8.983" x2="-5.973" y2="8.983" width="0.0508" layer="39"/>
+<wire x1="5.973" y1="8.983" x2="5.973" y2="-8.983" width="0.0508" layer="39"/>
+<wire x1="4.9" y1="7.1" x2="4.5" y2="6.2" width="0.1016" layer="51"/>
+<wire x1="4.5" y1="6.2" x2="4.5" y2="-1.4" width="0.1016" layer="51"/>
+<wire x1="4.5" y1="-1.4" x2="-4.5" y2="-1.4" width="0.1016" layer="51"/>
+<wire x1="-4.5" y1="-1.4" x2="-4.5" y2="6.2" width="0.1016" layer="51"/>
+<wire x1="-4.5" y1="6.2" x2="4.5" y2="6.2" width="0.1016" layer="51"/>
+<wire x1="4.5" y1="-1.4" x2="4.8" y2="-1.7" width="0.1016" layer="51"/>
+<wire x1="-4.5" y1="-1.4" x2="-4.8" y2="-1.7" width="0.1016" layer="51"/>
+<wire x1="-4.5" y1="6.2" x2="-4.9" y2="7.1" width="0.1016" layer="51"/>
+<circle x="0" y="0.46" radius="1" width="0.1016" layer="51"/>
+<smd name="6" x="0" y="3.5" dx="10.5" dy="10.5" layer="1"/>
+<smd name="3" x="0" y="-5" dx="1" dy="3.4" layer="1"/>
+<smd name="1" x="-3.4" y="-5" dx="1" dy="3.4" layer="1"/>
+<smd name="2" x="-1.7" y="-5" dx="1" dy="3.4" layer="1"/>
+<smd name="4" x="1.7" y="-5" dx="1" dy="3.4" layer="1"/>
+<smd name="5" x="3.4" y="-5" dx="1" dy="3.4" layer="1"/>
+<text x="-5.334" y="-6.858" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="6.604" y="-6.858" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.508" y1="-3.302" x2="0.508" y2="-2.286" layer="21"/>
+<rectangle x1="-0.381" y1="-5.461" x2="0.381" y2="-1.905" layer="51"/>
+<rectangle x1="-3.781" y1="-5.461" x2="-3.019" y2="-1.905" layer="51"/>
+<rectangle x1="-2.081" y1="-5.461" x2="-1.319" y2="-1.905" layer="51"/>
+<rectangle x1="1.319" y1="-5.461" x2="2.081" y2="-1.905" layer="51"/>
+<rectangle x1="3.019" y1="-5.461" x2="3.781" y2="-1.905" layer="51"/>
+<rectangle x1="-3.908" y1="-3.302" x2="-2.892" y2="-2.286" layer="21"/>
+<rectangle x1="-2.208" y1="-3.302" x2="-1.192" y2="-2.286" layer="21"/>
+<rectangle x1="1.192" y1="-3.302" x2="2.208" y2="-2.286" layer="21"/>
+<rectangle x1="2.892" y1="-3.302" x2="3.908" y2="-2.286" layer="21"/>
+<polygon width="0.2032" layer="51">
+<vertex x="-4.8654" y="7.267"/>
+<vertex x="-4.8654" y="7.6782"/>
+<vertex x="-4.4082" y="8.1354"/>
+<vertex x="-4.1" y="8.1354"/>
+<vertex x="-4.1" y="7.9"/>
+<vertex x="4.1" y="7.9"/>
+<vertex x="4.1" y="8.1354"/>
+<vertex x="4.4082" y="8.1354"/>
+<vertex x="4.8654" y="7.6782"/>
+<vertex x="4.8654" y="7.267"/>
+</polygon>
+</package>

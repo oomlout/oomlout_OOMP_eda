@@ -1,9 +1,9 @@
 {
-    "index": 8220,
+    "index": 35720,
     "tags": [
         {
             "name": "index",
-            "value": 8220
+            "value": 35720
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C375-192X418"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 37.5 mm, outline 19.2 x 41.8 mm"
         },
         {
             "name": "oompID",

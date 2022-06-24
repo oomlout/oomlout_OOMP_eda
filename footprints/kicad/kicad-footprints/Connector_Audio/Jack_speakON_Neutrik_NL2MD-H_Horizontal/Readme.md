@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL2MD-H_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

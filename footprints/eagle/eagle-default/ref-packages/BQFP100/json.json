@@ -1,9 +1,9 @@
 {
-    "index": 8126,
+    "index": 35626,
     "tags": [
         {
             "name": "index",
-            "value": 8126
+            "value": 35626
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/BQFP100"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Bumpered Quad Flat Pack&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA625N50P25X25_1300X1300X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

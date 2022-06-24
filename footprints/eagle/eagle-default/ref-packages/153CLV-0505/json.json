@@ -1,9 +1,9 @@
 {
-    "index": 8094,
+    "index": 35594,
     "tags": [
         {
             "name": "index",
-            "value": 8094
+            "value": 35594
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/153CLV-0505"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt;&lt;p&gt;&#xD;\nSMD (Chip) Long Life Vertical 153 CLV&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

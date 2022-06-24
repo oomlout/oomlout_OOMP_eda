@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.7x15.7x6.3mm_P10.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

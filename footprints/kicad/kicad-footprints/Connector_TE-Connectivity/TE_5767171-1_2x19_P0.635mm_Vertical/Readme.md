@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_5767171-1_2x19_P0.635mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

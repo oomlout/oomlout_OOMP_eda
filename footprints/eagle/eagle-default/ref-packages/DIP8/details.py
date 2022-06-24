@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "DIP8")
 newPart.addTag("oompName", "eagle-default/ref-packages/DIP8")
 
+newPart.addTag("description", """&lt;b&gt;SMD DIL08&lt;/b&gt; &lt;p&gt;&#xD;
+dual in line package'""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-DIP8",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='DIP8')
 
 OOMP.parts.append(newPart)

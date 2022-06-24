@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-48_W15.24mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

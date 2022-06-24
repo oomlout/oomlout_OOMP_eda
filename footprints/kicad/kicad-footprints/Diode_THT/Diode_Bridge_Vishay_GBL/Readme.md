@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_GBL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

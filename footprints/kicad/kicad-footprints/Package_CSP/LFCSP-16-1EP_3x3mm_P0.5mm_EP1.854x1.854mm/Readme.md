@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

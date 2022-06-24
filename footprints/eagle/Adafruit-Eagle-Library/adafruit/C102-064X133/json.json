@@ -1,9 +1,9 @@
 {
-    "index": 203,
+    "index": 27703,
     "tags": [
         {
             "name": "index",
-            "value": 203
+            "value": 27703
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C102-064X133"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 10.2 mm, outline 6.4 x 13.3 mm"
         },
         {
             "name": "oompID",

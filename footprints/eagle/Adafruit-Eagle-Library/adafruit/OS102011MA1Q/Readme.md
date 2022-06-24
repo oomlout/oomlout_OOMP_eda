@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OS102011MA1Q
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

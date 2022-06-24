@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-thomas-betts-HFS50R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

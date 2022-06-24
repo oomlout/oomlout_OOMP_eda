@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Digi_XBee_SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

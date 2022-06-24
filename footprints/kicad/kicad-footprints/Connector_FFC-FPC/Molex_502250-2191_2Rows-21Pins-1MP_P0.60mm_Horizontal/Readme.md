@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502250-2191_2Rows-21Pins-1MP_P0.60mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-display-lcd-TUXGR_16X2_R2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

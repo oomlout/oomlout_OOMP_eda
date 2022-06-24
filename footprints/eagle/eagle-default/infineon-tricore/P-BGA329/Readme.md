@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-BGA329
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

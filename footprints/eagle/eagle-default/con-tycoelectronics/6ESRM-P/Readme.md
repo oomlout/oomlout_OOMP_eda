@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-tycoelectronics-6ESRM-P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

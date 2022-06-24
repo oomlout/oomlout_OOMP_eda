@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_TE_2041021
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

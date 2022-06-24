@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOD80
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

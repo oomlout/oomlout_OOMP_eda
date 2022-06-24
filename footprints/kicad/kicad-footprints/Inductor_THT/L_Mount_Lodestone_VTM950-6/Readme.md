@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM950-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

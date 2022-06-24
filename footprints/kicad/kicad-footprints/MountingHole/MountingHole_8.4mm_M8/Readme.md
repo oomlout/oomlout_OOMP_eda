@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

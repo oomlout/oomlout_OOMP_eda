@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-molex-43160-XX06
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

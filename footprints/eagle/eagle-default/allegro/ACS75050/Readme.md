@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-allegro-ACS75050
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

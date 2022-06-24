@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-npn-SOT89-BCE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

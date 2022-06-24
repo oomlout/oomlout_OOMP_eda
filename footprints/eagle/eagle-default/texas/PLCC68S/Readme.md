@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-PLCC68S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

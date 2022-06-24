@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

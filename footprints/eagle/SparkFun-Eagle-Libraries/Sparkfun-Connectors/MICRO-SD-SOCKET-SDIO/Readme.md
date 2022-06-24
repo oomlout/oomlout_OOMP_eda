@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MICRO-SD-SOCKET-SDIO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

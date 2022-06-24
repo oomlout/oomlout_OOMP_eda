@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3339P_Vertical_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

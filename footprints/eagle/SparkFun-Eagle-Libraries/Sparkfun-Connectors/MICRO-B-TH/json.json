@@ -1,9 +1,9 @@
 {
-    "index": 14242,
+    "index": 41742,
     "tags": [
         {
             "name": "index",
-            "value": 14242
+            "value": 41742
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MICRO-B-TH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Micro B USB Plug Assembly - Straight Through-hole&lt;/h3&gt;\n&lt;b&gt;**UNPROVEN**&lt;/b&gt;&lt;Br&gt;\nSee Digikey part #H11497-ND"
         },
         {
             "name": "oompID",

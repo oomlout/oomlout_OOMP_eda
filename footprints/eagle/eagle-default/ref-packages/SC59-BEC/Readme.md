@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SC59-BEC
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SC59-BEC
 - oompName: eagle-default/ref-packages/SC59-BEC
+- description: SC59 (SOT23) Motorola
+
+
+
+[im]: image.png

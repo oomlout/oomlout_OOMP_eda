@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-CHIPFET-1206A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

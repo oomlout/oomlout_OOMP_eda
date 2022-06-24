@@ -1,9 +1,9 @@
 {
-    "index": 338,
+    "index": 27838,
     "tags": [
         {
             "name": "index",
-            "value": 338
+            "value": 27838
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/EB30D"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 10.16 mm, diameter 30 mm"
         },
         {
             "name": "oompID",

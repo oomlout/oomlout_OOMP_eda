@@ -1,9 +1,9 @@
 {
-    "index": 8905,
+    "index": 36405,
     "tags": [
         {
             "name": "index",
-            "value": 8905
+            "value": 36405
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO-20DW"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Integrated Circuit&lt;/b&gt; wide"
         },
         {
             "name": "oompID",

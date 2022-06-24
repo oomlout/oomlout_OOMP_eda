@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

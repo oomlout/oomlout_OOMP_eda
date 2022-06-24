@@ -1,9 +1,9 @@
 {
-    "index": 9565,
+    "index": 37065,
     "tags": [
         {
             "name": "index",
-            "value": 9565
+            "value": 37065
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/YC10B4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Y CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nbody 13.6 x 4 mm, grid 10.16 mm"
         },
         {
             "name": "oompID",

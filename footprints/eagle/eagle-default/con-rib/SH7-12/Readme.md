@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-rib-SH7-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

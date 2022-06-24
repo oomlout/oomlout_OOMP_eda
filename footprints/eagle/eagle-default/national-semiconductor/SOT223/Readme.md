@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-SOT223
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x27_P1.27mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

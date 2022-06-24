@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SO16WB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

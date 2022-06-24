@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-DRL_R-PDSO-N6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

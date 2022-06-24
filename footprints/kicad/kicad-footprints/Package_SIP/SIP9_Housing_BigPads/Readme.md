@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing_BigPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MICS-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

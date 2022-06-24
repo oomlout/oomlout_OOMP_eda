@@ -1,9 +1,9 @@
 {
-    "index": 484,
+    "index": 27984,
     "tags": [
         {
             "name": "index",
-            "value": 484
+            "value": 27984
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R0805W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

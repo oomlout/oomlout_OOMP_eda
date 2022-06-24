@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

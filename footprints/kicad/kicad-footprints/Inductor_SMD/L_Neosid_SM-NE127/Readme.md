@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

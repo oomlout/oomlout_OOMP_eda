@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0815_2038Metric_Pad1.20x4.05mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

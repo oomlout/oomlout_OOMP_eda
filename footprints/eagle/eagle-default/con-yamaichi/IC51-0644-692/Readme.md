@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-IC51-0644-692
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

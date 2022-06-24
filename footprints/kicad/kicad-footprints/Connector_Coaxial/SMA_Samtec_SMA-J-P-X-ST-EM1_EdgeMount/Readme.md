@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

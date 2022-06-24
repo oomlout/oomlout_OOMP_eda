@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

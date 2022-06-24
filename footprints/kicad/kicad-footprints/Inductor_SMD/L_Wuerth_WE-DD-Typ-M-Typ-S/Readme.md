@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-DD-Typ-M-Typ-S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

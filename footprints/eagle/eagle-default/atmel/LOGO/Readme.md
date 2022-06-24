@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-LOGO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

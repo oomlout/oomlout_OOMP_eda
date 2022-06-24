@@ -1,9 +1,9 @@
 {
-    "index": 8670,
+    "index": 36170,
     "tags": [
         {
             "name": "index",
-            "value": 8670
+            "value": 36170
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PGA145S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;S-PGA-15-145-AZ&lt;/b&gt; SOCKED&lt;p&gt;&#xD;\nEmulation Technology, Inc."
         },
         {
             "name": "oompID",

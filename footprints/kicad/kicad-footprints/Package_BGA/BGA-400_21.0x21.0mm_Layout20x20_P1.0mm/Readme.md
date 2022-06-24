@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-400_21.0x21.0mm_Layout20x20_P1.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

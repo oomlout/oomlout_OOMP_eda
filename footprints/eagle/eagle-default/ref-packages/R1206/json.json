@@ -1,9 +1,9 @@
 {
-    "index": 8782,
+    "index": 36282,
     "tags": [
         {
             "name": "index",
-            "value": 8782
+            "value": 36282
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/R1206"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

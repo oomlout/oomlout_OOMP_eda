@@ -1,9 +1,9 @@
 {
-    "index": 8402,
+    "index": 35902,
     "tags": [
         {
             "name": "index",
-            "value": 8402
+            "value": 35902
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E25-9"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 25.4 mm, diameter 9 mm"
         },
         {
             "name": "oompID",

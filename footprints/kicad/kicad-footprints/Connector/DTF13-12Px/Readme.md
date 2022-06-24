@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-DTF13-12Px
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx09_Slide_9.78x25.04mm_W8.61mm_P2.54mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

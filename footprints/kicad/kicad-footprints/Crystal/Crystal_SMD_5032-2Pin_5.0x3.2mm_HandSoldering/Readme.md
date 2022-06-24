@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

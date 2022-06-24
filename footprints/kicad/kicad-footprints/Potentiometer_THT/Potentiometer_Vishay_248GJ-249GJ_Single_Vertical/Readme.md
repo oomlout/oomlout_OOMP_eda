@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_248GJ-249GJ_Single_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

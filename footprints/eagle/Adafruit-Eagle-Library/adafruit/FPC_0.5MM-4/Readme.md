@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FPC_0.5MM-4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

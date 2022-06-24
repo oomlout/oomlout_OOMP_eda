@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-fuse-KS17
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

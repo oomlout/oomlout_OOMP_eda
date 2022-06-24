@@ -1,2 +1,23 @@
-
-<package name="SOT223-R"></package>
+<package name="SOT223-R" urn="urn:adsk.eagle:footprint:8083530/1">
+<description>&lt;b&gt;SOT223 Reflow soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf</description>
+<wire x1="-3.35" y1="1.8" x2="-3.35" y2="-1.8" width="0.254" layer="51"/>
+<wire x1="-3.35" y1="-1.8" x2="3.35" y2="-1.8" width="0.254" layer="51"/>
+<wire x1="3.35" y1="-1.8" x2="3.35" y2="1.8" width="0.254" layer="51"/>
+<wire x1="3.35" y1="1.8" x2="-3.35" y2="1.8" width="0.254" layer="51"/>
+<wire x1="-3.35" y1="-1.8" x2="-3.35" y2="1.8" width="0.254" layer="21"/>
+<wire x1="-3.35" y1="1.8" x2="-1.85" y2="1.8" width="0.254" layer="21"/>
+<wire x1="3.35" y1="-1.8" x2="3.35" y2="1.8" width="0.254" layer="21"/>
+<wire x1="3.35" y1="1.8" x2="1.85" y2="1.8" width="0.254" layer="21"/>
+<wire x1="-1.5" y1="-1.8" x2="-0.8" y2="-1.8" width="0.254" layer="21"/>
+<wire x1="0.8" y1="-1.8" x2="1.5" y2="-1.8" width="0.254" layer="21"/>
+<smd name="1" x="-2.3" y="-3.05" dx="1.3" dy="1.3" layer="1"/>
+<smd name="2" x="0" y="-3.05" dx="1.3" dy="1.3" layer="1"/>
+<smd name="3" x="2.3" y="-3.05" dx="1.3" dy="1.3" layer="1"/>
+<smd name="4" x="0" y="3.05" dx="3.6" dy="1.3" layer="1"/>
+<text x="-3.25" y="3.9" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.95" y="-0.55" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-2.75" y1="-3.45" x2="-1.85" y2="-1.9" layer="51"/>
+<rectangle x1="-0.45" y1="-3.45" x2="0.45" y2="-1.9" layer="51"/>
+<rectangle x1="1.85" y1="-3.45" x2="2.75" y2="-1.9" layer="51"/>
+<rectangle x1="-1.55" y1="1.9" x2="1.55" y2="3.45" layer="51"/>
+</package>

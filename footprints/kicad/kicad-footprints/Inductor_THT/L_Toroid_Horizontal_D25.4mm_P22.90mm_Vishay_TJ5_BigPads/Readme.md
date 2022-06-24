@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

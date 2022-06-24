@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SMART-LED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

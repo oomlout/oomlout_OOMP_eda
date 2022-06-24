@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

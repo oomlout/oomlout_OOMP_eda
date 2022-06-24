@@ -1,9 +1,9 @@
 {
-    "index": 8569,
+    "index": 36069,
     "tags": [
         {
             "name": "index",
-            "value": 8569
+            "value": 36069
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MLF64"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;64M1&lt;/b&gt; Micro Lead Frame package (MLF)"
         },
         {
             "name": "oompID",

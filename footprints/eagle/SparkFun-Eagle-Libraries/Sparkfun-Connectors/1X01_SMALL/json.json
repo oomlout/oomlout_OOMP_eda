@@ -1,9 +1,9 @@
 {
-    "index": 13947,
+    "index": 41447,
     "tags": [
         {
             "name": "index",
-            "value": 13947
+            "value": 41447
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X01_SMALL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Small PTH Hole&lt;/h3&gt;\n\n&lt;p&gt;Characteristics&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Single through hole&lt;/li&gt;\n&lt;li&gt;Diameter: .02&quot;&lt;/li&gt;\n&lt;/ul&gt;"
         },
         {
             "name": "oompID",

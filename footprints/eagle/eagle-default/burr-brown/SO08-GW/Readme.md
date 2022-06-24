@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-burr-brown-SO08-GW
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

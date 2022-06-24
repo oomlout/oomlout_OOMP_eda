@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-BPT-24X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

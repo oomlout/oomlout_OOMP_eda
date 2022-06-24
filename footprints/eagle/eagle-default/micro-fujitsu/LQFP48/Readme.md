@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-LQFP48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

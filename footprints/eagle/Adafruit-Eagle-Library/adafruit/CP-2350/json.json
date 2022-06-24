@@ -1,9 +1,9 @@
 {
-    "index": 255,
+    "index": 27755,
     "tags": [
         {
             "name": "index",
-            "value": 255
+            "value": 27755
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/CP-2350"
+        },
+        {
+            "name": "description",
+            "value": "Female &lt;b&gt;CONNECTOR&lt;/b&gt;&lt;p&gt;\n5 pins 90 deg. with shield, horizontal (DIN 41524)"
         },
         {
             "name": "oompID",

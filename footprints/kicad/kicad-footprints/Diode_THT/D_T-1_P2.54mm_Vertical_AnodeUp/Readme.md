@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_T-1_P2.54mm_Vertical_AnodeUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

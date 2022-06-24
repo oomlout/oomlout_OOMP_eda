@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-40_7.6x15.4mm_P0.762mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

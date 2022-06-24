@@ -1,9 +1,9 @@
 {
-    "index": 14283,
+    "index": 41783,
     "tags": [
         {
             "name": "index",
-            "value": 14283
+            "value": 41783
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/RASPBERRY_PI_SHIELD_HOLES"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Surface Mount - 2x20 Header&lt;/h3&gt;\n\nReversed pinout to match Raspberry Pi male header pinout when coupled."
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOT143-W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

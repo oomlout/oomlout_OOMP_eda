@@ -1,9 +1,9 @@
 {
-    "index": 9551,
+    "index": 37051,
     "tags": [
         {
             "name": "index",
-            "value": 9551
+            "value": 37051
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/VSOP28-8X13"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Very Small Outline Package&lt;/b&gt;&lt;p&gt;&#xD;\n8 x 13.4 mm, package type VS"
         },
         {
             "name": "oompID",

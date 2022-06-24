@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-IRF-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

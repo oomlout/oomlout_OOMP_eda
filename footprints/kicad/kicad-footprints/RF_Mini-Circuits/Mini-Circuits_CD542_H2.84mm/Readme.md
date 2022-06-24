@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

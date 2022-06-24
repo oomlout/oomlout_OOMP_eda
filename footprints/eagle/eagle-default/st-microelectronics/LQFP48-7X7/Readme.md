@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LQFP48-7X7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

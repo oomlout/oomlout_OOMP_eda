@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_445_030_series_5x30mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

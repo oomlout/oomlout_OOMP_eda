@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-jae-EXPRCRD-PX10-PX11
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

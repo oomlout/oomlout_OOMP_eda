@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs42
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

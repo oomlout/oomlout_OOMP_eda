@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09K_Single_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

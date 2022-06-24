@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D28.0mm_P29.20mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

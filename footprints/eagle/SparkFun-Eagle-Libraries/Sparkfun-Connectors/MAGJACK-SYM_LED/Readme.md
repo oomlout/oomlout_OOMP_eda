@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MAGJACK-SYM_LED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: Sparkfun-Connectors
 - oompIndex: MAGJACK-SYM_LED
 - oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/MAGJACK-SYM_LED
+- description: LPJ0284GDNL, HR861153C
 
 
 

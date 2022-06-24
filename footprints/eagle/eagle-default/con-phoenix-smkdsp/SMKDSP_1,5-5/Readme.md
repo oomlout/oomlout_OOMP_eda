@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-phoenix-smkdsp-SMKDSP_1,5/5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

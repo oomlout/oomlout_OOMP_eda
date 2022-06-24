@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxstream-XBEE-PRO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

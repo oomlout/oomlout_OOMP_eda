@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-UBGA4808
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: UBGA4808
 - oompName: eagle-default/ref-packages/UBGA4808
+- description: &lt;b&gt;micro Ball Grid Array&lt;/b&gt;
+
+
+
+[im]: image.png

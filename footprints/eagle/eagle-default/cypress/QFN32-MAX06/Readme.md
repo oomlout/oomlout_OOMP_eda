@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-cypress-QFN32-MAX06
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SC70-5L
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SC70-5L
 - oompName: eagle-default/ref-packages/SC70-5L
+- description: &lt;b&gt;SC-70 Package&lt;/b&gt;
+
+
+
+[im]: image.png

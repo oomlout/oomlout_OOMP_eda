@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CR2032-THRU
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

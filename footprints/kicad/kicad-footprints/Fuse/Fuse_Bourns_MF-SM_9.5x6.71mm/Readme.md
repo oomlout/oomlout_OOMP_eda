@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

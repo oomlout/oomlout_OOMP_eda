@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-traco-electronic-TEN3XXXX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

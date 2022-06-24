@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP120_SOT349-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

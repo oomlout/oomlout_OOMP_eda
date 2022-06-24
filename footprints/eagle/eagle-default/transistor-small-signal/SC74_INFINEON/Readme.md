@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC74_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

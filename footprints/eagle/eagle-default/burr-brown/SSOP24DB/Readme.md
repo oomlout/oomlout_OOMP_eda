@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-burr-brown-SSOP24DB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
