@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Aosong_DHT11_5.5x12.0_P2.54mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

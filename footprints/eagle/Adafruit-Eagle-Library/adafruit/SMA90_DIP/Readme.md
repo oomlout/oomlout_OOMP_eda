@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SMA90_DIP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: SMA90_DIP
 - oompName: Adafruit-Eagle-Library/adafruit/SMA90_DIP
+- description: SMA DIP Connector 90 50 Ohm
 
 
 

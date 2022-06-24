@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-CQFP-84
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: CQFP-84
 - oompName: eagle-default/ref-packages/CQFP-84
+- description: &lt;b&gt;CERAMIC QUAD FLAT PACK&lt;/b&gt;
+
+
+
+[im]: image.png

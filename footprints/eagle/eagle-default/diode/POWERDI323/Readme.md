@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-POWERDI323
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

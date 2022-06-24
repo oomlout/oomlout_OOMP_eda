@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-I2C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

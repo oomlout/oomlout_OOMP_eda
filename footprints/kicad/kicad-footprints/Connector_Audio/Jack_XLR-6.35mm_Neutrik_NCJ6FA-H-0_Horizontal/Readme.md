@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

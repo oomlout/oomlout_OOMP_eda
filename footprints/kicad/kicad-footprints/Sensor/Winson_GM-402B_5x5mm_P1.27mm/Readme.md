@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

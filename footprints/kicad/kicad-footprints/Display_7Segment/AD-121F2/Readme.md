@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AD-121F2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

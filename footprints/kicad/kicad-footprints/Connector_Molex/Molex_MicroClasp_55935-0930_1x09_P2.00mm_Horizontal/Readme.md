@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_MicroClasp_55935-0930_1x09_P2.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA289C80P17X17_1500X1500X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

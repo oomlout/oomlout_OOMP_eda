@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

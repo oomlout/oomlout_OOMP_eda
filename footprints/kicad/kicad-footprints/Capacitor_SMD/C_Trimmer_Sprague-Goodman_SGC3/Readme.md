@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Sprague-Goodman_SGC3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

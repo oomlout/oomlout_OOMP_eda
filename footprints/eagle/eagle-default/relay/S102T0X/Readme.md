@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-S102T0X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

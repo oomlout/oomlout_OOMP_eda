@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-opto-honeywell-SMA-PCB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

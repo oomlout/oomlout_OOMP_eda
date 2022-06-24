@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L16.1mm_W9.0mm_P7.37mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

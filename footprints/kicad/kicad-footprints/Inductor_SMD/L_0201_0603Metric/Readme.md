@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0201_0603Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

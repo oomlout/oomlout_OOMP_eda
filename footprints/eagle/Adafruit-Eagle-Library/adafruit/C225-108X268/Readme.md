@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C225-108X268
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: C225-108X268
 - oompName: Adafruit-Eagle-Library/adafruit/C225-108X268
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+grid 22.5 mm, outline 10.8 x 26.8 mm
 
 
 

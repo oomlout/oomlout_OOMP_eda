@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

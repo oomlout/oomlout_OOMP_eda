@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-VSONP-8-1EP_5x6_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

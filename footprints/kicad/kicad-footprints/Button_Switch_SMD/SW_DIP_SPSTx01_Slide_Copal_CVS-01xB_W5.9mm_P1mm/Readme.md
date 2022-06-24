@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx01_Slide_Copal_CVS-01xB_W5.9mm_P1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

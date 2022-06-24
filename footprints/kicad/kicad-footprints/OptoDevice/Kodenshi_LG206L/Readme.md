@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

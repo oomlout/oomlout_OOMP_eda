@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R/2012-12R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: R/2012-12R
 - oompName: Adafruit-Eagle-Library/adafruit/R/2012-12R
+- description: &lt;b&gt;Chip Capacitor Type KEMET R/EIA 2012-12 Reflow solder&lt;/b&gt;
 
 
 

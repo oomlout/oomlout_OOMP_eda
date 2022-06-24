@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

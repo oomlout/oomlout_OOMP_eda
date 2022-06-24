@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-080-E
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

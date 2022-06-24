@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,7 @@ newPart.addTag("oompDesc", "adafruit")
 newPart.addTag("oompIndex", "LCD1602-RGB")
 newPart.addTag("oompName", "Adafruit-Eagle-Library/adafruit/LCD1602-RGB")
 
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-LCD1602-RGB",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='Adafruit-Eagle-Library',oompDesc='adafruit',oompIndex='LCD1602-RGB')
 
 OOMP.parts.append(newPart)

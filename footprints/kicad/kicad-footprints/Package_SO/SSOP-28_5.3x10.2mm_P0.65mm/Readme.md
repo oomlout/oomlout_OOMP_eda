@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-28_5.3x10.2mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

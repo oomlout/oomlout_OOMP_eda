@@ -1,9 +1,9 @@
 {
-    "index": 8872,
+    "index": 36372,
     "tags": [
         {
             "name": "index",
-            "value": 8872
+            "value": 36372
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SC74_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 6 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

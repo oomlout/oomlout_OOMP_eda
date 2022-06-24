@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-LCC32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

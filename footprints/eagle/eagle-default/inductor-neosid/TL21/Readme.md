@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-TL21
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_S16B-PH-K_1x16_P2.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

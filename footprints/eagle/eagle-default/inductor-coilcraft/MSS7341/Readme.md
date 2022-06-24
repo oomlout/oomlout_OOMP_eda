@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-coilcraft-MSS7341
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

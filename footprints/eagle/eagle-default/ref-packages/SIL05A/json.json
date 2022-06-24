@@ -1,9 +1,9 @@
 {
-    "index": 8882,
+    "index": 36382,
     "tags": [
         {
             "name": "index",
-            "value": 8882
+            "value": 36382
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SIL05A"
+        },
+        {
+            "name": "description",
+            "value": "4 &lt;B&gt;DIODES&lt;/B&gt;&lt;p&gt;&#xD;\nsingle in line 4 diodes with common anode"
         },
         {
             "name": "oompID",

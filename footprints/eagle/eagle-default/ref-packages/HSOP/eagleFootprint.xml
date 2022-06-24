@@ -1,2 +1,54 @@
-
-<package name="HSOP"></package>
+<package name="HSOP" urn="urn:adsk.eagle:footprint:8084642/1">
+<description>&lt;b&gt;Heatsink Small Outline Package (HSOP)&lt;/b&gt;&lt;p&gt;&#xD;
+Source: www.motorola.com/... AN2388.pdf</description>
+<wire x1="-7.85" y1="5.4" x2="7.85" y2="5.4" width="0.2032" layer="21"/>
+<wire x1="7.85" y1="5.4" x2="7.85" y2="-5.4" width="0.2032" layer="21"/>
+<wire x1="7.85" y1="-5.4" x2="-6.75" y2="-5.4" width="0.2032" layer="21"/>
+<wire x1="-7.85" y1="-4.3" x2="-7.85" y2="5.4" width="0.2032" layer="21"/>
+<wire x1="-7.85" y1="-4.3" x2="-6.75" y2="-5.4" width="0.2032" layer="21"/>
+<smd name="1" x="-5.715" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="2" x="-4.445" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="3" x="-3.175" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="4" x="-1.905" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="5" x="-0.635" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="6" x="0.635" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="7" x="1.905" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="8" x="3.175" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="9" x="4.445" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="10" x="5.715" y="-6.731" dx="0.7" dy="1.4" layer="1"/>
+<smd name="11" x="5.715" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="12" x="4.445" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="13" x="3.175" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="14" x="1.905" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="15" x="0.635" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="16" x="-0.635" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="17" x="-1.905" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="18" x="-3.175" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="19" x="-4.445" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="20" x="-5.715" y="6.731" dx="0.7" dy="1.4" layer="1" rot="R180"/>
+<smd name="SL1" x="0" y="0" dx="12.35" dy="6.6" layer="1"/>
+<smd name="SL2" x="-7.239" y="0" dx="2.15" dy="2.8" layer="1"/>
+<smd name="SL3" x="7.239" y="0" dx="2.15" dy="2.8" layer="1"/>
+<text x="-8.89" y="-3.81" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="10.16" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-5.965" y1="-7.1" x2="-5.465" y2="-5.5" layer="51"/>
+<rectangle x1="-4.695" y1="-7.1" x2="-4.195" y2="-5.5" layer="51"/>
+<rectangle x1="-3.425" y1="-7.1" x2="-2.925" y2="-5.5" layer="51"/>
+<rectangle x1="-2.155" y1="-7.1" x2="-1.655" y2="-5.5" layer="51"/>
+<rectangle x1="-0.885" y1="-7.1" x2="-0.385" y2="-5.5" layer="51"/>
+<rectangle x1="0.385" y1="-7.1" x2="0.885" y2="-5.5" layer="51"/>
+<rectangle x1="1.655" y1="-7.1" x2="2.155" y2="-5.5" layer="51"/>
+<rectangle x1="2.925" y1="-7.1" x2="3.425" y2="-5.5" layer="51"/>
+<rectangle x1="4.195" y1="-7.1" x2="4.695" y2="-5.5" layer="51"/>
+<rectangle x1="5.465" y1="-7.1" x2="5.965" y2="-5.5" layer="51"/>
+<rectangle x1="5.465" y1="5.5" x2="5.965" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="4.195" y1="5.5" x2="4.695" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="2.925" y1="5.5" x2="3.425" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="1.655" y1="5.5" x2="2.155" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="0.385" y1="5.5" x2="0.885" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="-0.885" y1="5.5" x2="-0.385" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="-2.155" y1="5.5" x2="-1.655" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="-3.425" y1="5.5" x2="-2.925" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="-4.695" y1="5.5" x2="-4.195" y2="7.1" layer="51" rot="R180"/>
+<rectangle x1="-5.965" y1="5.5" x2="-5.465" y2="7.1" layer="51" rot="R180"/>
+</package>

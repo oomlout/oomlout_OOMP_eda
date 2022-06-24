@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52_14x14mm_P1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

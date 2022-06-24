@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_StandexMeder_SIL_Form1C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

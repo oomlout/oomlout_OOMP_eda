@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_ADPS-9960
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

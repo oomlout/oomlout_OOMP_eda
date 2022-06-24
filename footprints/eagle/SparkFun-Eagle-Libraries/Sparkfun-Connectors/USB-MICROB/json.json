@@ -1,9 +1,9 @@
 {
-    "index": 14338,
+    "index": 41838,
     "tags": [
         {
             "name": "index",
-            "value": 14338
+            "value": 41838
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB-MICROB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Type microUSB Connector-No Bossed Pins&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:5 pins, 4 shield connections&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;USB_Micro-B&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

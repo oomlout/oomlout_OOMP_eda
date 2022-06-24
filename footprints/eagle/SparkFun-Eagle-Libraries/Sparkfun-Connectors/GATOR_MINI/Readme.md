@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-GATOR_MINI
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

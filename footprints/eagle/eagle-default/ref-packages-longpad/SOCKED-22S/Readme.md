@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOCKED-22S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

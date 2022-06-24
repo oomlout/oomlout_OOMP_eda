@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-NX5032
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

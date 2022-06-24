@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ir-CFL-LAMP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

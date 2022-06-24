@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "adafruit")
 newPart.addTag("oompIndex", "SQFP-S-7X7-48")
 newPart.addTag("oompName", "Adafruit-Eagle-Library/adafruit/SQFP-S-7X7-48")
 
+newPart.addTag("description", """&lt;b&gt;QFP48&lt;/b&gt;&lt;p&gt;
+shrink quad flat pack, square""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SQFP-S-7X7-48",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='Adafruit-Eagle-Library',oompDesc='adafruit',oompIndex='SQFP-S-7X7-48')
 
 OOMP.parts.append(newPart)

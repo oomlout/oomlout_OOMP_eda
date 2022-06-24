@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MOLD-3Pin
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

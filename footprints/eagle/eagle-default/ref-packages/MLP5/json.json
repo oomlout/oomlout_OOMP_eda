@@ -1,9 +1,9 @@
 {
-    "index": 8571,
+    "index": 36071,
     "tags": [
         {
             "name": "index",
-            "value": 8571
+            "value": 36071
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MLP5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MLP5 Package&lt;/b&gt;&lt;p&gt;&#xD;\nJedec MO-187 Iss A&lt;br&gt;&#xD;\nSource : Analog and Discrete Components Databook ST306 April 2001"
         },
         {
             "name": "oompID",

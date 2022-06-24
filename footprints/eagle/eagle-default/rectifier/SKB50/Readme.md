@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-SKB50
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

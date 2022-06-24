@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-KSS1201
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU1028_10.0x10.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

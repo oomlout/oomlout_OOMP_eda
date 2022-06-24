@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-NXP_XSON-16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

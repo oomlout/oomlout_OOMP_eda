@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-coax-J502-ND
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

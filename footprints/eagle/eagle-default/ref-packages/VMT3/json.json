@@ -1,9 +1,9 @@
 {
-    "index": 9550,
+    "index": 37050,
     "tags": [
         {
             "name": "index",
-            "value": 9550
+            "value": 37050
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/VMT3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ROHM : VMT3&lt;/b&gt;&lt;p&gt;&#xD;\n2SC4726.pdf"
         },
         {
             "name": "oompID",

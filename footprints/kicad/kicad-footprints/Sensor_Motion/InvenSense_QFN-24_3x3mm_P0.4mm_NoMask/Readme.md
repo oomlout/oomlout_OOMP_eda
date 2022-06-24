@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm_NoMask
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

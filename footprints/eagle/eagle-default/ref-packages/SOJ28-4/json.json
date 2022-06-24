@@ -1,9 +1,9 @@
 {
-    "index": 9032,
+    "index": 36532,
     "tags": [
         {
             "name": "index",
-            "value": 9032
+            "value": 36532
         },
         {
             "name": "hexID",
@@ -27,15 +27,19 @@
         },
         {
             "name": "oompIndex",
-            "value": "SOJ28/4"
+            "value": "SOJ28-4"
         },
         {
             "name": "oompName",
-            "value": "eagle-default/ref-packages/SOJ28/4"
+            "value": "eagle-default/ref-packages/SOJ28-4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE J LEADS&lt;/b&gt;&lt;p&gt;&#xD;\nbody 10.12 mm"
         },
         {
             "name": "oompID",
-            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOJ28/4"
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOJ28-4"
         },
         {
             "name": "name",

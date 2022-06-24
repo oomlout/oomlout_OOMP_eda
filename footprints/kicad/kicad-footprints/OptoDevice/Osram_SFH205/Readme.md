@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH205
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

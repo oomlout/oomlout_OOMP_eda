@@ -1,2 +1,37 @@
-
-<package name="SIP13"></package>
+<package name="SIP13" urn="urn:adsk.eagle:footprint:8085848/1">
+<description>&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;&#xD;
+grid 1.7 mm</description>
+<wire x1="-11.811" y1="-1.27" x2="-11.811" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="2.7432" y1="-4.445" x2="4.0894" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="-0.6604" y1="-4.445" x2="0.6604" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="-4.064" y1="-4.445" x2="-2.7432" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="-7.4422" y1="-4.445" x2="-6.1722" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="-9.5758" y1="-4.445" x2="-11.811" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="9.5504" y1="-4.445" x2="11.811" y2="-4.445" width="0.254" layer="21"/>
+<wire x1="11.811" y1="-4.445" x2="11.811" y2="-1.27" width="0.254" layer="21"/>
+<wire x1="6.1468" y1="-4.445" x2="7.4676" y2="-4.445" width="0.254" layer="21"/>
+<circle x="-11.0998" y="-3.7338" radius="0.254" width="0.254" layer="21"/>
+<pad name="1" x="-10.2108" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<pad name="2" x="-8.509" y="-4.4704" drill="1.016" shape="long" rot="R90"/>
+<pad name="3" x="-6.8072" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<pad name="4" x="-5.1054" y="-4.4704" drill="1.016" shape="long" rot="R90"/>
+<pad name="5" x="-3.4036" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<pad name="7" x="0" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<pad name="9" x="3.4036" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<pad name="11" x="6.8072" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<pad name="6" x="-1.7018" y="-4.4704" drill="1.016" shape="long" rot="R90"/>
+<pad name="8" x="1.7018" y="-4.4704" drill="1.016" shape="long" rot="R90"/>
+<pad name="10" x="5.1054" y="-4.4704" drill="1.016" shape="long" rot="R90"/>
+<pad name="12" x="8.509" y="-4.4704" drill="1.016" shape="long" rot="R90"/>
+<pad name="13" x="10.2108" y="-9.525" drill="1.016" shape="long" rot="R90"/>
+<text x="-10.16" y="-3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.54" y="-3.175" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-11.938" y1="-1.27" x2="11.938" y2="0" layer="21"/>
+<rectangle x1="-10.5918" y1="-8.509" x2="-9.8298" y2="-4.445" layer="21"/>
+<rectangle x1="-7.1882" y1="-8.509" x2="-6.4262" y2="-4.445" layer="21"/>
+<rectangle x1="-3.7846" y1="-8.509" x2="-3.0226" y2="-4.445" layer="21"/>
+<rectangle x1="-0.381" y1="-8.509" x2="0.381" y2="-4.445" layer="21"/>
+<rectangle x1="3.0226" y1="-8.509" x2="3.7846" y2="-4.445" layer="21"/>
+<rectangle x1="6.4262" y1="-8.509" x2="7.1882" y2="-4.445" layer="21"/>
+<rectangle x1="9.779" y1="-8.509" x2="10.541" y2="-4.445" layer="21"/>
+</package>

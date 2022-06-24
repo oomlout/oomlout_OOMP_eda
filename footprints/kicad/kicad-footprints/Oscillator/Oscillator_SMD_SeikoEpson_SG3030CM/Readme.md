@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG3030CM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

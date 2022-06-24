@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-idt-G68-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8384,
+    "index": 35884,
     "tags": [
         {
             "name": "index",
-            "value": 8384
+            "value": 35884
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E/7260-38R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET E / EIA 7260-38 Reflow solder&lt;/b&gt;"
         },
         {
             "name": "oompID",

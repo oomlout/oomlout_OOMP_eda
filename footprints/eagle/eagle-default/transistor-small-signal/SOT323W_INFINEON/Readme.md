@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT323W_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

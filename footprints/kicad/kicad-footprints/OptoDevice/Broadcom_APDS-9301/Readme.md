@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_APDS-9301
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

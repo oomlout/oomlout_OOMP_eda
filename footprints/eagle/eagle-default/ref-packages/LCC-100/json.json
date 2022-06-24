@@ -1,9 +1,9 @@
 {
-    "index": 8517,
+    "index": 36017,
     "tags": [
         {
             "name": "index",
-            "value": 8517
+            "value": 36017
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/LCC-100"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;LEADLESS CERAMIC CHIP CARRIER&lt;/b&gt;"
         },
         {
             "name": "oompID",

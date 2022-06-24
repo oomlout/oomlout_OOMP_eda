@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

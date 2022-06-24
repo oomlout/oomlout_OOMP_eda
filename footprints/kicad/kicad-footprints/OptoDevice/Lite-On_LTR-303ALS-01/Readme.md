@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

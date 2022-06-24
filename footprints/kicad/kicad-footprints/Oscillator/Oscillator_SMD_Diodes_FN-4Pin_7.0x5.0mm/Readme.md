@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

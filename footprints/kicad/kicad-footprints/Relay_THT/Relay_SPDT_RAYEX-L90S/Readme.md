@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_RAYEX-L90S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C050-055X075
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: C050-055X075
 - oompName: Adafruit-Eagle-Library/adafruit/C050-055X075
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+grid 5 mm, outline 5.5 x 7.5 mm
 
 
 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14V-15_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

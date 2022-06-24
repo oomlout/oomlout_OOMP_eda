@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-dil-EXB38V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

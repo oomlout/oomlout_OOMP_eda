@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-1616
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

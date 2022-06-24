@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-exar-PLCC44
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

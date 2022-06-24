@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX05-NP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

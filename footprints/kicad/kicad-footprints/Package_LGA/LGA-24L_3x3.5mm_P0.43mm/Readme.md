@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 557,
+    "index": 28057,
     "tags": [
         {
             "name": "index",
-            "value": 557
+            "value": 28057
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SQFP-S-7X7-48"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFP48&lt;/b&gt;&lt;p&gt;\nshrink quad flat pack, square"
         },
         {
             "name": "oompID",

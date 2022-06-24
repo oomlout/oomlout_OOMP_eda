@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C221B1B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

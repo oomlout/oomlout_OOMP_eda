@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74xx-little-de-SSOP08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

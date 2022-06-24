@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

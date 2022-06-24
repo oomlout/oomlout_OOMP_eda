@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-burr-brown-TSSOP024
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

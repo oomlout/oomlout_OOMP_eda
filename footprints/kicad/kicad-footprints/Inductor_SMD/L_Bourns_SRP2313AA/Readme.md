@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP2313AA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

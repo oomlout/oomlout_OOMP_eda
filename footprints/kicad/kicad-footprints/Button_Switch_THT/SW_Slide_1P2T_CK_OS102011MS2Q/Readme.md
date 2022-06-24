@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Slide_1P2T_CK_OS102011MS2Q
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-180G-5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

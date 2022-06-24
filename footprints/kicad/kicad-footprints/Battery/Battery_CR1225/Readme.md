@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

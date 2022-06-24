@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

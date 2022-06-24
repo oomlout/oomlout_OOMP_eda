@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOT363_PHILIPS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

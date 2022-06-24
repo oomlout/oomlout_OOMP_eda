@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_B8B-PHDSS_2x04_P2.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

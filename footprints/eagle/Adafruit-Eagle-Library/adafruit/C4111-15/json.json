@@ -1,9 +1,9 @@
 {
-    "index": 242,
+    "index": 27742,
     "tags": [
         {
             "name": "index",
-            "value": 242
+            "value": 27742
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C4111-15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;\ndiameter 5.3 mm, horizontal, grid 15.24 mm"
         },
         {
             "name": "oompID",

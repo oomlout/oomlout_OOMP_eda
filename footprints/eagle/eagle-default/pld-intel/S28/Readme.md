@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pld-intel-S28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

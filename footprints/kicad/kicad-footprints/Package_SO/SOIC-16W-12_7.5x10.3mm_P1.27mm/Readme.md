@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W-12_7.5x10.3mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-holtek-SO18L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

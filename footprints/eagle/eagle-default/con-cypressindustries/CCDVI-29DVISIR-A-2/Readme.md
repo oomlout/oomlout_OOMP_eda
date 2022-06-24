@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-cypressindustries-CCDVI-29DVISIR-A-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,4 +1,3 @@
-
 <package name="HC49GW">
 <description>&lt;b&gt;CRYSTAL&lt;/b&gt;</description>
 <wire x1="-5.08" y1="-6.35" x2="5.08" y2="-6.35" width="0.8128" layer="21"/>

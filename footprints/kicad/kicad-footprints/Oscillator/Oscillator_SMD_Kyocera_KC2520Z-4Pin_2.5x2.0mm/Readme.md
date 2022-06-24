@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

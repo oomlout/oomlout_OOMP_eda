@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

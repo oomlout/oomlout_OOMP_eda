@@ -1,9 +1,9 @@
 {
-    "index": 8983,
+    "index": 36483,
     "tags": [
         {
             "name": "index",
-            "value": 8983
+            "value": 36483
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOD64-12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 4.8 mm, vertical, grid 12.7 mm"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-opto-vishay-SOT223/10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

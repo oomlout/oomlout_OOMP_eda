@@ -1,9 +1,9 @@
 {
-    "index": 8349,
+    "index": 35849,
     "tags": [
         {
             "name": "index",
-            "value": 8349
+            "value": 35849
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO201T15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 5.6 mm, horizontal, grid 15.24 mm"
         },
         {
             "name": "oompID",

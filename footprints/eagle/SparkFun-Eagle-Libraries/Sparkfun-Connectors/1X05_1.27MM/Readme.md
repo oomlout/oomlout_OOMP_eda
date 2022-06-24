@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X05_1.27MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,14 @@ Contents
 - oompDesc: Sparkfun-Connectors
 - oompIndex: 1X05_1.27MM
 - oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_1.27MM
+- description: &lt;h3&gt;Plated Through Hole - 5 Pin&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:5&lt;/li&gt;
+&lt;li&gt;Pin pitch: 1.27mm&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_05&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
 
 
 

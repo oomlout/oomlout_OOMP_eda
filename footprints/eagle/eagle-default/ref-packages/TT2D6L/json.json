@@ -1,9 +1,9 @@
 {
-    "index": 9524,
+    "index": 37024,
     "tags": [
         {
             "name": "index",
-            "value": 9524
+            "value": 37024
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TT2D6L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ndiameter 6 mm, grid 2.54 mm"
         },
         {
             "name": "oompID",

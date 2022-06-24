@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-murata-filter-NFM3DC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-KP298
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

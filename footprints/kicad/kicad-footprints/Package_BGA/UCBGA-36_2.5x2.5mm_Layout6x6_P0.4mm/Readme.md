@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-36_2.5x2.5mm_Layout6x6_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

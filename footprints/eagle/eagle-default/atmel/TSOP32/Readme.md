@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-TSOP32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

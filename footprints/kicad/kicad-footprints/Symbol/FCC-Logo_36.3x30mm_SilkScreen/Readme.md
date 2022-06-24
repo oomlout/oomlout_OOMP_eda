@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-FCC-Logo_36.3x30mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

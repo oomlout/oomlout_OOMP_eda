@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-avago-SOT363
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

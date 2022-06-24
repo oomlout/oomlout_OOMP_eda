@@ -1,9 +1,9 @@
 {
-    "index": 9000,
+    "index": 36500,
     "tags": [
         {
             "name": "index",
-            "value": 9000
+            "value": 36500
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOICW32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Package wide&lt;/b&gt;&lt;p&gt;&#xD;\nsource www.motorola.com; BR1568.pdf"
         },
         {
             "name": "oompID",

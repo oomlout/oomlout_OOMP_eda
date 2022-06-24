@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x25_P2.54mm_Latch6.5mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SAS-mini_TEConnectivity_1888174_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

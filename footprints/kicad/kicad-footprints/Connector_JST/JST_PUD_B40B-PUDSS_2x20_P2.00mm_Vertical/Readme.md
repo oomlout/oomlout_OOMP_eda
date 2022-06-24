@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B40B-PUDSS_2x20_P2.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

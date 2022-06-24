@@ -1,9 +1,9 @@
 {
-    "index": 385,
+    "index": 27885,
     "tags": [
         {
             "name": "index",
-            "value": 385
+            "value": 27885
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/IRL80A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;IR LED&lt;/B&gt;&lt;p&gt;\nIR transmitter Siemens"
         },
         {
             "name": "oompID",

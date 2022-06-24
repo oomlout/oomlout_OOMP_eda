@@ -1,9 +1,9 @@
 {
-    "index": 366,
+    "index": 27866,
     "tags": [
         {
             "name": "index",
-            "value": 366
+            "value": 27866
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/HC13U-H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CRYSTAL&lt;/b&gt;"
         },
         {
             "name": "oompID",

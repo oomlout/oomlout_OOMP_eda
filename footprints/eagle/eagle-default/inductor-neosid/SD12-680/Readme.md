@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12-680
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DFN-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

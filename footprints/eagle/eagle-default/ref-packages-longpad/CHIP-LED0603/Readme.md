@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-CHIP-LED0603
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

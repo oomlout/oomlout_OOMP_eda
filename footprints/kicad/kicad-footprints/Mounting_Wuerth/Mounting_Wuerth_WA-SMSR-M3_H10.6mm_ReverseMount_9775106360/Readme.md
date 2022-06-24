@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H10.6mm_ReverseMount_9775106360
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

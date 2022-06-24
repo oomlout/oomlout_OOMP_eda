@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm_i386
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

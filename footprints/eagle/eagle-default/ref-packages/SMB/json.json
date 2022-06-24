@@ -1,9 +1,9 @@
 {
-    "index": 8893,
+    "index": 36393,
     "tags": [
         {
             "name": "index",
-            "value": 8893
+            "value": 36393
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SMB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE DIODE&lt;/b&gt;"
         },
         {
             "name": "oompID",

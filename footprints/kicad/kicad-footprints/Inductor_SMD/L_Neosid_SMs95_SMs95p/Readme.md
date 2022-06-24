@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs95_SMs95p
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

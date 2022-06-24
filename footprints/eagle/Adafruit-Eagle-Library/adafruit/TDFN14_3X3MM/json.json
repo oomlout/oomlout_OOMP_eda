@@ -1,9 +1,9 @@
 {
-    "index": 576,
+    "index": 28076,
     "tags": [
         {
             "name": "index",
-            "value": 576
+            "value": 28076
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TDFN14_3X3MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TDFN 14 3x3x0.75mm&lt;/b&gt;\n&lt;p&gt;Source: http://datasheets.maxim-ic.com/en/ds/MAX98306.pdf&lt;/p&gt;\n&lt;p&gt;Based on recommendtions in: http://www.freescale.com/files/sensors/doc/data_sheet/MAG3110.pdf&lt;/p&gt;"
         },
         {
             "name": "oompID",

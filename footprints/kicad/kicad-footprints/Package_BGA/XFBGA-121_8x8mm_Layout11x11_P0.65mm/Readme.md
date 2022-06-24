@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-121_8x8mm_Layout11x11_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

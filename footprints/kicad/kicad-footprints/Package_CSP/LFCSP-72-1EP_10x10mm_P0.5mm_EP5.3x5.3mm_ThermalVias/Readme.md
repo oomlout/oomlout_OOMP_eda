@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

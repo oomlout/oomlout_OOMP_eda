@@ -1,9 +1,9 @@
 {
-    "index": 494,
+    "index": 27994,
     "tags": [
         {
             "name": "index",
-            "value": 494
+            "value": 27994
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R2512"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip"
         },
         {
             "name": "oompID",

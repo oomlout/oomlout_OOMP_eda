@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,10 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "QFP52_SOT379-1")
 newPart.addTag("oompName", "eagle-default/ref-packages/QFP52_SOT379-1")
 
+newPart.addTag("description", """&lt;b&gt;Plastic Quad Flat Package SOT379-1&lt;/b&gt; 52 leads &lt;p&gt;&#xD;
+source: http://www.semiconductors.philips.com/&lt;p&gt;&#xD;
+LQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-QFP52_SOT379-1",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='QFP52_SOT379-1')
 
 OOMP.parts.append(newPart)

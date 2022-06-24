@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_B20B-XASK-1_1x20_P2.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

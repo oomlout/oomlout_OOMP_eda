@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

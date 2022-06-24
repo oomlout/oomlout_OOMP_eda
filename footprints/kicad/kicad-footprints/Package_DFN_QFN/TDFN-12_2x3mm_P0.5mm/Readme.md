@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

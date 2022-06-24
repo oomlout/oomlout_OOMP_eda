@@ -1,9 +1,9 @@
 {
-    "index": 14301,
+    "index": 41801,
     "tags": [
         {
             "name": "index",
-            "value": 14301
+            "value": 41801
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SCREWTERMINAL-3.5MM-6"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Screw Terminal  3.5mm Pitch -6 Pin PTH&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;li&gt;Pin pitch: 3.5mm/138mil&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Screw-Terminal-3.5mm.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_06&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

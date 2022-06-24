@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor-MQ-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

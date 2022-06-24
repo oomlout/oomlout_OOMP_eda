@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_1-Form-C_Schrack-RYII_RM3.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

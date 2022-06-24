@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-display-lcd-LS026C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

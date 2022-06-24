@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "adafruit")
 newPart.addTag("oompIndex", "E2,5-4R")
 newPart.addTag("oompName", "Adafruit-Eagle-Library/adafruit/E2,5-4R")
 
+newPart.addTag("description", """&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
+grid 2.54 mm, diameter 4 mm""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E2,5-4R",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='Adafruit-Eagle-Library',oompDesc='adafruit',oompIndex='E2,5-4R')
 
 OOMP.parts.append(newPart)

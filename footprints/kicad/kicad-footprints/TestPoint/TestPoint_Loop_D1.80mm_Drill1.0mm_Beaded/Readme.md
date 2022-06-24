@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

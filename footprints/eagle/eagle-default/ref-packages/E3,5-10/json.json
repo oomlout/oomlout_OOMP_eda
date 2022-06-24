@@ -1,9 +1,9 @@
 {
-    "index": 8404,
+    "index": 35904,
     "tags": [
         {
             "name": "index",
-            "value": 8404
+            "value": 35904
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E3,5-10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 3.5 mm, diameter 10 mm"
         },
         {
             "name": "oompID",

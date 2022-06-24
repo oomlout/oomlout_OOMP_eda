@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P5.08mm_Vertical_KathodeUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

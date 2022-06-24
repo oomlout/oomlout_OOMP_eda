@@ -1,9 +1,9 @@
 {
-    "index": 8864,
+    "index": 36364,
     "tags": [
         {
             "name": "index",
-            "value": 8864
+            "value": 36364
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SC59-R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SC59 Reflow soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

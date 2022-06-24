@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

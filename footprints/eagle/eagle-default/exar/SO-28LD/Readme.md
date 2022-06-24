@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-exar-SO-28LD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

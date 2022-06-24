@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM13B-SRSS-TB_1x13-1MP_P1.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

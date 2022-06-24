@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOJ127P1117X376-32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

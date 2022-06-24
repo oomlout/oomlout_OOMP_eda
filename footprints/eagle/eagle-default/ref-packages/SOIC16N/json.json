@@ -1,9 +1,9 @@
 {
-    "index": 8997,
+    "index": 36497,
     "tags": [
         {
             "name": "index",
-            "value": 8997
+            "value": 36497
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOIC16N"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;"
         },
         {
             "name": "oompID",

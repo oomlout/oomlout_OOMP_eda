@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

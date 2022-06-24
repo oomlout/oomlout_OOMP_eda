@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FGGA676
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

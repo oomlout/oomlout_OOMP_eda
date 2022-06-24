@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_JS202011CQN_DPDT_Straight
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

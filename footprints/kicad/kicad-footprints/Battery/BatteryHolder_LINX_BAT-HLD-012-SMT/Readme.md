@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_LINX_BAT-HLD-012-SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

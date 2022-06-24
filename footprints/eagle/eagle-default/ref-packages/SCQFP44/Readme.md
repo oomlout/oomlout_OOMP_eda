@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SCQFP44
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SCQFP44
 - oompName: eagle-default/ref-packages/SCQFP44
+- description: &lt;b&gt;CERAMIC QUAD FLAT PACK&lt;/b&gt;
+
+
+
+[im]: image.png

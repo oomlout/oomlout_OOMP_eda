@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-S-44X44-576
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

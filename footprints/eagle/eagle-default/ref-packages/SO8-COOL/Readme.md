@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SO8-COOL
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SO8-COOL
 - oompName: eagle-default/ref-packages/SO8-COOL
+- description: &lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-rib-ST2,8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-32_5x5mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

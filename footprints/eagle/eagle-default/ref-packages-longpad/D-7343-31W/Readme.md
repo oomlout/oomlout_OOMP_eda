@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-D/7343-31W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

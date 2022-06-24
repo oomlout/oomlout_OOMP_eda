@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

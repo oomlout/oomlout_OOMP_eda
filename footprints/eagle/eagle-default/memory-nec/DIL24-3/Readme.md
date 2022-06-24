@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-nec-DIL24-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ic-package-PGA68L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

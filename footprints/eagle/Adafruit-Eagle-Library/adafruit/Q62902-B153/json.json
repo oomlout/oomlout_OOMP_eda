@@ -1,9 +1,9 @@
 {
-    "index": 474,
+    "index": 27974,
     "tags": [
         {
             "name": "index",
-            "value": 474
+            "value": 27974
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/Q62902-B153"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;LED HOLDER&lt;/b&gt;&lt;p&gt;\nSiemens"
         },
         {
             "name": "oompID",

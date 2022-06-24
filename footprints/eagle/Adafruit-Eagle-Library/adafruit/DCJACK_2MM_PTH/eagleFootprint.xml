@@ -1,4 +1,3 @@
-
 <package name="DCJACK_2MM_PTH">
 <description>DJ Jack 2.0mm PTH Right-Angle</description>
 <wire x1="4.5" y1="14.2" x2="2.4" y2="14.2" width="0.2032" layer="21"/>

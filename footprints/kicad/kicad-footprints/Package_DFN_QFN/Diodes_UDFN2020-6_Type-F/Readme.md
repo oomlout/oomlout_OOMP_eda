@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

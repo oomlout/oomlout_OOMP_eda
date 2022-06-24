@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-UMAX10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

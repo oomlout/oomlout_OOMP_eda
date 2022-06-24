@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

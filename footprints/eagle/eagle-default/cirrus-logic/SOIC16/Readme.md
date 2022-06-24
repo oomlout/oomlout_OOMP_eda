@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-cirrus-logic-SOIC16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

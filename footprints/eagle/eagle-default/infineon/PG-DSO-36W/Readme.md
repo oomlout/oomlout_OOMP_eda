@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-PG-DSO-36W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

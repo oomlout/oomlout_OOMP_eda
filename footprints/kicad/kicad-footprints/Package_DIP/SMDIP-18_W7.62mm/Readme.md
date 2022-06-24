@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-18_W7.62mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

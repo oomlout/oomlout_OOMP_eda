@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

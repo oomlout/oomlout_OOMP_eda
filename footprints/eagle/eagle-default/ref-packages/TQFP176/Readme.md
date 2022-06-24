@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TQFP176
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TQFP176
 - oompName: eagle-default/ref-packages/TQFP176
+- description: &lt;b&gt;Thin Quad Flat Pack&lt;/b&gt;
+
+
+
+[im]: image.png

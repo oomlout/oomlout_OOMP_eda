@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167_LandPatternPL-079
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

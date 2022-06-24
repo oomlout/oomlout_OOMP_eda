@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-F126-12A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

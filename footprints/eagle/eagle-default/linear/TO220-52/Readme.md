@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-TO220-52
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

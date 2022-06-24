@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

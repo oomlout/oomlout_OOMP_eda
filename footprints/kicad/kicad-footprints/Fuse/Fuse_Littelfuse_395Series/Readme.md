@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

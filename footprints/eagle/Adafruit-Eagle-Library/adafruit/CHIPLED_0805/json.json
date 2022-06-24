@@ -1,9 +1,9 @@
 {
-    "index": 253,
+    "index": 27753,
     "tags": [
         {
             "name": "index",
-            "value": 253
+            "value": 27753
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/CHIPLED_0805"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CHIPLED&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... LG_R971.pdf"
         },
         {
             "name": "oompID",

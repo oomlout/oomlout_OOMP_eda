@@ -1,2 +1,31 @@
-
-<package name="G4-15"></package>
+<package name="G4-15" urn="urn:adsk.eagle:footprint:8083371/1">
+<description>&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 7.62 mm, horizontal, grid 15.24 mm</description>
+<wire x1="3.606" y1="1.27" x2="3.606" y2="-1.27" width="0.1524" layer="21" curve="-180"/>
+<wire x1="-3.556" y1="-1.27" x2="-3.556" y2="1.27" width="0.1524" layer="21" curve="-180"/>
+<wire x1="7.62" y1="0" x2="5.715" y2="0" width="1.27" layer="51"/>
+<wire x1="-7.62" y1="0" x2="-5.715" y2="0" width="1.27" layer="51"/>
+<wire x1="3.937" y1="0.889" x2="4.318" y2="0.508" width="0.6096" layer="21"/>
+<wire x1="4.318" y1="-0.508" x2="3.937" y2="-0.889" width="0.6096" layer="21"/>
+<wire x1="-4.318" y1="0.508" x2="-3.937" y2="0.889" width="0.6096" layer="21"/>
+<wire x1="-4.318" y1="-0.508" x2="-3.937" y2="-0.889" width="0.6096" layer="21"/>
+<wire x1="-2.667" y1="-2.286" x2="-2.667" y2="2.286" width="0.6096" layer="21"/>
+<wire x1="-3.175" y1="1.524" x2="-3.175" y2="-1.524" width="0.6096" layer="21"/>
+<wire x1="-3.556" y1="1.016" x2="-3.556" y2="-1.016" width="0.6096" layer="21"/>
+<wire x1="-3.175" y1="-1.524" x2="-2.921" y2="-2.032" width="0.6096" layer="21"/>
+<wire x1="-2.921" y1="2.032" x2="-3.175" y2="1.524" width="0.6096" layer="21"/>
+<wire x1="-0.762" y1="0" x2="-0.381" y2="0" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="0.762" x2="0.635" y2="-0.762" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="-0.762" x2="-0.381" y2="0" width="0.1524" layer="21"/>
+<wire x1="-0.381" y1="0" x2="1.016" y2="0" width="0.1524" layer="21"/>
+<wire x1="-0.381" y1="0" x2="0.635" y2="0.762" width="0.1524" layer="21"/>
+<wire x1="-0.381" y1="0.762" x2="-0.381" y2="0" width="0.1524" layer="21"/>
+<wire x1="-0.381" y1="0" x2="-0.381" y2="-0.762" width="0.1524" layer="21"/>
+<circle x="0" y="0" radius="3.81" width="0.1524" layer="21"/>
+<pad name="C" x="-7.62" y="0" drill="1.6002" shape="long"/>
+<pad name="A" x="7.62" y="0" drill="1.6002" shape="long"/>
+<text x="-2.413" y="4.064" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-1.905" y="-2.54" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="3.81" y1="-0.635" x2="5.842" y2="0.635" layer="21"/>
+<rectangle x1="-5.842" y1="-0.635" x2="-3.81" y2="0.635" layer="21"/>
+</package>

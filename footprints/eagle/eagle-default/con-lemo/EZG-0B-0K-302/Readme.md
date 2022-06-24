@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-lemo-EZG-0B-0K-302
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

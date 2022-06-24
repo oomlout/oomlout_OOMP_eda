@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-TQFP144
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

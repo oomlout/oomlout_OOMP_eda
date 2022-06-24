@@ -1,9 +1,9 @@
 {
-    "index": 9350,
+    "index": 36850,
     "tags": [
         {
             "name": "index",
-            "value": 9350
+            "value": 36850
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n3-lead molded horzintal"
         },
         {
             "name": "oompID",

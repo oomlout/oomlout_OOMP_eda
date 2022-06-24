@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-06P-1.25DSA_1x06_P1.25mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

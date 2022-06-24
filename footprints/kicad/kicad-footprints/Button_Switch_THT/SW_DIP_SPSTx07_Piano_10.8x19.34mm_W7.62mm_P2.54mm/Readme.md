@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx07_Piano_10.8x19.34mm_W7.62mm_P2.54mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

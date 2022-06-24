@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MM20SS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: MM20SS
 - oompName: Adafruit-Eagle-Library/adafruit/MM20SS
+- description: &lt;b&gt;CRYSTAL&lt;/b&gt;
 
 
 

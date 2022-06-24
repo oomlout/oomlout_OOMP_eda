@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_D14mm_H7mm_P10mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 14311,
+    "index": 41811,
     "tags": [
         {
             "name": "index",
-            "value": 14311
+            "value": 41811
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SNAP-MALE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Sew-On Fabric Snap - Male&lt;/h3&gt;\nEquivalent to size #1/0 snap. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 1&lt;/li&gt;\n&lt;li&gt;Area:8mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_01&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

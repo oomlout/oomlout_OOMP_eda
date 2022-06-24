@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84_29.3x29.3mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 14347,
+    "index": 41847,
     "tags": [
         {
             "name": "index",
-            "value": 14347
+            "value": 41847
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/XLR-3_MALE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;XLR-3 Connector - Package for the NC3MAAH-1 XLR-3 Connector&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 5&lt;/li&gt;\n&lt;li&gt;Area: 1 x .7 in&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.neutrik.us/zoolu-website/media/download/1429/Drawing+NC3MAAH-1&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-18_7x12.5mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

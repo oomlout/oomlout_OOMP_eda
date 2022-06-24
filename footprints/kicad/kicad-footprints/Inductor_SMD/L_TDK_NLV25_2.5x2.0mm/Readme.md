@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63R-3P-3.96DSA_1x03_P3.96mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

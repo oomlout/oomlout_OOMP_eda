@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_6.3x4.9
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-QFP100R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

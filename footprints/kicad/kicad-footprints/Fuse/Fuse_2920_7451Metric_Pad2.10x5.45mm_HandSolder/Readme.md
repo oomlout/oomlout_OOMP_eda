@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

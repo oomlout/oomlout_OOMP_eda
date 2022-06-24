@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingEquipment-DINRailAdapter_3xM3_PhoenixContact_1201578
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

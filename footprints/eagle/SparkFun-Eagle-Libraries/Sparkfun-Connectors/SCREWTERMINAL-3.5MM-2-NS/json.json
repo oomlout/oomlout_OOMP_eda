@@ -1,9 +1,9 @@
 {
-    "index": 14293,
+    "index": 41793,
     "tags": [
         {
             "name": "index",
-            "value": 14293
+            "value": 41793
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SCREWTERMINAL-3.5MM-2-NS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Screw Terminal  3.5mm Pitch - 2 Pin PTH No Silk Outline&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;\n&lt;li&gt;Pin pitch: 3.5mm/138mil&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Screw-Terminal-3.5mm.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_02&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

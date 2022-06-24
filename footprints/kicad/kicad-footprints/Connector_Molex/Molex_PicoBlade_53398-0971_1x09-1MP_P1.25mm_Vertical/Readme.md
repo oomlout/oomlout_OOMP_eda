@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53398-0971_1x09-1MP_P1.25mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

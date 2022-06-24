@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

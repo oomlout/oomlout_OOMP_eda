@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105310-xx10_2x05_P2.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

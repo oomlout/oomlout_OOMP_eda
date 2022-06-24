@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-50-2POLE22,5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8998,
+    "index": 36498,
     "tags": [
         {
             "name": "index",
-            "value": 8998
+            "value": 36498
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOIC20S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Wide Plastic Gull Wing Small Outline Package&lt;/B&gt;"
         },
         {
             "name": "oompID",

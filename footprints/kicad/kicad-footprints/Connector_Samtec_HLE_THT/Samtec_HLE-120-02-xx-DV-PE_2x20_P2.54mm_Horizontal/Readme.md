@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-120-02-xx-DV-PE_2x20_P2.54mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

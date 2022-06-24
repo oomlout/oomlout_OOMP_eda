@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2012-2Pin_2.0x1.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

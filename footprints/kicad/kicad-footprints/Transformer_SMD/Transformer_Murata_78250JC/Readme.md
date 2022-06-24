@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Murata_78250JC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

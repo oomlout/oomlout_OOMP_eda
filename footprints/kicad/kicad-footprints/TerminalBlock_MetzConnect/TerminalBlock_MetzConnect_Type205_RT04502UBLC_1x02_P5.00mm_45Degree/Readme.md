@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type205_RT04502UBLC_1x02_P5.00mm_45Degree
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

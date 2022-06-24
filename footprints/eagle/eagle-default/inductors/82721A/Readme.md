@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-82721A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

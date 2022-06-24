@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_1x2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

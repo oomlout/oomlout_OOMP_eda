@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CLIFF_FC681465S_SMT_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

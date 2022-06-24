@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103305_30x30mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

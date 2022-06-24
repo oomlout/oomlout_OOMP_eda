@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Omron_B3FS-101xP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

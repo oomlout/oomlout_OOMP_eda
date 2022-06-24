@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kobitone_254-EMB84Q-RO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

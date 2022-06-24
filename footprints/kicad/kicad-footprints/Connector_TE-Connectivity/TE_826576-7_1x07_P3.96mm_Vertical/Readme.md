@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_826576-7_1x07_P3.96mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9585,
+    "index": 37085,
     "tags": [
         {
             "name": "index",
-            "value": 9585
+            "value": 37085
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/ZIP20P"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Single In Line&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

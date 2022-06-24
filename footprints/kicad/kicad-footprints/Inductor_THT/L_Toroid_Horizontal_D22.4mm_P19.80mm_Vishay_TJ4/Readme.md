@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

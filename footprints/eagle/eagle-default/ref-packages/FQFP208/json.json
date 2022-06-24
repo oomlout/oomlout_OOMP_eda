@@ -1,9 +1,9 @@
 {
-    "index": 8460,
+    "index": 35960,
     "tags": [
         {
             "name": "index",
-            "value": 8460
+            "value": 35960
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/FQFP208"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Fine Pitch Quad Flat Pack&lt;/b&gt;"
         },
         {
             "name": "oompID",

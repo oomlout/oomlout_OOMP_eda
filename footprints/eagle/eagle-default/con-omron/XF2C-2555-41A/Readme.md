@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2C-2555-41A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

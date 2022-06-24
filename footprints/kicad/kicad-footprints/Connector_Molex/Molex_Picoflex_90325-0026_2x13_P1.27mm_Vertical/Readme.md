@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

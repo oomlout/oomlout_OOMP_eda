@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-YC15B6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

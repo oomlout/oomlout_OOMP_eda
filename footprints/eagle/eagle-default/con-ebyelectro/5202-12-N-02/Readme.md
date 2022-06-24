@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-ebyelectro-5202-12-N-02
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

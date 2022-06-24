@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Latch_53254-1270_1x12_P2.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

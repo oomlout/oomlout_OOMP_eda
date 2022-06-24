@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-zetex-MSOP8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

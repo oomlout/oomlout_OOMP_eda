@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "TO220AC")
 newPart.addTag("oompName", "eagle-default/ref-packages/TO220AC")
 
+newPart.addTag("description", """&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+2-lead molded, horizontal""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-TO220AC",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='TO220AC')
 
 OOMP.parts.append(newPart)

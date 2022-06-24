@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

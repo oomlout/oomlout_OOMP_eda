@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5W_P10.16mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

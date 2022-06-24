@@ -1,2 +1,264 @@
-
-<package name="PGA192"></package>
+<package name="PGA192" urn="urn:adsk.eagle:footprint:8083100/1">
+<description>&lt;b&gt;Pin Grid Array&lt;/b&gt;</description>
+<wire x1="-4.834" y1="-1.357" x2="-3.818" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="-3.818" y1="1.31" x2="-3.31" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="-3.31" y1="1.31" x2="-2.421" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="-2.421" y1="-0.849" x2="-2.421" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="-2.421" y1="1.31" x2="-1.913" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="-1.913" y1="1.31" x2="-1.913" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="-1.913" y1="0.802" x2="-1.913" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="-1.913" y1="-0.849" x2="-1.024" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="-1.024" y1="-0.849" x2="-1.024" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="-1.024" y1="0.802" x2="-1.913" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="-1.913" y1="1.31" x2="0.246" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="1.31" x2="0.246" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="0.802" x2="-0.516" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="-0.516" y1="0.802" x2="-0.516" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="-0.516" y1="-1.357" x2="-2.802" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="-2.802" y1="-1.357" x2="-3.056" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="-3.056" y1="-0.849" x2="-4.072" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="-4.072" y1="-0.849" x2="-4.326" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="-4.326" y1="-1.357" x2="-4.834" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="-3.564" y1="0.802" x2="-3.945" y2="-0.341" width="0.1524" layer="21"/>
+<wire x1="-3.945" y1="-0.341" x2="-3.183" y2="-0.341" width="0.1524" layer="21"/>
+<wire x1="-3.183" y1="-0.341" x2="-3.564" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="0.802" x2="0.246" y2="0.294" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="0.294" x2="1.262" y2="0.294" width="0.1524" layer="21"/>
+<wire x1="1.262" y1="0.294" x2="1.262" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="1.262" y1="0.802" x2="0.246" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="1.31" x2="2.4785" y2="1.33" width="0.1524" layer="21"/>
+<wire x1="5.326" y1="-1.357" x2="4.31" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="4.31" y1="1.31" x2="3.802" y2="1.31" width="0.1524" layer="21"/>
+<wire x1="3.802" y1="1.31" x2="3.04" y2="-0.468" width="0.1524" layer="21"/>
+<wire x1="2.405" y1="-1.357" x2="3.294" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="3.294" y1="-1.357" x2="3.548" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="3.548" y1="-0.849" x2="4.564" y2="-0.849" width="0.1524" layer="21"/>
+<wire x1="4.564" y1="-0.849" x2="4.818" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="4.818" y1="-1.357" x2="5.326" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="4.056" y1="0.802" x2="4.437" y2="-0.341" width="0.1524" layer="21"/>
+<wire x1="4.437" y1="-0.341" x2="3.675" y2="-0.341" width="0.1524" layer="21"/>
+<wire x1="3.675" y1="-0.341" x2="4.056" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="2.278" y1="0.802" x2="2.278" y2="0.294" width="0.1524" layer="21" curve="-180"/>
+<wire x1="2.278" y1="0.802" x2="1.897" y2="0.802" width="0.1524" layer="21"/>
+<wire x1="1.897" y1="0.802" x2="1.897" y2="0.294" width="0.1524" layer="21"/>
+<wire x1="1.897" y1="0.294" x2="2.278" y2="0.294" width="0.1524" layer="21"/>
+<wire x1="1.897" y1="-0.214" x2="2.151" y2="-0.214" width="0.1524" layer="21"/>
+<wire x1="1.897" y1="-0.214" x2="1.897" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="1.897" y1="-1.357" x2="-0.389" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="-0.214" x2="1.262" y2="-0.214" width="0.1524" layer="21"/>
+<wire x1="1.262" y1="-0.214" x2="1.262" y2="-0.722" width="0.1524" layer="21"/>
+<wire x1="1.262" y1="-0.722" x2="0.246" y2="-0.722" width="0.1524" layer="21"/>
+<wire x1="0.246" y1="-0.722" x2="0.246" y2="-0.214" width="0.1524" layer="21"/>
+<wire x1="2.151" y1="-0.214" x2="2.405" y2="-0.468" width="0.1524" layer="21" curve="-90"/>
+<wire x1="2.405" y1="-0.468" x2="2.405" y2="-1.357" width="0.1524" layer="21"/>
+<wire x1="2.4785" y1="1.33" x2="2.8596" y2="-0.0674" width="0.1524" layer="21" curve="-140.037079"/>
+<wire x1="2.8543" y1="-0.0531" x2="3.108" y2="-0.5611" width="0.1524" layer="21" curve="-77.346033"/>
+<wire x1="22.8" y1="-21" x2="21" y2="-22.8" width="0.254" layer="21"/>
+<wire x1="21" y1="-22.8" x2="-21" y2="-22.8" width="0.254" layer="21"/>
+<wire x1="-21" y1="-22.8" x2="-22.8" y2="-21" width="0.254" layer="21"/>
+<wire x1="-22.8" y1="-21" x2="-22.8" y2="21" width="0.254" layer="21"/>
+<wire x1="-22.8" y1="21" x2="-21" y2="22.8" width="0.254" layer="21"/>
+<wire x1="-21" y1="22.8" x2="21" y2="22.8" width="0.254" layer="21"/>
+<wire x1="21" y1="22.8" x2="22.8" y2="21" width="0.254" layer="21"/>
+<wire x1="22.8" y1="21" x2="22.8" y2="-21" width="0.254" layer="21"/>
+<wire x1="18.415" y1="18.415" x2="-18.415" y2="18.415" width="0.254" layer="51"/>
+<wire x1="-18.415" y1="18.415" x2="-18.415" y2="-18.415" width="0.254" layer="51"/>
+<wire x1="-18.415" y1="-18.415" x2="18.415" y2="-18.415" width="0.254" layer="51"/>
+<wire x1="18.415" y1="-18.415" x2="18.415" y2="18.415" width="0.254" layer="51"/>
+<circle x="-20.32" y="20.32" radius="1.27" width="0.254" layer="21"/>
+<pad name="B1" x="-20.32" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C1" x="-20.32" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D1" x="-20.32" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="E1" x="-20.32" y="10.16" drill="0.8128" diameter="1.778"/>
+<pad name="F1" x="-20.32" y="7.62" drill="0.8128" diameter="1.778"/>
+<pad name="G1" x="-20.32" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H1" x="-20.32" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J1" x="-20.32" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K1" x="-20.32" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L1" x="-20.32" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A1" x="-20.32" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="M1" x="-20.32" y="-7.62" drill="0.8128" diameter="1.778"/>
+<pad name="N1" x="-20.32" y="-10.16" drill="0.8128" diameter="1.778"/>
+<pad name="P1" x="-20.32" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R1" x="-20.32" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T1" x="-20.32" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U1" x="-20.32" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B2" x="-17.78" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C2" x="-17.78" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D2" x="-17.78" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="E2" x="-17.78" y="10.16" drill="0.8128" diameter="1.778"/>
+<pad name="F2" x="-17.78" y="7.62" drill="0.8128" diameter="1.778"/>
+<pad name="G2" x="-17.78" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H2" x="-17.78" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J2" x="-17.78" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K2" x="-17.78" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L2" x="-17.78" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A2" x="-17.78" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="M2" x="-17.78" y="-7.62" drill="0.8128" diameter="1.778"/>
+<pad name="N2" x="-17.78" y="-10.16" drill="0.8128" diameter="1.778"/>
+<pad name="P2" x="-17.78" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R2" x="-17.78" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T2" x="-17.78" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U2" x="-17.78" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B3" x="-15.24" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C3" x="-15.24" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D3" x="-15.24" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="E3" x="-15.24" y="10.16" drill="0.8128" diameter="1.778"/>
+<pad name="F3" x="-15.24" y="7.62" drill="0.8128" diameter="1.778"/>
+<pad name="G3" x="-15.24" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H3" x="-15.24" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J3" x="-15.24" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K3" x="-15.24" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L3" x="-15.24" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A3" x="-15.24" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="M3" x="-15.24" y="-7.62" drill="0.8128" diameter="1.778"/>
+<pad name="N3" x="-15.24" y="-10.16" drill="0.8128" diameter="1.778"/>
+<pad name="P3" x="-15.24" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R3" x="-15.24" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T3" x="-15.24" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U3" x="-15.24" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B4" x="-12.7" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C4" x="-12.7" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D4" x="-12.7" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="G4" x="-12.7" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H4" x="-12.7" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J4" x="-12.7" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K4" x="-12.7" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L4" x="-12.7" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A4" x="-12.7" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P4" x="-12.7" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R4" x="-12.7" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T4" x="-12.7" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U4" x="-12.7" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B5" x="-10.16" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C5" x="-10.16" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="A5" x="-10.16" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="R5" x="-10.16" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T5" x="-10.16" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U5" x="-10.16" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B6" x="-7.62" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C6" x="-7.62" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="A6" x="-7.62" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="R6" x="-7.62" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T6" x="-7.62" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U6" x="-7.62" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B7" x="-5.08" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C7" x="-5.08" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D7" x="-5.08" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="A7" x="-5.08" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P7" x="-5.08" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R7" x="-5.08" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T7" x="-5.08" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U7" x="-5.08" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B8" x="-2.54" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C8" x="-2.54" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D8" x="-2.54" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="A8" x="-2.54" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P8" x="-2.54" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R8" x="-2.54" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T8" x="-2.54" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U8" x="-2.54" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B9" x="0" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C9" x="0" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D9" x="0" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="A9" x="0" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P9" x="0" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R9" x="0" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T9" x="0" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U9" x="0" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B10" x="2.54" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C10" x="2.54" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D10" x="2.54" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="A10" x="2.54" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P10" x="2.54" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R10" x="2.54" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T10" x="2.54" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U10" x="2.54" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B11" x="5.08" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C11" x="5.08" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D11" x="5.08" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="A11" x="5.08" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P11" x="5.08" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R11" x="5.08" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T11" x="5.08" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U11" x="5.08" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B12" x="7.62" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C12" x="7.62" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="A12" x="7.62" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="R12" x="7.62" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T12" x="7.62" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U12" x="7.62" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B13" x="10.16" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C13" x="10.16" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="A13" x="10.16" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="R13" x="10.16" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T13" x="10.16" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U13" x="10.16" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B14" x="12.7" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C14" x="12.7" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D14" x="12.7" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="G14" x="12.7" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H14" x="12.7" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J14" x="12.7" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K14" x="12.7" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L14" x="12.7" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A14" x="12.7" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="P14" x="12.7" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R14" x="12.7" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T14" x="12.7" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U14" x="12.7" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B15" x="15.24" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C15" x="15.24" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D15" x="15.24" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="E15" x="15.24" y="10.16" drill="0.8128" diameter="1.778"/>
+<pad name="F15" x="15.24" y="7.62" drill="0.8128" diameter="1.778"/>
+<pad name="G15" x="15.24" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H15" x="15.24" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J15" x="15.24" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K15" x="15.24" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L15" x="15.24" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A15" x="15.24" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="M15" x="15.24" y="-7.62" drill="0.8128" diameter="1.778"/>
+<pad name="N15" x="15.24" y="-10.16" drill="0.8128" diameter="1.778"/>
+<pad name="P15" x="15.24" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R15" x="15.24" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T15" x="15.24" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U15" x="15.24" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B16" x="17.78" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C16" x="17.78" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D16" x="17.78" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="E16" x="17.78" y="10.16" drill="0.8128" diameter="1.778"/>
+<pad name="F16" x="17.78" y="7.62" drill="0.8128" diameter="1.778"/>
+<pad name="G16" x="17.78" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H16" x="17.78" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J16" x="17.78" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K16" x="17.78" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L16" x="17.78" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A16" x="17.78" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="M16" x="17.78" y="-7.62" drill="0.8128" diameter="1.778"/>
+<pad name="N16" x="17.78" y="-10.16" drill="0.8128" diameter="1.778"/>
+<pad name="P16" x="17.78" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R16" x="17.78" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T16" x="17.78" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U16" x="17.78" y="-20.32" drill="0.8128" diameter="1.778"/>
+<pad name="B17" x="20.32" y="17.78" drill="0.8128" diameter="1.778"/>
+<pad name="C17" x="20.32" y="15.24" drill="0.8128" diameter="1.778"/>
+<pad name="D17" x="20.32" y="12.7" drill="0.8128" diameter="1.778"/>
+<pad name="E17" x="20.32" y="10.16" drill="0.8128" diameter="1.778"/>
+<pad name="F17" x="20.32" y="7.62" drill="0.8128" diameter="1.778"/>
+<pad name="G17" x="20.32" y="5.08" drill="0.8128" diameter="1.778"/>
+<pad name="H17" x="20.32" y="2.54" drill="0.8128" diameter="1.778"/>
+<pad name="J17" x="20.32" y="0" drill="0.8128" diameter="1.778"/>
+<pad name="K17" x="20.32" y="-2.54" drill="0.8128" diameter="1.778"/>
+<pad name="L17" x="20.32" y="-5.08" drill="0.8128" diameter="1.778"/>
+<pad name="A17" x="20.32" y="20.32" drill="0.8128" diameter="1.778"/>
+<pad name="M17" x="20.32" y="-7.62" drill="0.8128" diameter="1.778"/>
+<pad name="N17" x="20.32" y="-10.16" drill="0.8128" diameter="1.778"/>
+<pad name="P17" x="20.32" y="-12.7" drill="0.8128" diameter="1.778"/>
+<pad name="R17" x="20.32" y="-15.24" drill="0.8128" diameter="1.778"/>
+<pad name="T17" x="20.32" y="-17.78" drill="0.8128" diameter="1.778"/>
+<pad name="U17" x="20.32" y="-20.32" drill="0.8128" diameter="1.778"/>
+<text x="-2.81" y="-3.27" size="0.8128" layer="51">PGA192</text>
+<text x="-20.5631" y="23.318" size="1.27" layer="25">&gt;NAME</text>
+<text x="3.8801" y="6.3" size="1.27" layer="27">&gt;VALUE</text>
+</package>

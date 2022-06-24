@@ -1,9 +1,9 @@
 {
-    "index": 8418,
+    "index": 35918,
     "tags": [
         {
             "name": "index",
-            "value": 8418
+            "value": 35918
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E45-25"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 45.72 mm, diameter 25 mm"
         },
         {
             "name": "oompID",

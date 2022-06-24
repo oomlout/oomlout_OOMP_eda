@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

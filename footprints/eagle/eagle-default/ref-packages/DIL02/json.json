@@ -1,9 +1,9 @@
 {
-    "index": 8292,
+    "index": 35792,
     "tags": [
         {
             "name": "index",
-            "value": 8292
+            "value": 35792
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DIL02"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Dual In Line Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

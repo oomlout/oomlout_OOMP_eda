@@ -1,9 +1,9 @@
 {
-    "index": 8548,
+    "index": 36048,
     "tags": [
         {
             "name": "index",
-            "value": 8548
+            "value": 36048
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MBGA225"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Micro Ball Grid Aray 225 &lt;/b&gt;"
         },
         {
             "name": "oompID",

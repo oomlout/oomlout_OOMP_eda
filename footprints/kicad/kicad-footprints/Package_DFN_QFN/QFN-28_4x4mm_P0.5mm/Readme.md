@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28_4x4mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

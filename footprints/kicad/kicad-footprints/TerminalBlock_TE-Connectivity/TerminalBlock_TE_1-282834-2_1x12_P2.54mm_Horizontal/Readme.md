@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_TE-Connectivity-TerminalBlock_TE_1-282834-2_1x12_P2.54mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

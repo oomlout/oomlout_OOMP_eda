@@ -1,9 +1,9 @@
 {
-    "index": 8195,
+    "index": 35695,
     "tags": [
         {
             "name": "index",
-            "value": 8195
+            "value": 35695
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C2220K"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 2220 Reflow solder&lt;/b&gt;&lt;p&gt;&#xD;\nMetric Code Size 5650"
         },
         {
             "name": "oompID",

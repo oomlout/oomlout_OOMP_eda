@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-motorola-sensor-driver-MPX2050DV
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

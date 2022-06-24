@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_BM11B-ZESS-TBT_1x11-1MP_P1.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

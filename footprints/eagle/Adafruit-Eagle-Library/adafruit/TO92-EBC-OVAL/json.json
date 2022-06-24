@@ -1,9 +1,9 @@
 {
-    "index": 591,
+    "index": 28091,
     "tags": [
         {
             "name": "index",
-            "value": 591
+            "value": 28091
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TO92-EBC-OVAL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;\ngrid 5.08 mm"
         },
         {
             "name": "oompID",

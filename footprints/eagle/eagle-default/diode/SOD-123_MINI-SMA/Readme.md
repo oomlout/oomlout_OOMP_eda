@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOD-123_MINI-SMA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

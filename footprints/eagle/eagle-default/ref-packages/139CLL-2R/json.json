@@ -1,9 +1,9 @@
 {
-    "index": 8083,
+    "index": 35583,
     "tags": [
         {
             "name": "index",
-            "value": 8083
+            "value": 35583
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/139CLL-2R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; reflow soldering&lt;p&gt;&#xD;\nSMD (Chip) Long Life 139 CLL&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

@@ -1,4 +1,3 @@
-
 <package name="DS9094FS">
 <description>&lt;h3&gt;SMT version of DS9094F iButton clip holder&lt;h3&gt;</description>
 <smd name="GND" x="-12.65" y="0" dx="6" dy="6" layer="1"/>

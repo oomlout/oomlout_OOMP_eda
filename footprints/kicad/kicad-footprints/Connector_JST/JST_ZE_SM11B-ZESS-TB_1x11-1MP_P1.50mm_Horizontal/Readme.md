@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM11B-ZESS-TB_1x11-1MP_P1.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

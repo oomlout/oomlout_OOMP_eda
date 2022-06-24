@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

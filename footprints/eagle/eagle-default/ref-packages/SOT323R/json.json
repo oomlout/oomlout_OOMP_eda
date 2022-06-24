@@ -1,9 +1,9 @@
 {
-    "index": 9098,
+    "index": 36598,
     "tags": [
         {
             "name": "index",
-            "value": 9098
+            "value": 36598
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT323R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;\nPhilips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

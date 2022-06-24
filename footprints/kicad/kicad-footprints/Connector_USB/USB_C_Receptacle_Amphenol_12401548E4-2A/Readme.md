@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

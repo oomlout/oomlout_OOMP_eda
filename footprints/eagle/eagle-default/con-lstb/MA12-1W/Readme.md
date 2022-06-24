@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-lstb-MA12-1W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D15.5mm_W7.2mm_P7.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

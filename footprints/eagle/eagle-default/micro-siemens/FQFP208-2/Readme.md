@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-siemens-FQFP208-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

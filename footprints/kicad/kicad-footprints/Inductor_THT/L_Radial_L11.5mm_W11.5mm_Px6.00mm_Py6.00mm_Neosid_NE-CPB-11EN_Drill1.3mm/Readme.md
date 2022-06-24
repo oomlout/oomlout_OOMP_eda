@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

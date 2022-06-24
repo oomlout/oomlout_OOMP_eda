@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT136A
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOT136A
 - oompName: eagle-default/ref-packages/SOT136A
+- description: &lt;b&gt;Small Outline Package&lt;/b&gt;
+
+
+
+[im]: image.png

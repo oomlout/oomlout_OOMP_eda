@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP24PWP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

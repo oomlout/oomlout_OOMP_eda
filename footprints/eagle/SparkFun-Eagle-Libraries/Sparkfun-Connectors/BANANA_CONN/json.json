@@ -1,9 +1,9 @@
 {
-    "index": 14181,
+    "index": 41681,
     "tags": [
         {
             "name": "index",
-            "value": 14181
+            "value": 41681
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/BANANA_CONN"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Banana Plug PTH&lt;/h3&gt;\n0.2&quot; diameter pad, 0.1&quot; hole. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 1&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;BANANA_CONN&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

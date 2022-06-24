@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_S3P-VH_1x03_P3.96mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

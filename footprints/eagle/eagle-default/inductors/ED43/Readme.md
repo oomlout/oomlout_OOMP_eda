@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-ED43
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

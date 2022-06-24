@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-129-02-xx-DV-PE-LC_2x29_P2.54mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

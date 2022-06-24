@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-38_AVX-V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

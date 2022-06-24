@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOJ24-45
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

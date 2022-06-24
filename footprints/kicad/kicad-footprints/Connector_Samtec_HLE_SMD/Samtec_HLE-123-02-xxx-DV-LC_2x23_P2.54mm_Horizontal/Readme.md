@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-123-02-xxx-DV-LC_2x23_P2.54mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

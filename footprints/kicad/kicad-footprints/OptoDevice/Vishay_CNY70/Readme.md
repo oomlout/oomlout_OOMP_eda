@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CNY70
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

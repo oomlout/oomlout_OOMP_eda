@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Panelmate_53780-1870_1x18-1MP_P1.25mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

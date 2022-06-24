@@ -1,9 +1,9 @@
 {
-    "index": 8211,
+    "index": 35711,
     "tags": [
         {
             "name": "index",
-            "value": 8211
+            "value": 35711
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C3216"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

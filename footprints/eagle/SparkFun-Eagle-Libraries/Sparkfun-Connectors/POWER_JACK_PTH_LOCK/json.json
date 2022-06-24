@@ -1,9 +1,9 @@
 {
-    "index": 14271,
+    "index": 41771,
     "tags": [
         {
             "name": "index",
-            "value": 14271
+            "value": 41771
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/POWER_JACK_PTH_LOCK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;DC Barrel Power Jack/Connector PTH Locking Footprint&lt;/h3&gt;\n5.5mm jack, 2.1mm center pole diameter.\n&lt;br&gt; Holes are offset from center 0.005&quot; to hold pins in place during soldering. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 3&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Barrel-Connector-PJ-202A.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;POWER_JACK&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

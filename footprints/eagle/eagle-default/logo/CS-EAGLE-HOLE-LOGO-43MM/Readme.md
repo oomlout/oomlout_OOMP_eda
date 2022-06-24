@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-logo-CS-EAGLE-HOLE-LOGO-43MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

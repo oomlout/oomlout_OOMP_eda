@@ -1,9 +1,9 @@
 {
-    "index": 8060,
+    "index": 35560,
     "tags": [
         {
             "name": "index",
-            "value": 8060
+            "value": 35560
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/0207/2V"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;\ntype 0207, grid 2.5 mm"
         },
         {
             "name": "oompID",

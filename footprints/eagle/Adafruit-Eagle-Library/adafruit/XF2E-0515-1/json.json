@@ -1,9 +1,9 @@
 {
-    "index": 638,
+    "index": 28138,
     "tags": [
         {
             "name": "index",
-            "value": 638
+            "value": 28138
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/XF2E-0515-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Non-ZIF Type (0.8 mm-pitch)&lt;/b&gt;&lt;p&gt;\nSource : http://www.omron.com/ecb/products/pdf/fpc.pdf"
         },
         {
             "name": "oompID",

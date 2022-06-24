@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

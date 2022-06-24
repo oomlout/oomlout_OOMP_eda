@@ -1,9 +1,9 @@
 {
-    "index": 588,
+    "index": 28088,
     "tags": [
         {
             "name": "index",
-            "value": 588
+            "value": 28088
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TO252"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;\nTS-003"
         },
         {
             "name": "oompID",

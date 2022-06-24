@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-6000-XXXX-RC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

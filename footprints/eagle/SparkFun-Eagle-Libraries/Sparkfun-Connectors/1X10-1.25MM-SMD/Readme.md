@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10-1.25MM-SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

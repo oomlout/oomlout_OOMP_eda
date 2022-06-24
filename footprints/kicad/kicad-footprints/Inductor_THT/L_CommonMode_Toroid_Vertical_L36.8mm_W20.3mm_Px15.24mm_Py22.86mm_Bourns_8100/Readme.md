@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Toroid_Vertical_L36.8mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

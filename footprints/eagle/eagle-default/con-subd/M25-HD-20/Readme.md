@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-subd-M25-HD-20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

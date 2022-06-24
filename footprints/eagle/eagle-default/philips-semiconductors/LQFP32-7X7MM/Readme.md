@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-philips-semiconductors-LQFP32-7X7MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

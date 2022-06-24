@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-8_9.6x6.3mm_P1.27mm_Clearance10.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

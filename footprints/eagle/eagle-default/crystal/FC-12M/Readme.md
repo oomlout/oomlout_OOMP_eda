@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-crystal-FC-12M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

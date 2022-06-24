@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx02_Slide_KingTek_DSHP02TJ_W5.25mm_P1.27mm_JPin
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

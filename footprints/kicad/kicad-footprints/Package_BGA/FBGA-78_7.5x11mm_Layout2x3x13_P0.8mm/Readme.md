@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

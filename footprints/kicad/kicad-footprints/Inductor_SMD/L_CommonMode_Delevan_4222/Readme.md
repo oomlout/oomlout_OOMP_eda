@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Delevan_4222
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

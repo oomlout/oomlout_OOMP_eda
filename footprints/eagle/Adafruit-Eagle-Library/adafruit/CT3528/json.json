@@ -1,9 +1,9 @@
 {
-    "index": 263,
+    "index": 27763,
     "tags": [
         {
             "name": "index",
-            "value": 263
+            "value": 27763
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/CT3528"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\nchip\ntantalum"
         },
         {
             "name": "oompID",

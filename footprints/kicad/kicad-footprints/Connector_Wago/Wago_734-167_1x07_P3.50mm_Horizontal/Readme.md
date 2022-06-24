@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-167_1x07_P3.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

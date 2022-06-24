@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_Round_D3.0mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-L3216C
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: L3216C
 - oompName: eagle-default/ref-packages/L3216C
+- description: &lt;b&gt;INDUCTOR&lt;/b&gt;
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-SL-160AA/PT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

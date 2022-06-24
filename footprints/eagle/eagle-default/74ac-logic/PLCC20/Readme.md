@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74ac-logic-PLCC20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7812045_2x20_P2.54mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

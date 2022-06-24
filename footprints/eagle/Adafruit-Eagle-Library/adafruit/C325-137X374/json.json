@@ -1,9 +1,9 @@
 {
-    "index": 236,
+    "index": 27736,
     "tags": [
         {
             "name": "index",
-            "value": 236
+            "value": 27736
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C325-137X374"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 32.5 mm, outline 13.7 x 37.4 mm"
         },
         {
             "name": "oompID",

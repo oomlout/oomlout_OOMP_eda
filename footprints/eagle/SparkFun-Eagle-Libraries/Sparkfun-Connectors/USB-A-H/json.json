@@ -1,9 +1,9 @@
 {
-    "index": 14324,
+    "index": 41824,
     "tags": [
         {
             "name": "index",
-            "value": 14324
+            "value": 41824
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB-A-H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Type 'A' Male Connector - PTH&lt;/h3&gt;\nShield pins may be grounded.\n&lt;br&gt; tDocu shows plug end. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.4uconnector.com/online/object/4udrawing/10016.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;USB_A&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-4_W11.48mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

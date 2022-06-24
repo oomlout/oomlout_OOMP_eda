@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO218
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO218
 - oompName: eagle-default/ref-packages/TO218
+- description: &lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+3-lead molded, horizontal
+
+
+
+[im]: image.png

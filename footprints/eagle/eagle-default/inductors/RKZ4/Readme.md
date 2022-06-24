@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-RKZ4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

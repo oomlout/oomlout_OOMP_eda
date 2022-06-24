@@ -1,4 +1,3 @@
-
 <package name="SUN">
 <smd name="P$1" x="0" y="0" dx="2.54" dy="2.54" layer="1" roundness="100"/>
 <smd name="P$2" x="0" y="2.54" dx="1.27" dy="0.3048" layer="1" roundness="100" rot="R90"/>

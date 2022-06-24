@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_21.54x3mm_P2.54mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

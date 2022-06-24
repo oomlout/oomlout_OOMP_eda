@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C275-173X316
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

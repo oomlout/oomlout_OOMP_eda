@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-motorola-PLCC68S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

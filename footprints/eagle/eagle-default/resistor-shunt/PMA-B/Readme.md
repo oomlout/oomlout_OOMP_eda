@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-shunt-PMA-B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

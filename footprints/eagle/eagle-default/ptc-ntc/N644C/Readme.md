@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ptc-ntc-N644C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

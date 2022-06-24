@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-dil-YC124
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

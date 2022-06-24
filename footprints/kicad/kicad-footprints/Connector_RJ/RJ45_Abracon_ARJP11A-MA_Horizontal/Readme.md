@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Abracon_ARJP11A-MA_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

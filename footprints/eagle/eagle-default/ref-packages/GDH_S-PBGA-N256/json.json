@@ -1,9 +1,9 @@
 {
-    "index": 8467,
+    "index": 35967,
     "tags": [
         {
             "name": "index",
-            "value": 8467
+            "value": 35967
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/GDH_S-PBGA-N256"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;GDH (S-PBGA-N256)&lt;/b&gt; PLASTIC BALL GRID ARRAY&lt;p&gt;&#xD;\nSource: http://focus.ti.com/lit/ds/symlink/tms320c6720.pdf"
         },
         {
             "name": "oompID",

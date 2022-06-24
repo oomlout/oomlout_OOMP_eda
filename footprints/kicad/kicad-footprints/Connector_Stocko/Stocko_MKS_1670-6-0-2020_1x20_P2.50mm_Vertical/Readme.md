@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1670-6-0-2020_1x20_P2.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

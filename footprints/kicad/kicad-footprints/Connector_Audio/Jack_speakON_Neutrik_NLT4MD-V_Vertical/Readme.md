@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NLT4MD-V_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

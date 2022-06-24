@@ -1,9 +1,9 @@
 {
-    "index": 8143,
+    "index": 35643,
     "tags": [
         {
             "name": "index",
-            "value": 8143
+            "value": 35643
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C0402"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 0204 Reflow solder&lt;/b&gt;&lt;p&gt;&#xD;\nMetric Code Size 1005"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

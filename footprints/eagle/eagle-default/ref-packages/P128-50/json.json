@@ -1,9 +1,9 @@
 {
-    "index": 8644,
+    "index": 36144,
     "tags": [
         {
             "name": "index",
-            "value": 8644
+            "value": 36144
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P128-50"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;"
         },
         {
             "name": "oompID",

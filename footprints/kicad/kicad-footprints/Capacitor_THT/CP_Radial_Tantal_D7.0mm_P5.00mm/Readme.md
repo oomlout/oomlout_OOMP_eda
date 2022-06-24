@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_Tantal_D7.0mm_P5.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

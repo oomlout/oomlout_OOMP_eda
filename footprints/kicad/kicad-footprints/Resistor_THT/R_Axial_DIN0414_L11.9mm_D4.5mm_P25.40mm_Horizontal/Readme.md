@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0414_L11.9mm_D4.5mm_P25.40mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

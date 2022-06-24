@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-ELMA-01-1X12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

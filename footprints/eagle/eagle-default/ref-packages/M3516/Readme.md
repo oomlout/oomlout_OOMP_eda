@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-M3516
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: M3516
 - oompName: eagle-default/ref-packages/M3516
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;
+MELF 0.12 W
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

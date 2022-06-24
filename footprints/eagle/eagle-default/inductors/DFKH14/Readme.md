@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-DFKH14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

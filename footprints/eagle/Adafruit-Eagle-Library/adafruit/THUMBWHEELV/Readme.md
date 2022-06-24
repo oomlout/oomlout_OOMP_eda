@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-THUMBWHEELV
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-PQFP144-28X28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

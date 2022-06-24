@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PSOP44L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

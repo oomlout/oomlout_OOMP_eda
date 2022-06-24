@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-PQFP240
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

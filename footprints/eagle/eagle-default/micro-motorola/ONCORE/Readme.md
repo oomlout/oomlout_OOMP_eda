@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-motorola-ONCORE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

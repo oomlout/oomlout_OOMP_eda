@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

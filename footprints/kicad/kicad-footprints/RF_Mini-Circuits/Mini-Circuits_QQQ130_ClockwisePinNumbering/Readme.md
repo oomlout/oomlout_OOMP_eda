@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

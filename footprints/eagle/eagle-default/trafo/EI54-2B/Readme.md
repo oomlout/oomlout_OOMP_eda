@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-EI54-2B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

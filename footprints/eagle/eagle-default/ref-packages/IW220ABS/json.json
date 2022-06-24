@@ -1,9 +1,9 @@
 {
-    "index": 8479,
+    "index": 35979,
     "tags": [
         {
             "name": "index",
-            "value": 8479
+            "value": 35979
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/IW220ABS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n3-lead molded, vertical"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_501331-0207_1x02-1MP_P1.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

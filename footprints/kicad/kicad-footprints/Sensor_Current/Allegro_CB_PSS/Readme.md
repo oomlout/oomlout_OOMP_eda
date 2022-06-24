@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TJ6-U1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

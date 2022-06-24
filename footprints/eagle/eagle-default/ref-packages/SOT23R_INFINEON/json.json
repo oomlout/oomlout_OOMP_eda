@@ -1,9 +1,9 @@
 {
-    "index": 9091,
+    "index": 36591,
     "tags": [
         {
             "name": "index",
-            "value": 9091
+            "value": 36591
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT23R_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 3 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

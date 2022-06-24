@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC156-4Pin_7.1x2.5mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

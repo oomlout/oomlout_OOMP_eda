@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Attention_CopperTop_Small
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

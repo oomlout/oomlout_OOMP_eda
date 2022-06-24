@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_CTP28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

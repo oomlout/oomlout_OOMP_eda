@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-zetex-SO8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

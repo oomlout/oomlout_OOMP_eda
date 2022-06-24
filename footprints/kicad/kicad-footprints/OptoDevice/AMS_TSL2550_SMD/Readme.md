@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8368,
+    "index": 35868,
     "tags": [
         {
             "name": "index",
-            "value": 8368
+            "value": 35868
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO35-7B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 2 mm, horizontal, grid 7.62 mm"
         },
         {
             "name": "oompID",

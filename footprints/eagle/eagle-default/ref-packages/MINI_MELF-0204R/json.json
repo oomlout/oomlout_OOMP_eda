@@ -1,9 +1,9 @@
 {
-    "index": 8561,
+    "index": 36061,
     "tags": [
         {
             "name": "index",
-            "value": 8561
+            "value": 36061
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MINI_MELF-0204R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CECC Size RC3715&lt;/b&gt; Reflow Soldering&lt;p&gt;&#xD;\nsource Beyschlag"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 14258,
+    "index": 41758,
     "tags": [
         {
             "name": "index",
-            "value": 14258
+            "value": 41758
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/NANO_SIM_MOLEX_104224-0820"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Molex Nano-SIM Holder &amp;ndash; 1042240820&lt;/h3&gt;\n&lt;a href=https://www.molex.com/pdm_docs/sd/1042240820_sd.pdf&gt;Datasheet&lt;/a&gt;"
         },
         {
             "name": "oompID",

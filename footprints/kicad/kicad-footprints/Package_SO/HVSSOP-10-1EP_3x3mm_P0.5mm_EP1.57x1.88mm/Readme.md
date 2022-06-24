@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

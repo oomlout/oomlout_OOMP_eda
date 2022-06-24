@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_MEC_5GSH9
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_OCXO_ConnorWinfield_OH300
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

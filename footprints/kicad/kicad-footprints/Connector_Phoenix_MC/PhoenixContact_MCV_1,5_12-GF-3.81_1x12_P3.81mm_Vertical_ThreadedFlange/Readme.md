@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MCV_1,5_12-GF-3.81_1x12_P3.81mm_Vertical_ThreadedFlange
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -23,3 +28,7 @@ Contents
 - kicadTags: phoenix_contact connector MCV_01x12_GF_3.81mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_12-GF-3.81_1x12_P3.81mm_Vertical_ThreadedFlange.wrl
+
+
+
+[im]: image.png

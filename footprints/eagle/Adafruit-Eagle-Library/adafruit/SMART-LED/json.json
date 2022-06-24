@@ -1,9 +1,9 @@
 {
-    "index": 529,
+    "index": 28029,
     "tags": [
         {
             "name": "index",
-            "value": 529
+            "value": 28029
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SMART-LED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SmartLEDTM Hyper-Bright LED&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... LA_LO_LS_LY L896.pdf"
         },
         {
             "name": "oompID",

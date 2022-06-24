@@ -1,9 +1,9 @@
 {
-    "index": 9025,
+    "index": 36525,
     "tags": [
         {
             "name": "index",
-            "value": 9025
+            "value": 36525
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOJ26-20"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline J-Bend&lt;/b&gt;"
         },
         {
             "name": "oompID",

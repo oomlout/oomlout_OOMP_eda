@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,4 +1,3 @@
-
 <package name="6000">
 <circle x="0.0254" y="0.0508" radius="4.3942" width="0.127" layer="21"/>
 <circle x="0.0508" y="0.0254" radius="4.064" width="0.127" layer="21"/>

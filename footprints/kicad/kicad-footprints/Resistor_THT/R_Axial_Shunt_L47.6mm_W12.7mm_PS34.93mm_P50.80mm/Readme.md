@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

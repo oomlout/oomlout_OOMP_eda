@@ -1,9 +1,9 @@
 {
-    "index": 408,
+    "index": 27908,
     "tags": [
         {
             "name": "index",
-            "value": 408
+            "value": 27908
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/LSU260"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;LED&lt;/B&gt;&lt;p&gt;\n1 mm, round, Siemens"
         },
         {
             "name": "oompID",

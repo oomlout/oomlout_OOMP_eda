@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1668-6-0-1818_1x18_P2.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

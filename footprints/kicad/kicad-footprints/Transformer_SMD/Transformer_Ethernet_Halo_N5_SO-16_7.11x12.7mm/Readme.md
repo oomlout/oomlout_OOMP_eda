@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

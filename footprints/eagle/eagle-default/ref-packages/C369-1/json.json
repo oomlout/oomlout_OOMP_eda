@@ -1,9 +1,9 @@
 {
-    "index": 8216,
+    "index": 35716,
     "tags": [
         {
             "name": "index",
-            "value": 8216
+            "value": 35716
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C369-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-220&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.3 mm"
         },
         {
             "name": "oompID",

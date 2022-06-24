@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

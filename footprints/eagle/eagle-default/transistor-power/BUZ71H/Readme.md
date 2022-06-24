@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-BUZ71H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

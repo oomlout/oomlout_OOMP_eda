@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H1_6.35x6.35mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

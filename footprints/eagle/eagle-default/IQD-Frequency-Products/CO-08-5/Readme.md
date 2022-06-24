@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-CO-08-5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-751xx-SO20L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

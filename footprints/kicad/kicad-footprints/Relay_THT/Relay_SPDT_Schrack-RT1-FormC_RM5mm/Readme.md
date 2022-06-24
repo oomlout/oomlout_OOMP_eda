@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Schrack-RT1-FormC_RM5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

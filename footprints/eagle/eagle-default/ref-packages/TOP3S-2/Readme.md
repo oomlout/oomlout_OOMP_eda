@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TOP3S-2
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TOP3S-2
 - oompName: eagle-default/ref-packages/TOP3S-2
+- description: &lt;b&gt;TOP 3&lt;/b&gt; vertical (Cathode; Anode; Gate)
+
+
+
+[im]: image.png

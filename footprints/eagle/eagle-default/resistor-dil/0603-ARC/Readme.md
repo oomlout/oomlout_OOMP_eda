@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-dil-0603-ARC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

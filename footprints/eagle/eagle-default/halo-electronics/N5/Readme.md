@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-halo-electronics-N5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-pc-PCI_BRD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

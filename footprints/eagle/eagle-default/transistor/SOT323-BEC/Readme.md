@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-SOT323-BEC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

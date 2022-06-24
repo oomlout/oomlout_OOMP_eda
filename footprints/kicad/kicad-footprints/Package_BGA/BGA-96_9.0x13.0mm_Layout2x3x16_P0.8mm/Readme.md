@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

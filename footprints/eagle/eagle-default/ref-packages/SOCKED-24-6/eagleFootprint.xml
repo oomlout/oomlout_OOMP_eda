@@ -1,2 +1,41 @@
-
-<package name="SOCKED-24-6"></package>
+<package name="SOCKED-24-6" urn="urn:adsk.eagle:footprint:8083843/1">
+<description>&lt;b&gt;Dual In Line Socked&lt;/b&gt;</description>
+<wire x1="15.24" y1="8.89" x2="-15.24" y2="8.89" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-8.89" x2="15.24" y2="-8.89" width="0.1524" layer="21"/>
+<wire x1="15.24" y1="8.89" x2="15.24" y2="6.35" width="0.1524" layer="21"/>
+<wire x1="15.24" y1="6.35" x2="15.24" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="15.24" y1="-6.35" x2="15.24" y2="-8.89" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="8.89" x2="-15.24" y2="6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="6.35" x2="-15.24" y2="1.016" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-8.89" x2="-15.24" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-6.35" x2="-15.24" y2="-1.016" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="1.016" x2="-15.24" y2="-1.016" width="0.1524" layer="21" curve="-180"/>
+<wire x1="15.24" y1="6.35" x2="-15.24" y2="6.35" width="0.1524" layer="21"/>
+<wire x1="-15.24" y1="-6.35" x2="15.24" y2="-6.35" width="0.1524" layer="21"/>
+<pad name="1" x="-13.97" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="2" x="-11.43" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="5" x="-3.81" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="6" x="-1.27" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="3" x="-8.89" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="4" x="-6.35" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="7" x="1.27" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="8" x="3.81" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="9" x="6.35" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="10" x="8.89" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="11" x="11.43" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="12" x="13.97" y="-7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="13" x="13.97" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="14" x="11.43" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="15" x="8.89" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="16" x="6.35" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="17" x="3.81" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="18" x="1.27" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="19" x="-1.27" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="20" x="-3.81" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="21" x="-6.35" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="22" x="-8.89" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="23" x="-11.43" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<pad name="24" x="-13.97" y="7.62" drill="0.8128" shape="long" rot="R90"/>
+<text x="-9.906" y="-0.508" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-15.621" y="-7.112" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+</package>

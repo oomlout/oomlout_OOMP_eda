@@ -1,9 +1,9 @@
 {
-    "index": 528,
+    "index": 28028,
     "tags": [
         {
             "name": "index",
-            "value": 528
+            "value": 28028
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SMADIODE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMA Surface Mount Diode&lt;/b&gt;"
         },
         {
             "name": "oompID",

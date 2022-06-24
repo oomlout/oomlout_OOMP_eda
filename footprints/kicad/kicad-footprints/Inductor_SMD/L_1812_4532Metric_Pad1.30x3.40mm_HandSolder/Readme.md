@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

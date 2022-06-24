@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503205_20x20mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

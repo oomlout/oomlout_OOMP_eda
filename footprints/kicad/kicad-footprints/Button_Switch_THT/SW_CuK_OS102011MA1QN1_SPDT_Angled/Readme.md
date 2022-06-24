@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

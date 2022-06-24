@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4320
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

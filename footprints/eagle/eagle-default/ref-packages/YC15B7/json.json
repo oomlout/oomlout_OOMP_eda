@@ -1,9 +1,9 @@
 {
-    "index": 9570,
+    "index": 37070,
     "tags": [
         {
             "name": "index",
-            "value": 9570
+            "value": 37070
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/YC15B7"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Y CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nbody 17.7 x 7 mm, grid 15 mm"
         },
         {
             "name": "oompID",

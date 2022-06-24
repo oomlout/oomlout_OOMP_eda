@@ -1,9 +1,9 @@
 {
-    "index": 8273,
+    "index": 35773,
     "tags": [
         {
             "name": "index",
-            "value": 8273
+            "value": 35773
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CTRIM3050.506"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor&lt;/b&gt; STELCO GmbH&lt;p&gt;&#xD;\n 5 S-Triko 160 V DC for PCB mounting,&lt;p&gt;&#xD;\n Adjustable from one side, parallel to PCB"
         },
         {
             "name": "oompID",

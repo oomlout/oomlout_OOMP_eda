@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TracoPower_TCK-047_5.2x5.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-weidmueller-sl35-90F-22
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

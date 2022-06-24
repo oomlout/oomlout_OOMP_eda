@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SC70
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

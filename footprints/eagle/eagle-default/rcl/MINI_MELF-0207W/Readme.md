@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-MINI_MELF-0207W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

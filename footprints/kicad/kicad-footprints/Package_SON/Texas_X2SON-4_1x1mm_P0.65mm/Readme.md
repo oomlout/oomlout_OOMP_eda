@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_X2SON-4_1x1mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

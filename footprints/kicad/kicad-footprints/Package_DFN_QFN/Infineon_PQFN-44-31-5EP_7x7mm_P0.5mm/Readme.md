@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

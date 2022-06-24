@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_DL805
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMZ250
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

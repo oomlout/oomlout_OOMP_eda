@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Raytac_MDBT50Q
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

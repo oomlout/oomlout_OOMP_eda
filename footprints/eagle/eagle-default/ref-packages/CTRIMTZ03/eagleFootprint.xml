@@ -1,2 +1,14 @@
-
-<package name="CTRIMTZ03"></package>
+<package name="CTRIMTZ03" urn="urn:adsk.eagle:footprint:8082627/1">
+<description>&lt;b&gt;Trimm capacitor&lt;/b&gt; muRata</description>
+<wire x1="1.45" y1="-2.5" x2="-1.45" y2="-2.5" width="0.254" layer="51"/>
+<wire x1="-1.45" y1="-2.5" x2="-1.05" y2="2.7" width="0.254" layer="21" curve="-128.646369"/>
+<wire x1="1.05" y1="2.7" x2="1.45" y2="-2.5" width="0.254" layer="21" curve="-128.646369"/>
+<wire x1="-1.05" y1="2.7" x2="1.05" y2="2.7" width="0.254" layer="51" curve="-42.501011"/>
+<circle x="0" y="0" radius="1.6" width="0.1524" layer="21"/>
+<pad name="1" x="0" y="2.5" drill="1"/>
+<pad name="2" x="0" y="-2.5" drill="1"/>
+<text x="-3.3" y="-2.6" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="4.6" y="-2.6" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.35" y1="-1.2" x2="0.35" y2="1.2" layer="21"/>
+<rectangle x1="-1.2" y1="-0.35" x2="1.2" y2="0.35" layer="21"/>
+</package>

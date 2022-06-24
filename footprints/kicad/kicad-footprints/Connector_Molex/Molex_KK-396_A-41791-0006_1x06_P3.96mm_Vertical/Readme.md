@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_A-41791-0006_1x06_P3.96mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO8-NSM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

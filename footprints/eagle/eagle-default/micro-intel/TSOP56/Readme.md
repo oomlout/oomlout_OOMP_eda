@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-intel-TSOP56
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

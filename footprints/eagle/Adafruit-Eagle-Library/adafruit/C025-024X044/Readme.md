@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C025-024X044
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: C025-024X044
 - oompName: Adafruit-Eagle-Library/adafruit/C025-024X044
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+grid 2.5 mm, outline 2.4 x 4.4 mm
 
 
 

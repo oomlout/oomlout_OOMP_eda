@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

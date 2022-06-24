@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SOD123")
 newPart.addTag("oompName", "eagle-default/ref-packages/SOD123")
 
+newPart.addTag("description", """&lt;b&gt;SMALL OUTLINE DIODE&lt;/b&gt;""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SOD123",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SOD123')
 
 OOMP.parts.append(newPart)

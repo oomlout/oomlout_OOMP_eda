@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-QSOP20
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: QSOP20
 - oompName: eagle-default/ref-packages/QSOP20
+- description: &lt;b&gt;Small Outline Package&lt;/b&gt;
+
+
+
+[im]: image.png

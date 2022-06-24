@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-M_1x03_P3.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

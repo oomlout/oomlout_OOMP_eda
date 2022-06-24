@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2006NL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

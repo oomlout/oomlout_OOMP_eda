@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-AL60P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

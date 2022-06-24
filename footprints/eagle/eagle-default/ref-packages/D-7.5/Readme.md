@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-D-7.5
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: D-7.5
 - oompName: eagle-default/ref-packages/D-7.5
+- description: &lt;b&gt;DIODE&lt;/b&gt;
+
+
+
+[im]: image.png

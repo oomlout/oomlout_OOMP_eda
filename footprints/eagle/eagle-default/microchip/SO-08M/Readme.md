@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-SO-08M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

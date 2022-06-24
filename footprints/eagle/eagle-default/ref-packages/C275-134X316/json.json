@@ -1,9 +1,9 @@
 {
-    "index": 8206,
+    "index": 35706,
     "tags": [
         {
             "name": "index",
-            "value": 8206
+            "value": 35706
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C275-134X316"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 27.5 mm, outline 13.4 x 31.6 mm"
         },
         {
             "name": "oompID",

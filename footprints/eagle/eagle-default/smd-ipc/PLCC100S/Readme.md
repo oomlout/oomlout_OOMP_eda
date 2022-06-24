@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-PLCC100S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

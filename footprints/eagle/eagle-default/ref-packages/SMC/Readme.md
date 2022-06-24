@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SMC
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SMC
 - oompName: eagle-default/ref-packages/SMC
+- description: &lt;b&gt;DIODE&lt;/b&gt;
+
+
+
+[im]: image.png

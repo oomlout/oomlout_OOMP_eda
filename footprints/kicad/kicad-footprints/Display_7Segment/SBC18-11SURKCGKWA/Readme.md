@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SBC18-11SURKCGKWA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

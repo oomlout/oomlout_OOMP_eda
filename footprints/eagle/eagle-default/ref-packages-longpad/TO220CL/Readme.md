@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO220CL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

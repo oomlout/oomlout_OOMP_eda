@@ -1,9 +1,9 @@
 {
-    "index": 8828,
+    "index": 36328,
     "tags": [
         {
             "name": "index",
-            "value": 8828
+            "value": 36328
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM5W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; Spectrol&lt;p&gt;&#xD;\nabgedichtet nach &lt;b&gt;IP67&lt;/b&gt;"
         },
         {
             "name": "oompID",

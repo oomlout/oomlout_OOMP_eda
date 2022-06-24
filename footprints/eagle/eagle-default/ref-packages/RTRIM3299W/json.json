@@ -1,9 +1,9 @@
 {
-    "index": 8821,
+    "index": 36321,
     "tags": [
         {
             "name": "index",
-            "value": 8821
+            "value": 36321
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM3299W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS"
         },
         {
             "name": "oompID",

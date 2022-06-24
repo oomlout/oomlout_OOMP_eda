@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

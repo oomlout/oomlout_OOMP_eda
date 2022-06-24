@@ -1,9 +1,9 @@
 {
-    "index": 8773,
+    "index": 36273,
     "tags": [
         {
             "name": "index",
-            "value": 8773
+            "value": 36273
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/R-PDSO-G16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLASTIC SMALL-OUTLINE PACKAGE SO 16&lt;/b&gt; JEDEC MO-153&lt;p&gt;&#xD;\nSource: www.ti.com/.. slvs087l.pdf"
         },
         {
             "name": "oompID",

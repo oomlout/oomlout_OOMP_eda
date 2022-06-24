@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-SMR-5010
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

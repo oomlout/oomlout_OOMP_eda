@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Linear_MSOP-12-16-1EP_3x4mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

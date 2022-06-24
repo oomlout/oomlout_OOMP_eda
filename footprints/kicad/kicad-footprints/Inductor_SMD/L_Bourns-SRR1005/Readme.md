@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRR1005
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

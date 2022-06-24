@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

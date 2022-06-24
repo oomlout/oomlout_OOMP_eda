@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-S7379-01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

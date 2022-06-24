@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Molex_0855135013_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

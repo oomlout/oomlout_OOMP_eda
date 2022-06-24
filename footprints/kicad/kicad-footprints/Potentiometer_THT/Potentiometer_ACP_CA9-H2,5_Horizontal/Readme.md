@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA9-H2,5_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

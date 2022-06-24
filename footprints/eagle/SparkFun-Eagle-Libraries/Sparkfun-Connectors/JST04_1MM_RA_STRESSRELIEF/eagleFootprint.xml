@@ -1,4 +1,3 @@
-
 <package name="JST04_1MM_RA_STRESSRELIEF">
 <description>Qwiic connector with milled cutout. Sliding the cable into this slot prevents the cable from coming unplugged.</description>
 <wire x1="-1.5" y1="-4.6" x2="1.5" y2="-4.6" width="0.254" layer="21"/>

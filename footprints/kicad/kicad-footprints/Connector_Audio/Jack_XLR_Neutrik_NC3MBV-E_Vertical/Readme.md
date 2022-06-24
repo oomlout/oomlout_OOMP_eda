@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBV-E_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

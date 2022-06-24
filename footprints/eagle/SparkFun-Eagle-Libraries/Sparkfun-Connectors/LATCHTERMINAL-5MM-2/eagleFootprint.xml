@@ -1,4 +1,3 @@
-
 <package name="LATCHTERMINAL-5MM-2">
 <pad name="1" x="-2.5" y="0" drill="1.5"/>
 <pad name="2" x="2.5" y="0" drill="1.5"/>

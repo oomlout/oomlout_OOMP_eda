@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

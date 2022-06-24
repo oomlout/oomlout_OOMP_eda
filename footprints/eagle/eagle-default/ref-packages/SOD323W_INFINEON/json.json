@@ -1,9 +1,9 @@
 {
-    "index": 8973,
+    "index": 36473,
     "tags": [
         {
             "name": "index",
-            "value": 8973
+            "value": 36473
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOD323W_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Diode Package&lt;/b&gt; Wave soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

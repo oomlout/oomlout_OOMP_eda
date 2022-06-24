@@ -1,9 +1,9 @@
 {
-    "index": 538,
+    "index": 28038,
     "tags": [
         {
             "name": "index",
-            "value": 538
+            "value": 28038
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SO16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;&lt;p&gt;\nbody 3.9 mm/JEDEC MS-012AC"
         },
         {
             "name": "oompID",

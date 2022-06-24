@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-106
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

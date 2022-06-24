@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-20_AVX-U_Pad2.72x3.50mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 14218,
+    "index": 41718,
     "tags": [
         {
             "name": "index",
-            "value": 14218
+            "value": 41718
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/JST-2-SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;JST-Right Angle Male Header SMT&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;\n&lt;li&gt;Pin pitch: 2mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.4uconnector.com/online/object/4udrawing/20404.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_02&lt;/li&gt;\n&lt;li&gt;JST_2MM_MALE&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

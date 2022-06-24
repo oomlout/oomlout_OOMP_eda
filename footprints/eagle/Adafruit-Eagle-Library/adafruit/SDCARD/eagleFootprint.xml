@@ -1,4 +1,3 @@
-
 <package name="SDCARD">
 <wire x1="-14.2" y1="-28.81" x2="-14.2" y2="-0.01" width="0.127" layer="21"/>
 <wire x1="-14.2" y1="-0.01" x2="14.3" y2="-0.01" width="0.127" layer="21"/>

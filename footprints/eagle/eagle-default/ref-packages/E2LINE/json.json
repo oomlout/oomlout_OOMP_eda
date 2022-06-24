@@ -1,9 +1,9 @@
 {
-    "index": 8403,
+    "index": 35903,
     "tags": [
         {
             "name": "index",
-            "value": 8403
+            "value": 35903
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E2LINE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;2 lead Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

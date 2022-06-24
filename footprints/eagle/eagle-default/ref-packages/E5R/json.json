@@ -1,9 +1,9 @@
 {
-    "index": 8429,
+    "index": 35929,
     "tags": [
         {
             "name": "index",
-            "value": 8429
+            "value": 35929
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/E5R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 5.08 mm, diameter 9 mm"
         },
         {
             "name": "oompID",

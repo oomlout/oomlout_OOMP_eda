@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "LCC-68")
 newPart.addTag("oompName", "eagle-default/ref-packages/LCC-68")
 
+newPart.addTag("description", """&lt;b&gt;LEADLESS CERAMIC CHIP CARRIER&lt;/b&gt;""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-LCC-68",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='LCC-68')
 
 OOMP.parts.append(newPart)

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_GW12LJP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

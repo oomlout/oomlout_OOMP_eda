@@ -1,2 +1,14 @@
-
-<package name="E2,5-4R"></package>
+<package name="E2,5-4R" urn="urn:adsk.eagle:footprint:8082298/1">
+<description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;
+grid 2.54 mm, diameter 4 mm</description>
+<wire x1="-0.127" y1="0" x2="0.0762" y2="0" width="0.6096" layer="21"/>
+<wire x1="-2.794" y1="0" x2="-2.286" y2="0" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="-0.254" x2="-2.54" y2="0.254" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="0" x2="-1.27" y2="0" width="0.6096" layer="51"/>
+<wire x1="0.508" y1="0.635" x2="0.5403" y2="-0.6456" width="0.1524" layer="21" curve="320.718856"/>
+<wire x1="0.508" y1="0.635" x2="0.5403" y2="-0.6456" width="0.1524" layer="51" curve="-39.281144"/>
+<pad name="+" x="-1.27" y="0" drill="0.8128" diameter="1.6002"/>
+<pad name="-" x="1.27" y="0" drill="0.8128" diameter="1.6002" shape="octagon"/>
+<text x="0.762" y="1.016" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="0.762" y="-2.286" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+</package>

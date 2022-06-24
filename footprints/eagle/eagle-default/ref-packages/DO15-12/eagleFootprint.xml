@@ -1,2 +1,17 @@
-
-<package name="DO15-12"></package>
+<package name="DO15-12" urn="urn:adsk.eagle:footprint:8083285/1">
+<description>&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 3.5 mm, horizontal, grid 12.7 mm</description>
+<wire x1="-3.81" y1="-1.778" x2="3.81" y2="-1.778" width="0.1524" layer="21"/>
+<wire x1="3.81" y1="1.778" x2="-3.81" y2="1.778" width="0.1524" layer="21"/>
+<wire x1="3.81" y1="-1.778" x2="3.81" y2="1.778" width="0.1524" layer="21"/>
+<wire x1="-3.81" y1="1.778" x2="-3.81" y2="-1.778" width="0.1524" layer="21"/>
+<wire x1="6.35" y1="0" x2="5.334" y2="0" width="0.762" layer="51"/>
+<wire x1="-6.35" y1="0" x2="-5.334" y2="0" width="0.762" layer="51"/>
+<pad name="C" x="-6.35" y="0" drill="1.1176" shape="long"/>
+<pad name="A" x="6.35" y="0" drill="1.1176" shape="long"/>
+<text x="-3.683" y="2.159" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.159" y="-1.397" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-3.048" y1="-1.778" x2="-2.413" y2="1.778" layer="21"/>
+<rectangle x1="-5.207" y1="-0.381" x2="-3.81" y2="0.381" layer="21"/>
+<rectangle x1="3.81" y1="-0.381" x2="5.207" y2="0.381" layer="21"/>
+</package>

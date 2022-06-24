@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

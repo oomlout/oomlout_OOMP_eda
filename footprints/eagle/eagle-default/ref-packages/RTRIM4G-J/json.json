@@ -1,9 +1,9 @@
 {
-    "index": 8827,
+    "index": 36327,
     "tags": [
         {
             "name": "index",
-            "value": 8827
+            "value": 36327
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM4G/J"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; VISHAY"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8447,
+    "index": 35947,
     "tags": [
         {
             "name": "index",
-            "value": 8447
+            "value": 35947
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/EU43-14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;BIPOLAR ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 43 mm, diameter 14 mm"
         },
         {
             "name": "oompID",

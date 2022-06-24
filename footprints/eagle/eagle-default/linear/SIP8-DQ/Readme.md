@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-SIP8-DQ
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

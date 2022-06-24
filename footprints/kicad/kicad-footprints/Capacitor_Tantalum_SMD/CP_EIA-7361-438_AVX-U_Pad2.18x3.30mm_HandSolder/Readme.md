@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

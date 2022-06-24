@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

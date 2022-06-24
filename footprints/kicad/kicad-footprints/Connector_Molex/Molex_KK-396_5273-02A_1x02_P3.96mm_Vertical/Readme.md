@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-02A_1x02_P3.96mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

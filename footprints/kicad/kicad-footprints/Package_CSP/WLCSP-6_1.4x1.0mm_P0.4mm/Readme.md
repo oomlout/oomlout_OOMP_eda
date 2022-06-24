@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-6_1.4x1.0mm_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

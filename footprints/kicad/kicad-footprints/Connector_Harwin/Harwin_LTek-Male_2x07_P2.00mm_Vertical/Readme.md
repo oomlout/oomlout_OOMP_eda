@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x07_P2.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_classic_Small_CopperBottom_Type1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

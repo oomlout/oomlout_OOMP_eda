@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-led-SO-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

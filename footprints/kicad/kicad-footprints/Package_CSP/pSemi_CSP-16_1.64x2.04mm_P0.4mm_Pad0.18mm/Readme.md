@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

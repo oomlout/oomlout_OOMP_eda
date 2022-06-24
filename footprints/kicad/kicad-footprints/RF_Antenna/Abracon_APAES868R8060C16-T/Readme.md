@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Abracon_APAES868R8060C16-T
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

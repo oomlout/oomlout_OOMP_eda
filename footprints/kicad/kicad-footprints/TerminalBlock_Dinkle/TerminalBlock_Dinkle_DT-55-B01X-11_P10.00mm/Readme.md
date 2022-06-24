@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-11_P10.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

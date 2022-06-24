@@ -1,9 +1,9 @@
 {
-    "index": 9482,
+    "index": 36982,
     "tags": [
         {
             "name": "index",
-            "value": 9482
+            "value": 36982
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TS-003"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;&#xD;\nTO252"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8856,
+    "index": 36356,
     "tags": [
         {
             "name": "index",
-            "value": 8856
+            "value": 36356
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/S44"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLCC SOCKET&lt;/b&gt;"
         },
         {
             "name": "oompID",

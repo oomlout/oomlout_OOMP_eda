@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type086_RT03403HBLC_1x03_P3.81mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

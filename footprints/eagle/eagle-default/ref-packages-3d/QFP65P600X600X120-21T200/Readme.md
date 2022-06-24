@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP65P600X600X120-21T200
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

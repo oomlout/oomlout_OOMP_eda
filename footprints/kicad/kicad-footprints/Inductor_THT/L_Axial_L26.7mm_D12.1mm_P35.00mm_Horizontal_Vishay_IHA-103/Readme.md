@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

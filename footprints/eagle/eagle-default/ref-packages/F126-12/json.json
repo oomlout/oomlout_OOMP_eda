@@ -1,9 +1,9 @@
 {
-    "index": 8452,
+    "index": 35952,
     "tags": [
         {
             "name": "index",
-            "value": 8452
+            "value": 35952
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/F126-12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 3 mm, horizontal, grid 12.7 mm"
         },
         {
             "name": "oompID",

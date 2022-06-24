@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO92-INLINE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: TO92-INLINE
 - oompName: Adafruit-Eagle-Library/adafruit/TO92-INLINE
+- description: &lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;
 
 
 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC33X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

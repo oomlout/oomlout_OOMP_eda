@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-crystal-CSM-7X-DU
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 530,
+    "index": 28030,
     "tags": [
         {
             "name": "index",
-            "value": 530
+            "value": 28030
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SMARTLED-TTW"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SmartLED TTW&lt;/b&gt;&lt;p&gt;\nRecommended Solder Pad useable for SmartLEDTM and Chipled - Package 0603&lt;br&gt;\nPackage able to withstand TTW-soldering heat&lt;br&gt;\nPackage suitable for TTW-soldering&lt;br&gt;\nSource: http://www.osram.convergy.de/ ... LO_LS_LY L89K.pdf"
         },
         {
             "name": "oompID",

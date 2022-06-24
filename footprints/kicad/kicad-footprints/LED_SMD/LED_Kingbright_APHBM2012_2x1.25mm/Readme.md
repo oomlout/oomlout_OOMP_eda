@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APHBM2012_2x1.25mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

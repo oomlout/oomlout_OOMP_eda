@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-139CLL-3R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,9 @@ Contents
 - oompDesc: adafruit
 - oompIndex: 139CLL-3R
 - oompName: Adafruit-Eagle-Library/adafruit/139CLL-3R
+- description: &lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; reflow soldering&lt;p&gt;
+SMD (Chip) Long Life 139 CLL&lt;p&gt;
+http://www.bccomponents.com/
 
 
 

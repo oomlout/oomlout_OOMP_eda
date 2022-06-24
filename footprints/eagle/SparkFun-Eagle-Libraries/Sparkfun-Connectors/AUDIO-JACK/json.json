@@ -1,9 +1,9 @@
 {
-    "index": 14176,
+    "index": 41676,
     "tags": [
         {
             "name": "index",
-            "value": 14176
+            "value": 41676
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/AUDIO-JACK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;3.5mm Stereo Audio Jack&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:5&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Audio-3.5mm.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;Audio_Jack&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFP50P3060X3060X410-208
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-logo-COPYRIGHT-4MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

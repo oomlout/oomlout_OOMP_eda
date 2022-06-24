@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Mini-Fit_Jr_5566-02A2_2x01_P4.20mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

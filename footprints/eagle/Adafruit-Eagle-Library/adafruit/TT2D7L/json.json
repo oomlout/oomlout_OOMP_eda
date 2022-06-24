@@ -1,9 +1,9 @@
 {
-    "index": 611,
+    "index": 28111,
     "tags": [
         {
             "name": "index",
-            "value": 611
+            "value": 28111
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TT2D7L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ndiameter 7 mm, grid 2.54 mm"
         },
         {
             "name": "oompID",

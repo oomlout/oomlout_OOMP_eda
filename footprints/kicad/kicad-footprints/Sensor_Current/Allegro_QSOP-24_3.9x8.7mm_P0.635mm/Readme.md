@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,2 +1,15 @@
-
-<package name="SOT323-BEC"></package>
+<package name="SOT323-BEC" urn="urn:adsk.eagle:footprint:8086153/1">
+<description>SOT323 Philips</description>
+<wire x1="0.9224" y1="0.4604" x2="0.9224" y2="-0.4604" width="0.127" layer="51"/>
+<wire x1="0.9224" y1="-0.4604" x2="-0.9224" y2="-0.4604" width="0.127" layer="51"/>
+<wire x1="-0.9224" y1="-0.4604" x2="-0.9224" y2="0.4604" width="0.127" layer="51"/>
+<wire x1="-0.9224" y1="0.4604" x2="0.9224" y2="0.4604" width="0.127" layer="51"/>
+<smd name="C" x="0" y="0.9" dx="0.6" dy="1" layer="1"/>
+<smd name="B" x="-0.65" y="-0.9" dx="0.6" dy="1" layer="1"/>
+<smd name="E" x="0.65" y="-0.9" dx="0.6" dy="1" layer="1"/>
+<text x="-1.905" y="1.505" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-2.775" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.8" y1="-1.1" x2="-0.5" y2="-0.5" layer="51"/>
+<rectangle x1="0.5" y1="-1.1" x2="0.8" y2="-0.5" layer="51"/>
+<rectangle x1="-0.15" y1="0.5" x2="0.15" y2="1.1" layer="51"/>
+</package>

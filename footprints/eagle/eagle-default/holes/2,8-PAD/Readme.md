@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-holes-2,8-PAD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

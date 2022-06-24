@@ -1,9 +1,9 @@
 {
-    "index": 9485,
+    "index": 36985,
     "tags": [
         {
             "name": "index",
-            "value": 9485
+            "value": 36985
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TSFP-4_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Transistor Package&lt;/b&gt;&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

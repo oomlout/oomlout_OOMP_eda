@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-RTSOP40
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: RTSOP40
 - oompName: eagle-default/ref-packages/RTSOP40
+- description: &lt;B&gt;Reverse TSOP40&lt;/b&gt;
+
+
+
+[im]: image.png

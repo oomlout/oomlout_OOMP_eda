@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Single
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

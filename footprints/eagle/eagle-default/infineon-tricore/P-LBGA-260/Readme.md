@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-tricore-P-LBGA-260
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

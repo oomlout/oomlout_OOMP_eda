@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_8E-16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

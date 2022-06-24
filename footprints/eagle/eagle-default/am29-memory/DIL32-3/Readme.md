@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-am29-memory-DIL32-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

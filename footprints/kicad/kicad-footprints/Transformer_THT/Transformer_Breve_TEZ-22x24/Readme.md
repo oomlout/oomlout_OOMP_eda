@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Breve_TEZ-22x24
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

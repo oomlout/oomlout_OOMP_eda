@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_01005_0402Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

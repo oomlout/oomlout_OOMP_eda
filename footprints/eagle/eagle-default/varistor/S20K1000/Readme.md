@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-varistor-S20K1000
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

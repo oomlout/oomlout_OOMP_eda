@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-175TMP-0808
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO220V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: TO220V
 - oompName: Adafruit-Eagle-Library/adafruit/TO220V
+- description: &lt;b&gt;TO 200 vertical&lt;/b&gt;
 
 
 

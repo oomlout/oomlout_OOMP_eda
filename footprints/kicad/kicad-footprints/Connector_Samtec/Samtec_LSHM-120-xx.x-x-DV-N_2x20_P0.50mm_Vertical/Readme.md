@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-120-xx.x-x-DV-N_2x20_P0.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

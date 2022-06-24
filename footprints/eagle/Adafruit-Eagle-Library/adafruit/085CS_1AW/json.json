@@ -1,9 +1,9 @@
 {
-    "index": 26,
+    "index": 27526,
     "tags": [
         {
             "name": "index",
-            "value": 26
+            "value": 27526
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/085CS_1AW"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; wave soldering&lt;p&gt;\nSMD (Chip) Standard 085 CS&lt;p&gt;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

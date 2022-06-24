@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-lsta-JU05
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

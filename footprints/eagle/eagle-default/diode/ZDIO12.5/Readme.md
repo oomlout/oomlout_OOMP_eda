@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-ZDIO12.5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

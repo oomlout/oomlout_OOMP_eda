@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-139CLL-2W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

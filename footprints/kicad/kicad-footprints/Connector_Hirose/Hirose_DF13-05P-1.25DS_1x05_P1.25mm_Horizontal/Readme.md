@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

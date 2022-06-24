@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SeikoEpson_SG-8002DB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

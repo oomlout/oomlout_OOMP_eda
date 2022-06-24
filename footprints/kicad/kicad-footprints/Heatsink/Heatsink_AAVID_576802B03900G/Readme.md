@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_576802B03900G
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

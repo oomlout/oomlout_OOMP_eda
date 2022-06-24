@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

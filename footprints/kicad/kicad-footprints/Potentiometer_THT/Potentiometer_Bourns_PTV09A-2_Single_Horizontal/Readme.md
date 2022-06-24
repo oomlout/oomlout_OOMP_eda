@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTV09A-2_Single_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8235,
+    "index": 35735,
     "tags": [
         {
             "name": "index",
-            "value": 8235
+            "value": 35735
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CHIP-LED0603"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper CHIPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;&#xD;\nLB Q993&lt;br&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... Lb_q993.pdf"
         },
         {
             "name": "oompID",

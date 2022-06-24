@@ -1,9 +1,9 @@
 {
-    "index": 9133,
+    "index": 36633,
     "tags": [
         {
             "name": "index",
-            "value": 9133
+            "value": 36633
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT89-ECB"
+        },
+        {
+            "name": "description",
+            "value": "SOT98 Emitter Collector Basis"
         },
         {
             "name": "oompID",

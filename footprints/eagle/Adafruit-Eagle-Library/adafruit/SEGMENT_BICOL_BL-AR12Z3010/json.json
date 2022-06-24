@@ -1,9 +1,9 @@
 {
-    "index": 511,
+    "index": 28011,
     "tags": [
         {
             "name": "index",
-            "value": 511
+            "value": 28011
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SEGMENT_BICOL_BL-AR12Z3010"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Souce: &lt;/b&gt;http://www.betlux.com/product/LED_light_bar/BL-AR12B3010xx.PDF"
         },
         {
             "name": "oompID",

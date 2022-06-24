@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-micron-FBDIMM-240-DDR2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

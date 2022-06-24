@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-fairchild-semic-DIL28-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

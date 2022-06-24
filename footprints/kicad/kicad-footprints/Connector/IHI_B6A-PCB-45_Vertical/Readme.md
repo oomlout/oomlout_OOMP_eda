@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

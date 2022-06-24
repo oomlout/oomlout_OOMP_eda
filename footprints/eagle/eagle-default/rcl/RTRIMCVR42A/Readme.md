@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIMCVR42A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

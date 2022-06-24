@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-7S-0.8H_1x07-1MP_P0.80mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

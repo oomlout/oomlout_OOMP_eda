@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-BGA292
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: BGA292
 - oompName: eagle-default/ref-packages/BGA292
+- description: &lt;B&gt;Ball Grid Array&lt;/b&gt;
+
+
+
+[im]: image.png

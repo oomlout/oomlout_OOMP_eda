@@ -1,9 +1,9 @@
 {
-    "index": 9140,
+    "index": 36640,
     "tags": [
         {
             "name": "index",
-            "value": 9140
+            "value": 36640
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT93S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT 93&lt;/b&gt; vertical (Cathode; Anode; Gate)"
         },
         {
             "name": "oompID",

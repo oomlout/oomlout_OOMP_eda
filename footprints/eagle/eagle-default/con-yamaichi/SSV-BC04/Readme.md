@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-SSV-BC04
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

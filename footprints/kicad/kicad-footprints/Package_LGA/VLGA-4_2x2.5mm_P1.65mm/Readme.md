@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

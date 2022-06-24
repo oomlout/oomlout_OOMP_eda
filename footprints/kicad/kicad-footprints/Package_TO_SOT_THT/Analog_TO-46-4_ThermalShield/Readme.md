@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Analog_TO-46-4_ThermalShield
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

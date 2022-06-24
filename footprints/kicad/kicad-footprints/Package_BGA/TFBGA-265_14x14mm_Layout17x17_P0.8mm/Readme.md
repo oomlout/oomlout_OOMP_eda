@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-265_14x14mm_Layout17x17_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

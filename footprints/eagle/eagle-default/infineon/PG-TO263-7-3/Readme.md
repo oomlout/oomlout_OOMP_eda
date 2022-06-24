@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-PG-TO263-7-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

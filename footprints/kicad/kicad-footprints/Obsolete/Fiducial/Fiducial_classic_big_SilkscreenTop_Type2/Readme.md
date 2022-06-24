@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_classic_big_SilkscreenTop_Type2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

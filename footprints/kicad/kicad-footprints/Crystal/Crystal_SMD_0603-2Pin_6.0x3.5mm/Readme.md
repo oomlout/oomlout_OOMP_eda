@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-2Pin_6.0x3.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

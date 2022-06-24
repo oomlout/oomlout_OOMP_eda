@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2B-2345-31A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

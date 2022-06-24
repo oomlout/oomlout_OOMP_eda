@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-neutrik_ag-NCJ10FI-H-0
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

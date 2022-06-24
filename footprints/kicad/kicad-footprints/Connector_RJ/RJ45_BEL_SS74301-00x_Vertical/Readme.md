@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_BEL_SS74301-00x_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

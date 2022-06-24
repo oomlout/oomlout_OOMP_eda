@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-IQD-Frequency-Products-HC49
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

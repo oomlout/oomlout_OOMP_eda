@@ -1,9 +1,9 @@
 {
-    "index": 8582,
+    "index": 36082,
     "tags": [
         {
             "name": "index",
-            "value": 8582
+            "value": 36082
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MO020-40"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CFP40&lt;/b&gt;&lt;p&gt;&#xD;\nceramic flat pack"
         },
         {
             "name": "oompID",

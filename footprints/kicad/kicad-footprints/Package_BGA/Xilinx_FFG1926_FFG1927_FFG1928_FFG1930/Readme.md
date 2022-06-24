@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFG1926_FFG1927_FFG1928_FFG1930
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

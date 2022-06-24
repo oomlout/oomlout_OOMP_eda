@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-PQFP-44
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

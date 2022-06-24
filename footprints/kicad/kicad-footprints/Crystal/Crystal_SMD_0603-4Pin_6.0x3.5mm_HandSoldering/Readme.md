@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

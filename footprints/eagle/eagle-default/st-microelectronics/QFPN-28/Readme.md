@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-QFPN-28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

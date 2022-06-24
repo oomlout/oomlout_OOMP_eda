@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_PWSON-N6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

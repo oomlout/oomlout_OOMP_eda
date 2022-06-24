@@ -1,9 +1,9 @@
 {
-    "index": 8346,
+    "index": 35846,
     "tags": [
         {
             "name": "index",
-            "value": 8346
+            "value": 35846
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO13M"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 6.35 mm metall, horizontal, grid 20.32 mm"
         },
         {
             "name": "oompID",

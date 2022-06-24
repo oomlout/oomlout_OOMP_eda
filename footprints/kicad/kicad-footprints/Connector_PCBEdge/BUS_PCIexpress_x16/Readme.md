@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x16
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -22,3 +27,7 @@ Contents
 - kicadDesc: PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
 - kicadTags: PCIe
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

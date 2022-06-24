@@ -1,9 +1,9 @@
 {
-    "index": 266,
+    "index": 27766,
     "tags": [
         {
             "name": "index",
-            "value": 266
+            "value": 27766
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/CTS406"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Model 406 6.0x3.5mm Low Cost Surface Mount Crystal&lt;/b&gt;&lt;p&gt;\nSource: 008-0260-0_E.pdf"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8362,
+    "index": 35862,
     "tags": [
         {
             "name": "index",
-            "value": 8362
+            "value": 35862
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO34-5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 1.8 mm, horizontal, grid 5.08 mm"
         },
         {
             "name": "oompID",

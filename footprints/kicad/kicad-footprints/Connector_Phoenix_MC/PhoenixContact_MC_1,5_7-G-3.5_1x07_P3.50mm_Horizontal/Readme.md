@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_7-G-3.5_1x07_P3.50mm_Horizontal
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -23,3 +28,7 @@ Contents
 - kicadTags: phoenix_contact connector MC_01x07_G_3.5mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_7-G-3.5_1x07_P3.50mm_Horizontal.wrl
+
+
+
+[im]: image.png

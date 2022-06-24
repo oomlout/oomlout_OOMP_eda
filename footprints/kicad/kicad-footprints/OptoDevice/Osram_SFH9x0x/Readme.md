@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

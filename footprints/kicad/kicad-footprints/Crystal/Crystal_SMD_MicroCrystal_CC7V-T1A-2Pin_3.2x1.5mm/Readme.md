@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

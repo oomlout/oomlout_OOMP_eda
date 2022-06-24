@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B7PS-VH_1x07_P3.96mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

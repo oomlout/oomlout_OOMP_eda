@@ -1,9 +1,9 @@
 {
-    "index": 9128,
+    "index": 36628,
     "tags": [
         {
             "name": "index",
-            "value": 9128
+            "value": 36628
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT54H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n2-lead plastic, vertical"
         },
         {
             "name": "oompID",

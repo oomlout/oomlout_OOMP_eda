@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413DPAK_23x13mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

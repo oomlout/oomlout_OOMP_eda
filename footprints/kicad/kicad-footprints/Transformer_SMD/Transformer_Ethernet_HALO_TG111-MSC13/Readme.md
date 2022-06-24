@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_HALO_TG111-MSC13
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

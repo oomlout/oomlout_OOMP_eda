@@ -1,9 +1,9 @@
 {
-    "index": 8632,
+    "index": 36132,
     "tags": [
         {
             "name": "index",
-            "value": 8632
+            "value": 36132
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P03A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-202&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor P03A"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

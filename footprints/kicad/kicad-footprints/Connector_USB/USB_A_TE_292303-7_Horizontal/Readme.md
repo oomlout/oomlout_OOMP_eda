@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_TE_292303-7_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

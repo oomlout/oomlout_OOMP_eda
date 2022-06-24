@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-HLLGA48R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-794073-x_2x04_P4.14mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

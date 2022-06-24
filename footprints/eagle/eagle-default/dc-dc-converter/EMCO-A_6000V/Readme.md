@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_6000V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

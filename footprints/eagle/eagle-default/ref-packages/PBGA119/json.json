@@ -1,9 +1,9 @@
 {
-    "index": 8661,
+    "index": 36161,
     "tags": [
         {
             "name": "index",
-            "value": 8661
+            "value": 36161
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PBGA119"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Ball Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

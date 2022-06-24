@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_TC33X_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TT5D7L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: TT5D7L
 - oompName: Adafruit-Eagle-Library/adafruit/TT5D7L
+- description: &lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
+diameter 7 mm, grid 5.08 mm
 
 
 

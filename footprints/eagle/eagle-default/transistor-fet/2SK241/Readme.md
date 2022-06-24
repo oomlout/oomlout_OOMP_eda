@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-fet-2SK241
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

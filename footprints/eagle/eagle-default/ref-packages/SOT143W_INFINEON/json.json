@@ -1,9 +1,9 @@
 {
-    "index": 9070,
+    "index": 36570,
     "tags": [
         {
             "name": "index",
-            "value": 9070
+            "value": 36570
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT143W_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 4 leads&lt;/b&gt; Wave soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

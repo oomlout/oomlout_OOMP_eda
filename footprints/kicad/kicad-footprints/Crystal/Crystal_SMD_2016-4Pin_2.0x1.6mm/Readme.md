@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2016-4Pin_2.0x1.6mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

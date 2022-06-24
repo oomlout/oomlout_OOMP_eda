@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

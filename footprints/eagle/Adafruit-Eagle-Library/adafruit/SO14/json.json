@@ -1,9 +1,9 @@
 {
-    "index": 537,
+    "index": 28037,
     "tags": [
         {
             "name": "index",
-            "value": 537
+            "value": 28037
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SO14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline package&lt;/b&gt; 150 mil"
         },
         {
             "name": "oompID",

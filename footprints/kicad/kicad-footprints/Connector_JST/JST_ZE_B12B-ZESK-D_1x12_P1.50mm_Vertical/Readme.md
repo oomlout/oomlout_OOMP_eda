@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B12B-ZESK-D_1x12_P1.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

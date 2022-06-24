@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-molex-VHDCI-68
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

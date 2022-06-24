@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PANASONIC_A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

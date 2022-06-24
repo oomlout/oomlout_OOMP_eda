@@ -1,9 +1,9 @@
 {
-    "index": 305,
+    "index": 27805,
     "tags": [
         {
             "name": "index",
-            "value": 305
+            "value": 27805
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/E22-9"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 22.86 mm, diameter 9 mm"
         },
         {
             "name": "oompID",

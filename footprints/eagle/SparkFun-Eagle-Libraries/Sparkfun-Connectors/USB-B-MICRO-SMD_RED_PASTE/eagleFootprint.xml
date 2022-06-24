@@ -1,4 +1,3 @@
-
 <package name="USB-B-MICRO-SMD_RED_PASTE">
 <description>&lt;h3&gt;USB - microB SMD Reduced Paste&lt;/h3&gt;
  70% paste area under D+ D- USBID pins for applications where those pins aren't required, to reduce the likelihood of bridges.

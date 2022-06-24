@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-SOT93V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

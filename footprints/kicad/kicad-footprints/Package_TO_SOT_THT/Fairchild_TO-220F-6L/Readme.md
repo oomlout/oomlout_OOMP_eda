@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

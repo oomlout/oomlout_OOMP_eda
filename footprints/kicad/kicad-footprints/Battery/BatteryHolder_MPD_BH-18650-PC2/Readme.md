@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BH-18650-PC2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

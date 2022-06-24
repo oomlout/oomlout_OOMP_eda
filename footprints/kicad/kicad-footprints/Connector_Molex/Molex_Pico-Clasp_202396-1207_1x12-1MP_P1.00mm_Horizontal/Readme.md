@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_202396-1207_1x12-1MP_P1.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

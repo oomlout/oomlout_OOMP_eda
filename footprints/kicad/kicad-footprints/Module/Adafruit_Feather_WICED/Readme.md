@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

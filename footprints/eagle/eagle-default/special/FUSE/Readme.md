@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-special-FUSE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

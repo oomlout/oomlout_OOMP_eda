@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

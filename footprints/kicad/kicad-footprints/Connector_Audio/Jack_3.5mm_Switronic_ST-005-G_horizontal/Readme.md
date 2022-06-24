@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Switronic_ST-005-G_horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

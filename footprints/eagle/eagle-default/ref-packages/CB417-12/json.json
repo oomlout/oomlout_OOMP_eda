@@ -1,9 +1,9 @@
 {
-    "index": 8230,
+    "index": 35730,
     "tags": [
         {
             "name": "index",
-            "value": 8230
+            "value": 35730
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CB417-12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 3.5 mm, horizontal, grid 12.7 mm"
         },
         {
             "name": "oompID",

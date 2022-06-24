@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

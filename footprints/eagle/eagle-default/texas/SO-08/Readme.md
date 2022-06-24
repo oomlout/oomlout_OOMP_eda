@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-SO-08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

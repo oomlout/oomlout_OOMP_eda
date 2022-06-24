@@ -1,9 +1,9 @@
 {
-    "index": 328,
+    "index": 27828,
     "tags": [
         {
             "name": "index",
-            "value": 328
+            "value": 27828
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/E50-25"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 50 mm, diameter 25 mm"
         },
         {
             "name": "oompID",

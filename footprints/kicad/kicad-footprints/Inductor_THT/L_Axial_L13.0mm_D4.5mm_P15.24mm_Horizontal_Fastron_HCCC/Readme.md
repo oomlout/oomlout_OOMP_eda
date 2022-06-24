@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

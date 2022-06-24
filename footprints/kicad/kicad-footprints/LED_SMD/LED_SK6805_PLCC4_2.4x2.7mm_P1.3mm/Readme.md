@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,2 +1,13 @@
-
-<package name="SOT54B"></package>
+<package name="SOT54B" urn="urn:adsk.eagle:footprint:8085975/1">
+<description>&lt;b&gt;SOT-54&lt;/b&gt;&lt;p&gt;&#xD;
+grid 2.54 mm</description>
+<wire x1="-0.9692" y1="2.2098" x2="0.9692" y2="2.2098" width="0.1524" layer="51" curve="-47.363718"/>
+<wire x1="-1.631" y1="-1.778" x2="-0.9689" y2="2.2098" width="0.1524" layer="21" curve="-113.782137"/>
+<wire x1="0.9689" y1="2.2098" x2="1.631" y2="-1.778" width="0.1524" layer="21" curve="-113.782137"/>
+<wire x1="-1.631" y1="-1.778" x2="1.631" y2="-1.778" width="0.1524" layer="21"/>
+<pad name="C" x="-1.27" y="0" drill="0.8128" shape="octagon"/>
+<pad name="E" x="0" y="1.905" drill="0.8128" shape="octagon"/>
+<pad name="B" x="1.27" y="0" drill="0.8128" shape="octagon"/>
+<text x="3.175" y="-1.905" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="3.175" y="0" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+</package>

@@ -1,9 +1,9 @@
 {
-    "index": 9114,
+    "index": 36614,
     "tags": [
         {
             "name": "index",
-            "value": 9114
+            "value": 36614
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT536-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;LFBGA96&lt;/b&gt; SOT536-1&lt;p&gt;&#xD;\nplastic low profile fine-pitch ball grid array package&lt;br&gt;&#xD;\n96 balls; body 13.5 x 5.5 x 1.05 mm&lt;br&gt;&#xD;\nSOT536-1.pdf"
         },
         {
             "name": "oompID",

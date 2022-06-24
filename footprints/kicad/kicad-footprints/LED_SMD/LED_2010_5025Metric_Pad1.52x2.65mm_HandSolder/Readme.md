@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

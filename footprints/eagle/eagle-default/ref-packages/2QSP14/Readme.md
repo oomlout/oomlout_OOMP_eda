@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-2QSP14
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: 2QSP14
 - oompName: eagle-default/ref-packages/2QSP14
+- description: &lt;b&gt;BOURNS RESISTOR NETWORK&lt;/b&gt;
+
+
+
+[im]: image.png

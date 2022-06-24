@@ -1,9 +1,9 @@
 {
-    "index": 8547,
+    "index": 36047,
     "tags": [
         {
             "name": "index",
-            "value": 8547
+            "value": 36047
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MAPBGA160"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Mold Array Process Ball Grid Array&lt;/b&gt; MAPBGA 160&lt;p&gt;&#xD;\nCASE 1268-01"
         },
         {
             "name": "oompID",

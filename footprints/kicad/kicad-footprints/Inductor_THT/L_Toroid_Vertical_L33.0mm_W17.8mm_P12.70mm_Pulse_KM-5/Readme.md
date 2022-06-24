@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1418
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 14290,
+    "index": 41790,
     "tags": [
         {
             "name": "index",
-            "value": 14290
+            "value": 41790
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SCREENKEY_MATING_CONNECTOR"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;FPC/FFC Locking Connector - SMD&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:14&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.5mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Connectors/PRT-09586-e58605370.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SCREENKEY_CONNECTOR&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

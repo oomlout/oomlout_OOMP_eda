@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-CH291-1220LF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

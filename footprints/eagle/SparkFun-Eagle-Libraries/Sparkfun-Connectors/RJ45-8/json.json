@@ -1,9 +1,9 @@
 {
-    "index": 14288,
+    "index": 41788,
     "tags": [
         {
             "name": "index",
-            "value": 14288
+            "value": 41788
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/RJ45-8"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;RJ45 Socket with PCB Mounting Posts&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:8&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/datasheets/Prototyping/04908.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;RJ45-8&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

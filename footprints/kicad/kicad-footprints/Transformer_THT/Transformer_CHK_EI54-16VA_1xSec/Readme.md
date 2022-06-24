@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI54-16VA_1xSec
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

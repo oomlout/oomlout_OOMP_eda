@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

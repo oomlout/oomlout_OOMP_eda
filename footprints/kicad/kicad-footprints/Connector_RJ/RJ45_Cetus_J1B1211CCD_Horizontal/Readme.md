@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Cetus_J1B1211CCD_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

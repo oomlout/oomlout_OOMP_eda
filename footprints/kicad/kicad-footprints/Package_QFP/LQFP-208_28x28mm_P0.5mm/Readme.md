@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-208_28x28mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

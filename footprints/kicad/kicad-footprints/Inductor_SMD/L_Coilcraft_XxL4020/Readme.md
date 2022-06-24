@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XxL4020
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-sil-SIL14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

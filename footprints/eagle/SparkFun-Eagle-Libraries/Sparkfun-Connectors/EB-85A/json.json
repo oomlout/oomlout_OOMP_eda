@@ -1,9 +1,9 @@
 {
-    "index": 14202,
+    "index": 41702,
     "tags": [
         {
             "name": "index",
-            "value": 14202
+            "value": 41702
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/EB-85A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;EB-85A Connector&lt;/h3&gt;\nHorizontal surface mount connector for the EB-85A/FV-M8 GPS receiver.\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 10&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/GPS/EB-85A-Connector.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;EB-85A&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CNCTech_1001-011-01101_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TSOP10X18
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

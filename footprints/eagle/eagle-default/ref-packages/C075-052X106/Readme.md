@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-C075-052X106
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: C075-052X106
 - oompName: eagle-default/ref-packages/C075-052X106
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;
+grid 7.5 mm, outline 5.2 x 10.6 mm
+
+
+
+[im]: image.png

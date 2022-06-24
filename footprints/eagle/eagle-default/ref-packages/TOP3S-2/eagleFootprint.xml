@@ -1,2 +1,21 @@
-
-<package name="TOP3S-2"></package>
+<package name="TOP3S-2" urn="urn:adsk.eagle:footprint:8086179/1">
+<description>&lt;b&gt;TOP 3&lt;/b&gt; vertical (Cathode; Anode; Gate)</description>
+<wire x1="-6.985" y1="-5.08" x2="6.985" y2="-5.08" width="0.1524" layer="21"/>
+<wire x1="6.985" y1="-5.08" x2="7.366" y2="-4.699" width="0.1524" layer="21"/>
+<wire x1="7.366" y1="-4.699" x2="7.493" y2="-1.524" width="0.1524" layer="21"/>
+<wire x1="-6.985" y1="-5.08" x2="-7.366" y2="-4.699" width="0.1524" layer="21"/>
+<wire x1="-7.366" y1="-4.699" x2="-7.493" y2="-1.524" width="0.1524" layer="21"/>
+<pad name="C" x="-5.461" y="-3.175" drill="1.397" shape="long" rot="R90"/>
+<pad name="A" x="0" y="-3.175" drill="1.397" shape="long" rot="R90"/>
+<pad name="G" x="5.461" y="-3.175" drill="1.397" shape="long" rot="R90"/>
+<text x="-7.366" y="-6.731" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="0" y="-6.731" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-7.874" y1="-1.016" x2="7.874" y2="0" layer="21"/>
+<rectangle x1="-7.874" y1="-1.524" x2="-6.858" y2="-1.016" layer="21"/>
+<rectangle x1="-3.81" y1="-1.524" x2="-1.651" y2="-1.016" layer="21"/>
+<rectangle x1="6.858" y1="-1.524" x2="7.874" y2="-1.016" layer="21"/>
+<rectangle x1="1.651" y1="-1.524" x2="3.81" y2="-1.016" layer="21"/>
+<rectangle x1="-6.858" y1="-1.524" x2="-3.81" y2="-1.016" layer="51"/>
+<rectangle x1="-1.651" y1="-1.524" x2="1.651" y2="-1.016" layer="51"/>
+<rectangle x1="3.81" y1="-1.524" x2="6.858" y2="-1.016" layer="51"/>
+</package>

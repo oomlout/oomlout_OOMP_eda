@@ -1,9 +1,9 @@
 {
-    "index": 9410,
+    "index": 36910,
     "tags": [
         {
             "name": "index",
-            "value": 9410
+            "value": 36910
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO3-ADB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

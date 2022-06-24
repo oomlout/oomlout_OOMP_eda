@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-UKCA-Logo_30x30mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

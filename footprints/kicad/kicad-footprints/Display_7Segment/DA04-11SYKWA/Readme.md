@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA04-11SYKWA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

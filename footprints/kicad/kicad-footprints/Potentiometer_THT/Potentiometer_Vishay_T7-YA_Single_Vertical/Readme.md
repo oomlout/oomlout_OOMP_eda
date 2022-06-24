@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_T7-YA_Single_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

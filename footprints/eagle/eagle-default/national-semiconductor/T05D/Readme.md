@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-national-semiconductor-T05D
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

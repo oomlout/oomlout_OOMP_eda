@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

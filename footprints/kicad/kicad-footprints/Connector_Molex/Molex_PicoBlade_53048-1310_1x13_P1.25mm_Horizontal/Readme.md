@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53048-1310_1x13_P1.25mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

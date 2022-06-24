@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-USB-A003
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

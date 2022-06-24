@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

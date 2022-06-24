@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

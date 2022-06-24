@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-ELD_426XXXX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

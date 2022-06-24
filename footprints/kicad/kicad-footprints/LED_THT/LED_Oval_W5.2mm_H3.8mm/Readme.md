@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Oval_W5.2mm_H3.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

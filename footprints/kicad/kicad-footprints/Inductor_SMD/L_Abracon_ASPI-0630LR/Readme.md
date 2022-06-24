@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

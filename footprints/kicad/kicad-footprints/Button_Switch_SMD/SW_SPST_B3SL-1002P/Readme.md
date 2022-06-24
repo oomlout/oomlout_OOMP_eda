@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1002P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

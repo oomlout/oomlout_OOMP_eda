@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-SO28W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

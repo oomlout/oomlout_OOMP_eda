@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-152_14x18mm_Layout13x17_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

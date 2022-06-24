@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-100_8x8mm_Layout10x10_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

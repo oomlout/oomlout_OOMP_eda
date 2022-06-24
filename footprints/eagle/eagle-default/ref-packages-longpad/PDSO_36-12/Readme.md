@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-PDSO_36-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

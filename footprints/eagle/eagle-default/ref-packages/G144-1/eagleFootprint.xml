@@ -1,2 +1,159 @@
-
-<package name="G144-1"></package>
+<package name="G144-1" urn="urn:adsk.eagle:footprint:8084003/1">
+<description>&lt;b&gt;Grid Array&lt;/b&gt;</description>
+<wire x1="-20.32" y1="19.05" x2="-19.05" y2="20.32" width="0.1524" layer="21"/>
+<wire x1="-19.05" y1="20.32" x2="20.32" y2="20.32" width="0.1524" layer="21"/>
+<wire x1="20.32" y1="20.32" x2="20.32" y2="-20.32" width="0.1524" layer="21"/>
+<wire x1="20.32" y1="-20.32" x2="-20.32" y2="-20.32" width="0.1524" layer="21"/>
+<wire x1="-20.32" y1="-20.32" x2="-20.32" y2="19.05" width="0.1524" layer="21"/>
+<wire x1="10.16" y1="10.16" x2="10.16" y2="-10.16" width="0.1524" layer="21"/>
+<wire x1="10.16" y1="-10.16" x2="-10.16" y2="-10.16" width="0.1524" layer="21"/>
+<wire x1="-10.16" y1="-10.16" x2="-10.16" y2="7.62" width="0.1524" layer="21"/>
+<wire x1="-10.16" y1="7.62" x2="-7.62" y2="10.16" width="0.1524" layer="21"/>
+<wire x1="-7.62" y1="10.16" x2="10.16" y2="10.16" width="0.1524" layer="21"/>
+<pad name="A1" x="-17.78" y="17.78" drill="0.8128"/>
+<pad name="B1" x="-17.78" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="C1" x="-17.78" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="D1" x="-17.78" y="10.16" drill="0.8128" shape="octagon"/>
+<pad name="E1" x="-17.78" y="7.62" drill="0.8128" shape="octagon"/>
+<pad name="F1" x="-17.78" y="5.08" drill="0.8128" shape="octagon"/>
+<pad name="G1" x="-17.78" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="H1" x="-17.78" y="0" drill="0.8128" shape="octagon"/>
+<pad name="J1" x="-17.78" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="K1" x="-17.78" y="-5.08" drill="0.8128" shape="octagon"/>
+<pad name="L1" x="-17.78" y="-7.62" drill="0.8128" shape="octagon"/>
+<pad name="M1" x="-17.78" y="-10.16" drill="0.8128" shape="octagon"/>
+<pad name="N1" x="-17.78" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="P1" x="-17.78" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="R1" x="-17.78" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="A2" x="-15.24" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="B2" x="-15.24" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="C2" x="-15.24" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="D2" x="-15.24" y="10.16" drill="0.8128" shape="octagon"/>
+<pad name="E2" x="-15.24" y="7.62" drill="0.8128" shape="octagon"/>
+<pad name="F2" x="-15.24" y="5.08" drill="0.8128" shape="octagon"/>
+<pad name="G2" x="-15.24" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="H2" x="-15.24" y="0" drill="0.8128" shape="octagon"/>
+<pad name="J2" x="-15.24" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="K2" x="-15.24" y="-5.08" drill="0.8128" shape="octagon"/>
+<pad name="L2" x="-15.24" y="-7.62" drill="0.8128" shape="octagon"/>
+<pad name="M2" x="-15.24" y="-10.16" drill="0.8128" shape="octagon"/>
+<pad name="N2" x="-15.24" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="P2" x="-15.24" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="R2" x="-15.24" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="A3" x="-12.7" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="B3" x="-12.7" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="C3" x="-12.7" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="D3" x="-12.7" y="10.16" drill="0.8128" shape="octagon"/>
+<pad name="E3" x="-12.7" y="7.62" drill="0.8128" shape="octagon"/>
+<pad name="F3" x="-12.7" y="5.08" drill="0.8128" shape="octagon"/>
+<pad name="G3" x="-12.7" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="H3" x="-12.7" y="0" drill="0.8128" shape="octagon"/>
+<pad name="J3" x="-12.7" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="K3" x="-12.7" y="-5.08" drill="0.8128" shape="octagon"/>
+<pad name="L3" x="-12.7" y="-7.62" drill="0.8128" shape="octagon"/>
+<pad name="M3" x="-12.7" y="-10.16" drill="0.8128" shape="octagon"/>
+<pad name="N3" x="-12.7" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="P3" x="-12.7" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="R3" x="-12.7" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="A4" x="-10.16" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A5" x="-7.62" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A6" x="-5.08" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A7" x="-2.54" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A8" x="0" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A9" x="2.54" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A10" x="5.08" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A11" x="7.62" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A12" x="10.16" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="B12" x="10.16" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B11" x="7.62" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B10" x="5.08" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B9" x="2.54" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B8" x="0" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B7" x="-2.54" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B6" x="-5.08" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B5" x="-7.62" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="B4" x="-10.16" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="C4" x="-10.16" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C5" x="-7.62" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C6" x="-5.08" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C7" x="-2.54" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C8" x="0" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C9" x="2.54" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C10" x="5.08" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C11" x="7.62" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="C12" x="10.16" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="R4" x="-10.16" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R5" x="-7.62" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R6" x="-5.08" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R7" x="-2.54" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R8" x="0" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R9" x="2.54" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R10" x="5.08" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R11" x="7.62" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R12" x="10.16" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="P12" x="10.16" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P11" x="7.62" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P10" x="5.08" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P9" x="2.54" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P8" x="0" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P7" x="-2.54" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P6" x="-5.08" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P5" x="-7.62" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="P4" x="-10.16" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="N4" x="-10.16" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N5" x="-7.62" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N6" x="-5.08" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N7" x="-2.54" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N8" x="0" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N9" x="2.54" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N10" x="5.08" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N11" x="7.62" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N12" x="10.16" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N13" x="12.7" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="P13" x="12.7" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="R13" x="12.7" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="R14" x="15.24" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="P14" x="15.24" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="N14" x="15.24" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="N15" x="17.78" y="-12.7" drill="0.8128" shape="octagon"/>
+<pad name="P15" x="17.78" y="-15.24" drill="0.8128" shape="octagon"/>
+<pad name="R15" x="17.78" y="-17.78" drill="0.8128" shape="octagon"/>
+<pad name="M13" x="12.7" y="-10.16" drill="0.8128" shape="octagon"/>
+<pad name="L13" x="12.7" y="-7.62" drill="0.8128" shape="octagon"/>
+<pad name="K13" x="12.7" y="-5.08" drill="0.8128" shape="octagon"/>
+<pad name="J13" x="12.7" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="H13" x="12.7" y="0" drill="0.8128" shape="octagon"/>
+<pad name="G13" x="12.7" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="F13" x="12.7" y="5.08" drill="0.8128" shape="octagon"/>
+<pad name="E13" x="12.7" y="7.62" drill="0.8128" shape="octagon"/>
+<pad name="D13" x="12.7" y="10.16" drill="0.8128" shape="octagon"/>
+<pad name="C13" x="12.7" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="B13" x="12.7" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="A13" x="12.7" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="A14" x="15.24" y="17.78" drill="0.8128" shape="octagon"/>
+<pad name="B14" x="15.24" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="C14" x="15.24" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="D14" x="15.24" y="10.16" drill="0.8128" shape="octagon"/>
+<pad name="E14" x="15.24" y="7.62" drill="0.8128" shape="octagon"/>
+<pad name="F14" x="15.24" y="5.08" drill="0.8128" shape="octagon"/>
+<pad name="G14" x="15.24" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="H14" x="15.24" y="0" drill="0.8128" shape="octagon"/>
+<pad name="J14" x="15.24" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="K14" x="15.24" y="-5.08" drill="0.8128" shape="octagon"/>
+<pad name="L14" x="15.24" y="-7.62" drill="0.8128" shape="octagon"/>
+<pad name="M14" x="15.24" y="-10.16" drill="0.8128" shape="octagon"/>
+<pad name="M15" x="17.78" y="-10.16" drill="0.8128" shape="octagon"/>
+<pad name="L15" x="17.78" y="-7.62" drill="0.8128" shape="octagon"/>
+<pad name="K15" x="17.78" y="-5.08" drill="0.8128" shape="octagon"/>
+<pad name="J15" x="17.78" y="-2.54" drill="0.8128" shape="octagon"/>
+<pad name="H15" x="17.78" y="0" drill="0.8128" shape="octagon"/>
+<pad name="G15" x="17.78" y="2.54" drill="0.8128" shape="octagon"/>
+<pad name="F15" x="17.78" y="5.08" drill="0.8128" shape="octagon"/>
+<pad name="E15" x="17.78" y="7.62" drill="0.8128" shape="octagon"/>
+<pad name="D15" x="17.78" y="10.16" drill="0.8128" shape="octagon"/>
+<pad name="C15" x="17.78" y="12.7" drill="0.8128" shape="octagon"/>
+<pad name="B15" x="17.78" y="15.24" drill="0.8128" shape="octagon"/>
+<pad name="A15" x="17.78" y="17.78" drill="0.8128" shape="octagon"/>
+<text x="-19.05" y="20.955" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-7.62" y="-3.81" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+</package>

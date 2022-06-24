@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-pc-IBM8BIT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

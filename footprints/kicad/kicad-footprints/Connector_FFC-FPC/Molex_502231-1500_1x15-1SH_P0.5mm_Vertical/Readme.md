@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502231-1500_1x15-1SH_P0.5mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

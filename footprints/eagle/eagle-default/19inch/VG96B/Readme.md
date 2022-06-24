@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-19inch-VG96B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-QFP64_SOT393
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

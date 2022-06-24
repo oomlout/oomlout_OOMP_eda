@@ -1,9 +1,9 @@
 {
-    "index": 14156,
+    "index": 41656,
     "tags": [
         {
             "name": "index",
-            "value": 14156
+            "value": 41656
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X5-RAF"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole - 2x5 Right Angle Female Header&lt;/h3&gt;\nSilk outline of pins\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:10&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_05x2&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

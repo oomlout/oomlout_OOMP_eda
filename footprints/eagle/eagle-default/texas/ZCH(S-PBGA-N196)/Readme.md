@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-ZCH(S-PBGA-N196)
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

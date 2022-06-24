@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSP-4832
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

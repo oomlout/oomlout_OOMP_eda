@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74ttl-din-DIL16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

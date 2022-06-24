@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

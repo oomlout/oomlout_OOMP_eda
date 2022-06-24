@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

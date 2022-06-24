@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-cyclone-II-PQFP208
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 13984,
+    "index": 41484,
     "tags": [
         {
             "name": "index",
-            "value": 13984
+            "value": 41484
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_SMD_RA_MALE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SMD - 4 Pin Right Angle Male Header&lt;/h3&gt;\ntDocu layer shows pin locations.\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_04&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

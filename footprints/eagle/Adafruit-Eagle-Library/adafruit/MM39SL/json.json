@@ -1,9 +1,9 @@
 {
-    "index": 431,
+    "index": 27931,
     "tags": [
         {
             "name": "index",
-            "value": 431
+            "value": 27931
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MM39SL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CRYSTAL&lt;/b&gt;"
         },
         {
             "name": "oompID",

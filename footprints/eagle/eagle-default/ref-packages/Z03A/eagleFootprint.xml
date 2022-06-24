@@ -1,2 +1,13 @@
-
-<package name="Z03A"></package>
+<package name="Z03A" urn="urn:adsk.eagle:footprint:8083962/1">
+<description>&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;&#xD;
+National Semiconductor Z03A</description>
+<wire x1="-2.2098" y1="0" x2="2.2098" y2="0" width="0.254" layer="21" curve="-180"/>
+<wire x1="-2.2098" y1="0" x2="-1.9558" y2="-1.27" width="0.254" layer="21"/>
+<wire x1="-1.9558" y1="-1.27" x2="1.9558" y2="-1.27" width="0.254" layer="21"/>
+<wire x1="1.9558" y1="-1.27" x2="2.2098" y2="0" width="0.254" layer="21"/>
+<pad name="1" x="-1.27" y="0" drill="0.6096" shape="octagon"/>
+<pad name="2" x="0" y="0" drill="0.6096" shape="octagon"/>
+<pad name="3" x="1.27" y="0" drill="0.6096" shape="octagon"/>
+<text x="-1.905" y="2.54" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-1.905" y="-3.175" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+</package>

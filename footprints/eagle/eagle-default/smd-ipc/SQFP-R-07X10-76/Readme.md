@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SQFP-R-07X10-76
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

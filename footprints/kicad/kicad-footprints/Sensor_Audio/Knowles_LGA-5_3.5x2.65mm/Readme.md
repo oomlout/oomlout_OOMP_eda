@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

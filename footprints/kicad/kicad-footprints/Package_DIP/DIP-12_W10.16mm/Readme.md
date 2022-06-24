@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-12_W10.16mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

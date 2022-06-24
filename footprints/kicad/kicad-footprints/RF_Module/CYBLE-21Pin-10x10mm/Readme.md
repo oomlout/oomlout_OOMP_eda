@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-CYBLE-21Pin-10x10mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

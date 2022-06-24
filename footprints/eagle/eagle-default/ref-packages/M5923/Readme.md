@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-M5923
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: M5923
 - oompName: eagle-default/ref-packages/M5923
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;
+MELF 0.25 W
+
+
+
+[im]: image.png

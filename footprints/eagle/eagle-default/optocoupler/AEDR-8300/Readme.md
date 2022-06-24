@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-AEDR-8300
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

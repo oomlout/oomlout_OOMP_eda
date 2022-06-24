@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-lumberg-MSF8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

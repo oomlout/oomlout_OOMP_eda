@@ -1,9 +1,9 @@
 {
-    "index": 8439,
+    "index": 35939,
     "tags": [
         {
             "name": "index",
-            "value": 8439
+            "value": 35939
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/ETR1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nrectangle, grid 2.54 mm"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

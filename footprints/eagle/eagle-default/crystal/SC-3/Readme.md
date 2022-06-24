@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-crystal-SC-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

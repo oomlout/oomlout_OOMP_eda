@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-SC59-BEC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

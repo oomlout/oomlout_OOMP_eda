@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-am29-memory-TSOP40
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

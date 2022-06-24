@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-2X8-SHROUDED_LOCK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN50P300X300X100-13T165
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SHL_SM20B-SHLS-TF_1x20-1MP_P1.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

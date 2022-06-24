@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

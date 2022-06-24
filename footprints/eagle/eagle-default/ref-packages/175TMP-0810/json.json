@@ -1,9 +1,9 @@
 {
-    "index": 8102,
+    "index": 35602,
     "tags": [
         {
             "name": "index",
-            "value": 8102
+            "value": 35602
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/175TMP-0810"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt;&lt;p&gt;&#xD;\nHigh Temperature solid electrolytic SMD 175 TMP&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

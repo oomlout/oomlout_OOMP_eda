@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MAB6H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

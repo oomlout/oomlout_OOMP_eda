@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Bel_SI-60062-F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-MVX1005L0X_2x05_P1.25mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,4 +1,3 @@
-
 <package name="SEGMENT_BL-M15A881">
 <wire x1="-19" y1="19" x2="19" y2="19" width="0.127" layer="21"/>
 <wire x1="19" y1="19" x2="19" y2="-19" width="0.127" layer="21"/>

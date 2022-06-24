@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NU
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-wirepad-5-2,5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

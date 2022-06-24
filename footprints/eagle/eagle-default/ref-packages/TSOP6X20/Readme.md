@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TSOP6X20
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TSOP6X20
 - oompName: eagle-default/ref-packages/TSOP6X20
+- description: &lt;b&gt;TSOP36&lt;/b&gt;&lt;p&gt;&#xD;
+thin small outline package
+
+
+
+[im]: image.png

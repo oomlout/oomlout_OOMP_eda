@@ -1,9 +1,9 @@
 {
-    "index": 14260,
+    "index": 41760,
     "tags": [
         {
             "name": "index",
-            "value": 14260
+            "value": 41760
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/NANO_SIM_PP_REDUCED_PADS"
+        },
+        {
+            "name": "description",
+            "value": "Part#: ATOM-A03621 or MUP-C7801"
         },
         {
             "name": "oompID",

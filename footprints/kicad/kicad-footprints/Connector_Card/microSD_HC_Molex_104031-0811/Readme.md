@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_104031-0811
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

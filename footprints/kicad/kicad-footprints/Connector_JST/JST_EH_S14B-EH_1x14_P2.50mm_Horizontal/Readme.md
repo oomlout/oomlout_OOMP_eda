@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S14B-EH_1x14_P2.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

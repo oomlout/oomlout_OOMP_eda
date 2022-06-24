@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-2X6_NOSILK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

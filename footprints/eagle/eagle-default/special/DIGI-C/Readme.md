@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-special-DIGI-C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

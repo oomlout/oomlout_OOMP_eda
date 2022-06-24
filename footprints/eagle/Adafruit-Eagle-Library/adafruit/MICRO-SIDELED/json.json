@@ -1,9 +1,9 @@
 {
-    "index": 419,
+    "index": 27919,
     "tags": [
         {
             "name": "index",
-            "value": 419
+            "value": 27919
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MICRO-SIDELED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper Micro SIDELED&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... LA_LO_LS_LY Y876.pdf"
         },
         {
             "name": "oompID",

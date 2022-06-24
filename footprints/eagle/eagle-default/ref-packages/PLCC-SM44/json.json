@@ -1,9 +1,9 @@
 {
-    "index": 8689,
+    "index": 36189,
     "tags": [
         {
             "name": "index",
-            "value": 8689
+            "value": 36189
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PLCC-SM44"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;SMD Plastic J-Leaded Chip Carrier Socket&lt;/B&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-siemens-CQFP-84
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

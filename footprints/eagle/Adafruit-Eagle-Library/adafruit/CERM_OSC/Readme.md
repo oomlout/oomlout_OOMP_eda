@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CERM_OSC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

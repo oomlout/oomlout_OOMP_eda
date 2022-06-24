@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-B44(ST)
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-SANYO-OSCON_B'
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

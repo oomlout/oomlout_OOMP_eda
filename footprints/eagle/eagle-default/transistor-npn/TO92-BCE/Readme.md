@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-BCE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_MBLS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

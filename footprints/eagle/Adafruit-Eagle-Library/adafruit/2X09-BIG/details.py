@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "adafruit")
 newPart.addTag("oompIndex", "2X09-BIG")
 newPart.addTag("oompName", "Adafruit-Eagle-Library/adafruit/2X09-BIG")
 
+newPart.addTag("description", """&lt;b&gt;PIN HEADER&lt;/b&gt;""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-2X09-BIG",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='Adafruit-Eagle-Library',oompDesc='adafruit',oompIndex='2X09-BIG')
 
 OOMP.parts.append(newPart)

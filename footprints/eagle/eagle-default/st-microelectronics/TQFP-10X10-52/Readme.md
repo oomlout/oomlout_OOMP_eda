@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-TQFP-10X10-52
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

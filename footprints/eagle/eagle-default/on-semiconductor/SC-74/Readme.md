@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-SC-74
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

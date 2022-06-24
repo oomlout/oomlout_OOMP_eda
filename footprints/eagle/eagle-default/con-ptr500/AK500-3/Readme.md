@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-ptr500-AK500/3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

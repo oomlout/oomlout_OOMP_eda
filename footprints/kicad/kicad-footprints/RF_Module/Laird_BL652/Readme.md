@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Laird_BL652
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

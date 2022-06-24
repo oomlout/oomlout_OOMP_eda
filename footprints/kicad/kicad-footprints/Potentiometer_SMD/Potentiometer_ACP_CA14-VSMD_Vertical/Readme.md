@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_ACP_CA14-VSMD_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "CTRIM808-1")
 newPart.addTag("oompName", "eagle-default/ref-packages/CTRIM808-1")
 
+newPart.addTag("description", """&lt;b&gt;Trimm capacitor &lt;/b&gt; STELCO GmbH&lt;p&gt;&#xD;
+diameter 8.6 mm, grid 3.55 mm""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-1",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='CTRIM808-1')
 
 OOMP.parts.append(newPart)

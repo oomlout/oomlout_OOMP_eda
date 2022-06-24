@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-150-xx.x-x-DV-S_2x50-1SH_P0.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

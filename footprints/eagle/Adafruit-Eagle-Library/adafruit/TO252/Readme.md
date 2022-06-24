@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TO252
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: TO252
 - oompName: Adafruit-Eagle-Library/adafruit/TO252
+- description: &lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;
+TS-003
 
 
 

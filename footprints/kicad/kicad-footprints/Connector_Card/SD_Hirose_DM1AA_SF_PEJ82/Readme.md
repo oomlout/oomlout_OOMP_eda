@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

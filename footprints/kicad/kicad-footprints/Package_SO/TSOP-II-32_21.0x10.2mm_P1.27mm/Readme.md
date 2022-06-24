@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-32_21.0x10.2mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

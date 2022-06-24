@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ6HM-1_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

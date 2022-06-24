@@ -1,9 +1,9 @@
 {
-    "index": 592,
+    "index": 28092,
     "tags": [
         {
             "name": "index",
-            "value": 592
+            "value": 28092
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TO92-INLINE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;VOLTAGE REGULATOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

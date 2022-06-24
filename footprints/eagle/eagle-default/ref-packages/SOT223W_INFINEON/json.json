@@ -1,9 +1,9 @@
 {
-    "index": 9079,
+    "index": 36579,
     "tags": [
         {
             "name": "index",
-            "value": 9079
+            "value": 36579
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT223W_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor&lt;/b&gt; Wafe soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

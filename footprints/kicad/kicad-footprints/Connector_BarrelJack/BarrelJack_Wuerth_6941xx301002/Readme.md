@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Wuerth_6941xx301002
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 287,
+    "index": 27787,
     "tags": [
         {
             "name": "index",
-            "value": 287
+            "value": 27787
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/DO41-10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;\ndiameter 2.54 mm, horizontal, grid 10.16 mm"
         },
         {
             "name": "oompID",

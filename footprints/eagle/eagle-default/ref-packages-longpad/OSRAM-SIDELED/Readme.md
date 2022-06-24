@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-OSRAM-SIDELED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

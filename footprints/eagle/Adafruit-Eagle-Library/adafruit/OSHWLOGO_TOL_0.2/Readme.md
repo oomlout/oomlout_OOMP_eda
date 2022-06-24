@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-OSHWLOGO_TOL_0.2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

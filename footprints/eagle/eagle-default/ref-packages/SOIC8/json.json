@@ -1,9 +1,9 @@
 {
-    "index": 8999,
+    "index": 36499,
     "tags": [
         {
             "name": "index",
-            "value": 8999
+            "value": 36499
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOIC8"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline IC&lt;/b&gt;"
         },
         {
             "name": "oompID",

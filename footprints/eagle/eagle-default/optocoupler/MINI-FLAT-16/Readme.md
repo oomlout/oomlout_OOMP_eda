@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-MINI-FLAT-16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

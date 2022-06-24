@@ -1,2 +1,54 @@
-
-<package name="SO-20DW"></package>
+<package name="SO-20DW" urn="urn:adsk.eagle:footprint:8085766/1">
+<description>&lt;b&gt;Small Outline Integrated Circuit&lt;/b&gt; wide</description>
+<wire x1="-6.895" y1="5.9" x2="6.895" y2="5.9" width="0.2" layer="39"/>
+<wire x1="6.895" y1="-5.9" x2="-6.895" y2="-5.9" width="0.2" layer="39"/>
+<wire x1="-6.895" y1="-5.9" x2="-6.895" y2="5.9" width="0.2" layer="39"/>
+<wire x1="6.46" y1="-3.7" x2="-6.46" y2="-3.7" width="0.2032" layer="51"/>
+<wire x1="-6.46" y1="-3.7" x2="-6.46" y2="3.7" width="0.2032" layer="51"/>
+<wire x1="-6.46" y1="3.7" x2="6.46" y2="3.7" width="0.2032" layer="51"/>
+<wire x1="6.46" y1="-3.2" x2="-6.46" y2="-3.2" width="0.2032" layer="21"/>
+<wire x1="6.46" y1="3.7" x2="6.46" y2="-3.7" width="0.2032" layer="51"/>
+<wire x1="6.895" y1="5.9" x2="6.895" y2="-5.9" width="0.2" layer="39"/>
+<smd name="2" x="-4.445" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="13" x="3.175" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="1" x="-5.715" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="3" x="-3.175" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="4" x="-1.905" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="14" x="1.905" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="12" x="4.445" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="11" x="5.715" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="6" x="0.635" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="9" x="4.445" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="5" x="-0.635" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="7" x="1.905" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="10" x="5.715" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="8" x="3.175" y="-4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="15" x="0.635" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="16" x="-0.635" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="17" x="-1.905" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="18" x="-3.175" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="19" x="-4.445" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<smd name="20" x="-5.715" y="4.6" dx="0.6" dy="2.2" layer="1"/>
+<text x="-5.715" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-5.715" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-5.96" y1="-5.32" x2="-5.47" y2="-3.8" layer="51"/>
+<rectangle x1="-4.69" y1="-5.32" x2="-4.2" y2="-3.8" layer="51"/>
+<rectangle x1="-3.42" y1="-5.32" x2="-2.93" y2="-3.8" layer="51"/>
+<rectangle x1="-2.15" y1="-5.32" x2="-1.66" y2="-3.8" layer="51"/>
+<rectangle x1="-0.88" y1="-5.32" x2="-0.39" y2="-3.8" layer="51"/>
+<rectangle x1="0.39" y1="-5.32" x2="0.88" y2="-3.8" layer="51"/>
+<rectangle x1="1.66" y1="-5.32" x2="2.15" y2="-3.8" layer="51"/>
+<rectangle x1="2.93" y1="-5.32" x2="3.42" y2="-3.8" layer="51"/>
+<rectangle x1="4.2" y1="-5.32" x2="4.69" y2="-3.8" layer="51"/>
+<rectangle x1="5.47" y1="-5.32" x2="5.96" y2="-3.8" layer="51"/>
+<rectangle x1="5.47" y1="3.8" x2="5.96" y2="5.32" layer="51"/>
+<rectangle x1="4.2" y1="3.8" x2="4.69" y2="5.32" layer="51"/>
+<rectangle x1="2.93" y1="3.8" x2="3.42" y2="5.32" layer="51"/>
+<rectangle x1="1.66" y1="3.8" x2="2.15" y2="5.32" layer="51"/>
+<rectangle x1="0.39" y1="3.8" x2="0.88" y2="5.32" layer="51"/>
+<rectangle x1="-0.88" y1="3.8" x2="-0.39" y2="5.32" layer="51"/>
+<rectangle x1="-2.15" y1="3.8" x2="-1.66" y2="5.32" layer="51"/>
+<rectangle x1="-3.42" y1="3.8" x2="-2.93" y2="5.32" layer="51"/>
+<rectangle x1="-4.69" y1="3.8" x2="-4.2" y2="5.32" layer="51"/>
+<rectangle x1="-5.96" y1="3.8" x2="-5.47" y2="5.32" layer="51"/>
+</package>

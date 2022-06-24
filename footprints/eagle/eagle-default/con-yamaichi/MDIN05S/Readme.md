@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-MDIN05S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

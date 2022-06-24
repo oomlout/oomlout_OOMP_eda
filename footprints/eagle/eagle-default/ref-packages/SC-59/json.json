@@ -1,9 +1,9 @@
 {
-    "index": 8860,
+    "index": 36360,
     "tags": [
         {
             "name": "index",
-            "value": 8860
+            "value": 36360
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SC-59"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TRANSISTOR/DIODE&lt;/b&gt;"
         },
         {
             "name": "oompID",

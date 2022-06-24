@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BL-M15A881
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

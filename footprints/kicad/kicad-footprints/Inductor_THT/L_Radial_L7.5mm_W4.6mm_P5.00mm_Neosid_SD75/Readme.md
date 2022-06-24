@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

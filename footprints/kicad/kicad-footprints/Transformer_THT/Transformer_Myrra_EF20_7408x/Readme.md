@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

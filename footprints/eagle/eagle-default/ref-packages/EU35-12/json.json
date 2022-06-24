@@ -1,9 +1,9 @@
 {
-    "index": 8446,
+    "index": 35946,
     "tags": [
         {
             "name": "index",
-            "value": 8446
+            "value": 35946
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/EU35-12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;BIPOLAR ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 35 mm, diameter 12 mm"
         },
         {
             "name": "oompID",

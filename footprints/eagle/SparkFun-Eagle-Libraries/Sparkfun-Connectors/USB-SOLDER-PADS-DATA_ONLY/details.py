@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,7 @@ newPart.addTag("oompDesc", "Sparkfun-Connectors")
 newPart.addTag("oompIndex", "USB-SOLDER-PADS-DATA_ONLY")
 newPart.addTag("oompName", "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB-SOLDER-PADS-DATA_ONLY")
 
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-USB-SOLDER-PADS-DATA_ONLY",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='SparkFun-Eagle-Libraries',oompDesc='Sparkfun-Connectors',oompIndex='USB-SOLDER-PADS-DATA_ONLY')
 
 OOMP.parts.append(newPart)

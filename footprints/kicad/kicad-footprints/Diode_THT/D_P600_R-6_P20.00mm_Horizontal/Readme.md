@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_P600_R-6_P20.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

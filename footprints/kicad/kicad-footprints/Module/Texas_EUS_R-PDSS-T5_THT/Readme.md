@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUS_R-PDSS-T5_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

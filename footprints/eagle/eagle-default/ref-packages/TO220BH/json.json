@@ -1,9 +1,9 @@
 {
-    "index": 9368,
+    "index": 36868,
     "tags": [
         {
             "name": "index",
-            "value": 9368
+            "value": 36868
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220BH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Molded Package&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.54 - 5.08 mm"
         },
         {
             "name": "oompID",

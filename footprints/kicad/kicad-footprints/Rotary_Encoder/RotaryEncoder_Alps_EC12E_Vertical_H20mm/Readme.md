@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E_Vertical_H20mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

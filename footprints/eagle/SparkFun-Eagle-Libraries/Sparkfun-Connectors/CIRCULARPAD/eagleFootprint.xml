@@ -1,4 +1,3 @@
-
 <package name="CIRCULARPAD">
 <description>LuMini Pad</description>
 <smd name="P$1" x="0" y="0" dx="2" dy="2" layer="1" roundness="100"/>

@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-CTRIMCTZ2
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: CTRIMCTZ2
 - oompName: eagle-default/ref-packages/CTRIMCTZ2
+- description: &lt;b&gt;Trimm capacitor&lt;/b&gt; AVX
+
+
+
+[im]: image.png

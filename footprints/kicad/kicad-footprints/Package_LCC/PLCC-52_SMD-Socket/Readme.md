@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-52_SMD-Socket
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

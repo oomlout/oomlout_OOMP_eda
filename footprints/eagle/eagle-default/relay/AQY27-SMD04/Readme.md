@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-AQY27-SMD04
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

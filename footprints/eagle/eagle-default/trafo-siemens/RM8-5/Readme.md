@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM8-5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

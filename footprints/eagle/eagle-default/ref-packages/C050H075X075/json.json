@@ -1,9 +1,9 @@
 {
-    "index": 8154,
+    "index": 35654,
     "tags": [
         {
             "name": "index",
-            "value": 8154
+            "value": 35654
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C050H075X075"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nHorizontal, grid 5 mm, outline 7.5 x 7.5 mm"
         },
         {
             "name": "oompID",

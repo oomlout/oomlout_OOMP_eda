@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-led-OSRAM-SIDELED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

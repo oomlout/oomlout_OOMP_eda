@@ -1,2 +1,9 @@
-
-<package name="TJ9-U2"></package>
+<package name="TJ9-U2" urn="urn:adsk.eagle:footprint:8082946/1">
+<description>&lt;b&gt;Inductor&lt;/b&gt;&lt;p&gt;&#xD;
+Source: TJ-Serie Vishay.pdf</description>
+<circle x="0" y="0" radius="34.5" width="0.2032" layer="27"/>
+<pad name="1" x="-31.6" y="0" drill="1.8"/>
+<pad name="2" x="31.6" y="0" drill="1.8"/>
+<text x="-5.08" y="0.635" size="1.27" layer="25">&gt;NAME</text>
+<text x="-5.08" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
+</package>

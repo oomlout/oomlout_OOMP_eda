@@ -1,4 +1,3 @@
-
 <package name="FGPMMOPA6C">
 <wire x1="-8" y1="8" x2="8" y2="8" width="0.127" layer="21"/>
 <wire x1="8" y1="-8" x2="-8" y2="-8" width="0.127" layer="21"/>

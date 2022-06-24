@@ -1,9 +1,9 @@
 {
-    "index": 8448,
+    "index": 35948,
     "tags": [
         {
             "name": "index",
-            "value": 8448
+            "value": 35948
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/EU45-16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;BIPOLAR ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 45 mm, diameter 16 mm"
         },
         {
             "name": "oompID",

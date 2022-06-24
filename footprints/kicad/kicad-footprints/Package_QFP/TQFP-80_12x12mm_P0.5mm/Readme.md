@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80_12x12mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

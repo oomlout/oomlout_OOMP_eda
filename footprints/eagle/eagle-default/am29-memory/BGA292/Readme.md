@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-am29-memory-BGA292
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

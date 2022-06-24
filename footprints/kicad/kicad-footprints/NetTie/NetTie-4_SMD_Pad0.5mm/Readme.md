@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_SMD_Pad0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

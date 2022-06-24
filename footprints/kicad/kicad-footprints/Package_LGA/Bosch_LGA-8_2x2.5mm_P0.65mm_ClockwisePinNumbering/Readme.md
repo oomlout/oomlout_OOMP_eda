@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

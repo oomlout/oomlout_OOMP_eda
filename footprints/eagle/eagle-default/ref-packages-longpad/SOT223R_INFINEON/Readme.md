@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT223R_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

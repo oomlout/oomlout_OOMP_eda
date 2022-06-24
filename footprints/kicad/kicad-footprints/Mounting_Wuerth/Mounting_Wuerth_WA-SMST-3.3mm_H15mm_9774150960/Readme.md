@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-3.3mm_H15mm_9774150960
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

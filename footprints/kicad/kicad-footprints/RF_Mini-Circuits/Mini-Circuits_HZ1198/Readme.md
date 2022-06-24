@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HZ1198
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SD12K100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

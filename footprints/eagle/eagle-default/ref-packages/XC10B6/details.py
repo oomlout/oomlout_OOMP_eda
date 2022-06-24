@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "XC10B6")
 newPart.addTag("oompName", "eagle-default/ref-packages/XC10B6")
 
+newPart.addTag("description", """&lt;b&gt;X CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;
+body 13 x 6 mm, grid 10.16 mm""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-XC10B6",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='XC10B6')
 
 OOMP.parts.append(newPart)

@@ -1,9 +1,9 @@
 {
-    "index": 9545,
+    "index": 37045,
     "tags": [
         {
             "name": "index",
-            "value": 9545
+            "value": 37045
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/UMAX10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;micro MAX Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SCT595_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

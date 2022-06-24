@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R-PWQFN-N28_EP2.1x3.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

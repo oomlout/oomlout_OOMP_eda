@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

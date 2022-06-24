@@ -1,9 +1,9 @@
 {
-    "index": 9467,
+    "index": 36967,
     "tags": [
         {
             "name": "index",
-            "value": 9467
+            "value": 36967
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TOP3S-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TOP 3&lt;/b&gt; vertical (Anode1; Anode2; Gate)"
         },
         {
             "name": "oompID",

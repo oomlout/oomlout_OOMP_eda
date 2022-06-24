@@ -1,9 +1,9 @@
 {
-    "index": 14273,
+    "index": 41773,
     "tags": [
         {
             "name": "index",
-            "value": 14273
+            "value": 41773
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/POWER_JACK_SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;DC Barrel Power Jack/Connector -SMD&lt;/h3&gt;\n5.5mm jack, 2.1mm center pole diameter. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://cdn.sparkfun.com/datasheets/Prototyping/ADC-H-028-1.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;POWER_JACK&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

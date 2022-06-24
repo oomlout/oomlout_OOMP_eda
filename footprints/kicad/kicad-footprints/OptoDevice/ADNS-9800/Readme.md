@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-ADNS-9800
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

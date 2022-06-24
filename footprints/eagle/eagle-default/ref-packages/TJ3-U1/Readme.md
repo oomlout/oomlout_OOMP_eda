@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TJ3-U1
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TJ3-U1
 - oompName: eagle-default/ref-packages/TJ3-U1
+- description: &lt;b&gt;Inductor&lt;/b&gt;&lt;p&gt;&#xD;
+Source: TJ-Serie Vishay.pdf
+
+
+
+[im]: image.png

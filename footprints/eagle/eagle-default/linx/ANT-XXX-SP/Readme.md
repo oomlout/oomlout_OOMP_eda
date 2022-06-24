@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linx-ANT-XXX-SP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

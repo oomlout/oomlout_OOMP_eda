@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-v-reg-D2PACK
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

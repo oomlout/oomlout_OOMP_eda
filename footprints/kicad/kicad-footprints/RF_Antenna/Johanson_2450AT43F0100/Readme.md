@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT43F0100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

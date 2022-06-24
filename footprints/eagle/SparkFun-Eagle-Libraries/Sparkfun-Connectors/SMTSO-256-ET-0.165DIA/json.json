@@ -1,9 +1,9 @@
 {
-    "index": 14309,
+    "index": 41809,
     "tags": [
         {
             "name": "index",
-            "value": 14309
+            "value": 41809
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SMTSO-256-ET-0.165DIA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SMTSO-256-ET Flush Mount Nut&lt;/h3&gt;\n.165 drill\n&lt;br&gt;\nFits 4-40 Screws. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 1&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_01&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

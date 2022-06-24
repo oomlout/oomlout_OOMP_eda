@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

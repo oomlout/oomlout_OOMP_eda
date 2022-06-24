@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC16LWB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

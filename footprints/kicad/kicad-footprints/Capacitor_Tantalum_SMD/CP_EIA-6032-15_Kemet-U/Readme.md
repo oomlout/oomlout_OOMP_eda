@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-6032-15_Kemet-U
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

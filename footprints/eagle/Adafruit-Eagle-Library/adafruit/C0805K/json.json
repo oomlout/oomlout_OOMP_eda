@@ -1,9 +1,9 @@
 {
-    "index": 199,
+    "index": 27699,
     "tags": [
         {
             "name": "index",
-            "value": 199
+            "value": 27699
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C0805K"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 0805 Reflow solder&lt;/b&gt;&lt;p&gt;\nMetric Code Size 2012"
         },
         {
             "name": "oompID",

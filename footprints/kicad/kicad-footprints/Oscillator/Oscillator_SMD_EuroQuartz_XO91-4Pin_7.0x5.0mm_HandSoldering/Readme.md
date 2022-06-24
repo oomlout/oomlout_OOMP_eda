@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

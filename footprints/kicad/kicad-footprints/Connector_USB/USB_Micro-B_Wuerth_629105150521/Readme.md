@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

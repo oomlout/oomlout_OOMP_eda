@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-48-1EP_7x7mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

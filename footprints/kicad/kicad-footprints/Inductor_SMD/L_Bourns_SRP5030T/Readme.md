@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP5030T
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

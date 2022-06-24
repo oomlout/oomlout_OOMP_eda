@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-infineon-PG-VQFN-108-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

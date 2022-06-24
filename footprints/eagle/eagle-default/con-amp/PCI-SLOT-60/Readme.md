@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-amp-PCI-SLOT-60
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Round_D9.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

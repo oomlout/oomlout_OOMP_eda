@@ -1,9 +1,9 @@
 {
-    "index": 8090,
+    "index": 35590,
     "tags": [
         {
             "name": "index",
-            "value": 8090
+            "value": 35590
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/150CLZ-0810"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors SMD (Chip)&lt;/b&gt;&lt;p&gt;&#xD;\nLong life base plate, very low impedance 150 CLZ&lt;p&gt;&#xD;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

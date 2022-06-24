@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx10_Slide_Omron_A6H-10101_W6.15mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

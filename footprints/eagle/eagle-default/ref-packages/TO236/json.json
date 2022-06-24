@@ -1,9 +1,9 @@
 {
-    "index": 9387,
+    "index": 36887,
     "tags": [
         {
             "name": "index",
-            "value": 9387
+            "value": 36887
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO236"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n3-lead smd"
         },
         {
             "name": "oompID",

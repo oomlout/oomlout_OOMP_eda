@@ -1,9 +1,9 @@
 {
-    "index": 9095,
+    "index": 36595,
     "tags": [
         {
             "name": "index",
-            "value": 9095
+            "value": 36595
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT323-BEC"
+        },
+        {
+            "name": "description",
+            "value": "SOT323 Philips"
         },
         {
             "name": "oompID",

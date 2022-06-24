@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-SOT223
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Wuerth_65100516121_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

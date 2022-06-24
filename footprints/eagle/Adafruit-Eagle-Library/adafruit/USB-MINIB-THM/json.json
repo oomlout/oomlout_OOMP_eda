@@ -1,9 +1,9 @@
 {
-    "index": 626,
+    "index": 28126,
     "tags": [
         {
             "name": "index",
-            "value": 626
+            "value": 28126
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/USB-MINIB-THM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Mini USB 5-pin thru-mount connector&lt;/b&gt;\n&lt;p&gt;\n4Ucon #18732"
         },
         {
             "name": "oompID",

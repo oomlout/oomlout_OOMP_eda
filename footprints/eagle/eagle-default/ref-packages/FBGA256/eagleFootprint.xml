@@ -1,2 +1,319 @@
-
-<package name="FBGA256"></package>
+<package name="FBGA256" urn="urn:adsk.eagle:footprint:8083074/1">
+<description>&lt;b&gt;Fine Ball Grid Array&lt;/b&gt;</description>
+<wire x1="-8.5" y1="-8.5" x2="8.5" y2="-8.5" width="0.2032" layer="21"/>
+<wire x1="8.5" y1="-8.5" x2="8.5" y2="8.5" width="0.2032" layer="21"/>
+<wire x1="8.5" y1="8.5" x2="-8.5" y2="8.5" width="0.2032" layer="21"/>
+<wire x1="-8.5" y1="8.5" x2="-8.5" y2="-8.5" width="0.2032" layer="21"/>
+<wire x1="-4.834" y1="-1.357" x2="-3.818" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="-3.818" y1="1.31" x2="-3.31" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="-3.31" y1="1.31" x2="-2.421" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="-2.421" y1="-0.849" x2="-2.421" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="-2.421" y1="1.31" x2="-1.913" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="-1.913" y1="1.31" x2="-1.913" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="-1.913" y1="0.802" x2="-1.913" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="-1.913" y1="-0.849" x2="-1.024" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="-1.024" y1="-0.849" x2="-1.024" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="-1.024" y1="0.802" x2="-1.913" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="-1.913" y1="1.31" x2="0.246" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="1.31" x2="0.246" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="0.802" x2="-0.516" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="-0.516" y1="0.802" x2="-0.516" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="-0.516" y1="-1.357" x2="-2.802" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="-2.802" y1="-1.357" x2="-3.056" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="-3.056" y1="-0.849" x2="-4.072" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="-4.072" y1="-0.849" x2="-4.326" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="-4.326" y1="-1.357" x2="-4.834" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="-3.564" y1="0.802" x2="-3.945" y2="-0.341" width="0.1524" layer="51"/>
+<wire x1="-3.945" y1="-0.341" x2="-3.183" y2="-0.341" width="0.1524" layer="51"/>
+<wire x1="-3.183" y1="-0.341" x2="-3.564" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="0.802" x2="0.246" y2="0.294" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="0.294" x2="1.262" y2="0.294" width="0.1524" layer="51"/>
+<wire x1="1.262" y1="0.294" x2="1.262" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="1.262" y1="0.802" x2="0.246" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="1.31" x2="2.405" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="5.326" y1="-1.357" x2="4.31" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="4.31" y1="1.31" x2="3.802" y2="1.31" width="0.1524" layer="51"/>
+<wire x1="3.802" y1="1.31" x2="3.04" y2="-0.468" width="0.1524" layer="51"/>
+<wire x1="2.405" y1="-1.357" x2="3.294" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="3.294" y1="-1.357" x2="3.548" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="3.548" y1="-0.849" x2="4.564" y2="-0.849" width="0.1524" layer="51"/>
+<wire x1="4.564" y1="-0.849" x2="4.818" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="4.818" y1="-1.357" x2="5.326" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="4.056" y1="0.802" x2="4.437" y2="-0.341" width="0.1524" layer="51"/>
+<wire x1="4.437" y1="-0.341" x2="3.675" y2="-0.341" width="0.1524" layer="51"/>
+<wire x1="3.675" y1="-0.341" x2="4.056" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="2.278" y1="0.802" x2="2.278" y2="0.294" width="0.1524" layer="51" curve="-180"/>
+<wire x1="2.278" y1="0.802" x2="1.897" y2="0.802" width="0.1524" layer="51"/>
+<wire x1="1.897" y1="0.802" x2="1.897" y2="0.294" width="0.1524" layer="51"/>
+<wire x1="1.897" y1="0.294" x2="2.278" y2="0.294" width="0.1524" layer="51"/>
+<wire x1="1.897" y1="-0.214" x2="2.151" y2="-0.214" width="0.1524" layer="51"/>
+<wire x1="1.897" y1="-0.214" x2="1.897" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="1.897" y1="-1.357" x2="-0.389" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="-0.214" x2="1.262" y2="-0.214" width="0.1524" layer="51"/>
+<wire x1="1.262" y1="-0.214" x2="1.262" y2="-0.722" width="0.1524" layer="51"/>
+<wire x1="1.262" y1="-0.722" x2="0.246" y2="-0.722" width="0.1524" layer="51"/>
+<wire x1="0.246" y1="-0.722" x2="0.246" y2="-0.214" width="0.1524" layer="51"/>
+<wire x1="2.151" y1="-0.214" x2="2.405" y2="-0.468" width="0.1524" layer="51" curve="-90"/>
+<wire x1="2.405" y1="-0.468" x2="2.405" y2="-1.357" width="0.1524" layer="51"/>
+<wire x1="2.405" y1="1.31" x2="2.7861" y2="-0.0874" width="0.1524" layer="51" curve="-140.037079"/>
+<wire x1="2.7861" y1="-0.0871" x2="3.0398" y2="-0.5951" width="0.1524" layer="51" curve="-77.346033"/>
+<smd name="A1" x="-7.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B1" x="-7.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C1" x="-7.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D1" x="-7.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E1" x="-7.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F1" x="-7.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G1" x="-7.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H1" x="-7.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J1" x="-7.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K1" x="-7.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L1" x="-7.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M1" x="-7.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N1" x="-7.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P1" x="-7.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R1" x="-7.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T1" x="-7.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A2" x="-6.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B2" x="-6.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C2" x="-6.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D2" x="-6.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E2" x="-6.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F2" x="-6.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G2" x="-6.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H2" x="-6.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J2" x="-6.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K2" x="-6.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L2" x="-6.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M2" x="-6.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N2" x="-6.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P2" x="-6.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R2" x="-6.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T2" x="-6.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A3" x="-5.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B3" x="-5.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C3" x="-5.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D3" x="-5.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E3" x="-5.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F3" x="-5.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G3" x="-5.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H3" x="-5.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J3" x="-5.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K3" x="-5.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L3" x="-5.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M3" x="-5.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N3" x="-5.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P3" x="-5.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R3" x="-5.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T3" x="-5.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A4" x="-4.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B4" x="-4.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C4" x="-4.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D4" x="-4.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E4" x="-4.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F4" x="-4.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G4" x="-4.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H4" x="-4.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J4" x="-4.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K4" x="-4.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L4" x="-4.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M4" x="-4.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N4" x="-4.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P4" x="-4.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R4" x="-4.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T4" x="-4.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A5" x="-3.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B5" x="-3.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C5" x="-3.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D5" x="-3.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E5" x="-3.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F5" x="-3.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G5" x="-3.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H5" x="-3.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J5" x="-3.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K5" x="-3.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L5" x="-3.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M5" x="-3.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N5" x="-3.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P5" x="-3.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R5" x="-3.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T5" x="-3.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A6" x="-2.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B6" x="-2.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C6" x="-2.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D6" x="-2.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E6" x="-2.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F6" x="-2.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G6" x="-2.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H6" x="-2.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J6" x="-2.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K6" x="-2.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L6" x="-2.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M6" x="-2.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N6" x="-2.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P6" x="-2.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R6" x="-2.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T6" x="-2.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A7" x="-1.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B7" x="-1.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C7" x="-1.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D7" x="-1.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E7" x="-1.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F7" x="-1.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G7" x="-1.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H7" x="-1.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J7" x="-1.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K7" x="-1.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L7" x="-1.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M7" x="-1.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N7" x="-1.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P7" x="-1.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R7" x="-1.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T7" x="-1.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A8" x="-0.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B8" x="-0.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C8" x="-0.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D8" x="-0.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E8" x="-0.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F8" x="-0.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G8" x="-0.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H8" x="-0.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J8" x="-0.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K8" x="-0.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L8" x="-0.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M8" x="-0.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N8" x="-0.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P8" x="-0.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R8" x="-0.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T8" x="-0.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A9" x="0.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B9" x="0.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C9" x="0.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D9" x="0.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E9" x="0.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F9" x="0.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G9" x="0.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H9" x="0.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J9" x="0.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K9" x="0.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L9" x="0.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M9" x="0.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N9" x="0.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P9" x="0.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R9" x="0.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T9" x="0.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A10" x="1.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B10" x="1.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C10" x="1.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D10" x="1.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E10" x="1.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F10" x="1.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G10" x="1.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H10" x="1.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J10" x="1.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K10" x="1.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L10" x="1.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M10" x="1.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N10" x="1.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P10" x="1.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R10" x="1.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T10" x="1.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A11" x="2.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B11" x="2.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C11" x="2.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D11" x="2.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E11" x="2.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F11" x="2.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G11" x="2.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H11" x="2.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J11" x="2.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K11" x="2.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L11" x="2.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M11" x="2.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N11" x="2.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P11" x="2.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R11" x="2.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T11" x="2.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A12" x="3.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B12" x="3.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C12" x="3.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D12" x="3.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E12" x="3.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F12" x="3.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G12" x="3.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H12" x="3.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J12" x="3.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K12" x="3.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L12" x="3.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M12" x="3.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N12" x="3.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P12" x="3.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R12" x="3.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T12" x="3.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A13" x="4.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B13" x="4.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C13" x="4.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D13" x="4.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E13" x="4.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F13" x="4.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G13" x="4.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H13" x="4.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J13" x="4.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K13" x="4.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L13" x="4.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M13" x="4.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N13" x="4.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P13" x="4.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R13" x="4.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T13" x="4.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A14" x="5.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B14" x="5.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C14" x="5.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D14" x="5.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E14" x="5.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F14" x="5.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G14" x="5.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H14" x="5.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J14" x="5.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K14" x="5.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L14" x="5.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M14" x="5.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N14" x="5.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P14" x="5.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R14" x="5.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T14" x="5.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A15" x="6.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B15" x="6.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C15" x="6.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D15" x="6.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E15" x="6.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F15" x="6.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G15" x="6.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H15" x="6.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J15" x="6.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K15" x="6.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L15" x="6.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M15" x="6.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N15" x="6.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P15" x="6.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R15" x="6.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T15" x="6.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="A16" x="7.5" y="7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="B16" x="7.5" y="6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="C16" x="7.5" y="5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="D16" x="7.5" y="4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="E16" x="7.5" y="3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="F16" x="7.5" y="2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="G16" x="7.5" y="1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="H16" x="7.5" y="0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="J16" x="7.5" y="-0.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="K16" x="7.5" y="-1.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="L16" x="7.5" y="-2.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="M16" x="7.5" y="-3.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="N16" x="7.5" y="-4.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="P16" x="7.5" y="-5.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="R16" x="7.5" y="-6.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<smd name="T16" x="7.5" y="-7.5" dx="0.45" dy="0.45" layer="1" roundness="100"/>
+<text x="-8.0302" y="8.8801" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.4699" y="8.8801" size="1.27" layer="27">&gt;VALUE</text>
+<text x="-1.8971" y="-4.0249" size="0.8128" layer="51">FBGA256</text>
+</package>

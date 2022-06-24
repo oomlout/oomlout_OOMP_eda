@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

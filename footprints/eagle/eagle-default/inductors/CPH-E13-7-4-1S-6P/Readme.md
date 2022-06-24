@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-CPH-E13/7/4-1S-6P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

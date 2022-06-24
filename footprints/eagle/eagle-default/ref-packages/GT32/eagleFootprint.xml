@@ -1,2 +1,28 @@
-
-<package name="GT32"></package>
+<package name="GT32" urn="urn:adsk.eagle:footprint:8083373/1">
+<description>&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 2.54 mm, horizontal, grid 7.62 mm</description>
+<wire x1="2.032" y1="-1.27" x2="-2.032" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="2.032" y1="-1.27" x2="2.032" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-2.032" y1="1.27" x2="2.032" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-2.032" y1="1.27" x2="-2.032" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="3.81" y1="0" x2="2.794" y2="0" width="0.762" layer="51"/>
+<wire x1="-3.81" y1="0" x2="-2.794" y2="0" width="0.762" layer="51"/>
+<wire x1="1.016" y1="0.635" x2="1.016" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="1.016" y1="-0.635" x2="0" y2="0" width="0.1524" layer="21"/>
+<wire x1="0" y1="0" x2="1.016" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-1.016" y1="-0.635" x2="-1.016" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-1.016" y1="0.635" x2="0" y2="0" width="0.1524" layer="21"/>
+<wire x1="0" y1="0" x2="-1.397" y2="0" width="0.1524" layer="21"/>
+<wire x1="0" y1="0" x2="-1.016" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="0" y1="0" x2="1.524" y2="0" width="0.1524" layer="21"/>
+<wire x1="-0.254" y1="-0.635" x2="0" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="0" y1="-0.635" x2="0" y2="0" width="0.1524" layer="21"/>
+<wire x1="0.254" y1="0.635" x2="0" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="0" y1="0.635" x2="0" y2="0" width="0.1524" layer="21"/>
+<pad name="1" x="-3.81" y="0" drill="1.1176" shape="octagon"/>
+<pad name="2" x="3.81" y="0" drill="1.1176" shape="octagon"/>
+<text x="-2.032" y="1.524" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.032" y="-2.794" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="2.032" y1="-0.381" x2="2.667" y2="0.381" layer="21"/>
+<rectangle x1="-2.667" y1="-0.381" x2="-2.032" y2="0.381" layer="21"/>
+</package>

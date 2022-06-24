@@ -1,9 +1,9 @@
 {
-    "index": 8118,
+    "index": 35618,
     "tags": [
         {
             "name": "index",
-            "value": 8118
+            "value": 35618
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/B45181C"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nbody 12.7 x 7.6 mm, rectangle, grid 10.16 mm"
         },
         {
             "name": "oompID",

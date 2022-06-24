@@ -1,4 +1,3 @@
-
 <package name="INDUCTOR_5X5MM_TDK_VLC5045">
 <description>&lt;b&gt;Source: http://www.tdk.co.jp/tefe02/e531_vlc5045.pdf&lt;/b&gt;</description>
 <wire x1="-2.5" y1="2.5" x2="2.5" y2="2.5" width="0.127" layer="51"/>

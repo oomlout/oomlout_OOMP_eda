@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_SDIP-25L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

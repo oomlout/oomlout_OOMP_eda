@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOD106-W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

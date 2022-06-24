@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Dual_Horizontal_Switch
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

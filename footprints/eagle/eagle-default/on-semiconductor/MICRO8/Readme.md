@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-on-semiconductor-MICRO8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

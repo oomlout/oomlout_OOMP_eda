@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-display-lcd-EA_DIP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

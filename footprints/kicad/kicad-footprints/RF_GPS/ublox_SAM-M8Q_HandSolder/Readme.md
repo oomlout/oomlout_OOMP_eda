@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

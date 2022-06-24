@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RN2483
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

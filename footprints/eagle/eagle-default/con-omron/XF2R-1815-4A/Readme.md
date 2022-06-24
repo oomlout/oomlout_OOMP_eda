@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2R-1815-4A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

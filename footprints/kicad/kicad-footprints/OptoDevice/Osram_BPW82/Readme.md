@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW82
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

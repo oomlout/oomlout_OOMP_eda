@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X02_RA_PTH_FEMALE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

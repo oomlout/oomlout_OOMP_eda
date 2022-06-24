@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

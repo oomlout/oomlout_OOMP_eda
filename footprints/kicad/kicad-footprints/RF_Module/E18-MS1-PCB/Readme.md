@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-E18-MS1-PCB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

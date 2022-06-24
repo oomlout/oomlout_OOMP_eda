@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

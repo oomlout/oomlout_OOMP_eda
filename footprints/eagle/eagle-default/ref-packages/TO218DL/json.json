@@ -1,9 +1,9 @@
 {
-    "index": 9346,
+    "index": 36846,
     "tags": [
         {
             "name": "index",
-            "value": 9346
+            "value": 36846
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO218DL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO 218D&lt;/b&gt; horizontal (Anode1; Anode2; Gate)"
         },
         {
             "name": "oompID",

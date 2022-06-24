@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_Mini_Keystone_3568
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

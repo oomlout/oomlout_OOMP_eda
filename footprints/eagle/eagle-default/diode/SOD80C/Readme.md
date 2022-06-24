@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SOD80C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

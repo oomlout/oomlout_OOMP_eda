@@ -1,9 +1,9 @@
 {
-    "index": 14182,
+    "index": 41682,
     "tags": [
         {
             "name": "index",
-            "value": 14182
+            "value": 41682
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/BC9VPC"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;9V Battery Holder (Open) - PTH&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:2&lt;/li&gt;\n&lt;li&gt;Area: 2.15&quot;x1.20&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;BC9VPC&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

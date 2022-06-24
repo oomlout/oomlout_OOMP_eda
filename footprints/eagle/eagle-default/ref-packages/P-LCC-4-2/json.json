@@ -1,9 +1,9 @@
 {
-    "index": 8628,
+    "index": 36128,
     "tags": [
         {
             "name": "index",
-            "value": 8628
+            "value": 36128
         },
         {
             "name": "hexID",
@@ -27,15 +27,19 @@
         },
         {
             "name": "oompIndex",
-            "value": "P-LCC-4-2"
+            "value": "P-LCC-4/2"
         },
         {
             "name": "oompName",
-            "value": "eagle-default/ref-packages/P-LCC-4-2"
+            "value": "eagle-default/ref-packages/P-LCC-4/2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper TOPLED &lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LOG_LSG T671.pdf"
         },
         {
             "name": "oompID",
-            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-4-2"
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-P-LCC-4/2"
         },
         {
             "name": "name",

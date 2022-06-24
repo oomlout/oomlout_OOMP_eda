@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

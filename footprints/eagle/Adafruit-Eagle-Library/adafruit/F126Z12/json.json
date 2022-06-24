@@ -1,9 +1,9 @@
 {
-    "index": 351,
+    "index": 27851,
     "tags": [
         {
             "name": "index",
-            "value": 351
+            "value": 27851
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/F126Z12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;\ndiameter 3 mm, horizontal, grid 12.7 mm"
         },
         {
             "name": "oompID",

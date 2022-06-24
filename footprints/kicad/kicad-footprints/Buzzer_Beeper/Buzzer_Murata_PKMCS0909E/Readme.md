@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKMCS0909E
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

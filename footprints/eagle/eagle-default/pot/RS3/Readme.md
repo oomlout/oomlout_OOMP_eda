@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pot-RS3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

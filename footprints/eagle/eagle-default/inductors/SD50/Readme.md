@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-SD50
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

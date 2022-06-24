@@ -1,9 +1,9 @@
 {
-    "index": 14239,
+    "index": 41739,
     "tags": [
         {
             "name": "index",
-            "value": 14239
+            "value": 41739
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MAGJACK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;RJ45 Ethernet MagJack-Compatible&lt;/h3&gt;\ntDocu shows where the cable plugs in\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 14&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/MagJack.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;MAGJACK&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

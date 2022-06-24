@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT70-ATC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

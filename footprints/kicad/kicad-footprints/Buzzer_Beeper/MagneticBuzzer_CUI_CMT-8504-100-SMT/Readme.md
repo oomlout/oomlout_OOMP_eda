@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

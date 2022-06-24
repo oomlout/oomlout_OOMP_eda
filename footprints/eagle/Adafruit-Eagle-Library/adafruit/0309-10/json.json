@@ -1,9 +1,9 @@
 {
-    "index": 11,
+    "index": 27511,
     "tags": [
         {
             "name": "index",
-            "value": 11
+            "value": 27511
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/0309/10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\ntype 0309, grid 10mm"
         },
         {
             "name": "oompID",

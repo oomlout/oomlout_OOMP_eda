@@ -1,9 +1,9 @@
 {
-    "index": 8824,
+    "index": 36324,
     "tags": [
         {
             "name": "index",
-            "value": 8824
+            "value": 36324
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM3339P"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;&#xD;\nCermet MIL-R-22097"
         },
         {
             "name": "oompID",

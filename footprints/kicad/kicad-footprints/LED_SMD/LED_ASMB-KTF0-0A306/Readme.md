@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

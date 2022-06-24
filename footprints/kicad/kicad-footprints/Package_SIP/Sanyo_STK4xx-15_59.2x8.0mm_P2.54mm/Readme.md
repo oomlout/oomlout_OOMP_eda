@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

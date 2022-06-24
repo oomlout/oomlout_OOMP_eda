@@ -1,9 +1,9 @@
 {
-    "index": 8989,
+    "index": 36489,
     "tags": [
         {
             "name": "index",
-            "value": 8989
+            "value": 36489
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOD80C"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;"
         },
         {
             "name": "oompID",

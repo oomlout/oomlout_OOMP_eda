@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

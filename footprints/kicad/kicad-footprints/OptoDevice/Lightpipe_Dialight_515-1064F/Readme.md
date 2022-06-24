@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Dialight_515-1064F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

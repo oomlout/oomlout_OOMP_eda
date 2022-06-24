@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_01005_0402Metric
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

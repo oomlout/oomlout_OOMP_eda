@@ -1,4 +1,3 @@
-
 <package name="MAGJACK-SYM_LED">
 <description>LPJ0284GDNL, HR861153C</description>
 <wire x1="-7.875" y1="10.595" x2="7.875" y2="10.595" width="0.05" layer="51"/>

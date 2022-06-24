@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Osram_Lx_P47F_D2mm_ReverseMount
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

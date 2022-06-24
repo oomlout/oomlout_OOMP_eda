@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X240
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

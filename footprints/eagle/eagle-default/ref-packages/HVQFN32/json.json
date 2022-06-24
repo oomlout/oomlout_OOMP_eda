@@ -1,9 +1,9 @@
 {
-    "index": 8477,
+    "index": 35977,
     "tags": [
         {
             "name": "index",
-            "value": 8477
+            "value": 35977
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/HVQFN32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;HVQFN32&lt;/b&gt; (SOT617-3) 5 x 5 x .85 mm,  Pitch 0.5mm&lt;p&gt;&#xD;\nSource: http://www.semiconductors.philips.com/acrobat_download/datasheets/TDA9885_TDA9886_2.pdf"
         },
         {
             "name": "oompID",

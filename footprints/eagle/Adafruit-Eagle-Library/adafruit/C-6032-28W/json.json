@@ -1,9 +1,9 @@
 {
-    "index": 168,
+    "index": 27668,
     "tags": [
         {
             "name": "index",
-            "value": 168
+            "value": 27668
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C/6032-28W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET C / EIA 6032-28 Wafe solder&lt;/b&gt;&lt;p&gt;\nKEMET U / EIA 6032-15"
         },
         {
             "name": "oompID",

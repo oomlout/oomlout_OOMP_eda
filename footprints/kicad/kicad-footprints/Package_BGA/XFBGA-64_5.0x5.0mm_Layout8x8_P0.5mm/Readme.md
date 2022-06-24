@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9269,
+    "index": 36769,
     "tags": [
         {
             "name": "index",
-            "value": 9269
+            "value": 36769
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SSO56"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SSO56&lt;/b&gt;&lt;p&gt;&#xD;\nsmall outline integrated circuit/JEDEC MO-118AB"
         },
         {
             "name": "oompID",

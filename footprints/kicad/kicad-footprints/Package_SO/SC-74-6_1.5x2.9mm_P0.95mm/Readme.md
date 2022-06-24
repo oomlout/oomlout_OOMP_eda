@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SC-74-6_1.5x2.9mm_P0.95mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

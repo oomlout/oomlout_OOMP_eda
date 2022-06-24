@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-SOH28-SNAPHAT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

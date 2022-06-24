@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

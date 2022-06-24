@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak2-6_1.0x1.0mm_P0.35mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

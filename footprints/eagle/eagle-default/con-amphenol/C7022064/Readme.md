@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-amphenol-C7022064
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

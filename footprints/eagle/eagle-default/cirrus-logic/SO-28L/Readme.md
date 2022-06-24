@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

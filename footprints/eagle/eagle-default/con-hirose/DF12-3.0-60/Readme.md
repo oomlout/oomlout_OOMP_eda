@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirose-DF12-3.0-60
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBU
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

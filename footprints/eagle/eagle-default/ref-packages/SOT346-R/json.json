@@ -1,9 +1,9 @@
 {
-    "index": 9106,
+    "index": 36606,
     "tags": [
         {
             "name": "index",
-            "value": 9106
+            "value": 36606
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT346-R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT346 Reflow soldering&lt;/b&gt; (SC59) Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

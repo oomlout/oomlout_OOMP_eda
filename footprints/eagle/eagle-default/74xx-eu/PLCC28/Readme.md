@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74xx-eu-PLCC28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

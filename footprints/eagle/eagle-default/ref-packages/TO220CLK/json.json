@@ -1,9 +1,9 @@
 {
-    "index": 9376,
+    "index": 36876,
     "tags": [
         {
             "name": "index",
-            "value": 9376
+            "value": 36876
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220CLK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO 220 CLK&lt;/b&gt; horizontal (Cathode; Anode; Gate)"
         },
         {
             "name": "oompID",

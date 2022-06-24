@@ -1,9 +1,9 @@
 {
-    "index": 478,
+    "index": 27978,
     "tags": [
         {
             "name": "index",
-            "value": 478
+            "value": 27978
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/QFN28-ML_6X6MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFN28-ML_6X6MM&lt;/b&gt;&lt;p&gt;\nSource: http://www.microchip.com .. 39637a.pdf"
         },
         {
             "name": "oompID",

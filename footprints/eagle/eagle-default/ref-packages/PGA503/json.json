@@ -1,9 +1,9 @@
 {
-    "index": 8675,
+    "index": 36175,
     "tags": [
         {
             "name": "index",
-            "value": 8675
+            "value": 36175
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PGA503"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Pin Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

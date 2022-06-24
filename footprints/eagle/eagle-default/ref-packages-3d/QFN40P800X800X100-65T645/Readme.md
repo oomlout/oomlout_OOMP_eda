@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-QFN40P800X800X100-65T645
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

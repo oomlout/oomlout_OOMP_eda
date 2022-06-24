@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-TO252
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

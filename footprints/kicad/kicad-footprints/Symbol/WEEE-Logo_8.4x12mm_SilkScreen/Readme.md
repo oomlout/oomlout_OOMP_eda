@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-WEEE-Logo_8.4x12mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

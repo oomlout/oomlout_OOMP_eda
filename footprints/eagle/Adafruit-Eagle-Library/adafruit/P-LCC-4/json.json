@@ -1,9 +1,9 @@
 {
-    "index": 446,
+    "index": 27946,
     "tags": [
         {
             "name": "index",
-            "value": 446
+            "value": 27946
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/P-LCC-4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Power TOPLED&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... LA_LO_LA_LY E67B.pdf"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-0805-THM-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

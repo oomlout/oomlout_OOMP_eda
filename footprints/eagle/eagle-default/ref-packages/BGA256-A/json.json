@@ -1,9 +1,9 @@
 {
-    "index": 8121,
+    "index": 35621,
     "tags": [
         {
             "name": "index",
-            "value": 8121
+            "value": 35621
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/BGA256-A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Ball Grid Array&lt;/b&gt; Type A"
         },
         {
             "name": "oompID",

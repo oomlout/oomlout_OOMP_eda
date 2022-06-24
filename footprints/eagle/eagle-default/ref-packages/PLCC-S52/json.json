@@ -1,9 +1,9 @@
 {
-    "index": 8686,
+    "index": 36186,
     "tags": [
         {
             "name": "index",
-            "value": 8686
+            "value": 36186
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PLCC-S52"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Leaded Chip Carrier&lt;/b&gt; Socked"
         },
         {
             "name": "oompID",

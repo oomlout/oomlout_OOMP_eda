@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-CONN_FPC_BOTTOM_12POS_.5MM_R/A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

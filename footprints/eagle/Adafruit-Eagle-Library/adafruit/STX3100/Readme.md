@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-STX3100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,9 @@ Contents
 - oompDesc: adafruit
 - oompIndex: STX3100
 - oompName: Adafruit-Eagle-Library/adafruit/STX3100
+- description: &lt;b&gt;MIC/HEADPHONE JACK&lt;/b&gt;&lt;p&gt;
+KS-S stereo microphone/headphone jack&lt;p&gt;
+ PG203JN (Schukat)
 
 
 

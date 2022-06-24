@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-6X6-32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

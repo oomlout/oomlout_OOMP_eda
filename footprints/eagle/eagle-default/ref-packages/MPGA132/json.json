@@ -1,9 +1,9 @@
 {
-    "index": 8596,
+    "index": 36096,
     "tags": [
         {
             "name": "index",
-            "value": 8596
+            "value": 36096
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MPGA132"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;micro Ball Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_3Pin
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

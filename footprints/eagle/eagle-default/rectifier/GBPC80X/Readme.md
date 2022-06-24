@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-GBPC80X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H13mm_9771130360
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

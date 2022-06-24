@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-hirschmann-MPB1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

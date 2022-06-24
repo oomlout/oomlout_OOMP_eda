@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-nkl-B42
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

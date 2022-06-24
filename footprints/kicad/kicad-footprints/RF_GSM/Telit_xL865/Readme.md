@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

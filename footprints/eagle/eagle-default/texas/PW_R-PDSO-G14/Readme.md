@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-PW_R-PDSO-G14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

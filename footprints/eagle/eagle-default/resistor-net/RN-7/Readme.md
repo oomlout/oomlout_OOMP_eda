@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-net-RN-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

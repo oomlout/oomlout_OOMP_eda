@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "L3225M")
 newPart.addTag("oompName", "eagle-default/ref-packages/L3225M")
 
+newPart.addTag("description", """&lt;b&gt;INDUCTOR&lt;/b&gt;&lt;p&gt;&#xD;
+molded""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-L3225M",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='L3225M')
 
 OOMP.parts.append(newPart)

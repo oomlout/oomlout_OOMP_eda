@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SSOP28
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SSOP28
 - oompName: eagle-default/ref-packages/SSOP28
+- description: &lt;b&gt;Shrink Small Outline Package&lt;/b&gt;&lt;p&gt;&#xD;
+package type SS
+
+
+
+[im]: image.png

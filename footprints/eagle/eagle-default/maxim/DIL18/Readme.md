@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-DIL18
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

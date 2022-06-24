@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-07X10-60
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SQFP-R-07X10-60
 - oompName: eagle-default/ref-packages/SQFP-R-07X10-60
+- description: &lt;b&gt;QFP60&lt;/b&gt;&lt;p&gt;&#xD;
+shrink quad flat pack, rectangle
+
+
+
+[im]: image.png

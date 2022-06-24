@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-LAN02KR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

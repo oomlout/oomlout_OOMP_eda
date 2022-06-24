@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-harris-PLCC28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

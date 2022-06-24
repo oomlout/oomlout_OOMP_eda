@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_Micro-B_Connfly_DS1104-01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

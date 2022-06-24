@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-molex-87360-SCSI
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

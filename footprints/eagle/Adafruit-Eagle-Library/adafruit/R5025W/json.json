@@ -1,9 +1,9 @@
 {
-    "index": 501,
+    "index": 28001,
     "tags": [
         {
             "name": "index",
-            "value": 501
+            "value": 28001
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R5025W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

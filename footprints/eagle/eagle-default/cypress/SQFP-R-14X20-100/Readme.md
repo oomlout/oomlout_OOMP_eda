@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800311622_1x03_P1.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

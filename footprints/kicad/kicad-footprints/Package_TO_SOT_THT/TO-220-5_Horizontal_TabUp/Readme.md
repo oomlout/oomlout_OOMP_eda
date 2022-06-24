@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Horizontal_TabUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

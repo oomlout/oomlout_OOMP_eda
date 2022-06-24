@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Bourns_CD-DF4xxS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

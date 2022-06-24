@@ -1,9 +1,9 @@
 {
-    "index": 8297,
+    "index": 35797,
     "tags": [
         {
             "name": "index",
-            "value": 8297
+            "value": 35797
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DIL08-OPTO"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Dula In Line&lt;/b&gt;&lt;p&gt;&#xD;\nThis dual-in-line package consists of an integrated circuit mounted on a lead frame and encapsulated with an&#xD;\nelectrically nonconductive clear plastic compound. The photodiode area is typically 1.36 mm2&lt;p&gt;&#xD;\nfrom tsl230.pdf TAOS004 - MAY 1999"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MOLEX_480371000
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

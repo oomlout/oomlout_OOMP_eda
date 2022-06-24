@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P1030X250-25T200X300
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

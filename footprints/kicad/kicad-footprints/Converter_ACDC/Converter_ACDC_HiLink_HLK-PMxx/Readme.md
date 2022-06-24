@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_HiLink_HLK-PMxx
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

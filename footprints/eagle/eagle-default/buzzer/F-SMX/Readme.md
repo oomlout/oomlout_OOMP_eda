@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-F/SMX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

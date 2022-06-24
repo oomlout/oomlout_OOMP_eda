@@ -1,9 +1,9 @@
 {
-    "index": 8690,
+    "index": 36190,
     "tags": [
         {
             "name": "index",
-            "value": 8690
+            "value": 36190
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PLCC-SR32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;PLCC32 Socket&lt;/B&gt;"
         },
         {
             "name": "oompID",

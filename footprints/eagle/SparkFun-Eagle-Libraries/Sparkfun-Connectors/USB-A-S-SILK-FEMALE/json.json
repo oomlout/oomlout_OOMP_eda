@@ -1,9 +1,9 @@
 {
-    "index": 14326,
+    "index": 41826,
     "tags": [
         {
             "name": "index",
-            "value": 14326
+            "value": 41826
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB-A-S-SILK-FEMALE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Type 'A' Female Connector - SMT Silk Outline&lt;/h3&gt;\nShield pins may be grounded.\n&lt;br&gt; tDocu shows plug end. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href= https://www.sparkfun.com/datasheets/Prototyping/Connectors/USBFemaleTypeA.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;USB_A&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

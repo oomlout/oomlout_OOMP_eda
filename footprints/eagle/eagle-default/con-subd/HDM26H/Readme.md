@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-subd-HDM26H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

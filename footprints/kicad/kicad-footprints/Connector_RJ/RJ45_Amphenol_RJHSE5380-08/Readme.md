@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJHSE5380-08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

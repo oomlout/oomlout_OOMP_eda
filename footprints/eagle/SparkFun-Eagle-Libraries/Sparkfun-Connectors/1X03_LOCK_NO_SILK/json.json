@@ -1,9 +1,9 @@
 {
-    "index": 13966,
+    "index": 41466,
     "tags": [
         {
             "name": "index",
-            "value": 13966
+            "value": 41466
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_NO_SILK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole - 3 Pin Locking Footprint w/out Silk Outline&lt;/h3&gt;\nHoles are offset from center 0.005&quot; to lock pins in place while soldering. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:3&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_03&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

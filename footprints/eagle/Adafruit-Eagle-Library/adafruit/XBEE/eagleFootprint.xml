@@ -1,4 +1,3 @@
-
 <package name="XBEE">
 <wire x1="-12.5" y1="-14" x2="12.5" y2="-14" width="0.127" layer="21"/>
 <wire x1="12.5" y1="-14" x2="12.5" y2="7" width="0.127" layer="21"/>

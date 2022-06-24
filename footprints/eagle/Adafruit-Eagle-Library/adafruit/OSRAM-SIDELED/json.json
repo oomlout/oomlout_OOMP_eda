@@ -1,9 +1,9 @@
 {
-    "index": 443,
+    "index": 27943,
     "tags": [
         {
             "name": "index",
-            "value": 443
+            "value": 27943
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/OSRAM-SIDELED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Super SIDELED High-Current LED&lt;/b&gt;&lt;p&gt;\nLG A672, LP A672 &lt;br&gt;\nSource: http://www.osram.convergy.de/ ... LG_LP_A672.pdf (2004.05.13)"
         },
         {
             "name": "oompID",

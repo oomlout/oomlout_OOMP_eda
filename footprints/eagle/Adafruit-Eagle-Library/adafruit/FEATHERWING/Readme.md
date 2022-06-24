@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FEATHERWING
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

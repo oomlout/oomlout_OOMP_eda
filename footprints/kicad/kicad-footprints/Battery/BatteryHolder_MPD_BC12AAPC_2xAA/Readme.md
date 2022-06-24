@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC12AAPC_2xAA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

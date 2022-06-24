@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D50.8mm_P38.86mm_Vishay_IHB-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

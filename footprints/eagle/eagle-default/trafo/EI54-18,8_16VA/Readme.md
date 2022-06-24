@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-EI54-18,8_16VA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

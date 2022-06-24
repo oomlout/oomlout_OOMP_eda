@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-R2012
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: R2012
 - oompName: eagle-default/ref-packages/R2012
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;
+wave soldering
+
+
+
+[im]: image.png

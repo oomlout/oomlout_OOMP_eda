@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TC26H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: TC26H
 - oompName: Adafruit-Eagle-Library/adafruit/TC26H
+- description: &lt;b&gt;CRYSTAL&lt;/b&gt;
 
 
 

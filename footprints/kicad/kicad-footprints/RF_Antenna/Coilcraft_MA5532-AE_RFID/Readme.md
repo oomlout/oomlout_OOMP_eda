@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

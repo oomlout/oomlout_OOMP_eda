@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-silabs-8-PIN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-EB2505
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

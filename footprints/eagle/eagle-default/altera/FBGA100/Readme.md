@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-altera-FBGA100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

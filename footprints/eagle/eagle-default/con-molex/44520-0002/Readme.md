@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-molex-44520-0002
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

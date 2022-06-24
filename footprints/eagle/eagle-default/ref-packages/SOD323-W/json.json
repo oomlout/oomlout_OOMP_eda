@@ -1,9 +1,9 @@
 {
-    "index": 8971,
+    "index": 36471,
     "tags": [
         {
             "name": "index",
-            "value": 8971
+            "value": 36471
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOD323-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOD323 Wave soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

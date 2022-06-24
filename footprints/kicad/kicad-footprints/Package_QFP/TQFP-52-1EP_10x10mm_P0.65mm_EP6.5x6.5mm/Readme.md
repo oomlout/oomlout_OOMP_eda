@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

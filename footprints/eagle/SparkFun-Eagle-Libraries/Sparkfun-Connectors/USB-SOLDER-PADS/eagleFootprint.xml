@@ -1,4 +1,3 @@
-
 <package name="USB-SOLDER-PADS">
 <smd name="D-" x="0" y="0.889" dx="3" dy="0.9" layer="1" cream="no"/>
 <smd name="VBUS" x="0" y="2.667" dx="3" dy="0.9" layer="1" cream="no"/>

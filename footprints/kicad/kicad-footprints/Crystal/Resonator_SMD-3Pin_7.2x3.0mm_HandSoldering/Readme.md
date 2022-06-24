@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

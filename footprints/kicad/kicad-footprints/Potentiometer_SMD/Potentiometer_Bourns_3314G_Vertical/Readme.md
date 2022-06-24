@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314G_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

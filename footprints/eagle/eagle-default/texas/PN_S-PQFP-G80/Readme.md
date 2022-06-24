@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-PN_S-PQFP-G80
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

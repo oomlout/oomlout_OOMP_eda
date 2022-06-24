@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-silabs-QFN-10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

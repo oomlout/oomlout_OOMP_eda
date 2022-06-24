@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fordahl_DFAS2-4Pin_7.3x5.1mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-CR03N
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

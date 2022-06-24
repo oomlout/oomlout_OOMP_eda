@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00088_1x12_P10.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

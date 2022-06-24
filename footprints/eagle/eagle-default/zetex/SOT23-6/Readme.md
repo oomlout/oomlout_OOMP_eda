@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-zetex-SOT23-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

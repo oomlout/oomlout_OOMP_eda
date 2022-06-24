@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-JD-T1800
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

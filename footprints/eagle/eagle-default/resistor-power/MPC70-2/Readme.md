@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-MPC70-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

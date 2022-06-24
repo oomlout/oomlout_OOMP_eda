@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX10-P-SP2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

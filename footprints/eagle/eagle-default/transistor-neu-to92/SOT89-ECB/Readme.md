@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT89-ECB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

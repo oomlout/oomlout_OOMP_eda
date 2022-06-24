@@ -1,9 +1,9 @@
 {
-    "index": 14314,
+    "index": 41814,
     "tags": [
         {
             "name": "index",
-            "value": 14314
+            "value": 41814
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SPRINGTERMINAL-2.54MM-2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Spring Terminal- PCB Mount 2 Pin PTH&lt;/h3&gt;\ntDocu marks the spring arms\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 4&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/SpringTerminal.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_02&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

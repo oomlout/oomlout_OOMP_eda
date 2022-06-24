@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UFQFPN-20_3x3mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

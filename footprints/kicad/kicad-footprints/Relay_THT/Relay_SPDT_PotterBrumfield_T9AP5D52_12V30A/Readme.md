@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_PotterBrumfield_T9AP5D52_12V30A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

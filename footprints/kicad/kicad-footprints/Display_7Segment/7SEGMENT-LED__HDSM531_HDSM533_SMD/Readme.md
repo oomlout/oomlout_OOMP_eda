@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SEGMENT-LED__HDSM531_HDSM533_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

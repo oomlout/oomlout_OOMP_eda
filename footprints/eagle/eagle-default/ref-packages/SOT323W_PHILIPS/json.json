@@ -1,9 +1,9 @@
 {
-    "index": 9102,
+    "index": 36602,
     "tags": [
         {
             "name": "index",
-            "value": 9102
+            "value": 36602
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT323W_PHILIPS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor&lt;/b&gt; Wave soldering&lt;p&gt;&#xD;\nPhilips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

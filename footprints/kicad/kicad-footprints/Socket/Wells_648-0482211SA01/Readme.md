@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

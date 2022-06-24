@@ -1,9 +1,9 @@
 {
-    "index": 8809,
+    "index": 36309,
     "tags": [
         {
             "name": "index",
-            "value": 8809
+            "value": 36309
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM3103"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; MEGGIT"
         },
         {
             "name": "oompID",

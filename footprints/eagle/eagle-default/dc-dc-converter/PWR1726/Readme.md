@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-dc-dc-converter-PWR1726
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

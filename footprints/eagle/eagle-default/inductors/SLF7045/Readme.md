@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-SLF7045
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

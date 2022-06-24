@@ -1,9 +1,9 @@
 {
-    "index": 301,
+    "index": 27801,
     "tags": [
         {
             "name": "index",
-            "value": 301
+            "value": 27801
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/E2-4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 2 mm, diameter 4 mm"
         },
         {
             "name": "oompID",

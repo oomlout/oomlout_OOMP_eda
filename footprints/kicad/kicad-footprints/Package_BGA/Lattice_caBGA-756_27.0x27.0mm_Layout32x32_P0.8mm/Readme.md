@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

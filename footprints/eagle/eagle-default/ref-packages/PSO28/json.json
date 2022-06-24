@@ -1,9 +1,9 @@
 {
-    "index": 8736,
+    "index": 36236,
     "tags": [
         {
             "name": "index",
-            "value": 8736
+            "value": 36236
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PSO28"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLASTIC SMALL-OUTLINE PACKAGE&lt;/b&gt;&lt;p&gt;&#xD;\nPW (R-PDSO-G**)&lt;br&gt;&#xD;\nwww.ti.com; tas3001.pdf"
         },
         {
             "name": "oompID",

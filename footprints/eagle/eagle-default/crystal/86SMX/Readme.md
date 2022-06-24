@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-crystal-86SMX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

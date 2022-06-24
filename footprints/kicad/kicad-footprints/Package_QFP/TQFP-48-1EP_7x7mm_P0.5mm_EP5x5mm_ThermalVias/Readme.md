@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

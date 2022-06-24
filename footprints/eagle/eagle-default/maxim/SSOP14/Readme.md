@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-SSOP14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-LTC-4627Jx
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

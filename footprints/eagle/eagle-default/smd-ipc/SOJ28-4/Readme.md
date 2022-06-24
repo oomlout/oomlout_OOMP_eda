@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-SOJ28-4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

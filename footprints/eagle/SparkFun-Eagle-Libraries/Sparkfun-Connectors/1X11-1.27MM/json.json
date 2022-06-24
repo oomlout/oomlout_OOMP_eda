@@ -1,9 +1,9 @@
 {
-    "index": 14049,
+    "index": 41549,
     "tags": [
         {
             "name": "index",
-            "value": 14049
+            "value": 41549
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X11-1.27MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole -11 Pin 1.27mm&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:11&lt;/li&gt;\n&lt;li&gt;Pin pitch:1.27mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_11&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

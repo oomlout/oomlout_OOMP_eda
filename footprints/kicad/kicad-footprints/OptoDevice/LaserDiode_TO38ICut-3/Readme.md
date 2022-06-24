@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO38ICut-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

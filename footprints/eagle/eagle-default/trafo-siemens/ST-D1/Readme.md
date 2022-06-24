@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-ST-D1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

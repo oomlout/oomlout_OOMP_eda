@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-MICROSD_TINY
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

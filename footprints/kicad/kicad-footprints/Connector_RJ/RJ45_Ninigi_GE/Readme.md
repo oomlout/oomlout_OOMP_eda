@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Ninigi_GE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

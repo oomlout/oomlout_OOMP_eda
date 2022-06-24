@@ -1,9 +1,9 @@
 {
-    "index": 631,
+    "index": 28131,
     "tags": [
         {
             "name": "index",
-            "value": 631
+            "value": 28131
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/V235/17"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\ntype V235, grid 17.78 mm"
         },
         {
             "name": "oompID",

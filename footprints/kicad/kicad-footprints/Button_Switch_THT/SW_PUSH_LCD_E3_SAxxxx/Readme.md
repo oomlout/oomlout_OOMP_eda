@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

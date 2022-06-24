@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-PANASONIC_G
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

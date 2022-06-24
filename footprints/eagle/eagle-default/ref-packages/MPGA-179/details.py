@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,8 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "MPGA-179")
 newPart.addTag("oompName", "eagle-default/ref-packages/MPGA-179")
 
+newPart.addTag("description", """&lt;b&gt;Micro Pin Grid Array&lt;/b&gt;""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-MPGA-179",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='MPGA-179')
 
 OOMP.parts.append(newPart)

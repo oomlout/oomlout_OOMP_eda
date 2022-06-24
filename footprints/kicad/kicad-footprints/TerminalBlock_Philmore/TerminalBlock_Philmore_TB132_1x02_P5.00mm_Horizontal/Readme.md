@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Philmore-TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

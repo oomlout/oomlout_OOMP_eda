@@ -1,9 +1,9 @@
 {
-    "index": 9562,
+    "index": 37062,
     "tags": [
         {
             "name": "index",
-            "value": 9562
+            "value": 37062
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/XC27B15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;X CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;\nbody 32 x 15 mm, grid 27.9 mm"
         },
         {
             "name": "oompID",

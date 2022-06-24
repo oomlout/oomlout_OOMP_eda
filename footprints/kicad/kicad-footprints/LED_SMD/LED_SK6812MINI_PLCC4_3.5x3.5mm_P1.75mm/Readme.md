@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

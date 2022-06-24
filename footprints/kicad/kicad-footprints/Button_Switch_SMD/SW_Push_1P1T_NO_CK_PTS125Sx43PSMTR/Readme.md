@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

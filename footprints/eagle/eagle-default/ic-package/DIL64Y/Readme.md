@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ic-package-DIL64Y
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

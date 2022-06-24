@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105_Reverse
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

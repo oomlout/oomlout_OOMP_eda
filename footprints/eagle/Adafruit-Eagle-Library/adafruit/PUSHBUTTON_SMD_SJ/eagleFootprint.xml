@@ -1,4 +1,3 @@
-
 <package name="PUSHBUTTON_SMD_SJ">
 <wire x1="-2.9997" y1="3" x2="3" y2="3" width="0.127" layer="51"/>
 <wire x1="3" y1="3" x2="3" y2="-3" width="0.2032" layer="51"/>

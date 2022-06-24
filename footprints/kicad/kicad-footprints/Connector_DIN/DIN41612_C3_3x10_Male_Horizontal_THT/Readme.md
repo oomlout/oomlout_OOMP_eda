@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C3_3x10_Male_Horizontal_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

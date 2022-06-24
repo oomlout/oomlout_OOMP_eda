@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_CK-JS102011SAQN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

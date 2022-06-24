@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

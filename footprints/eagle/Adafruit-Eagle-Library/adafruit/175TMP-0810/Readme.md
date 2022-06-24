@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-175TMP-0810
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,9 @@ Contents
 - oompDesc: adafruit
 - oompIndex: 175TMP-0810
 - oompName: Adafruit-Eagle-Library/adafruit/175TMP-0810
+- description: &lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt;&lt;p&gt;
+High Temperature solid electrolytic SMD 175 TMP&lt;p&gt;
+http://www.bccomponents.com/
 
 
 

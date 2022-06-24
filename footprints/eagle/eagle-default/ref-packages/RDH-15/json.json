@@ -1,9 +1,9 @@
 {
-    "index": 8803,
+    "index": 36303,
     "tags": [
         {
             "name": "index",
-            "value": 8803
+            "value": 36303
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RDH/15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;\ntype RDH, grid 15 mm"
         },
         {
             "name": "oompID",

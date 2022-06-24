@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_3turn_HAM0331A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

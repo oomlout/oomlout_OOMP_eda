@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RWH0032A_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

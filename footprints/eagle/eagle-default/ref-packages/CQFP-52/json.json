@@ -1,9 +1,9 @@
 {
-    "index": 8256,
+    "index": 35756,
     "tags": [
         {
             "name": "index",
-            "value": 8256
+            "value": 35756
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CQFP-52"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CERAMIC QUAD FLAT PACK&lt;/b&gt;"
         },
         {
             "name": "oompID",

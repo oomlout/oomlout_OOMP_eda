@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-CMWX1ZZABZ
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

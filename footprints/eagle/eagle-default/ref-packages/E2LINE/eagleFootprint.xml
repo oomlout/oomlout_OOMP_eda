@@ -1,2 +1,13 @@
-
-<package name="E2LINE"></package>
+<package name="E2LINE" urn="urn:adsk.eagle:footprint:8086231/1">
+<description>&lt;b&gt;2 lead Package&lt;/b&gt;</description>
+<wire x1="-1.1" y1="2.25" x2="0" y2="2.25" width="0.2032" layer="21"/>
+<wire x1="0" y1="2.25" x2="1.1" y2="1.15" width="0.2032" layer="21" curve="-90"/>
+<wire x1="1.1" y1="1.15" x2="1.1" y2="-1.15" width="0.2032" layer="21"/>
+<wire x1="0" y1="-2.25" x2="1.1" y2="-1.15" width="0.2032" layer="21" curve="90"/>
+<wire x1="0" y1="-2.25" x2="-1.1" y2="-2.25" width="0.2032" layer="21"/>
+<wire x1="-1.1" y1="-2.25" x2="-1.1" y2="2.25" width="0.2032" layer="21"/>
+<pad name="1" x="0" y="-1.27" drill="0.8" diameter="1.397"/>
+<pad name="2" x="0" y="1.27" drill="0.8" diameter="1.397"/>
+<text x="-1.15" y="2.45" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.2" y="-3.75" size="1.27" layer="27">&gt;VALUE</text>
+</package>

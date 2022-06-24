@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-CT3528
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: CT3528
 - oompName: eagle-default/ref-packages/CT3528
+- description: &lt;b&gt;TANTALUM CAPACITOR&lt;/b&gt;
+
+
+
+[im]: image.png

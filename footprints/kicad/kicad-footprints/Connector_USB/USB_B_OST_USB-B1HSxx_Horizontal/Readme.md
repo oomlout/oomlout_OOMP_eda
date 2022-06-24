@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_OST_USB-B1HSxx_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

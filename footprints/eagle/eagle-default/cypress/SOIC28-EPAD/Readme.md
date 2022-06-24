@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-cypress-SOIC28-EPAD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

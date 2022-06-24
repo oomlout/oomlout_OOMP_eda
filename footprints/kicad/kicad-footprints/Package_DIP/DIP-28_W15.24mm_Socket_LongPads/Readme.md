@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-28_W15.24mm_Socket_LongPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

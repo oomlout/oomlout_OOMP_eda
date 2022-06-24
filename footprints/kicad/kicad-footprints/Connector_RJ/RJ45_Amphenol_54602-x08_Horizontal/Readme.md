@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_54602-x08_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

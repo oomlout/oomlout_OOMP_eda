@@ -1,9 +1,9 @@
 {
-    "index": 8260,
+    "index": 35760,
     "tags": [
         {
             "name": "index",
-            "value": 8260
+            "value": 35760
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CT3528"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TANTALUM CAPACITOR&lt;/b&gt;"
         },
         {
             "name": "oompID",

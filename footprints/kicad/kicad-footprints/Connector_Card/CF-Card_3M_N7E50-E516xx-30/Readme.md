@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

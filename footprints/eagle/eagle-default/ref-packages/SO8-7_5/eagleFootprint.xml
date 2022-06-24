@@ -1,2 +1,27 @@
-
-<package name="SO8-7_5"></package>
+<package name="SO8-7_5" urn="urn:adsk.eagle:footprint:8084460/1">
+<description>&lt;b&gt;Small Outline Package&lt;/b&gt;</description>
+<wire x1="-3.7" y1="-3.7" x2="3.7" y2="-3.7" width="0.2032" layer="21"/>
+<wire x1="3.7" y1="-3.7" x2="3.7" y2="3.7" width="0.2032" layer="21"/>
+<wire x1="3.7" y1="3.7" x2="-3.7" y2="3.7" width="0.2032" layer="21"/>
+<wire x1="-3.7" y1="3.7" x2="-3.7" y2="-3.7" width="0.2032" layer="21"/>
+<wire x1="-3.5" y1="-3" x2="3.5" y2="-3" width="0.2032" layer="21"/>
+<wire x1="-3.6484" y1="1" x2="-3.6484" y2="-1" width="0.2032" layer="21" curve="-180"/>
+<smd name="1" x="-1.905" y="-4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="2" x="-0.635" y="-4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="3" x="0.635" y="-4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="4" x="1.905" y="-4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="5" x="1.905" y="4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="6" x="0.635" y="4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="7" x="-0.635" y="4.845" dx="0.8" dy="2" layer="1"/>
+<smd name="8" x="-1.905" y="4.845" dx="0.8" dy="2" layer="1"/>
+<text x="-4.04" y="-3.766" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="5.294" y="-3.758" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.155" y1="-5.3" x2="-1.655" y2="-3.75" layer="51"/>
+<rectangle x1="-0.885" y1="-5.3" x2="-0.385" y2="-3.75" layer="51"/>
+<rectangle x1="0.385" y1="-5.3" x2="0.885" y2="-3.75" layer="51"/>
+<rectangle x1="1.655" y1="-5.3" x2="2.155" y2="-3.75" layer="51"/>
+<rectangle x1="1.655" y1="3.75" x2="2.155" y2="5.3" layer="51"/>
+<rectangle x1="0.385" y1="3.75" x2="0.885" y2="5.3" layer="51"/>
+<rectangle x1="-0.885" y1="3.75" x2="-0.385" y2="5.3" layer="51"/>
+<rectangle x1="-2.155" y1="3.75" x2="-1.655" y2="5.3" layer="51"/>
+</package>

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-display-hp-HP5082
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

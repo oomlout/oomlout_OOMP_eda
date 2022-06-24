@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

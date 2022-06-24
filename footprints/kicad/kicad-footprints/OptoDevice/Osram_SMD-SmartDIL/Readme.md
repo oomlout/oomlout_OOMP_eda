@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

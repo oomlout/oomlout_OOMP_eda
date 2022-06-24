@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-FGPMMOPA6B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

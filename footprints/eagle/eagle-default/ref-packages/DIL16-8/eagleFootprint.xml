@@ -1,2 +1,19 @@
-
-<package name="DIL16/8"></package>
+<package name="DIL16/8" urn="urn:adsk.eagle:footprint:8083750/1">
+<description>&lt;b&gt;Dual In Line Package&lt;/b&gt; 8 pins used</description>
+<wire x1="-10.795" y1="-0.635" x2="-10.795" y2="-2.794" width="0.1524" layer="21"/>
+<wire x1="-10.795" y1="-0.635" x2="-10.795" y2="0.635" width="0.1524" layer="21" curve="180"/>
+<wire x1="10.795" y1="-2.794" x2="10.795" y2="2.794" width="0.1524" layer="21"/>
+<wire x1="-10.795" y1="2.794" x2="-10.795" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-10.795" y1="2.794" x2="10.795" y2="2.794" width="0.1524" layer="21"/>
+<wire x1="-10.795" y1="-2.794" x2="10.795" y2="-2.794" width="0.1524" layer="21"/>
+<pad name="1" x="-8.89" y="-3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="2" x="-6.35" y="-3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="7" x="6.35" y="-3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="8" x="8.89" y="-3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="9" x="8.89" y="3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="10" x="6.35" y="3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="15" x="-6.35" y="3.81" drill="0.8128" shape="long" rot="R90"/>
+<pad name="16" x="-8.89" y="3.81" drill="0.8128" shape="long" rot="R90"/>
+<text x="-11.1252" y="-2.667" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="-6.477" y="-0.9398" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+</package>

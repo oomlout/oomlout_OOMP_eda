@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_KA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

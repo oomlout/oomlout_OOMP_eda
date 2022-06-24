@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PSOP-44_16.9x27.17mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

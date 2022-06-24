@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

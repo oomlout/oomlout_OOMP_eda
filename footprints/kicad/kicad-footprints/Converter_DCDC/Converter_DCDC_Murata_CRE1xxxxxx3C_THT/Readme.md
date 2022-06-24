@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_CRE1xxxxxx3C_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

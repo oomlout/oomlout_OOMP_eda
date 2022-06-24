@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-28_THT-Socket
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

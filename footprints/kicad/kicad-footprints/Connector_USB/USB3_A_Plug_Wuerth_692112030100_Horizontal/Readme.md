@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Plug_Wuerth_692112030100_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

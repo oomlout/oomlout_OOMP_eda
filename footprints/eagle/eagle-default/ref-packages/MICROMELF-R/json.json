@@ -1,9 +1,9 @@
 {
-    "index": 8553,
+    "index": 36053,
     "tags": [
         {
             "name": "index",
-            "value": 8553
+            "value": 36053
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MICROMELF-R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Micro Melf Diode Reflow soldering&lt;/b&gt; VISHAY mcl4148.pdf"
         },
         {
             "name": "oompID",

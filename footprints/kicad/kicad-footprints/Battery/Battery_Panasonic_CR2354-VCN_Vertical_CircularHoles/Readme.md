@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

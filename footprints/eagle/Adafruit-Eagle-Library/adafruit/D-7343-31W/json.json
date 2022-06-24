@@ -1,9 +1,9 @@
 {
-    "index": 268,
+    "index": 27768,
     "tags": [
         {
             "name": "index",
-            "value": 268
+            "value": 27768
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/D/7343-31W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET D / EIA 7343-21&lt;/b&gt;&lt;p&gt;\nKEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder"
         },
         {
             "name": "oompID",

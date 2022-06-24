@@ -1,9 +1,9 @@
 {
-    "index": 8558,
+    "index": 36058,
     "tags": [
         {
             "name": "index",
-            "value": 8558
+            "value": 36058
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MINI_MELF-0102AX"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Mini MELF 0102 Axial&lt;/b&gt;"
         },
         {
             "name": "oompID",

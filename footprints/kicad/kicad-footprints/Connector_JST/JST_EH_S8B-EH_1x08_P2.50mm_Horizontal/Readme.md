@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S8B-EH_1x08_P2.50mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

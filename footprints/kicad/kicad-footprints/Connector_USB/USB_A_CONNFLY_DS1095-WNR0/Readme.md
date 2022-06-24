@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_CONNFLY_DS1095-WNR0
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

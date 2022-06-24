@@ -1,2 +1,64 @@
-
-<package name="UBGA56-2"></package>
+<package name="UBGA56-2" urn="urn:adsk.eagle:footprint:8084207/1">
+<description>&lt;b&gt;micro Ball Grid Array&lt;/b&gt;</description>
+<wire x1="-4.35" y1="-8.125" x2="4.35" y2="-8.125" width="0.2032" layer="21"/>
+<wire x1="4.35" y1="-8.125" x2="4.35" y2="8.125" width="0.2032" layer="21"/>
+<wire x1="4.35" y1="8.125" x2="-4.35" y2="8.125" width="0.2032" layer="21"/>
+<wire x1="-4.35" y1="8.125" x2="-4.35" y2="-8.125" width="0.2032" layer="21"/>
+<circle x="-3.1" y="3.525" radius="0.3" width="0" layer="21"/>
+<smd name="A2" x="-1.875" y="3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="A3" x="-1.125" y="3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="A4" x="-0.375" y="3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="A5" x="0.375" y="3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="A6" x="1.125" y="3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="A7" x="1.875" y="3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B1" x="-2.625" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B2" x="-1.875" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B3" x="-1.125" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B4" x="-0.375" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B5" x="0.375" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B6" x="1.125" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B7" x="1.875" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="B8" x="2.625" y="2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C1" x="-2.625" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C2" x="-1.875" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C3" x="-1.125" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C6" x="1.125" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C7" x="1.875" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C8" x="2.625" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="D1" x="-2.625" y="0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="D2" x="-1.875" y="0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="D3" x="-1.125" y="0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="D6" x="1.125" y="0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="D7" x="1.875" y="0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="D8" x="2.625" y="0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="F1" x="-2.625" y="-0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="F3" x="-1.125" y="-0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="F6" x="1.125" y="-0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="F8" x="2.625" y="-0.75" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C4" x="-0.375" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="C5" x="0.375" y="1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G1" x="-2.625" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H1" x="-2.625" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G2" x="-1.875" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H2" x="-1.875" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="I2" x="-1.875" y="-3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G3" x="-1.125" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H3" x="-1.125" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="I3" x="-1.125" y="-3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G4" x="-0.375" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H4" x="-0.375" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="I4" x="-0.375" y="-3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G5" x="0.375" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H5" x="0.375" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="I5" x="0.375" y="-3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G6" x="1.125" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H6" x="1.125" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="I6" x="1.125" y="-3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G7" x="1.875" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H7" x="1.875" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="I7" x="1.875" y="-3" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="G8" x="2.625" y="-1.5" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<smd name="H8" x="2.625" y="-2.25" dx="0.36" dy="0.36" layer="1" roundness="100"/>
+<text x="-4.792" y="-7.068" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="6.146" y="-7.06" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+</package>

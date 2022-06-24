@@ -1,9 +1,9 @@
 {
-    "index": 14161,
+    "index": 41661,
     "tags": [
         {
             "name": "index",
-            "value": 14161
+            "value": 41661
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X5-SMD-1.27MM"
+        },
+        {
+            "name": "description",
+            "value": "Shrouded SMD connector for JTAG and SWD applications."
         },
         {
             "name": "oompID",

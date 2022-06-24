@@ -1,9 +1,9 @@
 {
-    "index": 8170,
+    "index": 35670,
     "tags": [
         {
             "name": "index",
-            "value": 8170
+            "value": 35670
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C1206K"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 1206 Reflow solder&lt;/b&gt;&lt;p&gt;&#xD;\nMetric Code Size 3216"
         },
         {
             "name": "oompID",

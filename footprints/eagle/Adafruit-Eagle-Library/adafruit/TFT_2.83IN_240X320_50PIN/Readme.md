@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TFT_2.83IN_240X320_50PIN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

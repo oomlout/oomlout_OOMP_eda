@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-JAE_FF0881SA1_2Rows-81Pins_P0.40mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

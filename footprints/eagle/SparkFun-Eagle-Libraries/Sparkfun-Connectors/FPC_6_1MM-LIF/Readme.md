@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-FPC_6_1MM-LIF
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

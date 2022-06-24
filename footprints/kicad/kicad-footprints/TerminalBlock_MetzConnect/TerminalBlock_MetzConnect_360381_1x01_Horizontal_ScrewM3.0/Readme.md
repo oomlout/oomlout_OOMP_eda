@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

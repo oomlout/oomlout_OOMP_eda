@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-semicon-smd-ipc-SOT23W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

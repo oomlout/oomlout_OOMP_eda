@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1800R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

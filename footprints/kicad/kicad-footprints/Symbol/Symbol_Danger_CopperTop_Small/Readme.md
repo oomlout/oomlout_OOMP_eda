@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Danger_CopperTop_Small
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

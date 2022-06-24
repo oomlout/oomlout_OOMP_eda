@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X22
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

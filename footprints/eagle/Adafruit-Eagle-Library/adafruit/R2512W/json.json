@@ -1,9 +1,9 @@
 {
-    "index": 495,
+    "index": 27995,
     "tags": [
         {
             "name": "index",
-            "value": 495
+            "value": 27995
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R2512W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\nchip, wave soldering"
         },
         {
             "name": "oompID",

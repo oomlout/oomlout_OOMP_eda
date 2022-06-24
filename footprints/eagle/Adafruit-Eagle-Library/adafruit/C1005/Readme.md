@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1005
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: C1005
 - oompName: Adafruit-Eagle-Library/adafruit/C1005
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+chip
 
 
 

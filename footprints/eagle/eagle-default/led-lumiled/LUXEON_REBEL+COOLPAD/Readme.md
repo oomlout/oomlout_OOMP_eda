@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-led-lumiled-LUXEON_REBEL+COOLPAD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

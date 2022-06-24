@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Concave_4x0402
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

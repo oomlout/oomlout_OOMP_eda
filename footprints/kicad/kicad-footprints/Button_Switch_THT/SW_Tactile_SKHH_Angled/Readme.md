@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SKHH_Angled
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

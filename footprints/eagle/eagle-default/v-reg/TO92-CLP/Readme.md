@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-v-reg-TO92-CLP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

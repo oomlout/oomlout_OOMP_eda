@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

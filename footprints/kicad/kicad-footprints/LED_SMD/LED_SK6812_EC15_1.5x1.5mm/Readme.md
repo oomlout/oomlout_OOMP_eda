@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

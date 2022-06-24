@@ -1,9 +1,9 @@
 {
-    "index": 214,
+    "index": 27714,
     "tags": [
         {
             "name": "index",
-            "value": 214
+            "value": 27714
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C150-091X182"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;\ngrid 15 mm, outline 9.1 x 18.2 mm"
         },
         {
             "name": "oompID",

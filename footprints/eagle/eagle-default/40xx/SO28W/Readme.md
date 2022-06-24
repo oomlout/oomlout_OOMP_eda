@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-40xx-SO28W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

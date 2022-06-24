@@ -1,9 +1,9 @@
 {
-    "index": 9086,
+    "index": 36586,
     "tags": [
         {
             "name": "index",
-            "value": 9086
+            "value": 36586
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT23-EBC"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT-23 (EBC)&lt;/b&gt;"
         },
         {
             "name": "oompID",

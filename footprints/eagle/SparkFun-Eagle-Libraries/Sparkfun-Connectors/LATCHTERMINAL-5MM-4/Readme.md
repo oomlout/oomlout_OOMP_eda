@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-LATCHTERMINAL-5MM-4
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: Sparkfun-Connectors
 - oompIndex: LATCHTERMINAL-5MM-4
 - oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/LATCHTERMINAL-5MM-4
+- description: Manufacturer: How Der Electronic Co. 
+Part Number: HA-522
 
 
 

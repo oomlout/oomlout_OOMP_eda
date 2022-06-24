@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8617,
+    "index": 36117,
     "tags": [
         {
             "name": "index",
-            "value": 8617
+            "value": 36117
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MW-16_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MW; 16 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

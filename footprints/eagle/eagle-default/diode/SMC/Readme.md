@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SMC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

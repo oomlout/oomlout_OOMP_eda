@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

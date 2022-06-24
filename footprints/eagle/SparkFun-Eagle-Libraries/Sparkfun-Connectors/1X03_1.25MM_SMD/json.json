@@ -1,9 +1,9 @@
 {
-    "index": 13963,
+    "index": 41463,
     "tags": [
         {
             "name": "index",
-            "value": 13963
+            "value": 41463
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_1.25MM_SMD"
+        },
+        {
+            "name": "description",
+            "value": "Molex 0533980367"
         },
         {
             "name": "oompID",

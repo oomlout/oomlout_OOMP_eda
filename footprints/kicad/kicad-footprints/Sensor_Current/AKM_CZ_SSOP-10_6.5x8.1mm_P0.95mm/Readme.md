@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

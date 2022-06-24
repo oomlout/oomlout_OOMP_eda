@@ -1,9 +1,9 @@
 {
-    "index": 8593,
+    "index": 36093,
     "tags": [
         {
             "name": "index",
-            "value": 8593
+            "value": 36093
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MPGA-179"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Micro Pin Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

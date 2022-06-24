@@ -1,4 +1,3 @@
-
 <package name="ARDUINOMICRO">
 <wire x1="-24.13" y1="-9.144" x2="24.13" y2="-9.144" width="0.127" layer="21"/>
 <wire x1="24.13" y1="-9.144" x2="24.13" y2="9.144" width="0.127" layer="21"/>

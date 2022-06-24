@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-240_32.1x32.1mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

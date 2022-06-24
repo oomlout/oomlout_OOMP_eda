@@ -1,9 +1,9 @@
 {
-    "index": 27,
+    "index": 27527,
     "tags": [
         {
             "name": "index",
-            "value": 27
+            "value": 27527
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/085CS_1R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; reflow soldering&lt;p&gt;\nSMD (Chip) Standard 085 CS&lt;p&gt;\nhttp://www.bccomponents.com/"
         },
         {
             "name": "oompID",

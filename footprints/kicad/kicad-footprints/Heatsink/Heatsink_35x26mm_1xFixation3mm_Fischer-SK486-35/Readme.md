@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-etx-board-FX8-100S-SV
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-crystal-DIL08S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

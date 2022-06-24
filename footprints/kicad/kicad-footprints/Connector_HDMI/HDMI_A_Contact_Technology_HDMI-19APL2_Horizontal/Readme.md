@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

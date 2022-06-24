@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOT89R_INFINEON
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOT89R_INFINEON
 - oompName: eagle-default/ref-packages/SOT89R_INFINEON
+- description: &lt;b&gt;Small Outline Transistor; 3 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;
+INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf
+
+
+
+[im]: image.png

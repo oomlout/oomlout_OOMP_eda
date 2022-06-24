@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-DE_X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

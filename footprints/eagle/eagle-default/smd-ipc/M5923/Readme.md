@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-M5923
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

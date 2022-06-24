@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_AVX_LMLP07A7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

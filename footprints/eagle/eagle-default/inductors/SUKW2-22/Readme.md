@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-SUKW2-22
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

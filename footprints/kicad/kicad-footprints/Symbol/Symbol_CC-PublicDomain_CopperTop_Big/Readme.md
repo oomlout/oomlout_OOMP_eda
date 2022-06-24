@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Big
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

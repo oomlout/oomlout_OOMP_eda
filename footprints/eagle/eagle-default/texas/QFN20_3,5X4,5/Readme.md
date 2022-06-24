@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-QFN20_3,5X4,5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

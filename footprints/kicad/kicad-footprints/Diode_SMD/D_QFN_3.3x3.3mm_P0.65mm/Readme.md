@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_QFN_3.3x3.3mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-20X20-192
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SQFP-S-20X20-192
 - oompName: eagle-default/ref-packages/SQFP-S-20X20-192
+- description: &lt;b&gt;QFP192&lt;/b&gt;&lt;p&gt;&#xD;
+shrink quad flat pack, square
+
+
+
+[im]: image.png

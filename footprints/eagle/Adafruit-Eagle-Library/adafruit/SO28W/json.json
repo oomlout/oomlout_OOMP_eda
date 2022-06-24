@@ -1,9 +1,9 @@
 {
-    "index": 542,
+    "index": 28042,
     "tags": [
         {
             "name": "index",
-            "value": 542
+            "value": 28042
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SO28W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;28-Lead Plastic Small Outline (SO) &lt;/B&gt; Wide, 300 mil Body (SOIC)&lt;/B&gt;&lt;p&gt;\nSource: http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf"
         },
         {
             "name": "oompID",

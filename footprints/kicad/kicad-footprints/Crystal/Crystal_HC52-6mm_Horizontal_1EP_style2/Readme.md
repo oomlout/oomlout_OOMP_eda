@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal_1EP_style2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

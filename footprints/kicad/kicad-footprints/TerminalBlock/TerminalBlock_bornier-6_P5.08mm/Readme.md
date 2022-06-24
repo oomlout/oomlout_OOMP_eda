@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-6_P5.08mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

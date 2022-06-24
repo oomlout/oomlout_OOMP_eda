@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-74ac-logic-DIL20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

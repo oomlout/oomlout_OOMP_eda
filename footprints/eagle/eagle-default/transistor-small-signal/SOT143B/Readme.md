@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-SOT143B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

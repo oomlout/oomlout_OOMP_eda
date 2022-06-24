@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-DIL8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

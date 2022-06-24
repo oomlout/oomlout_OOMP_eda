@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_EPCOS_B66359J1014T_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,4 +1,3 @@
-
 <package name="PLCC-S28">
 <description>&lt;b&gt;Plastic Leaded Chip Carrier&lt;/b&gt; Socked</description>
 <wire x1="8.89" y1="8.89" x2="-7.62" y2="8.89" width="0.1524" layer="21"/>

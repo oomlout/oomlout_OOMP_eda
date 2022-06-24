@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "SQFP-R-20X28-224")
 newPart.addTag("oompName", "eagle-default/ref-packages/SQFP-R-20X28-224")
 
+newPart.addTag("description", """&lt;b&gt;QFP224&lt;/b&gt;&lt;p&gt;&#xD;
+shrink quad flat pack, rectangle""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-R-20X28-224",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='SQFP-R-20X28-224')
 
 OOMP.parts.append(newPart)

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Fastron_PISR_Handsoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

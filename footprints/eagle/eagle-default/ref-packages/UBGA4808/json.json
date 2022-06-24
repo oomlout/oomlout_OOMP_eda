@@ -1,9 +1,9 @@
 {
-    "index": 9540,
+    "index": 37040,
     "tags": [
         {
             "name": "index",
-            "value": 9540
+            "value": 37040
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/UBGA4808"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;micro Ball Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

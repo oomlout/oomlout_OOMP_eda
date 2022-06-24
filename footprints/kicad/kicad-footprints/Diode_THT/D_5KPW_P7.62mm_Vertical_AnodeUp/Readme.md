@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_5KPW_P7.62mm_Vertical_AnodeUp
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

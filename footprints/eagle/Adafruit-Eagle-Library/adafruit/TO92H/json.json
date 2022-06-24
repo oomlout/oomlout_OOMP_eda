@@ -1,9 +1,9 @@
 {
-    "index": 594,
+    "index": 28094,
     "tags": [
         {
             "name": "index",
-            "value": 594
+            "value": 28094
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/TO92H"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;\n2-lead plastic, vertical"
         },
         {
             "name": "oompID",

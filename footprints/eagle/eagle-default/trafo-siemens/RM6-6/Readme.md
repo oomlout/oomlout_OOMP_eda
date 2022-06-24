@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-trafo-siemens-RM6-6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

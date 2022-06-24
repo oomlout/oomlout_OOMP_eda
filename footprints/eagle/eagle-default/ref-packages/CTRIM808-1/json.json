@@ -1,9 +1,9 @@
 {
-    "index": 8274,
+    "index": 35774,
     "tags": [
         {
             "name": "index",
-            "value": 8274
+            "value": 35774
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CTRIM808-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor &lt;/b&gt; STELCO GmbH&lt;p&gt;&#xD;\ndiameter 8.6 mm, grid 3.55 mm"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-SOIC08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

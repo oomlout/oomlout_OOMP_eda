@@ -1,9 +1,9 @@
 {
-    "index": 8373,
+    "index": 35873,
     "tags": [
         {
             "name": "index",
-            "value": 8373
+            "value": 35873
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DO41Z10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 2.54 mm, horizontal, grid 10.16 mm"
         },
         {
             "name": "oompID",

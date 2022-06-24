@@ -1,9 +1,9 @@
 {
-    "index": 9442,
+    "index": 36942,
     "tags": [
         {
             "name": "index",
-            "value": 9442
+            "value": 36942
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO92-LINE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-92&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 5.08 mm"
         },
         {
             "name": "oompID",

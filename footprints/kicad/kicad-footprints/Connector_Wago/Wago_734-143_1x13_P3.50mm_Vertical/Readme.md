@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-143_1x13_P3.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

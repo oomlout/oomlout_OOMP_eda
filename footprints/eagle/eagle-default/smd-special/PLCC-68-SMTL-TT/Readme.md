@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-special-PLCC-68-SMTL-TT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

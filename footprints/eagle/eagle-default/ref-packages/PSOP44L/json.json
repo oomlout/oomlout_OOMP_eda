@@ -1,9 +1,9 @@
 {
-    "index": 8737,
+    "index": 36237,
     "tags": [
         {
             "name": "index",
-            "value": 8737
+            "value": 36237
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PSOP44L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Small Outline Package&lt;/b&gt;&lt;p&gt;"
         },
         {
             "name": "oompID",

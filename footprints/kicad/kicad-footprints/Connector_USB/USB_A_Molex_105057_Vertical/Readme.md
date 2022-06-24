@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Molex_105057_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

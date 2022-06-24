@@ -1,2 +1,15 @@
-
-<package name="E5R"></package>
+<package name="E5R" urn="urn:adsk.eagle:footprint:8082285/1">
+<description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;&#xD;
+grid 5.08 mm, diameter 9 mm</description>
+<wire x1="-0.889" y1="0" x2="0.9398" y2="0" width="0.6096" layer="21"/>
+<wire x1="-5.588" y1="0" x2="-4.572" y2="0" width="0.1524" layer="21"/>
+<wire x1="-5.08" y1="-0.508" x2="-5.08" y2="0.508" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="0" x2="1.143" y2="0" width="0.6096" layer="51"/>
+<wire x1="-2.54" y1="0" x2="-1.016" y2="0" width="0.6096" layer="51"/>
+<wire x1="1.778" y1="-1.143" x2="1.7821" y2="1.1275" width="0.1524" layer="21" curve="-330.552701"/>
+<wire x1="1.7732" y1="1.1613" x2="1.7781" y2="-1.143" width="0.1524" layer="51" curve="-29.895306"/>
+<pad name="+" x="-2.54" y="0" drill="0.8128" diameter="2.54"/>
+<pad name="-" x="2.54" y="0" drill="0.8128" diameter="2.54" shape="octagon"/>
+<text x="1.651" y="2.4638" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-5.08" y="-3.048" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+</package>

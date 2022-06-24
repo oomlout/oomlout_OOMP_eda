@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-PBGA-388
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

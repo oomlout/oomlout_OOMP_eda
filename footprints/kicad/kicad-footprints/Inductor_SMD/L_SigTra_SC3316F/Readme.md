@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_SigTra_SC3316F
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

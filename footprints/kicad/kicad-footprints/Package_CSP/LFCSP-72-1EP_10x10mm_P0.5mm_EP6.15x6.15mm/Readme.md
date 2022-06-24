@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

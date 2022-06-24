@@ -1,9 +1,9 @@
 {
-    "index": 8241,
+    "index": 35741,
     "tags": [
         {
             "name": "index",
-            "value": 8241
+            "value": 35741
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CLDCC44"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CERAMIC LEADED CHIP CARRIER&lt;/b&gt;&lt;p&gt;&#xD;\nsquare"
         },
         {
             "name": "oompID",

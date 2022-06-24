@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-169_7x7mm_Layout13x13_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

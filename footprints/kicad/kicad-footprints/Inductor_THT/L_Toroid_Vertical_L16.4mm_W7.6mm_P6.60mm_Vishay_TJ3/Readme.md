@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_R-PDSO-G6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

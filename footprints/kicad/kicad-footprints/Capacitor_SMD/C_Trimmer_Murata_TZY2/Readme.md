@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZY2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

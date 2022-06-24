@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L32.0mm_W15.0mm_P27.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

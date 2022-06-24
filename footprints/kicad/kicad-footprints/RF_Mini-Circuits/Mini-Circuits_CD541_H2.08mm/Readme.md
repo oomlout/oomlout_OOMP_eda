@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD541_H2.08mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8516,
+    "index": 36016,
     "tags": [
         {
             "name": "index",
-            "value": 8516
+            "value": 36016
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/L8530M"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;INDUCTOR&lt;/b&gt;&lt;p&gt;&#xD;\nmolded"
         },
         {
             "name": "oompID",

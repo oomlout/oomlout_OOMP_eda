@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SL_171971-0021_1x21_P2.54mm_Vertical
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -23,3 +28,7 @@ Contents
 - kicadTags: connector Molex SL vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SL_171971-0021_1x21_P2.54mm_Vertical.wrl
+
+
+
+[im]: image.png

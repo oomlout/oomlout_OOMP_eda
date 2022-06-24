@@ -1,9 +1,9 @@
 {
-    "index": 8863,
+    "index": 36363,
     "tags": [
         {
             "name": "index",
-            "value": 8863
+            "value": 36363
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SC59-EBC"
+        },
+        {
+            "name": "description",
+            "value": "SC59 (SOT23) Motorola"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-dil-DIP04SB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

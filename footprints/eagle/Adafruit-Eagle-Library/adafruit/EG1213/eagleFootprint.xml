@@ -1,4 +1,3 @@
-
 <package name="EG1213">
 <wire x1="-5" y1="1.9" x2="-0.7" y2="1.9" width="0.127" layer="21"/>
 <wire x1="-0.7" y1="1.9" x2="0.7" y2="1.9" width="0.127" layer="21"/>

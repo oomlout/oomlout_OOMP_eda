@@ -1,9 +1,9 @@
 {
-    "index": 9471,
+    "index": 36971,
     "tags": [
         {
             "name": "index",
-            "value": 9471
+            "value": 36971
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TQFP112"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Thin Quad Flat Pack&lt;/b&gt;&lt;p&gt;&#xD;\n112-Pin LQFP (Case no. 987) 9S12A256DGV1.pdf"
         },
         {
             "name": "oompID",

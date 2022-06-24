@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-DIL2_4.5x4.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

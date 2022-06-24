@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-PJ-102A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

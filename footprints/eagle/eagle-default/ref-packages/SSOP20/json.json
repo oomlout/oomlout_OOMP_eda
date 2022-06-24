@@ -1,9 +1,9 @@
 {
-    "index": 9273,
+    "index": 36773,
     "tags": [
         {
             "name": "index",
-            "value": 9273
+            "value": 36773
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SSOP20"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Plastic Shrink Small Outline Package&lt;/B&gt;"
         },
         {
             "name": "oompID",

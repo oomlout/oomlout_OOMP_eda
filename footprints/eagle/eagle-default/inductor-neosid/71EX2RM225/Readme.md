@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-71EX2RM225
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

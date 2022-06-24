@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-toshiba-SIP7-P-2.54
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

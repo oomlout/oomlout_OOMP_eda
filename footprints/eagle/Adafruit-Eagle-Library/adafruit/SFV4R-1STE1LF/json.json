@@ -1,9 +1,9 @@
 {
-    "index": 522,
+    "index": 28022,
     "tags": [
         {
             "name": "index",
-            "value": 522
+            "value": 28022
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SFV4R-1STE1LF"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;FPC Connector ZIF for SMT 0.5mm&lt;/b&gt;&lt;p&gt;\n\nFCI SFV4R-1STE1LF"
         },
         {
             "name": "oompID",

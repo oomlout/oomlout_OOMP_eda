@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-C5102
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: C5102
 - oompName: eagle-default/ref-packages/C5102
+- description: &lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;
+diameter 2.8 mm, horizontal, grid 10.10 mm
+
+
+
+[im]: image.png

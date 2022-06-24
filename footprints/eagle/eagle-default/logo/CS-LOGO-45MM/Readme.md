@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-logo-CS-LOGO-45MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

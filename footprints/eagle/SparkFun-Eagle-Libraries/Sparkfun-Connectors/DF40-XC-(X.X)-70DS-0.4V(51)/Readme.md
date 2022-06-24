@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-DF40-XC-(X.X)-70DS-0.4V(51)
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

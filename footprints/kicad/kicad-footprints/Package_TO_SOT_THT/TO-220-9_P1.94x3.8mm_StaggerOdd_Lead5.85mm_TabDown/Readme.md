@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

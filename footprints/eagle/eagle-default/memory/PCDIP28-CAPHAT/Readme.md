@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-PCDIP28-CAPHAT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

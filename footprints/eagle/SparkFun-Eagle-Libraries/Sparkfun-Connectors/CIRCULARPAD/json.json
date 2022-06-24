@@ -1,9 +1,9 @@
 {
-    "index": 14189,
+    "index": 41689,
     "tags": [
         {
             "name": "index",
-            "value": 14189
+            "value": 41689
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/CIRCULARPAD"
+        },
+        {
+            "name": "description",
+            "value": "LuMini Pad"
         },
         {
             "name": "oompID",

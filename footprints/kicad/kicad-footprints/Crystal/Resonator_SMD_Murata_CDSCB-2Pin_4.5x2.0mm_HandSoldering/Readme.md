@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CW_GPTS203211B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

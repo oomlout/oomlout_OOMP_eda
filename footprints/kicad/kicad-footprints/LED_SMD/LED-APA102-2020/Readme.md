@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-APA102-2020
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

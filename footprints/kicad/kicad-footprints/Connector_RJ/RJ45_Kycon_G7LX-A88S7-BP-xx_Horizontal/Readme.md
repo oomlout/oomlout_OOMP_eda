@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

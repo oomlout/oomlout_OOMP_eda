@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-HC49U-LM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: HC49U-LM
 - oompName: Adafruit-Eagle-Library/adafruit/HC49U-LM
+- description: &lt;b&gt;CRYSTAL&lt;/b&gt;
 
 
 

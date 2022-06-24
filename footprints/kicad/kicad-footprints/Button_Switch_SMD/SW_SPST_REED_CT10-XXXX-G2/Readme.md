@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_REED_CT10-XXXX-G2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

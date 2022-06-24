@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-POWER-CHOKE_WE-TPC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

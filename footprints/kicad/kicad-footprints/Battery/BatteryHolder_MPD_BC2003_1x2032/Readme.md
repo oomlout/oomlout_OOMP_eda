@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC2003_1x2032
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

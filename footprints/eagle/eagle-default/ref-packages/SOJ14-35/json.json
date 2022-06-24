@@ -1,9 +1,9 @@
 {
-    "index": 9002,
+    "index": 36502,
     "tags": [
         {
             "name": "index",
-            "value": 9002
+            "value": 36502
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOJ14-35"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE J LEADS&lt;/b&gt;&lt;p&gt;&#xD;\nbody 8.88 mm"
         },
         {
             "name": "oompID",

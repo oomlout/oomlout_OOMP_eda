@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Qorvo_DFN-8-1EP_2x2mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

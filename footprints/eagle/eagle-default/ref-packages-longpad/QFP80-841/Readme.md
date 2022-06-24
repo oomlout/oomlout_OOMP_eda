@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP80-841
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

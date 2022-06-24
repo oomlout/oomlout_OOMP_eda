@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

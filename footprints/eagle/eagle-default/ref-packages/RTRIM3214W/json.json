@@ -1,9 +1,9 @@
 {
-    "index": 8812,
+    "index": 36312,
     "tags": [
         {
             "name": "index",
-            "value": 8812
+            "value": 36312
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM3214W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; BOURNS&lt;p&gt;&#xD;\nSMD Cermet trimmer"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 269,
+    "index": 27769,
     "tags": [
         {
             "name": "index",
-            "value": 269
+            "value": 27769
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/DCJACK_2MM_PTH"
+        },
+        {
+            "name": "description",
+            "value": "DJ Jack 2.0mm PTH Right-Angle"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8926,
+    "index": 36426,
     "tags": [
         {
             "name": "index",
-            "value": 8926
+            "value": 36426
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO20_SOT163-1-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SO20 / SOT163-1 Wave soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

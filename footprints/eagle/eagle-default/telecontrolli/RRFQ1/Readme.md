@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-telecontrolli-RRFQ1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

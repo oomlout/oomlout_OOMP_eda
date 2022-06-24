@@ -1,9 +1,9 @@
 {
-    "index": 548,
+    "index": 28048,
     "tags": [
         {
             "name": "index",
-            "value": 548
+            "value": 28048
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SOIC8_208MIL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline IC - 208mil Wide&lt;/b&gt;"
         },
         {
             "name": "oompID",

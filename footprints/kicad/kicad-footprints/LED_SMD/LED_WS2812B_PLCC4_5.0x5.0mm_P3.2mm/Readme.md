@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

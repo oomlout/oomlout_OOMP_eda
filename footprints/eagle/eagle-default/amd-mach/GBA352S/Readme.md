@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

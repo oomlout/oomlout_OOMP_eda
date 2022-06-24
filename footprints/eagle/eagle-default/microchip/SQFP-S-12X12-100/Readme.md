@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-SQFP-S-12X12-100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

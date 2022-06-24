@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA361C80P19X19_1600X1600X170
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

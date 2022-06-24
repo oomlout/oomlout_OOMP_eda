@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

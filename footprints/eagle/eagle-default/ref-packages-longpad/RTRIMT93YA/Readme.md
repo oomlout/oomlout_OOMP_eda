@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTRIMT93YA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

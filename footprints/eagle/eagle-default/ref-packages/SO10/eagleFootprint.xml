@@ -1,2 +1,31 @@
-
-<package name="SO10"></package>
+<package name="SO10" urn="urn:adsk.eagle:footprint:8083200/1">
+<description>&lt;b&gt;10-Lead Mini_SO Package&lt;/b&gt;&lt;p&gt;&#xD;
+(RM-10)</description>
+<wire x1="-1.5" y1="1.5" x2="1.5" y2="1.5" width="0.1524" layer="21"/>
+<wire x1="1.5" y1="1.5" x2="1.5" y2="-1.5" width="0.1524" layer="21"/>
+<wire x1="1.5" y1="-1.5" x2="-1.5" y2="-1.5" width="0.1524" layer="21"/>
+<wire x1="-1.5" y1="-1.5" x2="-1.5" y2="1.5" width="0.1524" layer="21"/>
+<circle x="-1" y="-1" radius="0.2121" width="0.1524" layer="21"/>
+<smd name="1" x="-1" y="-2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="2" x="-0.5" y="-2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="3" x="0" y="-2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="4" x="0.5" y="-2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="5" x="1" y="-2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="6" x="1" y="2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="7" x="0.5" y="2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="8" x="0" y="2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="9" x="-0.5" y="2.25" dx="0.25" dy="0.8" layer="1"/>
+<smd name="10" x="-1" y="2.25" dx="0.25" dy="0.8" layer="1"/>
+<text x="-1.905" y="3.175" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.0762" y1="-2.5146" x2="-0.9238" y2="-1.524" layer="51"/>
+<rectangle x1="-0.5762" y1="-2.5146" x2="-0.4238" y2="-1.524" layer="51"/>
+<rectangle x1="-0.0762" y1="-2.5146" x2="0.0762" y2="-1.524" layer="51"/>
+<rectangle x1="0.4238" y1="-2.5146" x2="0.5762" y2="-1.524" layer="51"/>
+<rectangle x1="0.9238" y1="-2.5146" x2="1.0762" y2="-1.524" layer="51"/>
+<rectangle x1="0.9238" y1="1.524" x2="1.0762" y2="2.5146" layer="51"/>
+<rectangle x1="0.4238" y1="1.524" x2="0.5762" y2="2.5146" layer="51"/>
+<rectangle x1="-0.0762" y1="1.524" x2="0.0762" y2="2.5146" layer="51"/>
+<rectangle x1="-0.5762" y1="1.524" x2="-0.4238" y2="2.5146" layer="51"/>
+<rectangle x1="-1.0762" y1="1.524" x2="-0.9238" y2="2.5146" layer="51"/>
+</package>

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-C1210
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: C1210
 - oompName: Adafruit-Eagle-Library/adafruit/C1210
+- description: &lt;b&gt;CAPACITOR&lt;/b&gt;&lt;p&gt;
+chip
 
 
 

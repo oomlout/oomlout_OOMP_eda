@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP24
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

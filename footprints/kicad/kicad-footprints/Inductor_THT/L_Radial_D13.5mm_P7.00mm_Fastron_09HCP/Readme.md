@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D13.5mm_P7.00mm_Fastron_09HCP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

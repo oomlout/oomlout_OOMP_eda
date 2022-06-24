@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8_3.9x4.9mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_IXYS_GUFP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-small-signal-MW-7_INFINEON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

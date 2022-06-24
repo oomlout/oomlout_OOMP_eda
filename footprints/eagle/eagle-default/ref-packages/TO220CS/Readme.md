@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO220CS
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO220CS
 - oompName: eagle-default/ref-packages/TO220CS
+- description: &lt;b&gt;TO 220 C&lt;/b&gt; vertical (Cathode; Anode; Gate)
+
+
+
+[im]: image.png

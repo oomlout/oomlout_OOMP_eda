@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-reed-MK6-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # Right Angle
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-RA
+- Name: Right Angle
+- Description: Right Angle
+
 ## Tags
 
 - hexID: 

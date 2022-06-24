@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-HTSSOP48DCA
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

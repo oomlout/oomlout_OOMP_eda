@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-20_4.4x6.5mm_P0.65mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1275.x00x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

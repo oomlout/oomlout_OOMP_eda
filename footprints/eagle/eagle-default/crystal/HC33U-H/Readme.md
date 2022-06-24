@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-crystal-HC33U-H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

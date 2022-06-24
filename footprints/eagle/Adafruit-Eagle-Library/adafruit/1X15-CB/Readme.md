@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X15-CB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

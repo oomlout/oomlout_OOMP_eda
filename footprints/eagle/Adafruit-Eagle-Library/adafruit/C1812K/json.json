@@ -1,9 +1,9 @@
 {
-    "index": 217,
+    "index": 27717,
     "tags": [
         {
             "name": "index",
-            "value": 217
+            "value": 27717
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/C1812K"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Ceramic Chip Capacitor KEMET 1812 Reflow solder&lt;/b&gt;&lt;p&gt;\nMetric Code Size 4532"
         },
         {
             "name": "oompID",

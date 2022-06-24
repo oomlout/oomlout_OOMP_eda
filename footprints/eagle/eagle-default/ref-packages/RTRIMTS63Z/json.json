@@ -1,9 +1,9 @@
 {
-    "index": 8846,
+    "index": 36346,
     "tags": [
         {
             "name": "index",
-            "value": 8846
+            "value": 36346
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIMTS63Z"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistror&lt;/b&gt; VISHAY&lt;p&gt;&#xD;\nseales container, solder immerson IP67"
         },
         {
             "name": "oompID",

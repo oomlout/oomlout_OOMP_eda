@@ -1,9 +1,9 @@
 {
-    "index": 8343,
+    "index": 35843,
     "tags": [
         {
             "name": "index",
-            "value": 8343
+            "value": 35843
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DIP8"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMD DIL08&lt;/b&gt; &lt;p&gt;&#xD;\ndual in line package'"
         },
         {
             "name": "oompID",

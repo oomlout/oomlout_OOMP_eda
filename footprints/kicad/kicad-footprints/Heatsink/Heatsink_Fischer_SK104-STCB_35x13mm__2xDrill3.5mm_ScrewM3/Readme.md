@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S44-SOCKET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

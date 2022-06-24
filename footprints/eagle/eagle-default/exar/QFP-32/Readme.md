@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-exar-QFP-32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3216-12_Kemet-S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

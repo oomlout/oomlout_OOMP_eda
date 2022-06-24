@@ -1,9 +1,9 @@
 {
-    "index": 14197,
+    "index": 41697,
     "tags": [
         {
             "name": "index",
-            "value": 14197
+            "value": 41697
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/DIL28-3-ZIF_SOCKET"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ZIF Socket 28-Pin 0.3&quot;&lt;/h3&gt;\ntDocu shows location of lever when unlocked. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:28&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;ZIF_SOCKET_28-3&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

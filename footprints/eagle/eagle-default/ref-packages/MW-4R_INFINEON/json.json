@@ -1,9 +1,9 @@
 {
-    "index": 8618,
+    "index": 36118,
     "tags": [
         {
             "name": "index",
-            "value": 8618
+            "value": 36118
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MW-4R_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline Transistor; 4 leads&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;\n&lt;b&gt;FEHLER im Datenblatt&lt;/b&gt;&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

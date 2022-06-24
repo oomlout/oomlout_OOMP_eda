@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micronas-PMQFP64-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

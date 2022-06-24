@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D40.0mm_P48.26mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

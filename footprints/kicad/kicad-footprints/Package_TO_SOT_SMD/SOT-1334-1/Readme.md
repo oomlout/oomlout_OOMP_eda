@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-1334-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

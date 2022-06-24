@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

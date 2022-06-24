@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-smd-ipc-L2012C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

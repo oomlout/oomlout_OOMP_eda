@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-ublox_SARA-G3_LGA-96
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

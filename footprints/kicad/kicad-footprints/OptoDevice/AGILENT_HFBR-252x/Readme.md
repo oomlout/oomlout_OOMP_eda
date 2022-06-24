@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-AGILENT_HFBR-252x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

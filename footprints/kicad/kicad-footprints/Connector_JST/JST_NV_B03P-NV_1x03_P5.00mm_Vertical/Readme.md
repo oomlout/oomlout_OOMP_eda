@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_NV_B03P-NV_1x03_P5.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

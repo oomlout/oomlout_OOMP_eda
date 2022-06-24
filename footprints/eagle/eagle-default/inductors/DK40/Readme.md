@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-DK40
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

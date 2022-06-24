@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO78H
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: TO78H
 - oompName: eagle-default/ref-packages/TO78H
+- description: &lt;b&gt;Metal Can Package&lt;/b&gt;
+
+
+
+[im]: image.png

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-USB-B-MICRO-SMD_VERT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

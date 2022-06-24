@@ -1,9 +1,9 @@
 {
-    "index": 8473,
+    "index": 35973,
     "tags": [
         {
             "name": "index",
-            "value": 8473
+            "value": 35973
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/H08C"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-99&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor H08C&lt;br&gt;&#xD;\nMototola 601-04"
         },
         {
             "name": "oompID",

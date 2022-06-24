@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-coax-SMA-SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

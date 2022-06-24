@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCH-1xxx2M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

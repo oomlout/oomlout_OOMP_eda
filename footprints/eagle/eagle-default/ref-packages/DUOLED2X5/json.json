@@ -1,9 +1,9 @@
 {
-    "index": 8382,
+    "index": 35882,
     "tags": [
         {
             "name": "index",
-            "value": 8382
+            "value": 35882
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/DUOLED2X5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DUO LED&lt;/B&gt;&lt;p&gt;&#xD;\n2 colors, 2.5 x 5 mm, recangle"
         },
         {
             "name": "oompID",

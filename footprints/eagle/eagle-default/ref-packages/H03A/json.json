@@ -1,9 +1,9 @@
 {
-    "index": 8471,
+    "index": 35971,
     "tags": [
         {
             "name": "index",
-            "value": 8471
+            "value": 35971
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/H03A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metal Can Package&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor H03A&lt;br&gt;&#xD;\nMotorola 79-05"
         },
         {
             "name": "oompID",

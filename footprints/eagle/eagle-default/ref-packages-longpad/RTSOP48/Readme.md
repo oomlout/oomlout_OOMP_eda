@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-RTSOP48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

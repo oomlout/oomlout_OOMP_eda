@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-USB-C-16P-4LAYER-ISOLATED
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

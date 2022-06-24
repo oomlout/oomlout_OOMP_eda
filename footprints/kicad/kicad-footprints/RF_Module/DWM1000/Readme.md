@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-DWM1000
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

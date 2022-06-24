@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rectifier-DBS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

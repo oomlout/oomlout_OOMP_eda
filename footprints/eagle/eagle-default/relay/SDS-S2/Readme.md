@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-SDS-S2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

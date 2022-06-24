@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

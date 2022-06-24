@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_HighVoltage_Type2_CopperTop_VerySmall
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

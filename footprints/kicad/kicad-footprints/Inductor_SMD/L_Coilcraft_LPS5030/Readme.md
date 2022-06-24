@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS5030
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

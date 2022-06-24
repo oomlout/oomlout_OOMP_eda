@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

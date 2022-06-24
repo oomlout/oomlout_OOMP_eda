@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pld-intel-QFP132
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

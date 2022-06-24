@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-microchip-MQFP44-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

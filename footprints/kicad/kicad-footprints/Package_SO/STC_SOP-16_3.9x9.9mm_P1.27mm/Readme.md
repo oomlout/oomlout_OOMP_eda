@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-STC_SOP-16_3.9x9.9mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

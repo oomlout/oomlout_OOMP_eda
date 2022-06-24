@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x33_P2.54mm_Vertical_SMD_Pin1Left
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

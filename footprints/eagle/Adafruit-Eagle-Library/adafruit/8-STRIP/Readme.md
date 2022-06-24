@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-8-STRIP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

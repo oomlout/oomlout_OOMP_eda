@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-SOT23-EBC
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

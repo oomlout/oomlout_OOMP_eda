@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-memory-XFBGA48
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

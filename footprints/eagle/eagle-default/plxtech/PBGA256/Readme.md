@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-plxtech-PBGA256
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9323,
+    "index": 36823,
     "tags": [
         {
             "name": "index",
-            "value": 9323
+            "value": 36823
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO18M"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-18&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.54"
         },
         {
             "name": "oompID",

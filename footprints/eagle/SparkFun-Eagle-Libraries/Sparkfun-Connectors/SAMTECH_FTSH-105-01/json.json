@@ -1,9 +1,9 @@
 {
-    "index": 14289,
+    "index": 41789,
     "tags": [
         {
             "name": "index",
-            "value": 14289
+            "value": 41789
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SAMTECH_FTSH-105-01"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ARM Cortex Debug Connector (10-pin)&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:10&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.05&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.samtec.com/ftppub/cpdf/FTSH-1XX-XX-XXX-DV-XXX-MKT.pdf&quot;&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CORTEX_DEBUG&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

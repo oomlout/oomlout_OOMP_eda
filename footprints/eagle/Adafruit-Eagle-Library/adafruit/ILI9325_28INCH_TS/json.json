@@ -1,9 +1,9 @@
 {
-    "index": 383,
+    "index": 27883,
     "tags": [
         {
             "name": "index",
-            "value": 383
+            "value": 27883
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/ILI9325_28INCH_TS"
+        },
+        {
+            "name": "description",
+            "value": "1.0mm-Pitch 37 Pin LCD Connector"
         },
         {
             "name": "oompID",

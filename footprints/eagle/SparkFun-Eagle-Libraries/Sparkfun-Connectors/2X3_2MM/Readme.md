@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-2X3_2MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

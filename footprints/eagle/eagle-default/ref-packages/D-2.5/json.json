@@ -1,9 +1,9 @@
 {
-    "index": 8285,
+    "index": 35785,
     "tags": [
         {
             "name": "index",
-            "value": 8285
+            "value": 35785
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/D-2.5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DIODE&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

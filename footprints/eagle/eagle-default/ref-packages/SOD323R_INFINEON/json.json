@@ -1,9 +1,9 @@
 {
-    "index": 8972,
+    "index": 36472,
     "tags": [
         {
             "name": "index",
-            "value": 8972
+            "value": 36472
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOD323R_INFINEON"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Diode Package&lt;/b&gt; Reflow soldering&lt;p&gt;&#xD;\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NUH_DoubleCoil
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

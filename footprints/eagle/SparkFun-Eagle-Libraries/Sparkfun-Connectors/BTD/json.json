@@ -1,9 +1,9 @@
 {
-    "index": 14188,
+    "index": 41688,
     "tags": [
         {
             "name": "index",
-            "value": 14188
+            "value": 41688
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/BTD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;British Telecom Connector - Right Angle Female Digital&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;VERNIER_DIGITAL&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

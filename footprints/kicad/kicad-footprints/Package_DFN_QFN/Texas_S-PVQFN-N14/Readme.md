@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

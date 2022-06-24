@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-amp-champ-14H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8777,
+    "index": 36277,
     "tags": [
         {
             "name": "index",
-            "value": 8777
+            "value": 36277
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/R0402"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip RESISTOR, 0402 EIA (1005 Metric)&lt;/b&gt;"
         },
         {
             "name": "oompID",

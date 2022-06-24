@@ -1,9 +1,9 @@
 {
-    "index": 527,
+    "index": 28027,
     "tags": [
         {
             "name": "index",
-            "value": 527
+            "value": 28027
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SMA90_DIP"
+        },
+        {
+            "name": "description",
+            "value": "SMA DIP Connector 90 50 Ohm"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8438,
+    "index": 35938,
     "tags": [
         {
             "name": "index",
-            "value": 8438
+            "value": 35938
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/ER900"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;ER 900&lt;/b&gt; RM 7.62 mm"
         },
         {
             "name": "oompID",

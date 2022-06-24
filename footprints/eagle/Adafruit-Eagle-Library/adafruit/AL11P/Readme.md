@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-AL11P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: AL11P
 - oompName: Adafruit-Eagle-Library/adafruit/AL11P
+- description: &lt;b&gt;SPEAKER&lt;/b&gt;
 
 
 

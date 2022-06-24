@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-DO41-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

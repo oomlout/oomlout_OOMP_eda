@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,9 @@ Contents
 - oompDesc: adafruit
 - oompIndex: 085CS_1R
 - oompName: Adafruit-Eagle-Library/adafruit/085CS_1R
+- description: &lt;b&gt;Aluminum electrolytic capacitors&lt;/b&gt; reflow soldering&lt;p&gt;
+SMD (Chip) Standard 085 CS&lt;p&gt;
+http://www.bccomponents.com/
 
 
 

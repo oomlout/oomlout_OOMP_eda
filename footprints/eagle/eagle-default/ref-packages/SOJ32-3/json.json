@@ -1,9 +1,9 @@
 {
-    "index": 9034,
+    "index": 36534,
     "tags": [
         {
             "name": "index",
-            "value": 9034
+            "value": 36534
         },
         {
             "name": "hexID",
@@ -27,15 +27,19 @@
         },
         {
             "name": "oompIndex",
-            "value": "SOJ32/3"
+            "value": "SOJ32-3"
         },
         {
             "name": "oompName",
-            "value": "eagle-default/ref-packages/SOJ32/3"
+            "value": "eagle-default/ref-packages/SOJ32-3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Small Outline J-Bend&lt;/b&gt;"
         },
         {
             "name": "oompID",
-            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOJ32/3"
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOJ32-3"
         },
         {
             "name": "name",

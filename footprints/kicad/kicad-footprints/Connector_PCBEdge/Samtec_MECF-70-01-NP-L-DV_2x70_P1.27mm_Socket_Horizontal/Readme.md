@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-70-01-NP-L-DV_2x70_P1.27mm_Socket_Horizontal
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -23,3 +28,7 @@ Contents
 - kicadTags: conn samtec card-edge high-speed
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-70-01-NP-L-DV_2x70_P1.27mm_Socket_Horizontal.wrl
+
+
+
+[im]: image.png

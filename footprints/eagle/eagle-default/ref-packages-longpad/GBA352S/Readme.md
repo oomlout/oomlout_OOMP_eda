@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-GBA352S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

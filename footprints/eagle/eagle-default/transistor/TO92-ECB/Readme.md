@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-TO92-ECB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

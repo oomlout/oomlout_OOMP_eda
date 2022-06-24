@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-130-xx.x-x-DV-S_2x30-1SH_P0.50mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

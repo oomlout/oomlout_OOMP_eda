@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-busbar-TE4/7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

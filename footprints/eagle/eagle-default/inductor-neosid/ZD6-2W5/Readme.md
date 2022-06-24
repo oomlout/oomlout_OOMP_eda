@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-ZD6-2W5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

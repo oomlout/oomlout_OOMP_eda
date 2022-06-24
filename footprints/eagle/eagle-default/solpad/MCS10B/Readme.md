@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-solpad-MCS10B
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

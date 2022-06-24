@@ -1,9 +1,9 @@
 {
-    "index": 6,
+    "index": 27506,
     "tags": [
         {
             "name": "index",
-            "value": 6
+            "value": 27506
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/0207/15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;\ntype 0207, grid 15mm"
         },
         {
             "name": "oompID",

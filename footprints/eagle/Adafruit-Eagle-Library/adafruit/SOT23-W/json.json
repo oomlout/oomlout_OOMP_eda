@@ -1,9 +1,9 @@
 {
-    "index": 554,
+    "index": 28054,
     "tags": [
         {
             "name": "index",
-            "value": 554
+            "value": 28054
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/SOT23-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SOT23&lt;/b&gt; - Wave soldering"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XQ_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

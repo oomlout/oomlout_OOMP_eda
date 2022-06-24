@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-G6D-SOCKET
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

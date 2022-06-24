@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_NoNPTH_97730306330
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

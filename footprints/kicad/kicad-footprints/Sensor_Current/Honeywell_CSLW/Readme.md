@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

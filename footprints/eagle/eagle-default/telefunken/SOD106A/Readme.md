@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-telefunken-SOD106A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

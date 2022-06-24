@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-TE_MS5525DSO-DBxxxyS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

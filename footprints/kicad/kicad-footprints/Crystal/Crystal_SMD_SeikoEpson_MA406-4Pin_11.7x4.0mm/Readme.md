@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

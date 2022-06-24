@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_E_2x16_RowsAC_Male_Horizontal_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

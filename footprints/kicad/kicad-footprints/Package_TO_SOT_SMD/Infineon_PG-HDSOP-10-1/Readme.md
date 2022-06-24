@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

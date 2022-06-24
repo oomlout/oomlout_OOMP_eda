@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-MMSOP08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

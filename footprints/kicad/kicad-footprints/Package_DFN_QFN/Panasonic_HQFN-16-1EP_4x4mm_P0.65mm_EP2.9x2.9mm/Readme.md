@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

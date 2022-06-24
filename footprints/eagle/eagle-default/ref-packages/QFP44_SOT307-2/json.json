@@ -1,9 +1,9 @@
 {
-    "index": 8756,
+    "index": 36256,
     "tags": [
         {
             "name": "index",
-            "value": 8756
+            "value": 36256
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFP44_SOT307-2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Quad Flat Package SOT307-2&lt;/b&gt;&lt;p&gt;&#xD;\n44 leads (lead length 1.3 mm); body 10 x 10 x 1.75 mm SOT307-2&lt;p&gt;&#xD;\nsource: http://www.semiconductors.philips.com/&lt;p&gt;&#xD;\nLQFP-MSQFP-QFP-SQFP-TQFP-REFLOW.pdf"
         },
         {
             "name": "oompID",

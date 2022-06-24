@@ -1,9 +1,9 @@
 {
-    "index": 14192,
+    "index": 41692,
     "tags": [
         {
             "name": "index",
-            "value": 14192
+            "value": 41692
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/DB9"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;9 Pin Serial Connector - Female PCB Mount Right Angle&lt;/h3&gt;\n0.318&quot; style. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:11&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Connectors/DB9-PCB.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;DB9&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

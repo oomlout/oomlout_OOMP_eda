@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-TE_4-1734839-2_1x42-1MP_P0.5mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

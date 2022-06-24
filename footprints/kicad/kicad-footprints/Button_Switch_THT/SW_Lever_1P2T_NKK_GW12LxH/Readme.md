@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Lever_1P2T_NKK_GW12LxH
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

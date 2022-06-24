@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

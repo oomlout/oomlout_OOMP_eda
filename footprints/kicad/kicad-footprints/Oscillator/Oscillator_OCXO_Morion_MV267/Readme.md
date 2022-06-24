@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV267
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

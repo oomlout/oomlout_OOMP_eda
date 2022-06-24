@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

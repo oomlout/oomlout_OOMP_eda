@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360273_1x01_Horizontal_ScrewM2.6_WireProtection
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

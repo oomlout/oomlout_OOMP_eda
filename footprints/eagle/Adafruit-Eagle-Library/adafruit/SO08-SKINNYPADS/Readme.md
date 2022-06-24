@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SO08-SKINNYPADS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

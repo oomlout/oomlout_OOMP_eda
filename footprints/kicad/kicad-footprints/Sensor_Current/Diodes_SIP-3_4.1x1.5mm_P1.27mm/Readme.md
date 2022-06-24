@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P1.27mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

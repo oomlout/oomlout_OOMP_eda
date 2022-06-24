@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_AG-ECONO2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

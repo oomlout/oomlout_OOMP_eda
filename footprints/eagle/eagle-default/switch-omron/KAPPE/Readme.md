@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-omron-KAPPE
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

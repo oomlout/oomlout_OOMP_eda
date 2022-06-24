@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L17.8mm_W8.1mm_P7.62mm_Bourns_5700
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

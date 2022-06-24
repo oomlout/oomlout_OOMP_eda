@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MSOP10
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: MSOP10
 - oompName: Adafruit-Eagle-Library/adafruit/MSOP10
+- description: 10-Lead Mini Small Outline Package [MSOP]
 
 
 

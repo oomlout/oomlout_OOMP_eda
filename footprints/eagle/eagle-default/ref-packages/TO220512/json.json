@@ -1,9 +1,9 @@
 {
-    "index": 9356,
+    "index": 36856,
     "tags": [
         {
             "name": "index",
-            "value": 9356
+            "value": 36856
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220512"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Transistor Outline Package&lt;/b&gt;&lt;p&gt;&#xD;\nP-TO220-5-12 SIEMENS TLE4270"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-15_P2.54x2.54mm_StaggerEven_Lead4.58mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

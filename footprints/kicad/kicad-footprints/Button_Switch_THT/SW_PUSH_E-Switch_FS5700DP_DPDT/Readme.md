@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_E-Switch_FS5700DP_DPDT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

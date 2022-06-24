@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

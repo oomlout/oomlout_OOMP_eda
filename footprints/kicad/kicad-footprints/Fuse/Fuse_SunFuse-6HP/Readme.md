@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_SunFuse-6HP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

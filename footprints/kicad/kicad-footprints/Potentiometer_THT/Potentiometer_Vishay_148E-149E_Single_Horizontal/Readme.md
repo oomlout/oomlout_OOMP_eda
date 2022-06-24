@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Vishay_148E-149E_Single_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

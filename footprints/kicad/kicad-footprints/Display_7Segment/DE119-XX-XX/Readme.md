@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE119-XX-XX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

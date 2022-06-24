@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-lsta-FE07W
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

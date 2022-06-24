@@ -1,9 +1,9 @@
 {
-    "index": 479,
+    "index": 27979,
     "tags": [
         {
             "name": "index",
-            "value": 479
+            "value": 27979
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/R/2012-12R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET R/EIA 2012-12 Reflow solder&lt;/b&gt;"
         },
         {
             "name": "oompID",

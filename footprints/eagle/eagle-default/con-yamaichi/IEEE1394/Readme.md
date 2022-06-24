@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-yamaichi-IEEE1394
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

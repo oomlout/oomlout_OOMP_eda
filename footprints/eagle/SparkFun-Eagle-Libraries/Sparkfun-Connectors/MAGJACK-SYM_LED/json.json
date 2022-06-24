@@ -1,9 +1,9 @@
 {
-    "index": 14240,
+    "index": 41740,
     "tags": [
         {
             "name": "index",
-            "value": 14240
+            "value": 41740
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MAGJACK-SYM_LED"
+        },
+        {
+            "name": "description",
+            "value": "LPJ0284GDNL, HR861153C"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-414-VA5R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

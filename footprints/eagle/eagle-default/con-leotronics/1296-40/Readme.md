@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-leotronics-1296-40
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

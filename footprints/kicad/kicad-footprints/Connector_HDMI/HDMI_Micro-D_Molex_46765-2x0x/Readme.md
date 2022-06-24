@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-2x0x
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

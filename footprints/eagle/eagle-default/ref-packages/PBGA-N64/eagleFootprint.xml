@@ -1,2 +1,139 @@
-
-<package name="PBGA-N64"></package>
+<package name="PBGA-N64" urn="urn:adsk.eagle:footprint:8086552/1">
+<description>&lt;b&gt;GXG (S-PBGA-N64&lt;/b&gt;&lt;p&gt;&#xD;
+Source: http://focus.ti.com/lit/ds/symlink/ddc232.pdf</description>
+<wire x1="-4" y1="4" x2="4" y2="4" width="0.2032" layer="21"/>
+<wire x1="4" y1="4" x2="4" y2="-4" width="0.2032" layer="21"/>
+<wire x1="4" y1="-4" x2="-4" y2="-4" width="0.2032" layer="21"/>
+<wire x1="-4" y1="-4" x2="-4" y2="4" width="0.2032" layer="21"/>
+<circle x="-2.8" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="-2.8" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="-2" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="-1.2" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="-0.4" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="0.4" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="1.2" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="2" y="-2.8" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="2.8" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="2" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="1.2" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="0.4" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="-0.4" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="-1.2" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="-2" radius="0.25" width="0" layer="29"/>
+<circle x="2.8" y="-2.8" radius="0.25" width="0" layer="29"/>
+<smd name="A1" x="-2.8" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B1" x="-2.8" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C1" x="-2.8" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D1" x="-2.8" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E1" x="-2.8" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F1" x="-2.8" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G1" x="-2.8" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H1" x="-2.8" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A2" x="-2" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B2" x="-2" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C2" x="-2" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D2" x="-2" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E2" x="-2" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F2" x="-2" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G2" x="-2" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H2" x="-2" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A3" x="-1.2" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B3" x="-1.2" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C3" x="-1.2" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D3" x="-1.2" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E3" x="-1.2" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F3" x="-1.2" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G3" x="-1.2" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H3" x="-1.2" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A4" x="-0.4" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B4" x="-0.4" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C4" x="-0.4" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D4" x="-0.4" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E4" x="-0.4" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F4" x="-0.4" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G4" x="-0.4" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H4" x="-0.4" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A5" x="0.4" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B5" x="0.4" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C5" x="0.4" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D5" x="0.4" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E5" x="0.4" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F5" x="0.4" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G5" x="0.4" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H5" x="0.4" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A6" x="1.2" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B6" x="1.2" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C6" x="1.2" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D6" x="1.2" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E6" x="1.2" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F6" x="1.2" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G6" x="1.2" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H6" x="1.2" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A7" x="2" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B7" x="2" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C7" x="2" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D7" x="2" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E7" x="2" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F7" x="2" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G7" x="2" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H7" x="2" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="A8" x="2.8" y="2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="B8" x="2.8" y="2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="C8" x="2.8" y="1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="D8" x="2.8" y="0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="E8" x="2.8" y="-0.4" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="F8" x="2.8" y="-1.2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="G8" x="2.8" y="-2" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<smd name="H8" x="2.8" y="-2.8" dx="0.5" dy="0.5" layer="1" roundness="100" stop="no"/>
+<text x="-4" y="4.4" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4" y="-5.6" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-4" y1="3.2" x2="-3.2" y2="4" layer="21"/>
+</package>

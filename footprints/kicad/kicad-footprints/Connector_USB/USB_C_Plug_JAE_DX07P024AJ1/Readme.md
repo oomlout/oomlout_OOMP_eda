@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_JAE_DX07P024AJ1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-harting-CON06L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

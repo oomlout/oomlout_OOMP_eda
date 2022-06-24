@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-QFP100
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

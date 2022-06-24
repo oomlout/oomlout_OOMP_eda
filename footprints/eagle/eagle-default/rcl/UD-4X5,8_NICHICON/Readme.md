@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-UD-4X5,8_NICHICON
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

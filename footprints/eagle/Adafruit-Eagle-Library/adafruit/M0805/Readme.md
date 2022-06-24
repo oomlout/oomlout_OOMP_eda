@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-M0805
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: M0805
 - oompName: Adafruit-Eagle-Library/adafruit/M0805
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
+MELF 0.10 W
 
 
 

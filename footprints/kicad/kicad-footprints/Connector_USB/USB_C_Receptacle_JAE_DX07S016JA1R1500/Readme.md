@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S016JA1R1500
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_16x22
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

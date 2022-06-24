@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-stocko-MKS1870-6-0-2020
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

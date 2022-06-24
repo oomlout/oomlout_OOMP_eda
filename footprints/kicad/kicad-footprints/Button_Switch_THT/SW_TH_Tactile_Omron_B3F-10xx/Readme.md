@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_TH_Tactile_Omron_B3F-10xx
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

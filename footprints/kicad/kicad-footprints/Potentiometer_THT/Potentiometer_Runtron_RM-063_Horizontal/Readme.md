@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-063_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

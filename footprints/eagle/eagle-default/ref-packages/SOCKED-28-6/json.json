@@ -1,9 +1,9 @@
 {
-    "index": 8957,
+    "index": 36457,
     "tags": [
         {
             "name": "index",
-            "value": 8957
+            "value": 36457
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOCKED-28-6"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Dual In Line Socked&lt;/b&gt;"
         },
         {
             "name": "oompID",

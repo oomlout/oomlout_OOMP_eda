@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-40_W15.24mm_LongPads
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

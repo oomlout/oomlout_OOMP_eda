@@ -1,9 +1,9 @@
 {
-    "index": 8635,
+    "index": 36135,
     "tags": [
         {
             "name": "index",
-            "value": 8635
+            "value": 36135
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P0613V"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;&#xD;\ntype 0613, grid 5 mm"
         },
         {
             "name": "oompID",

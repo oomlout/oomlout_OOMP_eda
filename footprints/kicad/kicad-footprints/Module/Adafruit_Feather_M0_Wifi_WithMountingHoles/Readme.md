@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi_WithMountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

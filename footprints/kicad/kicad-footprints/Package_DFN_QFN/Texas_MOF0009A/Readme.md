@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_MOF0009A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

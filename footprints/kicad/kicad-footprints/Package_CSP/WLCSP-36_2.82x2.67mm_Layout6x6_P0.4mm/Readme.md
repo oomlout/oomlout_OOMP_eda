@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

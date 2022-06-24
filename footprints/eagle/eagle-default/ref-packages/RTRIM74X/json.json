@@ -1,9 +1,9 @@
 {
-    "index": 8837,
+    "index": 36337,
     "tags": [
         {
             "name": "index",
-            "value": 8837
+            "value": 36337
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTRIM74X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm resistor&lt;/b&gt; Spectrol&lt;p&gt;"
         },
         {
             "name": "oompID",

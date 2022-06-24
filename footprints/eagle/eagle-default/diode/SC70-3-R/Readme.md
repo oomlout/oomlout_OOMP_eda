@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-diode-SC70-3-R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,4 +1,3 @@
-
 <package name="1X04-CLEANBIG">
 <pad name="1" x="-3.81" y="0" drill="1.016" diameter="1.778" rot="R90"/>
 <pad name="2" x="-1.27" y="0" drill="1.016" diameter="1.778" rot="R90"/>

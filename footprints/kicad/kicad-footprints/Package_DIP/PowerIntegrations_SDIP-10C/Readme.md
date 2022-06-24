@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SDIP-10C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

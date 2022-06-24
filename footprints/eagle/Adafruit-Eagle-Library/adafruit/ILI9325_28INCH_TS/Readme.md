@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-ILI9325_28INCH_TS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: ILI9325_28INCH_TS
 - oompName: Adafruit-Eagle-Library/adafruit/ILI9325_28INCH_TS
+- description: 1.0mm-Pitch 37 Pin LCD Connector
 
 
 

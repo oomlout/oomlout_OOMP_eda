@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-net-CTS753DRT24
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

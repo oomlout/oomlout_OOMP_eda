@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D29.8mm_P28.80mm_Murata_1400series
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

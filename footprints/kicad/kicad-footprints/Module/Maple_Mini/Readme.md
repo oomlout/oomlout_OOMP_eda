@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

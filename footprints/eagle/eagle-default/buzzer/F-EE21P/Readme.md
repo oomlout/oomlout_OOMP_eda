@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-buzzer-F/EE21P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

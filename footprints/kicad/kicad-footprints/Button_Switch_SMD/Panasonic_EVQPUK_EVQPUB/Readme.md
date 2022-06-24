@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Panasonic_EVQPUK_EVQPUB
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-technology-SSOP36
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

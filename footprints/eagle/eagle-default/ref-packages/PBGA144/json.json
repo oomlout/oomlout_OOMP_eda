@@ -1,9 +1,9 @@
 {
-    "index": 8662,
+    "index": 36162,
     "tags": [
         {
             "name": "index",
-            "value": 8662
+            "value": 36162
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PBGA144"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PLASTIC BALL GRID ARRAY PACKAGE&lt;/b&gt;&lt;p&gt;&#xD;\nGGU (S-PBGA-N144) Source: tms320vc5402.pdf"
         },
         {
             "name": "oompID",

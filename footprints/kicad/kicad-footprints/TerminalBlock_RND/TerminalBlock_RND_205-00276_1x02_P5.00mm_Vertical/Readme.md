@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00276_1x02_P5.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

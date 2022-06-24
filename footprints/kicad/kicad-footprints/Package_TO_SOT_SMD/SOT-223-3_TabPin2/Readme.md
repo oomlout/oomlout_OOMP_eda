@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

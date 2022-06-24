@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-UFQFPN32
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

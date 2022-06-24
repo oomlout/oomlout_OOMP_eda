@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

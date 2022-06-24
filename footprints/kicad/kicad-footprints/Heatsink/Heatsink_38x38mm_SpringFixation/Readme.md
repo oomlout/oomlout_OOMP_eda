@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_38x38mm_SpringFixation
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

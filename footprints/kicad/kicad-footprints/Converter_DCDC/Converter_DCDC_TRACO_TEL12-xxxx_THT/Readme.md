@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEL12-xxxx_THT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

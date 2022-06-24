@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

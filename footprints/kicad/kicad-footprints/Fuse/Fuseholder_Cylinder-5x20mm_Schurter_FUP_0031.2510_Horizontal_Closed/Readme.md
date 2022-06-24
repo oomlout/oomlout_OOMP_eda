@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

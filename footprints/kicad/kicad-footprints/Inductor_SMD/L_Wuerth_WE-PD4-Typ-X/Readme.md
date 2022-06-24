@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD4-Typ-X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

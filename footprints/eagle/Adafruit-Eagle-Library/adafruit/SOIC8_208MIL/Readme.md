@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SOIC8_208MIL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,7 @@ Contents
 - oompDesc: adafruit
 - oompIndex: SOIC8_208MIL
 - oompName: Adafruit-Eagle-Library/adafruit/SOIC8_208MIL
+- description: &lt;b&gt;Small Outline IC - 208mil Wide&lt;/b&gt;
 
 
 

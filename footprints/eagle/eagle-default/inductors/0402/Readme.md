@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-0402
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

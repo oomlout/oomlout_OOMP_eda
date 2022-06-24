@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_7A-2Pin_5x3.2mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

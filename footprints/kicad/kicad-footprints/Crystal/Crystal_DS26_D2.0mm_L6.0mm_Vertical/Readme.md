@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 393,
+    "index": 27893,
     "tags": [
         {
             "name": "index",
-            "value": 393
+            "value": 27893
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/JST-PH-2-THM"
+        },
+        {
+            "name": "description",
+            "value": "4UCon #01528\nhttp://www.4uconnector.com/online/object/4udrawing/01528.pdf"
         },
         {
             "name": "oompID",

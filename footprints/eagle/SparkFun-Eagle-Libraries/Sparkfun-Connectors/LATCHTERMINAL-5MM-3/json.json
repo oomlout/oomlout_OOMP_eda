@@ -1,9 +1,9 @@
 {
-    "index": 14237,
+    "index": 41737,
     "tags": [
         {
             "name": "index",
-            "value": 14237
+            "value": 41737
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/LATCHTERMINAL-5MM-3"
+        },
+        {
+            "name": "description",
+            "value": "Manufacturer: How Der Electronic Co. \nPart Number: HA-522"
         },
         {
             "name": "oompID",

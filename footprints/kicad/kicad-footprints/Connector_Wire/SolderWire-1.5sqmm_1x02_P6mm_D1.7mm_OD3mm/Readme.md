@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1.5sqmm_1x02_P6mm_D1.7mm_OD3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_HRO_TYPE-C-31-M-12
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-P0817V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

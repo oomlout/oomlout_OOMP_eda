@@ -1,9 +1,9 @@
 {
-    "index": 14175,
+    "index": 41675,
     "tags": [
         {
             "name": "index",
-            "value": 14175
+            "value": 41675
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/ATX24_RIGHT_ANGLE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Molex Mini-Fit Jr. - 24 pin, Right Angle&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:24&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.sparkfun.com/datasheets/Prototyping/Connectors/ATX-RA.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;ATX24&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

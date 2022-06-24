@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Toshiba_TOTX170_TOTX173_TOTX193_TOTX194
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

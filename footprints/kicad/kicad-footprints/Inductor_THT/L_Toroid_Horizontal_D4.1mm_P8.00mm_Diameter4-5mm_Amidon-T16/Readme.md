@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

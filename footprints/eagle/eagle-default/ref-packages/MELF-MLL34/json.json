@@ -1,9 +1,9 @@
 {
-    "index": 8549,
+    "index": 36049,
     "tags": [
         {
             "name": "index",
-            "value": 8549
+            "value": 36049
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MELF-MLL34"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DIODE&lt;/b&gt;&lt;p&gt;&#xD;\nmetal electrode face (MELF)"
         },
         {
             "name": "oompID",

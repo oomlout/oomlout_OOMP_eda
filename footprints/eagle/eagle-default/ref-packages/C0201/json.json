@@ -1,9 +1,9 @@
 {
-    "index": 8131,
+    "index": 35631,
     "tags": [
         {
             "name": "index",
-            "value": 8131
+            "value": 35631
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C0201"
+        },
+        {
+            "name": "description",
+            "value": "Source: http://www.avxcorp.com/docs/catalogs/cx5r.pdf"
         },
         {
             "name": "oompID",

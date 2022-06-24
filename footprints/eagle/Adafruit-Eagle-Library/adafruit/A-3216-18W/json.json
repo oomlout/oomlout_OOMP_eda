@@ -1,9 +1,9 @@
 {
-    "index": 128,
+    "index": 27628,
     "tags": [
         {
             "name": "index",
-            "value": 128
+            "value": 27628
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/A/3216-18W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET A / EIA 3216-18 Wave solder&lt;/b&gt;&lt;p&gt;\nKEMET S / EIA 3216-12"
         },
         {
             "name": "oompID",

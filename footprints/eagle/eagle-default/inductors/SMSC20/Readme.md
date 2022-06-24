@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-SMSC20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-FanPinHeader_1x04_P2.54mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

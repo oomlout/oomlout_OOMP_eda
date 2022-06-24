@@ -1,9 +1,9 @@
 {
-    "index": 8265,
+    "index": 35765,
     "tags": [
         {
             "name": "index",
-            "value": 8265
+            "value": 35765
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/CTRIM3018_12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor SMD&lt;/b&gt; STELCO GmbH"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-tycoelectronics-RJ11-SHIELD1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

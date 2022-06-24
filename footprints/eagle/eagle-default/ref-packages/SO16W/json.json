@@ -1,9 +1,9 @@
 {
-    "index": 8919,
+    "index": 36419,
     "tags": [
         {
             "name": "index",
-            "value": 8919
+            "value": 36419
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO16W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;&lt;p&gt;&#xD;\nwide body 7.5 mm/JEDEC MS-013AA"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8890,
+    "index": 36390,
     "tags": [
         {
             "name": "index",
-            "value": 8890
+            "value": 36390
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SM8"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SM8 Package&lt;/b&gt;"
         },
         {
             "name": "oompID",

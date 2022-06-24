@@ -1,9 +1,9 @@
 {
-    "index": 8168,
+    "index": 35668,
     "tags": [
         {
             "name": "index",
-            "value": 8168
+            "value": 35668
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C1103"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n2-leaded metal can"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-DR127
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

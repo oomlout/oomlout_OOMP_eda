@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Win_364A2x95_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

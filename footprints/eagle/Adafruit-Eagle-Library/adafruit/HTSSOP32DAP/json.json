@@ -1,9 +1,9 @@
 {
-    "index": 382,
+    "index": 27882,
     "tags": [
         {
             "name": "index",
-            "value": 382
+            "value": 27882
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/HTSSOP32DAP"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PowerPAD(TM) PLASTIC SMALL-OUTLINE PACKAGE&lt;/b&gt; DAP (R-PDSO-G**)&lt;p&gt;\nSource: http://focus.ti.com/lit/ml/mpds029b/mpds029b.pdf / slma002.pdf"
         },
         {
             "name": "oompID",

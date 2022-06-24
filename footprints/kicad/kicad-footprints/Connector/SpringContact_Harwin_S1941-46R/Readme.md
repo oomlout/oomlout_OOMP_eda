@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-SpringContact_Harwin_S1941-46R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

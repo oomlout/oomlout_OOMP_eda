@@ -1,9 +1,9 @@
 {
-    "index": 8747,
+    "index": 36247,
     "tags": [
         {
             "name": "index",
-            "value": 8747
+            "value": 36247
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/QFP100R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Quad Flat Pack Package&lt;/b&gt; 100 Pin Rectangle"
         },
         {
             "name": "oompID",

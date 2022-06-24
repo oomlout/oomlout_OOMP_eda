@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-RN42N
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

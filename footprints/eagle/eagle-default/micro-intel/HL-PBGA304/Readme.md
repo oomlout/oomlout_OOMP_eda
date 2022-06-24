@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-intel-HL-PBGA304
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

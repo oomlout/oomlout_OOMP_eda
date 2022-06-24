@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-131-XX-G-S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

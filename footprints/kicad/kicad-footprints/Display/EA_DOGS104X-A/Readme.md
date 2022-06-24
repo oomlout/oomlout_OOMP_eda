@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGS104X-A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

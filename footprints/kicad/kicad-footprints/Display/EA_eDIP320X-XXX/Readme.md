@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP320X-XXX
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

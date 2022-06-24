@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

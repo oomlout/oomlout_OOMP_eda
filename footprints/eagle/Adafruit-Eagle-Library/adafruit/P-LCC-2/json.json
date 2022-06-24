@@ -1,9 +1,9 @@
 {
-    "index": 444,
+    "index": 27944,
     "tags": [
         {
             "name": "index",
-            "value": 444
+            "value": 27944
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/P-LCC-2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TOPLED High-optical Power LED (HOP)&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... ls_t675.pdf"
         },
         {
             "name": "oompID",

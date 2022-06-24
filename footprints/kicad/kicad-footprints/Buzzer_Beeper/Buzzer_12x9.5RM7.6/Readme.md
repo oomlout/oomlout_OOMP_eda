@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

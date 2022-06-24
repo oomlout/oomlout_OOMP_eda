@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-64M1
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

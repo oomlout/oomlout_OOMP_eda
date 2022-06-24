@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

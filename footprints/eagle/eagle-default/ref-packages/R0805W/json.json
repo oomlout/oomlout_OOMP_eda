@@ -1,9 +1,9 @@
 {
-    "index": 8780,
+    "index": 36280,
     "tags": [
         {
             "name": "index",
-            "value": 8780
+            "value": 36280
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/R0805W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;RESISTOR&lt;/b&gt; wave soldering&lt;p&gt;"
         },
         {
             "name": "oompID",

@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC_HighVoltage-PhoenixContact_MC_1,5_7-GF-5.08_1x07_P5.08mm_Horizontal_ThreadedFlange_MountHole
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -23,3 +28,7 @@ Contents
 - kicadTags: phoenix_contact connector MC_01x07_GF_5.08mm_MH
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC_HighVoltage.3dshapes/PhoenixContact_MC_1,5_7-GF-5.08_1x07_P5.08mm_Horizontal_ThreadedFlange_MountHole.wrl
+
+
+
+[im]: image.png

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_Amphenol_MUSB-D511_Vertical_Rugged
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

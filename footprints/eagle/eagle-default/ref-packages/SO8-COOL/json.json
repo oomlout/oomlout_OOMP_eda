@@ -1,9 +1,9 @@
 {
-    "index": 8942,
+    "index": 36442,
     "tags": [
         {
             "name": "index",
-            "value": 8942
+            "value": 36442
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO8-COOL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE INTEGRATED CIRCUIT&lt;/b&gt;"
         },
         {
             "name": "oompID",

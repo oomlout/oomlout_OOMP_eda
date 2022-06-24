@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-recom-international-RCD-24/W/X2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

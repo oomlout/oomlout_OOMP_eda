@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-BGA_324_CSP
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

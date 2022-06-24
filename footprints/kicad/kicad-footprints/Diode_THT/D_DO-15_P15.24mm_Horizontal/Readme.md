@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-15_P15.24mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

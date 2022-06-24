@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_FSMSM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Eagle_12BH611-GR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

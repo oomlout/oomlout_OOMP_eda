@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-VST2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

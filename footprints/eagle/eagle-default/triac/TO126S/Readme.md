@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-triac-TO126S
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

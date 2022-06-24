@@ -1,9 +1,9 @@
 {
-    "index": 8492,
+    "index": 35992,
     "tags": [
         {
             "name": "index",
-            "value": 8492
+            "value": 35992
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/L0201"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;NIS02 Chip Inductor&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.niccomp.com/Catalog/nis.pdf"
         },
         {
             "name": "oompID",

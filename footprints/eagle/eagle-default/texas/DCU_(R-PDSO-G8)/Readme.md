@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-DCU_(R-PDSO-G8)
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

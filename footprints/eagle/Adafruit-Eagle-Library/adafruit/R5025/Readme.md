@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-R5025
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
@@ -20,6 +24,8 @@ Contents
 - oompDesc: adafruit
 - oompIndex: R5025
 - oompName: Adafruit-Eagle-Library/adafruit/R5025
+- description: &lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
+chip
 
 
 

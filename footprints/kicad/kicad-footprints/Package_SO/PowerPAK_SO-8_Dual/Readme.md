@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Dual
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

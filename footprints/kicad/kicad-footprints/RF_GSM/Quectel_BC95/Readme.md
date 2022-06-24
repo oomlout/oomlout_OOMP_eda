@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC95
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

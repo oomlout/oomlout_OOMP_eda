@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-power-SUPER-SOT3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

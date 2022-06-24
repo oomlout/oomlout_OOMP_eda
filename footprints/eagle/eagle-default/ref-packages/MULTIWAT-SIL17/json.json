@@ -1,9 +1,9 @@
 {
-    "index": 8613,
+    "index": 36113,
     "tags": [
         {
             "name": "index",
-            "value": 8613
+            "value": 36113
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MULTIWAT-SIL17"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DBS17P&lt;/b&gt; plastic DIL-bent-SIL power package&lt;p&gt;&#xD;\n17 leads (lead length 12 mm) SOT243-1"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric_Pad1.85x3.75mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 9378,
+    "index": 36878,
     "tags": [
         {
             "name": "index",
-            "value": 9378
+            "value": 36878
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO220CSH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO 220 CSH&lt;/b&gt; vertical (Cathode; Anode; Gate)"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-COMPUTER-PERIPHERAL-POWER-RA-VT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

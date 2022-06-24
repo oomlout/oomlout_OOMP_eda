@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-linear-technology-QFN38-5X7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8474,
+    "index": 35974,
     "tags": [
         {
             "name": "index",
-            "value": 8474
+            "value": 35974
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/H10C"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Metal Can Package&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor H10C&lt;br&gt;&#xD;\nMotorola 603-04 / 603C-01"
         },
         {
             "name": "oompID",

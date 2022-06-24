@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSSR-3.3mm_H2mm_SnapRivet_9776020960
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

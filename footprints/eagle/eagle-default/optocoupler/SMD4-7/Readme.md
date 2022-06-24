@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-optocoupler-SMD4-7
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Pulse_JK0654219NL_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC32R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

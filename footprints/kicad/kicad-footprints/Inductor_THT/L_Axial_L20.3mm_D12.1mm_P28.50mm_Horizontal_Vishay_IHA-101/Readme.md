@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.1mm_P28.50mm_Horizontal_Vishay_IHA-101
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

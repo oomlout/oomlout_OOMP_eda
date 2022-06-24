@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex-105017-0001
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

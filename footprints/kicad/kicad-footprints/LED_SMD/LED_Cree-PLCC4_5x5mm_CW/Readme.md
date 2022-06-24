@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_5x5mm_CW
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

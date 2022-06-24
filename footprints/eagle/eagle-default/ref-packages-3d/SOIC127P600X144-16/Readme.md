@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-3d-SOIC127P600X144-16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-14_1.35x3.5mm_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

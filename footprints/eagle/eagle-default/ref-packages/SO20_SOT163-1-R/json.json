@@ -1,9 +1,9 @@
 {
-    "index": 8925,
+    "index": 36425,
     "tags": [
         {
             "name": "index",
-            "value": 8925
+            "value": 36425
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SO20_SOT163-1-R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SO20 / SOT163-1 Reflow soldering&lt;/b&gt; Philips SC01_Mounting_1996.pdf"
         },
         {
             "name": "oompID",

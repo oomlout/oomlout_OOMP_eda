@@ -1,4 +1,3 @@
-
 <package name="1X06-CLEAN">
 <pad name="1" x="-6.35" y="0" drill="1.016" shape="octagon" rot="R90"/>
 <pad name="2" x="-3.81" y="0" drill="1.016" shape="octagon" rot="R90"/>

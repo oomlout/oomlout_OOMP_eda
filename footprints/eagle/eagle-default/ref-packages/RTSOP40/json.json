@@ -1,9 +1,9 @@
 {
-    "index": 8850,
+    "index": 36350,
     "tags": [
         {
             "name": "index",
-            "value": 8850
+            "value": 36350
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/RTSOP40"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Reverse TSOP40&lt;/b&gt;"
         },
         {
             "name": "oompID",

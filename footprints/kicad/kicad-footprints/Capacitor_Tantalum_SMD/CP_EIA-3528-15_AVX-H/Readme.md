@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-3528-15_AVX-H
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

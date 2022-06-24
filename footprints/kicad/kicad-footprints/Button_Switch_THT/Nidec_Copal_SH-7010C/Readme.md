@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Nidec_Copal_SH-7010C
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

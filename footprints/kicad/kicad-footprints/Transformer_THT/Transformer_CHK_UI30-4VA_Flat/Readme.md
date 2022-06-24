@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI30-4VA_Flat
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

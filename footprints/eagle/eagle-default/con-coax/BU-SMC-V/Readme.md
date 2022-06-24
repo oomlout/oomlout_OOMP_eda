@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-coax-BU-SMC-V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

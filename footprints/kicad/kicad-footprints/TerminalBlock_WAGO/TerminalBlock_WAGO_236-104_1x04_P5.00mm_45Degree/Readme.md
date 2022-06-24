@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-104_1x04_P5.00mm_45Degree
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

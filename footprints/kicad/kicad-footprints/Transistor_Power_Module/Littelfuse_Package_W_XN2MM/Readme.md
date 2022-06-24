@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Littelfuse_Package_W_XN2MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

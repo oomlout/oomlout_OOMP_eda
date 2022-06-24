@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-NC1M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

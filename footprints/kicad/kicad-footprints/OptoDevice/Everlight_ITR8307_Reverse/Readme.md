@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

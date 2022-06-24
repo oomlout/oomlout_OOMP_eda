@@ -1,9 +1,9 @@
 {
-    "index": 142,
+    "index": 27642,
     "tags": [
         {
             "name": "index",
-            "value": 142
+            "value": 27642
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/ARDUINOR3"
+        },
+        {
+            "name": "description",
+            "value": "The new Arduino R3 'classic' adds duplicate I2C pins and an IORef pin (and an unused pin"
         },
         {
             "name": "oompID",

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-B3F-31XX-SKINNIER
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-pot-SP19LKN
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

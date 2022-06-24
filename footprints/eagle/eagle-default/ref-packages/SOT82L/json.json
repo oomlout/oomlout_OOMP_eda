@@ -1,9 +1,9 @@
 {
-    "index": 9129,
+    "index": 36629,
     "tags": [
         {
             "name": "index",
-            "value": 9129
+            "value": 36629
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT82L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\n3-lead molded, horizontal"
         },
         {
             "name": "oompID",

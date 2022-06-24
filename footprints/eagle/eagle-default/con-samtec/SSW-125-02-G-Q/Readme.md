@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-125-02-G-Q
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

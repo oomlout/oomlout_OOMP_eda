@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-fet-SO-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG1000
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

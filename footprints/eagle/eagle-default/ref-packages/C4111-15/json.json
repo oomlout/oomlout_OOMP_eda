@@ -1,9 +1,9 @@
 {
-    "index": 8222,
+    "index": 35722,
     "tags": [
         {
             "name": "index",
-            "value": 8222
+            "value": 35722
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/C4111-15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 5.3 mm, horizontal, grid 15.24 mm"
         },
         {
             "name": "oompID",

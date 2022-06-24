@@ -1,9 +1,9 @@
 {
-    "index": 8627,
+    "index": 36127,
     "tags": [
         {
             "name": "index",
-            "value": 8627
+            "value": 36127
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P-LCC-4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Power TOPLED&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LA_LO_LA_LY E67B.pdf"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-relay-RA-2COIL
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

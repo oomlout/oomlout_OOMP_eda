@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Zetex_SM8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

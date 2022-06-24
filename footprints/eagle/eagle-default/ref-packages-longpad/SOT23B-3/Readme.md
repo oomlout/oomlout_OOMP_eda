@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT23B-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

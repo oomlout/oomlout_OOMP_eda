@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

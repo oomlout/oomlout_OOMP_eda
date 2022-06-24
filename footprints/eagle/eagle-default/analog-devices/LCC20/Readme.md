@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-LCC20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

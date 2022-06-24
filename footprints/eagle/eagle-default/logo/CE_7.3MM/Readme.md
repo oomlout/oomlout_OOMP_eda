@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-logo-CE_7.3MM
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

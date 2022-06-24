@@ -1,9 +1,9 @@
 {
-    "index": 14307,
+    "index": 41807,
     "tags": [
         {
             "name": "index",
-            "value": 14307
+            "value": 41807
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/SD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SD/MMC Socket&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:13&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/datasheets/Prototyping/19608.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SD_CARD_SOCKET&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

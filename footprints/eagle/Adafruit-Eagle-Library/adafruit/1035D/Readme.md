@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1035D
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

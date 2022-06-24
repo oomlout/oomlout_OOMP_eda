@@ -1,9 +1,9 @@
 {
-    "index": 8895,
+    "index": 36395,
     "tags": [
         {
             "name": "index",
-            "value": 8895
+            "value": 36395
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SMQ"
+        },
+        {
+            "name": "description",
+            "value": "3-lead &lt;b&gt;SMD PACKAGE&lt;/b&gt;"
         },
         {
             "name": "oompID",

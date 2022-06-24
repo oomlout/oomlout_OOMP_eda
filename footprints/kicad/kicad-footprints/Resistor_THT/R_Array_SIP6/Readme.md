@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

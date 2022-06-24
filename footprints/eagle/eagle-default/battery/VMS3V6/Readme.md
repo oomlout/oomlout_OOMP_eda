@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-VMS3V6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

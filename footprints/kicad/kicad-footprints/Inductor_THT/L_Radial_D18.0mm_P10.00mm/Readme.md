@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D18.0mm_P10.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

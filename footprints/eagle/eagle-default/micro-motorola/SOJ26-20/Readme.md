@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-motorola-SOJ26-20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

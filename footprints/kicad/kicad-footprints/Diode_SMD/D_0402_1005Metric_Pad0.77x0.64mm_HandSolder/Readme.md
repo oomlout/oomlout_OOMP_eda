@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

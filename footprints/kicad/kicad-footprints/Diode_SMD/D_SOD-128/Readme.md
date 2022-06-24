@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-128
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

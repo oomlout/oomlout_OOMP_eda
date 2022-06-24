@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-MQFP80-1
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: MQFP80-1
 - oompName: eagle-default/ref-packages/MQFP80-1
+- description: &lt;b&gt;Metric Quad Flat Pack&lt;/b&gt;
+
+
+
+[im]: image.png

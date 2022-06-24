@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ftdichip-DLP-USB232M
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

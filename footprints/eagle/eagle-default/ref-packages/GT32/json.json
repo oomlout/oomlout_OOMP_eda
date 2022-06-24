@@ -1,9 +1,9 @@
 {
-    "index": 8469,
+    "index": 35969,
     "tags": [
         {
             "name": "index",
-            "value": 8469
+            "value": 35969
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/GT32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 2.54 mm, horizontal, grid 7.62 mm"
         },
         {
             "name": "oompID",

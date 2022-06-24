@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-123
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

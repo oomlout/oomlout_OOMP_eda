@@ -1,9 +1,9 @@
 {
-    "index": 8770,
+    "index": 36270,
     "tags": [
         {
             "name": "index",
-            "value": 8770
+            "value": 36270
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/R/2012-12W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Chip Capacitor Type KEMET R/EIA 2012-12 Wafe solder&lt;/b&gt;"
         },
         {
             "name": "oompID",

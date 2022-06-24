@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-texas-AAR
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

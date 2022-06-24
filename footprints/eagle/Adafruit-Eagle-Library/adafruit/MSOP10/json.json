@@ -1,9 +1,9 @@
 {
-    "index": 434,
+    "index": 27934,
     "tags": [
         {
             "name": "index",
-            "value": 434
+            "value": 27934
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MSOP10"
+        },
+        {
+            "name": "description",
+            "value": "10-Lead Mini Small Outline Package [MSOP]"
         },
         {
             "name": "oompID",

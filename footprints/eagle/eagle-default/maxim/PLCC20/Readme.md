@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-PLCC20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

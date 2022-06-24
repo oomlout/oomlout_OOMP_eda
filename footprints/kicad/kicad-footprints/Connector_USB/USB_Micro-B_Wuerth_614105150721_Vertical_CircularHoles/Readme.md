@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

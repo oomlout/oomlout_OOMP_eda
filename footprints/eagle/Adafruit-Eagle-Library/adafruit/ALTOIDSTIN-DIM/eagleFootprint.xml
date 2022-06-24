@@ -1,4 +1,3 @@
-
 <package name="ALTOIDSTIN-DIM">
 <wire x1="45.72" y1="15.748" x2="33.02" y2="28.448" width="0.127" layer="20" curve="90"/>
 <wire x1="33.02" y1="28.448" x2="-33.02" y2="28.448" width="0.127" layer="20"/>

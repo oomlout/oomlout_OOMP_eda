@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

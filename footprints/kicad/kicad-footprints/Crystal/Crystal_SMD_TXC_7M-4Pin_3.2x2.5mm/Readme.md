@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 14147,
+    "index": 41647,
     "tags": [
         {
             "name": "index",
-            "value": 14147
+            "value": 41647
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X3_SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Surface Mount - 2x3&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;\n&lt;li&gt;Pin pitch:2.54mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_03x2&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-dil-SOMC14
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

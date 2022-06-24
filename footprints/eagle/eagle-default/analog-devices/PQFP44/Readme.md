@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-PQFP44
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-DUOLED2X5
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

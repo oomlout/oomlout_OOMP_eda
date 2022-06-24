@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-bourns-SO8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

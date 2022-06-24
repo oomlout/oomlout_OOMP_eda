@@ -1,4 +1,3 @@
-
 <package name="BIGTAP">
 <pad name="P$1" x="0" y="0" drill="3.2" diameter="5.08"/>
 <polygon width="0.127" layer="1">

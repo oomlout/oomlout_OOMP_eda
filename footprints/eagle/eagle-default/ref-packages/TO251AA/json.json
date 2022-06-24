@@ -1,9 +1,9 @@
 {
-    "index": 9391,
+    "index": 36891,
     "tags": [
         {
             "name": "index",
-            "value": 9391
+            "value": 36891
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TO251AA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;I-Pak&lt;/b&gt; International Rectifier"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 8590,
+    "index": 36090,
     "tags": [
         {
             "name": "index",
-            "value": 8590
+            "value": 36090
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MPC555"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Ball Grid Array&lt;/b&gt;"
         },
         {
             "name": "oompID",

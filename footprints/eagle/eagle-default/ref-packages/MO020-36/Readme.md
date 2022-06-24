@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-MO020-36
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: MO020-36
 - oompName: eagle-default/ref-packages/MO020-36
+- description: &lt;b&gt;CFP36&lt;/b&gt;&lt;p&gt;&#xD;
+ceramic flat pack
+
+
+
+[im]: image.png

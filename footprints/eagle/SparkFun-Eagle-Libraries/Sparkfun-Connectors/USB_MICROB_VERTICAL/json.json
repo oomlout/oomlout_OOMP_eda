@@ -1,9 +1,9 @@
 {
-    "index": 14345,
+    "index": 41845,
     "tags": [
         {
             "name": "index",
-            "value": 14345
+            "value": 41845
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/USB_MICROB_VERTICAL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;USB Micro-B Plug Connector&lt;/h3&gt;\nManufacturer part #: ZX80-B-5SA&lt;br&gt;\nManufacturer: Hirose&lt;br&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 5 main, 4 shield&lt;/li&gt;\n&lt;p&gt;&lt;a href=https://www.hirose.com/product/en/download_file/key_name/ZX/category/Catalog/doc_file_id/31704/?file_category_id=4&amp;item_id=13&amp;is_series=1&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;USB_Micro-B&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

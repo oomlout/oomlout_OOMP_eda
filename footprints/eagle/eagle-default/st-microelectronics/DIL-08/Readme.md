@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-DIL-08
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

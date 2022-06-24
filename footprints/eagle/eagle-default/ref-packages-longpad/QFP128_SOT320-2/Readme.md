@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-QFP128_SOT320-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

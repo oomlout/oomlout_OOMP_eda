@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-SCREWTERMINAL-3.5MM-9
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

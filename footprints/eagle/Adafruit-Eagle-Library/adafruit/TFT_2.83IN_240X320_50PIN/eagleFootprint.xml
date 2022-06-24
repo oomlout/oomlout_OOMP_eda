@@ -1,4 +1,3 @@
-
 <package name="TFT_2.83IN_240X320_50PIN">
 <wire x1="-25" y1="31.9" x2="25" y2="31.9" width="0.127" layer="51"/>
 <wire x1="25" y1="31.9" x2="25" y2="-37.3" width="0.127" layer="51"/>

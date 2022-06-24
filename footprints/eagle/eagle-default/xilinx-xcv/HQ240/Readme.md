@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-xilinx-xcv-HQ240
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

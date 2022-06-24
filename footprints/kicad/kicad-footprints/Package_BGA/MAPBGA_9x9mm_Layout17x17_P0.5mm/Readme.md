@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-MAPBGA_9x9mm_Layout17x17_P0.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

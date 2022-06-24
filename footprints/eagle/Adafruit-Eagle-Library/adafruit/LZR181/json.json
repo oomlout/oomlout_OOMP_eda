@@ -1,9 +1,9 @@
 {
-    "index": 409,
+    "index": 27909,
     "tags": [
         {
             "name": "index",
-            "value": 409
+            "value": 27909
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/LZR181"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;LED BLOCK&lt;/B&gt;&lt;p&gt;\n1 LED, Siemens"
         },
         {
             "name": "oompID",

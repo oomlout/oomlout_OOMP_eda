@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1350
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

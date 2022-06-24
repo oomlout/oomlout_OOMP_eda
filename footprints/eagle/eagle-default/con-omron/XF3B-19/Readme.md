@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF3B-19
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-TSSOP28
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N20_EP2.7x2.7mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-BMP085
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

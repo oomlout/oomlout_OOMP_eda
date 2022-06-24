@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_GCT_USB3076-30-A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

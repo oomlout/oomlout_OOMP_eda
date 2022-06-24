@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -1,9 +1,9 @@
 {
-    "index": 8290,
+    "index": 35790,
     "tags": [
         {
             "name": "index",
-            "value": 8290
+            "value": 35790
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/D2PACK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;D2PACK&lt;/b&gt;&lt;p&gt;&#xD;\nINTERNATIONAL RECTIFIER, irg4bc15ud-s.pdf"
         },
         {
             "name": "oompID",

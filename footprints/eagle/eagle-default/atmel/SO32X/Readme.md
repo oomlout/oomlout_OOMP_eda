@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-atmel-SO32X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

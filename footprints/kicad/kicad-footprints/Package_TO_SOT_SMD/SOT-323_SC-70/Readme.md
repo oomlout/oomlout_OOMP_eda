@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

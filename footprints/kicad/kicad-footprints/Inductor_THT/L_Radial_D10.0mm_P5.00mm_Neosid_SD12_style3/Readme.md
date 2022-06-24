@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.0mm_P5.00mm_Neosid_SD12_style3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

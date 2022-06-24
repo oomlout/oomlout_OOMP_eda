@@ -1,9 +1,9 @@
 {
-    "index": 8656,
+    "index": 36156,
     "tags": [
         {
             "name": "index",
-            "value": 8656
+            "value": 36156
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/PANASONIC_E"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E&lt;/b&gt;"
         },
         {
             "name": "oompID",

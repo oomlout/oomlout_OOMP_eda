@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

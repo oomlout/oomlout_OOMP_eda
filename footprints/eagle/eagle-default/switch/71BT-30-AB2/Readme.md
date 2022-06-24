@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-switch-71BT-30-AB2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

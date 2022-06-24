@@ -1,9 +1,9 @@
 {
-    "index": 8554,
+    "index": 36054,
     "tags": [
         {
             "name": "index",
-            "value": 8554
+            "value": 36054
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MICROMELF-W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Micro Melf Diode Wave soldering&lt;/b&gt; VISHAY mcl4148.pdf"
         },
         {
             "name": "oompID",

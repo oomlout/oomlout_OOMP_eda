@@ -1,9 +1,9 @@
 {
-    "index": 14244,
+    "index": 41744,
     "tags": [
         {
             "name": "index",
-            "value": 14244
+            "value": 41744
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/MICRO-SD-SOCKET"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;microSD Socket SMD&lt;/h3&gt;\nPuhs-Push type.\n&lt;br&gt; tDocu shows location of uSD card in different positions.\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:12&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www.4uconnector.com/online/object/4udrawing/15882.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;MICRO-SD_CARD_SOCKET&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

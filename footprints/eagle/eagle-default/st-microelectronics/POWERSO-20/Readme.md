@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-st-microelectronics-POWERSO-20
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

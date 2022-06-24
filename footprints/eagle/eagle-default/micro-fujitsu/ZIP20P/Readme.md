@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-fujitsu-ZIP20P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

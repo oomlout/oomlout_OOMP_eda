@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-Fairchild_LSOP-8
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_50mm_Type1_CopperTop
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

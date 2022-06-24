@@ -1,2 +1,29 @@
-
-<package name="MLP322"></package>
+<package name="MLP322" urn="urn:adsk.eagle:footprint:8086234/1">
+<description>&lt;b&gt;MLP322 Package&lt;/b&gt;&lt;p&gt;&#xD;
+Source: www.zetex.com/ .. zxtam322.pdf</description>
+<wire x1="-0.95" y1="0.95" x2="-0.3625" y2="0.95" width="0.1016" layer="51"/>
+<wire x1="-0.3625" y1="0.95" x2="0.375" y2="0.95" width="0.1016" layer="21"/>
+<wire x1="0.375" y1="0.95" x2="0.95" y2="0.95" width="0.1016" layer="51"/>
+<wire x1="0.95" y1="0.95" x2="0.95" y2="0.275" width="0.1016" layer="21"/>
+<wire x1="0.95" y1="0.275" x2="0.95" y2="-0.275" width="0.1016" layer="51"/>
+<wire x1="0.95" y1="-0.275" x2="0.95" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="0.95" y1="-0.95" x2="0.275" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="0.275" y1="-0.95" x2="-0.2625" y2="-0.95" width="0.1016" layer="51"/>
+<wire x1="-0.2625" y1="-0.95" x2="-0.95" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="-0.95" y1="-0.95" x2="-0.95" y2="-0.2875" width="0.1016" layer="21"/>
+<wire x1="-0.95" y1="-0.2875" x2="-0.95" y2="0.2625" width="0.1016" layer="51"/>
+<wire x1="-0.95" y1="0.2625" x2="-0.95" y2="0.95" width="0.1016" layer="21"/>
+<smd name="E" x="-0.65" y="0.9" dx="0.38" dy="0.55" layer="1"/>
+<smd name="B" x="0.65" y="0.9" dx="0.38" dy="0.55" layer="1"/>
+<smd name="C" x="0" y="-0.1875" dx="1.52" dy="0.99" layer="1"/>
+<smd name="C@1" x="-0.9375" y="0" dx="0.475" dy="0.4" layer="1"/>
+<smd name="C@3" x="0.9375" y="0" dx="0.475" dy="0.4" layer="1"/>
+<smd name="C@2" x="0" y="-0.875" dx="0.4" dy="0.6" layer="1"/>
+<text x="-1.27" y="1.27" size="0.6096" layer="25">&gt;NAME</text>
+<text x="-1.27" y="-1.905" size="0.6096" layer="27">&gt;VALUE</text>
+<rectangle x1="0.5125" y1="0.675" x2="0.7875" y2="1.125" layer="51"/>
+<rectangle x1="-0.7875" y1="0.675" x2="-0.5125" y2="1.125" layer="51"/>
+<rectangle x1="-1.125" y1="-0.15" x2="-0.75" y2="0.15" layer="51"/>
+<rectangle x1="0.75" y1="-0.15" x2="1.125" y2="0.15" layer="51"/>
+<rectangle x1="-0.15" y1="-1.125" x2="0.15" y2="-0.675" layer="51"/>
+</package>

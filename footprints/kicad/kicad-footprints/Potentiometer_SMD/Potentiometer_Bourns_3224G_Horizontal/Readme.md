@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224G_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

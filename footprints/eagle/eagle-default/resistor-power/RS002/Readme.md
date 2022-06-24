@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-resistor-power-RS002
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

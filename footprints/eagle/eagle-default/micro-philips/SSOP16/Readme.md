@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-micro-philips-SSOP16
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-203_1x03_P7.50mm_45Degree
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

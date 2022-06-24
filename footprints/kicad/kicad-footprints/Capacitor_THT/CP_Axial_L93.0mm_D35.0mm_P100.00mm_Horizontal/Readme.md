@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L93.0mm_D35.0mm_P100.00mm_Horizontal
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-rcl-RTRIM74X
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

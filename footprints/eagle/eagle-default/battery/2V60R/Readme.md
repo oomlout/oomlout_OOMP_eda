@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-battery-2V60R
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

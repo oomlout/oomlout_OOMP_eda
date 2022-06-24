@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

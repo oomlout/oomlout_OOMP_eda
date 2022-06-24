@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-freescale-QFP-12X12-80E
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

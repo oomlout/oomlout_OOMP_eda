@@ -1,9 +1,9 @@
 {
-    "index": 427,
+    "index": 27927,
     "tags": [
         {
             "name": "index",
-            "value": 427
+            "value": 27927
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MINI_MELF-0207R"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CECC Size RC6123&lt;/b&gt; Reflow Soldering&lt;p&gt;\nsource Beyschlag"
         },
         {
             "name": "oompID",

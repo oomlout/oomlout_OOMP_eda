@@ -1,4 +1,3 @@
-
 <package name="6_PIN_SERIAL_TARGET_SIDE_W_SILK">
 <description>&lt;h3&gt;6 pin Serial Target - Right Angle  SMT with Silk&lt;/h3&gt;
 Package for devices meant to mate to an FTDI connector.

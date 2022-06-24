@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

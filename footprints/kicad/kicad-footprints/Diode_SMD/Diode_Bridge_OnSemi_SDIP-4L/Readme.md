@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_OnSemi_SDIP-4L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

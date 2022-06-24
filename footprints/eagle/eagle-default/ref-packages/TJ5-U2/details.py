@@ -1,6 +1,7 @@
 ###### OOMP FILE  ######
 
 import OOMP
+import OOMPtags
 
 newPart = OOMP.oompItem()
 
@@ -12,5 +13,9 @@ newPart.addTag("oompDesc", "ref-packages")
 newPart.addTag("oompIndex", "TJ5-U2")
 newPart.addTag("oompName", "eagle-default/ref-packages/TJ5-U2")
 
+newPart.addTag("description", """&lt;b&gt;Inductor&lt;/b&gt;&lt;p&gt;&#xD;
+Source: TJ-Serie Vishay.pdf""")
+
+newPart = OOMPtags.addTags(newPart,"FOOTPRINT-eagle-eagle-default-ref-packages-TJ5-U2",hexID='',oompType='FOOTPRINT',oompSize='eagle',oompColor='eagle-default',oompDesc='ref-packages',oompIndex='TJ5-U2')
 
 OOMP.parts.append(newPart)

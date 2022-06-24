@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -23,3 +28,7 @@ Contents
 - kicadTags: phoenix_contact connector GMSTBV_01x11_GF_7.62mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBV_2,5_11-GF-7,62_1x11_P7.62mm_Vertical_ThreadedFlange.wrl
+
+
+
+[im]: image.png

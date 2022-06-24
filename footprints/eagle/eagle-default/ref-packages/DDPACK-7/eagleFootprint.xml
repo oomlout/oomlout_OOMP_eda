@@ -1,2 +1,48 @@
-
-<package name="DDPACK-7"></package>
+<package name="DDPACK-7" urn="urn:adsk.eagle:footprint:8085734/1">
+<description>&lt;b&gt;PLASTIC FLANGE-MOUNT&lt;/b&gt;</description>
+<wire x1="-3.81" y1="5.842" x2="-5.08" y2="5.461" width="0.254" layer="21"/>
+<wire x1="-5.08" y1="5.461" x2="-5.08" y2="-4.953" width="0.254" layer="21"/>
+<wire x1="-5.08" y1="-4.953" x2="5.08" y2="-4.953" width="0.254" layer="21"/>
+<wire x1="5.08" y1="-4.953" x2="5.08" y2="5.461" width="0.254" layer="21"/>
+<wire x1="5.08" y1="5.461" x2="3.683" y2="5.842" width="0.254" layer="21"/>
+<wire x1="3.683" y1="5.842" x2="-3.81" y2="5.842" width="0.254" layer="21"/>
+<smd name="1" x="-3.81" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<smd name="2" x="-2.54" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<smd name="3" x="-1.27" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<smd name="4" x="0" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<smd name="5" x="1.27" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<smd name="6" x="2.54" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<smd name="7" x="3.81" y="-8.255" dx="0.889" dy="3.048" layer="1"/>
+<text x="-3.81" y="6.35" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.81" y="-3.81" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-4.2164" y1="-6.4516" x2="-3.4036" y2="-5.0292" layer="21"/>
+<rectangle x1="-4.2164" y1="-9.4488" x2="-3.4036" y2="-6.4516" layer="51"/>
+<rectangle x1="-2.9464" y1="-6.4516" x2="-2.1336" y2="-5.0292" layer="21"/>
+<rectangle x1="-2.9464" y1="-9.4488" x2="-2.1336" y2="-6.4516" layer="51"/>
+<rectangle x1="-1.6764" y1="-6.4516" x2="-0.8636" y2="-5.0292" layer="21"/>
+<rectangle x1="-1.6764" y1="-9.4488" x2="-0.8636" y2="-6.4516" layer="51"/>
+<rectangle x1="-0.4064" y1="-6.4516" x2="0.4064" y2="-5.0292" layer="21"/>
+<rectangle x1="-0.4064" y1="-9.4488" x2="0.4064" y2="-6.4516" layer="51"/>
+<rectangle x1="0.8636" y1="-6.4516" x2="1.6764" y2="-5.0292" layer="21"/>
+<rectangle x1="0.8636" y1="-9.4488" x2="1.6764" y2="-6.4516" layer="51"/>
+<rectangle x1="2.1336" y1="-6.4516" x2="2.9464" y2="-5.0292" layer="21"/>
+<rectangle x1="2.1336" y1="-9.4488" x2="2.9464" y2="-6.4516" layer="51"/>
+<rectangle x1="3.4036" y1="-6.4516" x2="4.2164" y2="-5.0292" layer="21"/>
+<rectangle x1="3.4036" y1="-9.4488" x2="4.2164" y2="-6.4516" layer="51"/>
+<polygon width="0.0508" layer="49">
+<vertex x="-5.207" y="4.318"/>
+<vertex x="-3.81" y="4.318"/>
+<vertex x="-3.81" y="2.921"/>
+<vertex x="-3.937" y="2.921"/>
+<vertex x="-3.937" y="-2.032"/>
+<vertex x="3.937" y="-2.032"/>
+<vertex x="3.937" y="2.921"/>
+<vertex x="3.81" y="2.921"/>
+<vertex x="3.81" y="4.318"/>
+<vertex x="5.207" y="4.318"/>
+<vertex x="5.207" y="5.461"/>
+<vertex x="3.81" y="5.842"/>
+<vertex x="-3.81" y="5.842"/>
+<vertex x="-5.207" y="5.461"/>
+</polygon>
+</package>

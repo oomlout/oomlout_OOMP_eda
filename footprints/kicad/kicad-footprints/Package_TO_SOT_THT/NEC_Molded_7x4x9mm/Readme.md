@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-NEC_Molded_7x4x9mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

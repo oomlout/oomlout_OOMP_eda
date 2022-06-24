@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SIL05A
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,9 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SIL05A
 - oompName: eagle-default/ref-packages/SIL05A
+- description: 4 &lt;B&gt;DIODES&lt;/B&gt;&lt;p&gt;&#xD;
+single in line 4 diodes with common anode
+
+
+
+[im]: image.png

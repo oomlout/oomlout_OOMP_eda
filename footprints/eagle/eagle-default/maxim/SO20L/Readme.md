@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-maxim-SO20L
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

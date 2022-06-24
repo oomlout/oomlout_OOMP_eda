@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-CUI_CMC-4013-SMT
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

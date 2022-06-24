@@ -1,9 +1,9 @@
 {
-    "index": 418,
+    "index": 27918,
     "tags": [
         {
             "name": "index",
-            "value": 418
+            "value": 27918
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;plastic thin shrink small outline package; 14 leads; body width 4.4 mm &lt;/b&gt;&lt;p&gt;\nSOT402-1&lt;br&gt;\nSource: http://www.onsemi.com/pub_link/Collateral/MC14093B-D.PDF"
         },
         {
             "name": "oompID",

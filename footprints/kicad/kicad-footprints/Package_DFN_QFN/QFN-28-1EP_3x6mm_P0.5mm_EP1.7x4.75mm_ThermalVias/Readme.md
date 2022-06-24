@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28-1EP_3x6mm_P0.5mm_EP1.7x4.75mm_ThermalVias
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ic-package-SOCKET-28-3
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

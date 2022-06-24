@@ -1,9 +1,9 @@
 {
-    "index": 625,
+    "index": 28125,
     "tags": [
         {
             "name": "index",
-            "value": 625
+            "value": 28125
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "Adafruit-Eagle-Library/adafruit/USB-MINIB"
+        },
+        {
+            "name": "description",
+            "value": "Surface Mount USB Mini-B Connector"
         },
         {
             "name": "oompID",

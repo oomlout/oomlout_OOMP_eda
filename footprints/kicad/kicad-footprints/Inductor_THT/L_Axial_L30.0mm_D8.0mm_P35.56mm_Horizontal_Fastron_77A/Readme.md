@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SOT457W_PHILIPS
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

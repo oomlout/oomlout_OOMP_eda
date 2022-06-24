@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-transistor-neu-to92-T-30_V
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

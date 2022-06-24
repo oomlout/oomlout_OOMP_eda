@@ -1,9 +1,9 @@
 {
-    "index": 9092,
+    "index": 36592,
     "tags": [
         {
             "name": "index",
-            "value": 9092
+            "value": 36592
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/SOT23W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;&#xD;\nwave soldering"
         },
         {
             "name": "oompID",

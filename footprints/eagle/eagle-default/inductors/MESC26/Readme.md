@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductors-MESC26
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

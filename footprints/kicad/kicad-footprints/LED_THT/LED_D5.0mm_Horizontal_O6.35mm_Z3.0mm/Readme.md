@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

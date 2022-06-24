@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

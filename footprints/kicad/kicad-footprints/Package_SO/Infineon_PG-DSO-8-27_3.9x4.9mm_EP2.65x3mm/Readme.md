@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

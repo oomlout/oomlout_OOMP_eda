@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-2Pin_W7.0mm_H2.5mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

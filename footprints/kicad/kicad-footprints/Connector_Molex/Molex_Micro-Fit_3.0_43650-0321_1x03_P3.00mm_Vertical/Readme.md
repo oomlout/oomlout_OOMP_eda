@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0321_1x03_P3.00mm_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

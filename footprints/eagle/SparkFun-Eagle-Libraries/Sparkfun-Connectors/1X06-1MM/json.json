@@ -1,9 +1,9 @@
 {
-    "index": 13998,
+    "index": 41498,
     "tags": [
         {
             "name": "index",
-            "value": 13998
+            "value": 41498
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X06-1MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;JST SH Vertical  6-Pin Connector -SMD&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;\n&lt;li&gt;Pin pitch:1mm&lt;/li&gt;\n&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/GPS/EM406-SMDConnector-eSH.pdf&quot;&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_06&lt;/li&gt;\n&lt;li&gt;EM-406&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

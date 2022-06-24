@@ -1,9 +1,9 @@
 {
-    "index": 9536,
+    "index": 37036,
     "tags": [
         {
             "name": "index",
-            "value": 9536
+            "value": 37036
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/TVSOP48"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Small Outline&lt;/b&gt;"
         },
         {
             "name": "oompID",

@@ -1,9 +1,9 @@
 {
-    "index": 14131,
+    "index": 41631,
     "tags": [
         {
             "name": "index",
-            "value": 14131
+            "value": 41631
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/2X12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Plated Through Hole - 2x12&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:24&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;CONN_12x2&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

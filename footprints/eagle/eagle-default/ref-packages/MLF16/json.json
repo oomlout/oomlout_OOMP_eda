@@ -1,9 +1,9 @@
 {
-    "index": 8565,
+    "index": 36065,
     "tags": [
         {
             "name": "index",
-            "value": 8565
+            "value": 36065
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/MLF16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;HP-VFQFP-N16&lt;/b&gt; Micro Lead Frame package (MLF)"
         },
         {
             "name": "oompID",

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-X2SON-8_1.4x1mm_P0.35mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

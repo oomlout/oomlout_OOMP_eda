@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-inductor-neosid-SM-RM6
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

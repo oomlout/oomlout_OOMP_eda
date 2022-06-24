@@ -1,9 +1,9 @@
 {
-    "index": 14179,
+    "index": 41679,
     "tags": [
         {
             "name": "index",
-            "value": 14179
+            "value": 41679
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/AUDIO_JACK_0.25&quot;_TRS_PTH_RA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Right Angle -1/4&quot; Stereo Jack&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://cdn.sparkfun.com/datasheets/Components/General/JP-611%20DD.jpg&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;AUDIO_JACK_TRS_0.25&quot;_PTH_RA&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
         },
         {
             "name": "oompID",

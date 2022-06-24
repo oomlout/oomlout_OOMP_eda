@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector-CUI_PD-30S_CircularHoles
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

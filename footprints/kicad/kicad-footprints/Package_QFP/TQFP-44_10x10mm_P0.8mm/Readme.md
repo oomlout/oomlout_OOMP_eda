@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-44_10x10mm_P0.8mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

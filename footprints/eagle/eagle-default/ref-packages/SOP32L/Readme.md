@@ -7,8 +7,13 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-SOP32L
+- Name: 
+- Description: 
 
 ## Tags
 
@@ -19,3 +24,8 @@ Contents
 - oompDesc: ref-packages
 - oompIndex: SOP32L
 - oompName: eagle-default/ref-packages/SOP32L
+- description: &lt;b&gt;Small Outline Package&lt;/b&gt; large
+
+
+
+[im]: image.png

@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_1P1T_NO_LED_E-Switch_TL1250
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

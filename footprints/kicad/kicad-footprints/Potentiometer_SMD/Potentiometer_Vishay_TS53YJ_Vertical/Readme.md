@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YJ_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

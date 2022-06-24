@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-analog-devices-LQFP-ST-64-2
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

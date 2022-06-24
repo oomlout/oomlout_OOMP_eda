@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMB_Jack_Vertical
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

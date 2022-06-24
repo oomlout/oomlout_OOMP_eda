@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ZETA-433-SO_SMD
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_40mm_SilkScreen
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

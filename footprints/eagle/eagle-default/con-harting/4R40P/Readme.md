@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-con-harting-4R40P
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

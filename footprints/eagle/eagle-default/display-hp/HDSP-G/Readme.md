@@ -10,6 +10,10 @@ Contents
 
 # 
 
+- ID: FOOTPRINT-eagle-eagle-default-display-hp-HDSP-G
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 

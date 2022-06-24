@@ -1,9 +1,9 @@
 {
-    "index": 8651,
+    "index": 36151,
     "tags": [
         {
             "name": "index",
-            "value": 8651
+            "value": 36151
         },
         {
             "name": "hexID",
@@ -32,6 +32,10 @@
         {
             "name": "oompName",
             "value": "eagle-default/ref-packages/P6T15"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;DIODE&lt;/B&gt;&lt;p&gt;&#xD;\ndiameter 9 mm, horizontal, grid 15.24 mm"
         },
         {
             "name": "oompID",

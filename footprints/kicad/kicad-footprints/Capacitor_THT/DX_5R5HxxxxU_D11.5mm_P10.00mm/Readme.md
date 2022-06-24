@@ -11,6 +11,10 @@ Contents
 ![][im]
 # 
 
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5HxxxxU_D11.5mm_P10.00mm
+- Name: 
+- Description: 
+
 ## Tags
 
 - hexID: 
