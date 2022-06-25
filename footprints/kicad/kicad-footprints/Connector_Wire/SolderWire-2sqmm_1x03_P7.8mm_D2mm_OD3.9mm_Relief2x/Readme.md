@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-2sqmm_1x03_P7.8mm_D2mm_OD3.9mm_Relief2x
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector wire 2sqmm double-strain-relief
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-2sqmm_1x03_P7.8mm_D2mm_OD3.9mm_Relief2x.wrl
+
+
+
+[im]: image.png

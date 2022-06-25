@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x11_P2.54mm_Vertical_SMD_Pin1Right
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Surface mounted socket strip SMD 1x11 2.54mm single row style2 pin1 right
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x11_P2.54mm_Vertical_SMD_Pin1Right.wrl
+
+
+
+[im]: image.png

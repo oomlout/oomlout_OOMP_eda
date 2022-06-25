@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT crystalHC-50
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC50_Vertical.wrl
+
+
+
+[im]: image.png

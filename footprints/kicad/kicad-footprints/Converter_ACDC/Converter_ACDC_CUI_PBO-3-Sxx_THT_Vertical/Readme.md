@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Converter AC-DC THT Vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical.wrl
+
+
+
+[im]: image.png

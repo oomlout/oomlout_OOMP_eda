@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: FMC HPC
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical.wrl
+
+
+
+[im]: image.png

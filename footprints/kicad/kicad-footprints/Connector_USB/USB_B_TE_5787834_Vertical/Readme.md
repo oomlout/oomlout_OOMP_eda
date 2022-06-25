@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_TE_5787834_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: USB_B USB B vertical female connector
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_TE_5787834_Vertical.wrl
+
+
+
+[im]: image.png

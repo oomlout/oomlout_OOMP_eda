@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SC70-3-W
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: SC70-3-W
 - oompName: eagle-default/diode/SC70-3-W
+
+
+
+[im]: image.png

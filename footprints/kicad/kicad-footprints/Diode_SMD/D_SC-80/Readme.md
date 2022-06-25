@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SC-80
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SC-80
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SC-80.wrl
+
+
+
+[im]: image.png

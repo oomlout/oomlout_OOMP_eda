@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SAS-mini_TEConnectivity_1888174_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SAS mini connector
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_SATA_SAS.3dshapes/SAS-mini_TEConnectivity_1888174_Vertical.wrl
+
+
+
+[im]: image.png

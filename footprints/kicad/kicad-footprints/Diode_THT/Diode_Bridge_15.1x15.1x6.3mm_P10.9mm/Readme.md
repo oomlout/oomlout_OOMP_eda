@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.1x15.1x6.3mm_P10.9mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diode Bridge PB10xxS
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_15.1x15.1x6.3mm_P10.9mm.wrl
+
+
+
+[im]: image.png

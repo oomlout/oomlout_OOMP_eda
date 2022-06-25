@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: USB USB_B USB_micro USB_OTG
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal.wrl
+
+
+
+[im]: image.png

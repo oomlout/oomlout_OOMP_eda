@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SO28W
@@ -23,3 +24,7 @@ Contents
 - oompDesc: 74ac-logic
 - oompIndex: SO28W
 - oompName: eagle-default/74ac-logic/SO28W
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_AK
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PowerMite2
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite2_AK.wrl
+
+
+
+[im]: image.png

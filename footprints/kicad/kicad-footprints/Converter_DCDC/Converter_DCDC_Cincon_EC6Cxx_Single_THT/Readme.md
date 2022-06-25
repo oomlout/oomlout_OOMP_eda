@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cincon_EC6Cxx_Single_THT
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DCDC-Converter CINCON EC6Cxx single output
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cincon_EC6Cxx_Single_THT.wrl
+
+
+
+[im]: image.png

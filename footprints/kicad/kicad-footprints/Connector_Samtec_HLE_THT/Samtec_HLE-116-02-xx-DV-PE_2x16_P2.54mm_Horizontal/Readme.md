@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-116-02-xx-DV-PE_2x16_P2.54mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector Samtec HLE top entry
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_THT.3dshapes/Samtec_HLE-116-02-xx-DV-PE_2x16_P2.54mm_Horizontal.wrl
+
+
+
+[im]: image.png

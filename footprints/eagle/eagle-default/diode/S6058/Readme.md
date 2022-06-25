@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-S6058
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: S6058
 - oompName: eagle-default/diode/S6058
+
+
+
+[im]: image.png

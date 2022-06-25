@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: USB USB_B USB_Mini connector
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Lumberg_2486_01_Horizontal.wrl
+
+
+
+[im]: image.png

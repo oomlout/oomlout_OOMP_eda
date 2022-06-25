@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diotec rectifier diode bridge
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm.wrl
+
+
+
+[im]: image.png

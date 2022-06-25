@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm_Relief
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector wire 0.5sqmm strain-relief
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm_Relief.wrl
+
+
+
+[im]: image.png

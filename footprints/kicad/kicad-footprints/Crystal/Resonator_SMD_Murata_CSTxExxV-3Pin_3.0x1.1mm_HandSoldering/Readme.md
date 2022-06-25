@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD SMT ceramic resonator filter
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SOD-323
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.wrl
+
+
+
+[im]: image.png

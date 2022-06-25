@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Wuerth stacked USB_A
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl
+
+
+
+[im]: image.png

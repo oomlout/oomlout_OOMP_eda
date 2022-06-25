@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-IA48xxS_THT
@@ -27,3 +28,7 @@ Contents
 - kicadTags: XP_POWER  IA48xxS SIP DCDC-Converter
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-IA48xxS_THT.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_2x31_P2.00mm_Vertical_SMD
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Surface mounted socket strip SMD 2x31 2.00mm double row
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_2x31_P2.00mm_Vertical_SMD.wrl
+
+
+
+[im]: image.png

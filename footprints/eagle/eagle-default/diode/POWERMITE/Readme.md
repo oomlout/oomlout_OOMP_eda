@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-POWERMITE
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: POWERMITE
 - oompName: eagle-default/diode/POWERMITE
+
+
+
+[im]: image.png

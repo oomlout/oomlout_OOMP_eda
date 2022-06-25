@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_5767171-1_2x19_P0.635mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: mictor38 receptacle board-to-board
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_5767171-1_2x19_P0.635mm_Vertical.wrl
+
+
+
+[im]: image.png

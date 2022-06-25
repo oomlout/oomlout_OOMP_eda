@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NXExSxxxxMC_SMD
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Isolated 1W or 2W Single Output SM DC/DC Converters
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NXE2SxxxxMC_SMD.wrl
+
+
+
+[im]: image.png

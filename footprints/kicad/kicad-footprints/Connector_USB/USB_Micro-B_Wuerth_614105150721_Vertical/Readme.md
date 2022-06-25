@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_614105150721_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: usb micro receptacle vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_614105150721_Vertical.wrl
+
+
+
+[im]: image.png

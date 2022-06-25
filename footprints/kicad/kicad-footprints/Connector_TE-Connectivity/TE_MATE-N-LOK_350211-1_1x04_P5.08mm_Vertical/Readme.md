@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl
+
+
+
+[im]: image.png

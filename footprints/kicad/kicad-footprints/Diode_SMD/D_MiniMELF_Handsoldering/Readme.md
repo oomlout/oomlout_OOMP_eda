@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF_Handsoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diode Mini-MELF (SOD-80) Handsoldering
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.wrl
+
+
+
+[im]: image.png

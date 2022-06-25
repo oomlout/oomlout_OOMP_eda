@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1812_4532Metric
@@ -27,3 +28,7 @@ Contents
 - kicadTags: diode
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_1812_4532Metric.wrl
+
+
+
+[im]: image.png

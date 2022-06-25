@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800811622_1x08_P1.50mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector Wuerth WR-WTB vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800811622_1x08_P1.50mm_Vertical.wrl
+
+
+
+[im]: image.png

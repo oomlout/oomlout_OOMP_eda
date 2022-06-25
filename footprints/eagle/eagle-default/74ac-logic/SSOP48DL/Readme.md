@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-SSOP48DL
@@ -23,3 +24,7 @@ Contents
 - oompDesc: 74ac-logic
 - oompIndex: SSOP48DL
 - oompName: eagle-default/74ac-logic/SSOP48DL
+
+
+
+[im]: image.png

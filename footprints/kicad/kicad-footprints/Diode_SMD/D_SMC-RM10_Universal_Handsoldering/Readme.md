@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC-RM10_Universal_Handsoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl
+
+
+
+[im]: image.png

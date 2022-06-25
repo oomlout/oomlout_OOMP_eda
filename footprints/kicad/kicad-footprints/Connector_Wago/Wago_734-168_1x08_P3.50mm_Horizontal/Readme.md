@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-168_1x08_P3.50mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector Wago  top entry
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-168_1x08_P3.50mm_Horizontal.wrl
+
+
+
+[im]: image.png

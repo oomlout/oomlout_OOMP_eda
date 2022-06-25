@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_826576-8_1x08_P3.96mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector TE 826576 vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_826576-8_1x08_P3.96mm_Vertical.wrl
+
+
+
+[im]: image.png

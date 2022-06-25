@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-S7379-01
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: S7379-01
 - oompName: eagle-default/diode/S7379-01
+
+
+
+[im]: image.png

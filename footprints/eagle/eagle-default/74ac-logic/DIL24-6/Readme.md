@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-74ac-logic-DIL24-6
@@ -23,3 +24,7 @@ Contents
 - oompDesc: 74ac-logic
 - oompIndex: DIL24-6
 - oompName: eagle-default/74ac-logic/DIL24-6
+
+
+
+[im]: image.png

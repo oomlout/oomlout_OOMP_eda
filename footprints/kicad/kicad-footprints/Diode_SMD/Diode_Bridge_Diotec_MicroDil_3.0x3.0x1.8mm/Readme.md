@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diotec MicroDil diode bridge
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm.wrl
+
+
+
+[im]: image.png

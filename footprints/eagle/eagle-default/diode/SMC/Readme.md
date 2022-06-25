@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SMC
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: SMC
 - oompName: eagle-default/diode/SMC
+
+
+
+[im]: image.png

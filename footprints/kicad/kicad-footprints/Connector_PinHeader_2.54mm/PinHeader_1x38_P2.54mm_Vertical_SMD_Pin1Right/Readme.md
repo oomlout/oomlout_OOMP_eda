@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x38_P2.54mm_Vertical_SMD_Pin1Right
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Surface mounted pin header SMD 1x38 2.54mm single row style2 pin1 right
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x38_P2.54mm_Vertical_SMD_Pin1Right.wrl
+
+
+
+[im]: image.png

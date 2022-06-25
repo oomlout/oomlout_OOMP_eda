@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_1-794106-x_2x10_P4.14mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector TE MATE-N-LOK top entry
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_1-794106-x_2x10_P4.14mm_Horizontal.wrl
+
+
+
+[im]: image.png

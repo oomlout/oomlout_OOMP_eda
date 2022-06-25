@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex-105133-0031
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Micro-USB SMD Typ-B Vertical
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Molex-105133-0031.wrl
+
+
+
+[im]: image.png

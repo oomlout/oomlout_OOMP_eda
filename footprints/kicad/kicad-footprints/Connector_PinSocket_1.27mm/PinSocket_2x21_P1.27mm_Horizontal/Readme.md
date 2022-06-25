@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_2x21_P1.27mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Through hole angled socket strip THT 2x21 1.27mm double row
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_2x21_P1.27mm_Horizontal.wrl
+
+
+
+[im]: image.png

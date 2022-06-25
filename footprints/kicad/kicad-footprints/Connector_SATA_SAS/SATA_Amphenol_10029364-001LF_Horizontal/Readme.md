@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SATA_Amphenol_10029364-001LF_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SATA
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_SATA_SAS.3dshapes/SATA_Amphenol_10029364-001LF_Horizontal.wrl
+
+
+
+[im]: image.png

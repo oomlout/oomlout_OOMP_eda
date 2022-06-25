@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1667-6-0-1717_1x17_P2.50mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Stocko RFK MKS 16xx
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Stocko.3dshapes/Stocko_MKS_1667-6-0-1717_1x17_P2.50mm_Vertical.wrl
+
+
+
+[im]: image.png

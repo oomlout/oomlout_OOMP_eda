@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB-SMC_Universal_Handsoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl
+
+
+
+[im]: image.png

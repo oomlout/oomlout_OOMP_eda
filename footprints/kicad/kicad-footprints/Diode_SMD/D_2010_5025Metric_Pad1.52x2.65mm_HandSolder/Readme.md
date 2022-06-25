@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2010_5025Metric_Pad1.52x2.65mm_HandSolder
@@ -27,3 +28,7 @@ Contents
 - kicadTags: diode handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_2010_5025Metric.wrl
+
+
+
+[im]: image.png

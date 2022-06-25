@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TE 776087
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD SMT crystal
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm.wrl
+
+
+
+[im]: image.png

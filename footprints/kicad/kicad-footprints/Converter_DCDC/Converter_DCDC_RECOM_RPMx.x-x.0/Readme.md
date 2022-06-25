@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf
 - kicadTags: dc-dc recom buck lga-25 pitch 2.29mm
 - kicadAttr: smd
+
+
+
+[im]: image.png

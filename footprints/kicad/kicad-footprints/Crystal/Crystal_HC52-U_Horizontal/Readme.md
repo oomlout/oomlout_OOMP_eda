@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-U_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT crystal
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-U_Horizontal.wrl
+
+
+
+[im]: image.png

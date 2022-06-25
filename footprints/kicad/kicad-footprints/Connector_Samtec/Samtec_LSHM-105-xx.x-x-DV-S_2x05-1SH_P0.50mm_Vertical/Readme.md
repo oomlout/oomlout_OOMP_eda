@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector Samtec  side entry
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_LSHM-105-xx.x-x-DV-S_2x05-1SH_P0.50mm_Vertical.wrl
+
+
+
+[im]: image.png

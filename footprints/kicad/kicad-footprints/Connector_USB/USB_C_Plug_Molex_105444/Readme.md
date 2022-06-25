@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_Molex_105444
@@ -27,3 +28,7 @@ Contents
 - kicadTags: USB Type-C Plug Edge Mount
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_Molex_105444.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ISU02_SMD
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DCDC SMD XP POWER ISU02
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ISU02-Series_SMD.wrl
+
+
+
+[im]: image.png

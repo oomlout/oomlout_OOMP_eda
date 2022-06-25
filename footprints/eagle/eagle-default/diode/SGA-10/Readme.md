@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-SGA-10
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: SGA-10
 - oompName: eagle-default/diode/SGA-10
+
+
+
+[im]: image.png

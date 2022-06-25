@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS26_D2.0mm_L6.0mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: ['DS26']
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_DS26_D2.0mm_L6.0mm_Vertical.wrl
+
+
+
+[im]: image.png

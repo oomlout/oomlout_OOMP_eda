@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWire-1sqmm_1x02_P5.4mm_D1.4mm_OD2.7mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector wire 1sqmm
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-1sqmm_1x02_P5.4mm_D1.4mm_OD2.7mm.wrl
+
+
+
+[im]: image.png

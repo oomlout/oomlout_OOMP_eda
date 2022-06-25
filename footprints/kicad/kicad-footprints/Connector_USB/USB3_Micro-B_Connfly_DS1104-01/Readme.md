@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_Micro-B_Connfly_DS1104-01
@@ -27,3 +28,7 @@ Contents
 - kicadTags: USB 3.0 Micro B SMD right angle
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB3_Micro-B_Connfly_DS1104-01.wrl
+
+
+
+[im]: image.png

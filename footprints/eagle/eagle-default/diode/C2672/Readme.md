@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-diode-C2672
@@ -23,3 +24,7 @@ Contents
 - oompDesc: diode
 - oompIndex: C2672
 - oompName: eagle-default/diode/C2672
+
+
+
+[im]: image.png

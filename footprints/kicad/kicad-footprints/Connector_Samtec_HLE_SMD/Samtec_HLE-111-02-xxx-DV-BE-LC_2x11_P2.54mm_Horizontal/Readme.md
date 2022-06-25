@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-111-02-xxx-DV-BE-LC_2x11_P2.54mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: connector Samtec HLE horizontal
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-111-02-xxx-DV-LC_2x11_P2.54mm_Horizontal.wrl
+
+
+
+[im]: image.png

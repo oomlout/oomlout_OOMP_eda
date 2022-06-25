@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
@@ -27,3 +28,7 @@ Contents
 - kicadTags: usb mini receptacle vertical
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Tensility_54-00023_Vertical.wrl
+
+
+
+[im]: image.png
