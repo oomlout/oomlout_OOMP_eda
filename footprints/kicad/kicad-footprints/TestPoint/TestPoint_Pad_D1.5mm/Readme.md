@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D1.5mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: SMD pad as test Point, diameter 1.5mm
 - kicadTags: test point SMD pad
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LGA NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y.wrl
+
+
+
+[im]: image.png

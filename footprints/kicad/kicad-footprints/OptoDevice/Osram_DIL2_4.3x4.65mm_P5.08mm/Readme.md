@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PhotoDiode plastic DIL RM5.08
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65mm_P5.08mm.wrl
+
+
+
+[im]: image.png

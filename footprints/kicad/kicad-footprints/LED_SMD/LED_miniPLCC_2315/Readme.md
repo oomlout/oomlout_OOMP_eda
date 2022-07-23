@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_miniPLCC_2315
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_miniPLCC_2315.wrl
+
+
+
+[im]: image.png

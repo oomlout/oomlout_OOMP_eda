@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-con-stocko-MKS1868-6-0-1818
@@ -23,3 +24,7 @@ Contents
 - oompDesc: con-stocko
 - oompIndex: MKS1868-6-0-1818
 - oompName: eagle-default/con-stocko/MKS1868-6-0-1818
+
+
+
+[im]: image.png

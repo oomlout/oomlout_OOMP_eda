@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CSG324
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 324 0.8 CS324 CSG324
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSG324.wrl
+
+
+
+[im]: image.png

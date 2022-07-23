@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_0402_1005Metric
@@ -27,3 +28,7 @@ Contents
 - kicadTags: fuse
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_0402_1005Metric.wrl
+
+
+
+[im]: image.png

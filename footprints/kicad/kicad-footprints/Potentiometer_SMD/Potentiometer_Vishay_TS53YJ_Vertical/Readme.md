@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YJ_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Potentiometer vertical Vishay TS53YJ
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YJ_Vertical.wrl
+
+
+
+[im]: image.png

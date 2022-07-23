@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas Instruments DSBGA BGA
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm.wrl
+
+
+
+[im]: image.png

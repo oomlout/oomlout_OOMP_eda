@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WSON NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.wrl
+
+
+
+[im]: image.png

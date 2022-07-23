@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_SO-8EP
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SO exposed pad
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_SO-8EP.wrl
+
+
+
+[im]: image.png

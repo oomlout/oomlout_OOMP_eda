@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU8028_8.0x8.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Bourns SRU8028 SMD inductor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRU8028_8.0x8.0mm.wrl
+
+
+
+[im]: image.png

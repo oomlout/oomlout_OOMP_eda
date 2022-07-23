@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201_P15.24mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5.21mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201_P15.24mm_Horizontal.wrl
+
+
+
+[im]: image.png

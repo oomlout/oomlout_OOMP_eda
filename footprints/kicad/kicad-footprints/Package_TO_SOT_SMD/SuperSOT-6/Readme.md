@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-6
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SuperSOT-6 SSOT-6
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SuperSOT-6.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 2.5mm 2mm SMD
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm.wrl
+
+
+
+[im]: image.png

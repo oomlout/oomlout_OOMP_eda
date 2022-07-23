@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_PWP0020A
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PWP HTSSOP 0.65mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_PWP0020A.wrl
+
+
+
+[im]: image.png

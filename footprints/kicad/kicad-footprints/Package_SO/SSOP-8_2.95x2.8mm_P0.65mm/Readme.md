@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_2.95x2.8mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SSOP-8 2.95x2.8mm Pitch 0.65mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_2.95x2.8mm_P0.65mm.wrl
+
+
+
+[im]: image.png

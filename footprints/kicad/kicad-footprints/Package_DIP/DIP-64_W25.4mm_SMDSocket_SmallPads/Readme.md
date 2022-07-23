@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W25.4mm_SMDSocket_SmallPads
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-64_W25.4mm_SMDSocket.wrl
+
+
+
+[im]: image.png

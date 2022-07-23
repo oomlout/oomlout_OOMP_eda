@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-TO-220-7Lead_TabPin8
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Infineon PG-TO-220-7
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TO-220-7Lead_TabPin8.wrl
+
+
+
+[im]: image.png

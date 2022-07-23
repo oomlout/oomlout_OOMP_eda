@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-con-samtec-SSW-143-02-G-S
@@ -23,3 +24,7 @@ Contents
 - oompDesc: con-samtec
 - oompIndex: SSW-143-02-G-S
 - oompName: eagle-default/con-samtec/SSW-143-02-G-S
+
+
+
+[im]: image.png

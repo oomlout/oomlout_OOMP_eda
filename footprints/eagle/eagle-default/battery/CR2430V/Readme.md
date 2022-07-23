@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-CR2430V
@@ -23,3 +24,7 @@ Contents
 - oompDesc: battery
 - oompIndex: CR2430V
 - oompName: eagle-default/battery/CR2430V
+
+
+
+[im]: image.png

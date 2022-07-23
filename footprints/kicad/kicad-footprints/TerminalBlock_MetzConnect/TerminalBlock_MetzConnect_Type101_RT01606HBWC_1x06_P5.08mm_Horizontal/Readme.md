@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type101_RT01606HBWC_1x06_P5.08mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT terminal block Metz Connect Type101_RT01606HBWC pitch 5.08mm size 30.5x8mm^2 drill 1.3mm pad 2.5mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01606HBWC_1x06_P5.08mm_Horizontal.wrl
+
+
+
+[im]: image.png

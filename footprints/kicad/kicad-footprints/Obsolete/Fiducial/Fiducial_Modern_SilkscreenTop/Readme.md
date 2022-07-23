@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_Modern_SilkscreenTop
@@ -25,3 +26,7 @@ Contents
 - oompName: kicad-footprints/Obsolete\Fiducial/Fiducial_Modern_SilkscreenTop
 - kicadDesc: Fiducial, Modern, Silkscreen Top
 - kicadAttr: smd
+
+
+
+[im]: image.png

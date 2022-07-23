@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-3.2mm_H5.6mm_ReverseMount_9775056960
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Mounting 3.2mm 9775056960
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-3.2mm_H5.6mm_ReverseMount_9775056960.wrl
+
+
+
+[im]: image.png

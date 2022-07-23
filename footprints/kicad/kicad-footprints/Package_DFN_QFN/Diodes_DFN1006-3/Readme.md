@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_DFN1006-3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN package size 1006 3 pins
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_DFN1006-3.wrl
+
+
+
+[im]: image.png

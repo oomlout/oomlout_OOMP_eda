@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 10-Element Bar Graph Array
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSP-48xx.wrl
+
+
+
+[im]: image.png

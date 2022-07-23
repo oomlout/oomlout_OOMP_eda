@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Barrel_Polarity
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Barrel connector polarity indicator
 - kicadTags: barrel polarity
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

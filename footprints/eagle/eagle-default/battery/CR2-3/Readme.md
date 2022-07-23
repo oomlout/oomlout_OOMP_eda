@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-CR2/3
@@ -23,3 +24,7 @@ Contents
 - oompDesc: battery
 - oompIndex: CR2/3
 - oompName: eagle-default/battery/CR2/3
+
+
+
+[im]: image.png

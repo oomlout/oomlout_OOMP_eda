@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMZ250
@@ -27,3 +28,7 @@ Contents
 - kicadTags: fuse smd mount holder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMZ250.wrl
+
+
+
+[im]: image.png

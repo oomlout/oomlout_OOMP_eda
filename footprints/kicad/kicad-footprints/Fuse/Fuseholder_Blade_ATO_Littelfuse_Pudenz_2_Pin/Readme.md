@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fuseholder ATO Blade littelfuse Pudenz 2 Pin
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin.wrl
+
+
+
+[im]: image.png

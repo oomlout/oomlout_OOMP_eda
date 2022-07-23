@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W15.24mm_Socket
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-64_W15.24mm_Socket.wrl
+
+
+
+[im]: image.png

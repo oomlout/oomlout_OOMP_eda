@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-4_W10.16mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT DIP DIL PDIP 2.54mm 10.16mm 400mil
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-4_W10.16mm.wrl
+
+
+
+[im]: image.png

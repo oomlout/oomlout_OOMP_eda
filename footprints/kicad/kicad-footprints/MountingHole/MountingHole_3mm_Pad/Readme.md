@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm_Pad
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Mounting Hole 3mm
 - kicadTags: mounting hole 3mm
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

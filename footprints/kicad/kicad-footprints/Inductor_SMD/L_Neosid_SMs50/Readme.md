@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs50
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Neosid Inductor SMs50 Fixed inductor SMD magneticaly shielded
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SMs50.wrl
+
+
+
+[im]: image.png

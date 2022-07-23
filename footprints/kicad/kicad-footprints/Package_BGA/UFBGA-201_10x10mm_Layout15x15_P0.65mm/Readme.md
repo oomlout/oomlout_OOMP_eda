@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-201_10x10mm_Layout15x15_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 201 0.65
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-201_10x10mm_Layout15x15_P0.65mm.wrl
+
+
+
+[im]: image.png

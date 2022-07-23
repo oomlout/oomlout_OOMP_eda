@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1408
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SELF
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_SELF1408.wrl
+
+
+
+[im]: image.png

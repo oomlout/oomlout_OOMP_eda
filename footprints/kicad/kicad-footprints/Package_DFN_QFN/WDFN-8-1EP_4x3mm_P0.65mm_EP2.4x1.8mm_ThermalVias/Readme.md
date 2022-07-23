@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WDFN NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm.wrl
+
+
+
+[im]: image.png

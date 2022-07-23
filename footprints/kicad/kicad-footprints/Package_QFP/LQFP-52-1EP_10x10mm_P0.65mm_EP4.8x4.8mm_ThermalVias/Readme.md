@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LQFP QFP
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-52-1EP_10x10mm_P0.65mm_EP4.8x4.8mm.wrl
+
+
+
+[im]: image.png

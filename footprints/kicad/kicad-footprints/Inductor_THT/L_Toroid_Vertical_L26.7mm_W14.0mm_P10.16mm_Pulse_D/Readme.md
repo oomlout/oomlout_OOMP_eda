@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D
@@ -27,3 +28,7 @@ Contents
 - kicadTags: L_Toroid Vertical series Radial pin pitch 10.16mm  length 26.67mm width 13.97mm Pulse D
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D.wrl
+
+
+
+[im]: image.png

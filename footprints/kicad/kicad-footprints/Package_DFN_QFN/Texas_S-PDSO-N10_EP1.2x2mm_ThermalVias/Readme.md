@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PDSO-N10_EP1.2x2mm_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PDSO-N10_EP1.2x2mm.wrl
+
+
+
+[im]: image.png

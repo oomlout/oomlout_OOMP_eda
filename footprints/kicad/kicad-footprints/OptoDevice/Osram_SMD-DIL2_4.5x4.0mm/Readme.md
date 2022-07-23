@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-DIL2_4.5x4.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PhotoDiode plastic SMD DIL
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SMD-DIL2_4.5x4.0mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WSON NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm.wrl
+
+
+
+[im]: image.png

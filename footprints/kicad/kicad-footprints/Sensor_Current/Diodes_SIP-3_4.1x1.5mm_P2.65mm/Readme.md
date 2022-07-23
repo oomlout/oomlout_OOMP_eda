@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Diodes SIP-3 Ammo Pack
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl
+
+
+
+[im]: image.png

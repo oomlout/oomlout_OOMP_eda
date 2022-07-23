@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV317
@@ -27,3 +28,7 @@ Contents
 - kicadTags: OCXO
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV317.wrl
+
+
+
+[im]: image.png

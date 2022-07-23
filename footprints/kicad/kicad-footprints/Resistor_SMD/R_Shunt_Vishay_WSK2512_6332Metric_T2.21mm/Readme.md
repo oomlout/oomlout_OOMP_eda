@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: resistor shunt WSK2512
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm.wrl
+
+
+
+[im]: image.png

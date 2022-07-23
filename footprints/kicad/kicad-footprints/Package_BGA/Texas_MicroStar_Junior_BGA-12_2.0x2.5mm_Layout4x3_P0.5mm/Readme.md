@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas_Junior_BGA-12
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm.wrl
+
+
+
+[im]: image.png

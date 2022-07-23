@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA04-11SEKWA
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Dubble digit super bright orange 7 segment LED display
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA04-11SEKWA.wrl
+
+
+
+[im]: image.png

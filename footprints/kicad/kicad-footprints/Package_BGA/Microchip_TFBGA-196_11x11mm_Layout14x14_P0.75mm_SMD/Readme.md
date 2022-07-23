@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 196 0.75
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD.wrl
+
+
+
+[im]: image.png

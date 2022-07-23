@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-atmel-PLCC52
@@ -23,3 +24,7 @@ Contents
 - oompDesc: atmel
 - oompIndex: PLCC52
 - oompName: eagle-default/atmel/PLCC52
+
+
+
+[im]: image.png

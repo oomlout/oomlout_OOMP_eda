@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-80_14x20mm_P0.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFP 0.8
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-80_14x20mm_P0.8mm.wrl
+
+
+
+[im]: image.png

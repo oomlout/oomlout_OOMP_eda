@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGE0024C_EP2.1x2.1mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas QFN NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGE0024C_EP2.1x2.1mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-QSOP-24_3.9x8.7mm_P0.635mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QSOP 0.635
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/QSOP-24_3.9x8.7mm_P0.635mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-Sx39-1xxxxx
@@ -27,3 +28,7 @@ Contents
 - kicadTags: One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/Sx39-1xxxxx.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-GPL_CopperTop_Big
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Symbol, GNU-GPL, Copper Top, Big,
 - kicadTags: Symbol, GNU-GPL, Copper Top, Big,
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

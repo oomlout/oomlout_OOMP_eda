@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-6-H_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Potentiometer horizontal Piher PT-6-H
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-6-H_Horizontal.wrl
+
+
+
+[im]: image.png

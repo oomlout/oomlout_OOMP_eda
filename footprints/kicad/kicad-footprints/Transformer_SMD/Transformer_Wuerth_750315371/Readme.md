@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371
@@ -27,3 +28,7 @@ Contents
 - kicadTags: transformer flyback
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Wuerth_750315371.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2
@@ -27,3 +28,7 @@ Contents
 - kicadTags: D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl
+
+
+
+[im]: image.png

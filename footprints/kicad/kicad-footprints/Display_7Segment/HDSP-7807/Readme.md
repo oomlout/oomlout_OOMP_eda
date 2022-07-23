@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7807
@@ -27,3 +28,7 @@ Contents
 - kicadTags: +-1 overflow 7 segment green
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-7807.wrl
+
+
+
+[im]: image.png

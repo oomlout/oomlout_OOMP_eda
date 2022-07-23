@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Allegro SIP-3
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_SIP-3.wrl
+
+
+
+[im]: image.png

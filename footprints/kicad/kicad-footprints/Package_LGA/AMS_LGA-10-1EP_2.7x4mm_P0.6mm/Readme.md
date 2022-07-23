@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-10-1EP_2.7x4mm_P0.6mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: lga land grid array
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_P0.6mm.wrl
+
+
+
+[im]: image.png

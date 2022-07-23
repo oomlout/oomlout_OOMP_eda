@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: UQFN DFN 0.5 ST
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm.wrl
+
+
+
+[im]: image.png

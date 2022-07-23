@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M2_H4mm_9774040243
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Mounting M2 9774040243
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M2_H4mm_9774040243.wrl
+
+
+
+[im]: image.png

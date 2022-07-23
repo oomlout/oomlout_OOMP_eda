@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA
@@ -27,3 +28,7 @@ Contents
 - kicadTags: GPS ublox LEA 6/7/8
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_LEA.wrl
+
+
+
+[im]: image.png

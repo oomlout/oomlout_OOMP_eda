@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HTFS
@@ -27,3 +28,7 @@ Contents
 - kicadTags: HTFS current transducer
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HTFS.wrl
+
+
+
+[im]: image.png

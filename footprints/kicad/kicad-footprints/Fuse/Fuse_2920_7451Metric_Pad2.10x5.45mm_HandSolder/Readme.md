@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
@@ -27,3 +28,7 @@ Contents
 - kicadTags: fuse handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_2920_7451Metric.wrl
+
+
+
+[im]: image.png

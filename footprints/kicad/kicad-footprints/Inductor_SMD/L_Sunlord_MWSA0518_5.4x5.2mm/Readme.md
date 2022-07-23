@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sunlord_MWSA0518_5.4x5.2mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: inductor Sunlord smd
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_MWSA0518.wrl
+
+
+
+[im]: image.png

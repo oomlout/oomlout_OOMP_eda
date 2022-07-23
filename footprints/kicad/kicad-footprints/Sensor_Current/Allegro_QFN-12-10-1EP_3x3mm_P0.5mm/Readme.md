@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QFN-12-10-1EP_3x3mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Allegro QFN 0.5
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_QFN-12-10-1EP_3x3mm_P0.5mm.wrl
+
+
+
+[im]: image.png

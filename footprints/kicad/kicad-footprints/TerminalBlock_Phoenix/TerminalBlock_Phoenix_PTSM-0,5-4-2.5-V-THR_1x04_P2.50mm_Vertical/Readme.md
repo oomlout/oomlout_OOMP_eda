@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_PTSM-0,5-4-2.5-V-THR_1x04_P2.50mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT Terminal Block Phoenix PTSM-0,5-4-2.5-V-THR vertical pitch 2.5mm size 10.5x5mm^2 drill 1.2mm pad 2mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PTSM-0,5-4-2.5-V-THR_1x04_P2.50mm_Vertical.wrl
+
+
+
+[im]: image.png

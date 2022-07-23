@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT single screw terminal block Metz Connect 360425 size 9x9mm^2 drill 1.6mm pad 3.2mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Adafruit Feather WICED Wifi
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Allegro PSOF-7
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_PSOF-7_4.8x6.4mm_P1.60mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_42x30mm_SilkScreen
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: CE marking
 - kicadTags: Logo CE certification
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

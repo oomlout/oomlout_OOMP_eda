@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_L8
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DirectFET L8 MOSFET Infineon
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_L8.wrl
+
+
+
+[im]: image.png

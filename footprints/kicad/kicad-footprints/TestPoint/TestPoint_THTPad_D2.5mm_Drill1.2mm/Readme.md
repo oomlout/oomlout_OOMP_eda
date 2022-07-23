@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D2.5mm_Drill1.2mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm
 - kicadTags: test point THT pad
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

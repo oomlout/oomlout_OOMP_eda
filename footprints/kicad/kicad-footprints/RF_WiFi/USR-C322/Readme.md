@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WiFi IEEE802.11 b/g/n
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_WiFi.3dshapes/USR-C322.wrl
+
+
+
+[im]: image.png

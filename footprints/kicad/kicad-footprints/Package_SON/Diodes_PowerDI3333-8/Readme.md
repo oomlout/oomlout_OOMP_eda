@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PowerDI 0.65
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Diodes_PowerDI3333-8.wrl
+
+
+
+[im]: image.png

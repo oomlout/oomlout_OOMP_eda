@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: akm cz-381x 10
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm.wrl
+
+
+
+[im]: image.png

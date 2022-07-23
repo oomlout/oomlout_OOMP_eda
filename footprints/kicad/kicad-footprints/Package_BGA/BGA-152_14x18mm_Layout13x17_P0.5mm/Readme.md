@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-152_14x18mm_Layout13x17_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: VBGA-152
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-152_14x18mm_Layout13x17_P0.5mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: potentiometer vertical 9mm dual
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical.wrl
+
+
+
+[im]: image.png

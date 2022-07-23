@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-68_SMD-Socket
@@ -27,3 +28,7 @@ Contents
 - kicadTags: plcc smt
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-68_SMD-Socket.wrl
+
+
+
+[im]: image.png

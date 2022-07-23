@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406
@@ -27,3 +28,7 @@ Contents
 - kicadTags: emi filter
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN406.wrl
+
+
+
+[im]: image.png

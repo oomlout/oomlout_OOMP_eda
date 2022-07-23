@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-24_5.3x15mm_P1.27mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SO SO
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-24_5.3x15mm_P1.27mm.wrl
+
+
+
+[im]: image.png

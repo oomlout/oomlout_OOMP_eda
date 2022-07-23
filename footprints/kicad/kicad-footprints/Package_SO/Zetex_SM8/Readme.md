@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Zetex_SM8
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Zetex SM8
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Zetex_SM8.wrl
+
+
+
+[im]: image.png

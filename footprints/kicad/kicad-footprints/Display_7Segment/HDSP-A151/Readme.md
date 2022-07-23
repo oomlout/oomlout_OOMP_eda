@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-A151
@@ -27,3 +28,7 @@ Contents
 - kicadTags: One digit 7 segment high efficiency red
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-A151.wrl
+
+
+
+[im]: image.png

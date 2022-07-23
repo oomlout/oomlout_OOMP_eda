@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-25_6.35x6.35mm_Layout5x5_P1.27mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-25 uModule
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-25_6.35x6.35mm_Layout5x5_P1.27mm.wrl
+
+
+
+[im]: image.png

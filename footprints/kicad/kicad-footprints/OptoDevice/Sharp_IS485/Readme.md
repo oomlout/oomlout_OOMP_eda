@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS485
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Sharp OPIC IS485 IS486
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS485.wrl
+
+
+
+[im]: image.png

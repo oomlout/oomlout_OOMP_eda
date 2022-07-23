@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S3-WROOM-1
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 2.4 GHz Wi-Fi and Bluetooth module
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S3-WROOM-1.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Maple_Mini
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Maple Mini
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Maple_Mini.wrl
+
+
+
+[im]: image.png

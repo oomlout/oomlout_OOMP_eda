@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Dinkle-TerminalBlock_Dinkle_DT-55-B01X-07_P10.00mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Dinkle.3dshapes/TerminalBlock_Dinkle_DT-55-B01X-07_P10.00mm.wrl
+
+
+
+[im]: image.png

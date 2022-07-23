@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED Cree XHP70
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl
+
+
+
+[im]: image.png

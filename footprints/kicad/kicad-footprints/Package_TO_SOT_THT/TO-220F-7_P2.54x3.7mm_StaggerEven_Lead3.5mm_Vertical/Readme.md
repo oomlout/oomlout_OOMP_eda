@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-7_P2.54x3.7mm_StaggerEven_Lead3.5mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TO-220F-7 Vertical RM 1.27mm staggered type-2
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-7_P2.54x3.7mm_StaggerEven_Lead3.5mm_Vertical.wrl
+
+
+
+[im]: image.png

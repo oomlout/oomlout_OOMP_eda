@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 6.00*6.00mm^2  length 11.5mm width 11.5mm Neosid NE-CPB-11EN Drill1.5mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm.wrl
+
+
+
+[im]: image.png

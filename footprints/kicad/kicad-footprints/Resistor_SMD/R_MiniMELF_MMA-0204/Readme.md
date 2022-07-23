@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_MiniMELF_MMA-0204
@@ -27,3 +28,7 @@ Contents
 - kicadTags: MiniMELF Resistor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_MiniMELF_MMA-0204.wrl
+
+
+
+[im]: image.png

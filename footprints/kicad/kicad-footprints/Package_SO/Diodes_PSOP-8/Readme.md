@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_PSOP-8
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SSOP 0.50 exposed pad
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_PSOP-8.wrl
+
+
+
+[im]: image.png

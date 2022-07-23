@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AFF_2x7SEG-DIGIT_10mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Afficheur 7 segments 10mm DIGIT
 - kicadTags: AFFICHEUR
 - kicadAttr: through_hole
+
+
+
+[im]: image.png

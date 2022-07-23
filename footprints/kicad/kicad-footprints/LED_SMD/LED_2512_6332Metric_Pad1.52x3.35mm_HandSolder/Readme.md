@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_2512_6332Metric_Pad1.52x3.35mm_HandSolder
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_2512_6332Metric.wrl
+
+
+
+[im]: image.png

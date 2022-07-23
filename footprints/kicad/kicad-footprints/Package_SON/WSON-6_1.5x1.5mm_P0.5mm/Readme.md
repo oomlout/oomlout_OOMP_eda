@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6_1.5x1.5mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WSON6_1.5x1.5mm_P0.5mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6_1.5x1.5mm_P0.5mm.wrl
+
+
+
+[im]: image.png

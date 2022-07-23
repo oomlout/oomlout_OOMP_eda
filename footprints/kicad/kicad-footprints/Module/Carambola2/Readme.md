@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Carambola2
@@ -27,3 +28,7 @@ Contents
 - kicadTags: carambola2 8devices
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Carambola2.wrl
+
+
+
+[im]: image.png

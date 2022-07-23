@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-49_3x3mm_Layout7x7_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 49 0.4
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UCBGA-49_3x3mm_Layout7x7_P0.4mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: akm vsop 24
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm.wrl
+
+
+
+[im]: image.png

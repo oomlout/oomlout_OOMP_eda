@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 3 Line 12 character wide alpha numeric LCD
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_T123X-I2C.wrl
+
+
+
+[im]: image.png

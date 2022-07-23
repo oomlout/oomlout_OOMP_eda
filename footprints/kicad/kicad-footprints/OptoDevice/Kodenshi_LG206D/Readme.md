@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Photointerrupter  infrared LED with photo IC
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_LG206D.wrl
+
+
+
+[im]: image.png

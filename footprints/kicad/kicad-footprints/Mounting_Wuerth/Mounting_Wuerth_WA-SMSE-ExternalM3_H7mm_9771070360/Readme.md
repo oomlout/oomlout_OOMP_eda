@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H7mm_9771070360
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Mounting M3 9771070360
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSE-ExternalM3_H7mm_9771070360.wrl
+
+
+
+[im]: image.png

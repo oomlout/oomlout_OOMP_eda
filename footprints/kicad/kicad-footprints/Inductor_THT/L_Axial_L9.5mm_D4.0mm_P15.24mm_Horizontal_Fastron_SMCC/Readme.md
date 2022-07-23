@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 4mm Fastron SMCC
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC.wrl
+
+
+
+[im]: image.png

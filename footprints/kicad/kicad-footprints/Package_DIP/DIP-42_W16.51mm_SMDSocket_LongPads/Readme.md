@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-42_W16.51mm_SMDSocket_LongPads
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-42_W16.51mm_SMDSocket.wrl
+
+
+
+[im]: image.png

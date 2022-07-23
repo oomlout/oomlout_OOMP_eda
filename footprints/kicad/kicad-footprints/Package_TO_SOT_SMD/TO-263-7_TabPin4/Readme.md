@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-7_TabPin4
@@ -27,3 +28,7 @@ Contents
 - kicadTags: D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-7_TabPin4.wrl
+
+
+
+[im]: image.png

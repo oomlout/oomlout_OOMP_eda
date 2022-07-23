@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WSON 0.5 thermal vias
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-10-1EP_2x3mm_Pitch0.5mm_EP0.84x2.4mm.wrl
+
+
+
+[im]: image.png

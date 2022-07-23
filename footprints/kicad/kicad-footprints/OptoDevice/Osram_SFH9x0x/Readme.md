@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x
@@ -27,3 +28,7 @@ Contents
 - kicadTags: reflective photo interrupter SMD
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl
+
+
+
+[im]: image.png

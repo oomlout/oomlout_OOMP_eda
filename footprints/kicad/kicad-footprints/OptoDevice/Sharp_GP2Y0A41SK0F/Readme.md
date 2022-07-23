@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Distance Sensor Sharp
 - kicadAttr: exclude_from_pos_files exclude_from_bom
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_GP2Y0A41SK0F.wrl
+
+
+
+[im]: image.png

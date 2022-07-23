@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-5130
@@ -27,3 +28,7 @@ Contents
 - kicadTags: KPS-5130 photodiode RGB sensor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl
+
+
+
+[im]: image.png

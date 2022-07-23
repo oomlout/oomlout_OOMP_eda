@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Ferrite_THT-LairdTech_28C0236-0JW-10
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Ferrite vertical LairdTech 28C0236-0JW-10
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Ferrite_THT.3dshapes/LairdTech_28C0236-0JW-10.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Axial series Axial Vertical pin pitch 7.62mm  length 30mm diameter 8mm Fastron 77A
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A.wrl
+
+
+
+[im]: image.png

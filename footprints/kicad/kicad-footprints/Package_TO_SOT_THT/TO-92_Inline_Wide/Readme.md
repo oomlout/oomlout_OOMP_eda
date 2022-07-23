@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92_Inline_Wide
@@ -27,3 +28,7 @@ Contents
 - kicadTags: to-92 sc-43 sc-43a sot54 PA33 transistor
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.wrl
+
+
+
+[im]: image.png

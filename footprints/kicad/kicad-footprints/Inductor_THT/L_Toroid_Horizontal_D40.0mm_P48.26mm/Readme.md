@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D40.0mm_P48.26mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: L_Toroid Horizontal series Radial pin pitch 48.26mm  diameter 40mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D40.0mm_P48.26mm.wrl
+
+
+
+[im]: image.png

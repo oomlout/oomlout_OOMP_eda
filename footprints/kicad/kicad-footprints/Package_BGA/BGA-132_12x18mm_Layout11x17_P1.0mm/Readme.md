@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-132
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-132_12x18mm_Layout11x17_P1.0mm.wrl
+
+
+
+[im]: image.png

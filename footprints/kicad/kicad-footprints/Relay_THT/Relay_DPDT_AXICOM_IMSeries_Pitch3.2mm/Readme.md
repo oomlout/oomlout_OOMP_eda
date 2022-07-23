@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: AXICOM IM-Series Relay DPDR Pitch 3.2mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_TE-Connectivity-TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT Terminal Block TE 282834-6 pitch 2.54mm size 15.7x6.5mm^2 drill 1.1mm pad 2.1mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_TE-Connectivity.3dshapes/TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal.wrl
+
+
+
+[im]: image.png

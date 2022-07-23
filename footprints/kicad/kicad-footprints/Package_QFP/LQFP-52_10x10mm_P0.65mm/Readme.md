@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-52_10x10mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LQFP QFP
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-52_10x10mm_P0.65mm.wrl
+
+
+
+[im]: image.png

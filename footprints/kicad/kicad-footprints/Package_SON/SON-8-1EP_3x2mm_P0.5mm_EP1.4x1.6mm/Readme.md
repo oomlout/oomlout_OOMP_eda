@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SON NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm.wrl
+
+
+
+[im]: image.png

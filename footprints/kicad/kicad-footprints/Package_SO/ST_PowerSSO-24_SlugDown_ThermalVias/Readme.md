@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-24_SlugDown_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: ST PowerSSO-24 1EP 7.5x10.3mm Pitch 0.8mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-24_SlugDown.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ROHM_DFN0604-3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN package size 0604 3 pins
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ROHM_DFN0604-3.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x11_P5.00mm_45-Degree
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Altech AK300 serie connector
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x11_P5.00mm_45-Degree.wrl
+
+
+
+[im]: image.png

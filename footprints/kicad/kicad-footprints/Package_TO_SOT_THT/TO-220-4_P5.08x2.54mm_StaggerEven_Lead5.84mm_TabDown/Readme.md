@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-4_P5.08x2.54mm_StaggerEven_Lead5.84mm_TabDown
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TO-220-4 Horizontal RM 2.54mm staggered type-2
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-4_P5.08x2.54mm_StaggerEven_Lead5.84mm_TabDown.wrl
+
+
+
+[im]: image.png

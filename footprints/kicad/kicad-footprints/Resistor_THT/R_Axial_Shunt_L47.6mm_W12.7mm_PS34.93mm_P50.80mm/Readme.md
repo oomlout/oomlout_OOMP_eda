@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Resistor Axial_Shunt series Box pin pitch 50.8mm 15W length 47.6mm width 12.7mm height 12.7mm shunt pin pitch 34.93mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Shunt_L47.6mm_W12.7mm_PS34.93mm_P50.80mm.wrl
+
+
+
+[im]: image.png

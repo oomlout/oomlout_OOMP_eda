@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L20.0mm_W6.4mm_P30.48mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Resistor Axial_Power series Box pin pitch 30.48mm 4W length 20mm width 6.4mm height 6.4mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L20.0mm_W6.4mm_P30.48mm.wrl
+
+
+
+[im]: image.png

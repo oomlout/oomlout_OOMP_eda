@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W-12_7.5x10.3mm_P1.27mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SOIC 1.27 16 12 Wide
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16W-12_7.5x10.3mm_P1.27mm.wrl
+
+
+
+[im]: image.png

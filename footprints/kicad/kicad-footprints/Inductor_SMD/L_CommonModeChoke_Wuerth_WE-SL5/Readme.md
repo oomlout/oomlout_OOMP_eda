@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Wuerth_WE-SL5
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMT Common Mode Line Filter
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Wuerth_WE-SL5.wrl
+
+
+
+[im]: image.png

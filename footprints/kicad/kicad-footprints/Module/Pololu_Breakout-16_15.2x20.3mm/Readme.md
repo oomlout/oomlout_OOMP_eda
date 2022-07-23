@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Pololu_Breakout-16_15.2x20.3mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Pololu Breakout
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-10MM_SM_COIN_CELL_CLIP
@@ -23,3 +24,7 @@ Contents
 - oompDesc: battery
 - oompIndex: 10MM_SM_COIN_CELL_CLIP
 - oompName: eagle-default/battery/10MM_SM_COIN_CELL_CLIP
+
+
+
+[im]: image.png

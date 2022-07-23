@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_9.5x6.71mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: bourns ptc resettable fuse polyfuse MF-SM MF-SMHT
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_9.5x6.71mm.wrl
+
+
+
+[im]: image.png

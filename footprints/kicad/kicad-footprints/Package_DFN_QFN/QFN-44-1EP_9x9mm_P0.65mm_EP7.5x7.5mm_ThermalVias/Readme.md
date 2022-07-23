@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFN 0.65
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_9x9mm_Pitch0.65mm_EP7.5x7.5mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Kemet_EE2_NU_DoubleCoil
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Kemet_EE2_NU_DoubleCoil.wrl
+
+
+
+[im]: image.png

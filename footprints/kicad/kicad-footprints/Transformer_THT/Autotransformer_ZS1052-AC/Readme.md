@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC
@@ -27,3 +28,7 @@ Contents
 - kicadTags: ignition coil autotransformer
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl
+
+
+
+[im]: image.png

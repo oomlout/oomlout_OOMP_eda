@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: psemi csp 16
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/pSemi_CSP-16_1.64x2.04mm_P0.4mm.wrl
+
+
+
+[im]: image.png

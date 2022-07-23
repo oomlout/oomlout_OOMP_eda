@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7F
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Power Integrations L Package
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7F.wrl
+
+
+
+[im]: image.png

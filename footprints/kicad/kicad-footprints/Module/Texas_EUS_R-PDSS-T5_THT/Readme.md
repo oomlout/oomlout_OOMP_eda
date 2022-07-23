@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Texas_EUS_R-PDSS-T5_THT
@@ -27,3 +28,7 @@ Contents
 - kicadTags: module pcb
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Texas_EUSR-PDSS-T5_THT.wrl
+
+
+
+[im]: image.png

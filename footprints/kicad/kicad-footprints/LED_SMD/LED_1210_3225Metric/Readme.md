@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1210_3225Metric
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.wrl
+
+
+
+[im]: image.png

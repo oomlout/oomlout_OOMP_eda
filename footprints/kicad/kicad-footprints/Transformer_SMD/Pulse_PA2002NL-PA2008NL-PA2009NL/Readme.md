@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA2002NL-PA2008NL-PA2009NL
@@ -27,3 +28,7 @@ Contents
 - kicadTags: pulse pa2002nl pa2008nl pa2009nl p0544nl pa0184nl pa0297nl pa0510nl
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA2002NL-PA2008NL-PA2009NL.wrl
+
+
+
+[im]: image.png

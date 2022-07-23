@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Small
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Symbol, CC-Public Domain, Copper Top, Small,
 - kicadTags: Symbol, CC-Public Domain, Copper Top, Small,
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

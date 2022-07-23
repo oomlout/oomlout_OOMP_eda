@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-Toshiba_11-7A9
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Toshiba 11-7A9 DIL DIP PDIP 2.54mm 7.62mm 300mil
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Toshiba_11-7A9.wrl
+
+
+
+[im]: image.png

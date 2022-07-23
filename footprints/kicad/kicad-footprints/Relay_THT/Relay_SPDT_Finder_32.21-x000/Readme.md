@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_32.21-x000
@@ -27,3 +28,7 @@ Contents
 - kicadTags: AXICOM IM-Series Relay SPDT
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_32.21-x000.wrl
+
+
+
+[im]: image.png

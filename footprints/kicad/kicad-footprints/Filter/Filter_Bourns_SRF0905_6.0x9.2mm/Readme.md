@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Line Filter
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Bourns_SRF0905_6.0x9.2mm.wrl
+
+
+
+[im]: image.png

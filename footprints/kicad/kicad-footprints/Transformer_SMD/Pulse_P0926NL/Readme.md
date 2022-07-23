@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_P0926NL
@@ -27,3 +28,7 @@ Contents
 - kicadTags: pulse pa0926nl
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_P0926NL.wrl
+
+
+
+[im]: image.png

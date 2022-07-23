@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC95
@@ -27,3 +28,7 @@ Contents
 - kicadTags: GSM NB-IoT module BC95
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BC95.wrl
+
+
+
+[im]: image.png

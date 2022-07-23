@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Positive_30mm_SilkScreen
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Polarity Logo, Center Positive
 - kicadTags: Logo Polarity Center Positive
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3000_HandSoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: NF-Reansformer ETAL P3000 SMD Handsoldering
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3000_HandSoldering.wrl
+
+
+
+[im]: image.png

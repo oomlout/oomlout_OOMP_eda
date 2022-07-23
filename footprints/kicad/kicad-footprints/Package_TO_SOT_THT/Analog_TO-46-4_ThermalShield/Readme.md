@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Analog_TO-46-4_ThermalShield
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TO-46-4 LM399
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Analog_TO-46-4_ThermalShield.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01
@@ -27,3 +28,7 @@ Contents
 - kicadTags: ambient light sensor chipled
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.wrl
+
+
+
+[im]: image.png

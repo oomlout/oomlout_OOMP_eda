@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Oscillator Crystal SMD SMT
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm.wrl
+
+
+
+[im]: image.png

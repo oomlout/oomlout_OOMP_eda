@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120
@@ -27,3 +28,7 @@ Contents
 - kicadTags: CR2013-MI2120 ILI9341 LCD Breakout
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/CR2013-MI2120.wrl
+
+
+
+[im]: image.png

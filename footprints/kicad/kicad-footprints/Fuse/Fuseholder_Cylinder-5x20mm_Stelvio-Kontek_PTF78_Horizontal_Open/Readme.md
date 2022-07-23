@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fuseholder horizontal open 5x20 Stelvio-Kontek PTF/78
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.wrl
+
+
+
+[im]: image.png

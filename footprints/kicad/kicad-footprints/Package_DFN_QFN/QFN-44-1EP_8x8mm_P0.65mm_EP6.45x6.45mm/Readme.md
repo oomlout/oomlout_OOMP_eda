@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFN NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm.wrl
+
+
+
+[im]: image.png

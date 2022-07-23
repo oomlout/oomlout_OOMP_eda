@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6K-2G
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Omron G6K-2G relay
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6K-2G.wrl
+
+
+
+[im]: image.png

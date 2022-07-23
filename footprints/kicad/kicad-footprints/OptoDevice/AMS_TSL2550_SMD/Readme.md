@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TSL2550 ambient light sensor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/AMS_TSL2550_SMD.wrl
+
+
+
+[im]: image.png

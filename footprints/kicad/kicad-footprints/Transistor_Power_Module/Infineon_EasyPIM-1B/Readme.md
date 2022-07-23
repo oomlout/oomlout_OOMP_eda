@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-Infineon_EasyPIM-1B
@@ -27,3 +28,7 @@ Contents
 - kicadTags: brifge rectifier igbt diode module
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transistor_Power_Module.3dshapes/Infineon_EasyPIM-1B.wrl
+
+
+
+[im]: image.png

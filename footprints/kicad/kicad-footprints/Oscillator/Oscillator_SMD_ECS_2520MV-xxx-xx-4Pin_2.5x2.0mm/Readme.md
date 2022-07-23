@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.wrl
+
+
+
+[im]: image.png

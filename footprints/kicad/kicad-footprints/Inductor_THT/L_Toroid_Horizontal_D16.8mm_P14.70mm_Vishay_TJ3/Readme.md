@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: L_Toroid Horizontal series Radial pin pitch 14.70mm  diameter 16.8mm Vishay TJ3
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3.wrl
+
+
+
+[im]: image.png

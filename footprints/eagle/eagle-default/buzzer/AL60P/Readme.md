@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-buzzer-AL60P
@@ -23,3 +24,7 @@ Contents
 - oompDesc: buzzer
 - oompIndex: AL60P
 - oompName: eagle-default/buzzer/AL60P
+
+
+
+[im]: image.png

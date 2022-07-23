@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N10_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 0.5 S-PVSON-N10 DRC
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PVSON-N10.wrl
+
+
+
+[im]: image.png

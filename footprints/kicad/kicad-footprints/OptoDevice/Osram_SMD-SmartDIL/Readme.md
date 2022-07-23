@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PhotoDiode plastic SMD SmatDIL
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SMD-SmartDIL.wrl
+
+
+
+[im]: image.png

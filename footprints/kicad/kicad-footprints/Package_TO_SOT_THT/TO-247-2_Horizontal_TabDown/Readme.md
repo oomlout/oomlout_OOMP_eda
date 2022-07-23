@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-247-2_Horizontal_TabDown
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TO-247-2 Horizontal RM 10.9mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-247-2_Horizontal_TabDown.wrl
+
+
+
+[im]: image.png

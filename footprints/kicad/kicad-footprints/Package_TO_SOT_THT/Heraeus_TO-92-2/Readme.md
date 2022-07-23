@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Heraeus_TO-92-2
@@ -27,3 +28,7 @@ Contents
 - kicadTags: to-92
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Heraeus_TO-92-2.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_DIP-4_W5.08mm_P2.54mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DIL DIP PDIP 5.08mm 2.54
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W5.08mm_P2.54mm.wrl
+
+
+
+[im]: image.png

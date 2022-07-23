@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PC-16_Single_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Potentiometer vertical Piher PC-16 Single
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PC-16_Single_Vertical.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-6_P5.08mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: terminal block bornier6
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-6_P5.08mm.wrl
+
+
+
+[im]: image.png

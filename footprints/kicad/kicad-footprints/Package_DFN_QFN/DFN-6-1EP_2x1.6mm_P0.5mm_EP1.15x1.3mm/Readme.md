@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
 - kicadTags: DFN NoLead
 - kicadAttr: smd
+
+
+
+[im]: image.png

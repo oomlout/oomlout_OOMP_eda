@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD SMT crystal oscillator hand-soldering
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering.wrl
+
+
+
+[im]: image.png

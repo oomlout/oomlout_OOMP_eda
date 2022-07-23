@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Maxim_WLP-12
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Maxim_WLP-12
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12.wrl
+
+
+
+[im]: image.png

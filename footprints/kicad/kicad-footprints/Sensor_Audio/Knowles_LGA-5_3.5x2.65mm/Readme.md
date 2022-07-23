@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: MEMS Microphone LGA
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Knowles_LGA-5_3.5x2.65mm.wrl
+
+
+
+[im]: image.png

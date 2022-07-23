@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN 0.5
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl
+
+
+
+[im]: image.png

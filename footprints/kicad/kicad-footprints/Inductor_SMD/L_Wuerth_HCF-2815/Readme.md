@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2815
@@ -27,3 +28,7 @@ Contents
 - kicadTags: inductor shielded wuerth hcf
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCF-2815.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown_ThermalVias
@@ -27,3 +28,7 @@ Contents
 - kicadTags: HSOP 11.0 x 15.9mm Pitch 0.65mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown.wrl
+
+
+
+[im]: image.png

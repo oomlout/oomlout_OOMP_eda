@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO8-NSM
@@ -27,3 +28,7 @@ Contents
 - kicadTags: current transducer
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HO8-NSM.wrl
+
+
+
+[im]: image.png

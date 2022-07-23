@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-capacitor-wima-C22.5B10
@@ -23,3 +24,7 @@ Contents
 - oompDesc: capacitor-wima
 - oompIndex: C22.5B10
 - oompName: eagle-default/capacitor-wima/C22.5B10
+
+
+
+[im]: image.png

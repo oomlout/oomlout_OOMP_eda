@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x2.3mm_P1.27mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SO SOIC 1.27
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-4_4.4x2.3mm_P1.27mm.wrl
+
+
+
+[im]: image.png

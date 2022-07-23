@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_TR5_Littelfuse_No560_No460
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_TR5_Littelfuse_No560_No460.wrl
+
+
+
+[im]: image.png

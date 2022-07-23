@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Relay
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm.wrl
+
+
+
+[im]: image.png

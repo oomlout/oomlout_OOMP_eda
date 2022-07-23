@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-10_3.9x4.9mm_P1.00mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SSOP 3.9 4.9 1.00
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-10_3.9x4.9mm_P1.00mm.wrl
+
+
+
+[im]: image.png

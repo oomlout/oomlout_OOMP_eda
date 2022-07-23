@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_Fischer_FK24413D2PAK_26x13mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: heatsink TO-252 TO-263 TO-268
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_FK24413D2PAK_26x13mm.wrl
+
+
+
+[im]: image.png

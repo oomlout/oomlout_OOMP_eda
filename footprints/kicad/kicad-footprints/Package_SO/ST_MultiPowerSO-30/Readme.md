@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_MultiPowerSO-30
@@ -27,3 +28,7 @@ Contents
 - kicadTags: MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_MultiPowerSO-30.wrl
+
+
+
+[im]: image.png

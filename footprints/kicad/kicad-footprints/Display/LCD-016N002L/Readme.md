@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LCD-016N002L 16 x 2 Character LCD
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/LCD-016N002L.wrl
+
+
+
+[im]: image.png

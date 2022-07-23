@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_3.0x3.0mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: VSSOP-8 3.0 x 3.0
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_3.0x3.0mm_P0.65mm.wrl
+
+
+
+[im]: image.png

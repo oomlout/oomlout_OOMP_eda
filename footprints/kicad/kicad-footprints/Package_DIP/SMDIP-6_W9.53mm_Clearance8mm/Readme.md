@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-6_W9.53mm_Clearance8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-6_W9.53mm.wrl
+
+
+
+[im]: image.png

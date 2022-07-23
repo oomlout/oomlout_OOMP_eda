@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 48pin TSOP Socket
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Socket.3dshapes/Wells_648-0482211SA01.wrl
+
+
+
+[im]: image.png

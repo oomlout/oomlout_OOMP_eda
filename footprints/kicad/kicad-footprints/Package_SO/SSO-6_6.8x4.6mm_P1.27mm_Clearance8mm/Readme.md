@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSO-6_6.8x4.6mm_P1.27mm_Clearance8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SSO Stretched SO SOIC 1.27
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSO-6_6.8x4.6mm_P1.27mm_Clearance8mm.wrl
+
+
+
+[im]: image.png

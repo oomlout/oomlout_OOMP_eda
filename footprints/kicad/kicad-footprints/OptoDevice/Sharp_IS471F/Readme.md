@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Sharp OPIC IS471F
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS471F.wrl
+
+
+
+[im]: image.png

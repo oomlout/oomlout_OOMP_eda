@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: RF SoC Radio ANT Bluetooth BLE D52 nRF52 Garmin Canada Dynastream Nordic
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm.wrl
+
+
+
+[im]: image.png

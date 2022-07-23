@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_classic_Small_SilkscreenTop_Type1
@@ -25,3 +26,7 @@ Contents
 - oompName: kicad-footprints/Obsolete\Fiducial/Fiducial_classic_Small_SilkscreenTop_Type1
 - kicadDesc: Fiducial, Classic, Small, Copper Top, Type 1
 - kicadAttr: smd
+
+
+
+[im]: image.png

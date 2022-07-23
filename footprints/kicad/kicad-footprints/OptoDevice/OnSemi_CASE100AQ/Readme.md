@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-OnSemi_CASE100AQ
@@ -27,3 +28,7 @@ Contents
 - kicadTags: reflective opto couple photo coupler
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/OnSemi_CASE100AQ.wrl
+
+
+
+[im]: image.png

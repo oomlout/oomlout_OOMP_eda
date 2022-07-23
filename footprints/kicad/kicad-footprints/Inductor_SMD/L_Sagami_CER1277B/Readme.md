@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B
@@ -27,3 +28,7 @@ Contents
 - kicadTags: inductor sagami cer12xxb smd
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CER1277B.wrl
+
+
+
+[im]: image.png

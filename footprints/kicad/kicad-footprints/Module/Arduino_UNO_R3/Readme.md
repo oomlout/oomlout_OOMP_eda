@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Arduino UNO R3
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_UNO_R3.wrl
+
+
+
+[im]: image.png

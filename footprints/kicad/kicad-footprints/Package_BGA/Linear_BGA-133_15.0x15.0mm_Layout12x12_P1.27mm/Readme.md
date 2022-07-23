@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 133 pin bga
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm.wrl
+
+
+
+[im]: image.png

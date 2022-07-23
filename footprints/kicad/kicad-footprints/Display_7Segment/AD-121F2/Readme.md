@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AD-121F2
@@ -27,3 +28,7 @@ Contents
 - kicadTags: RGB LED digit
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/AD-121F2.wrl
+
+
+
+[im]: image.png

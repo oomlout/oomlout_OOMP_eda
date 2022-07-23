@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-altera-PLCC84
@@ -23,3 +24,7 @@ Contents
 - oompDesc: altera
 - oompIndex: PLCC84
 - oompName: eagle-default/altera/PLCC84
+
+
+
+[im]: image.png

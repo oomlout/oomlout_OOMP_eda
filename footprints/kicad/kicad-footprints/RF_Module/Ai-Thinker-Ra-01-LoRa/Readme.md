@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LoRa Ra-01
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Ai-Thinker-Ra-01-LoRa.wrl
+
+
+
+[im]: image.png

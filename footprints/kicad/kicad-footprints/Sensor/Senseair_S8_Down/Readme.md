@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Senseair_S8_Down
@@ -27,3 +28,7 @@ Contents
 - kicadTags: co2 gas sensor pwm modbus
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Down.wrl
+
+
+
+[im]: image.png

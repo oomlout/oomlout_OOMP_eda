@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Resistor LDR12x10.8mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_12x10.8mm_P9.0mm_Vertical.wrl
+
+
+
+[im]: image.png

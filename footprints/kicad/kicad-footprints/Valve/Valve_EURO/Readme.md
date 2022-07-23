@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Valve-Valve_EURO
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Valve Euro
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_EURO.wrl
+
+
+
+[im]: image.png

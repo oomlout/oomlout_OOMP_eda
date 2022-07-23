@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_classic_big_CopperBottom_Type2
@@ -25,3 +26,7 @@ Contents
 - oompName: kicad-footprints/Obsolete\Fiducial/Fiducial_classic_big_CopperBottom_Type2
 - kicadDesc: Fiducial, Classic, Big, Copper Bottom, Type 2
 - kicadAttr: smd
+
+
+
+[im]: image.png

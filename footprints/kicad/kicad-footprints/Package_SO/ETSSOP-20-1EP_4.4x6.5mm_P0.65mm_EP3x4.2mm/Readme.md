@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SSOP 0.65
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm.wrl
+
+
+
+[im]: image.png

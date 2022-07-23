@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-3227
@@ -27,3 +28,7 @@ Contents
 - kicadTags: KPS-3227 Ambient Light Photo Sensor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-3227.wrl
+
+
+
+[im]: image.png

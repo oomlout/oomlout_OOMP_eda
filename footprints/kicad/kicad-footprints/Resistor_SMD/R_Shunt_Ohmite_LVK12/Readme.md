@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK12
@@ -27,3 +28,7 @@ Contents
 - kicadTags: shunt resistor 4 contacts
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK12.wrl
+
+
+
+[im]: image.png

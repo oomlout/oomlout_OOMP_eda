@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CA56-12SURKWA
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 4 digit 7 segment green LED
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/CA56-12SURKWA.wrl
+
+
+
+[im]: image.png

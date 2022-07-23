@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Toroid_Horizontal_D18.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Transformer Toroid tapped horizontal laying Diameter 18mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Toroid_Horizontal_D18.0mm.wrl
+
+
+
+[im]: image.png

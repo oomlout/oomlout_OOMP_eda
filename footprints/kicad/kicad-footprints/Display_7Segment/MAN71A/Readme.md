@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN71A
@@ -27,3 +28,7 @@ Contents
 - kicadTags: One digit 7 segment red LED with right dot
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN71A.wrl
+
+
+
+[im]: image.png

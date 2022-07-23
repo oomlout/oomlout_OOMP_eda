@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_R_PUQFN-N12
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas_R_PUQFN-N12
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_R_PUQFN-N12.wrl
+
+
+
+[im]: image.png

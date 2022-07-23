@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-1023
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm.wrl
+
+
+
+[im]: image.png

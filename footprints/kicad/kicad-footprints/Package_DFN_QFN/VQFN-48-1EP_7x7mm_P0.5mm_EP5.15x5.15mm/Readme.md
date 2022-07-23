@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: VQFN NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl
+
+
+
+[im]: image.png

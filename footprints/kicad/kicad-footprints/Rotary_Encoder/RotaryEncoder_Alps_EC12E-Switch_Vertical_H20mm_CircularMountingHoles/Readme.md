@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Rotary_Encoder-RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles
@@ -27,3 +28,7 @@ Contents
 - kicadTags: rotary encoder
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles.wrl
+
+
+
+[im]: image.png

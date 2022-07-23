@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-6-2EP_4.0x2.6mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN 0.65P dual flag
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-6-2EP_4.0x2.6mm_P0.65mm.wrl
+
+
+
+[im]: image.png

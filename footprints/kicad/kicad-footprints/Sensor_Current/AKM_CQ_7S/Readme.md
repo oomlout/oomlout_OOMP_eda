@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S
@@ -27,3 +28,7 @@ Contents
 - kicadTags: akm current sensor smd
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_7S.wrl
+
+
+
+[im]: image.png

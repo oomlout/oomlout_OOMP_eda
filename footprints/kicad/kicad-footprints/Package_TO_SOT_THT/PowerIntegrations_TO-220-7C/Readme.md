@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Power Integration Y Package
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/PowerIntegrations_TO-220-7C.wrl
+
+
+
+[im]: image.png

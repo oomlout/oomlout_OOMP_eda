@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-RoHS-Logo_20mm_SilkScreen
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Restriction of Hazardous Substances Directive Logo
 - kicadTags: Logo RoHS
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

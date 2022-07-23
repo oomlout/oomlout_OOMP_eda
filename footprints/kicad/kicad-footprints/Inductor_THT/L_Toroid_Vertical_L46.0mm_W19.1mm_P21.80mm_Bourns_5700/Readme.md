@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700
@@ -27,3 +28,7 @@ Contents
 - kicadTags: L_Toroid Vertical series Radial pin pitch 21.80mm  length 46mm width 19.1mm Bourns 5700
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700.wrl
+
+
+
+[im]: image.png

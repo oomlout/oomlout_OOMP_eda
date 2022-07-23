@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Mounting 2.25mm 9774040943
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943.wrl
+
+
+
+[im]: image.png

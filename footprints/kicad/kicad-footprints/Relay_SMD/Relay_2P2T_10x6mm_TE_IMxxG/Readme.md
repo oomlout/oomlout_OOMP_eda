@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TE IM-Series Relay DPDT Form C
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_2P2T_10x6mm_TE_IMxxG.wrl
+
+
+
+[im]: image.png

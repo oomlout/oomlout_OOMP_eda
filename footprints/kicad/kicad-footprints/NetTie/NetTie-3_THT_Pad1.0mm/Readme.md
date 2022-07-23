@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-3_THT_Pad1.0mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Net tie, 3 pin, 1.0mm round THT pads
 - kicadTags: net tie
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

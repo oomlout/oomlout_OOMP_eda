@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_ISO7380
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Mounting Hole 6.4mm, no annular, M6, ISO7380
 - kicadTags: mounting hole 6.4mm no annular m6 iso7380
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

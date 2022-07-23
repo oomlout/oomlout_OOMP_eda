@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50
@@ -27,3 +28,7 @@ Contents
 - kicadTags: L_Toroid Horizontal series Radial pin pitch 20.00mm  diameter 12.7mm Diameter14-5mm Amidon-T50
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50.wrl
+
+
+
+[im]: image.png

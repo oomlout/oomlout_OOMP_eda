@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas instruments QFN
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44_16.6x16.6mm_P1.27mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PLCC LCC
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44_16.6x16.6mm_P1.27mm.wrl
+
+
+
+[im]: image.png

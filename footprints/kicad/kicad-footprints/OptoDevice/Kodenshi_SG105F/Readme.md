@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_SG105F
@@ -27,3 +28,7 @@ Contents
 - kicadTags: refective opto couple photo coupler
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_SG105F.wrl
+
+
+
+[im]: image.png

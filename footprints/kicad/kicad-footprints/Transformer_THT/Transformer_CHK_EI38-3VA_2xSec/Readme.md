@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI38-3VA_2xSec
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Trafo Printtrafo CHK EI38 3VA 2x Sec
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI38-3VA_2xSec.wrl
+
+
+
+[im]: image.png

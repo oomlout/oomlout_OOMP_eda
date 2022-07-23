@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFN 0.5
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_UGK52_QFN-46-52.wrl
+
+
+
+[im]: image.png

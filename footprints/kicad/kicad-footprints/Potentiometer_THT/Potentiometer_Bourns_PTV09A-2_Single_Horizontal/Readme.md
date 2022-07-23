@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTV09A-2_Single_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Potentiometer horizontal Bourns PTV09A-2 Single
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-2_Single_Horizontal.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor SLF12555
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF12555.wrl
+
+
+
+[im]: image.png

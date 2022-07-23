@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Analog Devices KS-4 (like EIAJ SC-82)
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Analog_KS-4.wrl
+
+
+
+[im]: image.png

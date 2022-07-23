@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-1295
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm.wrl
+
+
+
+[im]: image.png

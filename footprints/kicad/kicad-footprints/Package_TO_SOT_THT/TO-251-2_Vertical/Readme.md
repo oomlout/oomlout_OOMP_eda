@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-251-2_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TO-251-2 Vertical RM 4.58mm IPAK
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-251-2_Vertical.wrl
+
+
+
+[im]: image.png

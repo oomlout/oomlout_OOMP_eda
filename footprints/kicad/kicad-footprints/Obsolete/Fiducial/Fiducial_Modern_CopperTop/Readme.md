@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Obsolete\Fiducial-Fiducial_Modern_CopperTop
@@ -25,3 +26,7 @@ Contents
 - oompName: kicad-footprints/Obsolete\Fiducial/Fiducial_Modern_CopperTop
 - kicadDesc: Fiducial, Modern, Copper Top
 - kicadAttr: smd
+
+
+
+[im]: image.png

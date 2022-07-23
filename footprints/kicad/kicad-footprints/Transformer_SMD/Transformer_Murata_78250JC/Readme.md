@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Murata_78250JC
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Murata transformer
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Murata_78250JC.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TSOP I 28 pins
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-28_11.8x8mm_P0.55mm.wrl
+
+
+
+[im]: image.png

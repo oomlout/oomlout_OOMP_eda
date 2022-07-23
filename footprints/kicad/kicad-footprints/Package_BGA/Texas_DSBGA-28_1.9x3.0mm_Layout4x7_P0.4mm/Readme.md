@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 28 0.4
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm.wrl
+
+
+
+[im]: image.png

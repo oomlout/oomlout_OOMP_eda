@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-8_1.43x1.41mm_Layout3x3_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas Instruments DSBGA BGA YZP R-XBGA-N8
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-8_1.43x1.41mm_Layout3x3_P0.5mm.wrl
+
+
+
+[im]: image.png

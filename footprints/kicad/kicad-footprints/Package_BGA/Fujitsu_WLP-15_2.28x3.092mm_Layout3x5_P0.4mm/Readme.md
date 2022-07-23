@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 8 0.4
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm.wrl
+
+
+
+[im]: image.png

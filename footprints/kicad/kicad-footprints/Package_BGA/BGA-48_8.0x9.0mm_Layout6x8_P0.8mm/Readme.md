@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-48_8.0x9.0mm_Layout6x8_P0.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-48
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-6_1.65x3.05mm_P0.95mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Jedec MO-193C TSOP-6L
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-6_1.65x3.05mm_P0.95mm.wrl
+
+
+
+[im]: image.png

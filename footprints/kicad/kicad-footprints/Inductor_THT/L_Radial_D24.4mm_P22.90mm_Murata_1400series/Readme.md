@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D24.4mm_P22.90mm_Murata_1400series
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 22.90mm  diameter 24.4mm muRATA 1400series
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D24.4mm_P22.90mm_Murata_1400series.wrl
+
+
+
+[im]: image.png

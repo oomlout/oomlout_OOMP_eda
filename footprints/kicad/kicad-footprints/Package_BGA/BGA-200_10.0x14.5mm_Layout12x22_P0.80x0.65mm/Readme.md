@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 200 0.8x0.65
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm.wrl
+
+
+
+[im]: image.png

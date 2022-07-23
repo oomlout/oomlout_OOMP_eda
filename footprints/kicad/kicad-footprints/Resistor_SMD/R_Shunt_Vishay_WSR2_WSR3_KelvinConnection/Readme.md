@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3_KelvinConnection
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD Shunt Resistor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSR2_WSR3.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 756 0.8
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm.wrl
+
+
+
+[im]: image.png

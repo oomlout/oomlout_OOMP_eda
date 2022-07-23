@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Motion-InvenSense_QFN-24_3x3mm_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFN 0.4
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24_3x3mm_P0.4mm_EP1.7x1.54mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP320X-XXX
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LCD display 320x340 RS-232 I2C or SPI
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIP320X-XXX.wrl
+
+
+
+[im]: image.png

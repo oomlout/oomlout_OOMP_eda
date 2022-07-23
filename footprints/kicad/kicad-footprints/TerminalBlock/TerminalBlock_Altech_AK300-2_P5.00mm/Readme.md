@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-2_P5.00mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Altech AK300 terminal block pitch 5.0mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl
+
+
+
+[im]: image.png

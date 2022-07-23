@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Relay SPST Finder
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Finder_34.81.wrl
+
+
+
+[im]: image.png

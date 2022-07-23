@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TSSOP SO
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm.wrl
+
+
+
+[im]: image.png

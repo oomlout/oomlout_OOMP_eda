@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: HTSSOP SO
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SIP3 Regulator Module
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP3_11.6x8.5mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6mm_Pad_Via
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Mounting Hole 6mm
 - kicadTags: mounting hole 6mm
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

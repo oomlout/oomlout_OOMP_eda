@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX10-NP
@@ -27,3 +28,7 @@ Contents
 - kicadTags: hall current
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX10-NP.wrl
+
+
+
+[im]: image.png

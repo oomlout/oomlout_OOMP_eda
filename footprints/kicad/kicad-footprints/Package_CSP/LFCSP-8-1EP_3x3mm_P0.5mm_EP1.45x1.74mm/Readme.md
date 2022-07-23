@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LFCSP NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm.wrl
+
+
+
+[im]: image.png

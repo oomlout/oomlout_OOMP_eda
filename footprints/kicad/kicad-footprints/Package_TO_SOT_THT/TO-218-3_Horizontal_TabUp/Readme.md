@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-218-3_Horizontal_TabUp
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TO-218-3 Horizontal RM 5.475mm SOT-93
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-218-3_Horizontal_TabUp.wrl
+
+
+
+[im]: image.png

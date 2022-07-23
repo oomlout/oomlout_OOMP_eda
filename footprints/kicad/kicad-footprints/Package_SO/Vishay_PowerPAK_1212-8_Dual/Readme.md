@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Vishay_PowerPAK_1212-8_Dual
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Vishay_PowerPAK_1212-8_Dual
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Dual.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: heatsink
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-206-F_36.83x33.68mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Shielding Cabinet
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-206-F_36.83x33.68mm.wrl
+
+
+
+[im]: image.png

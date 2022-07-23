@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.75mm_Mask2.25mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening
 - kicadTags: fiducial
 - kicadAttr: smd
+
+
+
+[im]: image.png

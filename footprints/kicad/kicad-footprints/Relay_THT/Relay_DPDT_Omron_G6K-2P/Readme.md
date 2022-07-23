@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G6K-2P
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Omron G6K-2P relay
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Omron_G6K-2P.wrl
+
+
+
+[im]: image.png

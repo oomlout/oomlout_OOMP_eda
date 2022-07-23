@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D8.7mm_P5.00mm_Fastron_07HCP
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 5.00mm  diameter 8.7mm Fastron 07HCP
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP.wrl
+
+
+
+[im]: image.png

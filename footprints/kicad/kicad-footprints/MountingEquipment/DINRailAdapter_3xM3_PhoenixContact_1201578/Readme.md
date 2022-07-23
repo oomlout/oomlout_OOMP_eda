@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingEquipment-DINRailAdapter_3xM3_PhoenixContact_1201578
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DIN rail adapter universal three M3 clearance holes
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/MountingEquipment.3dshapes/DINRailAdapter_3xM3_PhoenixContact_1201578.wrl
+
+
+
+[im]: image.png

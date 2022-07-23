@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Phoenix-TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT Terminal Block Phoenix MKDS-1,5-15-5.08 pitch 5.08mm size 76.2x9.8mm^2 drill 1.3mm pad 2.6mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal.wrl
+
+
+
+[im]: image.png

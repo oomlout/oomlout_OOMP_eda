@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P3356
@@ -27,3 +28,7 @@ Contents
 - kicadTags: NF-Transformer ETAL P3356
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P3356.wrl
+
+
+
+[im]: image.png

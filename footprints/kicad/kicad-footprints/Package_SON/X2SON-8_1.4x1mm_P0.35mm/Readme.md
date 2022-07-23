@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-X2SON-8_1.4x1mm_P0.35mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: X2SON-8 1.4x1mm Pitch0.35mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/X2SON-8_1.4x1mm_P0.35mm.wrl
+
+
+
+[im]: image.png

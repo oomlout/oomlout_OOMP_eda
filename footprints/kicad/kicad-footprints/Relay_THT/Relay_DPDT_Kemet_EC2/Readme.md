@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Kemet_EC2
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Kemet EC2 signal relay DPDT non single coil latching through hole THT
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Kemet_EC2.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo_CopperTop
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
 - kicadTags: ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

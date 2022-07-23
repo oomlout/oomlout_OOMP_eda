@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_0402_1005Metric_Pad0.77x0.64mm_HandSolder
@@ -27,3 +28,7 @@ Contents
 - kicadTags: inductor handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0402_1005Metric.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED Yuji 5730
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Yuji_5730.wrl
+
+
+
+[im]: image.png

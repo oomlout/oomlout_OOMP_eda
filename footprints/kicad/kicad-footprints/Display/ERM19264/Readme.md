@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-ERM19264
@@ -27,3 +28,7 @@ Contents
 - kicadTags: ERM19264 Graphics Display 192x64
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl
+
+
+
+[im]: image.png

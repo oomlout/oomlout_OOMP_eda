@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: VSSOP DCU R-PDSO-G8 Pitch0.5mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_2.4x2.1mm_P0.5mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSS
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Allegro CB-PSS
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PSS.wrl
+
+
+
+[im]: image.png

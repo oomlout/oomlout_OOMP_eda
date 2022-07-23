@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Omron_G6EK
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Relay SPDT Omron Serie G6EK
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Omron_G6EK.wrl
+
+
+
+[im]: image.png

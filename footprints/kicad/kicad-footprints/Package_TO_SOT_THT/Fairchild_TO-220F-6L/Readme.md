@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Fairchild_TO-220F-6L
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fairchild TO-220F-6L
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Fairchild_TO-220F-6L.wrl
+
+
+
+[im]: image.png

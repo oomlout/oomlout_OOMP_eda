@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-3V60R
@@ -23,3 +24,7 @@ Contents
 - oompDesc: battery
 - oompIndex: 3V60R
 - oompName: eagle-default/battery/3V60R
+
+
+
+[im]: image.png

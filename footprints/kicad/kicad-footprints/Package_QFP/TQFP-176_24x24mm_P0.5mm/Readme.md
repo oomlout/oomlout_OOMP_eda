@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-176_24x24mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TQFP QFP
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-176_24x24mm_P0.5mm.wrl
+
+
+
+[im]: image.png

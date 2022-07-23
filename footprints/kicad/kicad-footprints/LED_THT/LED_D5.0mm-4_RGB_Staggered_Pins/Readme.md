@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB_Staggered_Pins
@@ -27,3 +28,7 @@ Contents
 - kicadTags: rgb led
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB_Staggered_Pins.wrl
+
+
+
+[im]: image.png

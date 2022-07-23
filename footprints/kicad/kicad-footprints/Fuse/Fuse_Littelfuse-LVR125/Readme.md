@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-LVR125
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LVR125 PTC resettable polyswitch
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-LVR125.wrl
+
+
+
+[im]: image.png

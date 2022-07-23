@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FLG1925_FLG1926_FLG1928_FLG1930
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 1924 1 FL1925 FLG1925 FL1926 FLG1926 FL1928 FLG1928 FL1930 FLG1930
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930.wrl
+
+
+
+[im]: image.png

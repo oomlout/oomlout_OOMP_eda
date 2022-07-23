@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_LPF-C012303S
@@ -27,3 +28,7 @@ Contents
 - kicadTags: lightpipe dual tower right angle 3mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_LPF-C012303S.wrl
+
+
+
+[im]: image.png

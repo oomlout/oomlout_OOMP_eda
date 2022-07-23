@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas Instruments DSBGA BGA YFF S-XBGA-N5
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm.wrl
+
+
+
+[im]: image.png

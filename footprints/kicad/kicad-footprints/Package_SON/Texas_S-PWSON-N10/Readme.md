@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 0.5 S-PWSON-N10 DSC
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PWSON-N10.wrl
+
+
+
+[im]: image.png

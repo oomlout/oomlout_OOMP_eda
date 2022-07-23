@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_CB_PSF
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Allegro CB-PSF
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_CB_PSF.wrl
+
+
+
+[im]: image.png

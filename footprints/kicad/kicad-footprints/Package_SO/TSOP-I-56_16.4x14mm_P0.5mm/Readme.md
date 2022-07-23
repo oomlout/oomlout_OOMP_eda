@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-56_16.4x14mm_P0.5mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation EB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 - kicadTags: TSOP-I SO
 - kicadAttr: smd
+
+
+
+[im]: image.png

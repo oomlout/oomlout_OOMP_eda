@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-132_24x24mm_P0.635mm_i386
@@ -27,3 +28,7 @@ Contents
 - kicadTags: PQFP 132 Intel 386EX
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-132_24x24mm_P0.635mm_i386.wrl
+
+
+
+[im]: image.png

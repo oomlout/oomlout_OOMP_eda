@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA
@@ -27,3 +28,7 @@ Contents
 - kicadTags: ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ONSemi_SO-8FL_488AA.wrl
+
+
+
+[im]: image.png

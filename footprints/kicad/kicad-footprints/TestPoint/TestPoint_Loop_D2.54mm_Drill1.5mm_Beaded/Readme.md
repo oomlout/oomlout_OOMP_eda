@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded
@@ -27,3 +28,7 @@ Contents
 - kicadTags: test point wire loop bead
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-16_3x4.039mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: MSOP SO
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16_3x4.039mm_P0.5mm.wrl
+
+
+
+[im]: image.png

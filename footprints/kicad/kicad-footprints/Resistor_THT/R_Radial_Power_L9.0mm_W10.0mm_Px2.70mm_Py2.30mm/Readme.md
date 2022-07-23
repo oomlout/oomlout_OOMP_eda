@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Resistor Radial_Power series Radial pin pitch 2.70*2.30mm^2 17W length 9mm width 10mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Radial_Power_L9.0mm_W10.0mm_Px2.70mm_Py2.30mm.wrl
+
+
+
+[im]: image.png

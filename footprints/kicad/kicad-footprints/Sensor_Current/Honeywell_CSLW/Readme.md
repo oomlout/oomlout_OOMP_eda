@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Miniature Wired Open-Loop Current Sensor
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Honeywell_CSLW.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
@@ -27,3 +28,7 @@ Contents
 - kicadTags: resistor handsolder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2816_7142Metric.wrl
+
+
+
+[im]: image.png

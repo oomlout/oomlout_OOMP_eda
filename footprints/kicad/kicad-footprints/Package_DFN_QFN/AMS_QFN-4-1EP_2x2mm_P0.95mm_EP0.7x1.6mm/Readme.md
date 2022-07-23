@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFN 0.95
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/AMS_QFN-4-1EP_2x2mm_P0.95mm.wrl
+
+
+
+[im]: image.png

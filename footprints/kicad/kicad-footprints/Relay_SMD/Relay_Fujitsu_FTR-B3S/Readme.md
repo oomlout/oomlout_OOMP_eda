@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fujitsh FTR B3S B3SA Relay J JLeg
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_Fujitsu_FTR-B3S.wrl
+
+
+
+[im]: image.png

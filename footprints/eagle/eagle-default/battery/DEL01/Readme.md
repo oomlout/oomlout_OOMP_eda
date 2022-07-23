@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-battery-DEL01
@@ -23,3 +24,7 @@ Contents
 - oompDesc: battery
 - oompIndex: DEL01
 - oompName: eagle-default/battery/DEL01
+
+
+
+[im]: image.png

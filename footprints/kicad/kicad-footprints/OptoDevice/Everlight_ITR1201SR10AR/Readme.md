@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR
@@ -27,3 +28,7 @@ Contents
 - kicadTags: reflective opto couple photo coupler
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR1201SR10AR.wrl
+
+
+
+[im]: image.png

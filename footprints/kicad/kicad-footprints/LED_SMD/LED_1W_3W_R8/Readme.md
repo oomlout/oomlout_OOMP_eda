@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1W_3W_R8
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED 1W 3W 5W
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1W_3W_R8.wrl
+
+
+
+[im]: image.png

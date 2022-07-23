@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: FB-BGA-484
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm.wrl
+
+
+
+[im]: image.png

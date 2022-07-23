@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-24_W15.24mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-24_W15.24mm.wrl
+
+
+
+[im]: image.png

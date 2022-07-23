@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Fuseholder horizontal open 6.3x32 Schurter 0031.8002
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open.wrl
+
+
+
+[im]: image.png

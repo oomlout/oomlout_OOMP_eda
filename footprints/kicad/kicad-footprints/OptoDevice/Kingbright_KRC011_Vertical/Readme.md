@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Vertical
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Subminiature Reflective Optical Sensor
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KRC011_Vertical.wrl
+
+
+
+[im]: image.png

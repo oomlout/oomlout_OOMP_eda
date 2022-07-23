@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Axial series Axial Horizontal pin pitch 32mm  length 23.37mm diameter 12.7mm Vishay IHA-203
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P32.00mm_Horizontal_Vishay_IHA-203.wrl
+
+
+
+[im]: image.png

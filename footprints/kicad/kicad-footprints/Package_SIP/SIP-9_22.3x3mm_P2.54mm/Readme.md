@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_22.3x3mm_P2.54mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SIP8
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-9_22.3x3mm_P2.54mm.wrl
+
+
+
+[im]: image.png

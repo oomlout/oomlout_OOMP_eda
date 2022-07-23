@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L12.6mm_W12.6mm_Px9.52mm_Py9.52mm_Pulse_LP-37
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor Radial series Radial pin pitch 9.52*9.52mm^2  length 12.57mm width 12.57mm Pulse LP-37
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L12.6mm_W12.6mm_Px9.52mm_Py9.52mm_Pulse_LP-37.wrl
+
+
+
+[im]: image.png

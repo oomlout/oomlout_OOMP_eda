@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Wuerth_691311400102_P7.62mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Wuerth_691311400102_P7.62mm.wrl
+
+
+
+[im]: image.png

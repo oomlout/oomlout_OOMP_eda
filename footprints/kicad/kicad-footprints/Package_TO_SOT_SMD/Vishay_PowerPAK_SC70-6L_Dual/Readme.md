@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Dual
@@ -27,3 +28,7 @@ Contents
 - kicadTags: powerpak sc70 sc-70 dual
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Dual.wrl
+
+
+
+[im]: image.png

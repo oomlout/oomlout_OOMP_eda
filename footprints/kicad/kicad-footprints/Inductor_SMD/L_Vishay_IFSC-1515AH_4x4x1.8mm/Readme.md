@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD Vishay Inductor Low Profile
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IFSC-1515AH_4x4x1.8mm.wrl
+
+
+
+[im]: image.png

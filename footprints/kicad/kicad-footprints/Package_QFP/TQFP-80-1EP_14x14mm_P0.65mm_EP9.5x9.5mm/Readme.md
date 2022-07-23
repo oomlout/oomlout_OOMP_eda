@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFP 0.65
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-80-1EP_14x14mm_P0.65mm_EP9.5x9.5mm.wrl
+
+
+
+[im]: image.png

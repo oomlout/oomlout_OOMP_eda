@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3
@@ -27,3 +28,7 @@ Contents
 - kicadTags: L_Toroid Vertical series Radial pin pitch 6.60mm  length 16.4mm width 7.6mm Vishay TJ3
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3.wrl
+
+
+
+[im]: image.png

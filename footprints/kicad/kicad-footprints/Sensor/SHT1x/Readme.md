@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SHT1x
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Temperature.3dshapes/SHT1x.wrl
+
+
+
+[im]: image.png

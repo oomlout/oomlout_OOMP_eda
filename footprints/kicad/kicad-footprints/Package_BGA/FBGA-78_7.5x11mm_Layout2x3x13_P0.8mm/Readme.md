@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: FBGA-78
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type1_CopperTop_Small
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Symbol, Highvoltage, Type 1, Copper Top, Small,
 - kicadTags: Symbol, Highvoltage, Type 1, Copper Top, Small,
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

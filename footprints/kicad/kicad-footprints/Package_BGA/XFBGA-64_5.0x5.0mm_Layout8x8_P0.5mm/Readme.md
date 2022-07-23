@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: XFBGA-64
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm.wrl
+
+
+
+[im]: image.png

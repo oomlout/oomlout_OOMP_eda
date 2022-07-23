@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_ADPS-9960
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN Sensor optical IR
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Avago_ADPS-9960.wrl
+
+
+
+[im]: image.png

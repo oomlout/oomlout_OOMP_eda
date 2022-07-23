@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_ESD-Logo-Text_CopperTop
@@ -24,3 +25,7 @@ Contents
 - oompIndex: Symbol_ESD-Logo-Text_CopperTop
 - oompName: kicad-footprints/Symbol/Symbol_ESD-Logo-Text_CopperTop
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

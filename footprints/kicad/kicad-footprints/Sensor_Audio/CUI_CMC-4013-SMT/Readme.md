@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-CUI_CMC-4013-SMT
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Microphone CUI
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/CUI_CMC-4013-SMT.wrl
+
+
+
+[im]: image.png

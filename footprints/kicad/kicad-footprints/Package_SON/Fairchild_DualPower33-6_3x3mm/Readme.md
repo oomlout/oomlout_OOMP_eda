@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: mosfet
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Fairchild_DualPower33-6_3x3mm.wrl
+
+
+
+[im]: image.png

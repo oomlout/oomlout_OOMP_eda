@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED Avago PLCC-6 ASMT-YTB7-0AA02
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC6_3x2.8mm.wrl
+
+
+
+[im]: image.png

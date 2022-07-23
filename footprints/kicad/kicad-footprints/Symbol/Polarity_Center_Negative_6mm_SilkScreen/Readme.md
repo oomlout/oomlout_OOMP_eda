@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_6mm_SilkScreen
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Polarity Logo, Center Negative
 - kicadTags: Logo Polarity Center Negative
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

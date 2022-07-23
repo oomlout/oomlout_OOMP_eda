@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 0ZRE BelFuse radial PTC
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0150FF_L23.4mm_W5.3mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 0.5 DSC0010J WSON
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-DSC0010J.wrl
+
+
+
+[im]: image.png

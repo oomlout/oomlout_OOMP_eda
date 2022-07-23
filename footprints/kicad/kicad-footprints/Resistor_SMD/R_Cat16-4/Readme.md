@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Cat16-4
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMT resistor net Bourns CAT16 series 4 way
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Cat16-4.wrl
+
+
+
+[im]: image.png

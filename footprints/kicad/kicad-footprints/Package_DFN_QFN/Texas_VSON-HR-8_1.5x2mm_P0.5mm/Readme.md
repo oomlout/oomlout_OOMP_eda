@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_VSON-HR-8_1.5x2mm_P0.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas VSON-HR NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VSON-HR-8_1.5x2mm_P0.5mm.wrl
+
+
+
+[im]: image.png

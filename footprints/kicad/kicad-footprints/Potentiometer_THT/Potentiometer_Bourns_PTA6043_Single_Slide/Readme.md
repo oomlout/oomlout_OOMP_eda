@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA6043_Single_Slide
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Bourns single-gang slide potentiometer 60.0mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA6043_Single_Slide.wrl
+
+
+
+[im]: image.png

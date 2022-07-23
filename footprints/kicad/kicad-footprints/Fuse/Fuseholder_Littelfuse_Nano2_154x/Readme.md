@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_Nano2_154x
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SMD Nano2 holder
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_154x.wrl
+
+
+
+[im]: image.png

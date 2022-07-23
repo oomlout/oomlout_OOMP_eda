@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Mounting Hole 5mm, no annular
 - kicadTags: mounting hole 5mm no annular
 - kicadAttr: exclude_from_pos_files exclude_from_bom
+
+
+
+[im]: image.png

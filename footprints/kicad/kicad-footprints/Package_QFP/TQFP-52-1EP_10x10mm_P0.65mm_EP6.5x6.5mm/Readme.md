@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: TQFP QFP
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm.wrl
+
+
+
+[im]: image.png

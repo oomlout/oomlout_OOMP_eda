@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L26.0mm_W5.0mm_P20.00mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Resistor Box series Radial pin pitch 20.00mm 10W length 26.0mm width 5.0mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Box_L26.0mm_W5.0mm_P20.00mm.wrl
+
+
+
+[im]: image.png

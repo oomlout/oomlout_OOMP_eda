@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x
@@ -27,3 +28,7 @@ Contents
 - kicadTags: transformer flyback SMPS
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Myrra_EF20_no_pin3.wrl
+
+
+
+[im]: image.png

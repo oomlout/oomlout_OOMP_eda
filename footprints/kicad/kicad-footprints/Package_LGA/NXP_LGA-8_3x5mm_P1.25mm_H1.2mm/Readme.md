@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.2mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: NXP LGA NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CAST-3Pin
@@ -27,3 +28,7 @@ Contents
 - kicadTags: IRReceiverVishayTSOP-xxxx CAST
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_CAST-3Pin.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DQK
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Texas WSON6 2x2mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DQK.wrl
+
+
+
+[im]: image.png

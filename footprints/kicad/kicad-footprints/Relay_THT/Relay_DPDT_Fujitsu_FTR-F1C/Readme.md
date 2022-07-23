@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Fujitsu_FTR-F1C
@@ -27,3 +28,7 @@ Contents
 - kicadTags: relay dpdt fujitsu tht
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Fujitsu_FTR-F1C.wrl
+
+
+
+[im]: image.png

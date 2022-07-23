@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FBG676
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 676 1 FB676 FBG676 FBV676
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FBG676.wrl
+
+
+
+[im]: image.png

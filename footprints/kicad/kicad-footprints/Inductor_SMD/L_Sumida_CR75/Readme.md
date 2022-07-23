@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CR75
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor SMD CR75 Unshielded
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CR75.wrl
+
+
+
+[im]: image.png

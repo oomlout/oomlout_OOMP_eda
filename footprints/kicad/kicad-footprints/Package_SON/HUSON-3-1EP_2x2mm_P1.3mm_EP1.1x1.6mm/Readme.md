@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: huson nolead SOT1061
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm.wrl
+
+
+
+[im]: image.png

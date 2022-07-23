@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: QFN NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm.wrl
+
+
+
+[im]: image.png

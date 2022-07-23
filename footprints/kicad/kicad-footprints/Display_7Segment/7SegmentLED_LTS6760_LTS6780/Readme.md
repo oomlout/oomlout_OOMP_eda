@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 7Segment LED LTS6760 LTS6780
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl
+
+
+
+[im]: image.png

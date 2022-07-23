@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D
@@ -27,3 +28,7 @@ Contents
 - kicadTags: display oled
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display.3dshapes/OLED-128O064D.wrl
+
+
+
+[im]: image.png

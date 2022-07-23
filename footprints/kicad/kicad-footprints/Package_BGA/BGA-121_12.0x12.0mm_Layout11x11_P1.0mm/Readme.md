@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-121
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-121_12.0x12.0mm_Layout11x11_P1.0mm.wrl
+
+
+
+[im]: image.png

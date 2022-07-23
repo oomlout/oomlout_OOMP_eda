@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE119-XX-XX
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 4 digit 7 segment LCD
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DE119-XX-XX.wrl
+
+
+
+[im]: image.png

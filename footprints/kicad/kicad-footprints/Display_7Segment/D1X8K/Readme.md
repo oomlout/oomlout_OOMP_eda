@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Single digit 7 segment ultra bright red
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/D1X8K.wrl
+
+
+
+[im]: image.png

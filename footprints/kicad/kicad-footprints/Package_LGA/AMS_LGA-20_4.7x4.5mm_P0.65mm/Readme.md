@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: AMS LGA
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-20_4.7x4.5mm_P0.65mm.wrl
+
+
+
+[im]: image.png

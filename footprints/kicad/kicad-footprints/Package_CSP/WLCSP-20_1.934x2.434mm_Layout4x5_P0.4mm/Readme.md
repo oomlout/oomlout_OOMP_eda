@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA 20 0.4
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm.wrl
+
+
+
+[im]: image.png

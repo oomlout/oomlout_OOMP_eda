@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-32_W7.62mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DIL DIP PDIP 2.54mm 7.62mm 300mil
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-32_W7.62mm.wrl
+
+
+
+[im]: image.png

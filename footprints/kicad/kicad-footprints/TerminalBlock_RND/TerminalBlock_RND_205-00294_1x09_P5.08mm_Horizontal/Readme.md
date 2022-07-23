@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_RND-TerminalBlock_RND_205-00294_1x09_P5.08mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT terminal block RND 205-00294 pitch 5.08mm size 45.7x10.6mm^2 drill 1.3mm pad 2.5mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00294_1x09_P5.08mm_Horizontal.wrl
+
+
+
+[im]: image.png

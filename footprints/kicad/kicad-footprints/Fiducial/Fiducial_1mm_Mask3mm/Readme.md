@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_1mm_Mask3mm
@@ -26,3 +27,7 @@ Contents
 - kicadDesc: Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
 - kicadTags: fiducial
 - kicadAttr: smd
+
+
+
+[im]: image.png

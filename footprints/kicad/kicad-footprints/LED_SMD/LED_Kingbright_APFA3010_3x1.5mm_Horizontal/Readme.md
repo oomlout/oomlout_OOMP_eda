@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APFA3010_3x1.5mm_Horizontal
@@ -27,3 +28,7 @@ Contents
 - kicadTags: LED RGB APFA3010 KINGBRIGHT 3x1.5mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APFA3010_3x1.5mm_Horizontal.wrl
+
+
+
+[im]: image.png

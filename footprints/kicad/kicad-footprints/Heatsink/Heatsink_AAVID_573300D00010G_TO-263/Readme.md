@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_573300D00010G_TO-263
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Heatsink AAVID TO-263 D2 Pak
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_573300D00010G_TO-263.wrl
+
+
+
+[im]: image.png

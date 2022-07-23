@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-allegro-SLA7052MLF872
@@ -23,3 +24,7 @@ Contents
 - oompDesc: allegro
 - oompIndex: SLA7052MLF872
 - oompName: eagle-default/allegro/SLA7052MLF872
+
+
+
+[im]: image.png

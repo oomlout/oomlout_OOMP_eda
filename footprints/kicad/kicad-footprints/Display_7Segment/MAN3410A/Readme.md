@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3410A
@@ -27,3 +28,7 @@ Contents
 - kicadTags: One digit 7 segment green LED with dot
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3410A.wrl
+
+
+
+[im]: image.png

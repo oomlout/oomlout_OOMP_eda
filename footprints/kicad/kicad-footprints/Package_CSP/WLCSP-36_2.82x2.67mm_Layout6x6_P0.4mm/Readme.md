@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: WLCSP-36
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm.wrl
+
+
+
+[im]: image.png

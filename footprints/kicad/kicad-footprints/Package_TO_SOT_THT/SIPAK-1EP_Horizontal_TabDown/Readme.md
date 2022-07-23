@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK-1EP_Horizontal_TabDown
@@ -27,3 +28,7 @@ Contents
 - kicadTags: SIPAK Horizontal RM 2.286mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK-1EP_Horizontal_TabDown.wrl
+
+
+
+[im]: image.png

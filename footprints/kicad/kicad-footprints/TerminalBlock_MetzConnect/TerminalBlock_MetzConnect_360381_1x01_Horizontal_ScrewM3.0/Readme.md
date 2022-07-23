@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT single screw terminal block Metz Connect 360381 size 5x5mm^2 drill 1.5mm pad 3mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0.wrl
+
+
+
+[im]: image.png

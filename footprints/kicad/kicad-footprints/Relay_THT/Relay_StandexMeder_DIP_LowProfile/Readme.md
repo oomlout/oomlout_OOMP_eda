@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_DIP_LowProfile
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_DIP_LowProfile.wrl
+
+
+
+[im]: image.png

@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Humidity-Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: sensirion dfn nolead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl
+
+
+
+[im]: image.png

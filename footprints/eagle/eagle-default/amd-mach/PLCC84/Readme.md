@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-PLCC84
@@ -23,3 +24,7 @@ Contents
 - oompDesc: amd-mach
 - oompIndex: PLCC84
 - oompName: eagle-default/amd-mach/PLCC84
+
+
+
+[im]: image.png

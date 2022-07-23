@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_DEM35xxC
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Inductor SMD DEM35xxC
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Murata_DEM35xxC.wrl
+
+
+
+[im]: image.png

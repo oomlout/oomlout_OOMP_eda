@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3630A
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Overflow +- 1 orange LED
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3630A.wrl
+
+
+
+[im]: image.png

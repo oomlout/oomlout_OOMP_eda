@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HAM0431A
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Neosid Air-Coil SML 4turn HAM0431A
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_4turn_HAM0431A.wrl
+
+
+
+[im]: image.png

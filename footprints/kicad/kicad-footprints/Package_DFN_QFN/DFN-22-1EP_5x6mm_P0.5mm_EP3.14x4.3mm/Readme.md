@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: DFN 0.5
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm.wrl
+
+
+
+[im]: image.png

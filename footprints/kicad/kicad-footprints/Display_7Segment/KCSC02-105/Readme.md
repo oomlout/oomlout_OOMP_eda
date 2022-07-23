@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-105
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Single digit 7 segement hyper red LED
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/KCSC02-105.wrl
+
+
+
+[im]: image.png

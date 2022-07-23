@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: VSON 10 Thermal on 11 3x3mm Pitch 0.5mm
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl
+
+
+
+[im]: image.png

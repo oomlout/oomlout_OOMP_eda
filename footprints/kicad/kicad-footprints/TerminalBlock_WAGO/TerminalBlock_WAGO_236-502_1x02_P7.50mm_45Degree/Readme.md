@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_WAGO-TerminalBlock_WAGO_236-502_1x02_P7.50mm_45Degree
@@ -27,3 +28,7 @@ Contents
 - kicadTags: THT Terminal Block WAGO 236-502 45Degree pitch 7.5mm size 17.3x14mm^2 drill 1.15mm pad 3mm
 - kicadAttr: through_hole
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_236-502_1x02_P7.50mm_45Degree.wrl
+
+
+
+[im]: image.png

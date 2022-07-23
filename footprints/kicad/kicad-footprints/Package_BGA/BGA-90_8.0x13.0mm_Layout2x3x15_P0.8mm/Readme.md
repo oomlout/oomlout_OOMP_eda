@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: BGA-90
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl
+
+
+
+[im]: image.png

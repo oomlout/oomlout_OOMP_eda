@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm
@@ -27,3 +28,7 @@ Contents
 - kicadTags: Silicon_Labs LGA NoLead
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm.wrl
+
+
+
+[im]: image.png

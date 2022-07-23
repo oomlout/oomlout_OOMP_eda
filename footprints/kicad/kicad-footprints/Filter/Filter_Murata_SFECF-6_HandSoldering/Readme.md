@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6_HandSoldering
@@ -27,3 +28,7 @@ Contents
 - kicadTags: 10.7MHz smd ceramic
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl
+
+
+
+[im]: image.png

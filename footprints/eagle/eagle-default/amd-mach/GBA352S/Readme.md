@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S
@@ -23,3 +24,7 @@ Contents
 - oompDesc: amd-mach
 - oompIndex: GBA352S
 - oompName: eagle-default/amd-mach/GBA352S
+
+
+
+[im]: image.png

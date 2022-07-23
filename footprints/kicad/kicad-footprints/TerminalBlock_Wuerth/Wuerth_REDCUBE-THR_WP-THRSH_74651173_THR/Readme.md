@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRSH_74651173_THR
@@ -27,3 +28,7 @@ Contents
 - kicadTags: screw terminal thread redcube thr power connector
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRSH_74651173_THR.wrl
+
+
+
+[im]: image.png

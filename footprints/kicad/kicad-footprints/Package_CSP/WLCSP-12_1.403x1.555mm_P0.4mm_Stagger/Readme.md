@@ -7,7 +7,8 @@ Contents
 
 * [](#)
 	* [Tags](#tags)
-
+  
+![][im]
 # 
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
@@ -27,3 +28,7 @@ Contents
 - kicadTags: CSP 12 0.2x0.346333
 - kicadAttr: smd
 - kicad3DModel: ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-12_1.403x1.555mm_P0.4mm_Stagger.wrl
+
+
+
+[im]: image.png
